@@ -4,10 +4,10 @@
  "url": "https://www.wowhead.com/news=383550",
  "title_en": "Patch 12.1.7 PTR Development Notes - Various Bug Fixes",
  "category": "PTR",
- "published_at": "2026-10-22T23:04:49Z",
+ "published_at": "2026-10-25T20:43:39Z",
  "fetched_at": "2026-10-25T06:28:53Z",
  "source_mode": "full",
- "status": "new",
+ "status": "published",
  "qa_facts": {
   "numbers": [
    "12.1.7"
@@ -55,5 +55,24 @@
    "with"
   ],
   "chars": 411
+ },
+ "article_fa": {
+  "title_fa": "یادداشت‌های توسعه PTR پچ ۱۲.۱.۷",
+  "lead_fa": "این هفته یادداشت‌های توسعه PTR پچ ۱۲.۱.۷ منتشر شد و فقط به رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه اشاره دارد.",
+  "body_fa": [
+   "پچ ۱۲.۱.۷ هفته گذشته به همراه PTR پیش‌نمایش خود را دریافت کرد.",
+   "این هفته PTR با رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه به‌روزرسانی شده است.",
+   "یادداشت‌های توسعه این هفته فقط شامل یک خط در این مورد است."
+  ],
+  "tags_fa": [
+   "PTR",
+   "12.1.7",
+   "Midnight"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-25T20:43:39Z"
  }
 }

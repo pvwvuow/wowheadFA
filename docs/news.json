@@ -1,8 +1,55 @@
 {
- "generated": "2026-10-25T20:23:10Z",
+ "generated": "2026-10-25T20:46:08Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383546,
+   "slug": "blizzard-teases-raid-philosophy-and-encounters-for-wow-forever",
+   "title_fa": "جزئیات فلسفه طراحی ریدها و باس‌های WoW: Forever",
+   "lead_fa": "توسعه‌دهندگان بلیزارد در پادکست اخیر خود به بررسی رویکرد طراحی محتوای PvE و میزان سختی ریدها در WoW: Forever پرداختند.",
+   "body_fa": [
+    "مایکل نوتالز (Michael Nuthals)، طراح ارشد انکانترها، در پادکست جدید Blizzard نحوه متعادل‌سازی سختی نبردها و دسترسی‌پذیری آن‌ها را شرح داد. به گفته او، هدف تیم این است که بازیکنان حس راحتی در همراه آوردن دوستانشان داشته باشند؛ فضایی که او آن را به همراهی با تنقلات و نوشیدنی تشبیه می‌کند تا در صورت آمادگی گروه، چالش پشت سر گذاشته شود و پاداش‌هایی به دست آید.",
+    "نوتالز بر اهمیت ایجاد تعادل در پیچیدگی مکانیک‌ها تأکید کرد. تیم توسعه با اتکا به بررسی‌های تیم QA، بازخورد تسترها را دریافت می‌کند تا از مکانیک‌های خسته‌کننده یا اضافه کردن پیچیدگی‌های بیش از حد و چالش افراطی جلوگیری کند. در عین حال، هماهنگی میان اعضای گروه چه از طریق چت صوتی و چه با استفاده از سیستم ping و هشدارهای داخل بازی همچنان برای موفقیت الزامی خواهد بود.",
+    "این طراح ارشد همچنین به چند نمونه از نبردهای مورد علاقه خود در تایر اول ریدهای ۱۰ و ۲۰ نفره اشاره کرد؛ از جمله انکانتری در Barrow Deeps که نیازمند مدیریت یک buff برای افزایش damage در ازای پرداخت هزینه‌ای مشخص است، باسی متشکل از دو عنکبوت، و یک باس crocalisk نامرده در Hyjal Summit که موجود تسخیرکننده آن بیرون می‌آید و جریان نبرد میان این دو فاز در رفت‌وآمد خواهد بود.",
+    "در پایان، نوتالز به محتوای اینستنس آینده اشاره کرد و از سازه‌ای شبیه به خانه یا عمارت نام برد؛ موضوعی که احتمالاً به نسخه بازطراحی‌شده Manor Mistmantle که بازیکنان در منطقه Duskwood پیدا کرده‌اند اشاره دارد."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "رید",
+    "بلیزارد"
+   ],
+   "title_en": "Blizzard Teases Raid Philosophy and Encounters for WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383546",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383546-blizzard-teases-raid-philosophy-and-encounters-for-wow-forever.html",
+   "published_at": "2026-10-25T20:45:48Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "grok-4.20-0309-non-reasoning"
+  },
+  {
+   "id": 383550,
+   "slug": "patch-12-1-7-ptr-development-notes-various-bug-fixes",
+   "title_fa": "یادداشت‌های توسعه PTR پچ ۱۲.۱.۷",
+   "lead_fa": "این هفته یادداشت‌های توسعه PTR پچ ۱۲.۱.۷ منتشر شد و فقط به رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه اشاره دارد.",
+   "body_fa": [
+    "پچ ۱۲.۱.۷ هفته گذشته به همراه PTR پیش‌نمایش خود را دریافت کرد.",
+    "این هفته PTR با رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه به‌روزرسانی شده است.",
+    "یادداشت‌های توسعه این هفته فقط شامل یک خط در این مورد است."
+   ],
+   "tags_fa": [
+    "PTR",
+    "12.1.7",
+    "Midnight"
+   ],
+   "title_en": "Patch 12.1.7 PTR Development Notes - Various Bug Fixes",
+   "source_url": "https://www.wowhead.com/news=383550",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383550-patch-12-1-7-ptr-development-notes-various-bug-fixes.html",
+   "published_at": "2026-10-25T20:43:39Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383557,
    "slug": "get-your-wow-forever-beta-stats",
@@ -333,20 +380,6 @@
    "url": "https://www.wowhead.com/news=383552",
    "category": "Live",
    "published_at": "2026-10-23T02:19:48Z"
-  },
-  {
-   "id": 383550,
-   "title_en": "Patch 12.1.7 PTR Development Notes - Various Bug Fixes",
-   "url": "https://www.wowhead.com/news=383550",
-   "category": "PTR",
-   "published_at": "2026-10-22T23:04:49Z"
-  },
-  {
-   "id": 383546,
-   "title_en": "Blizzard Teases Raid Philosophy and Encounters for WoW: Forever",
-   "url": "https://www.wowhead.com/news=383546",
-   "category": "Forever",
-   "published_at": "2026-10-22T20:38:25Z"
   },
   {
    "id": 383548,
