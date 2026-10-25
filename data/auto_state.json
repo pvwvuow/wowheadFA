@@ -31,8 +31,23 @@
    "reason": "«focused work on priority issues and the game service itself» کپی ساختار جمله انگلیسی است. | «در ۲۷ اکتبر سیستم character creation باز می‌شود» کپی ساختار جمله انگلیسی است. | «بازیکنان فرصت خواهند داشت ruleset مورد نظر خود را انتخاب کنند و نامی مناسب برای شخصیت‌شان رزرو کنند» کپی ساختار جمله انگلیسی است.",
    "at": "2026-10-25T17:28:33Z",
    "at_ts": 1792949313.889931
+  },
+  "383557": {
+   "reason": "«بتای WoW: Forever ساعت ۱۰:۰۰ AM PDT امروز به پایان می‌رسد» — source says the WoW: Forever Beta ends at 10:00 AM PDT today, but the article invents the phrasing «بتای WoW: Forever» as the subject and drops the exact «WoW: Forever Beta» name used in the source. | «Blizzard ویژگی Timewalkling را منتشر کرده» — source does not say Blizzard «منتشر کرده» (released/published) the feature; it says Blizzar",
+   "at": "2026-10-25T17:49:06Z",
+   "at_ts": 1792950546.719452
+  },
+  "383523": {
+   "reason": "«Baroness» Llana که قبلاً Arena Organizer در Wrath of the Lich King بود، حالا Alterac Valley Battlemaster در نسخه Forever است. → source says \"Baroness\" Llana (with quotes) was the Arena Organizer and is now the Alterac Valley Battlemaster; the article drops the quotes and adds \"در نسخه Forever است\" which is not stated that way. | یکی از تغییرات مهم، حذف پورتال دالاران از Stormwind City برای High O",
+   "at": "2026-10-25T17:49:22Z",
+   "at_ts": 1792950562.177161
+  },
+  "383529": {
+   "reason": "«راه خوبی برای به دست آوردن tier slot pieces و unlock Midnight Season 2: Catalyst Unbound» ادعای اضافی است؛ منبع فقط می‌گوید این راه عالی برای fishing tier slot pieces به منظور گرفتن 4-set و unlock آن است، نه اینکه مستقیماً unlock کند. | «صندوق‌ها» (جمع) در lead_fa و body_fa ادعای اختراعی است؛ منبع فقط از یک chest صحبت می‌کند و می‌گوید chests (به صورت کلی) قابل ارسال هستند، نه اینکه Agmera چندین ص",
+   "at": "2026-10-25T17:49:32Z",
+   "at_ts": 1792950572.679256
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-25T17:28:33Z"
+ "updated_at": "2026-10-25T17:49:32Z"
 }
