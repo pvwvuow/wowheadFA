@@ -69,20 +69,6 @@ jobs:
               echo "NEWS_PING_TOKEN not set — wow falls back to its own schedule"
             fi
           fi
-      - name: Keep the 20-minute loop alive (sleep 20m, then repository_dispatch)
-        if: ${{ !cancelled() }}
-        timeout-minutes: 26
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          sleep 1200
-          code=$(curl -sS -o /tmp/loop.json -w "%{http_code}" -X POST \
-            -H "Authorization: Bearer $GH_TOKEN" \
-            -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/${{ github.repository }}/dispatches" \
-            -d '{"event_type":"fetch-loop"}')
-          echo "self-dispatch fetch-loop: HTTP $code"
-          cat /tmp/loop.json
 
   # ------------------------------------------------------------------
   # Auto-publish: Grok writes a Persian article for every queue item,
@@ -143,3 +129,28 @@ jobs:
               fi
             fi
           fi
+
+  # Keep the 20-minute chain alive: after EVERY outcome (cancel excluded)
+  # sleep 20 min and fire repository_dispatch "fetch-loop" at ourselves
+  # using the workflow's own GITHUB_TOKEN (allowed for repository_dispatch).
+  # Lives in its OWN job so it never delays fetch or auto-publish; the
+  # */20 schedule stays as a fallback (re-seed = one manual dispatch).
+  keepalive:
+    needs: [fetch, auto-publish]
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 26
+    steps:
+      - name: Sleep 20m, then self-dispatch fetch-loop
+        timeout-minutes: 24
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 1200
+          code=$(curl -sS -o /tmp/loop.json -w "%{http_code}" -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/dispatches" \
+            -d '{"event_type":"fetch-loop"}')
+          echo "self-dispatch fetch-loop: HTTP $code"
+          cat /tmp/loop.json
