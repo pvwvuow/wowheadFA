@@ -83,3 +83,63 @@ jobs:
             -d '{"event_type":"fetch-loop"}')
           echo "self-dispatch fetch-loop: HTTP $code"
           cat /tmp/loop.json
+
+  # ------------------------------------------------------------------
+  # Auto-publish: Grok writes a Persian article for every queue item,
+  # a second reviewer call + deterministic gates verify it against the
+  # source, one rewrite is allowed, then it publishes instantly.
+  # Rejected items stay in the queue silently (Job Summary only).
+  # Config: secret XAI_API_KEY + variables XAI_MODEL / MAX_PER_RUN /
+  # MAX_PER_DAY / AUTO_PUBLISH (all optional with safe defaults).
+  # ------------------------------------------------------------------
+  auto-publish:
+    needs: fetch
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Write + review + publish queue items (Grok)
+        id: auto
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          XAI_MODEL: ${{ vars.XAI_MODEL }}
+          MAX_PER_RUN: ${{ vars.MAX_PER_RUN }}
+          MAX_PER_DAY: ${{ vars.MAX_PER_DAY }}
+          AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH }}
+        run: python tools/auto_publish.py
+      - name: Commit published articles + state, rebuild site, ping wow
+        env:
+          NEWS_PING_TOKEN: ${{ secrets.NEWS_PING_TOKEN }}
+          PUBLISHED: ${{ steps.auto.outputs.published }}
+        run: |
+          git config user.name "wowfarsi-bot"
+          git config user.email "action@github.com"
+          git add data/articles data/auto_state.json
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            python tools/build_site.py
+            git add docs
+            if ! git diff --cached --quiet; then
+              git commit -m "auto-publish: $(date -u +%FT%TZ)"
+              git push
+            fi
+            if [ "${PUBLISHED:-0}" -gt 0 ] 2>/dev/null; then
+              git pull --rebase -q || true
+              if [ -n "$NEWS_PING_TOKEN" ]; then
+                code=$(curl -sS -o /tmp/ping.json -w "%{http_code}" -X POST \
+                  -H "Authorization: Bearer $NEWS_PING_TOKEN" \
+                  -H "Accept: application/vnd.github+json" \
+                  https://api.github.com/repos/pvwvuow/wow/dispatches \
+                  -d '{"event_type":"news-updated"}')
+                echo "ping pvwvuow/wow build-news: HTTP $code"
+                cat /tmp/ping.json
+              else
+                echo "NEWS_PING_TOKEN not set — wow falls back to its own schedule"
+              fi
+            fi
+          fi

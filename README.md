@@ -8,6 +8,11 @@
 ```
 Wowhead RSS ──▶ data/articles/*.json (status=new)
                     │
+                    ├─▶ ⓪ انتشار خودکار (Grok): tools/auto_publish.py
+                    │      نوشتن + بازبین دومرحله‌ای + گیت‌های QA
+                    │      (سِکرِت XAI_API_KEY + متغیرهای XAI_MODEL /
+                    │       MAX_PER_RUN / MAX_PER_DAY / AUTO_PUBLISH)
+                    │
                     ▼  مترجم/نویسنده با API خودش (BYOK)
         ① وب: https://pvwvuow.github.io/wow/news-translate.html
            (لینک بده + کلید API خودت → پیش‌نویس → Issue → انتشار خودکار)
@@ -16,6 +21,30 @@ Wowhead RSS ──▶ data/articles/*.json (status=new)
                     ▼  گیت‌های QA خودکار (tools/qa_check.py)
              pass ──▶ status=published ──▶ docs/ ──▶ Pages
 ```
+
+## انتشار خودکار (Grok)
+
+بعد از هر fetch، برای هر خبرِ صف که مقاله ندارد (به‌جز پادکست/ویدیو/بدون
+متن) مدل **Grok** متن منبع را سمت سرور می‌خواند و مقالهٔ اورجینال فارسی
+می‌نویسد؛ یک فراخوانی **بازبینِ جدا** (فقط خروجی JSON `{ok, problems}`)
+هر ادعا/عدد/اسم/تاریخ را با منبع می‌سنجد و ترجمهٔ تحت‌اللفظی را رد می‌کند؛
+سپس گیت‌های `qa_check` + چک قطعی «هر عدد در منبع باشد» اجرا می‌شود.
+اگر بازبین problem بدهد یک بار بازنویسی می‌شود؛ ردِ دوم یعنی خبر در صف
+می‌ماند (بی‌صدا، فقط در Job Summary، بدون Issue). همهٔ موارد پاس →
+منتشر، build_site و پینگ سایت اصلی.
+
+تنظیمات (Settings → Secrets and variables → Actions):
+
+| نام | نوع | پیش‌فرض | نقش |
+|---|---|---|---|
+| `XAI_API_KEY` | Secret | — | کلید xAI (هرگز لاگ نمی‌شود) |
+| `XAI_MODEL` | Variable | — | شناسهٔ مدل Grok (مثل `grok-4-fast`) |
+| `MAX_PER_RUN` | Variable | `3` | سقف پردازش در هر اجرا |
+| `MAX_PER_DAY` | Variable | `15` | سقف انتشار در شبانه‌روز UTC |
+| `AUTO_PUBLISH` | Variable | `on` | `off` = فقط fetch، بدون انتشار |
+
+متن منبع داده است نه دستور؛ مدل هیچ ابزار/دسترسی شبکه‌ای ندارد و کلید
+فقط در هدر Authorization می‌رود.
 
 ## جریان وب (برای همهٔ مترجم‌ها)
 
@@ -39,10 +68,12 @@ API داده برای سایت اصلی: `https://pvwvuow.github.io/wowheadFA/ne
 |---|---|
 | `tools/fetch_news.py` | پولر RSS واوهد (هر ۲۰ دقیقه با Actions) + دریافت تکی با `--url` |
 | `tools/write_article.py` | نویسندهٔ هوشمند BYOK — پرامپت ما + مدل دلخواه شما |
+| `tools/auto_publish.py` | انتشار خودکار با Grok + بازبین دومرحله‌ای + سقف‌ها |
 | `tools/publish_from_issue.py` | انتشار خودکار از Issue مترجم وب + اجرای گیت‌ها |
 | `tools/qa_check.py` | گیت‌های سخت‌گیرانهٔ کیفیت (تایپوگرافی، اعداد، اسم‌ها، بازنویسی) |
 | `tools/build_site.py` | ساخت سایت استاتیک فارسی RTL + SEO + `news.json` در `docs/` |
 | `config/prompt.md` | قواعد سرِمقاله‌نویسی ما (system prompt) |
+| `config/review_prompt.md` | پرامپت بازبین مستقل (خروجی JSON `{ok, problems}`) |
 | `config/site.json` | برندینگ، دیس‌کلیمر، آدرس پایه |
 
 ## قواعد محتوا

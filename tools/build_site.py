@@ -113,8 +113,12 @@ def article_page(art):
     gen = art.get("generator", {})
     genline = ""
     if gen.get("model"):
-        genline = (f"<span>نگارش با دستیار هوشمند ({esc(gen['model'])}) "
-                   f"+ ویرایش انسانی</span>")
+        if gen.get("via") == "auto-grok":
+            genline = (f"<span>نگارش و بازبینی خودکار با "
+                       f"{esc(gen['model'])}</span>")
+        else:
+            genline = (f"<span>نگارش با دستیار هوشمند ({esc(gen['model'])}) "
+                       f"+ ویرایش انسانی</span>")
     body = f"""
 <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
   <h1 itemprop="headline">{esc(a['title_fa'])}</h1>
@@ -217,6 +221,7 @@ def main():
             "page_url": f"{BASE}/article/{art['id']}-{art['slug']}.html",
             "published_at": art.get("published_at", ""),
             "model": (art.get("generator") or {}).get("model", ""),
+            "via": (art.get("generator") or {}).get("via", ""),
         }
 
     queue = []
