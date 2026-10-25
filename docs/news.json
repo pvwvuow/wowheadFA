@@ -1,8 +1,58 @@
 {
- "generated": "2026-10-25T19:38:49Z",
+ "generated": "2026-10-25T20:02:07Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383557,
+   "slug": "get-your-wow-forever-beta-stats",
+   "title_fa": "امکان مشاهده و اشتراک‌گذاری آمار دوره WoW: Forever Beta فراهم شد",
+   "lead_fa": "هم‌زمان با پایان دوره آزمایشی WoW: Forever Beta، بازیکنان می‌توانند خلاصه آمار عملکرد و فعالیت‌های خود را مرور کرده و به اشتراک بگذارند.",
+   "body_fa": [
+    "دوره آزمایشی WoW: Forever Beta امروز در ساعت 10:00 به وقت PDT به پایان می‌رسد. در همین راستا، Blizzard قابلیت جدیدی را در دسترس قرار داده است که جزئیات و آمارهای گوناگونی از ماجراجویی‌های بازیکنان را در این مدت گردآوری کرده است.",
+    "این ابزار اطلاعات متفاوتی را پوشش می‌دهد؛ از تعداد ساعاتی که درون بازی صرف کرده‌اید گرفته تا موبی که بیش از همه باعث مرگ شما شده و تعداد دفعاتی که کاراکتر شما پریده است.",
+    "علاوه بر مشاهده آمار، بخشی نیز در پایین صفحه برای شخصی‌سازی تعبیه شده است. بازیکنان می‌توانند آمارهای دلخواه خود را گزینش کرده، تصویری سفارشی از دستاوردهایشان بسازند و آن را برای دوستان خود ارسال کنند."
+   ],
+   "tags_fa": [
+    "بتا",
+    "Forever",
+    "Blizzard"
+   ],
+   "title_en": "Get Your WoW: Forever Beta Stats",
+   "source_url": "https://www.wowhead.com/news=383557",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383557-get-your-wow-forever-beta-stats.html",
+   "published_at": "2026-10-25T20:01:46Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "grok-4.20-0309-non-reasoning"
+  },
+  {
+   "id": 383560,
+   "slug": "blizzard-thanks-players-for-testing-the-wow-forever-beta",
+   "title_fa": "بلیتزر از بازیکنان بتای WoW Forever قدردانی کرد",
+   "lead_fa": "بلیتزر با انتشار پیامی از بازیکنان برای شرکت در بتای WoW Forever تشکر کرده و جزئیاتی از مراحل پیش از انتشار در ۴ نوامبر را اعلام کرد.",
+   "body_fa": [
+    "بتای WoW Forever اکنون به طور رسمی به پایان رسیده است و بلیتزر از همه کسانی که طی پنج هفته گذشته در تست بازی، جمع‌آوری داده، گزارش باگ و ارائه بازخورد شرکت کردند قدردانی کرده است.",
+    "تیم اکنون بر رفع مسائل اولویت‌دار و بهبود سرویس بازی تمرکز خواهد کرد تا برای launch day on November 4 آماده باشد.",
+    "بلیتزر اعلام کرده که سرویس Name Reservation در ۲۷ اکتبر فعال می‌شود و به بازیکنان فرصت می‌دهد تا ruleset مورد نظر خود را انتخاب کنند و نام مناسب شخصیت‌شان را رزرو کنند.",
+    "در ادامه، تیم به فعالیت خود با WoW Forever Podcast خواهد پرداخت و توصیه کرده که علاقه‌مندان قسمت‌های منتشرشده را دنبال کنند.",
+    "پادکست شامل پنج قسمت است: Episode 1 - Unpacking Beta Launch ft. @Xaryu، Episode 2 - Speed Running Classes ft. @sodapoppin، Episode 3 - Dive Into Dungeons With Devs ft. @Hammerdancegaming، Episode 4 - The PvP Episode ft. @TipsOutBaby & @Savixirl و Episode 5 - End of Beta Special.",
+    "بلیتزر بار دیگر از جامعه‌ای که در طول بتا شکل گرفته تشکر کرده و ابراز امیدواری کرده که بازیکنان را در ۴ نوامبر ملاقات کند."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "بتا",
+    "پادکست",
+    "Name Reservation"
+   ],
+   "title_en": "Blizzard Thanks Players for Testing the WoW Forever Beta",
+   "source_url": "https://www.wowhead.com/news=383560",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383560-blizzard-thanks-players-for-testing-the-wow-forever-beta.html",
+   "published_at": "2026-10-25T19:59:21Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383558,
    "slug": "watch-the-world-of-warcraft-midnight-motion-comic-singularity",
@@ -248,20 +298,6 @@
    "url": "https://www.wowhead.com/news=383561",
    "category": "WoW",
    "published_at": "2026-10-23T17:25:01Z"
-  },
-  {
-   "id": 383560,
-   "title_en": "Blizzard Thanks Players for Testing the WoW Forever Beta",
-   "url": "https://www.wowhead.com/news=383560",
-   "category": "Forever",
-   "published_at": "2026-10-23T17:12:50Z"
-  },
-  {
-   "id": 383557,
-   "title_en": "Get Your WoW: Forever Beta Stats",
-   "url": "https://www.wowhead.com/news=383557",
-   "category": "Forever",
-   "published_at": "2026-10-23T16:35:49Z"
   },
   {
    "id": 383523,

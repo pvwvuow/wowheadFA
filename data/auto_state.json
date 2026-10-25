@@ -1,6 +1,6 @@
 {
  "day": "2026-10-25",
- "published_today": 1,
+ "published_today": 3,
  "held": {
   "383516": {
    "reason": "«چهار پاداش جدید Lorewalking را به همراه کتاب‌های lore related to them به عنوان decor قابل خواندن معرفی می‌کند» — منبع می‌گوید هر کدام یک lore book related to them به عنوان decor پاداش می‌دهند، نه اینکه چهار پاداش جدید را «به همراه» کتاب‌ها معرفی کند. | «decor rewards قبلی در پچ  | fallback هم رد شد: «چهار داستان جدید Lorewalking در دسترس قرار می‌گیرد» — منبع فقط می‌گوید «Four new Lorewalk",
@@ -31,10 +31,15 @@
    "reason": "«در ۹ دسامبر» و «سه raid سطح ۶۰ ... در ۹ دسامبر در انتظار بازیکنان سطح ۶۰ هستند» — منبع می‌گوید On December 9، اما این جمله آن را به صورت قطعی و بدون ذکر سطح ۶۰ برای همه raids یا ساختار جمله‌ای که ممکن است به اشتباه برداشت شود، ارائه می‌دهد؛ منبع دقیقاً «On December 9, level 60 players can ... in three raids» است. | «داستان توسط AndWorld Design نوشته شده است» — منبع فقط «Letters : AndWorld Design»",
    "at": "2026-10-25T19:38:48Z",
    "at_ts": 1792957128.894523
+  },
+  "383523": {
+   "reason": "«High Order Skyborne» در مقاله وجود ندارد؛ منبع فقط می‌گوید «the removal of the Dalaran portal from Stormwind City» بدون ذکر این نام. | «Theresa Wolf appears to be trying to conjure up something» در منبع آمده اما مقاله آن را به صورت قطعی «در حال conjure up something است» بیان کرده که ادعای اضافه و تغییر یافته است. | G5 English token not in source: npc | هشدار: 1",
+   "at": "2026-10-25T20:02:07Z",
+   "at_ts": 1792958527.002905
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-25T19:38:48Z",
+ "updated_at": "2026-10-25T20:02:07Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -116,6 +121,46 @@
     "blocks": 4,
     "warns": 0,
     "sec": 17.7,
+    "attempts": 2
+   },
+   {
+    "id": "383560",
+    "ts": "2026-10-25T19:59:21Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 8.4,
+    "attempts": 2
+   },
+   {
+    "id": "383557",
+    "ts": "2026-10-25T19:59:27Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 3,
+    "warns": 1,
+    "sec": 6.7,
+    "attempts": 2
+   },
+   {
+    "id": "383557",
+    "ts": "2026-10-25T20:01:46Z",
+    "path": "fallback",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 138.4,
+    "attempts": 1
+   },
+   {
+    "id": "383523",
+    "ts": "2026-10-25T20:02:07Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 3,
+    "warns": 1,
+    "sec": 20.6,
     "attempts": 2
    }
   ]

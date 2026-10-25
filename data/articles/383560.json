@@ -4,10 +4,10 @@
  "url": "https://www.wowhead.com/news=383560",
  "title_en": "Blizzard Thanks Players for Testing the WoW Forever Beta",
  "category": "Forever",
- "published_at": "2026-10-23T17:12:50Z",
+ "published_at": "2026-10-25T19:59:21Z",
  "fetched_at": "2026-10-25T06:28:53Z",
  "source_mode": "full",
- "status": "new",
+ "status": "published",
  "qa_facts": {
   "numbers": [
    "27"
@@ -208,5 +208,28 @@
    "your"
   ],
   "chars": 2262
+ },
+ "article_fa": {
+  "title_fa": "بلیتزر از بازیکنان بتای WoW Forever قدردانی کرد",
+  "lead_fa": "بلیتزر با انتشار پیامی از بازیکنان برای شرکت در بتای WoW Forever تشکر کرده و جزئیاتی از مراحل پیش از انتشار در ۴ نوامبر را اعلام کرد.",
+  "body_fa": [
+   "بتای WoW Forever اکنون به طور رسمی به پایان رسیده است و بلیتزر از همه کسانی که طی پنج هفته گذشته در تست بازی، جمع‌آوری داده، گزارش باگ و ارائه بازخورد شرکت کردند قدردانی کرده است.",
+   "تیم اکنون بر رفع مسائل اولویت‌دار و بهبود سرویس بازی تمرکز خواهد کرد تا برای launch day on November 4 آماده باشد.",
+   "بلیتزر اعلام کرده که سرویس Name Reservation در ۲۷ اکتبر فعال می‌شود و به بازیکنان فرصت می‌دهد تا ruleset مورد نظر خود را انتخاب کنند و نام مناسب شخصیت‌شان را رزرو کنند.",
+   "در ادامه، تیم به فعالیت خود با WoW Forever Podcast خواهد پرداخت و توصیه کرده که علاقه‌مندان قسمت‌های منتشرشده را دنبال کنند.",
+   "پادکست شامل پنج قسمت است: Episode 1 - Unpacking Beta Launch ft. @Xaryu، Episode 2 - Speed Running Classes ft. @sodapoppin، Episode 3 - Dive Into Dungeons With Devs ft. @Hammerdancegaming، Episode 4 - The PvP Episode ft. @TipsOutBaby & @Savixirl و Episode 5 - End of Beta Special.",
+   "بلیتزر بار دیگر از جامعه‌ای که در طول بتا شکل گرفته تشکر کرده و ابراز امیدواری کرده که بازیکنان را در ۴ نوامبر ملاقات کند."
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "بتا",
+   "پادکست",
+   "Name Reservation"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-25T19:59:21Z"
  }
 }
