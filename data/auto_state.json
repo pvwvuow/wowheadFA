@@ -16,8 +16,23 @@
    "reason": "«بلizzard تنظیمات جدیدی برای کلاس‌ها اعلام کرده که شامل افزایش آسیب Feral Druid و کاهش آسیب Subtlety Rogue می‌شود» — source says Feral Druid buffs and Subtlety Rogue nerfs but does not say the nerf is a reduction in damage; the actual nerf amount is specified later. | «این تغییرات با نگهداری هفتگی ۲۷ اکتبر اعمال خواهند شد» — source says October 27 in this region, not a general ۲۷ اکتبر. | «تنظیمات",
    "at": "2026-10-25T17:07:17Z",
    "at_ts": 1792948037.182084
+  },
+  "383554": {
+   "reason": "«معجونی که Experience را ۲۰۰٪ افزایش می‌داد» — منبع می‌گوید «a potion that increases experience gained by 200%» اما جمله فارسی ساختار جمله انگلیسی را کپی کرده است. | «شکست این World Bossها Legendaryهای آشنا و قدرتمندی مانند Sulfuras, Hand of Ragnaros و Thunderfury, Blessed Blade of the Windseeker به بازیکنان می‌داد» — جمله تقریباً ترجمه کلمه‌به‌کلمه و ساختار mirroring جمله منبع است. | «در کنار دری",
+   "at": "2026-10-25T17:27:53Z",
+   "at_ts": 1792949273.538417
+  },
+  "383561": {
+   "reason": "تعداد پاراگراف‌ها 11 است؛ باید ۲ تا ۸ باشد | «در این قسمت ویژه پایان بتا» اختراع شده؛ منبع فقط می‌گوید «for a special episode» بدون اشاره به پایان بتا. | «تا ۸ نوامبر ۲۰۲۶» اختراع شده؛ منبع می‌گوید «through November 8, 2026» اما مقاله آن را به باندل Champion of the Wilds نسبت داده در حالی که منبع آن را برای باندل می‌گوید، ولی ترکیب با جمله قبلی باعث خطا شده.",
+   "at": "2026-10-25T17:28:18Z",
+   "at_ts": 1792949298.739152
+  },
+  "383560": {
+   "reason": "«focused work on priority issues and the game service itself» کپی ساختار جمله انگلیسی است. | «در ۲۷ اکتبر سیستم character creation باز می‌شود» کپی ساختار جمله انگلیسی است. | «بازیکنان فرصت خواهند داشت ruleset مورد نظر خود را انتخاب کنند و نامی مناسب برای شخصیت‌شان رزرو کنند» کپی ساختار جمله انگلیسی است.",
+   "at": "2026-10-25T17:28:33Z",
+   "at_ts": 1792949313.889931
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-25T17:07:17Z"
+ "updated_at": "2026-10-25T17:28:33Z"
 }
