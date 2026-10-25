@@ -36,10 +36,25 @@
    "reason": "«High Order Skyborne» در مقاله وجود ندارد؛ منبع فقط می‌گوید «the removal of the Dalaran portal from Stormwind City» بدون ذکر این نام. | «Theresa Wolf appears to be trying to conjure up something» در منبع آمده اما مقاله آن را به صورت قطعی «در حال conjure up something است» بیان کرده که ادعای اضافه و تغییر یافته است. | G5 English token not in source: npc | هشدار: 1",
    "at": "2026-10-25T20:02:07Z",
    "at_ts": 1792958527.002905
+  },
+  "383529": {
+   "reason": "G5 English token not in source: fishing | G5 English token not in source: charge | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+   "at": "2026-10-25T20:22:37Z",
+   "at_ts": 1792959757.91397
+  },
+  "383551": {
+   "reason": "در پاراگراف سوم تا ششم، مقاله ادعا می‌کند که Mythic: The Inquisitor's Final Confrontation عنوان Mythic: The Inquisitor's Final Confrontation را اعطا می‌کند (و همین‌طور برای Slayer و Witch و Stories to Share) در حالی که منبع می‌گوید Mythic: The Inquisitor's Final Confrontation now awards the title Mythic: The Slayer's Final Confrontation now awards the title Mythic: The Witch's Final Confrontation ",
+   "at": "2026-10-25T20:23:00Z",
+   "at_ts": 1792959780.62694
+  },
+  "383552": {
+   "reason": "«اوایل هفته، یک قطعه crafted با ۷ سطح افزایش به ۳۳۸ و یک قطعه non-crafted با ۶ سطح افزایش به ۳۴۰ رسیده بود.» — منبع می‌گوید crafted به 338 و non-crafted به 340 رسیده بود، اما جمله فعلی این اعداد را به ترتیب اشتباه نسبت داده و crafted را ۷ سطح و non-crafted را ۶ سطح معرفی می‌کند در حالی که منبع دقیقاً برعکس است. | «پس از هات‌فیکس، یک crafted piece با ۶ سطح افزایش به سطح آیتم ۳۳۷ و non-crafted piece",
+   "at": "2026-10-25T20:23:10Z",
+   "at_ts": 1792959790.785355
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-25T20:02:07Z",
+ "updated_at": "2026-10-25T20:23:10Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -161,6 +176,46 @@
     "blocks": 3,
     "warns": 1,
     "sec": 20.6,
+    "attempts": 2
+   },
+   {
+    "id": "383529",
+    "ts": "2026-10-25T20:22:37Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 9.4,
+    "attempts": 2
+   },
+   {
+    "id": "383529",
+    "ts": "2026-10-25T20:22:49Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 11.8,
+    "attempts": 1
+   },
+   {
+    "id": "383551",
+    "ts": "2026-10-25T20:23:00Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 1,
+    "sec": 10.7,
+    "attempts": 2
+   },
+   {
+    "id": "383552",
+    "ts": "2026-10-25T20:23:10Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 3,
+    "warns": 0,
+    "sec": 10.2,
     "attempts": 2
    }
   ]
