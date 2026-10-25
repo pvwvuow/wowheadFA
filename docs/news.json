@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T17:49:32Z",
+ "generated": "2026-10-25T18:09:47Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -207,6 +207,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383516,
+   "title_en": "More Readable Book Decor Coming in Patch 12.1.7",
+   "url": "https://www.wowhead.com/news=383516",
+   "category": "PTR",
+   "published_at": "2026-10-25T18:00:00Z"
+  },
   {
    "id": 383562,
    "title_en": "New Winter Veil Neighborhood Activities Updates in Patch 12.1.7",
