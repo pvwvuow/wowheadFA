@@ -4,10 +4,10 @@
  "url": "https://www.wowhead.com/news=383524",
  "title_en": "Get 30% Off Game Services and Up to 50% Off Transmogs, Toys and Bundles on the Battle.net Shop",
  "category": "Live",
- "published_at": "2026-10-21T18:28:46Z",
+ "published_at": "2026-10-25T22:37:34Z",
  "fetched_at": "2026-10-25T06:28:53Z",
  "source_mode": "full",
- "status": "new",
+ "status": "published",
  "qa_facts": {
   "numbers": [
    "10.00",
@@ -114,5 +114,29 @@
    "wow"
   ],
   "chars": 1591
+ },
+ "article_fa": {
+  "title_fa": "تخفیف ۳۰ درصدی خدمات و تا ۵۰ درصدی ترنسماگ، توی و باندل در فروشگاه Battle.net",
+  "lead_fa": "فروش جدیدی در فروشگاه Battle.net آغاز شده و بازیکنان می‌توانند ۳۰٪ تخفیف روی خدمات بازی و تا ۵۰٪ تخفیف روی ترنسماگ، توی و باندل‌های منتخب دریافت کنند.",
+  "body_fa": [
+   "در این فروش World of Warcraft Midnight با قیمت ۲۴.۹۹ دلار (۵۰٪ تخفیف) عرضه می‌شود.",
+   "باندل Wings and Wisdom Pack با قیمت ۱۷.۵۰ دلار (۵۰٪ تخفیف) و Mighty Kodo Pack با قیمت ۱۲.۵۰ دلار (۵۰٪ تخفیف) در دسترس هستند.",
+   "از توی‌ها می‌توان به Sandbox Storm Gryphon با قیمت ۵.۰۰ دلار (۵۰٪ تخفیف)، Deepdweller's Earthen Hearthstone با قیمت ۲.۵۰ دلار (۵۰٪ تخفیف)، Magical Murkmorpher با قیمت ۵.۰۰ دلار (۵۰٪ تخفیف)، Eternal Traveler's Hearthstone با قیمت ۲.۵۰ دلار (۵۰٪ تخفیف)، Timewalker's Hearthstone با قیمت ۲.۵۰ دلار (۵۰٪ تخفیف) و Transmorpher Beacon با قیمت ۵ دلار (۵۰٪ تخفیف) اشاره کرد.",
+   "مجموعه‌های ترنسماگ نیز شامل Cozy Kobold Collection با قیمت ۱۴.۰۰ دلار (۳۰٪ تخفیف)، Ensemble: Lana'thel's Crimson Couture با قیمت ۱۴.۰۰ دلار (۳۰٪ تخفیف)، Ensemble: Stormrider's Attire با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Heavenly Regalia Pack با قیمت ۱۵.۰۰ دلار (۴۰٪ تخفیف)، Ensemble: Green Snugglefin Murloc Romper با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف) و Dreadlord's Regalia Pack با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف) هستند.",
+   "دیگر اقلام ترنسماگ عبارتند از Diadem of the Spell-Keeper با قیمت ۴.۰۰ دلار (۵۰٪ تخفیف)، Collection: Wings of Awakening با قیمت ۷.۵۰ دلار (۵۰٪ تخفیف)، Ensemble: Waveborne Diplomat's Regalia با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Ensemble: Fireplume Regalia با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Ensemble: Sprite Darter's Wings با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Collection: Baby Murloc Satch-Shells با قیمت ۷.۵۰ دلار (۵۰٪ تخفیف) و Ensemble: Celestial Observer با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف).",
+   "خدمات بازی نیز با تخفیف عرضه می‌شوند: Enhanced Level 80 Character Boosts با ۳۳٪ تخفیف، Character Transfers با ۳۰٪ تخفیف، Faction Changes با ۳۰٪ تخفیف، Race Changes با ۳۰٪ تخفیف و Name Changes با ۳۰٪ تخفیف.",
+   "این فروش هم‌اکنون فعال است و علاقه‌مندان می‌توانند اقلام مورد نظر خود را از فروشگاه Battle.net تهیه کنند."
+  ],
+  "tags_fa": [
+   "فروش Battle.net",
+   "تخفیف WoW",
+   "ترنسماگ",
+   "World of Warcraft Midnight"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-25T22:37:34Z"
  }
 }
