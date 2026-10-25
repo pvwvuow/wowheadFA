@@ -1,8 +1,35 @@
 {
- "generated": "2026-10-25T21:53:51Z",
+ "generated": "2026-10-25T22:15:29Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383505,
+   "slug": "use-skeleton-keys-to-open-locked-door-in-labyrinths-easy-achievement-f",
+   "title_fa": "استفاده از کلیدهای Skeleton برای باز کردن درهای قفل‌شده در Labyrinthها",
+   "lead_fa": "بازیکنان راهی سریع‌تر برای باز کردن در قفل‌شده Labyrinthها پیدا کرده‌اند که نیازی به جستجوی Keeper of the Key ندارد و فارمینگ دستاورد را بسیار سریع‌تر می‌کند.",
+   "body_fa": [
+    "در هر Labyrinth run، یکی از پنج موقعیت ممکن شامل در قفل‌شده است که با نماد کلید نقره‌ای نشان داده می‌شود. به‌جای پیدا کردن Keeper of the Key که Archaic Amani Key می‌دهد، بازیکنان می‌توانند از مهارت Lockpicking Rogue سطح ۹۰ یا کلید Skeleton ساخته‌شده توسط Blacksmithing استفاده کنند.",
+    "توصیه می‌شود همیشه تعدادی Thalassian Skeleton Key همراه داشته باشید تا نیازی به گشت‌وگذار در Labyrinth برای پیدا کردن Keeper of the Key نباشد.",
+    "اتاق قفل‌شده حاوی Mislaid Treasures برای کسب شهرت و Mislaid Curiosities برای افزایش آمار است.",
+    "با داشتن کلیدهای Skeleton می‌توانید دو دستاورد Labyrinth را به‌راحتی فارم کنید: Lock and Key Master که نیاز به باز کردن ۲۰ Locked Room دارد و A Few More Can't Hurt که با لوت کردن Mislaid Treasures به‌دست می‌آید.",
+    "یکی از Spawnهای در قفل‌شده درست نزدیک ورودی قرار می‌گیرد. کافی است با Labyrinth Tier ۱ وارد شوید، به Spawn سمت راست بروید، در را چک کنید، اگر وجود داشت با Thalassian Skeleton Key باز کنید، اتاق را لوت کنید و خارج شوید.",
+    "اگر در آنجا نبود، فوراً خارج شوید و دوباره امتحان کنید. این روش بسیار سریع است، محدودیت Instance Lockout در ساعت ندارد و به شما اجازه می‌دهد هر دو دستاورد را در زمان کوتاهی بگیرید."
+   ],
+   "tags_fa": [
+    "Labyrinth",
+    "دستاورد",
+    "Skeleton Key",
+    "فارمینگ"
+   ],
+   "title_en": "Use Skeleton Keys to Open Locked Door in Labyrinths - Easy Achievement Farming",
+   "source_url": "https://www.wowhead.com/news=383505",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383505-use-skeleton-keys-to-open-locked-door-in-labyrinths-easy-achievement-f.html",
+   "published_at": "2026-10-25T22:15:29Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383528,
    "slug": "optimize-tricky-treat-exchange-with-neighborhood-vendors-for-hallow-s-",
@@ -511,13 +538,6 @@
    "url": "https://www.wowhead.com/news=383531",
    "category": "Live",
    "published_at": "2026-10-22T01:43:01Z"
-  },
-  {
-   "id": 383505,
-   "title_en": "Use Skeleton Keys to Open Locked Door in Labyrinths - Easy Achievement Farming",
-   "url": "https://www.wowhead.com/news=383505",
-   "category": "Live",
-   "published_at": "2026-10-21T20:11:41Z"
   },
   {
    "id": 383487,

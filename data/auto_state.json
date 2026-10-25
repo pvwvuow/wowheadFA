@@ -1,6 +1,6 @@
 {
  "day": "2026-10-25",
- "published_today": 7,
+ "published_today": 8,
  "held": {
   "383516": {
    "reason": "«چهار پاداش جدید Lorewalking را به همراه کتاب‌های lore related to them به عنوان decor قابل خواندن معرفی می‌کند» — منبع می‌گوید هر کدام یک lore book related to them به عنوان decor پاداش می‌دهند، نه اینکه چهار پاداش جدید را «به همراه» کتاب‌ها معرفی کند. | «decor rewards قبلی در پچ  | fallback هم رد شد: «چهار داستان جدید Lorewalking در دسترس قرار می‌گیرد» — منبع فقط می‌گوید «Four new Lorewalk",
@@ -91,10 +91,20 @@
    "reason": "«ست‌های مهر موم蜡» یک عبارت مخدوش و اختراعی است؛ منبع فقط «wax seal stamp sets» را ذکر کرده است. | «برای نخستین بار دالاران را نه‌تنها در بازی بلکه در دنیای واقعی نیز تجربه کنند» ادعای اضافی است؛ منبع می‌گوید «for the first time ever, in real life as well» اما جمله فارسی آن را به «دالاران» نسبت می‌دهد که منبع چنین چیزی نگفته است. | G5 English token not in source: francis",
    "at": "2026-10-25T21:53:51Z",
    "at_ts": 1792965231.696223
+  },
+  "383532": {
+   "reason": "G8 lead sentence duplicated in body | fallback هم رد شد: «بازگشت قریب‌الوقوع» و «به‌زودی» در عنوان و لید ادعای زمانی مشخصی است که منبع ندارد؛ منبع ",
+   "at": "2026-10-25T22:14:24Z",
+   "at_ts": 1792966464.777633
+  },
+  "383531": {
+   "reason": "«October 21, 2026» در منبع وجود ندارد و تاریخ هاتفیکس اختراع شده است. | «بلizzard امروز هاتفیکس‌هایی منتشر کرده» ادعای زمان «امروز» را اضافه کرده در حالی که منبع فقط می‌گوید «has posted hotfixes for today» بدون تأیید روز انتشار مقاله. | «رفع مشکل نمایش آیتم‌های باقی‌مانده از باس در tooltip بونوس رول» در lead_fa دقیقاً با منبع مطابقت ندارد؛ منبع می‌گوید «Bonus Roll tooltips now correctly show the r",
+   "at": "2026-10-25T22:15:24Z",
+   "at_ts": 1792966524.199376
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-25T21:53:51Z",
+ "updated_at": "2026-10-25T22:15:29Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -417,6 +427,46 @@
     "warns": 0,
     "sec": 14.7,
     "attempts": 2
+   },
+   {
+    "id": "383532",
+    "ts": "2026-10-25T22:14:24Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 7.9,
+    "attempts": 2
+   },
+   {
+    "id": "383532",
+    "ts": "2026-10-25T22:15:07Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 3,
+    "warns": 0,
+    "sec": 42.1,
+    "attempts": 1
+   },
+   {
+    "id": "383531",
+    "ts": "2026-10-25T22:15:24Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 7,
+    "warns": 0,
+    "sec": 17.1,
+    "attempts": 2
+   },
+   {
+    "id": "383505",
+    "ts": "2026-10-25T22:15:29Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 5.6,
+    "attempts": 1
    }
   ]
  }
