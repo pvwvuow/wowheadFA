@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T08:39:00Z",
+ "generated": "2026-10-25T14:12:33Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -168,6 +168,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383562,
+   "title_en": "New Winter Veil Neighborhood Activities Updates in Patch 12.1.7",
+   "url": "https://www.wowhead.com/news=383562",
+   "category": "PTR",
+   "published_at": "2026-10-25T14:00:00Z"
+  },
   {
    "id": 383570,
    "title_en": "Den of Nalorakk and Murder Row Bug Fixes - Patch 12.1.5 Hotfixes",
