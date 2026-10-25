@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T14:12:33Z",
+ "generated": "2026-10-25T14:44:40Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -25,7 +25,8 @@
    "source_url": "https://www.wowhead.com/news=383544",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383544-catch-up-on-renown-quickly-with-aqir-invasions.html",
    "published_at": "2026-10-25T08:39:00Z",
-   "model": "GLM"
+   "model": "GLM",
+   "via": "web-byok"
   },
   {
    "id": 383566,
@@ -48,7 +49,8 @@
    "source_url": "https://www.wowhead.com/news=383566",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383566-new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr.html",
    "published_at": "2026-10-24T18:00:00Z",
-   "model": "GLM"
+   "model": "GLM",
+   "via": ""
   },
   {
    "id": 383511,
@@ -71,7 +73,8 @@
    "source_url": "https://www.wowhead.com/news=383511",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383511-some-decor-costs-adjusted-on-the-patch-12-1-7-ptr.html",
    "published_at": "2026-10-23T14:15:00Z",
-   "model": "GLM"
+   "model": "GLM",
+   "via": ""
   },
   {
    "id": 383522,
@@ -97,7 +100,8 @@
    "source_url": "https://www.wowhead.com/news=383522",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383522-camping-system-breakdown-in-world-of-warcraft-forever.html",
    "published_at": "2026-10-21T17:07:33Z",
-   "model": "GLM"
+   "model": "GLM",
+   "via": ""
   },
   {
    "id": 383507,
@@ -118,7 +122,8 @@
    "source_url": "https://www.wowhead.com/news=383507",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383507-acquire-scarecrow-pepe-decor-during-hallow-s-end.html",
    "published_at": "2026-10-21T15:00:00Z",
-   "model": "GLM"
+   "model": "GLM",
+   "via": ""
   },
   {
    "id": 383517,
@@ -141,7 +146,8 @@
    "source_url": "https://www.wowhead.com/news=383517",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383517-kindo-jan-labyrinth-reputation-increased-from-delve-bonus-event.html",
    "published_at": "2026-10-21T14:00:00Z",
-   "model": "GLM"
+   "model": "GLM",
+   "via": ""
   },
   {
    "id": 383515,
@@ -164,7 +170,8 @@
    "source_url": "https://www.wowhead.com/news=383515",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383515-how-to-reserve-your-world-of-warcraft-forever-character-name-on-octobe.html",
    "published_at": "2026-10-20T21:02:22Z",
-   "model": "GLM"
+   "model": "GLM",
+   "via": ""
   }
  ],
  "queue": [
