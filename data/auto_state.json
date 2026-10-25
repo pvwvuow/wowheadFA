@@ -1,6 +1,6 @@
 {
  "day": "2026-10-25",
- "published_today": 6,
+ "published_today": 7,
  "held": {
   "383516": {
    "reason": "«چهار پاداش جدید Lorewalking را به همراه کتاب‌های lore related to them به عنوان decor قابل خواندن معرفی می‌کند» — منبع می‌گوید هر کدام یک lore book related to them به عنوان decor پاداش می‌دهند، نه اینکه چهار پاداش جدید را «به همراه» کتاب‌ها معرفی کند. | «decor rewards قبلی در پچ  | fallback هم رد شد: «چهار داستان جدید Lorewalking در دسترس قرار می‌گیرد» — منبع فقط می‌گوید «Four new Lorewalk",
@@ -81,10 +81,20 @@
    "reason": "«Ruleset Roleplay-PvP برای launch on November 4 اضافه می‌شود» — منبع می‌گوید Roleplay-PVP Ruleset برای launch در November 4 اضافه می‌شود، اما جمله فارسی تاریخ را به صورت نادرست و ناقص منتقل کرده و ساختار جمله را تغییر داده است. | «دورهٔ Name Reservation روز سه‌شنبه ۲۷ اکتبر آغاز می‌شود» — منبع دقیقاً Tuesday, October 27 را ذکر کرده؛ استفاده از «روز سه‌شنبه» بدون ذکر سال یا تأیید روز هفته (که منبع ",
    "at": "2026-10-25T21:31:48Z",
    "at_ts": 1792963908.913798
+  },
+  "383525": {
+   "reason": "«دستاورد Sweet Tooth نیازمند تکمیل 3 different daily quests در هر سه تم جدید است» — منبع می‌گوید complete 3 different daily quests in each of the three new themes (یعنی ۳ کوئست در هر تم، جمعاً ۹ کوئست). | «You need to complete each of these quests once to be awarded the achieveme | fallback هم رد شد: «رویداد Hallow's End در سال ۲۰۲۶» — منبع فقط می‌گوید Hallow's End 2026 بدون ادعای وقوع روی",
+   "at": "2026-10-25T21:52:29Z",
+   "at_ts": 1792965149.972543
+  },
+  "383530": {
+   "reason": "«ست‌های مهر موم蜡» یک عبارت مخدوش و اختراعی است؛ منبع فقط «wax seal stamp sets» را ذکر کرده است. | «برای نخستین بار دالاران را نه‌تنها در بازی بلکه در دنیای واقعی نیز تجربه کنند» ادعای اضافی است؛ منبع می‌گوید «for the first time ever, in real life as well» اما جمله فارسی آن را به «دالاران» نسبت می‌دهد که منبع چنین چیزی نگفته است. | G5 English token not in source: francis",
+   "at": "2026-10-25T21:53:51Z",
+   "at_ts": 1792965231.696223
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-25T21:31:48Z",
+ "updated_at": "2026-10-25T21:53:51Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -366,6 +376,46 @@
     "blocks": 2,
     "warns": 2,
     "sec": 12.5,
+    "attempts": 2
+   },
+   {
+    "id": "383525",
+    "ts": "2026-10-25T21:52:29Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 5,
+    "warns": 0,
+    "sec": 16.5,
+    "attempts": 2
+   },
+   {
+    "id": "383525",
+    "ts": "2026-10-25T21:53:31Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 6,
+    "warns": 0,
+    "sec": 61.2,
+    "attempts": 1
+   },
+   {
+    "id": "383528",
+    "ts": "2026-10-25T21:53:36Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 5.6,
+    "attempts": 1
+   },
+   {
+    "id": "383530",
+    "ts": "2026-10-25T21:53:51Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 0,
+    "sec": 14.7,
     "attempts": 2
    }
   ]
