@@ -155,7 +155,7 @@ def xai_chat(key, model, system, user, temperature, max_tokens,
             req = urllib.request.Request(
                 API + "/chat/completions",
                 data=json.dumps(body).encode("utf-8"), headers=_headers(key))
-            with urllib.request.urlopen(req, timeout=240) as r:
+            with urllib.request.urlopen(req, timeout=300) as r:
                 data = json.load(r)
             msg = (data.get("choices") or [{}])[0].get("message", {}) or {}
             content = msg.get("content")
