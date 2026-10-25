@@ -40,6 +40,7 @@ import tempfile
 import time
 import urllib.error
 import urllib.request
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -363,10 +364,38 @@ def publish(art, data, model):
         json.dump(art, fh, ensure_ascii=False, indent=1)
 
 
+def ingest_source(art):
+    """Clean server-side source text.
+
+    First choice: the item's content:encoded body straight from the
+    Wowhead RSS feed - the same text qa_facts were derived from at fetch
+    time (no comments, no sidebar noise). Page ingest (direct/jina/
+    allorigins) is only the fallback for items that dropped out of the
+    40-item feed window. Returns (text, via)."""
+    art_id = art["id"]
+    try:
+        xml = FN.fetch(FN.FEED)
+        for it in ET.fromstring(xml).findall(".//item"):
+            guid = (it.findtext("guid") or "") + " " + (it.findtext("link") or "")
+            m = re.search(r"news=(\d+)", guid)
+            if not m or int(m.group(1)) != art_id:
+                continue
+            enc = it.find("{http://purl.org/rss/1.0/modules/content/}encoded")
+            if enc is not None and enc.text:
+                text = "\n\n".join(FN.strip_html(enc.text))
+                if len(text) >= 400:
+                    return text, "feed"
+            break
+    except Exception:
+        pass
+    _t, text, mode = FN.ingest_url(art.get("url", ""))
+    return text, "page:" + (mode or "?")
+
+
 def process(art, key, model, st, summ):
     """Returns: published / held / skip."""
     art_id = art["id"]
-    _t, src, _m = FN.ingest_url(art.get("url", ""))
+    src, srcvia = ingest_source(art)
     if not src or len(src) < 400:
         fails = st["ingest_fails"].get(str(art_id), 0) + 1
         st["ingest_fails"][str(art_id)] = fails
@@ -380,6 +409,7 @@ def process(art, key, model, st, summ):
                  "متن منبع این اجرا خوانده نشد")
         return "skip"
     st["ingest_fails"].pop(str(art_id), None)
+    print(f"  source via {srcvia}: {len(src)} chars", flush=True)
     merge_facts(art, src)
 
     problems = None
