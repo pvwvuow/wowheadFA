@@ -14,7 +14,9 @@ Gates (all fail -> exit 1, issue list printed):
                            (no invented names)
   G6  typography           no "می " + letter (needs ZWNJ), no double
                            spaces, no space before ،؛:!., no markdown
-                           artifacts, no HTML tags
+                           artifacts, no HTML tags, no CJK/foreign-
+                           script artifacts (Chinese/Japanese/Korean
+                           glyphs leaked into Persian prose)
   G7  shape                title 15..110 chars, lead 20..400 chars,
                            body 2..8 paragraphs each >=40 chars,
                            tags 0..5, source_url is a wowhead news link
@@ -156,6 +158,10 @@ def check(path: str) -> list:
         issues.append("G6 space before punctuation")
     if re.search(r"(\*\*|##|\[\]|<\/?[a-z]+>)", whole):
         issues.append("G6 markdown/HTML artifact")
+    cjk = re.findall(r"[\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af]+", whole)
+    if cjk:
+        issues.append("G6 CJK characters leaked into Persian prose: "
+                      + ", ".join(c[:10] for c in cjk[:4]))
     # G7
     if not (15 <= len(title) <= 110):
         issues.append(f"G7 title length {len(title)} not in 15..110")
