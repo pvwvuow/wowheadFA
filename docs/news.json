@@ -1,8 +1,32 @@
 {
- "generated": "2026-10-25T16:44:03Z",
+ "generated": "2026-10-25T16:45:58Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383558,
+   "slug": "watch-the-world-of-warcraft-midnight-motion-comic-singularity",
+   "title_fa": "تماشای موشن‌کامیک Midnight با عنوان Singularity",
+   "lead_fa": "بلیزارد موشن‌کامیک جدیدی از سری Midnight به نام Singularity را منتشر کرده که توسط Yuri Lowenthal به عنوان Arator Windrunner خوانده شده است.",
+   "body_fa": [
+    "این ویدیو شش دقیقه‌ای شامل خوانش کمیک Singularity نوشتهٔ Robert Brooks توسط Yuri Lowenthal است.",
+    "داستان بر حول Arator Windrunner می‌چرخد که با کمک مربی‌اش Umbric به عمق Void سفر می‌کند تا سرنخی از سرنوشت والدین گمشده‌اش بیابد.",
+    "او باید با Void روبه‌رو شود بدون آنکه خود را به آن تسلیم کند.",
+    "Letters توسط AndWorld Design انجام شده و نسخهٔ PDF کمیک نیز قابل دانلود است.",
+    "Yuri Lowenthal صداپیشهٔ Arator Windrunner است."
+   ],
+   "tags_fa": [
+    "Midnight",
+    "موشن‌کامیک",
+    "Singularity"
+   ],
+   "title_en": "Watch the World of Warcraft: Midnight Motion Comic, “Singularity”",
+   "source_url": "https://www.wowhead.com/news=383558",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383558-watch-the-world-of-warcraft-midnight-motion-comic-singularity.html",
+   "published_at": "2026-10-25T16:45:58Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-grok"
+  },
   {
    "id": 383544,
    "slug": "catch-up-on-renown-quickly-with-aqir-invasions",
@@ -216,13 +240,6 @@
    "url": "https://www.wowhead.com/news=383560",
    "category": "Forever",
    "published_at": "2026-10-23T17:12:50Z"
-  },
-  {
-   "id": 383558,
-   "title_en": "Watch the World of Warcraft: Midnight Motion Comic, “Singularity”",
-   "url": "https://www.wowhead.com/news=383558",
-   "category": "Live",
-   "published_at": "2026-10-23T17:08:34Z"
   },
   {
    "id": 383557,
