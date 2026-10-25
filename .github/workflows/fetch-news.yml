@@ -104,7 +104,8 @@ jobs:
         run: |
           git config user.name "wowfarsi-bot"
           git config user.email "action@github.com"
-          git add data/articles data/auto_state.json
+          git add data/articles
+          git add data/auto_state.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Nothing to commit."
           else
