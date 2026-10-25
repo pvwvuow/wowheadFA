@@ -26,8 +26,13 @@
    "reason": "خطای مدل در بازنویسی: xAI request failed: The read operation timed out",
    "at": "2026-10-25T16:31:41Z",
    "at_ts": 1792945901.075906
+  },
+  "383560": {
+   "reason": "«در ۲۷ اکتبر سیستم ساخت کاراکتر در دسترس قرار می‌گیرد» — منبع می‌گوید «open access to the character creation system on Tuesday, October 27» و «Name Reservation service will be going live on October 27th»؛ جمله فارسی این را به صورت ساخت کاراکتر خلاصه کرده و نام Name Reservation را حذف کرده است. | «بازیکنان فرصت خواهند داشت ruleset مورد نظر خود را انتخاب کنند و نامی مناسب برای شخصیت‌شان رزرو کنند» —",
+   "at": "2026-10-25T16:42:37Z",
+   "at_ts": 1792946557.336697
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-25T16:31:41Z"
+ "updated_at": "2026-10-25T16:42:37Z"
 }
