@@ -308,7 +308,8 @@ def gemini_any_models(keys):
 
 BAD_MODEL_SUB = re.compile(
     r"image|audio|tts|live|embed|aqa|imagen|veo|gemma|learnlm|"
-    r"native-?audio|computer-use|robotics", re.I)
+    r"native-?audio|computer-use|robotics|omni|transcribe|translate|"
+    r"deep-research|antigravity|banana|lyria|nano", re.I)
 
 
 def suggest_model(models):
@@ -973,12 +974,19 @@ def run_check():
     else:
         summ.note(f"Gemini: {len(gkeys)} کلید پیدا شد "
                   "(هر کلید با یک فراخوانی سبک «لیست مدل‌ها» بررسی شد):")
-        models, verdicts = gemini_any_models(gkeys)
-        for i, label, n in verdicts:
+        verdicts = []
+        for i, k in enumerate(gkeys, 1):
+            label, n = gemini_verdict(k)
+            verdicts.append((i, label, n))
             summ.note(f"کلید #{i}: {label}"
                       + (f" ({n} مدل)" if label == "ok" else ""))
             if label != "ok":
                 problems.append(f"gemini key #{i}: {label}")
+        models = []
+        for i, label, _n in verdicts:
+            if label == "ok":
+                _, models = gemini_list_models(gkeys[i - 1])
+                break
         summ.note("توضیح: کلیدهای «نامعتبر» ممکن است با فرمت جدید "
                   "AQ.Ab8… باشند که با API عمومی Gemini سازگار نیست؛ "
                   "کلیدهای ok با همان API عمومی کار می‌کنند.")
