@@ -46,8 +46,23 @@
    "reason": "«راه خوبی برای به دست آوردن tier slot pieces و unlock Midnight Season 2: Catalyst Unbound» ادعای اضافی است؛ منبع فقط می‌گوید این راه عالی برای fishing tier slot pieces به منظور گرفتن 4-set و unlock آن است، نه اینکه مستقیماً unlock کند. | «صندوق‌ها» (جمع) در lead_fa و body_fa ادعای اختراعی است؛ منبع فقط از یک chest صحبت می‌کند و می‌گوید chests (به صورت کلی) قابل ارسال هستند، نه اینکه Agmera چندین ص",
    "at": "2026-10-25T17:49:32Z",
    "at_ts": 1792950572.679256
+  },
+  "383516": {
+   "reason": "«چهار داستان تازه Lorewalking در پچ ۱۲.۱.۷ عرضه می‌شوند و به نظر هر کدام از آن‌ها یک کتاب lore مرتبط به عنوان پاداش دکور می‌دهند» — منبع می‌گوید «four new Lorewalking stories are coming ... and it looks like each of them will reward a lore book related to them as decor» و «lore book» را «کتاب lore» ترجمه نکرده؛ همچنین «عرضه می‌شوند» جمله را به شکل کپی انگلیسی درآورده است. | «قابلیت خواندن این کتاب",
+   "at": "2026-10-25T18:31:01Z",
+   "at_ts": 1792953061.538841
+  },
+  "383551": {
+   "reason": "«Mythic: The Inquisitor's Final Confrontation حالا عنوان Mythic: The Inquisitor's Final Confrontation را اهدا می‌کند» عنوان اهدایی در منبع «Mythic: The Slayer's Final Confrontation» است نه تکرار همان نام. | «Mythic: The Slayer's Final Confrontation حالا عنوان Mythic: The Slayer's Final Confrontation را اهدا می‌کند» عنوان اهدایی در منبع «Mythic: The Witch's Final Confrontation» است نه تکرار همان نا",
+   "at": "2026-10-25T18:31:14Z",
+   "at_ts": 1792953074.813812
+  },
+  "383552": {
+   "reason": "«یک قطعه crafted با افزایش ۷ سطح به Item Level 338» عدد 338 در منبع وجود ندارد (منبع می‌گوید 337). | «یک قطعه non-crafted با افزایش ۶ سطح به Item Level 340» عدد 340 در منبع وجود ندارد (منبع می‌گوید 341). | «جدول تغییرات به این شکل است: Non-Crafted340341» این جدول ناقص و غلط است؛ منبع جدول کامل‌تری دارد که شامل Gear Type، Previous Myth Item Level و New Myth Item Level است.",
+   "at": "2026-10-25T18:31:26Z",
+   "at_ts": 1792953086.90266
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-25T17:49:32Z"
+ "updated_at": "2026-10-25T18:31:26Z"
 }
