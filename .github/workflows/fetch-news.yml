@@ -71,12 +71,14 @@ jobs:
           fi
 
   # ------------------------------------------------------------------
-  # Auto-publish: Grok writes a Persian article for every queue item,
-  # a second reviewer call + deterministic gates verify it against the
-  # source, one rewrite is allowed, then it publishes instantly.
-  # Rejected items stay in the queue silently (Job Summary only).
-  # Config: secret XAI_API_KEY + variables XAI_MODEL / MAX_PER_RUN /
-  # MAX_PER_DAY / AUTO_PUBLISH (all optional with safe defaults).
+  # Auto-publish: the configured AI (AI_WRITER) writes a Persian article
+  # for every queue item, a second reviewer call (AI_REVIEWER) +
+  # deterministic gates verify it against the source, one rewrite is
+  # allowed, then it publishes instantly. Rejected items stay in the
+  # queue silently (Job Summary only).
+  # Config: secrets XAI_API_KEY / GEMINI_API_KEY (multi-key, ::add-mask::
+  # per line) + variables AI_WRITER / AI_REVIEWER / XAI_MODEL /
+  # GEMINI_MODEL / MAX_PER_RUN / MAX_PER_DAY / AUTO_PUBLISH.
   # ------------------------------------------------------------------
   auto-publish:
     needs: fetch
@@ -88,11 +90,20 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Write + review + publish queue items (Grok)
+      - name: Register API-key masks (multiline secrets are not auto-masked)
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python tools/mask_keys.py
+      - name: Write + review + publish queue items (AI)
         id: auto
         env:
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
           XAI_MODEL: ${{ vars.XAI_MODEL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          AI_WRITER: ${{ vars.AI_WRITER }}
+          AI_REVIEWER: ${{ vars.AI_REVIEWER }}
           MAX_PER_RUN: ${{ vars.MAX_PER_RUN }}
           MAX_PER_DAY: ${{ vars.MAX_PER_DAY }}
           AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH }}

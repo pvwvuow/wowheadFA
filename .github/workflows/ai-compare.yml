@@ -1,0 +1,127 @@
+name: ai-compare
+
+# Manual-only harness for the AI writer/reviewer providers.
+#
+#   mode=check    -> light validation ONLY: every Gemini key via one
+#                    list-models call (ok / invalid / quota), xAI key +
+#                    XAI_MODEL, GEMINI_MODEL validity + suggestion.
+#                    No generation calls, nothing written.
+#   mode=compare  -> DRY-RUN benchmark: writes + reviews the given news
+#                    ids for each writer:reviewer combo (one matrix job
+#                    per combo). Publishes and commits NOTHING; output
+#                    lands ONLY in the Job Summary + artifacts
+#                    (report-<combo>.json / summary-<combo>.md /
+#                    articles/<combo>/<id>.json).
+#
+# Secrets: XAI_API_KEY, GEMINI_API_KEY (multi-key -> tools/mask_keys.py
+# registers ::add-mask:: line-by-line BEFORE anything else runs; keys
+# are passed in headers, never URLs, and never logged).
+# Variables: XAI_MODEL, GEMINI_MODEL, AI_WRITER, AI_REVIEWER (compare
+# combos override the writer/reviewer PAIR per matrix job).
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "check = اعتبارسنجی کلید/مدل | compare = تست مقایسه‌ای (DRY-RUN)"
+        type: choice
+        options: [check, compare]
+        default: check
+      ids:
+        description: "شناسهٔ خبرها (با کاما) — فقط برای compare"
+        default: "383558,383562,383568,383570"
+      combos:
+        description: "ترکیب‌های writer:reviewer (با کاما) — فقط برای compare"
+        default: "xai:xai,gemini:xai,gemini:gemini"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    if: ${{ inputs.mode == 'check' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Register key masks
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python tools/mask_keys.py
+      - name: Validate keys + models (light calls only)
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          XAI_MODEL: ${{ vars.XAI_MODEL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          AI_WRITER: ${{ vars.AI_WRITER }}
+          AI_REVIEWER: ${{ vars.AI_REVIEWER }}
+        run: python tools/auto_publish.py --check-keys
+
+  setup:
+    if: ${{ inputs.mode == 'compare' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      matrix: ${{ steps.mk.outputs.matrix }}
+    steps:
+      - id: mk
+        env:
+          COMBOS: ${{ inputs.combos }}
+        run: |
+          python3 - <<'EOF'
+          import json, os, re, sys
+          combos = [c.strip() for c in
+                    os.environ.get("COMBOS", "").split(",") if c.strip()]
+          bad = [c for c in combos
+                 if not re.fullmatch(r"(xai|gemini):(xai|gemini)", c)]
+          if bad or not combos:
+              sys.exit(f"invalid combos: {bad or '(empty)'}")
+          matrix = {"include": [{"combo": c, "slug": c.replace(":", "-")}
+                                for c in combos]}
+          with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
+              fh.write("matrix=" + json.dumps(matrix) + "\n")
+          print("matrix:", json.dumps(matrix))
+          EOF
+
+  compare:
+    if: ${{ inputs.mode == 'compare' }}
+    needs: setup
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix: ${{ fromJSON(needs.setup.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Register key masks
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python tools/mask_keys.py
+      - name: DRY-RUN combo ${{ matrix.combo }}
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          XAI_MODEL: ${{ vars.XAI_MODEL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          COMPARE_OUT: compare-out
+        run: |
+          python tools/auto_publish.py --compare \
+            --ids "${{ inputs.ids }}" \
+            --combos "${{ matrix.combo }}"
+      - name: Upload report artifact
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: compare-${{ matrix.slug }}
+          path: compare-out/
+          if-no-files-found: warn

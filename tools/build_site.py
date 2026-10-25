@@ -113,9 +113,16 @@ def article_page(art):
     gen = art.get("generator", {})
     genline = ""
     if gen.get("model"):
-        if gen.get("via") == "auto-grok":
-            genline = (f"<span>نگارش و بازبینی خودکار با "
-                       f"{esc(gen['model'])}</span>")
+        via = str(gen.get("via") or "")
+        rev = str(gen.get("reviewer") or "")
+        if via.startswith("auto"):
+            # automated pipeline (any provider: auto-grok / auto-gemini…)
+            if rev and rev != gen["model"]:
+                genline = (f"<span>نگارش خودکار با {esc(gen['model'])} "
+                           f"و بازبینی با {esc(rev)}</span>")
+            else:
+                genline = (f"<span>نگارش و بازبینی خودکار با "
+                           f"{esc(gen['model'])}</span>")
         else:
             genline = (f"<span>نگارش با دستیار هوشمند ({esc(gen['model'])}) "
                        f"+ ویرایش انسانی</span>")
@@ -222,6 +229,7 @@ def main():
             "published_at": art.get("published_at", ""),
             "model": (art.get("generator") or {}).get("model", ""),
             "via": (art.get("generator") or {}).get("via", ""),
+            "reviewer": (art.get("generator") or {}).get("reviewer", ""),
         }
 
     queue = []
