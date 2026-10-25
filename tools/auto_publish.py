@@ -36,15 +36,31 @@ Publish pipeline, for every queue item with real article text:
   1. reads the English source SERVER-SIDE (transient, memory only),
   2. writes an original Persian article with config/prompt.md
      (same facts-only rules as the human BYOK path),
-  3. a SEPARATE reviewer call (config/review_prompt.md) gets source +
-     article and must return strict JSON {ok, problems},
+  3. a SEPARATE reviewer call (config/review_prompt.md, temperature 0)
+     gets source + article and returns strict JSON problems, each with
+     a SEVERITY: "block" = claim/number/name/date NOT in the source,
+     "warn" = style / translationese / editorializing on ambiguous
+     dates. ONLY blocks prevent publishing; warns are logged to the
+     Job Summary and never stop an article,
   4. deterministic gates: full qa_check (G1..G8) PLUS a hard check that
      every digit-number in the article exists in the source,
-  5. one rewrite fed with the exact problems; still failing -> the item
-     STAYS in the queue (status=new), silently, held in
-     data/auto_state.json, only logged to the Job Summary (no Issue),
-  6. passing items are published immediately, the site is rebuilt and
+  5. the 2..8 paragraph shape is enforced IN CODE (merge extras / split
+     a lone paragraph) - never an LLM call and never a rejection
+     reason,
+  6. one rewrite fed with the exact block problems; still failing ->
+     ONE fallback attempt: Gemini writer + xAI reviewer (max one
+     fallback per run, 6-minute wall clock, at most 2 tries on 5xx).
+     Still failing -> the item STAYS in the queue (status=new),
+     silently, held in data/auto_state.json, only logged to the Job
+     Summary (no Issue),
+  7. passing items are published immediately, the site is rebuilt and
      pvwvuow/wow is pinged by the workflow.
+
+Every processed item appends a tiny counter record to
+(data/auto_state.json).stats.items - counters only, never source text.
+Once per 24h window the Job Summary gets an aggregated report:
+primary (xai/xai) pass rate, fallback pass rate, block/warn counts,
+average processing time.
 
 The model has NO tools and NO network: the source text is untrusted
 DATA, never instructions - both prompts say so explicitly.
@@ -83,6 +99,8 @@ HOLD_DAYS = 7          # held items may be retried after a week
 INGEST_FAIL_LIMIT = 5  # consecutive runs without source text -> hold
 SKIP_CAT = re.compile(r"podcast|video|stream|interview", re.I)
 SKIP_TITLE = re.compile(r"\bpodcas?t\b|\bvideo\b|blizzpod", re.I)
+FALLBACK_TIMEOUT = 360  # seconds - whole fallback cycle wall clock
+DAY_S = 86400           # stats window for the daily report
 
 # Any token that looks like an API key -> redacted from every message
 # that could reach a log or the Job Summary. Never echo key material.
@@ -130,10 +148,15 @@ class Summary:
         self.title = title
         self.notes = []
         self.rows = []       # (id, title, result, detail)
+        self.md_blocks = []  # free-form markdown sections (daily report)
 
     def note(self, msg):
         self.notes.append(msg)
         print(f"note: {msg}", flush=True)
+
+    def md_block(self, text):
+        self.md_blocks.append(text)
+        print(text, flush=True)
 
     def row(self, art_id, title, result, detail=""):
         self.rows.append((art_id, title, result, detail))
@@ -148,6 +171,8 @@ class Summary:
                 t = (title or "")[:70].replace("|", "/")
                 d = scrub(detail)[:400]
                 lines.append(f"| {art_id} — {t} | {result} | {d} |")
+        for b in self.md_blocks:
+            lines += ["", b]
         body = "\n".join(lines) + "\n"
         path = os.environ.get("GITHUB_STEP_SUMMARY")
         if path:
@@ -334,11 +359,16 @@ def suggest_model(models):
 
 
 def gemini_generate(key, model, system, user, temperature, max_tokens,
-                    json_mode=False):
+                    json_mode=False, max_5xx_tries=4, deadline=None,
+                    http_timeout=300):
     """One generateContent call on ONE key. Returns (text, usage, secs).
     Raises GeminiQuota / GeminiBadKey / GeminiBadModel / RuntimeError.
     Feature fallbacks (each consumes one attempt): thinkingConfig,
-    responseMimeType, BLOCK_NONE safety threshold."""
+    responseMimeType, BLOCK_NONE safety threshold.
+    max_5xx_tries: give up after this many 5xx responses (default 4 =
+    the historical behaviour). deadline: monotonic timestamp; when set,
+    every attempt checks the remaining wall clock and the per-request
+    HTTP timeout is clamped to it (used by the 6-minute fallback)."""
     gen_cfg = {"maxOutputTokens": max_tokens,
                "thinkingConfig": {"thinkingBudget": 0}}
     if temperature is not None:
@@ -353,10 +383,20 @@ def gemini_generate(key, model, system, user, temperature, max_tokens,
                 for c in ("HARASSMENT", "HATE_SPEECH", "SEXUALLY_EXPLICIT",
                           "DANGEROUS_CONTENT")]}
     last = "unknown error"
-    for attempt in range(4):
+    fives = 0
+    attempt = 0
+    while attempt < 6:
+        attempt += 1
+        if deadline is not None:
+            remain = deadline - time.monotonic()
+            if remain < 30:
+                raise RuntimeError("Gemini: مهلت زمانی فراخوانی تمام شد")
+            timeout = max(30, min(http_timeout, int(remain)))
+        else:
+            timeout = http_timeout
         t0 = time.monotonic()
         code, data = gemini_http(key, f"/models/{model}:generateContent",
-                                 body)
+                                 body, timeout=timeout)
         secs = time.monotonic() - t0
         if code == 200:
             text = ""
@@ -403,10 +443,13 @@ def gemini_generate(key, model, system, user, temperature, max_tokens,
             raise RuntimeError(
                 f"Gemini: مدل «{model}» برای این کلید پیدا نشد — "
                 f"GEMINI_MODEL را با فهرست واقعی اصلاح کنید ({last})")
-        if code >= 500 and attempt < 3:
-            time.sleep(10 * (attempt + 1))
+        if code >= 500:
+            fives += 1
+            if fives >= max_5xx_tries:
+                break
+            time.sleep(10 * fives if deadline is None else min(5 * fives, 30))
             continue
-        if attempt < 3:
+        if attempt < 6:
             time.sleep(5)
             continue
         break
@@ -438,12 +481,12 @@ class Provider:
         return s
 
     def generate(self, role, system, user, temperature, max_tokens,
-                 json_mode=False):
+                 json_mode=False, **opts):
         if self.name == "xai":
             return self._xai(role, system, user, temperature, max_tokens,
                              json_mode)
         return self._gemini(role, system, user, temperature, max_tokens,
-                            json_mode)
+                            json_mode, **opts)
 
     def _log(self, role, key_pos, sec, usage):
         self.calls.append({"role": role, "provider": self.name,
@@ -462,7 +505,7 @@ class Provider:
         return text
 
     def _gemini(self, role, system, user, temperature, max_tokens,
-                json_mode):
+                json_mode, **opts):
         if not self.keys:
             raise RuntimeError("کلید GEMINI_API_KEY تنظیم نیست "
                                "(یا همهٔ خطوطش خالی است)")
@@ -474,7 +517,7 @@ class Provider:
                 t0 = time.monotonic()
                 text, usage, _ = gemini_generate(
                     key, self.model, system, user, temperature, max_tokens,
-                    json_mode)
+                    json_mode, **opts)
             except GeminiQuota as e:
                 last = e                # quota -> try the next key
                 continue
@@ -550,6 +593,7 @@ def load_state():
         at = (st["held"][hid] or {}).get("at_ts", 0)
         if not at or at < cutoff:
             st["held"].pop(hid)
+    init_stats(st)
     return st
 
 
@@ -606,24 +650,82 @@ def run_qa_gate(art_obj: dict) -> list:
         os.unlink(tmp)
 
 
-def structural_problems(out: dict) -> list:
+SENT_SPLIT = re.compile(r"(?<=[.!؟?…])\s+")
+
+
+def merge_shortest_pair(body):
+    """Merge the shortest adjacent pair (earliest on tie) - keeps sizes
+    balanced instead of stacking everything into the last paragraph."""
+    i = min(range(len(body) - 1),
+            key=lambda j: (len(body[j]) + len(body[j + 1]), j))
+    return (body[:i] + [body[i].rstrip() + " " + body[i + 1].lstrip()]
+            + body[i + 2:])
+
+
+def split_in_two(p):
+    """Split one paragraph into two at the sentence boundary nearest the
+    midpoint (falls back to the nearest space). None when impossible."""
+    sents = SENT_SPLIT.split(p.strip())
+    if len(sents) >= 2:
+        total = sum(len(s) for s in sents)
+        acc, best_i, best_diff = 0, None, None
+        for i in range(1, len(sents)):
+            acc += len(sents[i - 1])
+            diff = abs(acc - total / 2)
+            if best_diff is None or diff < best_diff:
+                best_i, best_diff = i, diff
+        return [" ".join(sents[:best_i]).strip(),
+                " ".join(sents[best_i:]).strip()]
+    sp = p.find(" ", len(p) // 2)
+    if sp < 0:
+        sp = p.rfind(" ")
+    if sp <= 0:
+        return None
+    return [p[:sp].strip(), p[sp + 1:].strip()]
+
+
+def enforce_structure(out):
+    """CODE-enforced article shape (never an LLM call, never a rejection
+    reason - the model is not even asked):
+      - body_fa given as one string -> split into paragraphs,
+      - MORE than 8 paragraphs -> merged down to exactly 8 (shortest
+        adjacent pair first, so text is preserved verbatim),
+      - exactly 1 paragraph -> split into 2 at the sentence boundary
+        nearest the midpoint (only when both halves are >= 40 chars, so
+        qa_check G7 stays green).
+    Returns ONLY the problems code cannot fix (missing fields, or a
+    degenerate one-paragraph body that cannot be split) - these feed the
+    targeted rewrite, they are never paragraph-count complaints."""
     probs = []
     for k in ("title_fa", "lead_fa", "body_fa"):
         if not out.get(k):
             probs.append(f"خروجی مدل فیلد {k} را ندارد")
     body = out.get("body_fa")
     if isinstance(body, str):
-        out["body_fa"] = [p for p in re.split(r"\n\s*\n", body) if p.strip()]
-    body = out.get("body_fa") or []
-    if out.get("body_fa") and not (2 <= len(body) <= 8):
-        probs.append(f"تعداد پاراگراف‌ها {len(body)} است؛ باید ۲ تا ۸ باشد")
+        body = [p for p in re.split(r"\n\s*\n", body) if p.strip()]
+    body = [str(p).strip() for p in (body or []) if str(p).strip()]
+    n_merged = n_split = 0
+    while len(body) > 8:
+        body = merge_shortest_pair(body)
+        n_merged += 1
+    if len(body) == 1:
+        halves = split_in_two(body[0])
+        if halves and all(len(h) >= 40 for h in halves):
+            body = halves
+            n_split += 1
+    out["body_fa"] = body
+    if body and len(body) < 2:
+        probs.append("بدنه فقط یک پاراگراف است و قابل شکستن نیست؛ آن را "
+                     "به ۲ تا ۳ پاراگراف ۴۰+ نویسه‌ای بشکن")
+    if n_merged or n_split:
+        print(f"  structure enforced in code: merged x{n_merged}, "
+              f"split x{n_split} -> {len(body)} paragraphs", flush=True)
     return probs
 
 
 # ------------------------------------------------------------ model calls
-def generate_article(provider, art, src, problems=None, role="write"):
-    """One writer call (same prompt composition for every provider)."""
-    system = open(PROMPT, encoding="utf-8").read()
+def compose_writer_user(art, src, problems=None, rewrite_note=None):
+    """The writer's user message (shared by every provider/attempt)."""
     nums = (art.get("qa_facts") or {}).get("numbers") or []
     user = SAFETY + "\n\n" + OUTPUT_SPEC + (
         f"TITLE: {art.get('title_en', '')}\n"
@@ -635,12 +737,37 @@ def generate_article(provider, art, src, problems=None, role="write"):
                  "written - no approximation, no «تا», no rounding): "
                  + ", ".join(nums))
     if problems:
-        user += ("\n\nنسخهٔ قبلی‌ات رد شد. همان مقاله را با اصلاح دقیق این "
-                 "مشکلات بازنگری کن (ساختار سالم را نگه دار، فقط جای "
-                 "مشکل‌ها را درست کن؛ هیچ ادعا/عدد/اسم تازه‌ای اضافه نکن):\n- "
-                 + "\n- ".join(problems))
+        note = rewrite_note or (
+            "نسخهٔ قبلی‌ات رد شد. همان مقاله را با اصلاح دقیق این "
+            "مشکلات بازنگری کن (ساختار سالم را نگه دار، فقط جای "
+            "مشکل‌ها را درست کن؛ هیچ ادعا/عدد/اسم تازه‌ای اضافه نکن):")
+        user += "\n\n" + note + "\n- " + "\n- ".join(problems)
+    return user
+
+
+def generate_article(provider, art, src, problems=None, role="write"):
+    """One writer call (same prompt composition for every provider)."""
+    system = open(PROMPT, encoding="utf-8").read()
+    user = compose_writer_user(art, src, problems)
     raw = provider.generate(role, system, user, temperature=0.25,
                             max_tokens=8000)
+    return parse_json_reply(raw)
+
+
+def generate_article_fb(provider, art, src, problems, deadline):
+    """Fallback writer call: Gemini, fed with the primary path's block
+    problems. Hard limits come from the caller's 6-minute deadline and
+    max_5xx_tries=2 (503 -> at most 2 tries)."""
+    system = open(PROMPT, encoding="utf-8").read()
+    user = compose_writer_user(
+        art, src, problems,
+        rewrite_note=("نویسندهٔ قبلی این مشکلات را داشت و مقاله‌اش رد شد. "
+                      "یک مقالهٔ کاملاً تازه از همان منبع بنویس و این "
+                      "مشکلات را تکرار نکن؛ هیچ ادعا/عدد/اسمی که در "
+                      "منبع نیست اضافه نکن:"))
+    raw = provider.generate("write-fallback", system, user,
+                            temperature=0.25, max_tokens=8000,
+                            deadline=deadline, max_5xx_tries=2)
     return parse_json_reply(raw)
 
 
@@ -653,19 +780,42 @@ REVIEW_SPEC = (
     "Return ONLY the JSON verdict now.")
 
 
+def normalize_verdict(v):
+    """Tolerant parse of the reviewer JSON into (blocks, warns).
+    Current prompt: problems = [{"severity": "block"|"warn",
+    "issue": str}]. Legacy/unknown shapes are handled conservatively:
+    plain strings and objects with a missing/unknown severity count as
+    BLOCK (never let an unverifiable problem slip through)."""
+    blocks, warns = [], []
+    for p in (v.get("problems") or []):
+        if isinstance(p, dict):
+            issue = re.sub(r"\s+", " ",
+                           str(p.get("issue") or p.get("text") or ""))
+            issue = issue.strip()
+            if not issue:
+                continue
+            sev = str(p.get("severity") or "").strip().lower()
+            if "warn" in sev or sev in ("minor", "info"):
+                warns.append(issue)
+            else:                      # block / empty / unknown -> block
+                blocks.append(issue)
+        else:
+            s = re.sub(r"\s+", " ", str(p)).strip()
+            if s:
+                blocks.append(s)
+    return blocks, warns
+
+
 def review_article(provider, src, article_json):
-    """One reviewer call (fresh model instance, source + article)."""
+    """One reviewer call (fresh model instance, source + article).
+    Temperature 0. Returns (blocks, warns) - severity-aware."""
     system = open(REVIEW_PROMPT, encoding="utf-8").read()
     user = REVIEW_SPEC.format(
         src=src,
         article=json.dumps(article_json, ensure_ascii=False, indent=1))
     raw = provider.generate("review", system, user, temperature=0.0,
                             max_tokens=4000, json_mode=True)
-    v = parse_json_reply(raw)
-    ok = bool(v.get("ok"))
-    problems = [re.sub(r"\s+", " ", str(p)).strip()
-                for p in (v.get("problems") or []) if str(p).strip()]
-    return ok, problems
+    return normalize_verdict(parse_json_reply(raw))
 
 
 # -------------------------------------------------------------- pipeline
@@ -771,8 +921,21 @@ def eval_candidate(cand, src):
 
 
 def process(art, writer, reviewer, st, summ):
-    """Returns: published / held / skip."""
+    """Primary pipeline. Returns a record dict:
+    {result: published|held|skip, kind: content|api|ingest,
+     blocks, warns, sec, attempts, detail, problems, src}.
+    `src` and `problems` are TRANSIENT (memory only, never persisted) -
+    they feed the one-shot fallback when the item is rejected twice."""
+    t0 = time.monotonic()
     art_id = art["id"]
+
+    def ret(result, kind, blocks=0, warns=0, attempts=0, detail="",
+            problems=None, src=None):
+        return {"result": result, "kind": kind, "blocks": blocks,
+                "warns": warns, "sec": round(time.monotonic() - t0, 1),
+                "attempts": attempts, "detail": detail,
+                "problems": problems or [], "src": src}
+
     src, srcvia = ingest_source(art)
     if not src or len(src) < 400:
         fails = st["ingest_fails"].get(str(art_id), 0) + 1
@@ -782,15 +945,16 @@ def process(art, writer, reviewer, st, summ):
                                   "(پادکست/ویدیو/بدون متن؟)")
             summ.row(art_id, art.get("title_en"), "⏸ نگه داشته شد",
                      "متن منبع در دسترس نبود")
-            return "held"
+            return ret("held", "ingest", detail="متن منبع در دسترس نبود")
         summ.row(art_id, art.get("title_en"), "⏭ رد شد (موقت)",
                  "متن منبع این اجرا خوانده نشد")
-        return "skip"
+        return ret("skip", "ingest", detail="متن منبع خوانده نشد")
     st["ingest_fails"].pop(str(art_id), None)
     print(f"  source via {srcvia}: {len(src)} chars", flush=True)
     merge_facts(art, src)
 
     problems = None
+    blocks, warns = [], []
     detail = ""
     for attempt in (1, 2):
         # ---- write
@@ -802,12 +966,14 @@ def process(art, writer, reviewer, st, summ):
             if attempt == 1:
                 summ.row(art_id, art.get("title_en"), "⏭ رد شد (موقت)",
                          f"خطای فراخوانی مدل: {scrub(e)}")
-                return "skip"
+                return ret("skip", "api", attempts=1,
+                           detail=f"خطای مدل: {scrub(e)[:120]}")
             hold_item(st, art_id, f"خطای مدل در بازنویسی: {scrub(e)}")
             summ.row(art_id, art.get("title_en"), "⏸ نگه داشته شد",
                      "خطای مدل در بازنویسی")
-            return "held"
-        sprobs = structural_problems(out)
+            return ret("held", "api", attempts=2,
+                       detail="خطای مدل در بازنویسی")
+        sprobs = enforce_structure(out)   # 2..8 paragraphs IN CODE
 
         # ---- candidate article (in memory)
         cand = dict(art)
@@ -821,17 +987,19 @@ def process(art, writer, reviewer, st, summ):
 
         # ---- second-stage review (fresh call, source + article)
         try:
-            ok, rprobs = review_article(reviewer, src, cand["article_fa"])
+            blocks, warns = review_article(reviewer, src,
+                                           cand["article_fa"])
         except Exception as e:                          # noqa: BLE001
-            ok, rprobs = False, [f"بازبین پاسخ معتبر نداد: {scrub(e)}"]
+            blocks, warns = [f"بازبین پاسخ معتبر نداد: {scrub(e)}"], []
         _whole, gates = eval_candidate(cand, src)
 
-        probs = (sprobs
-                 + ([] if ok else rprobs)
-                 + [f"عددِ بدون منبع در مقاله: {n}"
-                    for n in gates["numbers_missing"]]
-                 + gates["qa"])
-        if not probs:
+        # ONLY blocks (reviewer) + deterministic gates prevent publish;
+        # warns are logged and never stop an article.
+        all_blocks = (sprobs + blocks
+                      + [f"عددِ بدون منبع در مقاله: {n}"
+                         for n in gates["numbers_missing"]]
+                      + gates["qa"])
+        if not all_blocks:
             payload = {"source_url": art["url"],
                        "title_en": art.get("title_en", ""),
                        "model": writer.model,
@@ -844,22 +1012,196 @@ def process(art, writer, reviewer, st, summ):
                 hold_item(st, art_id, "payload نامعتبر: " + "; ".join(errs))
                 summ.row(art_id, art.get("title_en"), "⏸ نگه داشته شد",
                          "; ".join(errs))
-                return "held"
+                return ret("held", "content", blocks=len(errs),
+                           warns=len(warns), attempts=attempt,
+                           detail="; ".join(errs), problems=all_blocks,
+                           src=src)
             publish(art, data, writer, reviewer)
             st["published_today"] = st.get("published_today", 0) + 1
-            detail = (f"بازبینی: pass"
-                      + ("" if not gates["numbers_missing"]
-                         else " | hard: 0"))
+            detail = ("بازبینی: pass"
+                      + (f" | هشدار بازبین: {len(warns)}" if warns else ""))
             summ.row(art_id, art.get("title_en"), "✅ منتشر شد", detail)
-            return "published"
-        detail = " | ".join(probs[:3])
+            for w in warns[:3]:
+                summ.note(f"warn [{art_id}]: {w}")
+            return ret("published", "content", blocks=0, warns=len(warns),
+                       attempts=attempt, detail=detail, src=src)
+        problems = all_blocks            # feed the rewrite / fallback
+        detail = " | ".join(all_blocks[:3])
+        if warns:
+            detail += f" | هشدار: {len(warns)}"
         if attempt == 1:
-            problems = probs               # one rewrite fed with problems
+            for w in warns[:2]:
+                summ.note(f"warn [{art_id}]: {w}")
             print(f"  attempt 1 rejected -> rewrite: {detail}", flush=True)
     hold_item(st, art_id, detail)
     summ.row(art_id, art.get("title_en"), "⏸ نگه داشته شد",
              f"دو بار رد شد: {detail}")
-    return "held"
+    for w in warns[:3]:
+        summ.note(f"warn [{art_id}]: {w}")
+    return ret("held", "content", blocks=len(problems), warns=len(warns),
+               attempts=2, detail=detail, problems=problems, src=src)
+
+
+# ------------------------------------------------------- fallback (xai/xai
+# rejected twice -> ONE attempt with a Gemini writer + xAI reviewer)
+def fb_enabled():
+    return (os.environ.get("FALLBACK_GEMINI") or "on").strip().lower() \
+        not in ("off", "false", "0", "no")
+
+
+def fallback_attempt(art, src, problems, fwriter, freviewer, st, summ):
+    """ONE fallback cycle: the Gemini writer writes fresh (fed with the
+    primary path's block problems), the xAI reviewer checks. Hard
+    limits: FALLBACK_TIMEOUT (6 min) wall clock for the whole cycle,
+    at most 2 tries on Gemini 5xx (max_5xx_tries=2). Returns the same
+    record dict as process()."""
+    t0 = time.monotonic()
+    deadline = t0 + FALLBACK_TIMEOUT
+    art_id = art["id"]
+
+    def ret(result, blocks=0, warns=0, detail=""):
+        return {"result": result, "kind": "fallback", "blocks": blocks,
+                "warns": warns, "sec": round(time.monotonic() - t0, 1),
+                "attempts": 1, "detail": detail, "problems": [],
+                "src": None}
+
+    if deadline - time.monotonic() < 60:
+        summ.row(art_id, art.get("title_en"), "⛔ fallback رد شد",
+                 "مهلت ۶ دقیقه‌ای پیش از شروع تمام بود")
+        return ret("held", detail="deadline before start")
+    try:
+        out = generate_article_fb(fwriter, art, src, problems, deadline)
+    except Exception as e:                              # noqa: BLE001
+        summ.row(art_id, art.get("title_en"), "⛔ fallback رد شد",
+                 f"خطای نویسندهٔ Gemini: {scrub(e)}")
+        return ret("held", detail=f"writer error: {scrub(e)[:150]}")
+    sprobs = enforce_structure(out)
+    cand = dict(art)
+    cand["article_fa"] = {
+        "title_fa": str(out.get("title_fa", "")).strip(),
+        "lead_fa": str(out.get("lead_fa", "")).strip(),
+        "body_fa": [str(p).strip() for p in (out.get("body_fa") or [])
+                    if str(p).strip()],
+        "tags_fa": out.get("tags_fa") or [],
+    }
+    if deadline - time.monotonic() < 45:
+        summ.row(art_id, art.get("title_en"), "⛔ fallback رد شد",
+                 "مهلت ۶ دقیقه‌ای پیش از بازبینی تمام شد")
+        return ret("held", detail="deadline before review")
+    try:
+        blocks, warns = review_article(freviewer, src, cand["article_fa"])
+    except Exception as e:                              # noqa: BLE001
+        blocks, warns = [f"بازبین پاسخ معتبر نداد: {scrub(e)}"], []
+    _whole, gates = eval_candidate(cand, src)
+    all_blocks = (sprobs + blocks
+                  + [f"عددِ بدون منبع در مقاله: {n}"
+                     for n in gates["numbers_missing"]] + gates["qa"])
+    if not all_blocks:
+        payload = {"source_url": art["url"],
+                   "title_en": art.get("title_en", ""),
+                   "model": fwriter.model,
+                   "title_fa": cand["article_fa"]["title_fa"],
+                   "lead_fa": cand["article_fa"]["lead_fa"],
+                   "body_fa": cand["article_fa"]["body_fa"],
+                   "tags_fa": cand["article_fa"]["tags_fa"]}
+        data, errs = PFI.sanitize_payload(payload)
+        if errs:
+            summ.row(art_id, art.get("title_en"), "⛔ fallback رد شد",
+                     "; ".join(errs))
+            return ret("held", blocks=len(errs), warns=len(warns),
+                       detail="; ".join(errs))
+        publish(art, data, fwriter, freviewer)
+        st["published_today"] = st.get("published_today", 0) + 1
+        detail = (f"fallback: پاس با نویسندهٔ Gemini/{fwriter.model}"
+                  + (f" | هشدار بازبین: {len(warns)}" if warns else ""))
+        summ.row(art_id, art.get("title_en"), "✅ منتشر شد (fallback)",
+                 detail)
+        for w in warns[:3]:
+            summ.note(f"warn [{art_id}]: {w}")
+        return ret("published", warns=len(warns), detail=detail)
+    summ.row(art_id, art.get("title_en"), "⛔ fallback هم رد شد",
+             " | ".join(all_blocks[:2]))
+    return ret("held", blocks=len(all_blocks), warns=len(warns),
+               detail=" | ".join(all_blocks[:3]))
+
+
+# ------------------------------------------------------- stats + 24h report
+def _ts(iso):
+    try:
+        return datetime.strptime(iso, "%Y-%m-%dT%H:%M:%SZ") \
+            .replace(tzinfo=timezone.utc).timestamp()
+    except Exception:
+        return 0.0
+
+
+def init_stats(st):
+    s = st.get("stats")
+    if not isinstance(s, dict) or not s.get("since"):
+        st["stats"] = {"since": now_iso(), "items": []}
+    return st["stats"]
+
+
+def record_stat(st, art_id, path, res):
+    """Append one per-item COUNTER record for the daily report. Only
+    counters go into the state file - `src` and `problems` never do."""
+    s = init_stats(st)
+    s["items"].append({
+        "id": str(art_id), "ts": now_iso(), "path": path,
+        "result": res.get("result"),
+        "blocks": int(res.get("blocks") or 0),
+        "warns": int(res.get("warns") or 0),
+        "sec": round(float(res.get("sec") or 0.0), 1),
+        "attempts": int(res.get("attempts") or 0)})
+    del s["items"][:-400]
+
+
+def daily_report_md(items, since_iso):
+    """Persian 24h report: primary pass rate, fallback pass rate,
+    block/warn counts, average processing time."""
+    prim = [i for i in items if i.get("path") == "primary"
+            and i.get("result") in ("published", "held")]
+    fbs = [i for i in items if i.get("path") == "fallback"
+           and i.get("result") in ("published", "held")]
+
+    def rate(lst):
+        n = len(lst)
+        p = sum(1 for i in lst if i.get("result") == "published")
+        return f"{p}/{n}" + (f" ({p * 100 // n}٪)" if n else "")
+
+    block_rej = sum(1 for i in prim
+                    if i.get("result") == "held"
+                    and i.get("blocks", 0) > 0)
+    warns = sum(i.get("warns", 0) for i in items)
+    secs = [float(i.get("sec") or 0.0) for i in prim]
+    avg = sum(secs) / len(secs) if secs else 0.0
+    return "\n".join([
+        "## گزارش ۲۴ ساعت گذشته (خط لولهٔ خودکار)",
+        f"<!-- window since {since_iso} -->",
+        f"- نرخ پاس مسیر اصلی xai/xai: {rate(prim)}",
+        "- نرخ پاس fallback (نویسندهٔ Gemini + بازبین xAI): "
+        + (rate(fbs) if fbs else "استفاده نشده"),
+        f"- رد به‌خاطر block (مسیر اصلی): {block_rej} خبر | "
+        f"هشدارهای warn ثبت‌شده: {warns}",
+        f"- میانگین زمان پردازش هر خبر (مسیر اصلی): {avg:.0f} ثانیه",
+    ])
+
+
+def maybe_daily_report(st, summ):
+    """Once per 24h window: aggregate the per-item stats into the Job
+    Summary, then start a fresh window. Records older than 7 days are
+    pruned to keep auto_state.json small."""
+    s = st.get("stats") or {}
+    since = s.get("since") or ""
+    t = _ts(since)
+    if not t or time.time() - t < DAY_S:
+        return
+    inwin = [i for i in s.get("items", []) if i.get("ts", "") >= since]
+    if inwin:
+        summ.md_block(daily_report_md(inwin, since))
+    s["since"] = now_iso()
+    cutoff = time.time() - 7 * DAY_S
+    s["items"] = [i for i in s.get("items", [])
+                  if _ts(i.get("ts", "")) >= cutoff]
 
 
 # ------------------------------------------------------------ publish mode
@@ -893,9 +1235,15 @@ def run_publish():
     if reviewer is None:
         return bail(f"بازبین ({rname}): {rerr}")
     summ.note(f"نویسنده: {writer.name}/{writer.model} | "
-              f"بازبین: {reviewer.name}/{reviewer.model}")
+              f"بازبین: {reviewer.name}/{reviewer.model} "
+              f"(دمای بازبین ۰)")
+    if fb_enabled():
+        summ.note("fallback فعال: خبرِ دوبار‌ردشده یک بار با نویسندهٔ "
+                  "Gemini + بازبین xAI امتحان می‌شود (حداکثر یک fallback "
+                  "در هر اجرا، سقف ۶ دقیقه)")
 
     st = load_state()
+    init_stats(st)
     budget = min(max_run, max_day - st.get("published_today", 0))
     summ.note(f"بودجهٔ این اجرا: {budget} | "
               f"امروز منتشرشده: {st.get('published_today', 0)}/{max_day} | "
@@ -909,18 +1257,57 @@ def run_publish():
 
     queue = candidates(st)
     summ.note(f"صف امروز: {len(queue)} خبر واجد شرایط")
+    fallback_used = False
+    fwriter = None
+    frev = None
     for art in queue:
         if published + held >= budget:
             break
         res = process(art, writer, reviewer, st, summ)
-        if res == "published":
-            published += 1
-        elif res == "held":
-            held += 1
-        else:
-            skipped += 1
+        record_stat(st, art["id"], "primary", res)
+        pcount = 1 if res["result"] == "published" else 0
+        hcount = 1 if res["result"] == "held" else 0
+        # ---- ONE-SHOT fallback: content-rejected twice by the primary
+        # xai writer -> one attempt with a Gemini writer + xAI reviewer.
+        if (res["result"] == "held" and res.get("kind") == "content"
+                and not fallback_used and writer.name == "xai"
+                and fb_enabled()):
+            fallback_used = True
+            if fwriter is None:
+                fwriter, ferr = build_provider("writer", name="gemini")
+                if fwriter is None:
+                    summ.note(f"fallback غیرفعال: {ferr}")
+            if fwriter is not None:
+                if reviewer.name == "xai":
+                    frev = reviewer
+                else:
+                    frev, frerr = build_provider("reviewer", name="xai")
+                if frev is None:
+                    summ.note(f"fallback غیرفعال (بازبین xAI): {frerr}")
+                else:
+                    summ.note(f"fallback برای {art['id']}: نویسندهٔ "
+                              f"Gemini/{fwriter.model} + بازبین xAI "
+                              f"(سقف ۶ دقیقه)")
+                    fb = fallback_attempt(art, res["src"],
+                                          res["problems"], fwriter,
+                                          frev, st, summ)
+                    record_stat(st, art["id"], "fallback", fb)
+                    if fb["result"] == "published":
+                        st["held"].pop(str(art["id"]), None)
+                        pcount, hcount = 1, 0
+                    else:
+                        pcount, hcount = 0, 1
+                        hr = st["held"].get(str(art["id"]))
+                        if hr is not None:
+                            hr["reason"] = (hr["reason"][:280]
+                                            + " | fallback هم رد شد: "
+                                            + (fb.get("detail") or "")[:90])
+        published += pcount
+        held += hcount
+        skipped += 0 if (pcount or hcount) else 1
         save_state(st)
 
+    maybe_daily_report(st, summ)
     summ.note(f"توکن نویسنده ({writer.model}): "
               f"{sum(c['in'] for c in writer.calls)} ورودی / "
               f"{sum(c['out'] for c in writer.calls)} خروجی | "
@@ -1021,11 +1408,14 @@ def run_check():
 # ----------------------------------------------------------- compare mode
 def compare_item(art, src, writer, reviewer):
     """Full write→review→(rewrite) cycle for one item, WITHOUT touching
-    state, disk or publishing. Returns one report record."""
+    state, disk or publishing. Same severity gates as the publish
+    pipeline (warns never fail an item; only blocks do). Returns one
+    report record."""
     t0 = time.monotonic()
     rec = {"id": art["id"], "title_en": art.get("title_en", ""),
            "status": "error", "attempts": 0, "seconds": 0.0,
-           "calls": [], "problems": [], "article": None}
+           "calls": [], "problems": [], "article": None,
+           "blocks": 0, "warns": 0, "warn_list": []}
     w0, r0 = len(writer.calls), len(reviewer.calls)
     problems = None
     last_probs = []
@@ -1040,7 +1430,7 @@ def compare_item(art, src, writer, reviewer):
             rec["calls"] = writer.calls[w0:] + reviewer.calls[r0:]
             rec["seconds"] = round(time.monotonic() - t0, 1)
             return rec
-        sprobs = structural_problems(out)
+        sprobs = enforce_structure(out)
         cand = dict(art)
         cand["article_fa"] = {
             "title_fa": str(out.get("title_fa", "")).strip(),
@@ -1050,13 +1440,17 @@ def compare_item(art, src, writer, reviewer):
             "tags_fa": out.get("tags_fa") or [],
         }
         try:
-            ok, rprobs = review_article(reviewer, src, cand["article_fa"])
+            blocks, warns = review_article(reviewer, src,
+                                           cand["article_fa"])
         except Exception as e:                          # noqa: BLE001
-            ok, rprobs = False, [f"بازبین پاسخ معتبر نداد: {scrub(e)}"]
+            blocks, warns = [f"بازبین پاسخ معتبر نداد: {scrub(e)}"], []
         _whole, gates = eval_candidate(cand, src)
-        probs = (sprobs + ([] if ok else rprobs)
+        probs = (sprobs + blocks
                  + [f"عددِ بدون منبع در مقاله: {n}"
                     for n in gates["numbers_missing"]] + gates["qa"])
+        rec["blocks"] = len(probs)
+        rec["warns"] = len(warns)
+        rec["warn_list"] = warns
         last_probs = probs
         if not probs:
             payload = {"source_url": art["url"],
@@ -1090,14 +1484,18 @@ def combo_summary_md(combo, writer, reviewer, records, total):
     """Persian markdown section for the Job Summary."""
     w, r = combo.split(":")
     npass = sum(1 for x in records if x["status"] == "pass")
+    nblocks = sum(x.get("blocks", 0) for x in records
+                  if x["status"] != "pass")
+    nwarns = sum(x.get("warns", 0) for x in records)
     lines = [f"## ترکیب نویسنده:بازبین = {combo} (DRY-RUN)", "",
              f"- نویسنده: {w}/{writer.model} | بازبین: {r}/{reviewer.model}",
              f"- مجموع: {len(records)} خبر | {npass} پاس، "
              f"{len(records) - npass} رد | "
              f"{total['calls']} تماس | {total['seconds']} ثانیه | "
-             f"توکن ورودی {total['in']} / خروجی {total['out']}",
-             "", "| خبر | وضعیت | تلاش | تماس | ثانیه | توکن (ورود/خروج) | "
-                 "دلیل رد |", "|---|---|---|---|---|---|---|"]
+             f"توکن ورودی {total['in']} / خروجی {total['out']} | "
+             f"block ردها: {nblocks} | warn: {nwarns}",
+             "", "| خبر | وضعیت | تلاش | تماس | ثانیه | block | warn | "
+                 "دلیل رد |", "|---|---|---|---|---|---|---|---|"]
     for x in records:
         status = ("✅ پاس" if x["status"] == "pass" else
                   "❌ رد" if x["status"] == "fail" else "⚠️ خطا")
@@ -1108,7 +1506,13 @@ def combo_summary_md(combo, writer, reviewer, records, total):
             if x["status"] != "pass" else "—"
         lines.append(f"| [{x['id']}] {title} | {status} | {x['attempts']} "
                      f"| {len(x['calls'])} | {x['seconds']} "
-                     f"| {tin}/{tout} | {reason} |")
+                     f"| {x.get('blocks', 0)} | {x.get('warns', 0)} "
+                     f"| {reason} |")
+    warn_lines = [f"- warn [{x['id']}]: {w}" for x in records
+                  for w in (x.get("warn_list") or [])[:2]]
+    if warn_lines:
+        lines += ["", "هشدارهای بازبین (warn — مانع انتشار نیستند):"]
+        lines += warn_lines[:8]
     lines.append("")
     lines.append("توکن به تفکیک نقش: " + "; ".join(
         f"{role}: {v['in']}/{v['out']} ({v['n']} تماس، {v['sec']}s)"

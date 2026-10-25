@@ -72,13 +72,21 @@ jobs:
 
   # ------------------------------------------------------------------
   # Auto-publish: the configured AI (AI_WRITER) writes a Persian article
-  # for every queue item, a second reviewer call (AI_REVIEWER) +
-  # deterministic gates verify it against the source, one rewrite is
-  # allowed, then it publishes instantly. Rejected items stay in the
-  # queue silently (Job Summary only).
+  # for every queue item, a second reviewer call (AI_REVIEWER, temp 0)
+  # returns severity-tagged problems: "block" = claim/number/name/date
+  # not in the source (prevents publishing), "warn" = style/
+  # translationese/ambiguous-date editorializing (logged only). The
+  # 2..8 paragraph shape is enforced in code, never a rejection reason.
+  # One rewrite is allowed; an item still rejected twice gets ONE
+  # fallback attempt (Gemini writer + xAI reviewer, 6-minute cap,
+  # max 2 tries on 5xx; FALLBACK_GEMINI=off disables). Rejected items
+  # stay in the queue silently (Job Summary only). A 24h stats window
+  # adds an aggregated report (pass rates, block/warn counts, avg time)
+  # to the Job Summary once a day.
   # Config: secrets XAI_API_KEY / GEMINI_API_KEY (multi-key, ::add-mask::
   # per line) + variables AI_WRITER / AI_REVIEWER / XAI_MODEL /
-  # GEMINI_MODEL / MAX_PER_RUN / MAX_PER_DAY / AUTO_PUBLISH.
+  # GEMINI_MODEL / MAX_PER_RUN / MAX_PER_DAY / AUTO_PUBLISH /
+  # FALLBACK_GEMINI.
   # ------------------------------------------------------------------
   auto-publish:
     needs: fetch
@@ -107,6 +115,7 @@ jobs:
           MAX_PER_RUN: ${{ vars.MAX_PER_RUN }}
           MAX_PER_DAY: ${{ vars.MAX_PER_DAY }}
           AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH }}
+          FALLBACK_GEMINI: ${{ vars.FALLBACK_GEMINI }}
         run: python tools/auto_publish.py
       - name: Commit published articles + state, rebuild site, ping wow
         env:
