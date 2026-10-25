@@ -1,7 +1,68 @@
 {
  "day": "2026-10-25",
  "published_today": 1,
- "held": {},
+ "held": {
+  "383516": {
+   "reason": "«چهار پاداش جدید Lorewalking را به همراه کتاب‌های lore related to them به عنوان decor قابل خواندن معرفی می‌کند» — منبع می‌گوید هر کدام یک lore book related to them به عنوان decor پاداش می‌دهند، نه اینکه چهار پاداش جدید را «به همراه» کتاب‌ها معرفی کند. | «decor rewards قبلی در پچ  | fallback هم رد شد: «چهار داستان جدید Lorewalking در دسترس قرار می‌گیرد» — منبع فقط می‌گوید «Four new Lorewalk",
+   "at": "2026-10-25T19:13:18Z",
+   "at_ts": 1792955598.234113
+  },
+  "383562": {
+   "reason": "«Hallow's End نیز به‌روزرسانی‌هایی در فعالیت‌های محله دریافت کرده است که شامل quests روزانه و سه تم محله می‌شود» — منبع فقط می‌گوید Hallow's End has some neighborhood activity updates with daily quests and three neighborhood themes؛ جمله فارسی ادعای «دریافت کرده است» (completed fact) می‌سازد در حالی که منبع در زمان حال و در زمینه مقایسه با Winter Veil است. | «به‌روزرسانی احتمالاً شامل quests روزان",
+   "at": "2026-10-25T19:15:40Z",
+   "at_ts": 1792955740.023013
+  },
+  "383570": {
+   "reason": "اشکال مربوط به Echoing Roar از Nalorakk که در مکان اشتباه ظاهر می‌شد برطرف شده است — منبع فقط از Echoing Maul صحبت کرده و اصلاً Echoing Roar را ذکر نکرده است. | اشکال مربوط به Fel Spray از Nibbles که در جهت اشتباه ضربه می‌زد رفع شده است — منبع فقط می‌گوید Fel Spray به هدف‌هایی خارج از محدوده مورد نظر ضربه می‌زند، نه اینکه جهت اشتباه است. | اشکال برجسته وارلاک‌ها که باعث ninja pulling در حضور rogue",
+   "at": "2026-10-25T19:15:54Z",
+   "at_ts": 1792955754.780631
+  }
+ },
  "ingest_fails": {},
- "updated_at": "2026-10-25T18:31:26Z"
+ "updated_at": "2026-10-25T19:15:54Z",
+ "stats": {
+  "since": "2026-10-25T19:13:08Z",
+  "items": [
+   {
+    "id": "383516",
+    "ts": "2026-10-25T19:13:18Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 3,
+    "warns": 0,
+    "sec": 9.7,
+    "attempts": 2
+   },
+   {
+    "id": "383516",
+    "ts": "2026-10-25T19:15:27Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 4,
+    "warns": 0,
+    "sec": 129.0,
+    "attempts": 1
+   },
+   {
+    "id": "383562",
+    "ts": "2026-10-25T19:15:40Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 7,
+    "warns": 1,
+    "sec": 12.5,
+    "attempts": 2
+   },
+   {
+    "id": "383570",
+    "ts": "2026-10-25T19:15:54Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 6,
+    "warns": 0,
+    "sec": 14.8,
+    "attempts": 2
+   }
+  ]
+ }
 }
