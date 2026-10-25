@@ -1,13 +1,29 @@
 name: fetch-news
 
-# Poll Wowhead RSS every 20 minutes; store new items as article JSONs.
+# Poll Wowhead RSS every ~20 minutes; store new items as article JSONs.
+#
+# Reliability: GitHub's schedule cron is heavily delayed (or skipped) on
+# low-activity repos, so this workflow keeps ITSELF alive: after every run
+# (success or failure) it sleeps 20 minutes and fires a repository_dispatch
+# ("fetch-loop") at itself using the workflow's own GITHUB_TOKEN —
+# repository_dispatch is one of the few events that GITHUB_TOKEN is allowed
+# to trigger, so no PAT is needed for the loop. The */20 schedule stays as a
+# fallback in case the chain is ever broken (re-seed with one manual run).
+#
+# When new items are actually committed and pushed, the workflow also pings
+# pvwvuow/wow (repository_dispatch "news-updated") using the NEWS_PING_TOKEN
+# secret, so wow's static news pages rebuild instantly. If that secret is
+# empty the step is skipped and wow falls back to its own schedule.
 on:
   schedule:
     - cron: "*/20 * * * *"
   workflow_dispatch:
+  repository_dispatch:
+    types: [fetch-loop]
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: fetch-news
@@ -16,6 +32,7 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -23,7 +40,9 @@ jobs:
           python-version: "3.12"
       - name: Fetch new Wowhead news
         run: python tools/fetch_news.py
-      - name: Commit new items + rebuild site (queue on Pages)
+      - name: Commit new items + rebuild site (queue on Pages) + ping wow
+        env:
+          NEWS_PING_TOKEN: ${{ secrets.NEWS_PING_TOKEN }}
         run: |
           git config user.name "wowfarsi-bot"
           git config user.email "action@github.com"
@@ -38,4 +57,29 @@ jobs:
               git commit -m "site: rebuild after fetch $(date -u +%FT%TZ)"
             fi
             git push
+            if [ -n "$NEWS_PING_TOKEN" ]; then
+              code=$(curl -sS -o /tmp/ping.json -w "%{http_code}" -X POST \
+                -H "Authorization: Bearer $NEWS_PING_TOKEN" \
+                -H "Accept: application/vnd.github+json" \
+                https://api.github.com/repos/pvwvuow/wow/dispatches \
+                -d '{"event_type":"news-updated"}')
+              echo "ping pvwvuow/wow build-news: HTTP $code"
+              cat /tmp/ping.json
+            else
+              echo "NEWS_PING_TOKEN not set — wow falls back to its own schedule"
+            fi
           fi
+      - name: Keep the 20-minute loop alive (sleep 20m, then repository_dispatch)
+        if: ${{ !cancelled() }}
+        timeout-minutes: 26
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 1200
+          code=$(curl -sS -o /tmp/loop.json -w "%{http_code}" -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/dispatches" \
+            -d '{"event_type":"fetch-loop"}')
+          echo "self-dispatch fetch-loop: HTTP $code"
+          cat /tmp/loop.json
