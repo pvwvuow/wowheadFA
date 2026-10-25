@@ -1,0 +1,41 @@
+name: fetch-news
+
+# Poll Wowhead RSS every 20 minutes; store new items as article JSONs.
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-news
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch new Wowhead news
+        run: python tools/fetch_news.py
+      - name: Commit new items + rebuild site (queue on Pages)
+        run: |
+          git config user.name "wowfarsi-bot"
+          git config user.email "action@github.com"
+          git add data/articles
+          if git diff --cached --quiet; then
+            echo "No new items."
+          else
+            git commit -m "news: fetch $(date -u +%FT%TZ)"
+            python tools/build_site.py
+            git add docs
+            if ! git diff --cached --quiet; then
+              git commit -m "site: rebuild after fetch $(date -u +%FT%TZ)"
+            fi
+            git push
+          fi

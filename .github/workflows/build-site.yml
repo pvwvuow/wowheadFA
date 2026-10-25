@@ -1,0 +1,40 @@
+name: build-site
+
+# Rebuild docs/ (GitHub Pages) whenever articles, config or tools change.
+# QA gates must pass for every drafted/published article.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/articles/**"
+      - "config/**"
+      - "tools/build_site.py"
+      - "tools/qa_check.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: QA gates
+        run: python tools/qa_check.py --all
+      - name: Build site
+        run: python tools/build_site.py
+      - name: Commit pages
+        run: |
+          git config user.name "wowfarsi-bot"
+          git config user.email "action@github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "No site changes."
+          else
+            git commit -m "site: build $(date -u +%FT%TZ)"
+            git push
+          fi

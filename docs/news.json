@@ -1,0 +1,403 @@
+{
+ "generated": "2026-10-25T08:39:00Z",
+ "base_url": "https://pvwvuow.github.io/wowheadFA",
+ "site": "wowheadFA",
+ "published": [
+  {
+   "id": 383544,
+   "slug": "catch-up-on-renown-quickly-with-aqir-invasions",
+   "title_fa": "با حمله‌های Aqir هر هفته، Renown فرکشن‌های Midnight را سریع بالا ببرید",
+   "lead_fa": "برای جبران عقب‌افتادگی اعتبار فرکشن‌های Midnight، حمله‌های Aqir ساده‌ترین راه‌اند؛ رویدادی ساعتی که با دو توکن هفتگی، اعتبار سنگینی به دست می‌دهد.",
+   "body_fa": [
+    "حمله‌های Aqir یکی از فعالیت‌های تازهٔ پچ 12.1.5 در Midnight است؛ رویدادی که هر ساعت، سرِ ساعت شروع می‌شود و مرحلهٔ نخست آن ۱۰ دقیقه طول می‌کشد. در این بازه، بازیکن‌ها درون زون پرواز می‌کنند و هدف‌های علامت‌گذاری‌شده را در نقطهٔ مشخص‌شده کامل می‌کنند.",
+    "پس از پایان همین ۱۰ دقیقه است که یک Aqir Monstrosity ظاهر می‌شود و بازیکن‌ها زمان محدودی برای از پا درآوردنش دارند. نکتهٔ مهم برای شکارچیان اعتبار همین‌جاست: در هر هفته، دوبار نخست که این باس را شکست دهید، یک Aqir Research Token به دست می‌آورید.",
+    "این توکن نزد فروشنده‌های Aqir Vendors در Silvermoon City مبادله می‌شود؛ دقیقاً در مختصات /way #2393 39.4 80.4. با صحبت با Matildeux Osril انتخاب می‌کنید که اعتبار به کدام فرکشن تعلق بگیرد.",
+    "به ازای هر توکن، 2,500 اعتبار برای یکی از چهار فرکشن Silvermoon Court، Amani Tribe، Hara'ti یا Singularity و 1,250 اعتبار برای Zul'jarra's Forces در نظر گرفته شده است. یعنی حجم قابل‌توجهی اعتبار در ازای کاری خیلی کم.",
+    "چون رویداد هر ساعت تکرار می‌شود، بهتر است دو شکست هفتگی را در برنامه‌تان بگنجانید تا پیشرفت Renown فرکشن‌های Midnight بدون وقفه ادامه پیدا کند."
+   ],
+   "tags_fa": [
+    "پچ 12.1.5",
+    "Midnight",
+    "Renown",
+    "Aqir Invasions"
+   ],
+   "title_en": "Catch Up on Renown Quickly with Aqir Invasions",
+   "source_url": "https://www.wowhead.com/news=383544",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383544-catch-up-on-renown-quickly-with-aqir-invasions.html",
+   "published_at": "2026-10-25T08:39:00Z",
+   "model": "GLM"
+  },
+  {
+   "id": 383566,
+   "slug": "new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr",
+   "title_fa": "چهار معجون جدید با ۳۰ درصد Experience بیشتر در PTR پچ 12.1.7",
+   "lead_fa": "در تازه‌ترین بیلد PTR پچ 12.1.7 چهار معجون تازه دیتاماین شده که هر چهار یک کار انجام می‌دهند: ۳۰ درصد Experience بیشتر از کیل و کوئست به مدت ۲ ساعت.",
+   "body_fa": [
+    "ویوهد در جدیدترین بیلد PTR پچ 12.1.7 چهار معجون تازه پیدا کرده است. هر چهار آیتم Bind to Warband هستند و افکت یکسانی دارند؛ با مصرف، به مدت ۲ ساعت Experience به‌دست‌آمده از کوئست‌ها و کیل‌ها ۳۰ درصد بیشتر می‌شود.",
+    "نکتهٔ جالب اینجا است که هنوز معلوم نیست این معجون‌ها از کجا می‌آیند. حدس اولیه، ارتباط با حال‌وهوای روگلایت مود Talebound است؛ اما با توجه به برچسب Bind to Warband، این احتمال چندان قوی به نظر نمی‌رسد.",
+    "اسم هر چهار معجون از یکی از چهار داستان Talebound گرفته شده است. Darkhaven خانهٔ Konrad von Sonnesheim با لقب The Lord Marshal و Alexandre Dozsenc یعنی The Blood Bishop است. Greenthistle Wood هم محل زندگی Granny Greenthumb و Ylska Vilefang و همچنین Mobog با عنوان The Giant of Greenthistle است. داستان Greywake's Expedition هم سرگذشت کسانی است که به دست Zzyg'th افتاده‌اند.",
+    "اگر این معجون‌ها واقعاً به Talebound گره خورده باشند، می‌توان انتظار داشت مسیر به‌دست‌آوردن‌شان در همان حال‌وهوای داستانی این مود تعریف شود. تا اعلام رسمی Blizzard باید صبر کرد و دید این آیتم‌ها در نسخهٔ نهایی پچ 12.1.7 با چه شکلی ظاهر می‌شوند."
+   ],
+   "tags_fa": [
+    "PTR",
+    "دیتاماین",
+    "Talebound",
+    "پچ 12.1.7"
+   ],
+   "title_en": "New 30% Bonus Experience Potions Datamined on Patch 12.1.7 PTR",
+   "source_url": "https://www.wowhead.com/news=383566",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383566-new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr.html",
+   "published_at": "2026-10-24T18:00:00Z",
+   "model": "GLM"
+  },
+  {
+   "id": 383511,
+   "slug": "some-decor-costs-adjusted-on-the-patch-12-1-7-ptr",
+   "title_fa": "تغییر قیمت دیکورها در PTR پچ 12.1.7؛ کتاب‌ها ارزان، بخشی از Midnight گران‌تر",
+   "lead_fa": "روی PTR پچ 12.1.7 قیمت‌های دیکور خانه جابه‌جا شده است؛ دیکورهای The War Within ارزان‌تر شده‌اند و قیمت برخی آیتم‌های Midnight بالا رفته است.",
+   "body_fa": [
+    "بارزترین نمونه، Literature of Dornogal است که قبلاً با قیمت 1000 از فروشندهٔ Auditor Balwurz خریداری می‌شد؛ حالا قیمتش به 250 رسیده است. برای کسی که می‌خواهد یک قفسهٔ کامل کتاب بچیند، این یعنی پر کردن کتابخانهٔ خانه چند برابر مقرون‌به‌صرفه شده است.",
+    "الگوی کاهش قیمت گسترده است: آیتم‌هایی مثل Boulder Springs Recliner و Rambleshire Resting Platform و تخم‌های Nourished و Dormant Brood Egg همگی از 350 به 250 رسیده‌اند. Dornogal Hanging Lantern هم با قیمت 500 در دسترس است و Handmade Shen'dorei Pillow از فروشگاه Midnight با کاهش چشمگیر از 5000 به همان 500 رسیده است.",
+    "خود آیتم‌ها هم چیز تازه‌ای بابت House XP ندارند: همچنان هر دیکور 10 House XP می‌دهد و بیشترشان هم داخل خانه و هم بیرون قابل قرارگیری‌اند.",
+    "در مجموع، این تغییرها جهت روشنی دارند: ورود به دکوراسیون خانه برای بازیکن‌های تازه‌تر ارزان‌تر می‌شود و آیتم‌های شاخص Midnight کمی گران‌تر می‌شوند. اگر لیست خریدی برای خانه‌تان دارید، بهتر است قبل از رسیدن پچ 12.1.7 به لایو، قیمت‌ها را یک بار دیگر چک کنید."
+   ],
+   "tags_fa": [
+    "PTR",
+    "دیکور خانه",
+    "Midnight",
+    "پچ 12.1.7"
+   ],
+   "title_en": "Some Decor Costs Adjusted on the Patch 12.1.7 PTR",
+   "source_url": "https://www.wowhead.com/news=383511",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383511-some-decor-costs-adjusted-on-the-patch-12-1-7-ptr.html",
+   "published_at": "2026-10-23T14:15:00Z",
+   "model": "GLM"
+  },
+  {
+   "id": 383522,
+   "slug": "camping-system-breakdown-in-world-of-warcraft-forever",
+   "title_fa": "سیستم Camping در WoW: Forever؛ آتش کمپ به نقطهٔ دیدار تبدیل می‌شود",
+   "lead_fa": "Blizzard در وبلاگی رسمی سیستم Camping در WoW: Forever را تشریح کرده است؛ آتش سادهٔ آشپزی به کمپ مشترکی تبدیل می‌شود که بازیکن‌های اطراف با ساخت‌های پروفشن‌ها در آن به هم کمک می‌کنند.",
+   "body_fa": [
+    "ایدهٔ اصلی ساده است: همان Cooking Fire آشنا به Basic Campfire ارتقا می‌یابد. وقتی آتش روشن شود، یک کمپ مشترک شکل می‌گیرد و بازیکن‌های نزدیک می‌توانند قبل از ادامهٔ مسیر در آن استراحت کنند و از امکان‌های ساخته‌شده توسط دیگران استفاده کنند.",
+    "هر کمپ می‌تواند تا ۳ آیتم ویژه از ساخت پروفشن‌ها را نگه دارد و هر بازیکن یکی از آن‌ها را اضافه می‌کند. برای مثال بلک‌اسمیت می‌تواند Sharpening Wheel بگذارد که یک ساعت Strength بالا می‌برد؛ تیلور Faction Banner برای افزایش Spirit قرار می‌دهد و هربالیست با Incense Candle به Intellect کمک می‌کند. این اثرها نسخه‌هایی از باف‌های معمول کلاس‌ها هستند و با آن‌ها exclusive می‌مانند؛ یعنی هم‌زمان نمی‌توانید از هر دو بهره ببرید.",
+    "برای اینکه از امکان‌های دیگران بهره ببرید، کافی است حداقل ۱ دقیقه کنار کمپ بنشینید یا همان‌جا کرفت کنید. همین مکث کوتاه کنار جاده می‌تواند به یک معامله، یک گروه تازه یا حتی شروع یک دوستی طولانی تبدیل شود.",
+    "ورود به این سیستم با یک کوئست ساده در اوایل بازی اتفاق می‌افتد. وقتی سطح اسکیل یک پروفشن به 20 برسد، آیتم‌های اولیهٔ کمپ از کوئست‌های استارت‌زون یا خرید از پروفشن ترینر به دست می‌آیند؛ آیتم‌های نیازمند اسکیل 140 به بالا هم از دراپ دانجن‌ها و ریدها می‌آیند.",
+    "یادآوری ساختار پروفشن‌ها: سه پروفشن ثانویه یعنی Cooking، Fishing و First Aid را همیشه می‌توانید داشته باشید و در کنارشان دو پروفشن اصلی انتخاب می‌کنید؛ از جمع‌آوری‌ها مثل Skinning و Mining و Herbalism تا ساخت‌ها مثل Alchemy و Blacksmithing و Enchanting و Engineering و Leatherworking و Tailoring. مسیر پیشرفت هم از Apprentice به Journeyman و بعد Expert و در نهایت Artisan است.",
+    "نکتهٔ فنی مهم: همهٔ امکان‌های Camping باید در نزدیکی آتش باشند و بین‌شان یک کول‌داون مشترک ۱ ساعته وجود دارد. یعنی چیدن یک کمپ مفید، کمی برنامه‌ریزی گروهی می‌خواهد.",
+    "آشپزها در ادامه می‌توانند Campfireهای ارتقایافته یاد بگیرند که جا برای پنج و حتی 10 آیتم در یک کمپ فراهم می‌کند. نمونهٔ جذاب دیگر هم Mana Well است که به شما و بقیهٔ نشسته‌های نزدیکش اجازه می‌دهد هر ۵ ثانیه 10-29 Mana (بسته به لول) بازسازی کنید."
+   ],
+   "tags_fa": [
+    "WoW: Forever",
+    "Camping",
+    "پروفشن‌ها",
+    "بلیزارد"
+   ],
+   "title_en": "Camping System Breakdown in World of Warcraft: Forever",
+   "source_url": "https://www.wowhead.com/news=383522",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383522-camping-system-breakdown-in-world-of-warcraft-forever.html",
+   "published_at": "2026-10-21T17:07:33Z",
+   "model": "GLM"
+  },
+  {
+   "id": 383507,
+   "slug": "acquire-scarecrow-pepe-decor-during-hallow-s-end",
+   "title_fa": "Scarecrow Pepe در Hallow's End؛ یک آچیومنت ساده، یک دیکور دوست‌داشتنی",
+   "lead_fa": "رویداد Hallow's End امسال آچیومنت تازه‌ای به نام A Frightening Friend دارد که جایزه‌اش دیکور Scarecrow Pepe است؛ فقط خلال تعطیلات در دسترس است.",
+   "body_fa": [
+    "اخبار Hallow's End 2026: آچیومنت جدید A Frightening Friend پاداش تازه‌ای به نام Scarecrow Pepe دارد. اگر قبلاً این آچیومنت را گرفته باشید، دیکور به‌صورت retroactively به شما می‌رسد؛ اما اگر هنوز این پرندهٔ کوچک را ندارید، فقط در روزهای رویداد فرصت دارید.",
+    "شرط لازم داشتن Garrison سطح ۳ از نسخهٔ Warlords of Draenor است. بعد به گورستان Garrison بروید؛ در گاریسون Horde مختصات /way 71.2 90.3 و در گاریسون Alliance مختصات /way 40.5 70.2 نقطهٔ هدف است.",
+    "آن‌جا Scarecrow Pepe را روی یک سنگ قبر نشسته پیدا می‌کنید. کافی است رویش کلیک کنید تا هم آچیومنت ثبت شود و هم دیکور جدید به مجموعهٔ خانه‌تان اضافه شود. کار ساده‌ای است، ولی فقط تا پایان Hallow's End."
+   ],
+   "tags_fa": [
+    "Hallow's End",
+    "Pepe",
+    "دیکور خانه"
+   ],
+   "title_en": "Acquire Scarecrow Pepe Decor During Hallow's End",
+   "source_url": "https://www.wowhead.com/news=383507",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383507-acquire-scarecrow-pepe-decor-during-hallow-s-end.html",
+   "published_at": "2026-10-21T15:00:00Z",
+   "model": "GLM"
+  },
+  {
+   "id": 383517,
+   "slug": "kindo-jan-labyrinth-reputation-increased-from-delve-bonus-event",
+   "title_fa": "هفتهٔ بونوس Delves؛ ۲۵ درصد Reputation بیشتر برای Labyrinth of Kindo'jan",
+   "lead_fa": "رویداد بونوس Delves این هفته سه باف هم‌زمان می‌دهد: ۲۵ درصد Reputation بیشتر برای Labyrinth of Kindo'jan، ۲۵ درصد Delver's Journey بیشتر و ۲۵ درصد Undercoin بیشتر.",
+   "body_fa": [
+    "رویداد بونوس Delve یک هفته کامل طول می‌کشد و در این مدت سه پاداش کلیدی را تقویت می‌کند: Reputation در Labyrinth of Kindo'jan، پیشرفت Delver's Journey و درآمد Undercoin؛ هر سه ۲۵ درصد بیشتر از حالت عادی.",
+    "نکتهٔ تازه این است که با پچ 12.1.5 این باف حالا به Reputation خود Labyrinth هم اضافه شده است. یعنی برای کسانی که می‌خواهند رنک‌های جدید قدرت و پاداش‌ها را باز کنند، این هفته بهترین زمان ممکن است.",
+    "در مسیر رنک‌ها هم چیزهای جذابی منتظر شماست: در رنک اول یعنی Ancient Curios، صندوق‌های Bountiful Coffers و Hidden Troves می‌توانند در Tier 8 به بالا Curios رتبهٔ ۵ بدهند. رنک دوم با نام Lock, Key, and Mask یک در قفل‌شده و Keeper of the Key و Elemental Hexmasks را به رازهای Labyrinth اضافه می‌کند.",
+    "رنک سوم هم Akil'zon's Favor است؛ می‌توانید از Akil'zon's Seals عبور کنید و با پیدا کردن Sturdy Chests پاداش‌هایی مثل Akil'zon's Swiftness را بگیرید.",
+    "در رنک‌های بالاتر هم خبرهای خوبی هست: با Ancient Curios رتبهٔ ۸ می‌توانید آپدیت Delve-O-Bot 7001 یعنی Midnight Software Update Chip را از Telemancer Astrandis در Silvermoon City بخرید تا مقصد Labyrinth of Kindo'jan به ربات شما اضافه شود. اگر برنامهٔ فارم دارید، این هفته را از دست ندهید."
+   ],
+   "tags_fa": [
+    "Delves",
+    "Reputation",
+    "رویداد هفتگی"
+   ],
+   "title_en": "Kindo'jan Labyrinth Reputation Increased from Delve Bonus Event",
+   "source_url": "https://www.wowhead.com/news=383517",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383517-kindo-jan-labyrinth-reputation-increased-from-delve-bonus-event.html",
+   "published_at": "2026-10-21T14:00:00Z",
+   "model": "GLM"
+  },
+  {
+   "id": 383515,
+   "slug": "how-to-reserve-your-world-of-warcraft-forever-character-name-on-octobe",
+   "title_fa": "رزرو اسم کاراکتر در WoW: Forever از ۲۷ اکتبر باز می‌شود",
+   "lead_fa": "از ۲۷ اکتبر بازیکن‌های واجد شرط می‌توانند تا ۳ اسم کاراکتر در WoW: Forever رزرو کنند؛ اروپا ساعت 18:00 CET شروع می‌کند و آمریکای شمالی ساعت 13:00 PDT.",
+   "body_fa": [
+    "بلیزارد جزئیات Early Name Reservation برای WoW: Forever را اعلام کرد. بازهٔ رزرو از ۲۷ اکتبر تا ۳ نوامبر ادامه دارد و اسم‌ها به‌صورت اولویت‌بندی سرعت تصمیم‌گیری می‌دهند؛ یعنی اسم محبوب شما تضمینی نیست.",
+    "زمان شروع بر اساس منطقه: اروپا ۲۷ اکتبر ساعت 18:00 CET، آمریکای شمالی ۲۷ اکتبر ساعت 13:00 PDT، کره ۲۸ اکتبر ساعت 07:00 KST و تایوان هم ۲۸ اکتبر ساعت 07:00 CST.",
+    "سقف رزرو برای هر حساب ۳ کاراکتر در مجموع و در تمام Rulesetها است. اگر دو کاراکتر روی PvP رزرو کنید، فقط یک جایگاه برای Normal یا Role-Play برایتان می‌ماند. این محدودیت فقط به همین دورهٔ Early Name Reservation مربوط است.",
+    "شرط استفاده از رزرو، خرید WoW: Forever Digital Upgrade یا Collector's Edition است و این مزیت فقط به همان اکانت خاصی تعلق می‌گیرد که خرید برایش انجام شده باشد. کسانی هم که Skyborne Heroic Pack یا Skyborne Epic Pack یا بستهٔ زمان‌دار Warcraft Forever Collection را پیش‌خرید کرده‌اند، به همین بازهٔ رزرو دسترسی دارند.",
+    "اگر می‌خواهید روز اول آماده باشید، همین حالا درایور کارت گرافیک را به‌روز کنید، اپلیکیشن Battle.net دسکتاپ را نصب و آپدیت کنید و در منوی Game Version نسخهٔ World of Warcraft: Forever را انتخاب و نصب کنید تا در لحظهٔ باز شدن رزرو فقط اسم‌ها را وارد کنید."
+   ],
+   "tags_fa": [
+    "WoW: Forever",
+    "رزرو اسم",
+    "بلیزارد"
+   ],
+   "title_en": "How to Reserve Your World of Warcraft: Forever Character Name on October 27th",
+   "source_url": "https://www.wowhead.com/news=383515",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383515-how-to-reserve-your-world-of-warcraft-forever-character-name-on-octobe.html",
+   "published_at": "2026-10-20T21:02:22Z",
+   "model": "GLM"
+  }
+ ],
+ "queue": [
+  {
+   "id": 383570,
+   "title_en": "Den of Nalorakk and Murder Row Bug Fixes - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383570",
+   "category": "Live",
+   "published_at": "2026-10-24T00:23:57Z"
+  },
+  {
+   "id": 383568,
+   "title_en": "Subtlety Rogue Nerfs and Feral Druid Buffs - Class Tuning Incoming with Weekly Reset",
+   "url": "https://www.wowhead.com/news=383568",
+   "category": "Live",
+   "published_at": "2026-10-23T22:54:15Z"
+  },
+  {
+   "id": 383554,
+   "title_en": "World Bosses, Legendaries, and a Scourge Invasion - The WoW: Forever Beta is Over",
+   "url": "https://www.wowhead.com/news=383554",
+   "category": "Forever",
+   "published_at": "2026-10-23T20:13:11Z"
+  },
+  {
+   "id": 383561,
+   "title_en": "This Week's WoW Recap - WoW: Forever, Hallow's End, Fall Savings",
+   "url": "https://www.wowhead.com/news=383561",
+   "category": "WoW",
+   "published_at": "2026-10-23T17:25:01Z"
+  },
+  {
+   "id": 383560,
+   "title_en": "Blizzard Thanks Players for Testing the WoW Forever Beta",
+   "url": "https://www.wowhead.com/news=383560",
+   "category": "Forever",
+   "published_at": "2026-10-23T17:12:50Z"
+  },
+  {
+   "id": 383558,
+   "title_en": "Watch the World of Warcraft: Midnight Motion Comic, “Singularity”",
+   "url": "https://www.wowhead.com/news=383558",
+   "category": "Live",
+   "published_at": "2026-10-23T17:08:34Z"
+  },
+  {
+   "id": 383557,
+   "title_en": "Get Your WoW: Forever Beta Stats",
+   "url": "https://www.wowhead.com/news=383557",
+   "category": "Forever",
+   "published_at": "2026-10-23T16:35:49Z"
+  },
+  {
+   "id": 383523,
+   "title_en": "Dalaran Updated Ahead of the Beta's End in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383523",
+   "category": "Forever",
+   "published_at": "2026-10-23T16:00:00Z"
+  },
+  {
+   "id": 383529,
+   "title_en": "Bind to Account Mythic+ Gear Chests Now Available",
+   "url": "https://www.wowhead.com/news=383529",
+   "category": "Live",
+   "published_at": "2026-10-23T15:00:00Z"
+  },
+  {
+   "id": 383547,
+   "title_en": "Who is WoW: Forever Meant For? Blizzard Discusses on Forever Podcast",
+   "url": "https://www.wowhead.com/news=383547",
+   "category": "Forever",
+   "published_at": "2026-10-23T14:00:00Z"
+  },
+  {
+   "id": 383551,
+   "title_en": "Four New Titles Available from Talebound in Patch 12.1.7",
+   "url": "https://www.wowhead.com/news=383551",
+   "category": "PTR",
+   "published_at": "2026-10-23T13:00:00Z"
+  },
+  {
+   "id": 383552,
+   "title_en": "Item Level Changes for Ascended Venomforged Gear",
+   "url": "https://www.wowhead.com/news=383552",
+   "category": "Live",
+   "published_at": "2026-10-23T02:19:48Z"
+  },
+  {
+   "id": 383550,
+   "title_en": "Patch 12.1.7 PTR Development Notes - Various Bug Fixes",
+   "url": "https://www.wowhead.com/news=383550",
+   "category": "PTR",
+   "published_at": "2026-10-22T23:04:49Z"
+  },
+  {
+   "id": 383546,
+   "title_en": "Blizzard Teases Raid Philosophy and Encounters for WoW: Forever",
+   "url": "https://www.wowhead.com/news=383546",
+   "category": "Forever",
+   "published_at": "2026-10-22T20:38:25Z"
+  },
+  {
+   "id": 383548,
+   "title_en": "Blizzard Performing Forever Beta Realm Restarts Soon",
+   "url": "https://www.wowhead.com/news=383548",
+   "category": "Forever",
+   "published_at": "2026-10-22T20:31:57Z"
+  },
+  {
+   "id": 383542,
+   "title_en": "Subtlety Rogue Interaction with Demonology Warlocks Speculated to Ninja Pull Mobs",
+   "url": "https://www.wowhead.com/news=383542",
+   "category": "Live",
+   "published_at": "2026-10-22T18:54:45Z"
+  },
+  {
+   "id": 383543,
+   "title_en": "Blizzard Confirms Molten Core Will Have New Mechanics in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383543",
+   "category": "Forever",
+   "published_at": "2026-10-22T18:15:43Z"
+  },
+  {
+   "id": 383541,
+   "title_en": "The WoW: Forever End of Beta Celebration Has Begun ft. Azuregos and Kazzak",
+   "url": "https://www.wowhead.com/news=383541",
+   "category": "Forever",
+   "published_at": "2026-10-22T17:13:00Z"
+  },
+  {
+   "id": 383540,
+   "title_en": "The WoW: Forever Podcast Episode 5 Now Available - The End of Beta Special!",
+   "url": "https://www.wowhead.com/news=383540",
+   "category": "Forever",
+   "published_at": "2026-10-22T16:21:06Z"
+  },
+  {
+   "id": 383538,
+   "title_en": "Josh Greenfield Teases Possible Event on WoW: Forever Beta in \"Few Hours\"",
+   "url": "https://www.wowhead.com/news=383538",
+   "category": "Forever",
+   "published_at": "2026-10-22T16:09:50Z"
+  },
+  {
+   "id": 383520,
+   "title_en": "No Mail Spell Power Dungeon and Quest Armor in WoW: Forever Early Levels",
+   "url": "https://www.wowhead.com/news=383520",
+   "category": "Forever",
+   "published_at": "2026-10-22T16:00:00Z"
+  },
+  {
+   "id": 383537,
+   "title_en": "RP-PvP Ruleset Coming to WoW: Forever",
+   "url": "https://www.wowhead.com/news=383537",
+   "category": "Forever",
+   "published_at": "2026-10-22T15:33:56Z"
+  },
+  {
+   "id": 383525,
+   "title_en": "Complete New Sweet Tooth Hallow's End Achievement Quickly Using Alts",
+   "url": "https://www.wowhead.com/news=383525",
+   "category": "Live",
+   "published_at": "2026-10-22T15:00:00Z"
+  },
+  {
+   "id": 383528,
+   "title_en": "Optimize Tricky Treat Exchange with Neighborhood Vendors for Hallow's End",
+   "url": "https://www.wowhead.com/news=383528",
+   "category": "Live",
+   "published_at": "2026-10-22T14:15:00Z"
+  },
+  {
+   "id": 383530,
+   "title_en": "Dalaran Recreated at 1:1 Scale for WoW: Forever Celebration in China",
+   "url": "https://www.wowhead.com/news=383530",
+   "category": "Forever",
+   "published_at": "2026-10-22T14:00:00Z"
+  },
+  {
+   "id": 383532,
+   "title_en": "World of Warcraft: Forever Beta Will Return Shortly",
+   "url": "https://www.wowhead.com/news=383532",
+   "category": "Forever",
+   "published_at": "2026-10-22T01:55:07Z"
+  },
+  {
+   "id": 383531,
+   "title_en": "Bonus Rolls Tooltip Fixed & More Labyrinth Bug Fixes - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383531",
+   "category": "Live",
+   "published_at": "2026-10-22T01:43:01Z"
+  },
+  {
+   "id": 383505,
+   "title_en": "Use Skeleton Keys to Open Locked Door in Labyrinths - Easy Achievement Farming",
+   "url": "https://www.wowhead.com/news=383505",
+   "category": "Live",
+   "published_at": "2026-10-21T20:11:41Z"
+  },
+  {
+   "id": 383487,
+   "title_en": "The Current State of Protection Paladins in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383487",
+   "category": "Forever",
+   "published_at": "2026-10-21T19:06:30Z"
+  },
+  {
+   "id": 383524,
+   "title_en": "Get 30% Off Game Services and Up to 50% Off Transmogs, Toys and Bundles on the Battle.net Shop",
+   "url": "https://www.wowhead.com/news=383524",
+   "category": "Live",
+   "published_at": "2026-10-21T18:28:46Z"
+  },
+  {
+   "id": 383521,
+   "title_en": "WoW: Forever Beta Going Offline for Stress Test",
+   "url": "https://www.wowhead.com/news=383521",
+   "category": "Forever",
+   "published_at": "2026-10-21T16:31:31Z"
+  },
+  {
+   "id": 383519,
+   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383519",
+   "category": "Live",
+   "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
+  }
+ ]
+}

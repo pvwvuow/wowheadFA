@@ -1,0 +1,131 @@
+name: publish-article
+
+# A translator submits the output of the web BYOK translator
+# (https://pvwvuow.github.io/wow/news-translate.html) as an issue with
+# title "📰 ...". This workflow ingests the source server-side, runs the
+# full QA gates and publishes only if everything passes.
+#
+# TRUST GATE: only OWNER / MEMBER / COLLABORATOR issues reach the
+# auto-publish pipeline. Any other author's submission is ONLY tagged
+# "needs-review" and is never published automatically.
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: publish-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: >-
+      startsWith(github.event.issue.title, '📰') &&
+      github.event.issue.state == 'open' &&
+      contains(' OWNER MEMBER COLLABORATOR ', format(' {0} ', github.event.issue.author_association))
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ingest + merge + QA + publish
+        id: pub
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          printf '%s' "$ISSUE_BODY" > /tmp/issue_body.md
+          set +e
+          python tools/publish_from_issue.py \
+            --body-file /tmp/issue_body.md \
+            --issue "${{ github.event.issue.number }}" \
+            --author "${{ github.event.issue.user.login }}"
+          code=$?
+          set -e
+          kind=$(head -n1 /tmp/wfa_publish_result.txt 2>/dev/null || echo error)
+          echo "kind=$kind" >> "$GITHUB_OUTPUT"
+
+      - name: Build site
+        if: steps.pub.outputs.kind == 'published'
+        run: python tools/build_site.py
+
+      - name: Commit and push
+        if: steps.pub.outputs.kind == 'published'
+        run: |
+          git config user.name "wowfarsi-bot"
+          git config user.email "action@github.com"
+          git add data/articles docs
+          if ! git diff --cached --quiet; then
+            git commit -m "publish: via issue #${{ github.event.issue.number }} by @${{ github.event.issue.user.login }}"
+            git push
+          fi
+
+      - name: Comment + close or label
+        env:
+          GH_TOKEN: ${{ github.token }}
+          KIND: ${{ steps.pub.outputs.kind }}
+          NUM: ${{ github.event.issue.number }}
+        run: |
+          # labels must exist before --add-label can use them
+          gh label create needs-review -R "$GITHUB_REPOSITORY" \
+            --color FBCA04 --force
+          gh label create qa-failed -R "$GITHUB_REPOSITORY" \
+            --color D93F0B --force
+          body_file=/tmp/wfa_publish_result.txt
+          tail -n +2 "$body_file" > /tmp/details.txt || true
+          case "$KIND" in
+            published)
+              gh issue close "$NUM" -R "$GITHUB_REPOSITORY" \
+                -c "✅ گیت‌های QA پاس شد و مقاله منتشر شد.
+          پس از بازسازی Pages (یک تا دو دقیقه) اینجا دیده می‌شود: https://pvwvuow.github.io/wow/news.html
+
+          <details><summary>گزارش</summary>
+
+          $(cat /tmp/details.txt)
+
+          </details>"
+              ;;
+            duplicate)
+              gh issue close "$NUM" -R "$GITHUB_REPOSITORY" \
+                -c "ℹ️ این خبر قبلاً فارسی‌سازی و منتشر شده است (لینک تکراری)."
+              ;;
+            qa-failed)
+              gh issue edit "$NUM" -R "$GITHUB_REPOSITORY" --add-label qa-failed
+              gh issue comment "$NUM" -R "$GITHUB_REPOSITORY" \
+                -b "⚠️ مقاله ذخیره شد اما گیت‌های QA پاس نشد. لطفاً ویرایش کن و در همین Issue اصلاح را ارسال کن (یا Issue جدید با خروجی اصلاح‌شده بساز):
+
+          $(cat /tmp/details.txt)"
+              ;;
+            *)
+              gh issue edit "$NUM" -R "$GITHUB_REPOSITORY" --add-label needs-review
+              gh issue comment "$NUM" -R "$GITHUB_REPOSITORY" \
+                -b "❌ پردازش خودکار ناموفق بود:
+
+          $(cat /tmp/details.txt 2>/dev/null || echo 'خطای نامشخص - لاگ workflow را ببین.')"
+              ;;
+          esac
+
+  needs-review:
+    # Untrusted author (not OWNER/MEMBER/COLLABORATOR): flag for manual
+    # review only - never publish, never run the pipeline.
+    if: >-
+      startsWith(github.event.issue.title, '📰') &&
+      github.event.issue.state == 'open' &&
+      !contains(' OWNER MEMBER COLLABORATOR ', format(' {0} ', github.event.issue.author_association))
+    runs-on: ubuntu-latest
+    steps:
+      - name: Tag needs-review (untrusted author - no auto publish)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUM: ${{ github.event.issue.number }}
+        run: |
+          gh label create needs-review -R "$GITHUB_REPOSITORY" \
+            --color FBCA04 \
+            --description "منتظر بازبینی دستی - نویسندهٔ Issue معتبر شناخته نشد" \
+            --force
+          gh issue edit "$NUM" -R "$GITHUB_REPOSITORY" --add-label needs-review

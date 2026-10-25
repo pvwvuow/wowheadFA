@@ -1,0 +1,19 @@
+name: 📰 انتشار مقالهٔ فارسی‌شده
+description: خروجی مترجم وب (wowfarsi /news-translate) را برای انتشار خودکار بفرست
+labels: [translation]
+title: "📰 Publish "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        این فرم فقط برای خروجی **مترجم وب wowheadFA** است.
+        در صفحهٔ مترجم دکمهٔ «کپی JSON» را بزن و همان متن را دقیقاً در کادر زیر بچسبان (Ctrl+V).
+        بات ما به‌صورت خودکار متن اصلی را از Wowhead می‌گیرد، گیت‌های کیفیت را اجرا می‌کند و در صورت قبولی، مقاله را منتشر می‌کند.
+  - type: textarea
+    id: payload
+    attributes:
+      label: خروجی مترجم (JSON)
+      description: کل JSON کپی‌شده از مترجم وب را اینجا بچسبان.
+      placeholder: '{ "source_url": "https://www.wowhead.com/news=...", "title_fa": "...", ... }'
+    validations:
+      required: true

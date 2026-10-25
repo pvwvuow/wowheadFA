@@ -1,0 +1,20 @@
+:root{--bg:#0d1117;--bg2:#161b22;--bd:#30363d;--fg:#e6edf3;--mut:#8b949e;--ac:#d2a8ff;--gold:#e3b341}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:Vazirmatn,Tahoma,sans-serif;line-height:2;direction:rtl}
+a{color:var(--ac);text-decoration:none}a:hover{text-decoration:underline}
+header.site{background:var(--bg2);border-bottom:1px solid var(--bd);padding:1rem 1.2rem;display:flex;align-items:center;gap:1rem;flex-wrap:wrap}
+header.site .logo{font-size:1.5rem;font-weight:800;color:var(--gold)}
+header.site .logo small{color:var(--mut);font-weight:400;font-size:.8rem;display:block}
+main{max-width:52rem;margin:0 auto;padding:1.2rem}
+.card{background:var(--bg2);border:1px solid var(--bd);border-radius:10px;padding:1rem 1.2rem;margin:1rem 0}
+.card h2{margin:.1rem 0 .3rem;font-size:1.15rem}
+.card h2 a{color:var(--fg)}
+.meta{color:var(--mut);font-size:.85rem;display:flex;gap:1rem;flex-wrap:wrap}
+.tag{background:#21262d;border:1px solid var(--bd);border-radius:99px;padding:0 .6rem;font-size:.78rem;color:var(--ac)}
+article h1{font-size:1.6rem;margin:.2rem 0}
+.lead{color:var(--fg);font-size:1.05rem;border-right:4px solid var(--gold);padding-right:.8rem;margin:1rem 0}
+.srcbox{background:#1c1e26;border:1px solid var(--bd);border-radius:8px;padding:.7rem 1rem;margin:1.4rem 0 .4rem;font-size:.9rem;color:var(--mut)}
+footer.site{border-top:1px solid var(--bd);color:var(--mut);font-size:.82rem;padding:1.2rem;text-align:center;line-height:1.9}
+.badge{background:#6e40c9;color:#fff;border-radius:6px;padding:.05rem .5rem;font-size:.75rem}
+
+@font-face{font-family:Vazirmatn;src:url('Vazirmatn.ttf') format('truetype');font-display:swap;font-weight:100 900}
