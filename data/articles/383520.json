@@ -4,10 +4,10 @@
  "url": "https://www.wowhead.com/news=383520",
  "title_en": "No Mail Spell Power Dungeon and Quest Armor in WoW: Forever Early Levels",
  "category": "Forever",
- "published_at": "2026-10-22T16:00:00Z",
+ "published_at": "2026-10-25T21:31:36Z",
  "fetched_at": "2026-10-25T06:28:53Z",
  "source_mode": "full",
- "status": "new",
+ "status": "published",
  "qa_facts": {
   "numbers": [
    "30"
@@ -168,5 +168,29 @@
    "wow"
   ],
   "chars": 1642
+ },
+ "article_fa": {
+  "title_fa": "عدم وجود زره Mail Spell Power در مراحل اولیه WoW: Forever",
+  "lead_fa": "بتای World of Warcraft Forever به بازیکنان اجازه داده تا چندین کاراکتر را تا سطح ۳۰ امتحان کنند، اما بررسی‌ها نشان می‌دهد هیچ زره Mail Spell Power از طریق دانجن‌ها و کوئست‌ها در این سطوح ارائه نمی‌شود.",
+  "body_fa": [
+   "بازیکنان در بتای WoW: Forever با کوئست‌ها و دانجن‌های آشنا و جدید روبه‌رو شده‌اند و پاداش‌های آن‌ها را دریافت کرده‌اند.",
+   "با این حال جستجو در پایگاه داده نشان می‌دهد که هیچ قطعه Mail Spell Power از طریق دراپ دانجن‌ها وجود ندارد و تنها دراپ‌های تصادفی Uncommon با پسوندهایی مانند of Magic یا of the Knight یافت می‌شود.",
+   "در بخش پاداش کوئست‌ها نیز تنها دو آیتم ظاهر می‌شود که هر دو عمدتاً Healing هستند: Garrison Cuffs و Silvered Gauntlets.",
+   "این مسئله تنها یک کلاس را در سطوح ۱ تا ۳۰ تحت تأثیر قرار می‌دهد: Paladin.",
+   "در حال حاضر Paladin تنها کلاسی است که هیچ زره متناسبی از طریق دانجن یا کوئست برای ۳۰ سطح اول ندارد.",
+   "اگر Paladin بخواهد ارتقای زره بدون استفاده از Auction House داشته باشد، باید از طریق Crafting و به دست آوردن الگوها از دراپ دانجن‌ها یا Merchant's Favor turn-ins با Azeroth Commerce Authority / Durotar Supply and Logistics اقدام کند.",
+   "هرچند سیستم Crafting جدید برای سطوح اولیه در WoW: Forever بسیار مورد استقبال قرار گرفته، اما جالب است که Paladin تنها کلاسی باشد که برای دریافت ارتقای معادل پاداش‌های کوئست و دانجن مجبور به Crafting شود."
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "بتا",
+   "Paladin",
+   "تیونینگ اولیه"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-25T21:31:36Z"
  }
 }
