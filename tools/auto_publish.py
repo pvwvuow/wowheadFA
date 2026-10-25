@@ -276,14 +276,22 @@ def structural_problems(out: dict) -> list:
 # ------------------------------------------------------------ model calls
 def generate_article(key, model, art, src, problems=None):
     system = open(PROMPT, encoding="utf-8").read()
+    nums = (art.get("qa_facts") or {}).get("numbers") or []
     user = SAFETY + "\n\n" + OUTPUT_SPEC + (
         f"TITLE: {art.get('title_en', '')}\n"
         f"CATEGORY: {art.get('category', 'News')}\n"
         f"SOURCE URL: {art.get('url', '')}\n\n" + src)
+    if nums:
+        user += ("\n\nNUMBER CHECKLIST (uneditable facts from the source; "
+                 "each of these must appear in your article exactly as "
+                 "written - no approximation, no «تا», no rounding): "
+                 + ", ".join(nums))
     if problems:
-        user += ("\n\nنسخهٔ قبلی‌ات رد شد. این مشکلات را دقیقاً اصلاح کن و "
-                 "کل مقاله را از نو بنویس:\n- " + "\n- ".join(problems))
-    raw = xai_chat(key, model, system, user, temperature=0.4,
+        user += ("\n\nنسخهٔ قبلی‌ات رد شد. همان مقاله را با اصلاح دقیق این "
+                 "مشکلات بازنگری کن (ساختار سالم را نگه دار، فقط جای "
+                 "مشکل‌ها را درست کن؛ هیچ ادعا/عدد/اسم تازه‌ای اضافه نکن):\n- "
+                 + "\n- ".join(problems))
+    raw = xai_chat(key, model, system, user, temperature=0.25,
                    max_tokens=8000)
     return parse_json_reply(raw)
 
