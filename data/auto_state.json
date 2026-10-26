@@ -1,6 +1,6 @@
 {
  "day": "2026-10-26",
- "published_today": 1,
+ "published_today": 4,
  "held": {
   "383562": {
    "reason": "«Hallow's End نیز به‌روزرسانی‌هایی در فعالیت‌های محله دریافت کرده است که شامل quests روزانه و سه تم محله می‌شود» — منبع فقط می‌گوید Hallow's End has some neighborhood activity updates with daily quests and three neighborhood themes؛ جمله فارسی ادعای «دریافت کرده است» (completed fact) می‌سازد در حالی که منبع در زمان حال و در زمینه مقایسه با Winter Veil است. | «به‌روزرسانی احتمالاً شامل quests روزان",
@@ -89,7 +89,7 @@
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-26T05:14:41Z",
+ "updated_at": "2026-10-26T05:44:21Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -562,6 +562,46 @@
     "warns": 1,
     "sec": 60.0,
     "attempts": 2
+   },
+   {
+    "id": "383516",
+    "ts": "2026-10-26T05:37:53Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 162.9,
+    "attempts": 2
+   },
+   {
+    "id": "383516",
+    "ts": "2026-10-26T05:39:46Z",
+    "path": "fallback",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 112.4,
+    "attempts": 1
+   },
+   {
+    "id": "383529",
+    "ts": "2026-10-26T05:42:22Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 156.1,
+    "attempts": 2
+   },
+   {
+    "id": "383551",
+    "ts": "2026-10-26T05:44:21Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 118.9,
+    "attempts": 1
    }
   ]
  }

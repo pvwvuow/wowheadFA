@@ -4,10 +4,10 @@
  "url": "https://www.wowhead.com/news=383551",
  "title_en": "Four New Titles Available from Talebound in Patch 12.1.7",
  "category": "PTR",
- "published_at": "2026-10-23T13:00:00Z",
+ "published_at": "2026-10-26T05:44:21Z",
  "fetched_at": "2026-10-25T06:28:53Z",
  "source_mode": "full",
- "status": "new",
+ "status": "published",
  "qa_facts": {
   "numbers": [
    "12.1.7"
@@ -106,5 +106,27 @@
    "you'll"
   ],
   "chars": 971
+ },
+ "article_fa": {
+  "title_fa": "چهار عنوان جدید از Talebound در پچ ۱۲.۱.۷",
+  "lead_fa": "با ورود حالت بازی Talebound در پچ ۱۲.۱.۷، چهار عنوان تازه برای بازیکنان در نظر گرفته شده که با تکمیل دستاوردها به دست می‌آیند.",
+  "body_fa": [
+   "Talebound یک حالت مستقل roguelite است که در پچ ۱۲.۱.۷ اضافه می‌شود. بازیکنان یکی از سه کلاس را انتخاب کرده و ماجراجویی خود را از شهر Quillgrave آغاز می‌کنند.",
+   "در Quillgrave با شخصیت Storyteller روبه‌رو خواهید شد که داستان‌ها را روایت می‌کند.",
+   "سه عنوان با تکمیل Mythic difficulty برای هر یک از سه کلاس به دست می‌آیند: Mythic: The Inquisitor's Final Confrontation، Mythic: The Slayer's Final Confrontation و Mythic: The Witch's Final Confrontation.",
+   "عنوان چهارم نیز با تکمیل Stories to Share و تمام داستان‌های Storyteller کسب می‌شود.",
+   "اطلاعات دقیقی از Talebound در دسترس نیست زیرا هنوز روی PTR پچ ۱۲.۱.۷ تست نشده و سختی Mythic difficulty تا زمان تست یا انتشار مشخص نخواهد بود."
+  ],
+  "tags_fa": [
+   "Talebound",
+   "۱۲.۱.۷",
+   "عنوان جدید",
+   "PTR"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-26T05:44:21Z"
  }
 }

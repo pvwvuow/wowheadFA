@@ -1,8 +1,86 @@
 {
- "generated": "2026-10-26T05:18:01Z",
+ "generated": "2026-10-26T05:44:21Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383551,
+   "slug": "four-new-titles-available-from-talebound-in-patch-12-1-7",
+   "title_fa": "چهار عنوان جدید از Talebound در پچ ۱۲.۱.۷",
+   "lead_fa": "با ورود حالت بازی Talebound در پچ ۱۲.۱.۷، چهار عنوان تازه برای بازیکنان در نظر گرفته شده که با تکمیل دستاوردها به دست می‌آیند.",
+   "body_fa": [
+    "Talebound یک حالت مستقل roguelite است که در پچ ۱۲.۱.۷ اضافه می‌شود. بازیکنان یکی از سه کلاس را انتخاب کرده و ماجراجویی خود را از شهر Quillgrave آغاز می‌کنند.",
+    "در Quillgrave با شخصیت Storyteller روبه‌رو خواهید شد که داستان‌ها را روایت می‌کند.",
+    "سه عنوان با تکمیل Mythic difficulty برای هر یک از سه کلاس به دست می‌آیند: Mythic: The Inquisitor's Final Confrontation، Mythic: The Slayer's Final Confrontation و Mythic: The Witch's Final Confrontation.",
+    "عنوان چهارم نیز با تکمیل Stories to Share و تمام داستان‌های Storyteller کسب می‌شود.",
+    "اطلاعات دقیقی از Talebound در دسترس نیست زیرا هنوز روی PTR پچ ۱۲.۱.۷ تست نشده و سختی Mythic difficulty تا زمان تست یا انتشار مشخص نخواهد بود."
+   ],
+   "tags_fa": [
+    "Talebound",
+    "۱۲.۱.۷",
+    "عنوان جدید",
+    "PTR"
+   ],
+   "items": [],
+   "title_en": "Four New Titles Available from Talebound in Patch 12.1.7",
+   "source_url": "https://www.wowhead.com/news=383551",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383551-four-new-titles-available-from-talebound-in-patch-12-1-7.html",
+   "published_at": "2026-10-26T05:44:21Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
+  {
+   "id": 383529,
+   "slug": "bind-to-account-mythic-gear-chests-now-available",
+   "title_fa": "جعبه‌های Amani Equipment Chest برای ارسال به کاراکترهای دیگر حساب در دسترس است",
+   "lead_fa": "با ریست هفتگی اخیر، حالا می‌توانید جعبه Amani Equipment Chest را از Agmera بخرید و آن را برای کاراکترهای دیگر حساب خود ارسال کنید.",
+   "body_fa": [
+    "این جعبه در موقعیت /way #2393 42.15 58.72 قرار دارد و با پرداخت 750 Voidlight Marl قابل خرید است.",
+    "هر جعبه حاوی یک قطعه gear با Item Level 292 (Champion 1/6) از dungeonهای Season 2 است.",
+    "این روش منبع مناسبی برای gearing کاراکترهای تازه‌است، به‌ویژه اگر Voidlight Marl اضافی داشته باشید.",
+    "توجه کنید که این جعبه‌ها bad luck protection ندارند، بنابراین باز کردن چندین جعبه ممکن است چندین قطعه از همان slot را به شما بدهد.",
+    "کاراکترهای تازه حالا به صورت پیش‌فرض 5 Catalyst Charge دارند و این جعبه راه خوبی برای به دست آوردن tier slot pieces به منظور رسیدن فوری به 4-set و unlock Midnight Season 2: Catalyst Unbound است."
+   ],
+   "tags_fa": [
+    "Mythic+",
+    "Midnight",
+    "Season 2"
+   ],
+   "items": [],
+   "title_en": "Bind to Account Mythic+ Gear Chests Now Available",
+   "source_url": "https://www.wowhead.com/news=383529",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383529-bind-to-account-mythic-gear-chests-now-available.html",
+   "published_at": "2026-10-26T05:42:22Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
+  {
+   "id": 383516,
+   "slug": "more-readable-book-decor-coming-in-patch-12-1-7",
+   "title_fa": "افزوده شدن کتاب‌های تزئینی قابل خواندن در پچ 12.1.7",
+   "lead_fa": "در پچ 12.1.7 چهار داستان جدید به بخش Lorewalking اضافه خواهد شد که هر کدام یک کتاب تزئینی و قابل مطالعه به عنوان پاداش دارند.",
+   "body_fa": [
+    "به‌روزرسانی 12.1.7 کتاب‌های تزئینی بیشتری از بخش Lorewalking به همراه دارد که تمام آن‌ها توسط بازیکنان قابل خواندن هستند. در این پچ چهار داستان جدید معرفی می‌شود و هر داستان، یک کتاب lore مرتبط را در قالب Decor پاداش خواهد داد تا بازیکنان بدون نیاز به اشغال فضای بانک، آن‌ها را در خانهٔ خود قرار دهند.",
+    "این چهار پاداش تازه به پاداش‌های Decor قبلی Lorewalking ملحق می‌شوند؛ آثاری که پیش‌تر در 12.1.5 قابلیت خوانده شدن را به صورت گذشته‌نگر دریافت کرده بودند و برای مواردی هم که پاداش Decor نداشتند، به کسانی که کمپین‌ها را به پایان رسانده بودند داده شد.",
+    "درخواست کتاب‌های قابل خواندن از زمان معرفی Player Housing همواره از سوی بازیکنان مطرح بوده است و این اقدام می‌تواند آزمایشی برای پیاده‌سازی هرچه بهتر این قابلیت در بازی باشد."
+   ],
+   "tags_fa": [
+    "پچ 12.1.7",
+    "Lorewalking",
+    "Player Housing",
+    "PTR"
+   ],
+   "items": [],
+   "title_en": "More Readable Book Decor Coming in Patch 12.1.7",
+   "source_url": "https://www.wowhead.com/news=383516",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383516-more-readable-book-decor-coming-in-patch-12-1-7.html",
+   "published_at": "2026-10-26T05:39:46Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "grok-4.20-0309-non-reasoning"
+  },
   {
    "id": 383554,
    "slug": "world-bosses-legendaries-and-a-scourge-invasion-the-wow-forever-beta-i",
@@ -458,13 +536,6 @@
  ],
  "queue": [
   {
-   "id": 383516,
-   "title_en": "More Readable Book Decor Coming in Patch 12.1.7",
-   "url": "https://www.wowhead.com/news=383516",
-   "category": "PTR",
-   "published_at": "2026-10-25T18:00:00Z"
-  },
-  {
    "id": 383562,
    "title_en": "New Winter Veil Neighborhood Activities Updates in Patch 12.1.7",
    "url": "https://www.wowhead.com/news=383562",
@@ -500,25 +571,11 @@
    "published_at": "2026-10-23T16:00:00Z"
   },
   {
-   "id": 383529,
-   "title_en": "Bind to Account Mythic+ Gear Chests Now Available",
-   "url": "https://www.wowhead.com/news=383529",
-   "category": "Live",
-   "published_at": "2026-10-23T15:00:00Z"
-  },
-  {
    "id": 383547,
    "title_en": "Who is WoW: Forever Meant For? Blizzard Discusses on Forever Podcast",
    "url": "https://www.wowhead.com/news=383547",
    "category": "Forever",
    "published_at": "2026-10-23T14:00:00Z"
-  },
-  {
-   "id": 383551,
-   "title_en": "Four New Titles Available from Talebound in Patch 12.1.7",
-   "url": "https://www.wowhead.com/news=383551",
-   "category": "PTR",
-   "published_at": "2026-10-23T13:00:00Z"
   },
   {
    "id": 383552,

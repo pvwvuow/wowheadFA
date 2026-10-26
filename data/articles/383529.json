@@ -4,10 +4,10 @@
  "url": "https://www.wowhead.com/news=383529",
  "title_en": "Bind to Account Mythic+ Gear Chests Now Available",
  "category": "Live",
- "published_at": "2026-10-23T15:00:00Z",
+ "published_at": "2026-10-26T05:42:22Z",
  "fetched_at": "2026-10-25T06:28:53Z",
  "source_mode": "full",
- "status": "new",
+ "status": "published",
  "qa_facts": {
   "numbers": [
    "2393",
@@ -107,5 +107,26 @@
    "your"
   ],
   "chars": 821
+ },
+ "article_fa": {
+  "title_fa": "جعبه‌های Amani Equipment Chest برای ارسال به کاراکترهای دیگر حساب در دسترس است",
+  "lead_fa": "با ریست هفتگی اخیر، حالا می‌توانید جعبه Amani Equipment Chest را از Agmera بخرید و آن را برای کاراکترهای دیگر حساب خود ارسال کنید.",
+  "body_fa": [
+   "این جعبه در موقعیت /way #2393 42.15 58.72 قرار دارد و با پرداخت 750 Voidlight Marl قابل خرید است.",
+   "هر جعبه حاوی یک قطعه gear با Item Level 292 (Champion 1/6) از dungeonهای Season 2 است.",
+   "این روش منبع مناسبی برای gearing کاراکترهای تازه‌است، به‌ویژه اگر Voidlight Marl اضافی داشته باشید.",
+   "توجه کنید که این جعبه‌ها bad luck protection ندارند، بنابراین باز کردن چندین جعبه ممکن است چندین قطعه از همان slot را به شما بدهد.",
+   "کاراکترهای تازه حالا به صورت پیش‌فرض 5 Catalyst Charge دارند و این جعبه راه خوبی برای به دست آوردن tier slot pieces به منظور رسیدن فوری به 4-set و unlock Midnight Season 2: Catalyst Unbound است."
+  ],
+  "tags_fa": [
+   "Mythic+",
+   "Midnight",
+   "Season 2"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-26T05:42:22Z"
  }
 }
