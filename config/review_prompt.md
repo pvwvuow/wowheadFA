@@ -60,6 +60,13 @@ Every problem you report MUST carry exactly one severity:
 - Facts that are literally present in the source — re-read the source
   before flagging; every problem you report must be checkable against a
   specific sentence of the source.
+- **ITEM DATA** — when an "ITEM DATA" block is present after the source
+  text, it is scraped factual data from the source page (item names,
+  vendor/zone/cost rows, stat lines). Facts in the Persian article that
+  come from the ITEM DATA block are in the source: do NOT flag them.
+  Item/NPC/zone names staying in Latin is correct; item prices like
+  2000 with Persian digits (۲۰۰۰) are the same fact. Do not demand that
+  the article render item cards — the system appends them automatically.
 
 ## Verdict
 

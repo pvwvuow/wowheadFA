@@ -36,6 +36,13 @@ original Persian article** that reports the same facts in our own voice.
 8. **No meta talk** («این مقاله به‌تازگی…»، «طبق ترجمه…»). You are the
    publication, not a translator reporting on a translation.
 9. Never include HTML/markdown syntax in output fields.
+10. **ITEM DATA** — an "ITEM DATA" block may follow the source text. It
+   is factual data scraped from the article page (item/decor tooltips:
+   names, vendor, zone, cost, stats). You MAY use these facts in your
+   prose: item/NPC/zone names stay Latin, numbers get Persian digits,
+   prices and stats are reportable like any source fact. Do NOT try to
+   render the cards yourself — the system appends structured item cards
+   to your article automatically; you only write the prose.
 
 ## Output
 

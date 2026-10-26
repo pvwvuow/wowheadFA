@@ -50,10 +50,44 @@ article h1{font-size:1.6rem;margin:.2rem 0}
 .srcbox{background:#1c1e26;border:1px solid var(--bd);border-radius:8px;padding:.7rem 1rem;margin:1.4rem 0 .4rem;font-size:.9rem;color:var(--mut)}
 footer.site{border-top:1px solid var(--bd);color:var(--mut);font-size:.82rem;padding:1.2rem;text-align:center;line-height:1.9}
 .badge{background:#6e40c9;color:#fff;border-radius:6px;padding:.05rem .5rem;font-size:.75rem}
+.item-cards-title{font-size:1rem;margin:1.4rem 0 .4rem;color:var(--mut)}
+.item-card{background:#14181f;border:1px solid #2b4c2e;border-radius:10px;padding:.7rem 1rem;margin:.9rem 0;max-width:34rem;direction:rtl}
+.item-card .ic-name{color:#4ade80;font-weight:700;font-size:1.02rem;display:flex;align-items:center;gap:.45rem;direction:ltr;justify-content:flex-end}
+.item-card .ic-icon{font-style:normal;filter:drop-shadow(0 0 3px rgba(74,222,128,.5))}
+.item-card table{width:100%;border-collapse:collapse;margin-top:.35rem;font-size:.92rem}
+.item-card th{color:var(--mut);font-weight:400;white-space:nowrap;padding:.15rem .6rem .15rem 0;text-align:right;vertical-align:top}
+.item-card td{color:var(--fg);padding:.15rem 0;text-align:right}
+.item-card td .ltr{direction:ltr;unicode-bidi:embed}
+.item-card .ic-spec{color:#d2a8ff;font-size:.92rem;margin:.2rem 0 0;direction:ltr;text-align:right}
 """
 
 
 def esc(s): return html.escape(s, quote=True)
+
+
+def render_items(art):
+    """Render structured item-card blocks (art['items']) as HTML boxes."""
+    items = art.get("items") or []
+    if not items:
+        return ""
+    out = ['<h2 class="item-cards-title">آیتم‌ها و جزییات</h2>']
+    for blk in items:
+        it = (blk or {}).get("item") or {}
+        name = str(it.get("name") or "")
+        rows = it.get("rows") or []
+        spec = it.get("spec") or []
+        if not name and not rows and not spec:
+            continue
+        rows_html = "".join(
+            f'<tr><th>{esc(lbl)}:</th><td><span class="ltr">{esc(val)}</span></td></tr>'
+            for lbl, val in rows)
+        spec_html = "".join(f'<div class="ic-spec">{esc(s)}</div>'
+                            for s in spec)
+        out.append(f'''<div class="item-card">
+  <div class="ic-name"><span class="ltr">{esc(name)}</span><i class="ic-icon">📗</i></div>
+  <table>{rows_html}</table>{spec_html}
+</div>''')
+    return "\n".join(out) if len(out) > 1 else ""
 
 
 def fa_date(iso):
@@ -109,6 +143,7 @@ def article_page(art):
     slug = f"{art['id']}-{art['slug']}"
     url = f"{BASE}/article/{slug}.html"
     paras = "\n".join(f"<p>{esc(p)}</p>" for p in a["body_fa"])
+    items_html = render_items(art)
     tags = " ".join(f'<span class="tag">{esc(t)}</span>' for t in a.get("tags_fa", []))
     gen = art.get("generator", {})
     genline = ""
@@ -133,6 +168,7 @@ def article_page(art):
     {genline}<span>{tags}</span></div>
   <p class="lead">{esc(a['lead_fa'])}</p>
   {paras}
+  {items_html}
   <div class="srcbox">منبع: <a href="{esc(art['url'])}" rel="noopener"
      target="_blank">Wowhead — {esc(art['title_en'])}</a><br>
      این متن بازنویسی اورجینال فارسی است، نه ترجمهٔ تحت‌اللفظی.</div>
@@ -223,6 +259,7 @@ def main():
             "id": art["id"], "slug": art["slug"],
             "title_fa": a["title_fa"], "lead_fa": a["lead_fa"],
             "body_fa": a["body_fa"], "tags_fa": a.get("tags_fa", []),
+            "items": art.get("items") or [],
             "title_en": art.get("title_en", ""),
             "source_url": art["url"],
             "page_url": f"{BASE}/article/{art['id']}-{art['slug']}.html",

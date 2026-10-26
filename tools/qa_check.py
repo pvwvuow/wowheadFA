@@ -82,6 +82,27 @@ def english_tokens(text: str) -> set:
         r"[A-Za-z][A-Za-z+.'-]*", text)}
 
 
+def _stem(t: str) -> str:
+    """Crude plural/singular normalizer so 'legendary' matches
+    'legendaries' etc. Only used for the G5 membership test."""
+    if t.endswith("ies") and len(t) > 4:
+        return t[:-3] + "y"
+    if t.endswith("es") and len(t) > 4 and not t.endswith("ses"):
+        return t[:-2]
+    if t.endswith("s") and not t.endswith("ss") and len(t) > 3:
+        return t[:-1]
+    return t
+
+
+def card_texts(art: dict) -> str:
+    """Plain text of the structured item-card blocks (items[]), if any."""
+    try:
+        from item_cards import cards_text
+        return cards_text(art.get("items") or [])
+    except Exception:
+        return ""
+
+
 def check(path: str) -> list:
     art = json.load(open(path, encoding="utf-8"))
     issues = []
@@ -90,7 +111,11 @@ def check(path: str) -> list:
     lead = a.get("lead_fa", "").strip()
     body = [b.strip() for b in a.get("body_fa", []) if b.strip()]
     tags = a.get("tags_fa", [])
-    whole = "\n".join([title, lead] + body)
+    # item-card blocks are deterministic code-rendered facts; their text
+    # participates in G1..G6 but not in the prose-shape gates (G7/G8).
+    items_txt = card_texts(art)
+    whole = "\n".join([title, lead] + body
+                      + ([items_txt] if items_txt else []))
     src = art.get("source_text", "")
     facts = art.get("qa_facts") or {}
 
@@ -145,8 +170,13 @@ def check(path: str) -> list:
     else:
         src_tokens = None        # no reference at all - skip gate
     if src_tokens is not None:
+        # the English title is part of the source too
+        src_tokens = set(src_tokens) | english_tokens(
+            art.get("title_en", ""))
+        src_stems = {_stem(t) for t in src_tokens}
         for t in english_tokens(whole):
-            if t not in src_tokens and t not in ALLOW and len(t) > 2 \
+            if t not in src_tokens and _stem(t) not in src_stems \
+                    and t not in ALLOW and len(t) > 2 \
                     and not t.isdigit() and "+" not in t:
                 issues.append(f"G5 English token not in source: {t}")
     # G6
@@ -173,11 +203,13 @@ def check(path: str) -> list:
         issues.append("G7 tags count > 5")
     if not re.match(r"https://(www\.)?wowhead\.com/news", art.get("url", "")):
         issues.append("G7 source_url is not a wowhead news link")
-    # G8 lead duplication
+    # G8 lead duplication (dots between digits are NOT sentence ends:
+    # "پچ 12.1.7" must not be split into fragments)
+    SENT_END = re.compile(r"(?<!\d)\.|[!؟\n]")
     lead_sents = {re.sub(r"\s+", " ", s.lower()) for s in
-                  re.split(r"[.!؟\n]", lead) if len(s) > 25}
+                  SENT_END.split(lead) if len(s) > 25}
     body_sents = {re.sub(r"\s+", " ", s.lower()) for b in body for s in
-                  re.split(r"[.!؟\n]", b) if len(s) > 25}
+                  SENT_END.split(b) if len(s) > 25}
     dup = lead_sents & body_sents
     if dup:
         issues.append("G8 lead sentence duplicated in body")
