@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T13:41:39Z",
+ "generated": "2026-10-26T14:01:58Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1085,6 +1085,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383565,
+   "title_en": "New Talebound Toy Allows Companion Pets to Fly on an Enchanted Book",
+   "url": "https://www.wowhead.com/news=383565",
+   "category": "PTR",
+   "published_at": "2026-10-26T14:00:00Z"
+  },
   {
    "id": 383562,
    "title_en": "New Winter Veil Neighborhood Activities Updates in Patch 12.1.7",
