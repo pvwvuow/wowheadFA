@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T07:40:26Z",
+ "generated": "2026-10-26T13:20:00Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1057,6 +1057,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383571,
+   "title_en": "The WoW: Forever Beta PvP Tournament: Results, Winners, Statistics",
+   "url": "https://www.wowhead.com/news=383571",
+   "category": "Forever",
+   "published_at": "2026-10-26T13:00:00Z"
+  },
   {
    "id": 383562,
    "title_en": "New Winter Veil Neighborhood Activities Updates in Patch 12.1.7",
