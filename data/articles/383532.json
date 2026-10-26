@@ -4,10 +4,10 @@
  "url": "https://www.wowhead.com/news=383532",
  "title_en": "World of Warcraft: Forever Beta Will Return Shortly",
  "category": "Forever",
- "published_at": "2026-10-22T01:55:07Z",
+ "published_at": "2026-10-26T06:11:50Z",
  "fetched_at": "2026-10-25T06:28:53Z",
  "source_mode": "full",
- "status": "new",
+ "status": "published",
  "qa_facts": {
   "numbers": [
    "10:00",
@@ -81,5 +81,24 @@
    "you"
   ],
   "chars": 475
+ },
+ "article_fa": {
+  "title_fa": "بازگشت WoW Forever Beta در چند روز آینده",
+  "lead_fa": "بلیزارد اعلام کرده که در حال کار بر روی بازگشت WoW Forever Beta است و این سرور به‌زودی دوباره آنلاین خواهد شد.",
+  "body_fa": [
+   "طبق اعلام بلیزارد، پس از بازگشت WoW Forever Beta، این آخرین روزهای آن خواهد بود و سرور به‌طور رسمی در ۲۳ اکتبر ساعت ۱۰:۰۰ AM Pacific time پایان می‌یابد.",
+   "بلیزارد در پیام خود اعلام کرده که هنگام روشن کردن مجدد WoW Forever Beta با مشکل کوچکی مواجه شده‌اند و هم‌اکنون در حال رفع آن هستند.",
+   "تا زمان رفع مشکل، بازیکنان می‌توانند با خروج کامل از Battle.net Desktop App، به‌روزرسانی را به‌صورت دستی فعال کنند تا فرآیند سریع‌تر انجام شود."
+  ],
+  "tags_fa": [
+   "Forever Beta",
+   "بلیزارد",
+   "World of Warcraft"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-26T06:11:50Z"
  }
 }

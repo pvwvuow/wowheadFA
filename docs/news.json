@@ -1,8 +1,61 @@
 {
- "generated": "2026-10-26T05:50:49Z",
+ "generated": "2026-10-26T06:11:50Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383532,
+   "slug": "world-of-warcraft-forever-beta-will-return-shortly",
+   "title_fa": "بازگشت WoW Forever Beta در چند روز آینده",
+   "lead_fa": "بلیزارد اعلام کرده که در حال کار بر روی بازگشت WoW Forever Beta است و این سرور به‌زودی دوباره آنلاین خواهد شد.",
+   "body_fa": [
+    "طبق اعلام بلیزارد، پس از بازگشت WoW Forever Beta، این آخرین روزهای آن خواهد بود و سرور به‌طور رسمی در ۲۳ اکتبر ساعت ۱۰:۰۰ AM Pacific time پایان می‌یابد.",
+    "بلیزارد در پیام خود اعلام کرده که هنگام روشن کردن مجدد WoW Forever Beta با مشکل کوچکی مواجه شده‌اند و هم‌اکنون در حال رفع آن هستند.",
+    "تا زمان رفع مشکل، بازیکنان می‌توانند با خروج کامل از Battle.net Desktop App، به‌روزرسانی را به‌صورت دستی فعال کنند تا فرآیند سریع‌تر انجام شود."
+   ],
+   "tags_fa": [
+    "Forever Beta",
+    "بلیزارد",
+    "World of Warcraft"
+   ],
+   "items": [],
+   "title_en": "World of Warcraft: Forever Beta Will Return Shortly",
+   "source_url": "https://www.wowhead.com/news=383532",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383532-world-of-warcraft-forever-beta-will-return-shortly.html",
+   "published_at": "2026-10-26T06:11:50Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
+  {
+   "id": 383525,
+   "slug": "complete-new-sweet-tooth-hallow-s-end-achievement-quickly-using-alts",
+   "title_fa": "تکمیل سریع دستاورد Sweet Tooth هالووین اند با استفاده از آلت‌ها",
+   "lead_fa": "بازیکنان می‌توانند دستاورد جدید Sweet Tooth را با کمک آلت‌ها خیلی سریع به پایان برسانند.",
+   "body_fa": [
+    "هالووین اند ۲۰۲۶ با سه تم محله جدید Felwood، Drustvar و Duskwood همراه است. هر تم به صورت تصادفی هر روز ظاهر می‌شود و کوئست‌های روزانه متفاوتی ارائه می‌دهد.",
+    "دستاورد Sweet Tooth نیازمند تکمیل ۳ کوئست روزانه متفاوت در هر یک از سه تم جدید است. هر روز باید به محله خود بروید و کوئست Sugar Run را پیدا کنید که شما را به پورتال زون تم محله هدایت می‌کند.",
+    "در آنجا کوئست را به Nomi تحویل دهید و از میان سه کوئست روزانه یکی را انتخاب کنید. باید هر یک از این کوئست‌ها را یک بار کامل کنید تا دستاورد به شما اعطا شود.",
+    "با توجه به اینکه هر کاراکتر در روز فقط می‌تواند یکی از کوئست‌های روزانه Nomi را انجام دهد، استفاده از آلت‌ها سرعت کار را بالا می‌برد. اگر سه آلت داشته باشید، هر کدام می‌توانند یک کوئست متفاوت انتخاب کنند و زون مربوطه را کامل کنند تا یکی از دستاوردهای Duskwood Caramel Crafter، Drustvar Choc-O-Drop Designer یا Felwood Fudge Bite Former به دست آید.",
+    "این روش حداقل سه روز زمان می‌برد زیرا باید هر زون را یک بار کامل کنید. بخش سخت آن پیدا کردن محله‌ای با تم درست برای زون‌هایی است که هنوز کامل نکرده‌اید.",
+    "با این حال نیازی به حضور در زون با تم درست برای دریافت کوئست مورد نظر نیست. وقتی Sugar Run را به Nomi تحویل می‌دهید، کوئست‌های روزانه در همه زون‌ها فعال می‌شوند. بنابراین می‌توانید کوئست را بگیرید، از پورتال عبور کنید، آن را تحویل دهید و از انتخاب کوئست جدید خودداری کنید. سپس به زون دلخواه پرواز کنید و دوباره Nomi را پیدا کنید که کوئست‌های روزانه متفاوتی برایتان دارد.",
+    "موقعیت Nomi در Felwood به صورت /way #77 43.7 68.5 و در Duskwood به صورت /way #47 67.25 76.71 است. با ۹ آلت می‌توانید Sweet Tooth را در یک روز کامل کنید."
+   ],
+   "tags_fa": [
+    "هالووین اند",
+    "دستاورد Sweet Tooth",
+    "آلت‌ها",
+    "رویداد فصلی"
+   ],
+   "items": [],
+   "title_en": "Complete New Sweet Tooth Hallow's End Achievement Quickly Using Alts",
+   "source_url": "https://www.wowhead.com/news=383525",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383525-complete-new-sweet-tooth-hallow-s-end-achievement-quickly-using-alts.html",
+   "published_at": "2026-10-26T06:05:47Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383551,
    "slug": "four-new-titles-available-from-talebound-in-patch-12-1-7",
@@ -634,25 +687,11 @@
    "published_at": "2026-10-22T15:33:56Z"
   },
   {
-   "id": 383525,
-   "title_en": "Complete New Sweet Tooth Hallow's End Achievement Quickly Using Alts",
-   "url": "https://www.wowhead.com/news=383525",
-   "category": "Live",
-   "published_at": "2026-10-22T15:00:00Z"
-  },
-  {
    "id": 383530,
    "title_en": "Dalaran Recreated at 1:1 Scale for WoW: Forever Celebration in China",
    "url": "https://www.wowhead.com/news=383530",
    "category": "Forever",
    "published_at": "2026-10-22T14:00:00Z"
-  },
-  {
-   "id": 383532,
-   "title_en": "World of Warcraft: Forever Beta Will Return Shortly",
-   "url": "https://www.wowhead.com/news=383532",
-   "category": "Forever",
-   "published_at": "2026-10-22T01:55:07Z"
   },
   {
    "id": 383531,
