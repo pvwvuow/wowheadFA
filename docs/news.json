@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T20:20:10Z",
+ "generated": "2026-10-26T21:00:58Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1137,6 +1137,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383597,
+   "title_en": "Racial Ability Tuning Pass for WoW: Forever",
+   "url": "https://www.wowhead.com/news=383597",
+   "category": "Forever",
+   "published_at": "2026-10-26T20:38:14Z"
+  },
   {
    "id": 383595,
    "title_en": "Meet the Devs at WoW: Forever Poster Signing - Limited Tickets Available Now",
