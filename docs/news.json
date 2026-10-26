@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-26T13:20:00Z",
+ "generated": "2026-10-26T13:41:39Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383571,
+   "slug": "the-wow-forever-beta-pvp-tournament-results-winners-statistics",
+   "title_fa": "نتایج تورنمنت PvP WoW Forever Beta",
+   "lead_fa": "تورنمنت Forever Open با میزبانی Tipsoutbaby در بتای WoW Forever برگزار شد و Warlockguy به عنوان قهرمان اصلی معرفی گردید.",
+   "body_fa": [
+    "در طول بتای WoW Forever، Tipsoutbaby که قبلاً یوتیوبر WoW بود، تورنمنت Forever Open را میزبانی کرد. این رویداد یک تورنمنت آزاد بود که هر کسی در جامعه با دسترسی به بتا می‌توانست ثبت‌نام کند.",
+    "شرکت‌کنندگان سه هفته فرصت داشتند تا کاراکتر سطح ۳۰ خود را آماده کنند و برای جایزه رقابت کنند.",
+    "در طول رقابت، برخی کلاس‌ها در سطح ۳۰ عملکرد بهتری نسبت به بقیه داشتند. Warlock با نرخ برد ۷۹٪ بر competition مسلط بود، در حالی که Mage و Warrior با نرخ‌های برد ۲۵٪ و ۲۷٪ در پایین‌ترین جایگاه قرار گرفتند.",
+    "Warlockها واقعاً در این تورنمنت سلطه داشتند، زیرا برنده نهایی Warlockguy یک Warlock بود. علاوه بر این، کلاس نفر دوم نیز Warlock بود.",
+    "در طول تورنمنت، استراتژی‌ها و تکنیک‌های جالب و منحصربه‌فردی به کار گرفته شد. بازیکنان از ترینک‌هایی مانند Transformative Cocoon و Goblin Mortar استفاده کردند؛ هرچند Goblin Mortar بیشتر از اینکه کمک کند، ظاهراً علیه کاربر عمل می‌کرد.",
+    "پس از پایان تورنمنت، آشوب ادامه یافت. Blizzard منطقه‌ای ویژه و جداگانه از Mount Hyjal را فقط برای فینالیست‌ها اختصاص داد. پس از آن نه تنها Tauren Chieftains اجرا کردند، بلکه Blizzard با سورپرایز Azuregos ظاهر شد.",
+    "در نهایت این تورنمنت لحظات به‌یادماندنی بسیاری خلق کرد. اگرچه همه چیز کاملاً بدون مشکل پیش نرفت، شرکت‌کنندگان تجربه را سال‌ها به خاطر خواهند سپرد؛ به‌ویژه قهرمان اصلی Forever Open یعنی Warlockguy."
+   ],
+   "tags_fa": [
+    "Forever Beta",
+    "تورنمنت PvP",
+    "Warlockguy"
+   ],
+   "items": [],
+   "title_en": "The WoW: Forever Beta PvP Tournament: Results, Winners, Statistics",
+   "source_url": "https://www.wowhead.com/news=383571",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383571-the-wow-forever-beta-pvp-tournament-results-winners-statistics.html",
+   "published_at": "2026-10-26T13:41:38Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383532,
    "slug": "world-of-warcraft-forever-beta-will-return-shortly",
@@ -1057,13 +1085,6 @@
   }
  ],
  "queue": [
-  {
-   "id": 383571,
-   "title_en": "The WoW: Forever Beta PvP Tournament: Results, Winners, Statistics",
-   "url": "https://www.wowhead.com/news=383571",
-   "category": "Forever",
-   "published_at": "2026-10-26T13:00:00Z"
-  },
   {
    "id": 383562,
    "title_en": "New Winter Veil Neighborhood Activities Updates in Patch 12.1.7",
