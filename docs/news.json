@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T18:31:11Z",
+ "generated": "2026-10-26T19:32:13Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1137,6 +1137,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383595,
+   "title_en": "Meet the Devs at WoW: Forever Poster Signing - Limited Tickets Available Now",
+   "url": "https://www.wowhead.com/news=383595",
+   "category": "Forever",
+   "published_at": "2026-10-26T19:09:41Z"
+  },
   {
    "id": 383592,
    "title_en": "Test Talebound on the Patch 12.1.7 PTR This Friday!",
