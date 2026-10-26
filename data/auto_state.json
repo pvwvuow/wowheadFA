@@ -91,10 +91,15 @@
    "reason": "G5 English token not in source: francis | fallback هم رد شد: «از تاریخ 16 October آغاز گردید» — منبع می‌گوید رویداد از 16 اکتبر شروع شد اما این جمله به",
    "at": "2026-10-26T06:06:39Z",
    "at_ts": 1792994799.248029
+  },
+  "383592": {
+   "reason": "عددِ بدون منبع در مقاله: 12 | عددِ بدون منبع در مقاله: 7 | G4 numbers from source missing in article: 12.1.7 | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+   "at": "2026-10-26T18:31:02Z",
+   "at_ts": 1793039462.465088
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-26T17:49:05Z",
+ "updated_at": "2026-10-26T18:31:11Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -677,6 +682,26 @@
     "warns": 0,
     "sec": 53.8,
     "attempts": 2
+   },
+   {
+    "id": "383592",
+    "ts": "2026-10-26T18:31:02Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 5,
+    "warns": 0,
+    "sec": 59.4,
+    "attempts": 2
+   },
+   {
+    "id": "383592",
+    "ts": "2026-10-26T18:31:11Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 8.5,
+    "attempts": 1
    }
   ]
  }
