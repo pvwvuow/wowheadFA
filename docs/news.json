@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T17:49:05Z",
+ "generated": "2026-10-26T18:09:24Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1137,6 +1137,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383592,
+   "title_en": "Test Talebound on the Patch 12.1.7 PTR This Friday!",
+   "url": "https://www.wowhead.com/news=383592",
+   "category": "PTR",
+   "published_at": "2026-10-26T18:01:31Z"
+  },
   {
    "id": 383573,
    "title_en": "Blizzard Hints The WoW: Forever Podcast Will Continue",
