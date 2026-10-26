@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T14:23:34Z",
+ "generated": "2026-10-26T15:04:18Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1111,6 +1111,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383573,
+   "title_en": "Blizzard Hints The WoW: Forever Podcast Will Continue",
+   "url": "https://www.wowhead.com/news=383573",
+   "category": "Forever",
+   "published_at": "2026-10-26T15:00:00Z"
+  },
   {
    "id": 383562,
    "title_en": "New Winter Veil Neighborhood Activities Updates in Patch 12.1.7",
