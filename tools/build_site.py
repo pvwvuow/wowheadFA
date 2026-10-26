@@ -11,6 +11,8 @@ Pages served from main branch /docs folder:
 
 All published articles (status=published) get pages; drafts are listed
 only for maintainers (not linked, excluded from sitemap).
+
+Item cards (rarity colour + big preview image) live in item_render.py.
 """
 import html
 import json
@@ -18,6 +20,9 @@ import os
 import shutil
 import sys
 from datetime import datetime, timezone
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import item_render  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ART = os.path.join(ROOT, "data", "articles")
@@ -31,6 +36,23 @@ TITLE = CONF["title"]
 DESC = CONF["description"]
 DISCLAIMER = CONF["disclaimer"]
 CONTACT = CONF["contact"]
+
+# Persian UI strings (ASCII-only source, written as unicode escapes)
+TAGLINE = "\u0627\u062e\u0628\u0627\u0631 \u0648\u0631\u0644\u062f \u0622\u0648 \u0648\u0627\u0631\u06a9\u0631\u0641\u062a \u0628\u0647 \u0641\u0627\u0631\u0633\u06cc \u2014 \u063a\u06cc\u0631\u0631\u0633\u0645\u06cc"
+HOME_FA = "\u062e\u0627\u0646\u0647"
+CONTACT_FA = "\u062a\u0645\u0627\u0633 (takedown/DMCA): "
+GEN_AUTO_REV = "\u0646\u06af\u0627\u0631\u0634 \u062e\u0648\u062f\u06a9\u0627\u0631 \u0628\u0627 "
+AND_REV = " \u0648 \u0628\u0627\u0632\u0628\u06cc\u0646\u06cc \u0628\u0627 "
+GEN_AUTO = "\u0646\u06af\u0627\u0631\u0634 \u0648 \u0628\u0627\u0632\u0628\u06cc\u0646\u06cc \u062e\u0648\u062f\u06a9\u0627\u0631 \u0628\u0627 "
+GEN_HUMAN = "\u0646\u06af\u0627\u0631\u0634 \u0628\u0627 \u062f\u0633\u062a\u06cc\u0627\u0631 \u0647\u0648\u0634\u0645\u0646\u062f ("
+GEN_HUMAN2 = ") + \u0648\u06cc\u0631\u0627\u06cc\u0634 \u0627\u0646\u0633\u0627\u0646\u06cc"
+SRC_FA = "\u0645\u0646\u0628\u0639: "
+REWRITE_FA = "\u0627\u06cc\u0646 \u0645\u062a\u0646 \u0628\u0627\u0632\u0646\u0648\u06cc\u0633\u06cc \u0627\u0648\u0631\u062c\u06cc\u0646\u0627\u0644 \u0641\u0627\u0631\u0633\u06cc \u0627\u0633\u062a\u060c \u0646\u0647 \u062a\u0631\u062c\u0645\u0647\u0654 \u062a\u062d\u062a\u200c\u0627\u0644\u0644\u0641\u0638\u06cc."
+ALL_FA = "\u2190 \u0647\u0645\u0647\u0654 \u0627\u062e\u0628\u0627\u0631"
+DRAFT_FA = "\u067e\u06cc\u0634\u200c\u0646\u0648\u06cc\u0633"
+LATEST_FA = "\u0622\u062e\u0631\u06cc\u0646 \u0627\u062e\u0628\u0627\u0631"
+SOON_FA = "\u0628\u0647\u200c\u0632\u0648\u062f\u06cc"
+FIRST_FA = "\u0627\u0648\u0644\u06cc\u0646 \u062e\u0628\u0631\u0647\u0627 \u062f\u0631 \u0631\u0627\u0647 \u0627\u0633\u062a."
 
 CSS = """:root{--bg:#0d1117;--bg2:#161b22;--bd:#30363d;--fg:#e6edf3;--mut:#8b949e;--ac:#d2a8ff;--gold:#e3b341}
 *{box-sizing:border-box}
@@ -50,49 +72,15 @@ article h1{font-size:1.6rem;margin:.2rem 0}
 .srcbox{background:#1c1e26;border:1px solid var(--bd);border-radius:8px;padding:.7rem 1rem;margin:1.4rem 0 .4rem;font-size:.9rem;color:var(--mut)}
 footer.site{border-top:1px solid var(--bd);color:var(--mut);font-size:.82rem;padding:1.2rem;text-align:center;line-height:1.9}
 .badge{background:#6e40c9;color:#fff;border-radius:6px;padding:.05rem .5rem;font-size:.75rem}
-.item-cards-title{font-size:1rem;margin:1.4rem 0 .4rem;color:var(--mut)}
-.item-card{background:#14181f;border:1px solid #2b4c2e;border-radius:10px;padding:.7rem 1rem;margin:.9rem 0;max-width:34rem;direction:rtl}
-.item-card .ic-name{color:#4ade80;font-weight:700;font-size:1.02rem;display:flex;align-items:center;gap:.45rem;direction:ltr;justify-content:flex-end}
-.item-card .ic-icon{font-style:normal;filter:drop-shadow(0 0 3px rgba(74,222,128,.5))}
-.item-card .ic-img{width:44px;height:44px;border-radius:8px;border:1px solid #2b4c2e;background:#0d1117;object-fit:cover;flex:none}
-.item-card table{width:100%;border-collapse:collapse;margin-top:.35rem;font-size:.92rem}
-.item-card th{color:var(--mut);font-weight:400;white-space:nowrap;padding:.15rem .6rem .15rem 0;text-align:right;vertical-align:top}
-.item-card td{color:var(--fg);padding:.15rem 0;text-align:right}
-.item-card td .ltr{direction:ltr;unicode-bidi:embed}
-.item-card .ic-spec{color:#d2a8ff;font-size:.92rem;margin:.2rem 0 0;direction:ltr;text-align:right}
-"""
+""" + item_render.CSS
 
 
 def esc(s): return html.escape(s, quote=True)
 
 
 def render_items(art):
-    """Render structured item-card blocks (art['items']) as HTML boxes."""
-    items = art.get("items") or []
-    if not items:
-        return ""
-    out = ['<h2 class="item-cards-title">آیتم‌ها و جزییات</h2>']
-    for blk in items:
-        it = (blk or {}).get("item") or {}
-        name = str(it.get("name") or "")
-        rows = it.get("rows") or []
-        spec = it.get("spec") or []
-        if not name and not rows and not spec:
-            continue
-        rows_html = "".join(
-            f'<tr><th>{esc(lbl)}:</th><td><span class="ltr">{esc(val)}</span></td></tr>'
-            for lbl, val in rows)
-        spec_html = "".join(f'<div class="ic-spec">{esc(s)}</div>'
-                            for s in spec)
-        icon = str(it.get("icon") or "")
-        icon_html = (f'<img class="ic-img" src="{esc(icon)}" alt="" '
-                     f'width="44" height="44">'
-                     if icon else '<i class="ic-icon">📗</i>')
-        out.append(f'''<div class="item-card">
-  <div class="ic-name"><span class="ltr">{esc(name)}</span>{icon_html}</div>
-  <table>{rows_html}</table>{spec_html}
-</div>''')
-    return "\n".join(out) if len(out) > 1 else ""
+    """Render structured item-card blocks (art['items']) as rarity cards."""
+    return item_render.render_items(art)
 
 
 def fa_date(iso):
@@ -133,13 +121,13 @@ def page(title, desc, body, canonical, extra_head=""):
 </head>
 <body>
 <header class="site">
-  <div class="logo">WoWhead FA<small>اخبار ورلد آو وارکرفت به فارسی — غیررسمی</small></div>
-  <nav><a href="{BASE}/">خانه</a> · <a href="{BASE}/feed.xml">RSS</a></nav>
+  <div class="logo">WoWhead FA<small>{TAGLINE}</small></div>
+  <nav><a href="{BASE}/">{HOME_FA}</a> · <a href="{BASE}/feed.xml">RSS</a></nav>
 </header>
 <main>
 {body}
 </main>
-<footer class="site">{DISCLAIMER}<br>تماس (takedown/DMCA): {esc(CONTACT)}</footer>
+<footer class="site">{DISCLAIMER}<br>{CONTACT_FA}{esc(CONTACT)}</footer>
 </body></html>"""
 
 
@@ -156,16 +144,16 @@ def article_page(art):
         via = str(gen.get("via") or "")
         rev = str(gen.get("reviewer") or "")
         if via.startswith("auto"):
-            # automated pipeline (any provider: auto-grok / auto-gemini…)
+            # automated pipeline (any provider: auto-grok / auto-gemini...)
             if rev and rev != gen["model"]:
-                genline = (f"<span>نگارش خودکار با {esc(gen['model'])} "
-                           f"و بازبینی با {esc(rev)}</span>")
+                genline = (f"<span>{GEN_AUTO_REV}{esc(gen['model'])}"
+                           f"{AND_REV}{esc(rev)}</span>")
             else:
-                genline = (f"<span>نگارش و بازبینی خودکار با "
+                genline = (f"<span>{GEN_AUTO}"
                            f"{esc(gen['model'])}</span>")
         else:
-            genline = (f"<span>نگارش با دستیار هوشمند ({esc(gen['model'])}) "
-                       f"+ ویرایش انسانی</span>")
+            genline = (f"<span>{GEN_HUMAN}{esc(gen['model'])}"
+                       f"{GEN_HUMAN2}</span>")
     body = f"""
 <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
   <h1 itemprop="headline">{esc(a['title_fa'])}</h1>
@@ -174,11 +162,11 @@ def article_page(art):
   <p class="lead">{esc(a['lead_fa'])}</p>
   {paras}
   {items_html}
-  <div class="srcbox">منبع: <a href="{esc(art['url'])}" rel="noopener"
-     target="_blank">Wowhead — {esc(art['title_en'])}</a><br>
-     این متن بازنویسی اورجینال فارسی است، نه ترجمهٔ تحت‌اللفظی.</div>
+  <div class="srcbox">{SRC_FA}<a href="{esc(art['url'])}" rel="noopener"
+     target="_blank">Wowhead \u2014 {esc(art['title_en'])}</a><br>
+     {REWRITE_FA}</div>
 </article>
-<p><a href="{BASE}/">← همهٔ اخبار</a></p>"""
+<p><a href="{BASE}/">{ALL_FA}</a></p>"""
     return page(a["title_fa"], a["lead_fa"], body, url)
 
 
@@ -188,19 +176,19 @@ def index_page(arts):
         a = art["article_fa"]
         slug = f"{art['id']}-{art['slug']}"
         draft = "" if art["status"] == "published" else \
-            ' <span class="badge">پیش‌نویس</span>'
+            f' <span class="badge">{DRAFT_FA}</span>'
         tags = " ".join(f'<span class="tag">{esc(t)}</span>'
                         for t in a.get("tags_fa", [])[:3])
         cards.append(f"""
 <div class="card">
   <h2><a href="{BASE}/article/{esc(slug)}.html">{esc(a['title_fa'])}</a>{draft}</h2>
-  <p style="margin:.2rem 0">{esc(a['lead_fa'][:180])}…</p>
+  <p style="margin:.2rem 0">{esc(a['lead_fa'][:180])}...</p>
   <div class="meta"><span>{esc(fa_date(art['published_at']))}</span>
-  <a href="{esc(art['url'])}" target="_blank" rel="noopener">منبع: Wowhead</a>
+  <a href="{esc(art['url'])}" target="_blank" rel="noopener">{SRC_FA}Wowhead</a>
   <span>{tags}</span></div>
 </div>""")
-    body = ("\n<h1>آخرین اخبار</h1>\n" + "\n".join(cards)
-            if cards else "\n<h1>به‌زودی</h1>\n<p>اولین خبرها در راه است.</p>")
+    body = (f"\n<h1>{LATEST_FA}</h1>\n" + "\n".join(cards)
+            if cards else f"\n<h1>{SOON_FA}</h1>\n<p>{FIRST_FA}</p>")
     return page(TITLE, DESC, body, BASE + "/")
 
 
@@ -264,7 +252,7 @@ def main():
             "id": art["id"], "slug": art["slug"],
             "title_fa": a["title_fa"], "lead_fa": a["lead_fa"],
             "body_fa": a["body_fa"], "tags_fa": a.get("tags_fa", []),
-            "items": art.get("items") or [],
+            "items": item_render.merged_items(art),
             "title_en": art.get("title_en", ""),
             "source_url": art["url"],
             "page_url": f"{BASE}/article/{art['id']}-{art['slug']}.html",
