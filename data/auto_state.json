@@ -1,6 +1,6 @@
 {
- "day": "2026-10-25",
- "published_today": 9,
+ "day": "2026-10-26",
+ "published_today": 1,
  "held": {
   "383562": {
    "reason": "«Hallow's End نیز به‌روزرسانی‌هایی در فعالیت‌های محله دریافت کرده است که شامل quests روزانه و سه تم محله می‌شود» — منبع فقط می‌گوید Hallow's End has some neighborhood activity updates with daily quests and three neighborhood themes؛ جمله فارسی ادعای «دریافت کرده است» (completed fact) می‌سازد در حالی که منبع در زمان حال و در زمینه مقایسه با Winter Veil است. | «به‌روزرسانی احتمالاً شامل quests روزان",
@@ -86,10 +86,20 @@
    "reason": "مقاله ادعا می‌کند «تبدیل Restored Coffer Keys به Ascendant Venomstones با اجرای Tier 11 Delves» و «با باز کردن Bountiful Chests ... به Ascendant Venomstones تبدیل کنید» در حالی که منبع صراحتاً می‌گوید Ascendant Venomstones از باز کردن Bountiful Chests به دست می‌آیند و Keys فقط برای باز کردن همان chestها مصرف می‌شوند؛ این رابطه علت و معلولی و عبارت «تبدیل ... به» در منبع وجود ندارد. | در پاراگراف ا",
    "at": "2026-10-25T23:00:45Z",
    "at_ts": 1792969245.825791
+  },
+  "383516": {
+   "reason": "«این چهار کتاب جدید به عنوان decor به خانه بازیکنان اضافه می‌شوند» — منبع فقط می‌گوید کتاب‌های lorewalking به عنوان decor اهدا می‌شوند، نه اینکه مستقیماً به خانه اضافه شوند. | «این به نظر می‌رسد که آزمایشی برای پیاده‌سازی بهتر این ویژگی باشد» — این نتیجه‌گیری و تفسیر causal در من | fallback هم رد شد: «چهار داستان جدید برای Lorewalking در دسترس قرار می‌گیرد» — منبع فقط می‌گوید چهار داستان ج",
+   "at": "2026-10-26T05:08:20Z",
+   "at_ts": 1792991300.424617
+  },
+  "383529": {
+   "reason": "عنوان «صندوق‌های Gear Mythic+ قابل ارسال به حساب اکنون در دسترس هستند» و lead «صندوق‌های Gear Mythic+ را برای کاراکترهای آلت خود بخرید» ادعای «Mythic+ gear crates» را به صورت کلی و دائمی بیان می‌کنند در حالی که منبع فقط از Amani Equipment Chest صحبت می‌کند. | بدنه «کاراکترهای تازه اکنون 5 Catalyst Charges دارند و این صندوق‌ها راه خوبی برای به‌دست آوردن tier slot pieces به‌منظور دریافت 4-set هستند»",
+   "at": "2026-10-26T05:14:41Z",
+   "at_ts": 1792991681.425472
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-25T23:00:45Z",
+ "updated_at": "2026-10-26T05:14:41Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -521,6 +531,46 @@
     "blocks": 4,
     "warns": 1,
     "sec": 29.4,
+    "attempts": 2
+   },
+   {
+    "id": "383516",
+    "ts": "2026-10-26T05:08:20Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 3,
+    "warns": 1,
+    "sec": 49.5,
+    "attempts": 2
+   },
+   {
+    "id": "383516",
+    "ts": "2026-10-26T05:12:33Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 4,
+    "warns": 1,
+    "sec": 253.2,
+    "attempts": 1
+   },
+   {
+    "id": "383554",
+    "ts": "2026-10-26T05:13:41Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 67.5,
+    "attempts": 1
+   },
+   {
+    "id": "383529",
+    "ts": "2026-10-26T05:14:41Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 1,
+    "sec": 60.0,
     "attempts": 2
    }
   ]
