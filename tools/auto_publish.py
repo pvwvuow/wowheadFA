@@ -935,7 +935,10 @@ def ingest_items(art):
     url = art.get("url", "")
     attempts = [
         ("page", url),
+        ("jina", "https://r.jina.ai/" + url),
         ("allorigins", "https://api.allorigins.win/raw?url="
+         + urllib.parse.quote(url, safe="")),
+        ("codetabs", "https://api.codetabs.com/v1/proxy?quest="
          + urllib.parse.quote(url, safe="")),
     ]
     errs = []
@@ -944,7 +947,12 @@ def ingest_items(art):
             continue
         try:
             raw = FN.fetch(u).decode("utf-8", "replace")
-            cards = IC.parse_cards_from_html(raw)
+            if via == "jina":
+                # r.jina.ai returns markdown/plain text - the text-level
+                # "Label: value" run parser handles it
+                cards = IC.parse_cards_from_text(raw)
+            else:
+                cards = IC.parse_cards_from_html(raw)
             if cards:
                 return cards, via
             errs.append(f"{via}: no cards")

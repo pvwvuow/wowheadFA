@@ -43,6 +43,24 @@ Every problem you report MUST carry exactly one severity:
      concrete date. If the article states a CONCRETE date/number the source
      does not have, that is invented fact = "block", not "warn".
 
+## Mandatory verification protocol BEFORE you mark anything "block"
+
+A "block" verdict is a serious accusation. Before every "block":
+
+1. **Re-search the source** for the fact — not word-by-word, but as a
+   FACT. The article paraphrases; the source may say "bring these
+   pieces into your home as decor" while the article says «به خانهٔ
+   بازیکنان اضافه می‌شوند» — same fact, NO block.
+2. Verb/framing nuances are NEVER block: «می‌آید» vs «در دسترس قرار
+   می‌گیرد», «اعلام کرد» vs «گفت», definite vs indefinite framing.
+   If the only difference is phrasing, that is at most "warn" (or
+   nothing at all).
+3. For every "block" you must be able to point at the source and say
+   WHICH claim is absent. If you cannot name the absent claim in one
+   short clause, downgrade to "warn".
+4. If you find yourself writing «منبع فقط می‌گوید X را ذکر نکرده» while
+   X literally appears in the source, STOP — that is a false block.
+
 ## What is NOT a problem (do not report these at all)
 
 - Standard journalistic framing that adds no new fact: «اعلام شد»,

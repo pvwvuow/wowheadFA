@@ -94,6 +94,24 @@ def _stem(t: str) -> str:
     return t
 
 
+def _variants(t: str) -> set:
+    """All plural/adverb-ish variants of a token; two tokens match G5
+    when their variant sets intersect (charge/charges, retroactive/
+    retroactively, legendary/legendaries)."""
+    out = {t}
+    st = _stem(t)
+    out.add(st)
+    if t.endswith("ly") and len(t) > 4:
+        out.add(t[:-2])                    # retroactively -> retroactive
+    if st.endswith("ly") and len(st) > 4:
+        out.add(st[:-2])
+    if t.endswith("es") and len(t) > 4:    # charges -> charge (s-strip too)
+        out.add(t[:-1])
+    if t.endswith("ies") and len(t) > 4:
+        out.add(t[:-3])
+    return out
+
+
 def card_texts(art: dict) -> str:
     """Plain text of the structured item-card blocks (items[]), if any."""
     try:
@@ -173,11 +191,12 @@ def check(path: str) -> list:
         # the English title is part of the source too
         src_tokens = set(src_tokens) | english_tokens(
             art.get("title_en", ""))
-        src_stems = {_stem(t) for t in src_tokens}
+        src_variants = set()
+        for t in src_tokens:
+            src_variants |= _variants(t)
         for t in english_tokens(whole):
-            if t not in src_tokens and _stem(t) not in src_stems \
-                    and t not in ALLOW and len(t) > 2 \
-                    and not t.isdigit() and "+" not in t:
+            if not (_variants(t) & src_variants) and t not in ALLOW \
+                    and len(t) > 2 and not t.isdigit() and "+" not in t:
                 issues.append(f"G5 English token not in source: {t}")
     # G6
     if re.search(r"\bمی\s+[آابپتثجچحخدذرزژسشصضطظعغفقکگلمنوهی]", whole):
