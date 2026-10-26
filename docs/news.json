@@ -1,8 +1,34 @@
 {
- "generated": "2026-10-26T17:27:36Z",
+ "generated": "2026-10-26T17:49:05Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383589,
+   "slug": "watch-the-wow-forever-short-story-unbowed",
+   "title_fa": "داستان کوتاه WoW: Forever با عنوان Unbowed منتشر شد",
+   "lead_fa": "داستان کوتاه جدید World of Warcraft: Forever به نام Unbowed بر زندگی Cormack، عضو سابق Scarlet Crusader تمرکز دارد که اکنون به عنوان Forsaken زندگی می‌کند و با وجود مرده بودنش دست‌وپنجه نرم می‌کند.",
+   "body_fa": [
+    "Cormack که در زمان حیاتش عضو Scarlet Crusader بود، حالا به شکل Forsaken احضار شده و نمی‌تواند با وجود مرده‌اش کنار بیاید.",
+    "او با گذشته خود و باورهایی که روزگار او را شکل داده بود روبه‌رو می‌شود و در نهایت این پرسش برایش پیش می‌آید که آیا یک Forsaken هنوز می‌تواند به Light خدمت کند.",
+    "داستان «Unbowed» با روایت ویژه کنار آتش توسط Jesse Burch در نقش Cormack ارائه شده است.",
+    "این داستان کوتاه توسط Sean Copeland نوشته شده و نسخه PDF آن نیز قابل دانلود است.",
+    "برای خواندن داستان‌های بیشتر و دنبال کردن اخبار World of Warcraft می‌توانید به worldofwarcraft.blizzard.com/news مراجعه کنید."
+   ],
+   "tags_fa": [
+    "Forever",
+    "داستان کوتاه",
+    "Unbowed"
+   ],
+   "items": [],
+   "title_en": "Watch the WoW: Forever Short Story, “Unbowed”",
+   "source_url": "https://www.wowhead.com/news=383589",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383589-watch-the-wow-forever-short-story-unbowed.html",
+   "published_at": "2026-10-26T17:49:05Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383565,
    "slug": "new-talebound-toy-allows-companion-pets-to-fly-on-an-enchanted-book",
@@ -1111,13 +1137,6 @@
   }
  ],
  "queue": [
-  {
-   "id": 383589,
-   "title_en": "Watch the WoW: Forever Short Story, “Unbowed”",
-   "url": "https://www.wowhead.com/news=383589",
-   "category": "Forever",
-   "published_at": "2026-10-26T17:07:09Z"
-  },
   {
    "id": 383573,
    "title_en": "Blizzard Hints The WoW: Forever Podcast Will Continue",
