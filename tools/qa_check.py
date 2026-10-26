@@ -109,6 +109,10 @@ def _variants(t: str) -> set:
         out.add(t[:-1])
     if t.endswith("ies") and len(t) > 4:
         out.add(t[:-3])
+    if "-" in t:                           # lore-related -> lore, related...
+        parts = [p for p in t.split("-") if p]
+        out.update(parts)
+        out.add("".join(parts))
     return out
 
 

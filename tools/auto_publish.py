@@ -926,6 +926,13 @@ def ingest_source(art):
     return text, "page:" + (mode or "?")
 
 
+def _light_fetch(url, timeout=25):
+    """Single-attempt fetch for card scraping (keeps runs fast)."""
+    req = urllib.request.Request(url, headers={"User-Agent": FN.UA})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read()
+
+
 def ingest_items(art):
     """Best-effort extraction of item/decor tooltip cards from the FULL
     news page. They never appear in the RSS content:encoded body (which
@@ -934,28 +941,35 @@ def ingest_items(art):
     pipeline: any failure returns ([], reason)."""
     url = art.get("url", "")
     attempts = [
-        ("page", url),
-        ("jina", "https://r.jina.ai/" + url),
+        ("page", url, "html"),
+        ("jina", "https://r.jina.ai/" + url, "text"),
         ("allorigins", "https://api.allorigins.win/raw?url="
-         + urllib.parse.quote(url, safe="")),
+         + urllib.parse.quote(url, safe=""), "html"),
         ("codetabs", "https://api.codetabs.com/v1/proxy?quest="
-         + urllib.parse.quote(url, safe="")),
+         + urllib.parse.quote(url, safe=""), "html"),
     ]
     errs = []
-    for via, u in attempts:
+    for via, u, kind in attempts:
         if not u:
             continue
         try:
-            raw = FN.fetch(u).decode("utf-8", "replace")
-            if via == "jina":
-                # r.jina.ai returns markdown/plain text - the text-level
-                # "Label: value" run parser handles it
+            raw = _light_fetch(u).decode("utf-8", "replace")
+            if kind == "text":
                 cards = IC.parse_cards_from_text(raw)
             else:
                 cards = IC.parse_cards_from_html(raw)
             if cards:
                 return cards, via
             errs.append(f"{via}: no cards")
+            if via == "jina" and len(raw) > 500:
+                # diagnostic excerpt so the parser can be tuned from the
+                # run log (public page data only, never source prose)
+                sample = re.search(r"(?is)^.{0,900}", raw)
+                m = re.search(r"(?im)^.*(Vendor|Placeable|Dyeable|Cost)"
+                              r"\s*[:\-].*$", raw)
+                excerpt = (m.group(0)[:200] if m else sample.group(0)[-400:])
+                print(f"  jina sample ({len(raw)} chars): "
+                      f"{excerpt[:200]!r}", flush=True)
         except Exception as e:                          # noqa: BLE001
             errs.append(f"{via}: {scrub(e)[:60]}")
     print(f"  item cards: none ({'; '.join(errs)[:110]})", flush=True)
