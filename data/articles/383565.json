@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383565",
  "title_en": "New Talebound Toy Allows Companion Pets to Fly on an Enchanted Book",
  "category": "PTR",
- "published_at": "2026-10-26T14:00:00Z",
+ "published_at": "2026-10-26T14:23:34Z",
  "fetched_at": "2026-10-26T14:01:58Z",
  "source_mode": "full",
  "qa_facts": {
@@ -90,5 +90,26 @@
   ],
   "chars": 785
  },
- "status": "new"
+ "status": "published",
+ "article_fa": {
+  "title_fa": "اسباب‌بازی Hexed Tiny Tome از حالت Talebound در پچ ۱۲.۱.۷",
+  "lead_fa": "در بیلد جدید PTR پچ ۱۲.۱.۷، اسباب‌بازی Hexed Tiny Tome استخراج شده که از Talebound، حالت Roguelite تازه، به دست می‌آید.",
+  "body_fa": [
+   "این توی بسیار شبیه به Magical Saucer موجود است که اجازه می‌دهد پت همراه شما روی یک دیسک دنبالتان کند.",
+   "با این اسباب‌بازی، پت همراه شما روی یک کتاب پرنده دنبالتان خواهد کرد؛ کتابی که شبیه به mount Shadowbound Storybook است که از همان حالت بازی به دست می‌آید.",
+   "وقتی این توی در پچ ۱۲.۱.۷ منتشر شود، Narcissa's Mirror را فراموش نکنید.",
+   "این توی به شما اجازه می‌دهد مدل پت خود را تغییر دهید تا یک نسخه کوچک از خودتان روی کتاب جادویی پرنده دنبالتان کند."
+  ],
+  "tags_fa": [
+   "PTR",
+   "۱۲.۱.۷",
+   "Talebound",
+   "اسباب‌بازی"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-26T14:23:34Z"
+ }
 }

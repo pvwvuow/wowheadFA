@@ -1,8 +1,34 @@
 {
- "generated": "2026-10-26T14:01:58Z",
+ "generated": "2026-10-26T14:23:34Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383565,
+   "slug": "new-talebound-toy-allows-companion-pets-to-fly-on-an-enchanted-book",
+   "title_fa": "اسباب‌بازی Hexed Tiny Tome از حالت Talebound در پچ ۱۲.۱.۷",
+   "lead_fa": "در بیلد جدید PTR پچ ۱۲.۱.۷، اسباب‌بازی Hexed Tiny Tome استخراج شده که از Talebound، حالت Roguelite تازه، به دست می‌آید.",
+   "body_fa": [
+    "این توی بسیار شبیه به Magical Saucer موجود است که اجازه می‌دهد پت همراه شما روی یک دیسک دنبالتان کند.",
+    "با این اسباب‌بازی، پت همراه شما روی یک کتاب پرنده دنبالتان خواهد کرد؛ کتابی که شبیه به mount Shadowbound Storybook است که از همان حالت بازی به دست می‌آید.",
+    "وقتی این توی در پچ ۱۲.۱.۷ منتشر شود، Narcissa's Mirror را فراموش نکنید.",
+    "این توی به شما اجازه می‌دهد مدل پت خود را تغییر دهید تا یک نسخه کوچک از خودتان روی کتاب جادویی پرنده دنبالتان کند."
+   ],
+   "tags_fa": [
+    "PTR",
+    "۱۲.۱.۷",
+    "Talebound",
+    "اسباب‌بازی"
+   ],
+   "items": [],
+   "title_en": "New Talebound Toy Allows Companion Pets to Fly on an Enchanted Book",
+   "source_url": "https://www.wowhead.com/news=383565",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383565-new-talebound-toy-allows-companion-pets-to-fly-on-an-enchanted-book.html",
+   "published_at": "2026-10-26T14:23:34Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383571,
    "slug": "the-wow-forever-beta-pvp-tournament-results-winners-statistics",
@@ -1085,13 +1111,6 @@
   }
  ],
  "queue": [
-  {
-   "id": 383565,
-   "title_en": "New Talebound Toy Allows Companion Pets to Fly on an Enchanted Book",
-   "url": "https://www.wowhead.com/news=383565",
-   "category": "PTR",
-   "published_at": "2026-10-26T14:00:00Z"
-  },
   {
    "id": 383562,
    "title_en": "New Winter Veil Neighborhood Activities Updates in Patch 12.1.7",
