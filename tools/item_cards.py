@@ -16,7 +16,18 @@ fact rows, same policy as qa_facts.
 Output block shape (stored in article JSON + news.json as `items`):
   {"item": {"name": "Origin of the Silver Hand",
             "rows": [["فروشنده", "Lali the Assistant"], ...],
-            "spec": ["+10 House XP"]}}      # stat lines without labels
+            "spec": ["+10 House XP"],       # stat lines without labels
+            "quality": "uncommon",          # English name or "" (golden)
+            "image": "https://wow.zamimg.com/images/wow/icons/large/...",
+            "icon": "https://..."}}         # legacy field, kept for compat
+
+quality/image come from the page's item markup: the item-name bold
+<b class="qN">Name</b> (N: 0 poor, 1 common, 2 uncommon, 3 rare,
+4 epic, 5 legendary, 6 artifact, 7 heirloom, 8 token) and the first
+<img ... width="180"> AFTER that name whose src starts with
+https://wow.zamimg.com/. Pages fetched as markdown-only (jina) carry
+no color class -> quality stays "" and item_render.py draws the card
+GOLDEN instead of guessing a rarity.
 
 Labels/values are translated by FIXED dictionaries + a few deterministic
 rules (numbers -> Persian digits, known housing words). Untranslatable
@@ -33,7 +44,7 @@ import re
 
 MIN_ROWS = 3           # a tooltip run must have at least 3 fields
 MAX_ROWS = 24          # sanity cap for one card
-MAX_CARDS = 8          # sanity cap per article
+MAX_CARDS = 12         # sanity cap per article (383516 ships 9 decor books!)
 
 # ---------------------------------------------------------------- labels
 FIELD_FA = {
@@ -77,6 +88,64 @@ VALUE_FA = {
 }
 
 FA_DIGITS = str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹")
+
+# ------------------------------------------------- quality & card image
+# <b class="qN">Item Name</b> - canonical WoW quality scale
+QUALITY_NAMES = {0: "poor", 1: "common", 2: "uncommon", 3: "rare",
+                 4: "epic", 5: "legendary", 6: "artifact",
+                 7: "heirloom", 8: "token"}
+
+QNAME_RE = re.compile(
+    r"(?is)<b\s+[^>]*?class\s*=\s*[\"']q([0-8])[\"'][^>]*>(.*?)</b>")
+IMG_TAG_RE = re.compile(r"(?is)<img\b[^>]*>")
+ATTR_RE = re.compile(r"(?is)([a-z-]+)\s*=\s*[\"']([^\"']*)[\"']")
+ZAMIMG_PREFIX = "https://wow.zamimg.com/"
+
+
+def _attr_map(tag: str) -> dict:
+    return {k.lower(): v for k, v in ATTR_RE.findall(tag)}
+
+
+def _norm_key(s: str) -> str:
+    """Lowercase, tag-free name key for matching cards to markup."""
+    s = re.sub(r"(?s)<[^>]+>", " ", s)
+    s = _html.unescape(s)
+    return re.sub(r"\s+", " ", s).strip().lower()
+
+
+def quality_image_from_fragment(frag: str) -> dict:
+    """Map lowercase item name -> {"quality": str, "image": str}.
+
+    quality: English quality name taken from the item's <b class="qN">
+    markup; "" when the page has no color class (e.g. jina markdown)
+    so the rendered card becomes golden (see item_render.py).
+    image: the FIRST <img ... width="180"> AFTER that name whose src
+    starts with https://wow.zamimg.com/; "" when absent."""
+    out = {}
+    for m in QNAME_RE.finditer(frag):
+        key = _norm_key(m.group(2))
+        if not key or key in out:
+            continue
+        q = QUALITY_NAMES.get(int(m.group(1)), "")
+        img = ""
+        for t in IMG_TAG_RE.finditer(frag, m.end()):
+            a = _attr_map(t.group(0))
+            src = (a.get("src") or "").strip()
+            if not src.startswith(ZAMIMG_PREFIX):
+                continue
+            if re.fullmatch(r"180(?:px)?", (a.get("width") or "").strip()):
+                img = src
+                break
+        out[key] = {"quality": q, "image": img}
+    return out
+
+
+def _attach_meta(cards: list, qi: dict) -> None:
+    """Attach quality/image from a quality_image_from_fragment map."""
+    for c in cards:
+        meta = qi.get(_norm_key(c.get("name", ""))) or {}
+        c["quality"] = meta.get("quality", "")
+        c["image"] = meta.get("image", "")
 
 LABEL_RE = re.compile(
     r"^([A-Z][A-Za-z''/ +&\-.]{0,34}?)\s*:\s*(.+?)\s*$")
@@ -202,12 +271,16 @@ def parse_cards_from_html(page_html: str) -> list:
                 icon = _icon_from_fragment(frag)
                 for c in card:
                     c.setdefault("icon", icon or "")
+                _attach_meta(card, quality_image_from_fragment(frag))
             cards += card
         if cards:
             break
     if not cards:
-        # markup-agnostic fallback: whole page text
+        # markup-agnostic fallback: whole page text (still carry the
+        # quality/image markup if the raw page had it)
         cards = parse_cards_from_lines(_lines_from_html(page))
+        if cards:
+            _attach_meta(cards, quality_image_from_fragment(page_html))
     return _dedupe(cards)
 
 
@@ -263,7 +336,9 @@ def _map_value(v: str) -> str:
 
 
 def translate_card(card: dict) -> dict:
-    """Raw card -> published block (labels/values Persianized)."""
+    """Raw card -> published block (labels/values Persianized).
+    quality/image are copied verbatim into the item block (quality as
+    English name or "" = golden; image may be "" -> icon fallback)."""
     rows = []
     for lbl, val in card.get("rows", []):
         fa_lbl = FIELD_FA.get(lbl.lower().strip(" -"), lbl)
@@ -274,6 +349,10 @@ def translate_card(card: dict) -> dict:
                     "spec": spec}}
     if card.get("icon"):
         blk["item"]["icon"] = card["icon"]
+    if card.get("image"):
+        blk["item"]["image"] = card["image"]
+    q = card.get("quality", "")
+    blk["item"]["quality"] = q if isinstance(q, str) else ""
     return blk
 
 
@@ -296,7 +375,12 @@ def merge_facts(cards: list, facts: dict) -> dict:
     """Add card numbers + English tokens into qa_facts so the writer,
     reviewer and G4/G5 gates all accept references to them."""
     from fetch_news import make_qa_facts
-    txt = "\n".join(json.dumps(c, ensure_ascii=False) for c in cards)
+    # quality/image are presentational metadata (never article text);
+    # keep them out of the facts scan so URL digits / quality names
+    # cannot loosen the gates.
+    txt = "\n".join(
+        json.dumps({k: c[k] for k in c if k not in ("quality", "image")},
+                   ensure_ascii=False) for c in cards)
     extra = make_qa_facts(txt, "")
     out = dict(facts or {})
     out["numbers"] = sorted(set(out.get("numbers") or [])

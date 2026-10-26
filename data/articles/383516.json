@@ -265,7 +265,9 @@
     "spec": [
      "1 +10 House XP"
     ],
-    "icon": "https://wow.zamimg.com/images/wow/icons/large/8148374.jpg"
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/8148374.jpg",
+    "quality": "uncommon",
+    "image": "https://wow.zamimg.com/images/wow/icons/large/8148374.jpg"
    }
   },
   {
@@ -311,7 +313,9 @@
     ],
     "spec": [
      "1 +10 House XP"
-    ]
+    ],
+    "quality": "uncommon",
+    "image": ""
    }
   },
   {
@@ -358,7 +362,9 @@
     "spec": [
      "1 +10 House XP"
     ],
-    "icon": "https://wow.zamimg.com/images/wow/icons/large/8148380.jpg"
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/8148380.jpg",
+    "quality": "uncommon",
+    "image": "https://wow.zamimg.com/images/wow/icons/large/8148380.jpg"
    }
   },
   {
@@ -405,7 +411,9 @@
     "spec": [
      "3 +10 House XP"
     ],
-    "icon": "https://wow.zamimg.com/images/wow/icons/large/8148360.jpg"
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/8148360.jpg",
+    "quality": "uncommon",
+    "image": "https://wow.zamimg.com/images/wow/icons/large/8148360.jpg"
    }
   },
   {
@@ -456,7 +464,9 @@
     "spec": [
      "1 +10 House XP"
     ],
-    "icon": "https://wow.zamimg.com/images/wow/icons/large/7416211.jpg"
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/7416211.jpg",
+    "quality": "rare",
+    "image": "https://wow.zamimg.com/images/wow/icons/large/7416211.jpg"
    }
   },
   {
@@ -507,7 +517,9 @@
     "spec": [
      "1 +10 House XP"
     ],
-    "icon": "https://wow.zamimg.com/images/wow/icons/large/7426138.jpg"
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/7426138.jpg",
+    "quality": "rare",
+    "image": "https://wow.zamimg.com/images/wow/icons/large/7426138.jpg"
    }
   },
   {
@@ -566,7 +578,9 @@
     "spec": [
      "1 +10 House XP"
     ],
-    "icon": "https://wow.zamimg.com/images/wow/icons/large/7426152.jpg"
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/7426152.jpg",
+    "quality": "rare",
+    "image": "https://wow.zamimg.com/images/wow/icons/large/7426152.jpg"
    }
   },
   {
@@ -617,7 +631,9 @@
     "spec": [
      "1 +10 House XP"
     ],
-    "icon": "https://wow.zamimg.com/images/wow/icons/large/7426156.jpg"
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/7426156.jpg",
+    "quality": "rare",
+    "image": "https://wow.zamimg.com/images/wow/icons/large/7426156.jpg"
    }
   },
   {
@@ -668,7 +684,9 @@
     "spec": [
      "1 +10 House XP"
     ],
-    "icon": "https://wow.zamimg.com/images/wow/icons/large/8123920.jpg"
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/8123920.jpg",
+    "quality": "rare",
+    "image": "https://wow.zamimg.com/images/wow/icons/large/8123920.jpg"
    }
   }
  ]
