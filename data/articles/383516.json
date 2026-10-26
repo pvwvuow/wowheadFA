@@ -9,12 +9,16 @@
  "source_mode": "full",
  "qa_facts": {
   "numbers": [
+   "10",
    "12.1.5",
-   "12.1.7"
+   "12.1.7",
+   "2000"
   ],
   "entities": [
    "a",
    "ability",
+   "accents",
+   "achievement",
    "after",
    "all",
    "and",
@@ -23,76 +27,135 @@
    "around",
    "as",
    "asking",
+   "assistant",
    "azeroth",
+   "bane",
    "bank",
+   "battle",
    "be",
    "been",
    "best",
    "better",
+   "blade's",
+   "blossoms",
    "book",
    "books",
    "bookshelves",
+   "brief",
    "bring",
    "bringing",
    "campaigns",
+   "category",
+   "classic",
    "collect",
    "coming",
    "completed",
+   "cost",
    "could",
    "decor",
+   "draenor",
+   "dragonflight",
+   "dyeable",
    "each",
    "earn",
+   "elves",
+   "eternal",
+   "ethereal",
    "even",
    "every",
    "existing",
+   "expansion",
+   "fall",
    "feature",
+   "first",
+   "floor",
    "for",
    "four",
    "from",
    "get",
    "granted",
    "had",
+   "hand",
+   "hangings",
    "have",
    "having",
+   "history",
    "home",
+   "house",
    "housing",
    "how",
+   "https",
+   "icon",
+   "icons",
    "if",
+   "images",
    "implement",
    "in",
    "in-game",
+   "indoors",
    "instead",
    "into",
+   "intrigue",
    "is",
    "it",
    "join",
+   "jpg",
+   "k'aresh's",
+   "king",
+   "kings",
+   "lali",
+   "large",
+   "legion",
+   "lich",
    "like",
+   "loa",
    "looks",
    "lore",
    "lorewalking",
+   "medium",
    "more",
+   "name",
    "never",
    "new",
+   "no",
    "now",
    "of",
+   "on",
+   "origin",
+   "ornamental",
+   "outdoors",
    "overview",
    "own",
    "patch",
+   "penultimate",
    "pieces",
+   "placeable",
+   "placed",
    "player",
    "players",
+   "quel'thalas",
    "read",
    "readable",
    "related",
    "retroactively",
    "reward",
    "rewards",
+   "rows",
    "run",
+   "scroll",
+   "sea",
+   "silver",
+   "silvermoon",
    "since",
+   "size",
+   "small",
    "space",
+   "spec",
    "stock",
    "stories",
+   "survivor",
    "take",
+   "tale",
    "test",
    "that",
    "the",
@@ -103,20 +166,35 @@
    "this",
    "those",
    "though",
+   "tiny",
+   "titans",
    "to",
+   "tome",
    "traveling",
    "up",
+   "vale",
+   "vendor",
    "version",
    "very",
+   "wall",
+   "war",
+   "warchief",
+   "warlords",
    "well",
    "were",
    "what",
    "which",
    "who",
    "will",
+   "wisdom",
+   "within",
    "would",
+   "wow",
+   "wow.zamimg.com",
+   "xp",
    "you'll",
-   "your"
+   "your",
+   "zone"
   ],
   "chars": 970
  },
@@ -141,5 +219,457 @@
   "via": "auto-gemini",
   "written_at": "2026-10-26T05:39:46Z",
   "reviewer": "grok-4.20-0309-non-reasoning"
- }
+ },
+ "items": [
+  {
+   "item": {
+    "name": "Origin of the Silver Hand",
+    "rows": [
+     [
+      "تزئینات",
+      "تزئینی"
+     ],
+     [
+      "قابل قرارگیری",
+      "داخل ساختمان، فضای باز"
+     ],
+     [
+      "محل قرارگیری",
+      "کف"
+     ],
+     [
+      "اندازه",
+      "کوچک"
+     ],
+     [
+      "رنگ‌پذیری",
+      "خیر"
+     ],
+     [
+      "اکسپنشن",
+      "Battle for Azeroth"
+     ],
+     [
+      "فروشنده",
+      "Lali the Assistant"
+     ],
+     [
+      "منطقه",
+      "Vale of Eternal Blossoms"
+     ],
+     [
+      "قیمت",
+      "۲۰۰۰"
+     ]
+    ],
+    "spec": [
+     "1 +10 House XP"
+    ],
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/8148374.jpg"
+   }
+  },
+  {
+   "item": {
+    "name": "Tale of the First Warchief",
+    "rows": [
+     [
+      "تزئینات",
+      "تزئینی"
+     ],
+     [
+      "قابل قرارگیری",
+      "داخل ساختمان، فضای باز"
+     ],
+     [
+      "محل قرارگیری",
+      "کف"
+     ],
+     [
+      "اندازه",
+      "کوچک"
+     ],
+     [
+      "رنگ‌پذیری",
+      "خیر"
+     ],
+     [
+      "اکسپنشن",
+      "Warlords of Draenor"
+     ],
+     [
+      "فروشنده",
+      "Lali the Assistant"
+     ],
+     [
+      "منطقه",
+      "Vale of Eternal Blossoms"
+     ],
+     [
+      "قیمت",
+      "۲۰۰۰"
+     ]
+    ],
+    "spec": [
+     "1 +10 House XP"
+    ]
+   }
+  },
+  {
+   "item": {
+    "name": "Tome of the Sea",
+    "rows": [
+     [
+      "تزئینات",
+      "تزئینی"
+     ],
+     [
+      "قابل قرارگیری",
+      "داخل ساختمان، فضای باز"
+     ],
+     [
+      "محل قرارگیری",
+      "کف"
+     ],
+     [
+      "اندازه",
+      "کوچک"
+     ],
+     [
+      "رنگ‌پذیری",
+      "خیر"
+     ],
+     [
+      "اکسپنشن",
+      "Battle for Azeroth"
+     ],
+     [
+      "فروشنده",
+      "Lali the Assistant"
+     ],
+     [
+      "منطقه",
+      "Vale of Eternal Blossoms"
+     ],
+     [
+      "قیمت",
+      "۲۰۰۰"
+     ]
+    ],
+    "spec": [
+     "1 +10 House XP"
+    ],
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/8148380.jpg"
+   }
+  },
+  {
+   "item": {
+    "name": "A Brief History of the Titans",
+    "rows": [
+     [
+      "تزئینات",
+      "تزئینی"
+     ],
+     [
+      "قابل قرارگیری",
+      "داخل ساختمان، فضای باز"
+     ],
+     [
+      "محل قرارگیری",
+      "کف"
+     ],
+     [
+      "اندازه",
+      "متوسط"
+     ],
+     [
+      "رنگ‌پذیری",
+      "خیر"
+     ],
+     [
+      "اکسپنشن",
+      "Dragonflight"
+     ],
+     [
+      "فروشنده",
+      "Lali the Assistant"
+     ],
+     [
+      "منطقه",
+      "Vale of Eternal Blossoms"
+     ],
+     [
+      "قیمت",
+      "۲۰۰۰"
+     ]
+    ],
+    "spec": [
+     "3 +10 House XP"
+    ],
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/8148360.jpg"
+   }
+  },
+  {
+   "item": {
+    "name": "Tome of Silvermoon Intrigue",
+    "rows": [
+     [
+      "قابل قرارگیری",
+      "داخل ساختمان، فضای باز"
+     ],
+     [
+      "محل قرارگیری",
+      "کف"
+     ],
+     [
+      "اندازه",
+      "بسیار کوچک"
+     ],
+     [
+      "رنگ‌پذیری",
+      "خیر"
+     ],
+     [
+      "اکسپنشن",
+      "The War Within"
+     ],
+     [
+      "دستاورد",
+      "Lorewalking: The Elves of Quel'thalas"
+     ],
+     [
+      "دسته",
+      "Lorewalking"
+     ],
+     [
+      "فروشنده",
+      "Lali the Assistant"
+     ],
+     [
+      "منطقه",
+      "Vale of Eternal Blossoms"
+     ],
+     [
+      "قیمت",
+      "۲۰۰۰"
+     ]
+    ],
+    "spec": [
+     "1 +10 House XP"
+    ],
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/7416211.jpg"
+   }
+  },
+  {
+   "item": {
+    "name": "Tale of the Penultimate Lich King",
+    "rows": [
+     [
+      "قابل قرارگیری",
+      "داخل ساختمان، فضای باز"
+     ],
+     [
+      "محل قرارگیری",
+      "کف"
+     ],
+     [
+      "اندازه",
+      "کوچک"
+     ],
+     [
+      "رنگ‌پذیری",
+      "خیر"
+     ],
+     [
+      "اکسپنشن",
+      "Legion"
+     ],
+     [
+      "دستاورد",
+      "Lorewalking: The Lich King"
+     ],
+     [
+      "دسته",
+      "Lorewalking"
+     ],
+     [
+      "فروشنده",
+      "Lali the Assistant"
+     ],
+     [
+      "منطقه",
+      "Vale of Eternal Blossoms"
+     ],
+     [
+      "قیمت",
+      "۲۰۰۰"
+     ]
+    ],
+    "spec": [
+     "1 +10 House XP"
+    ],
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/7426138.jpg"
+   }
+  },
+  {
+   "item": {
+    "name": "Scroll of K'aresh's Fall",
+    "rows": [
+     [
+      "تزئینات",
+      "تزئینی"
+     ],
+     [
+      "تزئینات",
+      "آویزهای دیواری"
+     ],
+     [
+      "قابل قرارگیری",
+      "داخل ساختمان، فضای باز"
+     ],
+     [
+      "محل قرارگیری",
+      "دیوار"
+     ],
+     [
+      "اندازه",
+      "کوچک"
+     ],
+     [
+      "رنگ‌پذیری",
+      "خیر"
+     ],
+     [
+      "اکسپنشن",
+      "The War Within"
+     ],
+     [
+      "دستاورد",
+      "Lorewalking: Ethereal Wisdom"
+     ],
+     [
+      "دسته",
+      "Lorewalking"
+     ],
+     [
+      "فروشنده",
+      "Lali the Assistant"
+     ],
+     [
+      "منطقه",
+      "Vale of Eternal Blossoms"
+     ],
+     [
+      "قیمت",
+      "۲۰۰۰"
+     ]
+    ],
+    "spec": [
+     "1 +10 House XP"
+    ],
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/7426152.jpg"
+   }
+  },
+  {
+   "item": {
+    "name": "Tome of the Survivor",
+    "rows": [
+     [
+      "قابل قرارگیری",
+      "داخل ساختمان، فضای باز"
+     ],
+     [
+      "محل قرارگیری",
+      "کف"
+     ],
+     [
+      "اندازه",
+      "کوچک"
+     ],
+     [
+      "رنگ‌پذیری",
+      "خیر"
+     ],
+     [
+      "اکسپنشن",
+      "The War Within"
+     ],
+     [
+      "دستاورد",
+      "Lorewalking: Blade's Bane"
+     ],
+     [
+      "دسته",
+      "Lorewalking"
+     ],
+     [
+      "فروشنده",
+      "Lali the Assistant"
+     ],
+     [
+      "منطقه",
+      "Vale of Eternal Blossoms"
+     ],
+     [
+      "قیمت",
+      "۲۰۰۰"
+     ]
+    ],
+    "spec": [
+     "1 +10 House XP"
+    ],
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/7426156.jpg"
+   }
+  },
+  {
+   "item": {
+    "name": "Tome of Kings",
+    "rows": [
+     [
+      "قابل قرارگیری",
+      "داخل ساختمان، فضای باز"
+     ],
+     [
+      "محل قرارگیری",
+      "کف"
+     ],
+     [
+      "اندازه",
+      "کوچک"
+     ],
+     [
+      "رنگ‌پذیری",
+      "خیر"
+     ],
+     [
+      "اکسپنشن",
+      "Classic"
+     ],
+     [
+      "دستاورد",
+      "Lorewalking: The Loa"
+     ],
+     [
+      "دسته",
+      "Lorewalking"
+     ],
+     [
+      "فروشنده",
+      "Lali the Assistant"
+     ],
+     [
+      "منطقه",
+      "Vale of Eternal Blossoms"
+     ],
+     [
+      "قیمت",
+      "۲۰۰۰"
+     ]
+    ],
+    "spec": [
+     "1 +10 House XP"
+    ],
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/8123920.jpg"
+   }
+  }
+ ]
 }

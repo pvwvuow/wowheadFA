@@ -54,6 +54,7 @@ footer.site{border-top:1px solid var(--bd);color:var(--mut);font-size:.82rem;pad
 .item-card{background:#14181f;border:1px solid #2b4c2e;border-radius:10px;padding:.7rem 1rem;margin:.9rem 0;max-width:34rem;direction:rtl}
 .item-card .ic-name{color:#4ade80;font-weight:700;font-size:1.02rem;display:flex;align-items:center;gap:.45rem;direction:ltr;justify-content:flex-end}
 .item-card .ic-icon{font-style:normal;filter:drop-shadow(0 0 3px rgba(74,222,128,.5))}
+.item-card .ic-img{width:44px;height:44px;border-radius:8px;border:1px solid #2b4c2e;background:#0d1117;object-fit:cover;flex:none}
 .item-card table{width:100%;border-collapse:collapse;margin-top:.35rem;font-size:.92rem}
 .item-card th{color:var(--mut);font-weight:400;white-space:nowrap;padding:.15rem .6rem .15rem 0;text-align:right;vertical-align:top}
 .item-card td{color:var(--fg);padding:.15rem 0;text-align:right}
@@ -83,8 +84,12 @@ def render_items(art):
             for lbl, val in rows)
         spec_html = "".join(f'<div class="ic-spec">{esc(s)}</div>'
                             for s in spec)
+        icon = str(it.get("icon") or "")
+        icon_html = (f'<img class="ic-img" src="{esc(icon)}" alt="" '
+                     f'width="44" height="44">'
+                     if icon else '<i class="ic-icon">📗</i>')
         out.append(f'''<div class="item-card">
-  <div class="ic-name"><span class="ltr">{esc(name)}</span><i class="ic-icon">📗</i></div>
+  <div class="ic-name"><span class="ltr">{esc(name)}</span>{icon_html}</div>
   <table>{rows_html}</table>{spec_html}
 </div>''')
     return "\n".join(out) if len(out) > 1 else ""

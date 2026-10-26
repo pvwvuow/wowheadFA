@@ -73,6 +73,7 @@ VALUE_FA = {
     "free": "رایگان", "quest": "کوئست", "vendor": "فروشنده",
     "drop": "دراپ", "crafting": "ساخت", "achievement": "دستاورد",
     "alliance": "اتحاد", "horde": "وردن",
+    "wall hangings": "آویزهای دیواری",
 }
 
 FA_DIGITS = str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹")
@@ -196,13 +197,31 @@ def parse_cards_from_html(page_html: str) -> list:
     cards = []
     for pat in CONTAINERS:
         for frag in re.findall(pat, page, flags=re.S | re.I):
-            cards += parse_cards_from_lines(_lines_from_html(frag))
+            card = parse_cards_from_lines(_lines_from_html(frag))
+            if card:
+                icon = _icon_from_fragment(frag)
+                for c in card:
+                    c.setdefault("icon", icon or "")
+            cards += card
         if cards:
             break
     if not cards:
         # markup-agnostic fallback: whole page text
         cards = parse_cards_from_lines(_lines_from_html(page))
     return _dedupe(cards)
+
+
+ICON_RE = re.compile(
+    r"wow\.zamimg\.com/images/wow/icons/(?:large|medium)/"
+    r"([A-Za-z0-9_-]+)\.(?:jpg|png)")
+
+
+def _icon_from_fragment(frag: str) -> str:
+    m = ICON_RE.search(frag)
+    if not m:
+        return ""
+    return "https://wow.zamimg.com/images/wow/icons/large/" + m.group(1) \
+        + ".jpg"
 
 
 def parse_cards_from_text(text: str) -> list:
@@ -251,8 +270,11 @@ def translate_card(card: dict) -> dict:
         rows.append([fa_lbl, _map_value(val)])
     spec = [fa_num(s) if re.fullmatch(r"[0-9 ]+", s) else s
             for s in card.get("spec", [])]
-    return {"item": {"name": card.get("name", ""), "rows": rows,
-                     "spec": spec}}
+    blk = {"item": {"name": card.get("name", ""), "rows": rows,
+                    "spec": spec}}
+    if card.get("icon"):
+        blk["item"]["icon"] = card["icon"]
+    return blk
 
 
 # ------------------------------------------------------------------ misc
