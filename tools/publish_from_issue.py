@@ -24,10 +24,21 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import fetch_news as FN  # noqa: E402
+import item_cards as IC  # noqa: E402
 import qa_check  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ART = os.path.join(ROOT, "data", "articles")
+
+
+def _issue_items_text(body: str) -> str:
+    """Optional 'item data' textarea from the GitHub issue form
+    (### دادهٔ آیتم‌ها ...) - raw tooltip lines the author pasted."""
+    m = re.search(r"###\s*دادهٔ آیتم‌ها[^\n]*\n(.*?)(?=\n###\s|\Z)",
+                  body, flags=re.S)
+    if not m:
+        return ""
+    return m.group(1).strip()
 
 
 def parse_payload(body: str):
@@ -43,7 +54,10 @@ def parse_payload(body: str):
         f = f.strip()
         if '"title_fa"' in f:
             try:
-                return json.loads(f), None
+                p = json.loads(f)
+                if isinstance(p, dict) and not p.get("items_text"):
+                    p["items_text"] = _issue_items_text(body)
+                return p, None
             except Exception as e:
                 return None, f"payload JSON parse error: {e}"
     # last resort: whole body as JSON
@@ -51,7 +65,10 @@ def parse_payload(body: str):
         m2 = re.search(r"\{.*\}", blob, flags=re.S)
         if m2:
             try:
-                return json.loads(m2.group(0)), None
+                p = json.loads(m2.group(0))
+                if isinstance(p, dict) and not p.get("items_text"):
+                    p["items_text"] = _issue_items_text(body)
+                return p, None
             except Exception as e:
                 return None, f"payload JSON parse error: {e}"
     return None, "no payload found (need a ```json block with title_fa)"
@@ -90,6 +107,12 @@ def sanitize_payload(p):
         errs.append("title_fa is empty")
     if not lead:
         errs.append("lead_fa is empty")
+    # optional pasted item/decor tooltip data -> structured item cards
+    items = []
+    items_text = p.get("items_text") or ""
+    if isinstance(items_text, str) and items_text.strip():
+        cards = IC.parse_cards_from_text(items_text[:20000])
+        items = [IC.translate_card(c) for c in cards]
     data = {
         "id": art_id,
         "url": url,
@@ -97,6 +120,7 @@ def sanitize_payload(p):
         "lead_fa": lead,
         "body_fa": body,
         "tags_fa": tags,
+        "items": items,
         "title_en": clean_str(p.get("title_en"), 300),
         "model": clean_str(p.get("model"), 80),
     }
@@ -181,6 +205,9 @@ def main():
         "body_fa": data["body_fa"],
         "tags_fa": data["tags_fa"],
     }
+    if data.get("items"):
+        art["items"] = data["items"]
+        lines.append(f"item cards attached from issue: {len(data['items'])}")
     art["generator"] = {
         "model": data["model"] or "unknown",
         "via": "web-byok",

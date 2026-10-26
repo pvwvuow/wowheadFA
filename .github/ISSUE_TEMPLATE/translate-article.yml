@@ -17,3 +17,25 @@ body:
       placeholder: '{ "source_url": "https://www.wowhead.com/news=...", "title_fa": "...", ... }'
     validations:
       required: true
+  - type: textarea
+    id: items_text
+    attributes:
+      label: دادهٔ آیتم‌ها (اختیاری)
+      description: >
+        اگر خبر شامل کارت آیتم/دکور است (مثل Origin of the Silver Hand با
+        Vendor/Zone/Cost)، متن تولتیپ را از صفحهٔ Wowhead کپی و اینجا
+        بچسبان. به‌صورت خودکار به کارت سبز آیتم در مقاله تبدیل می‌شود؛
+        نام آیتم‌ها لاتین می‌ماند و برچسب‌ها فارسی می‌شوند.
+      placeholder: |
+        Origin of the Silver Hand
+        +10 House XP
+        Placeable: Indoors, Outdoors
+        Placed on: Floor
+        Size: Small
+        Dyeable: No
+        Expansion: Battle for Azeroth
+        Vendor: Lali the Assistant
+        Zone: Vale of Eternal Blossoms
+        Cost: 2000
+    validations:
+      required: false
