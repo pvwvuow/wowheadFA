@@ -47,8 +47,8 @@ SIGIL = ("<svg class=\"ic-sigil\" viewBox=\"0 0 64 64\" aria-hidden=\"true\">"
 
 CSS = """
 .ic-wrap{margin:1.6rem 0 .4rem}
-.ic-title{display:flex;align-items:center;gap:.9rem;margin:0 0 1rem;font-size:1.02rem;font-weight:700;color:#e3b341}
-.ic-title::before,.ic-title::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,transparent,rgba(227,179,65,.55),transparent)}
+.ic-wrap .ic-title{display:flex;align-items:center;gap:.9rem;margin:0 0 1rem;font-size:1.02rem;font-weight:700;line-height:1.8;color:#e3b341}
+.ic-wrap .ic-title::before,.ic-wrap .ic-title::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,transparent,rgba(227,179,65,.55),transparent)}
 .ic{--q:#c9a232;--qt:#c9a232;--qg:201,162,50;position:relative;display:flex;direction:ltr;align-items:stretch;margin:0 0 1.1rem;border:1px solid rgba(var(--qg),.34);border-radius:14px;overflow:hidden;background:linear-gradient(165deg,rgba(27,22,35,.94),rgba(11,11,17,.97));box-shadow:0 10px 28px rgba(0,0,0,.38);transition:box-shadow .25s,border-color .25s}
 .ic::before{content:"";position:absolute;inset:0 0 auto 0;height:1px;background:linear-gradient(90deg,transparent,var(--q),transparent);opacity:.95}
 .ic:hover{border-color:rgba(var(--qg),.6);box-shadow:0 12px 34px rgba(0,0,0,.5),0 0 30px rgba(var(--qg),.14)}
@@ -191,5 +191,5 @@ def render_items(art, meta=None):
             + "</div></div>")
     if not cards:
         return ""
-    return ('<section class="ic-wrap"><h2 class="ic-title">' + TITLE_FA
-            + "</h2>" + "".join(cards) + "</section>")
+    return ('<section class="ic-wrap"><div class="ic-title">' + TITLE_FA
+            + "</div>" + "".join(cards) + "</section>")
