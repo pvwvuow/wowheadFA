@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T15:04:18Z",
+ "generated": "2026-10-26T17:27:36Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1111,6 +1111,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383589,
+   "title_en": "Watch the WoW: Forever Short Story, “Unbowed”",
+   "url": "https://www.wowhead.com/news=383589",
+   "category": "Forever",
+   "published_at": "2026-10-26T17:07:09Z"
+  },
   {
    "id": 383573,
    "title_en": "Blizzard Hints The WoW: Forever Podcast Will Continue",
