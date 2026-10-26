@@ -96,10 +96,15 @@
    "reason": "عددِ بدون منبع در مقاله: 12 | عددِ بدون منبع در مقاله: 7 | G4 numbers from source missing in article: 12.1.7 | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
    "at": "2026-10-26T18:31:02Z",
    "at_ts": 1793039462.465088
+  },
+  "383595": {
+   "reason": "عنوان و بدنه مقاله تاریخ رویداد را ۲ نوامبر ۲۰۲۶ اعلام کرده در حالی که منبع می‌گوید November 2, 2026 برای signing و November 4, 2026 برای انتشار است؛ عنوان نباید تاریخ signing را به ۲ نوامبر محدود کند. | lead_fa و بدنه می‌گویند «بلیت‌های رایگان این رویداد محدود از ۲۷ اکتبر در دست | fallback هم رد شد: writer error: The read operation timed out",
+   "at": "2026-10-26T20:14:10Z",
+   "at_ts": 1793045650.741696
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-26T18:31:11Z",
+ "updated_at": "2026-10-26T20:20:10Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -701,6 +706,26 @@
     "blocks": 0,
     "warns": 0,
     "sec": 8.5,
+    "attempts": 1
+   },
+   {
+    "id": "383595",
+    "ts": "2026-10-26T20:14:10Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 3,
+    "warns": 0,
+    "sec": 60.3,
+    "attempts": 2
+   },
+   {
+    "id": "383595",
+    "ts": "2026-10-26T20:20:10Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 359.8,
     "attempts": 1
    }
   ]
