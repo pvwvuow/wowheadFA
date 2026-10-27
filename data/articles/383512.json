@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383512",
  "title_en": "New Theatre-Themed Decor Takes the Stage in Patch 12.1.7",
  "category": "PTR",
- "published_at": "2026-10-27T15:00:00Z",
+ "published_at": "2026-10-27T15:46:37Z",
  "fetched_at": "2026-10-27T15:22:23Z",
  "source_mode": "full",
  "qa_facts": {
@@ -76,5 +76,26 @@
   ],
   "chars": 535
  },
- "status": "new"
+ "status": "published",
+ "article_fa": {
+  "title_fa": "دکوراسیون تئاتری جدید در پچ ۱۲.۱.۷ وارد می‌شود",
+  "lead_fa": "با انتشار پچ ۱۲.۱.۷، دکوراسیون‌های جدید با تم تئاتر به خانه‌های بازیکنان اضافه خواهد شد.",
+  "body_fa": [
+   "بازیکنان می‌توانند از پرده‌های جدید و پس‌زمینه‌های صحنه برای تزئین خانه‌های خود استفاده کنند.",
+   "تعدادی پرده جدید در فروشگاه‌های محله‌های Player Housing عرضه می‌شود و به نظر می‌رسد از رنگ‌دهی پشتیبانی کنند.",
+   "پس‌زمینه‌های صحنه مستقیماً از Opera Event در Karazhan گرفته شده‌اند و احتمالاً به یکی از المان‌های اصلی طراحی تبدیل خواهند شد.",
+   "این آیتم‌ها احتمالاً به فهرست جوایز Burning Crusade Timewalking اضافه می‌شوند، بنابراین آماده فارم Timewarped Badge باشید."
+  ],
+  "tags_fa": [
+   "۱۲.۱.۷",
+   "Player Housing",
+   "دکوراسیون",
+   "Karazhan"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-27T15:46:37Z"
+ }
 }

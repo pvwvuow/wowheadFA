@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383595",
  "title_en": "Meet the Devs at WoW: Forever Poster Signing - Limited Tickets Available Now",
  "category": "Forever",
- "published_at": "2026-10-26T19:09:41Z",
+ "published_at": "2026-10-27T15:47:10Z",
  "fetched_at": "2026-10-26T19:32:13Z",
  "source_mode": "full",
  "qa_facts": {
@@ -16,6 +16,7 @@
   "entities": [
    "a",
    "accommodate",
+   "actually",
    "ada",
    "advance",
    "adventures",
@@ -25,9 +26,11 @@
    "announced",
    "anticipate",
    "anyone",
+   "apologize",
    "are",
    "arrival",
    "arrive",
+   "article",
    "at",
    "attend",
    "attendance",
@@ -37,6 +40,7 @@
    "behind",
    "blizzard",
    "busy",
+   "but",
    "can",
    "can't",
    "celebrate",
@@ -45,6 +49,7 @@
    "check-in",
    "code",
    "compliant",
+   "confusion",
    "connect",
    "designated",
    "developers",
@@ -75,6 +80,8 @@
    "located",
    "make",
    "meet",
+   "mentioned",
+   "mistake",
    "more",
    "must",
    "nd",
@@ -86,6 +93,7 @@
    "of",
    "on",
    "only",
+   "originally",
    "our",
    "outside",
    "page",
@@ -103,6 +111,7 @@
    "so",
    "space",
    "special",
+   "starting",
    "strongly",
    "sure",
    "tent",
@@ -110,12 +119,15 @@
    "the",
    "their",
    "there",
+   "they",
    "this",
    "ticket",
    "tickets",
    "time",
    "tixr",
    "to",
+   "today",
+   "tomorrow",
    "tuesday",
    "unable",
    "upcoming",
@@ -125,6 +137,7 @@
    "visit",
    "wait",
    "we",
+   "were",
    "where",
    "will",
    "window",
@@ -135,7 +148,29 @@
    "you",
    "your"
   ],
-  "chars": 1301
+  "chars": 1475
  },
- "status": "new"
+ "status": "published",
+ "article_fa": {
+  "title_fa": "امضای پوستر WoW: Forever با حضور دولوپرها در ۲ نوامبر",
+  "lead_fa": "بلیزارد رویداد WoW: Forever Poster Signing را برای ۲ نوامبر ۲۰۲۶ در Irvine Improv برگزار می‌کند و بلیت‌های رایگان آن از فردا در دسترس قرار می‌گیرد.",
+  "body_fa": [
+   "بلیزارد اعلام کرده که علاقه‌مندان می‌توانند در رویداد WoW: Forever Poster Signing دولوپرهای بازی را ملاقات کنند و همزمان با انتشار نزدیک WoW: Forever جشن بگیرند.",
+   "این رویداد در تاریخ ۲ نوامبر ۲۰۲۶ در Irvine Improv برگزار می‌شود. تعداد بلیت‌ها محدود است و حضور بدون بلیت امکان‌پذیر نخواهد بود.",
+   "بلیت‌های رایگان از سه‌شنبه ۲۷ اکتبر ساعت ۱۲:۰۰ به وقت PDT از طریق TIXR در دسترس قرار می‌گیرد. هر شرکت‌کننده باید بلیت خود را از قبل رزرو کند و QR کد معتبر داشته باشد.",
+   "شرکت‌کنندگان تشویق می‌شوند که در بازه زمانی مشخص‌شده زودتر حاضر شوند. ورود فقط با اسکن QR کد در چادر چک‌این خارج از محل برگزاری امکان‌پذیر است.",
+   "محل برگزاری Irvine Improv از امکانات ADA برخوردار است. برای اطلاعات بیشتر می‌توانید به صفحه رویداد مراجعه کنید. این جشن قرار است شلوغ و هیجان‌انگیز باشد."
+  ],
+  "tags_fa": [
+   "WoW: Forever",
+   "رویداد بلیزارد",
+   "امضای پوستر",
+   "Irvine Improv"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-27T15:47:10Z"
+ }
 }
