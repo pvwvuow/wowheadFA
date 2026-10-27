@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T22:48:05Z",
+ "generated": "2026-10-27T23:08:20Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1281,6 +1281,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383603,
+   "title_en": "Myth 2/6 Piece of Loot Now Available from Labyrinths",
+   "url": "https://www.wowhead.com/news=383603",
+   "category": "Live",
+   "published_at": "2026-10-27T22:58:35Z"
+  },
   {
    "id": 383607,
    "title_en": "Living Heartsbane Cauldron Mount Now Available on Battle.net Store",
