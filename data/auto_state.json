@@ -1,6 +1,6 @@
 {
  "day": "2026-10-27",
- "published_today": 5,
+ "published_today": 6,
  "held": {
   "383599": {
    "reason": "عنوان مقاله «هاتفیکس‌های ۲۶ اکتبر برای Labyrinth و کلاس‌ها در پچ ۱۲.۱.۵» و پاراگراف اول «در تاریخ ۲۶ اکتبر ۲۰۲۶» و تگ «۱۲.۱.۵» تاریخ و شماره پچ را ذکر کرده‌اند در حالی که منبع هیچ تاریخی، سالی و شماره پچی ندارد. | جمله «این تغییر از اسپاون چندین chest جلوگیری می‌کند» توضیح علت و  | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
@@ -36,10 +36,20 @@
    "reason": "G5 English token not in source: izzard",
    "at": "2026-10-27T17:11:55Z",
    "at_ts": 1793121115.659804
+  },
+  "383607": {
+   "reason": "مقاله در lead_fa و body_fa ادعا می‌کند mount با قیمت ۲۵ دلار «عرضه شد» و «اکنون در دسترس است»، در حالی که منبع فقط می‌گوید «is available on the Battle.net Store for $25» و عنوان «Now Available» دارد؛ اما هیچ تاریخی یا تأیید عرضه قطعی فراتر از اعلام فروشگاه ذکر نشده است. | در body | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+   "at": "2026-10-27T18:48:40Z",
+   "at_ts": 1793126920.780452
+  },
+  "383606": {
+   "reason": "G1 Persian ratio 39% < 55%",
+   "at": "2026-10-27T18:50:34Z",
+   "at_ts": 1793127034.494209
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-27T17:12:48Z",
+ "updated_at": "2026-10-27T18:50:34Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -842,6 +852,46 @@
     "warns": 0,
     "sec": 52.5,
     "attempts": 1
+   },
+   {
+    "id": "383607",
+    "ts": "2026-10-27T18:48:40Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 7,
+    "warns": 0,
+    "sec": 72.4,
+    "attempts": 2
+   },
+   {
+    "id": "383607",
+    "ts": "2026-10-27T18:48:52Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 11.3,
+    "attempts": 1
+   },
+   {
+    "id": "383608",
+    "ts": "2026-10-27T18:49:44Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 52.2,
+    "attempts": 1
+   },
+   {
+    "id": "383606",
+    "ts": "2026-10-27T18:50:34Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 49.9,
+    "attempts": 2
    }
   ]
  }

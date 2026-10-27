@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-27T18:19:36Z",
+ "generated": "2026-10-27T18:50:34Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383608,
+   "slug": "name-reservations-for-wow-forever-delayed",
+   "title_fa": "رزرو نام‌ها برای WoW: Forever به تعویق افتاد",
+   "lead_fa": "بلزارد به دلیل مشکلات فنی رزرو نام برای WoW: Forever را که قرار بود امروز فعال شود به تعویق انداخت.",
+   "body_fa": [
+    "به‌روزرسانی ساعت ۱۱:۲۰ صبح به وقت PDT: بنر هشدار برای بسیاری از بازیکنان اکنون تغییر کرده است. با این حال گزارش‌ها حاکی از آن است که تمام rulesetها برای کسانی که قادر به ورود هستند خاکستری شده‌اند و در حال حاضر هیچ نامی نمی‌توان ذخیره یا رزرو کرد.",
+    "بلزارد از طریق اعلان در Battle.net launcher اعلام کرده که رزرو نام‌ها برای WoW: Forever با تأخیر مواجه شده است.",
+    "بازیکنان مشتاقانه منتظر عرضه WoW: Forever در ۴ نوامبر هستند و کسانی که Skyborne Heroic Pack، Skyborne Epic Pack یا Warcraft Forever Collection را پیش‌خرید کرده‌اند، واجد شرایط رزرو نام پیش از موعد هستند.",
+    "رزرو نام‌ها قرار بود امروز فعال شود اما بلزارد به طور خاموش اعلام کرده که مشکلات فنی باعث عقب افتادن این قابلیت برای مدت نامعلومی شده است.",
+    "هنوز مشخص نیست که آیا این تأخیر بر سرورهای NA تأثیر خواهد گذاشت یا خیر، زیرا تنها بازیکنان EU در حال حاضر واجد شرایط این پنجره رزرو هستند.",
+    "این مقاله را به‌روزرسانی خواهیم کرد هرگاه اطلاعات بیشتری به دست آید."
+   ],
+   "tags_fa": [
+    "WoW: Forever",
+    "رزرو نام",
+    "تأخیر بلزارد",
+    "مشکلات فنی"
+   ],
+   "items": [],
+   "title_en": "Name Reservations for WoW: Forever Delayed",
+   "source_url": "https://www.wowhead.com/news=383608",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383608-name-reservations-for-wow-forever-delayed.html",
+   "published_at": "2026-10-27T18:49:44Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383523,
    "slug": "dalaran-updated-ahead-of-the-beta-s-end-in-wow-forever",
@@ -1250,32 +1278,6 @@
    "model": "GLM",
    "via": "",
    "reviewer": ""
-  },
-  {
-   "id": 383517,
-   "slug": "kindo-jan-labyrinth-reputation-increased-from-delve-bonus-event",
-   "title_fa": "هفتهٔ بونوس Delves؛ ۲۵ درصد Reputation بیشتر برای Labyrinth of Kindo'jan",
-   "lead_fa": "رویداد بونوس Delves این هفته سه باف هم‌زمان می‌دهد: ۲۵ درصد Reputation بیشتر برای Labyrinth of Kindo'jan، ۲۵ درصد Delver's Journey بیشتر و ۲۵ درصد Undercoin بیشتر.",
-   "body_fa": [
-    "رویداد بونوس Delve یک هفته کامل طول می‌کشد و در این مدت سه پاداش کلیدی را تقویت می‌کند: Reputation در Labyrinth of Kindo'jan، پیشرفت Delver's Journey و درآمد Undercoin؛ هر سه ۲۵ درصد بیشتر از حالت عادی.",
-    "نکتهٔ تازه این است که با پچ 12.1.5 این باف حالا به Reputation خود Labyrinth هم اضافه شده است. یعنی برای کسانی که می‌خواهند رنک‌های جدید قدرت و پاداش‌ها را باز کنند، این هفته بهترین زمان ممکن است.",
-    "در مسیر رنک‌ها هم چیزهای جذابی منتظر شماست: در رنک اول یعنی Ancient Curios، صندوق‌های Bountiful Coffers و Hidden Troves می‌توانند در Tier 8 به بالا Curios رتبهٔ ۵ بدهند. رنک دوم با نام Lock, Key, and Mask یک در قفل‌شده و Keeper of the Key و Elemental Hexmasks را به رازهای Labyrinth اضافه می‌کند.",
-    "رنک سوم هم Akil'zon's Favor است؛ می‌توانید از Akil'zon's Seals عبور کنید و با پیدا کردن Sturdy Chests پاداش‌هایی مثل Akil'zon's Swiftness را بگیرید.",
-    "در رنک‌های بالاتر هم خبرهای خوبی هست: با Ancient Curios رتبهٔ ۸ می‌توانید آپدیت Delve-O-Bot 7001 یعنی Midnight Software Update Chip را از Telemancer Astrandis در Silvermoon City بخرید تا مقصد Labyrinth of Kindo'jan به ربات شما اضافه شود. اگر برنامهٔ فارم دارید، این هفته را از دست ندهید."
-   ],
-   "tags_fa": [
-    "Delves",
-    "Reputation",
-    "رویداد هفتگی"
-   ],
-   "items": [],
-   "title_en": "Kindo'jan Labyrinth Reputation Increased from Delve Bonus Event",
-   "source_url": "https://www.wowhead.com/news=383517",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383517-kindo-jan-labyrinth-reputation-increased-from-delve-bonus-event.html",
-   "published_at": "2026-10-21T14:00:00Z",
-   "model": "GLM",
-   "via": "",
-   "reviewer": ""
   }
  ],
  "queue": [
@@ -1285,13 +1287,6 @@
    "url": "https://www.wowhead.com/news=383607",
    "category": "Live",
    "published_at": "2026-10-27T18:00:46Z"
-  },
-  {
-   "id": 383608,
-   "title_en": "Name Reservations for WoW: Forever Delayed",
-   "url": "https://www.wowhead.com/news=383608",
-   "category": "Forever",
-   "published_at": "2026-10-27T17:58:59Z"
   },
   {
    "id": 383606,
