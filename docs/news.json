@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T00:10:29Z",
+ "generated": "2026-10-27T03:34:17Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1167,6 +1167,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383599,
+   "title_en": "More Labyrinth & Class Bug Fixes - Patch 12.1.5 Hotfixes for October 26th",
+   "url": "https://www.wowhead.com/news=383599",
+   "category": "Live",
+   "published_at": "2026-10-27T03:22:27Z"
+  },
   {
    "id": 383598,
    "title_en": "New Grimtide Housing Exterior and Decor Datamined",
