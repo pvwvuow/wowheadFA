@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T17:33:09Z",
+ "generated": "2026-10-27T17:56:29Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1279,6 +1279,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383606,
+   "title_en": "New Grimtide Housing Bundles Available for Hearthsteel",
+   "url": "https://www.wowhead.com/news=383606",
+   "category": "Live",
+   "published_at": "2026-10-27T17:24:31Z"
+  },
   {
    "id": 383605,
    "title_en": "World of Warcraft: Forever AMV - WARPATH",
