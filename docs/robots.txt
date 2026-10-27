@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://pvwvuow.github.io/wowheadFA/sitemap.xml
+Sitemap: https://pvwvuow.github.io/wowheadFA/news-sitemap.xml
