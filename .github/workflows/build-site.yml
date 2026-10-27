@@ -26,6 +26,9 @@ jobs:
       - name: QA gates
         run: python tools/qa_check.py --all
       - name: Build site
+        env:
+          GSC_VERIFY_TOKEN: ${{ secrets.GSC_VERIFY_TOKEN }}
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
         run: python tools/build_site.py
       - name: Commit pages
         run: |
@@ -37,4 +40,21 @@ jobs:
           else
             git commit -m "site: build $(date -u +%FT%TZ)"
             git push
+          fi
+      - name: SEO ping (GSC sitemaps + Indexing API + IndexNow)
+        env:
+          GSC_SA_JSON: ${{ secrets.GSC_SA_JSON }}
+          GSC_SITES: ${{ vars.GSC_SITES }}
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+        run: |
+          pip install -q google-auth 2>/dev/null || true
+          sleep 45   # let Pages deploy first so bots can fetch key/sitemaps
+          python tools/seo_ping.py
+          git config user.name "wowfarsi-bot"
+          git config user.email "action@github.com"
+          git pull --rebase -q || true
+          git add data/seo_state.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "seo: ping state $(date -u +%FT%TZ)"
+            git push || echo "state push skipped (remote race); retried next run"
           fi
