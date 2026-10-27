@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T15:01:54Z",
+ "generated": "2026-10-27T15:22:23Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1195,6 +1195,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383512,
+   "title_en": "New Theatre-Themed Decor Takes the Stage in Patch 12.1.7",
+   "url": "https://www.wowhead.com/news=383512",
+   "category": "PTR",
+   "published_at": "2026-10-27T15:00:00Z"
+  },
   {
    "id": 383599,
    "title_en": "More Labyrinth & Class Bug Fixes - Patch 12.1.5 Hotfixes for October 26th",
