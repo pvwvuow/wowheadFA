@@ -11,10 +11,25 @@
    "reason": "G1 Persian ratio 42% < 55%",
    "at": "2026-10-27T15:01:54Z",
    "at_ts": 1793113314.496757
+  },
+  "383602": {
+   "reason": "G5 English token not in source: fury | fallback هم رد شد: writer error: Remote end closed connection without response",
+   "at": "2026-10-27T16:38:05Z",
+   "at_ts": 1793119085.159887
+  },
+  "383562": {
+   "reason": "«دستاوردهای Account Wide نیز شامل ...» ادعای Account Wide بودن دستاوردها را مطرح می‌کند در حالی که منبع هیچ اشاره‌ای به Account Wide برای این achievements نکرده است. | «بسیاری از پاداش‌های جدید Winter Veil نیز datamined شده‌اند که احتمالاً در دسترس خواهند بود» پاداش‌های جدید Winter Veil را به عنوان datamined و احتمالاً در دسترس معرفی می‌کند، اما منبع فقط می‌گوید «We have datamined many new Winter ",
+   "at": "2026-10-27T16:43:54Z",
+   "at_ts": 1793119434.103469
+  },
+  "383570": {
+   "reason": "«مشکل Warlocks ninja pulling when a rogue is in a group برطرف شده است» در منبع وجود ندارد. | «یکی دیگر از مشکلات Labyrinth برطرف شده است» ادعای مبهم و اضافی است که منبع دقیقاً آن را پشتیبانی نمی‌کند. | «برای Warlock مشکلاتی که باعث می‌شد برخی احضارها و Diabolic Occuli گاهی دشمنان خارج ازcombat را هدف قرار دهند» منبع فقط Diabolic Occuli را ذکر کرده و «برخی احضارها» را به صورت کلی نگفته است.",
+   "at": "2026-10-27T16:44:46Z",
+   "at_ts": 1793119486.201926
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-27T15:47:58Z",
+ "updated_at": "2026-10-27T16:44:46Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -737,6 +752,46 @@
     "warns": 0,
     "sec": 48.1,
     "attempts": 1
+   },
+   {
+    "id": "383602",
+    "ts": "2026-10-27T16:38:05Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 53.8,
+    "attempts": 2
+   },
+   {
+    "id": "383602",
+    "ts": "2026-10-27T16:42:55Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 289.6,
+    "attempts": 1
+   },
+   {
+    "id": "383562",
+    "ts": "2026-10-27T16:43:54Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 1,
+    "sec": 59.1,
+    "attempts": 2
+   },
+   {
+    "id": "383570",
+    "ts": "2026-10-27T16:44:46Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 0,
+    "sec": 52.1,
+    "attempts": 2
    }
   ]
  }
