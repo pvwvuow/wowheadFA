@@ -1,8 +1,32 @@
 {
- "generated": "2026-10-27T21:17:44Z",
+ "generated": "2026-10-27T21:56:40Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383614,
+   "slug": "players-upset-latest-housing-bundles-breaks-stated-philosophy-on-heart",
+   "title_fa": "اعتراض بازیکنان به عرضه باندل هوسینگ Grimtide در فروشگاه بتل‌نت",
+   "lead_fa": "افزوده شدن باندل جدید هوسینگ Grimtide به فروشگاه Battle.net در ازای Hearthsteel، واکنش اعتراضی گروهی از بازیکنان را به دنبال داشته است.",
+   "body_fa": [
+    "باندل جدید Grimtide برای بخش Housing به فروشگاه Battle.net اضافه شده و خرید آن با ارز پولی Hearthsteel امکان‌پذیر است. نسبت تبدیل این ارز ۱۰۰ Hearthsteel به ازای یک دلار آمریکا است و به تنهایی ۲۵ دلار آمریکا هزینه دارد. دکوراسیون و ساختمان این مجموعه حال‌وهوای Kul Tiran دارند و برخی آیتم‌های آن مانند لنگر یا شاخک، نشانه‌های دریایی دارند یا فضایی مشابه Waycrest Manor در Drustvar ایجاد می‌کنند. نمای بیرونی خانه طوری به نظر می‌رسد که احتمالاً با Boralus همخوانی دارد و داخل آن موجودی شاخک‌دار شبیه به کراکن دیده می‌شود.",
+    "معترضان بر این باورند که این موضوع با اصول راهنمای Blizzard که در پستی در تاریخ ۶ نوامبر ۲۰۲۵ منتشر شده بود، در تناقض به نظر می‌رسد. در آن اصول آمده بود آیتم‌های مربوط به تخیلات بنیادین نژاد یا کلاس بازیکنان و مواردی که پیش‌تر در Azeroth حضور داشته‌اند در فروشگاه فروخته نخواهند شد. این در حالی است که این خانه برای جامعهٔ بازیکنان بسیار شبیه به یک خانهٔ متعلق به نژاد Kul Tiran به نظر می‌رسد و این ناراحتی پس از باگ‌های رخ‌داده در راه‌اندازی اخیر Patch 12.1.5 مطرح شده است.",
+    "این احتمال نیز مطرح است که شاید خانه قرار بوده به Talebound مرتبط باشد نه Kul Tiran، هرچند جامعهٔ بازیکنان چنین برداشتی از آن دارد. انتشار Talebound بیش از یک ماه دیگر پیش‌بینی شده و تست نخست آن این جمعه خواهد بود. پیش از این تنها نمای بیرونی فروخته‌شده در فروشگاه، Cozy Treehouse Retreat Bundle با تم بهار بود که برای ۲ نمای بیرونی و مقادیر زیادی دکوراسیون ۷۵ دلار یا فقط برای نماهای بیرونی ۴۰ دلار قیمت داشت که قیمت هر نما حدود ۲۰ دلار در می‌آمد و ارزان‌تر از گزینهٔ جدید ۲۵ دلاری بود."
+   ],
+   "tags_fa": [
+    "هوسینگ",
+    "بتل نت",
+    "World of Warcraft"
+   ],
+   "items": [],
+   "title_en": "Players Upset Latest Housing Bundles Breaks Stated Philosophy on Hearthsteel",
+   "source_url": "https://www.wowhead.com/news=383614",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383614-players-upset-latest-housing-bundles-breaks-stated-philosophy-on-heart.html",
+   "published_at": "2026-10-27T21:47:43Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "grok-4.20-0309-non-reasoning"
+  },
   {
    "id": 383542,
    "slug": "subtlety-rogue-interaction-with-demonology-warlocks-speculated-to-ninj",
@@ -1253,43 +1277,9 @@
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-grok",
    "reviewer": ""
-  },
-  {
-   "id": 383544,
-   "slug": "catch-up-on-renown-quickly-with-aqir-invasions",
-   "title_fa": "با حمله‌های Aqir هر هفته، Renown فرکشن‌های Midnight را سریع بالا ببرید",
-   "lead_fa": "برای جبران عقب‌افتادگی اعتبار فرکشن‌های Midnight، حمله‌های Aqir ساده‌ترین راه‌اند؛ رویدادی ساعتی که با دو توکن هفتگی، اعتبار سنگینی به دست می‌دهد.",
-   "body_fa": [
-    "حمله‌های Aqir یکی از فعالیت‌های تازهٔ پچ 12.1.5 در Midnight است؛ رویدادی که هر ساعت، سرِ ساعت شروع می‌شود و مرحلهٔ نخست آن ۱۰ دقیقه طول می‌کشد. در این بازه، بازیکن‌ها درون زون پرواز می‌کنند و هدف‌های علامت‌گذاری‌شده را در نقطهٔ مشخص‌شده کامل می‌کنند.",
-    "پس از پایان همین ۱۰ دقیقه است که یک Aqir Monstrosity ظاهر می‌شود و بازیکن‌ها زمان محدودی برای از پا درآوردنش دارند. نکتهٔ مهم برای شکارچیان اعتبار همین‌جاست: در هر هفته، دوبار نخست که این باس را شکست دهید، یک Aqir Research Token به دست می‌آورید.",
-    "این توکن نزد فروشنده‌های Aqir Vendors در Silvermoon City مبادله می‌شود؛ دقیقاً در مختصات /way #2393 39.4 80.4. با صحبت با Matildeux Osril انتخاب می‌کنید که اعتبار به کدام فرکشن تعلق بگیرد.",
-    "به ازای هر توکن، 2,500 اعتبار برای یکی از چهار فرکشن Silvermoon Court، Amani Tribe، Hara'ti یا Singularity و 1,250 اعتبار برای Zul'jarra's Forces در نظر گرفته شده است. یعنی حجم قابل‌توجهی اعتبار در ازای کاری خیلی کم.",
-    "چون رویداد هر ساعت تکرار می‌شود، بهتر است دو شکست هفتگی را در برنامه‌تان بگنجانید تا پیشرفت Renown فرکشن‌های Midnight بدون وقفه ادامه پیدا کند."
-   ],
-   "tags_fa": [
-    "پچ 12.1.5",
-    "Midnight",
-    "Renown",
-    "Aqir Invasions"
-   ],
-   "items": [],
-   "title_en": "Catch Up on Renown Quickly with Aqir Invasions",
-   "source_url": "https://www.wowhead.com/news=383544",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383544-catch-up-on-renown-quickly-with-aqir-invasions.html",
-   "published_at": "2026-10-25T08:39:00Z",
-   "model": "GLM",
-   "via": "web-byok",
-   "reviewer": ""
   }
  ],
  "queue": [
-  {
-   "id": 383614,
-   "title_en": "Players Upset Latest Housing Bundles Breaks Stated Philosophy on Hearthsteel",
-   "url": "https://www.wowhead.com/news=383614",
-   "category": "Live",
-   "published_at": "2026-10-27T21:16:46Z"
-  },
   {
    "id": 383607,
    "title_en": "Living Heartsbane Cauldron Mount Now Available on Battle.net Store",

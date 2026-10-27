@@ -1,6 +1,6 @@
 {
  "day": "2026-10-27",
- "published_today": 10,
+ "published_today": 11,
  "held": {
   "383599": {
    "reason": "عنوان مقاله «هاتفیکس‌های ۲۶ اکتبر برای Labyrinth و کلاس‌ها در پچ ۱۲.۱.۵» و پاراگراف اول «در تاریخ ۲۶ اکتبر ۲۰۲۶» و تگ «۱۲.۱.۵» تاریخ و شماره پچ را ذکر کرده‌اند در حالی که منبع هیچ تاریخی، سالی و شماره پچی ندارد. | جمله «این تغییر از اسپاون چندین chest جلوگیری می‌کند» توضیح علت و  | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
@@ -56,10 +56,25 @@
    "reason": "«در ساعات اخیر نیز مواردی مانند Name Reservation Issue for Oceanic Players، World of Warcraft: Forever Raid Overview—Locations, Raid Sizes, and Attunement، World of Warcraft: Forever Early Name Reservations Are Now Live! و Add the Living Heartsbane Cauldron Mount to your Collecti | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
    "at": "2026-10-27T20:56:28Z",
    "at_ts": 1793134588.566188
+  },
+  "383521": {
+   "reason": "G4 numbers from source missing in article: 10",
+   "at": "2026-10-27T21:55:13Z",
+   "at_ts": 1793138113.609298
   }
  },
- "ingest_fails": {},
- "updated_at": "2026-10-27T20:57:24Z",
+ "ingest_fails": {
+  "383543": 1,
+  "383541": 1,
+  "383538": 1,
+  "383537": 1,
+  "383530": 1,
+  "383531": 1,
+  "383487": 1,
+  "383519": 1,
+  "383518": 1
+ },
+ "updated_at": "2026-10-27T21:56:40Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -982,6 +997,126 @@
     "warns": 0,
     "sec": 47.2,
     "attempts": 1
+   },
+   {
+    "id": "383614",
+    "ts": "2026-10-27T21:44:44Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 6,
+    "warns": 0,
+    "sec": 60.4,
+    "attempts": 2
+   },
+   {
+    "id": "383614",
+    "ts": "2026-10-27T21:47:43Z",
+    "path": "fallback",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 178.7,
+    "attempts": 1
+   },
+   {
+    "id": "383543",
+    "ts": "2026-10-27T21:49:18Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 95.4,
+    "attempts": 0
+   },
+   {
+    "id": "383541",
+    "ts": "2026-10-27T21:49:43Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 24.5,
+    "attempts": 0
+   },
+   {
+    "id": "383538",
+    "ts": "2026-10-27T21:50:31Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 48.9,
+    "attempts": 0
+   },
+   {
+    "id": "383537",
+    "ts": "2026-10-27T21:51:01Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 29.7,
+    "attempts": 0
+   },
+   {
+    "id": "383530",
+    "ts": "2026-10-27T21:52:01Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 59.6,
+    "attempts": 0
+   },
+   {
+    "id": "383531",
+    "ts": "2026-10-27T21:52:41Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 40.4,
+    "attempts": 0
+   },
+   {
+    "id": "383487",
+    "ts": "2026-10-27T21:53:22Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 40.5,
+    "attempts": 0
+   },
+   {
+    "id": "383521",
+    "ts": "2026-10-27T21:55:13Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 111.4,
+    "attempts": 2
+   },
+   {
+    "id": "383519",
+    "ts": "2026-10-27T21:56:13Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 60.1,
+    "attempts": 0
+   },
+   {
+    "id": "383518",
+    "ts": "2026-10-27T21:56:40Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 26.4,
+    "attempts": 0
    }
   ]
  }
