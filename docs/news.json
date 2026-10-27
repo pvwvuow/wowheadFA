@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T17:12:48Z",
+ "generated": "2026-10-27T17:33:09Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1279,6 +1279,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383605,
+   "title_en": "World of Warcraft: Forever AMV - WARPATH",
+   "url": "https://www.wowhead.com/news=383605",
+   "category": "Forever",
+   "published_at": "2026-10-27T17:13:12Z"
+  },
   {
    "id": 383602,
    "title_en": "More Racial Ability Tuning on WoW: Forever",
