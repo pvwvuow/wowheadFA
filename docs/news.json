@@ -1,8 +1,61 @@
 {
- "generated": "2026-10-27T19:10:52Z",
+ "generated": "2026-10-27T20:09:51Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383605,
+   "slug": "world-of-warcraft-forever-amv-warpath",
+   "title_fa": "انتشار AMV جدید WARPATH برای WoW: Forever",
+   "lead_fa": "بلیزارد با انتشار AMV تازه‌ای به نام WARPATH، لانچ WoW: Forever را که قرار است در ۴ نوامبر انجام شود، برجسته کرده است.",
+   "body_fa": [
+    "این AMV جدید روی کانال یوتیوب Warcraft قرار گرفته و تم‌های Alliance، Horde و War را به نمایش می‌گذارد.",
+    "بازیکنان می‌توانند از ۴ نوامبر با داشتن WoW Subscription یا game time، به همراه دوستان خود به جنگل‌های وحشی World of Warcraft: Forever قدم بگذارند.",
+    "این ویدیو در همکاری با Brunch Studio ساخته شده است.",
+    "در این AMV آثاری از Poppy، Amy Lee و Courtney LaPlante به گوش می‌رسد که تحت لیسانس Virgin Music Group منتشر شده‌اند."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "AMV",
+    "WARPATH",
+    "Blizzard"
+   ],
+   "items": [],
+   "title_en": "World of Warcraft: Forever AMV - WARPATH",
+   "source_url": "https://www.wowhead.com/news=383605",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383605-world-of-warcraft-forever-amv-warpath.html",
+   "published_at": "2026-10-27T20:08:48Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
+  {
+   "id": 383610,
+   "slug": "join-the-wow-portal-room-for-your-next-adventure-in-wow-forever",
+   "title_fa": "اتاق پورتال WoW، نقطهٔ شروع ماجراجویی‌های جدید شما",
+   "lead_fa": "بلیزارد با انتشار بلاگ جدیدی، بازیکنان را به پیوستن به اتاق پورتال WoW دعوت کرده است. این سرور رسمی دیسکورد World of Warcraft فضایی فراگیر برای ارتباط بازیکنان در تمام مراحل سفرشان در WoW: Forever فراهم می‌کند.",
+   "body_fa": [
+    "آذروث همیشه بیش از یک محل بازی بوده و توسط افرادی که در مسیر با آن‌ها آشنا می‌شویم شکل گرفته است. اتاق پورتال WoW نقطهٔ آغازین برای ایجاد این ارتباط‌ها به شمار می‌رود؛ چه به دنبال هم‌صحبتی آشنا باشید و چه دایرهٔ جدیدی از ماجراجویان.",
+    "اتاق پورتال WoW آمادهٔ استقبال از بازیکنان World of Warcraft: Forever است و به آن‌ها کمک می‌کند تا دوستی‌ها، داستان‌ها و ماجراجویی‌های مشترک را گسترش دهند. این فضا در کنار بازیکنان در هر مرحله از مسیرشان، ارتباط پایدار را به گفت‌وگوهای تازه، گروه‌ها و اجتماعات تبدیل می‌کند.",
+    "اتاق پورتال WoW سرور رسمی دیسکورد World of Warcraft است که بازیکنان و سفیران جامعه را در یک مرکز فراگیر گرد هم می‌آورد. چه تازه‌کار باشید، چه بازگشتی به بازی داشته باشید، چه سال‌ها تجربه انباشته کرده باشید یا به دنبال گروه جدیدی برای فصل بعدی‌تان باشید، این اتاق می‌تواند شما را به مسیر درست هدایت کند.",
+    "اتاق پورتال مانند هر پورتالی، دروازه‌ای است و نه مقصد نهایی. سفیران WoW بازیکنان باتجربه‌ای هستند که جوامع دیسکورد خود را در اتاق پورتال WoW نمایندگی می‌کنند. آن‌ها به بازیکنان با هر پیشینه و سطح تجربه کمک می‌کنند تا فضاهای مناسب و خوش‌آمدگویی پیدا کنند که با نحوهٔ لذت‌بردن‌شان از Warcraft هم‌خوانی داشته باشد؛ از انجام محتوا در کنار هم گرفته تا تبادل داستان‌ها، یادگیری از دیگران یا حفظ ارتباط با جهان و جامعهٔ آن.",
+    "اگر آماده‌اید تا هم‌گروهان خود را پیدا کنید، همین حالا به اتاق پورتال WoW بپیوندید."
+   ],
+   "tags_fa": [
+    "WoW Portal Room",
+    "WoW: Forever",
+    "سفیران WoW",
+    "جامعه"
+   ],
+   "items": [],
+   "title_en": "Join the WoW Portal Room for Your Next Adventure in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383610",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383610-join-the-wow-portal-room-for-your-next-adventure-in-wow-forever.html",
+   "published_at": "2026-10-27T20:08:03Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383608,
    "slug": "name-reservations-for-wow-forever-delayed",
@@ -1225,69 +1278,9 @@
    "model": "GLM",
    "via": "",
    "reviewer": ""
-  },
-  {
-   "id": 383522,
-   "slug": "camping-system-breakdown-in-world-of-warcraft-forever",
-   "title_fa": "سیستم Camping در WoW: Forever؛ آتش کمپ به نقطهٔ دیدار تبدیل می‌شود",
-   "lead_fa": "Blizzard در وبلاگی رسمی سیستم Camping در WoW: Forever را تشریح کرده است؛ آتش سادهٔ آشپزی به کمپ مشترکی تبدیل می‌شود که بازیکن‌های اطراف با ساخت‌های پروفشن‌ها در آن به هم کمک می‌کنند.",
-   "body_fa": [
-    "ایدهٔ اصلی ساده است: همان Cooking Fire آشنا به Basic Campfire ارتقا می‌یابد. وقتی آتش روشن شود، یک کمپ مشترک شکل می‌گیرد و بازیکن‌های نزدیک می‌توانند قبل از ادامهٔ مسیر در آن استراحت کنند و از امکان‌های ساخته‌شده توسط دیگران استفاده کنند.",
-    "هر کمپ می‌تواند تا ۳ آیتم ویژه از ساخت پروفشن‌ها را نگه دارد و هر بازیکن یکی از آن‌ها را اضافه می‌کند. برای مثال بلک‌اسمیت می‌تواند Sharpening Wheel بگذارد که یک ساعت Strength بالا می‌برد؛ تیلور Faction Banner برای افزایش Spirit قرار می‌دهد و هربالیست با Incense Candle به Intellect کمک می‌کند. این اثرها نسخه‌هایی از باف‌های معمول کلاس‌ها هستند و با آن‌ها exclusive می‌مانند؛ یعنی هم‌زمان نمی‌توانید از هر دو بهره ببرید.",
-    "برای اینکه از امکان‌های دیگران بهره ببرید، کافی است حداقل ۱ دقیقه کنار کمپ بنشینید یا همان‌جا کرفت کنید. همین مکث کوتاه کنار جاده می‌تواند به یک معامله، یک گروه تازه یا حتی شروع یک دوستی طولانی تبدیل شود.",
-    "ورود به این سیستم با یک کوئست ساده در اوایل بازی اتفاق می‌افتد. وقتی سطح اسکیل یک پروفشن به 20 برسد، آیتم‌های اولیهٔ کمپ از کوئست‌های استارت‌زون یا خرید از پروفشن ترینر به دست می‌آیند؛ آیتم‌های نیازمند اسکیل 140 به بالا هم از دراپ دانجن‌ها و ریدها می‌آیند.",
-    "یادآوری ساختار پروفشن‌ها: سه پروفشن ثانویه یعنی Cooking، Fishing و First Aid را همیشه می‌توانید داشته باشید و در کنارشان دو پروفشن اصلی انتخاب می‌کنید؛ از جمع‌آوری‌ها مثل Skinning و Mining و Herbalism تا ساخت‌ها مثل Alchemy و Blacksmithing و Enchanting و Engineering و Leatherworking و Tailoring. مسیر پیشرفت هم از Apprentice به Journeyman و بعد Expert و در نهایت Artisan است.",
-    "نکتهٔ فنی مهم: همهٔ امکان‌های Camping باید در نزدیکی آتش باشند و بین‌شان یک کول‌داون مشترک ۱ ساعته وجود دارد. یعنی چیدن یک کمپ مفید، کمی برنامه‌ریزی گروهی می‌خواهد.",
-    "آشپزها در ادامه می‌توانند Campfireهای ارتقایافته یاد بگیرند که جا برای پنج و حتی 10 آیتم در یک کمپ فراهم می‌کند. نمونهٔ جذاب دیگر هم Mana Well است که به شما و بقیهٔ نشسته‌های نزدیکش اجازه می‌دهد هر ۵ ثانیه 10-29 Mana (بسته به لول) بازسازی کنید."
-   ],
-   "tags_fa": [
-    "WoW: Forever",
-    "Camping",
-    "پروفشن‌ها",
-    "بلیزارد"
-   ],
-   "items": [],
-   "title_en": "Camping System Breakdown in World of Warcraft: Forever",
-   "source_url": "https://www.wowhead.com/news=383522",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383522-camping-system-breakdown-in-world-of-warcraft-forever.html",
-   "published_at": "2026-10-21T17:07:33Z",
-   "model": "GLM",
-   "via": "",
-   "reviewer": ""
-  },
-  {
-   "id": 383507,
-   "slug": "acquire-scarecrow-pepe-decor-during-hallow-s-end",
-   "title_fa": "Scarecrow Pepe در Hallow's End؛ یک آچیومنت ساده، یک دیکور دوست‌داشتنی",
-   "lead_fa": "رویداد Hallow's End امسال آچیومنت تازه‌ای به نام A Frightening Friend دارد که جایزه‌اش دیکور Scarecrow Pepe است؛ فقط خلال تعطیلات در دسترس است.",
-   "body_fa": [
-    "اخبار Hallow's End 2026: آچیومنت جدید A Frightening Friend پاداش تازه‌ای به نام Scarecrow Pepe دارد. اگر قبلاً این آچیومنت را گرفته باشید، دیکور به‌صورت retroactively به شما می‌رسد؛ اما اگر هنوز این پرندهٔ کوچک را ندارید، فقط در روزهای رویداد فرصت دارید.",
-    "شرط لازم داشتن Garrison سطح ۳ از نسخهٔ Warlords of Draenor است. بعد به گورستان Garrison بروید؛ در گاریسون Horde مختصات /way 71.2 90.3 و در گاریسون Alliance مختصات /way 40.5 70.2 نقطهٔ هدف است.",
-    "آن‌جا Scarecrow Pepe را روی یک سنگ قبر نشسته پیدا می‌کنید. کافی است رویش کلیک کنید تا هم آچیومنت ثبت شود و هم دیکور جدید به مجموعهٔ خانه‌تان اضافه شود. کار ساده‌ای است، ولی فقط تا پایان Hallow's End."
-   ],
-   "tags_fa": [
-    "Hallow's End",
-    "Pepe",
-    "دیکور خانه"
-   ],
-   "items": [],
-   "title_en": "Acquire Scarecrow Pepe Decor During Hallow's End",
-   "source_url": "https://www.wowhead.com/news=383507",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383507-acquire-scarecrow-pepe-decor-during-hallow-s-end.html",
-   "published_at": "2026-10-21T15:00:00Z",
-   "model": "GLM",
-   "via": "",
-   "reviewer": ""
   }
  ],
  "queue": [
-  {
-   "id": 383610,
-   "title_en": "Join the WoW Portal Room for Your Next Adventure in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383610",
-   "category": "Forever",
-   "published_at": "2026-10-27T19:08:56Z"
-  },
   {
    "id": 383607,
    "title_en": "Living Heartsbane Cauldron Mount Now Available on Battle.net Store",
@@ -1301,13 +1294,6 @@
    "url": "https://www.wowhead.com/news=383606",
    "category": "Live",
    "published_at": "2026-10-27T17:24:31Z"
-  },
-  {
-   "id": 383605,
-   "title_en": "World of Warcraft: Forever AMV - WARPATH",
-   "url": "https://www.wowhead.com/news=383605",
-   "category": "Forever",
-   "published_at": "2026-10-27T17:13:12Z"
   },
   {
    "id": 383602,

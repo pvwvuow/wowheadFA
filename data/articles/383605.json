@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383605",
  "title_en": "World of Warcraft: Forever AMV - WARPATH",
  "category": "Forever",
- "published_at": "2026-10-27T17:13:12Z",
+ "published_at": "2026-10-27T20:08:48Z",
  "fetched_at": "2026-10-27T17:33:09Z",
  "source_mode": "full",
  "qa_facts": {
@@ -73,5 +73,26 @@
   ],
   "chars": 496
  },
- "status": "new"
+ "status": "published",
+ "article_fa": {
+  "title_fa": "انتشار AMV جدید WARPATH برای WoW: Forever",
+  "lead_fa": "بلیزارد با انتشار AMV تازه‌ای به نام WARPATH، لانچ WoW: Forever را که قرار است در ۴ نوامبر انجام شود، برجسته کرده است.",
+  "body_fa": [
+   "این AMV جدید روی کانال یوتیوب Warcraft قرار گرفته و تم‌های Alliance، Horde و War را به نمایش می‌گذارد.",
+   "بازیکنان می‌توانند از ۴ نوامبر با داشتن WoW Subscription یا game time، به همراه دوستان خود به جنگل‌های وحشی World of Warcraft: Forever قدم بگذارند.",
+   "این ویدیو در همکاری با Brunch Studio ساخته شده است.",
+   "در این AMV آثاری از Poppy، Amy Lee و Courtney LaPlante به گوش می‌رسد که تحت لیسانس Virgin Music Group منتشر شده‌اند."
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "AMV",
+   "WARPATH",
+   "Blizzard"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-27T20:08:48Z"
+ }
 }

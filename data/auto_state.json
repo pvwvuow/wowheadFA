@@ -1,6 +1,6 @@
 {
  "day": "2026-10-27",
- "published_today": 6,
+ "published_today": 8,
  "held": {
   "383599": {
    "reason": "عنوان مقاله «هاتفیکس‌های ۲۶ اکتبر برای Labyrinth و کلاس‌ها در پچ ۱۲.۱.۵» و پاراگراف اول «در تاریخ ۲۶ اکتبر ۲۰۲۶» و تگ «۱۲.۱.۵» تاریخ و شماره پچ را ذکر کرده‌اند در حالی که منبع هیچ تاریخی، سالی و شماره پچی ندارد. | جمله «این تغییر از اسپاون چندین chest جلوگیری می‌کند» توضیح علت و  | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
@@ -46,10 +46,15 @@
    "reason": "G1 Persian ratio 39% < 55%",
    "at": "2026-10-27T18:50:34Z",
    "at_ts": 1793127034.494209
+  },
+  "383552": {
+   "reason": "«جدول تغییرات به این شکل است: Non-Crafted از Myth Item Level ۳۴۰ به ۳۴۱.» — منبع جدول کامل‌تری دارد که هر دو نوع Non-Crafted و Crafted را نشان می‌دهد؛ مقاله فقط یک سطر را آورده و آن را به عنوان «جدول تغییرات» معرفی کرده که ناقص و گمراه‌کننده است. | G4 numbers from source missing  | fallback هم رد شد: «قطعات Crafted با دریافت ۶ پله افزایش به Item level ۳۳۷ می‌رسند» — منبع می‌گوید crafted pi",
+   "at": "2026-10-27T20:09:42Z",
+   "at_ts": 1793131782.535765
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-27T18:50:34Z",
+ "updated_at": "2026-10-27T20:09:51Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -892,6 +897,46 @@
     "warns": 0,
     "sec": 49.9,
     "attempts": 2
+   },
+   {
+    "id": "383610",
+    "ts": "2026-10-27T20:08:03Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 98.9,
+    "attempts": 1
+   },
+   {
+    "id": "383605",
+    "ts": "2026-10-27T20:08:48Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 45.4,
+    "attempts": 1
+   },
+   {
+    "id": "383552",
+    "ts": "2026-10-27T20:09:42Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 1,
+    "sec": 53.6,
+    "attempts": 2
+   },
+   {
+    "id": "383552",
+    "ts": "2026-10-27T20:09:51Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 8.5,
+    "attempts": 1
    }
   ]
  }
