@@ -4,10 +4,10 @@
  "url": "https://www.wowhead.com/news=383523",
  "title_en": "Dalaran Updated Ahead of the Beta's End in WoW: Forever",
  "category": "Forever",
- "published_at": "2026-10-23T16:00:00Z",
+ "published_at": "2026-10-27T17:12:48Z",
  "fetched_at": "2026-10-25T06:28:53Z",
  "source_mode": "full",
- "status": "new",
+ "status": "published",
  "qa_facts": {
   "numbers": [],
   "entities": [
@@ -188,5 +188,28 @@
    "wrath"
   ],
   "chars": 1953
+ },
+ "article_fa": {
+  "title_fa": "به‌روزرسانی دالاران پیش از پایان بتای WoW: Forever",
+  "lead_fa": "در آخرین بیلد بتای World of Warcraft: Forever، شهر دالاران مانع دفاعی خود را پایین آورده و حالا بازیکنان Alliance می‌توانند آزادانه وارد آن شوند. این شهر که نخستین بار در Wrath of the Lich King معرفی شد، تغییرات قابل توجهی دریافت کرده است.",
+  "body_fa": [
+   "در این به‌روزرسانی، نگهبانان شهر ارتقا یافته‌اند. Arcane Sentries حالا به شکل بارزتری در نقاط مختلف شهر حضور دارند و به Level 55 Elite تبدیل شده‌اند.",
+   "Kirin Tor Guards به بازیکنان کمک می‌کنند تا مکان‌های مورد نظر خود مانند مهمانخانه، مربیان حرفه‌ها و transmogrifier را پیدا کنند. علاوه بر مربیان حرفه‌ها، مربیان کلاس نیز در شهر حضور دارند که شامل Druid و Mage trainer می‌شود.",
+   "منطقه Underbelly حالا میزبان battlemasters است که بازیکنان می‌توانند از طریق آن‌ها برای تمام battlegroundها، از جمله Darkspear Islands جدید، صف ببندند. «Baroness» Llana که قبلاً Arena Organizer در Wrath of the Lich King بود، حالا به‌عنوان Alterac Valley Battlemaster فعالیت می‌کند.",
+   "بازیکنان Alliance می‌توانند کوئست جدیدی به نام Past Due را در دالاران دریافت کنند. این کوئست توسط Magus Olvek ارائه می‌شود و بازیکنان را ملزم می‌کند تا Arcanist Doan، باس نهایی Scarlet Monastery Library را شکست دهند و غنایم او را جمع‌آوری کنند. کسانی که World of Warcraft TCG را می‌شناسند، احتمالاً این NPC را به خاطر می‌آورند.",
+   "در کنار NPCهای جدید و چهره‌های آشنا از نسخه‌های قبلی، یکی از تغییرات مهم حذف پورتال دالاران از Stormwind City برای High Order Skyborne است. پورتال از دالاران به Stormwind همچنان وجود دارد، اما پورتال بازگشت به دالاران حذف شده است. Theresa Wolf در Silver Enclave در حال تلاش برای احضار چیزی است که ممکن است بعداً به پورتال تبدیل شود.",
+   "با نزدیک شدن به پایان بتا، بازیکنان باید فعلاً با دالاران خداحافظی کنند. شهر در زمان لانچ رسمی WoW: Forever در ۴ نوامبر ممکن است تغییرات بیشتری دریافت کند."
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "دالاران",
+   "بتا",
+   "به‌روزرسانی"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-27T17:12:48Z"
  }
 }

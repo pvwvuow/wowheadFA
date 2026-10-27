@@ -1,6 +1,6 @@
 {
  "day": "2026-10-27",
- "published_today": 4,
+ "published_today": 5,
  "held": {
   "383599": {
    "reason": "عنوان مقاله «هاتفیکس‌های ۲۶ اکتبر برای Labyrinth و کلاس‌ها در پچ ۱۲.۱.۵» و پاراگراف اول «در تاریخ ۲۶ اکتبر ۲۰۲۶» و تگ «۱۲.۱.۵» تاریخ و شماره پچ را ذکر کرده‌اند در حالی که منبع هیچ تاریخی، سالی و شماره پچی ندارد. | جمله «این تغییر از اسپاون چندین chest جلوگیری می‌کند» توضیح علت و  | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
@@ -26,10 +26,20 @@
    "reason": "«مشکل Warlocks ninja pulling when a rogue is in a group برطرف شده است» در منبع وجود ندارد. | «یکی دیگر از مشکلات Labyrinth برطرف شده است» ادعای مبهم و اضافی است که منبع دقیقاً آن را پشتیبانی نمی‌کند. | «برای Warlock مشکلاتی که باعث می‌شد برخی احضارها و Diabolic Occuli گاهی دشمنان خارج ازcombat را هدف قرار دهند» منبع فقط Diabolic Occuli را ذکر کرده و «برخی احضارها» را به صورت کلی نگفته است.",
    "at": "2026-10-27T16:44:46Z",
    "at_ts": 1793119486.201926
+  },
+  "383568": {
+   "reason": "G1 Persian ratio 49% < 55% | G4 numbers from source missing in article: 80 | G5 English token not in source: izzard | fallback هم رد شد: writer error: The read operation timed out",
+   "at": "2026-10-27T17:06:04Z",
+   "at_ts": 1793120764.378503
+  },
+  "383561": {
+   "reason": "G5 English token not in source: izzard",
+   "at": "2026-10-27T17:11:55Z",
+   "at_ts": 1793121115.659804
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-27T16:44:46Z",
+ "updated_at": "2026-10-27T17:12:48Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -792,6 +802,46 @@
     "warns": 0,
     "sec": 52.1,
     "attempts": 2
+   },
+   {
+    "id": "383568",
+    "ts": "2026-10-27T17:06:04Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 0,
+    "sec": 48.9,
+    "attempts": 2
+   },
+   {
+    "id": "383568",
+    "ts": "2026-10-27T17:11:04Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 300.1,
+    "attempts": 1
+   },
+   {
+    "id": "383561",
+    "ts": "2026-10-27T17:11:55Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 51.0,
+    "attempts": 2
+   },
+   {
+    "id": "383523",
+    "ts": "2026-10-27T17:12:48Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 52.5,
+    "attempts": 1
    }
   ]
  }
