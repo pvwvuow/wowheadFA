@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T17:56:29Z",
+ "generated": "2026-10-27T18:19:36Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1279,6 +1279,20 @@
   }
  ],
  "queue": [
+  {
+   "id": 383607,
+   "title_en": "Living Heartsbane Cauldron Mount Now Available on Battle.net Store",
+   "url": "https://www.wowhead.com/news=383607",
+   "category": "Live",
+   "published_at": "2026-10-27T18:00:46Z"
+  },
+  {
+   "id": 383608,
+   "title_en": "Name Reservations for WoW: Forever Delayed",
+   "url": "https://www.wowhead.com/news=383608",
+   "category": "Forever",
+   "published_at": "2026-10-27T17:58:59Z"
+  },
   {
    "id": 383606,
    "title_en": "New Grimtide Housing Bundles Available for Hearthsteel",
