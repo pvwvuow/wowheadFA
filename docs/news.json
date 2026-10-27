@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T20:09:51Z",
+ "generated": "2026-10-27T20:30:08Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1281,6 +1281,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383612,
+   "title_en": "Blizzard Announces Name Reservation Issue for Oceanic Players in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383612",
+   "category": "Forever",
+   "published_at": "2026-10-27T20:05:03Z"
+  },
   {
    "id": 383607,
    "title_en": "Living Heartsbane Cauldron Mount Now Available on Battle.net Store",
