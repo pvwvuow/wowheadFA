@@ -4,10 +4,10 @@
  "url": "https://www.wowhead.com/news=383542",
  "title_en": "Subtlety Rogue Interaction with Demonology Warlocks Speculated to Ninja Pull Mobs",
  "category": "Live",
- "published_at": "2026-10-22T18:54:45Z",
+ "published_at": "2026-10-27T20:57:24Z",
  "fetched_at": "2026-10-25T06:28:53Z",
  "source_mode": "full",
- "status": "new",
+ "status": "published",
  "qa_facts": {
   "numbers": [
    "12.1.5"
@@ -199,5 +199,28 @@
    "you've"
   ],
   "chars": 2073
+ },
+ "article_fa": {
+  "title_fa": "تعامل Rogue Subtlety و Warlock Demonology باعث کشیدن غیرعمدی دشمنان می‌شود",
+  "lead_fa": "با افزایش محبوبیت Rogue Subtlety در پچ ۱۲.۱.۵، یک باگ قدیمی دوباره مورد توجه قرار گرفته که باعث می‌شود Warlockهای Demonology به طور ناخواسته دشمنان را در دانجن‌ها ninja pull کنند.",
+  "body_fa": [
+   "در پچ ۱۲.۱.۵ بلیزارد یک باگ مربوط به Rogue Subtlety را رفع کرد و در عوض ۱۴٪ buff damage به آن‌ها داد. بسیاری از بازیکنان تصور می‌کردند این تغییر خنثی باشد ولی در عمل به buff damage بزرگی تبدیل شد.",
+   "نتیجه این buff باعث شد damage Rogue Subtlety به شدت افزایش یابد که طبق آمار Warcraft Logs به خوبی قابل مشاهده است. به همین دلیل بسیاری از گروه‌ها اکنون Rogue Subtlety را به کی‌های خود می‌آورند.",
+   "طبق Raider.io، Rogue Subtlety در حال حاضر یکی از بالاترین امتیازات را در فصل ۲ در کنار Arms Warrior، Holy Paladin، Blood DK و Elemental Shaman دارد و به طور محکم در متا جا افتاده است.",
+   "با قرار گرفتن Rogue Subtlety در متا، توجه‌ها به سمت یک باگ قدیمی رفته که باعث می‌شود Warlock Demonology در حضور Rogue Subtlety شروع به ninja-pulling دشمنان کند. این مسئله برخی Warlockهای Demonology را ناراحت کرده و باعث شده احساس کنند از گروه‌ها کنار گذاشته می‌شوند.",
+   "ninja-pulling دشمنان می‌تواند منجر به wipe شدن گروه در هر سطح کی شود. Phellxgodx در ردیت پستی گذاشته و توضیح داده که shadow clones از apex talent Rogue Subtlety باعث اختلال در targeting Diabolic Oculi یا Alythessa Blaze از hero talent Diabolist (در Demonology و Destruction) می‌شود و آن‌ها را وادار به حمله به هر چیزی در برد می‌کند.",
+   "اگر در دانجن‌ها متوجه کشیدن غیرمنتظره دشمنان شدید، احتمالاً به خاطر این باگ است. بهتر است در یک گروه همزمان Demonology Warlock و Subtlety Rogue نداشته باشید."
+  ],
+  "tags_fa": [
+   "Subtlety Rogue",
+   "Demonology Warlock",
+   "هاتفیکس",
+   "۱۲.۱.۵"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-27T20:57:24Z"
  }
 }

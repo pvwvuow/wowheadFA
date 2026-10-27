@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383612",
  "title_en": "Blizzard Announces Name Reservation Issue for Oceanic Players in WoW: Forever",
  "category": "Forever",
- "published_at": "2026-10-27T20:05:03Z",
+ "published_at": "2026-10-27T20:55:36Z",
  "fetched_at": "2026-10-27T20:30:08Z",
  "source_mode": "full",
  "qa_facts": {
@@ -71,5 +71,26 @@
   ],
   "chars": 638
  },
- "status": "new"
+ "status": "published",
+ "article_fa": {
+  "title_fa": "مشکل رزرو نام برای بازیکنان اقیانوسیه در سرورهای استرالیایی",
+  "lead_fa": "بلیزارد از وجود باگی خبر داده که رزرو نام را برای بازیکنان منطقه اقیانوسیه هنگام اتصال به سرورهای استرالیایی تحت تأثیر قرار می‌دهد.",
+  "body_fa": [
+   "بازیکنان اقیانوسیه که به سرورهای استرالیایی متصل می‌شوند باید ابتدا کاراکترهای خود را روی قوانین Roleplay یا Roleplay-PvP بسازند.",
+   "اگر ابتدا کاراکتر روی قوانین Normal یا PvP ساخته شود، گزینه‌های Roleplay و Roleplay-PvP برای کاراکترهای بعدی در دسترس نخواهد بود.",
+   "این مشکل فقط برای بازیکنان منطقه Oceanic که به سرورهای استرالیایی وصل می‌شوند وجود دارد.",
+   "بلیزارد اعلام کرده که روی رفع فوری این باگ کار می‌کند."
+  ],
+  "tags_fa": [
+   "Forever",
+   "مشکل نام",
+   "اقیانوسیه",
+   "سرورهای استرالیایی"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-27T20:55:36Z"
+ }
 }

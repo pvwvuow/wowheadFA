@@ -1,8 +1,62 @@
 {
- "generated": "2026-10-27T20:30:08Z",
+ "generated": "2026-10-27T20:57:25Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383542,
+   "slug": "subtlety-rogue-interaction-with-demonology-warlocks-speculated-to-ninj",
+   "title_fa": "تعامل Rogue Subtlety و Warlock Demonology باعث کشیدن غیرعمدی دشمنان می‌شود",
+   "lead_fa": "با افزایش محبوبیت Rogue Subtlety در پچ ۱۲.۱.۵، یک باگ قدیمی دوباره مورد توجه قرار گرفته که باعث می‌شود Warlockهای Demonology به طور ناخواسته دشمنان را در دانجن‌ها ninja pull کنند.",
+   "body_fa": [
+    "در پچ ۱۲.۱.۵ بلیزارد یک باگ مربوط به Rogue Subtlety را رفع کرد و در عوض ۱۴٪ buff damage به آن‌ها داد. بسیاری از بازیکنان تصور می‌کردند این تغییر خنثی باشد ولی در عمل به buff damage بزرگی تبدیل شد.",
+    "نتیجه این buff باعث شد damage Rogue Subtlety به شدت افزایش یابد که طبق آمار Warcraft Logs به خوبی قابل مشاهده است. به همین دلیل بسیاری از گروه‌ها اکنون Rogue Subtlety را به کی‌های خود می‌آورند.",
+    "طبق Raider.io، Rogue Subtlety در حال حاضر یکی از بالاترین امتیازات را در فصل ۲ در کنار Arms Warrior، Holy Paladin، Blood DK و Elemental Shaman دارد و به طور محکم در متا جا افتاده است.",
+    "با قرار گرفتن Rogue Subtlety در متا، توجه‌ها به سمت یک باگ قدیمی رفته که باعث می‌شود Warlock Demonology در حضور Rogue Subtlety شروع به ninja-pulling دشمنان کند. این مسئله برخی Warlockهای Demonology را ناراحت کرده و باعث شده احساس کنند از گروه‌ها کنار گذاشته می‌شوند.",
+    "ninja-pulling دشمنان می‌تواند منجر به wipe شدن گروه در هر سطح کی شود. Phellxgodx در ردیت پستی گذاشته و توضیح داده که shadow clones از apex talent Rogue Subtlety باعث اختلال در targeting Diabolic Oculi یا Alythessa Blaze از hero talent Diabolist (در Demonology و Destruction) می‌شود و آن‌ها را وادار به حمله به هر چیزی در برد می‌کند.",
+    "اگر در دانجن‌ها متوجه کشیدن غیرمنتظره دشمنان شدید، احتمالاً به خاطر این باگ است. بهتر است در یک گروه همزمان Demonology Warlock و Subtlety Rogue نداشته باشید."
+   ],
+   "tags_fa": [
+    "Subtlety Rogue",
+    "Demonology Warlock",
+    "هاتفیکس",
+    "۱۲.۱.۵"
+   ],
+   "items": [],
+   "title_en": "Subtlety Rogue Interaction with Demonology Warlocks Speculated to Ninja Pull Mobs",
+   "source_url": "https://www.wowhead.com/news=383542",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383542-subtlety-rogue-interaction-with-demonology-warlocks-speculated-to-ninj.html",
+   "published_at": "2026-10-27T20:57:24Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
+  {
+   "id": 383612,
+   "slug": "blizzard-announces-name-reservation-issue-for-oceanic-players-in-wow-f",
+   "title_fa": "مشکل رزرو نام برای بازیکنان اقیانوسیه در سرورهای استرالیایی",
+   "lead_fa": "بلیزارد از وجود باگی خبر داده که رزرو نام را برای بازیکنان منطقه اقیانوسیه هنگام اتصال به سرورهای استرالیایی تحت تأثیر قرار می‌دهد.",
+   "body_fa": [
+    "بازیکنان اقیانوسیه که به سرورهای استرالیایی متصل می‌شوند باید ابتدا کاراکترهای خود را روی قوانین Roleplay یا Roleplay-PvP بسازند.",
+    "اگر ابتدا کاراکتر روی قوانین Normal یا PvP ساخته شود، گزینه‌های Roleplay و Roleplay-PvP برای کاراکترهای بعدی در دسترس نخواهد بود.",
+    "این مشکل فقط برای بازیکنان منطقه Oceanic که به سرورهای استرالیایی وصل می‌شوند وجود دارد.",
+    "بلیزارد اعلام کرده که روی رفع فوری این باگ کار می‌کند."
+   ],
+   "tags_fa": [
+    "Forever",
+    "مشکل نام",
+    "اقیانوسیه",
+    "سرورهای استرالیایی"
+   ],
+   "items": [],
+   "title_en": "Blizzard Announces Name Reservation Issue for Oceanic Players in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383612",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383612-blizzard-announces-name-reservation-issue-for-oceanic-players-in-wow-f.html",
+   "published_at": "2026-10-27T20:55:36Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383605,
    "slug": "world-of-warcraft-forever-amv-warpath",
@@ -1226,68 +1280,9 @@
    "model": "GLM",
    "via": "web-byok",
    "reviewer": ""
-  },
-  {
-   "id": 383566,
-   "slug": "new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr",
-   "title_fa": "چهار معجون جدید با ۳۰ درصد Experience بیشتر در PTR پچ 12.1.7",
-   "lead_fa": "در تازه‌ترین بیلد PTR پچ 12.1.7 چهار معجون تازه دیتاماین شده که هر چهار یک کار انجام می‌دهند: ۳۰ درصد Experience بیشتر از کیل و کوئست به مدت ۲ ساعت.",
-   "body_fa": [
-    "ویوهد در جدیدترین بیلد PTR پچ 12.1.7 چهار معجون تازه پیدا کرده است. هر چهار آیتم Bind to Warband هستند و افکت یکسانی دارند؛ با مصرف، به مدت ۲ ساعت Experience به‌دست‌آمده از کوئست‌ها و کیل‌ها ۳۰ درصد بیشتر می‌شود.",
-    "نکتهٔ جالب اینجا است که هنوز معلوم نیست این معجون‌ها از کجا می‌آیند. حدس اولیه، ارتباط با حال‌وهوای روگلایت مود Talebound است؛ اما با توجه به برچسب Bind to Warband، این احتمال چندان قوی به نظر نمی‌رسد.",
-    "اسم هر چهار معجون از یکی از چهار داستان Talebound گرفته شده است. Darkhaven خانهٔ Konrad von Sonnesheim با لقب The Lord Marshal و Alexandre Dozsenc یعنی The Blood Bishop است. Greenthistle Wood هم محل زندگی Granny Greenthumb و Ylska Vilefang و همچنین Mobog با عنوان The Giant of Greenthistle است. داستان Greywake's Expedition هم سرگذشت کسانی است که به دست Zzyg'th افتاده‌اند.",
-    "اگر این معجون‌ها واقعاً به Talebound گره خورده باشند، می‌توان انتظار داشت مسیر به‌دست‌آوردن‌شان در همان حال‌وهوای داستانی این مود تعریف شود. تا اعلام رسمی Blizzard باید صبر کرد و دید این آیتم‌ها در نسخهٔ نهایی پچ 12.1.7 با چه شکلی ظاهر می‌شوند."
-   ],
-   "tags_fa": [
-    "PTR",
-    "دیتاماین",
-    "Talebound",
-    "پچ 12.1.7"
-   ],
-   "items": [],
-   "title_en": "New 30% Bonus Experience Potions Datamined on Patch 12.1.7 PTR",
-   "source_url": "https://www.wowhead.com/news=383566",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383566-new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr.html",
-   "published_at": "2026-10-24T18:00:00Z",
-   "model": "GLM",
-   "via": "",
-   "reviewer": ""
-  },
-  {
-   "id": 383511,
-   "slug": "some-decor-costs-adjusted-on-the-patch-12-1-7-ptr",
-   "title_fa": "تغییر قیمت دیکورها در PTR پچ 12.1.7؛ کتاب‌ها ارزان، بخشی از Midnight گران‌تر",
-   "lead_fa": "روی PTR پچ 12.1.7 قیمت‌های دیکور خانه جابه‌جا شده است؛ دیکورهای The War Within ارزان‌تر شده‌اند و قیمت برخی آیتم‌های Midnight بالا رفته است.",
-   "body_fa": [
-    "بارزترین نمونه، Literature of Dornogal است که قبلاً با قیمت 1000 از فروشندهٔ Auditor Balwurz خریداری می‌شد؛ حالا قیمتش به 250 رسیده است. برای کسی که می‌خواهد یک قفسهٔ کامل کتاب بچیند، این یعنی پر کردن کتابخانهٔ خانه چند برابر مقرون‌به‌صرفه شده است.",
-    "الگوی کاهش قیمت گسترده است: آیتم‌هایی مثل Boulder Springs Recliner و Rambleshire Resting Platform و تخم‌های Nourished و Dormant Brood Egg همگی از 350 به 250 رسیده‌اند. Dornogal Hanging Lantern هم با قیمت 500 در دسترس است و Handmade Shen'dorei Pillow از فروشگاه Midnight با کاهش چشمگیر از 5000 به همان 500 رسیده است.",
-    "خود آیتم‌ها هم چیز تازه‌ای بابت House XP ندارند: همچنان هر دیکور 10 House XP می‌دهد و بیشترشان هم داخل خانه و هم بیرون قابل قرارگیری‌اند.",
-    "در مجموع، این تغییرها جهت روشنی دارند: ورود به دکوراسیون خانه برای بازیکن‌های تازه‌تر ارزان‌تر می‌شود و آیتم‌های شاخص Midnight کمی گران‌تر می‌شوند. اگر لیست خریدی برای خانه‌تان دارید، بهتر است قبل از رسیدن پچ 12.1.7 به لایو، قیمت‌ها را یک بار دیگر چک کنید."
-   ],
-   "tags_fa": [
-    "PTR",
-    "دیکور خانه",
-    "Midnight",
-    "پچ 12.1.7"
-   ],
-   "items": [],
-   "title_en": "Some Decor Costs Adjusted on the Patch 12.1.7 PTR",
-   "source_url": "https://www.wowhead.com/news=383511",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383511-some-decor-costs-adjusted-on-the-patch-12-1-7-ptr.html",
-   "published_at": "2026-10-23T14:15:00Z",
-   "model": "GLM",
-   "via": "",
-   "reviewer": ""
   }
  ],
  "queue": [
-  {
-   "id": 383612,
-   "title_en": "Blizzard Announces Name Reservation Issue for Oceanic Players in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383612",
-   "category": "Forever",
-   "published_at": "2026-10-27T20:05:03Z"
-  },
   {
    "id": 383607,
    "title_en": "Living Heartsbane Cauldron Mount Now Available on Battle.net Store",
@@ -1378,13 +1373,6 @@
    "url": "https://www.wowhead.com/news=383548",
    "category": "Forever",
    "published_at": "2026-10-22T20:31:57Z"
-  },
-  {
-   "id": 383542,
-   "title_en": "Subtlety Rogue Interaction with Demonology Warlocks Speculated to Ninja Pull Mobs",
-   "url": "https://www.wowhead.com/news=383542",
-   "category": "Live",
-   "published_at": "2026-10-22T18:54:45Z"
   },
   {
    "id": 383543,

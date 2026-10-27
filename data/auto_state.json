@@ -1,6 +1,6 @@
 {
  "day": "2026-10-27",
- "published_today": 8,
+ "published_today": 10,
  "held": {
   "383599": {
    "reason": "عنوان مقاله «هاتفیکس‌های ۲۶ اکتبر برای Labyrinth و کلاس‌ها در پچ ۱۲.۱.۵» و پاراگراف اول «در تاریخ ۲۶ اکتبر ۲۰۲۶» و تگ «۱۲.۱.۵» تاریخ و شماره پچ را ذکر کرده‌اند در حالی که منبع هیچ تاریخی، سالی و شماره پچی ندارد. | جمله «این تغییر از اسپاون چندین chest جلوگیری می‌کند» توضیح علت و  | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
@@ -51,10 +51,15 @@
    "reason": "«جدول تغییرات به این شکل است: Non-Crafted از Myth Item Level ۳۴۰ به ۳۴۱.» — منبع جدول کامل‌تری دارد که هر دو نوع Non-Crafted و Crafted را نشان می‌دهد؛ مقاله فقط یک سطر را آورده و آن را به عنوان «جدول تغییرات» معرفی کرده که ناقص و گمراه‌کننده است. | G4 numbers from source missing  | fallback هم رد شد: «قطعات Crafted با دریافت ۶ پله افزایش به Item level ۳۳۷ می‌رسند» — منبع می‌گوید crafted pi",
    "at": "2026-10-27T20:09:42Z",
    "at_ts": 1793131782.535765
+  },
+  "383548": {
+   "reason": "«در ساعات اخیر نیز مواردی مانند Name Reservation Issue for Oceanic Players، World of Warcraft: Forever Raid Overview—Locations, Raid Sizes, and Attunement، World of Warcraft: Forever Early Name Reservations Are Now Live! و Add the Living Heartsbane Cauldron Mount to your Collecti | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+   "at": "2026-10-27T20:56:28Z",
+   "at_ts": 1793134588.566188
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-27T20:09:51Z",
+ "updated_at": "2026-10-27T20:57:24Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -936,6 +941,46 @@
     "blocks": 2,
     "warns": 0,
     "sec": 8.5,
+    "attempts": 1
+   },
+   {
+    "id": "383612",
+    "ts": "2026-10-27T20:55:36Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 40.5,
+    "attempts": 1
+   },
+   {
+    "id": "383548",
+    "ts": "2026-10-27T20:56:28Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 1,
+    "sec": 52.5,
+    "attempts": 2
+   },
+   {
+    "id": "383548",
+    "ts": "2026-10-27T20:56:37Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 8.9,
+    "attempts": 1
+   },
+   {
+    "id": "383542",
+    "ts": "2026-10-27T20:57:24Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 47.2,
     "attempts": 1
    }
   ]
