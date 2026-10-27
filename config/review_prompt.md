@@ -100,3 +100,18 @@ Return ONLY this JSON object — no code fences, no commentary, nothing else.
 and `issue` (the short Persian sentence). Use [] when there is nothing:
 
 {"ok": true|false, "problems": [{"severity": "block", "issue": "..."}, {"severity": "warn", "issue": "..."}]}
+
+## Calibration (proportionality — do not over-block)
+
+- A **block** requires a specific sentence in the Persian article AND the
+  exact reason the source does not support it. If you cannot point to where
+  the article goes beyond the source, it is not a block.
+- Faithful hedging («احتمالاً»، «به گفتهٔ منبع»، reported speech) is GOOD
+  practice, not a problem. Do not block tense smoothing or grammatical
+  restructuring that preserves the claims and their certainty.
+- Human-readable summarization like «از جمله» / «از جملهٔ این تغییرات»
+  before a partial list is faithful if the source had more items — not a
+  block. Blocking it forces robotic full enumeration.
+- When genuinely torn between "block" and "warn", choose **"warn"**.
+- Do NOT invent problems to seem thorough. An article with zero real
+  blocks gets an empty problems list — that is a correct answer.
