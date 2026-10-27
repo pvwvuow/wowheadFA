@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T18:50:34Z",
+ "generated": "2026-10-27T19:10:52Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1281,6 +1281,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383610,
+   "title_en": "Join the WoW Portal Room for Your Next Adventure in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383610",
+   "category": "Forever",
+   "published_at": "2026-10-27T19:08:56Z"
+  },
   {
    "id": 383607,
    "title_en": "Living Heartsbane Cauldron Mount Now Available on Battle.net Store",
