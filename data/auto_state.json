@@ -1,6 +1,6 @@
 {
- "day": "2026-10-26",
- "published_today": 10,
+ "day": "2026-10-27",
+ "published_today": 0,
  "held": {
   "383562": {
    "reason": "«Hallow's End نیز به‌روزرسانی‌هایی در فعالیت‌های محله دریافت کرده است که شامل quests روزانه و سه تم محله می‌شود» — منبع فقط می‌گوید Hallow's End has some neighborhood activity updates with daily quests and three neighborhood themes؛ جمله فارسی ادعای «دریافت کرده است» (completed fact) می‌سازد در حالی که منبع در زمان حال و در زمینه مقایسه با Winter Veil است. | «به‌روزرسانی احتمالاً شامل quests روزان",
@@ -101,10 +101,15 @@
    "reason": "عنوان و بدنه مقاله تاریخ رویداد را ۲ نوامبر ۲۰۲۶ اعلام کرده در حالی که منبع می‌گوید November 2, 2026 برای signing و November 4, 2026 برای انتشار است؛ عنوان نباید تاریخ signing را به ۲ نوامبر محدود کند. | lead_fa و بدنه می‌گویند «بلیت‌های رایگان این رویداد محدود از ۲۷ اکتبر در دست | fallback هم رد شد: writer error: The read operation timed out",
    "at": "2026-10-26T20:14:10Z",
    "at_ts": 1793045650.741696
+  },
+  "383598": {
+   "reason": "G1 Persian ratio 48% < 55% | fallback هم رد شد: «مبل Grimtide Grand Table» و «مبل Grimtide Grand Table» در پاراگراف سوم اختراع شده؛ منبع G",
+   "at": "2026-10-27T00:06:30Z",
+   "at_ts": 1793059590.155208
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-26T21:22:31Z",
+ "updated_at": "2026-10-27T00:10:28Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -736,6 +741,26 @@
     "blocks": 0,
     "warns": 0,
     "sec": 54.1,
+    "attempts": 1
+   },
+   {
+    "id": "383598",
+    "ts": "2026-10-27T00:06:30Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 42.0,
+    "attempts": 2
+   },
+   {
+    "id": "383598",
+    "ts": "2026-10-27T00:10:28Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 238.5,
     "attempts": 1
    }
   ]
