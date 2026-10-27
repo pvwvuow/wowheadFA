@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383591",
  "title_en": "EllesmereUI Adds Fellowship-Inspired Nameplate Kick Tracker",
  "category": "Live",
- "published_at": "2026-10-27T14:00:00Z",
+ "published_at": "2026-10-27T14:59:51Z",
  "fetched_at": "2026-10-27T14:32:54Z",
  "source_mode": "full",
  "qa_facts": {
@@ -158,5 +158,28 @@
   ],
   "chars": 1651
  },
- "status": "new"
+ "status": "published",
+ "article_fa": {
+  "title_fa": "نام‌پلیت EllesmereUI حالا ترکر Interrupt Fellowship را دارد",
+  "lead_fa": "افزونه محبوب EllesmereUI ویژگی جدیدی دریافت کرده که ترکر Interrupt را مستقیماً روی نام‌پلیت نمایش می‌دهد و الهام‌گرفته از Fellowship است.",
+  "body_fa": [
+   "EllesmereUI یکی از افزونه‌های پرطرفدار World of Warcraft است که امکان شخصی‌سازی بخش‌های مختلف رابط کاربری را فراهم می‌کند. این افزونه ماژول‌های متعددی از جمله Cooldown Manager و چت‌فریم بازطراحی‌شده دارد و بازیکنان می‌توانند هر تعداد از آن‌ها را که بخواهند فعال کنند.",
+   "جدیدترین قابلیت اضافه‌شده به EllesmereUI، نام‌پلیت Kick Tracker است که Interruptهای بازیکنان را در کنار نام‌پلیت نمایش می‌دهد. وقتی بازیکنی با موفقیت یک Cast را Interrupt کند، جعبه‌ای در کنار نام‌پلیت موجود ظاهر می‌شود که توانایی استفاده‌شده و زمان باقی‌مانده تا Cooldown بعدی را نشان می‌دهد.",
+   "اگر چندین بازیکن یک Mob را Kick کنند، نام‌پلیت چندین Interrupt را به‌صورت کنار هم نمایش می‌دهد. وقتی Cooldown یکی از Interruptها تمام شود، به‌طور خودکار کنار نام‌پلیت حرکت می‌کند تا مشخص شود نوبت کیست که بعدی را Kick کند.",
+   "این ماژول امکان نمایش Cooldown Kick خودتان را پیش از اولین Interrupt هم دارد؛ این قابلیت با پیگیری Focus Kick Marker اختصاصی کار می‌کند و برای گروه‌های سازمان‌یافته بسیار مفید است.",
+   "EllesmereUI همچنان گزینه ترکینگ استاندارد Interrupt را هم ارائه می‌دهد برای کسانی که جعبه ساده‌تر را ترجیح می‌دهند. نکته مهم این است که این سیستم فقط پس از Interruptهای موفق کار می‌کند؛ این محدودیت مربوط به EllesmereUI نیست و به محدودیت‌های فعلی افزونه‌ها در World of Warcraft برمی‌گردد.",
+   "طبق اظهارات Blizzard، احتمالاً محدودیت‌های بیشتری برای Interrupt Trackerها در آینده اعمال خواهد شد."
+  ],
+  "tags_fa": [
+   "EllesmereUI",
+   "نام‌پلیت",
+   "Interrupt Tracker",
+   "Addon"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-27T14:59:51Z"
+ }
 }
