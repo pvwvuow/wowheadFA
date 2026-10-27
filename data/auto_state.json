@@ -1,6 +1,6 @@
 {
  "day": "2026-10-27",
- "published_today": 11,
+ "published_today": 12,
  "held": {
   "383599": {
    "reason": "عنوان مقاله «هاتفیکس‌های ۲۶ اکتبر برای Labyrinth و کلاس‌ها در پچ ۱۲.۱.۵» و پاراگراف اول «در تاریخ ۲۶ اکتبر ۲۰۲۶» و تگ «۱۲.۱.۵» تاریخ و شماره پچ را ذکر کرده‌اند در حالی که منبع هیچ تاریخی، سالی و شماره پچی ندارد. | جمله «این تغییر از اسپاون چندین chest جلوگیری می‌کند» توضیح علت و  | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
@@ -61,11 +61,19 @@
    "reason": "G4 numbers from source missing in article: 10",
    "at": "2026-10-27T21:55:13Z",
    "at_ts": 1793138113.609298
+  },
+  "383543": {
+   "reason": "بخش آخر بدنه مقاله («در بخش نظرات کاربران، بحث‌هایی درباره Patch 1.60.1، اندازه raid و اعدادی مانند ۱۰، ۲۰، ۲۲، ۳۹ و ۴۰ مطرح شده است.») ادعای وجود Patch 1.60.1 و اعداد ۲۲ و ۳۹ را مطرح می‌کند که منبع هیچ اشاره‌ای به آن‌ها ندارد. | G3 long English run: I think it's probably safe to | fallback هم رد شد: G4 numbers from source missing in article: 1.60.1, 10, 22, 39, 40 | G5 English token not i",
+   "at": "2026-10-27T22:46:05Z",
+   "at_ts": 1793141165.313657
+  },
+  "383541": {
+   "reason": "G4 numbers from source missing in article: 12, 20",
+   "at": "2026-10-27T22:48:05Z",
+   "at_ts": 1793141285.348636
   }
  },
  "ingest_fails": {
-  "383543": 1,
-  "383541": 1,
   "383538": 1,
   "383537": 1,
   "383530": 1,
@@ -74,7 +82,7 @@
   "383519": 1,
   "383518": 1
  },
- "updated_at": "2026-10-27T21:56:40Z",
+ "updated_at": "2026-10-27T22:48:05Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1117,6 +1125,46 @@
     "warns": 0,
     "sec": 26.4,
     "attempts": 0
+   },
+   {
+    "id": "383616",
+    "ts": "2026-10-27T22:44:58Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 52.2,
+    "attempts": 1
+   },
+   {
+    "id": "383543",
+    "ts": "2026-10-27T22:46:05Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 2,
+    "sec": 66.8,
+    "attempts": 2
+   },
+   {
+    "id": "383543",
+    "ts": "2026-10-27T22:47:19Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 74.3,
+    "attempts": 1
+   },
+   {
+    "id": "383541",
+    "ts": "2026-10-27T22:48:05Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 45.4,
+    "attempts": 2
    }
   ]
  }

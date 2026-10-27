@@ -1,8 +1,35 @@
 {
- "generated": "2026-10-27T22:16:56Z",
+ "generated": "2026-10-27T22:48:05Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383616,
+   "slug": "blizzard-takes-action-against-rmt-on-retail-wow-gold-transactions-shou",
+   "title_fa": "بلزارد علیه معاملات RMT در WoW Retail اقدام کرد",
+   "lead_fa": "بلزارد دور جدیدی از اقدامات تنبیهی را علیه حساب‌هایی که در خرید طلای واقعی از شخص ثالث (RMT) دخیل بوده‌اند انجام داده است.",
+   "body_fa": [
+    "طبق اعلام بلزارد، برخی از حساب‌های مورد اقدام، طلای غیرمجاز را خریداری کرده و فروشنده آن را به بازیکن دیگری که خدماتی مانند raid carry ارائه می‌داد تحویل داده است.",
+    "بلزارد یادآوری کرده که طلای دریافتی از یک بازیکن واسطه، احتمال بسیار بالایی دارد که بخشی از یک معامله RMT باشد.",
+    "برای جلوگیری از تعلیق حساب و حذف طلای غیرمجاز، بازیکنان باید همیشه طلای مربوط به خرید carry یا فعالیت‌های مشابه را مستقیماً از خریدار به ارائه‌دهنده سرویس منتقل کنند.",
+    "گیلدهایی که carry ارائه می‌دهند و طلای دریافتی‌شان از طریق یک واسطه به دستشان می‌رسد، در معرض خطر حذف آن طلا توسط بلزارد قرار دارند.",
+    "بلزارد تأکید کرده که معاملات طلایی باید مستقیماً بین خریدار و فروشنده انجام شود."
+   ],
+   "tags_fa": [
+    "RMT",
+    "بلزارد",
+    "WoW Retail",
+    "اقدامات تنبیهی"
+   ],
+   "items": [],
+   "title_en": "Blizzard Takes Action Against RMT on Retail WoW - Gold Transactions Should Be Direct",
+   "source_url": "https://www.wowhead.com/news=383616",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383616-blizzard-takes-action-against-rmt-on-retail-wow-gold-transactions-shou.html",
+   "published_at": "2026-10-27T22:44:58Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383614,
    "slug": "players-upset-latest-housing-bundles-breaks-stated-philosophy-on-heart",
@@ -1251,42 +1278,9 @@
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
-  },
-  {
-   "id": 383558,
-   "slug": "watch-the-world-of-warcraft-midnight-motion-comic-singularity",
-   "title_fa": "تماشای موشن‌کامیک Midnight با عنوان Singularity",
-   "lead_fa": "بلیزارد موشن‌کامیک جدیدی از سری Midnight به نام Singularity را منتشر کرده که توسط Yuri Lowenthal به عنوان Arator Windrunner خوانده شده است.",
-   "body_fa": [
-    "این ویدیو شش دقیقه‌ای شامل خوانش کمیک Singularity نوشتهٔ Robert Brooks توسط Yuri Lowenthal است.",
-    "داستان بر حول Arator Windrunner می‌چرخد که با کمک مربی‌اش Umbric به عمق Void سفر می‌کند تا سرنخی از سرنوشت والدین گمشده‌اش بیابد.",
-    "او باید با Void روبه‌رو شود بدون آنکه خود را به آن تسلیم کند.",
-    "Letters توسط AndWorld Design انجام شده و نسخهٔ PDF کمیک نیز قابل دانلود است.",
-    "Yuri Lowenthal صداپیشهٔ Arator Windrunner است."
-   ],
-   "tags_fa": [
-    "Midnight",
-    "موشن‌کامیک",
-    "Singularity"
-   ],
-   "items": [],
-   "title_en": "Watch the World of Warcraft: Midnight Motion Comic, “Singularity”",
-   "source_url": "https://www.wowhead.com/news=383558",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383558-watch-the-world-of-warcraft-midnight-motion-comic-singularity.html",
-   "published_at": "2026-10-25T16:45:58Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-grok",
-   "reviewer": ""
   }
  ],
  "queue": [
-  {
-   "id": 383616,
-   "title_en": "Blizzard Takes Action Against RMT on Retail WoW - Gold Transactions Should Be Direct",
-   "url": "https://www.wowhead.com/news=383616",
-   "category": "Live",
-   "published_at": "2026-10-27T21:54:48Z"
-  },
   {
    "id": 383607,
    "title_en": "Living Heartsbane Cauldron Mount Now Available on Battle.net Store",
