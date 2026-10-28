@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T16:57:57Z",
+ "generated": "2026-10-28T17:18:25Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1289,6 +1289,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383632,
+   "title_en": "New Player’s Starter Guide for World of Warcraft: Forever",
+   "url": "https://www.wowhead.com/news=383632",
+   "category": "Forever",
+   "published_at": "2026-10-28T17:05:34Z"
+  },
   {
    "id": 383630,
    "title_en": "Planet Azeroth: Episode 1 ft. Bill Bailey",
