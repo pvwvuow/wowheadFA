@@ -1,8 +1,33 @@
 {
- "generated": "2026-10-28T15:13:38Z",
+ "generated": "2026-10-28T15:35:26Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383593,
+   "slug": "new-cabin-themed-shop-decor-discovered-in-patch-12-1-7",
+   "title_fa": "دکوراسیون جدید با تم کلبه در PTR نسخه ۱۲.۱.۷ کشف شد",
+   "lead_fa": "دکوراسیون جدیدی که از فروشگاه بازی می‌آید در PTR نسخه ۱۲.۱.۷ پیدا شده و تم زمستانی و دنج کلبه را دارد.",
+   "body_fa": [
+    "این مجموعه دکوراسیون cozy cabin-themed به نظر می‌رسد برای رویداد تعطیلات آماده شده باشد ولی در حال حاضر هیچ نشانه‌ای از تم‌های خارجی همراه آن وجود ندارد.",
+    "بازیکنان احتمالاً بیشتر از همه به بخش string lights علاقه‌مند خواهند شد.",
+    "این نوع چراغ‌ها در زندگی واقعی هم برای تزیین خانه بسیار محبوب هستند و به همین دلیل ممکن است در طراحی خانه‌های درون بازی هم به قطعات پراستفاده تبدیل شوند."
+   ],
+   "tags_fa": [
+    "PTR",
+    "دکوراسیون",
+    "۱۲.۱.۷",
+    "کلبه"
+   ],
+   "items": [],
+   "title_en": "New Cabin-Themed Shop Decor Discovered in Patch 12.1.7",
+   "source_url": "https://www.wowhead.com/news=383593",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383593-new-cabin-themed-shop-decor-discovered-in-patch-12-1-7.html",
+   "published_at": "2026-10-28T15:35:26Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383618,
    "slug": "name-reservations-included-overly-restrictive-name-check-but-fix-incom",
@@ -1261,41 +1286,9 @@
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
-  },
-  {
-   "id": 383546,
-   "slug": "blizzard-teases-raid-philosophy-and-encounters-for-wow-forever",
-   "title_fa": "جزئیات فلسفه طراحی ریدها و باس‌های WoW: Forever",
-   "lead_fa": "توسعه‌دهندگان بلیزارد در پادکست اخیر خود به بررسی رویکرد طراحی محتوای PvE و میزان سختی ریدها در WoW: Forever پرداختند.",
-   "body_fa": [
-    "مایکل نوتالز (Michael Nuthals)، طراح ارشد انکانترها، در پادکست جدید Blizzard نحوه متعادل‌سازی سختی نبردها و دسترسی‌پذیری آن‌ها را شرح داد. به گفته او، هدف تیم این است که بازیکنان حس راحتی در همراه آوردن دوستانشان داشته باشند؛ فضایی که او آن را به همراهی با تنقلات و نوشیدنی تشبیه می‌کند تا در صورت آمادگی گروه، چالش پشت سر گذاشته شود و پاداش‌هایی به دست آید.",
-    "نوتالز بر اهمیت ایجاد تعادل در پیچیدگی مکانیک‌ها تأکید کرد. تیم توسعه با اتکا به بررسی‌های تیم QA، بازخورد تسترها را دریافت می‌کند تا از مکانیک‌های خسته‌کننده یا اضافه کردن پیچیدگی‌های بیش از حد و چالش افراطی جلوگیری کند. در عین حال، هماهنگی میان اعضای گروه چه از طریق چت صوتی و چه با استفاده از سیستم ping و هشدارهای داخل بازی همچنان برای موفقیت الزامی خواهد بود.",
-    "این طراح ارشد همچنین به چند نمونه از نبردهای مورد علاقه خود در تایر اول ریدهای ۱۰ و ۲۰ نفره اشاره کرد؛ از جمله انکانتری در Barrow Deeps که نیازمند مدیریت یک buff برای افزایش damage در ازای پرداخت هزینه‌ای مشخص است، باسی متشکل از دو عنکبوت، و یک باس crocalisk نامرده در Hyjal Summit که موجود تسخیرکننده آن بیرون می‌آید و جریان نبرد میان این دو فاز در رفت‌وآمد خواهد بود.",
-    "در پایان، نوتالز به محتوای اینستنس آینده اشاره کرد و از سازه‌ای شبیه به خانه یا عمارت نام برد؛ موضوعی که احتمالاً به نسخه بازطراحی‌شده Manor Mistmantle که بازیکنان در منطقه Duskwood پیدا کرده‌اند اشاره دارد."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "رید",
-    "بلیزارد"
-   ],
-   "items": [],
-   "title_en": "Blizzard Teases Raid Philosophy and Encounters for WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383546",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383546-blizzard-teases-raid-philosophy-and-encounters-for-wow-forever.html",
-   "published_at": "2026-10-25T20:45:48Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "grok-4.20-0309-non-reasoning"
   }
  ],
  "queue": [
-  {
-   "id": 383593,
-   "title_en": "New Cabin-Themed Shop Decor Discovered in Patch 12.1.7",
-   "url": "https://www.wowhead.com/news=383593",
-   "category": "PTR",
-   "published_at": "2026-10-28T15:00:00Z"
-  },
   {
    "id": 383619,
    "title_en": "Warlords of Draenor Timewalking Week Now Live",
