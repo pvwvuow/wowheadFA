@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>WoWhead FA — اخبار ورلد آو وارکرفت به فارسی</title>
 <link>https://pvwvuow.github.io/wowheadFA/</link><description>بازنویسی اورجینال فارسیِ آخرین اخبار World of Warcraft — پچ، هاتفیکس، تیونینگ کلاس‌ها و Midnight. با ذکر منبع Wowhead؛ غیررسمی و بدون وابستگی.</description>
-<item><title>جاش گرینفیلد از رویداد احتمالی در بتای WoW: Forever خبر داد</title>
+<item><title>رفع مشکل Tooltip Bonus Roll و هاتفیکس‌های بیشتر Labyrinth در پچ ۱۲.۱.۵</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383531-bonus-rolls-tooltip-fixed-more-labyrinth-bug-fixes-patch-12-1-5-hotfix.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383531-bonus-rolls-tooltip-fixed-more-labyrinth-bug-fixes-patch-12-1-5-hotfix.html</guid>
+<pubDate>2026-10-28T00:26:29Z</pubDate>
+<description>بلزارد امروز هاتفیکس‌هایی منتشر کرده که شامل رفع باگ‌های Labyrinth و اصلاح نمایش Tooltip Bonus Roll است.</description></item><item><title>جاش گرینفیلد از رویداد احتمالی در بتای WoW: Forever خبر داد</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383538-josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383538-josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours.html</guid>
 <pubDate>2026-10-28T00:02:01Z</pubDate>
@@ -117,8 +121,4 @@
 <link>https://pvwvuow.github.io/wowheadFA/article/383550-patch-12-1-7-ptr-development-notes-various-bug-fixes.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383550-patch-12-1-7-ptr-development-notes-various-bug-fixes.html</guid>
 <pubDate>2026-10-25T20:43:39Z</pubDate>
-<description>این هفته یادداشت‌های توسعه PTR پچ ۱۲.۱.۷ منتشر شد و فقط به رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه اشاره دارد.</description></item><item><title>امکان مشاهده و اشتراک‌گذاری آمار دوره WoW: Forever Beta فراهم شد</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383557-get-your-wow-forever-beta-stats.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383557-get-your-wow-forever-beta-stats.html</guid>
-<pubDate>2026-10-25T20:01:46Z</pubDate>
-<description>هم‌زمان با پایان دوره آزمایشی WoW: Forever Beta، بازیکنان می‌توانند خلاصه آمار عملکرد و فعالیت‌های خود را مرور کرده و به اشتراک بگذارند.</description></item></channel></rss>
+<description>این هفته یادداشت‌های توسعه PTR پچ ۱۲.۱.۷ منتشر شد و فقط به رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه اشاره دارد.</description></item></channel></rss>

@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-28T00:02:40Z",
+ "generated": "2026-10-28T00:27:17Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383531,
+   "slug": "bonus-rolls-tooltip-fixed-more-labyrinth-bug-fixes-patch-12-1-5-hotfix",
+   "title_fa": "رفع مشکل Tooltip Bonus Roll و هاتفیکس‌های بیشتر Labyrinth در پچ ۱۲.۱.۵",
+   "lead_fa": "بلزارد امروز هاتفیکس‌هایی منتشر کرده که شامل رفع باگ‌های Labyrinth و اصلاح نمایش Tooltip Bonus Roll است.",
+   "body_fa": [
+    "حالا Tooltip Bonus Roll به‌درستی آیتم‌های باقی‌مانده از باس را نشان می‌دهد.",
+    "چند سناریو در Labyrinth رفع مشکل شده‌اند. بازیکنان اکنون می‌توانند ۴ Jan'alai Tears را همزمان در Labyrinth حمل کنند.",
+    "بازیکنان می‌توانند با صحبت با Kinduru در De Empire's Rest antechamber در حین سناریوی Kindo'jan از Labyrinth خارج شوند. مشکل استفاده از L00T RAID-R Minis در گروه داخل Labyrinth برطرف شده است.",
+    "اهرم شروع سناریوی A Golden Opportunity در Labyrinth of Kindo'jan اکنون برای بازیکنان سطح ۸۰ و بالاتر قابل استفاده است.",
+    "ظرفیت Carrying a Jan'alai Tear buff به ۴ stack افزایش یافته (قبلاً ۱). مشکل despawn شدن Pit Boss در سناریوی Returning the Bounty هنگام خروج از combat رفع شده است.",
+    "اثر Seriously Sharp Seashell از Gebbo's Bottomless Bag دیگر stealth و invisibility را نمی‌شکند. Jan'thrazet, the Soul Fang اکنون از ابتدای combat برای healerها به‌صورت مطمئن‌تر فعال می‌شود.",
+    "لیست پیش‌نمایش آیتم‌های Nebulous Voidcache bonus roll حالا به‌درستی به‌روزرسانی می‌شود. این فقط مشکل نمایش بود و بر واجد شرایط بودن آیتم‌ها تأثیری نداشت.",
+    "Sanctified Ground هنگام اعمال روی هم‌تیمی‌ها دیگر channeled spellهایی مانند Divine Hymn را قطع نمی‌کند."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "Labyrinth",
+    "۱۲.۱.۵",
+    "Bonus Roll"
+   ],
+   "items": [],
+   "title_en": "Bonus Rolls Tooltip Fixed & More Labyrinth Bug Fixes - Patch 12.1.5 Hotfixes",
+   "source_url": "https://www.wowhead.com/news=383531",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383531-bonus-rolls-tooltip-fixed-more-labyrinth-bug-fixes-patch-12-1-5-hotfix.html",
+   "published_at": "2026-10-28T00:26:29Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383538,
    "slug": "josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours",
@@ -1253,30 +1283,6 @@
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
-  },
-  {
-   "id": 383557,
-   "slug": "get-your-wow-forever-beta-stats",
-   "title_fa": "امکان مشاهده و اشتراک‌گذاری آمار دوره WoW: Forever Beta فراهم شد",
-   "lead_fa": "هم‌زمان با پایان دوره آزمایشی WoW: Forever Beta، بازیکنان می‌توانند خلاصه آمار عملکرد و فعالیت‌های خود را مرور کرده و به اشتراک بگذارند.",
-   "body_fa": [
-    "دوره آزمایشی WoW: Forever Beta امروز در ساعت 10:00 به وقت PDT به پایان می‌رسد. در همین راستا، Blizzard قابلیت جدیدی را در دسترس قرار داده است که جزئیات و آمارهای گوناگونی از ماجراجویی‌های بازیکنان را در این مدت گردآوری کرده است.",
-    "این ابزار اطلاعات متفاوتی را پوشش می‌دهد؛ از تعداد ساعاتی که درون بازی صرف کرده‌اید گرفته تا موبی که بیش از همه باعث مرگ شما شده و تعداد دفعاتی که کاراکتر شما پریده است.",
-    "علاوه بر مشاهده آمار، بخشی نیز در پایین صفحه برای شخصی‌سازی تعبیه شده است. بازیکنان می‌توانند آمارهای دلخواه خود را گزینش کرده، تصویری سفارشی از دستاوردهایشان بسازند و آن را برای دوستان خود ارسال کنند."
-   ],
-   "tags_fa": [
-    "بتا",
-    "Forever",
-    "Blizzard"
-   ],
-   "items": [],
-   "title_en": "Get Your WoW: Forever Beta Stats",
-   "source_url": "https://www.wowhead.com/news=383557",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383557-get-your-wow-forever-beta-stats.html",
-   "published_at": "2026-10-25T20:01:46Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "grok-4.20-0309-non-reasoning"
   }
  ],
  "queue": [
@@ -1412,13 +1418,6 @@
    "url": "https://www.wowhead.com/news=383530",
    "category": "Forever",
    "published_at": "2026-10-22T14:00:00Z"
-  },
-  {
-   "id": 383531,
-   "title_en": "Bonus Rolls Tooltip Fixed & More Labyrinth Bug Fixes - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383531",
-   "category": "Live",
-   "published_at": "2026-10-22T01:43:01Z"
   },
   {
    "id": 383487,

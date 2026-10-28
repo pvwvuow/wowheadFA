@@ -1,6 +1,6 @@
 {
  "day": "2026-10-28",
- "published_today": 1,
+ "published_today": 2,
  "held": {
   "383599": {
    "reason": "عنوان مقاله «هاتفیکس‌های ۲۶ اکتبر برای Labyrinth و کلاس‌ها در پچ ۱۲.۱.۵» و پاراگراف اول «در تاریخ ۲۶ اکتبر ۲۰۲۶» و تگ «۱۲.۱.۵» تاریخ و شماره پچ را ذکر کرده‌اند در حالی که منبع هیچ تاریخی، سالی و شماره پچی ندارد. | جمله «این تغییر از اسپاون چندین chest جلوگیری می‌کند» توضیح علت و  | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
@@ -81,16 +81,23 @@
    "reason": "G5 English token not in source: izzard",
    "at": "2026-10-28T00:02:40Z",
    "at_ts": 1793145760.285911
+  },
+  "383530": {
+   "reason": "G6 CJK characters leaked into Persian prose: 吸引 | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+   "at": "2026-10-28T00:23:38Z",
+   "at_ts": 1793147018.762552
+  },
+  "383487": {
+   "reason": "عددِ بدون منبع در مقاله: 0 | عددِ بدون منبع در مقاله: 042 | عددِ بدون منبع در مقاله: 095",
+   "at": "2026-10-28T00:27:17Z",
+   "at_ts": 1793147237.069032
   }
  },
  "ingest_fails": {
-  "383530": 1,
-  "383531": 1,
-  "383487": 1,
   "383519": 1,
   "383518": 1
  },
- "updated_at": "2026-10-28T00:02:40Z",
+ "updated_at": "2026-10-28T00:27:17Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1212,6 +1219,46 @@
     "blocks": 1,
     "warns": 0,
     "sec": 38.9,
+    "attempts": 2
+   },
+   {
+    "id": "383530",
+    "ts": "2026-10-28T00:23:38Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 33.5,
+    "attempts": 2
+   },
+   {
+    "id": "383530",
+    "ts": "2026-10-28T00:26:01Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 142.2,
+    "attempts": 1
+   },
+   {
+    "id": "383531",
+    "ts": "2026-10-28T00:26:29Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 28.5,
+    "attempts": 1
+   },
+   {
+    "id": "383487",
+    "ts": "2026-10-28T00:27:17Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 7,
+    "warns": 0,
+    "sec": 47.3,
     "attempts": 2
    }
   ]
