@@ -94,10 +94,10 @@
   }
  },
  "ingest_fails": {
-  "383519": 1,
-  "383518": 1
+  "383519": 2,
+  "383518": 2
  },
- "updated_at": "2026-10-28T00:27:17Z",
+ "updated_at": "2026-10-28T00:49:01Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1260,6 +1260,26 @@
     "warns": 0,
     "sec": 47.3,
     "attempts": 2
+   },
+   {
+    "id": "383519",
+    "ts": "2026-10-28T00:48:20Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 33.3,
+    "attempts": 0
+   },
+   {
+    "id": "383518",
+    "ts": "2026-10-28T00:49:01Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 41.2,
+    "attempts": 0
    }
   ]
  }
