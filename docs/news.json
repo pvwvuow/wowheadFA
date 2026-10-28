@@ -1,8 +1,35 @@
 {
- "generated": "2026-10-27T23:08:20Z",
+ "generated": "2026-10-28T00:02:40Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383538,
+   "slug": "josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours",
+   "title_fa": "جاش گرینفیلد از رویداد احتمالی در بتای WoW: Forever خبر داد",
+   "lead_fa": "جاش گرینفیلد با پستی در شبکه‌های اجتماعی بازیکنان را تشویق کرده که طی چند ساعت آینده یک بار دیگر به بتای WoW: Forever وارد شوند.",
+   "body_fa": [
+    "امروز آخرین روز کامل بتای WoW: Forever است و سرور فردا در تاریخ ۲۳ اکتبر ساعت ۱۰:۰۰ AM PDT بسته خواهد شد.",
+    "جاش «Aggrend» گرینفیلد با اشاره به زمان «چند ساعت» آینده، به نوعی از وقوع رویداد خاصی در بتا خبر داده است.",
+    "در رویدادهای پایان بتا در گذشته، بلزارد موجودات سرگرم‌کننده‌ای را در هاب‌های اصلی احضار می‌کرد؛ برای مثال Thrall در Stormwind یا Firelord Nomi.",
+    "امکان دارد این بار هم موجودات دشمن ظاهر شوند و بازیکنان را درگیر کنند.",
+    "بازیکنان اگر فرصت دارند، بهتر است طی ساعات آینده وارد بتا شوند تا ببینند چه اتفاقی رخ می‌دهد."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "بتا",
+    "رویداد پایان بتا",
+    "جاش گرینفیلد"
+   ],
+   "items": [],
+   "title_en": "Josh Greenfield Teases Possible Event on WoW: Forever Beta in \"Few Hours\"",
+   "source_url": "https://www.wowhead.com/news=383538",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383538-josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours.html",
+   "published_at": "2026-10-28T00:02:01Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383616,
    "slug": "blizzard-takes-action-against-rmt-on-retail-wow-gold-transactions-shou",
@@ -1250,34 +1277,6 @@
    "model": "gemini-flash-latest",
    "via": "auto-gemini",
    "reviewer": "grok-4.20-0309-non-reasoning"
-  },
-  {
-   "id": 383560,
-   "slug": "blizzard-thanks-players-for-testing-the-wow-forever-beta",
-   "title_fa": "بلیتزر از بازیکنان بتای WoW Forever قدردانی کرد",
-   "lead_fa": "بلیتزر با انتشار پیامی از بازیکنان برای شرکت در بتای WoW Forever تشکر کرده و جزئیاتی از مراحل پیش از انتشار در ۴ نوامبر را اعلام کرد.",
-   "body_fa": [
-    "بتای WoW Forever اکنون به طور رسمی به پایان رسیده است و بلیتزر از همه کسانی که طی پنج هفته گذشته در تست بازی، جمع‌آوری داده، گزارش باگ و ارائه بازخورد شرکت کردند قدردانی کرده است.",
-    "تیم اکنون بر رفع مسائل اولویت‌دار و بهبود سرویس بازی تمرکز خواهد کرد تا برای launch day on November 4 آماده باشد.",
-    "بلیتزر اعلام کرده که سرویس Name Reservation در ۲۷ اکتبر فعال می‌شود و به بازیکنان فرصت می‌دهد تا ruleset مورد نظر خود را انتخاب کنند و نام مناسب شخصیت‌شان را رزرو کنند.",
-    "در ادامه، تیم به فعالیت خود با WoW Forever Podcast خواهد پرداخت و توصیه کرده که علاقه‌مندان قسمت‌های منتشرشده را دنبال کنند.",
-    "پادکست شامل پنج قسمت است: Episode 1 - Unpacking Beta Launch ft. @Xaryu، Episode 2 - Speed Running Classes ft. @sodapoppin، Episode 3 - Dive Into Dungeons With Devs ft. @Hammerdancegaming، Episode 4 - The PvP Episode ft. @TipsOutBaby & @Savixirl و Episode 5 - End of Beta Special.",
-    "بلیتزر بار دیگر از جامعه‌ای که در طول بتا شکل گرفته تشکر کرده و ابراز امیدواری کرده که بازیکنان را در ۴ نوامبر ملاقات کند."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "بتا",
-    "پادکست",
-    "Name Reservation"
-   ],
-   "items": [],
-   "title_en": "Blizzard Thanks Players for Testing the WoW Forever Beta",
-   "source_url": "https://www.wowhead.com/news=383560",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383560-blizzard-thanks-players-for-testing-the-wow-forever-beta.html",
-   "published_at": "2026-10-25T19:59:21Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
   }
  ],
  "queue": [
@@ -1399,13 +1398,6 @@
    "url": "https://www.wowhead.com/news=383540",
    "category": "Forever",
    "published_at": "2026-10-22T16:21:06Z"
-  },
-  {
-   "id": 383538,
-   "title_en": "Josh Greenfield Teases Possible Event on WoW: Forever Beta in \"Few Hours\"",
-   "url": "https://www.wowhead.com/news=383538",
-   "category": "Forever",
-   "published_at": "2026-10-22T16:09:50Z"
   },
   {
    "id": 383537,
