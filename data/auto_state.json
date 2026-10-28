@@ -111,10 +111,20 @@
    "reason": "G1 Persian ratio 54% < 55% | G5 English token not in source: beastlord's | G5 English token not in source: warwolf | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
    "at": "2026-10-28T14:32:38Z",
    "at_ts": 1793197958.158388
+  },
+  "383632": {
+   "reason": "G4 numbers from source missing in article: 62 | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+   "at": "2026-10-28T17:42:07Z",
+   "at_ts": 1793209327.241375
+  },
+  "383630": {
+   "reason": "«در بخش نظرات کاربران به مواردی مانند Patch 1.60.1، ۱۰٪، ۱۵، ۱۶، ۲۷، ۲۸ و ۸۰۰ اشاره شده است» — منبع هیچ اشاره‌ای به این اعداد و کامنت‌ها در مقاله ندارد و این‌ها از کامنت‌های کاربران استخراج شده‌اند که بخشی از خبر اصلی نیستند. | «اخبار مرتبط دیگری نیز در صفحه وجود دارد که شامل به‌روزرسانی‌های مختلف برای World of Warcraft: Forever می‌شود» — منبع فقط فهرست اخبار مرتبط را نشان می‌دهد و هیچ توصیف یا نت",
+   "at": "2026-10-28T17:43:04Z",
+   "at_ts": 1793209384.82785
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-28T15:35:26Z",
+ "updated_at": "2026-10-28T17:43:04Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1387,6 +1397,36 @@
     "warns": 0,
     "sec": 60.8,
     "attempts": 1
+   },
+   {
+    "id": "383632",
+    "ts": "2026-10-28T17:42:07Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 76.1,
+    "attempts": 2
+   },
+   {
+    "id": "383632",
+    "ts": "2026-10-28T17:42:13Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 6.1,
+    "attempts": 1
+   },
+   {
+    "id": "383630",
+    "ts": "2026-10-28T17:43:04Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 3,
+    "warns": 0,
+    "sec": 51.2,
+    "attempts": 2
    }
   ]
  }
