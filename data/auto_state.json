@@ -106,10 +106,15 @@
    "reason": "G1 Persian ratio 47% < 55% | G5 English token not in source: izzard | G5 English token not in source: rollback | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
    "at": "2026-10-28T01:55:41Z",
    "at_ts": 1793152541.329792
+  },
+  "383619": {
+   "reason": "G1 Persian ratio 54% < 55% | G5 English token not in source: beastlord's | G5 English token not in source: warwolf | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+   "at": "2026-10-28T14:32:38Z",
+   "at_ts": 1793197958.158388
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-28T01:56:03Z",
+ "updated_at": "2026-10-28T14:32:55Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1351,6 +1356,26 @@
     "blocks": 0,
     "warns": 0,
     "sec": 21.9,
+    "attempts": 1
+   },
+   {
+    "id": "383619",
+    "ts": "2026-10-28T14:32:38Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 0,
+    "sec": 59.3,
+    "attempts": 2
+   },
+   {
+    "id": "383619",
+    "ts": "2026-10-28T14:32:55Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 16.7,
     "attempts": 1
    }
   ]
