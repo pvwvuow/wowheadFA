@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T17:43:04Z",
+ "generated": "2026-10-28T19:45:35Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1289,6 +1289,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383637,
+   "title_en": "Retail Team Discussing Lighting and Water Improvements from WoW: Forever",
+   "url": "https://www.wowhead.com/news=383637",
+   "category": "Live",
+   "published_at": "2026-10-28T19:30:38Z"
+  },
   {
    "id": 383632,
    "title_en": "New Player’s Starter Guide for World of Warcraft: Forever",
