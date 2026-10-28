@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T15:35:26Z",
+ "generated": "2026-10-28T16:57:57Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1289,6 +1289,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383630,
+   "title_en": "Planet Azeroth: Episode 1 ft. Bill Bailey",
+   "url": "https://www.wowhead.com/news=383630",
+   "category": "Forever",
+   "published_at": "2026-10-28T16:38:15Z"
+  },
   {
    "id": 383619,
    "title_en": "Warlords of Draenor Timewalking Week Now Live",
