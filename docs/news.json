@@ -1,8 +1,37 @@
 {
- "generated": "2026-10-28T21:28:41Z",
+ "generated": "2026-10-28T22:10:13Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383641,
+   "slug": "new-class-and-item-tuning-on-wow-forever-hunter-changes",
+   "title_fa": "تغییرات تیونینگ هانتر و اکسیر Wisdom در WoW: Forever",
+   "lead_fa": "با آغاز رزرو نام‌ها در WoW: Forever، تعدادی هات‌فکس برای کلاس Hunter و یک potion Alchemy روی سرورهای زنده اعمال شده است.",
+   "body_fa": [
+    "این تغییرات هنوز در یادداشت‌های توسعه تأیید نشده‌اند و ممکن است داده‌های موقتی باشند یا در آینده تغییر کنند.",
+    "به نظر می‌رسد Hunters در سرورهای زنده nerf شده‌اند. Aspect of the Hawk در رتبه‌های مختلف کاهش یافته است:",
+    "Rank 1 از 22 به 15، Rank 2 از 35 به 22، Rank 3 از 50 به 30، Rank 4 از 78 به 38 و Rank 5 از 90 به 47.",
+    "raid buff هانترها یعنی Trueshot Aura نیز nerf شده است:",
+    "Rank 1 از 30 به 15، Rank 2 از 40 به 22، Rank 3 از 50 به 30 و Rank 4 از 75 به 40.",
+    "در بخش Consumables، Elixir of Wisdom که نیاز به سطح Alchemy 90 دارد و recipe آن از vendor خریداری می‌شود، کاهش قدرت و مدت‌زمان دیده است.",
+    "این potion اکنون Intellect را 3 (بود 6) برای 30 دقیقه (بود 1 ساعت) افزایش می‌دهد."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "WoW Forever",
+    "تیونینگ هانتر",
+    "Alchemy"
+   ],
+   "items": [],
+   "title_en": "New Class and Item Tuning on WoW: Forever - Hunter Changes",
+   "source_url": "https://www.wowhead.com/news=383641",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383641-new-class-and-item-tuning-on-wow-forever-hunter-changes.html",
+   "published_at": "2026-10-28T22:10:12Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383637,
    "slug": "retail-team-discussing-lighting-and-water-improvements-from-wow-foreve",
@@ -1257,43 +1286,9 @@
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
-  },
-  {
-   "id": 383528,
-   "slug": "optimize-tricky-treat-exchange-with-neighborhood-vendors-for-hallow-s-",
-   "title_fa": "بهینه‌سازی تبادل Tricky Treat با فروشندگان Hallow's End",
-   "lead_fa": "رویداد Hallow's End با اضافه شدن مأموریت‌های روزانه جدید، امکان دریافت آب‌نبات‌های ویژه را فراهم کرده که می‌توان آن‌ها را با نرخ‌های متفاوت به Tricky Treat تبدیل کرد.",
-   "body_fa": [
-    "هر روز هر محله یکی از سه تم Duskwood، Drustvar یا Felwood را دریافت می‌کند. با انجام مأموریت‌های روزانه در محله مربوطه، بازیکنان علاوه بر Tricky Treat، آب‌نبات ویژه آن تم را هم به دست می‌آورند: Drustvar Choc-O-Drops برای Drustvar، Duskwood Caramel برای Duskwood و Felwood Fudge Bite برای Felwood.",
-    "این آب‌نبات‌ها را می‌توان نزد فروشندگان مخصوص هر محله به Tricky Treat تبدیل کرد. موقعیت فروشندگان به این شکل است: برای Horde در /way #2351 51.72 54.5 و برای Alliance در /way #2352 53.74 33.67.",
-    "هر محله نرخ تبدیل متفاوتی دارد و این نرخ از ۵ Tricky Treat در برابر ۱ آب‌نبات تا ۵ Tricky Treat در برابر ۵ آب‌نبات متغیر است. بهترین حالت، یافتن محله‌ای است که ۵ Tricky Treat در برابر ۱ آب‌نبات ارائه می‌دهد.",
-    "برای بهره‌برداری حداکثری، بازیکنان می‌توانند با استفاده از LFG یا فهرست دوستان بین محله‌ها جابه‌جا شوند تا نرخ مطلوب را پیدا کنند. این روش امکان دریافت مقدار بسیار زیادی Tricky Treat و تبدیل آن به پاداش‌های مختلف را فراهم می‌آورد.",
-    "اگر امروز نرخ مناسبی پیدا نکردید، فردا با تازه‌سازی فروشندگان دوباره امتحان کنید."
-   ],
-   "tags_fa": [
-    "Hallow's End",
-    "Tricky Treat",
-    "رویداد فصلی",
-    "بهینه‌سازی"
-   ],
-   "items": [],
-   "title_en": "Optimize Tricky Treat Exchange with Neighborhood Vendors for Hallow's End",
-   "source_url": "https://www.wowhead.com/news=383528",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383528-optimize-tricky-treat-exchange-with-neighborhood-vendors-for-hallow-s-.html",
-   "published_at": "2026-10-25T21:53:36Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
   }
  ],
  "queue": [
-  {
-   "id": 383641,
-   "title_en": "New Class and Item Tuning on WoW: Forever - Hunter Changes",
-   "url": "https://www.wowhead.com/news=383641",
-   "category": "Forever",
-   "published_at": "2026-10-28T21:17:17Z"
-  },
   {
    "id": 383632,
    "title_en": "New Player’s Starter Guide for World of Warcraft: Forever",

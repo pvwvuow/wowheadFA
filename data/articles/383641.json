@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383641",
  "title_en": "New Class and Item Tuning on WoW: Forever - Hunter Changes",
  "category": "Forever",
- "published_at": "2026-10-28T21:17:17Z",
+ "published_at": "2026-10-28T22:10:12Z",
  "fetched_at": "2026-10-28T21:28:41Z",
  "source_mode": "full",
  "qa_facts": {
@@ -111,5 +111,29 @@
   ],
   "chars": 1144
  },
- "status": "new"
+ "status": "published",
+ "article_fa": {
+  "title_fa": "تغییرات تیونینگ هانتر و اکسیر Wisdom در WoW: Forever",
+  "lead_fa": "با آغاز رزرو نام‌ها در WoW: Forever، تعدادی هات‌فکس برای کلاس Hunter و یک potion Alchemy روی سرورهای زنده اعمال شده است.",
+  "body_fa": [
+   "این تغییرات هنوز در یادداشت‌های توسعه تأیید نشده‌اند و ممکن است داده‌های موقتی باشند یا در آینده تغییر کنند.",
+   "به نظر می‌رسد Hunters در سرورهای زنده nerf شده‌اند. Aspect of the Hawk در رتبه‌های مختلف کاهش یافته است:",
+   "Rank 1 از 22 به 15، Rank 2 از 35 به 22، Rank 3 از 50 به 30، Rank 4 از 78 به 38 و Rank 5 از 90 به 47.",
+   "raid buff هانترها یعنی Trueshot Aura نیز nerf شده است:",
+   "Rank 1 از 30 به 15، Rank 2 از 40 به 22، Rank 3 از 50 به 30 و Rank 4 از 75 به 40.",
+   "در بخش Consumables، Elixir of Wisdom که نیاز به سطح Alchemy 90 دارد و recipe آن از vendor خریداری می‌شود، کاهش قدرت و مدت‌زمان دیده است.",
+   "این potion اکنون Intellect را 3 (بود 6) برای 30 دقیقه (بود 1 ساعت) افزایش می‌دهد."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "WoW Forever",
+   "تیونینگ هانتر",
+   "Alchemy"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-28T22:10:12Z"
+ }
 }
