@@ -1,8 +1,35 @@
 {
- "generated": "2026-10-28T19:45:35Z",
+ "generated": "2026-10-28T20:06:56Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383637,
+   "slug": "retail-team-discussing-lighting-and-water-improvements-from-wow-foreve",
+   "title_fa": "تیم Retail در حال بررسی بهبودهای نورپردازی و آب از WoW: Forever",
+   "lead_fa": "کریس زیرهات در مصاحبه با IGN تأیید کرد که تیم Retail WoW درباره بهبودهای نورپردازی و آب معرفی‌شده در WoW: Forever بحث می‌کند.",
+   "body_fa": [
+    "WoW: Forever که در BlizzCon 2026 معرفی شد، شامل بهبودهای گرافیکی متعددی در زمینه سایه‌ها، نورپردازی و آب است.",
+    "از آنجا که این عنوان بر پایه کلاینت مدرن WoW ساخته شده، بسیاری از بازیکنان پرسیده بودند آیا این تغییرات فقط برای Forever خواهد بود یا به نسخه Retail هم می‌رسد.",
+    "کریس زیرهات در پاسخ به سؤال IGN گفت: «فکر می‌کنم اینجا اول ساخته شدند.» او تأکید کرد که این ویژگی‌ها انحصاری Forever نیستند.",
+    "به گفته او، بهبودهای بهتر آب و نورپردازی برای Retail هم در راه است و تیم Retail درباره اجرای آن‌ها صحبت می‌کند، هرچند زمان دقیق آن مشخص نیست.",
+    "بسیاری از بازیکنان از شنیدن این خبر که نسخه مدرن WoW نیز قرار است این بهبودهای گرافیکی را دریافت کند، خوشحال خواهند شد."
+   ],
+   "tags_fa": [
+    "WoW: Forever",
+    "بهبود گرافیکی",
+    "Retail",
+    "نورپردازی"
+   ],
+   "items": [],
+   "title_en": "Retail Team Discussing Lighting and Water Improvements from WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383637",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383637-retail-team-discussing-lighting-and-water-improvements-from-wow-foreve.html",
+   "published_at": "2026-10-28T20:06:56Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383593,
    "slug": "new-cabin-themed-shop-decor-discovered-in-patch-12-1-7",
@@ -1257,45 +1284,9 @@
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
-  },
-  {
-   "id": 383520,
-   "slug": "no-mail-spell-power-dungeon-and-quest-armor-in-wow-forever-early-level",
-   "title_fa": "عدم وجود زره Mail Spell Power در مراحل اولیه WoW: Forever",
-   "lead_fa": "بتای World of Warcraft Forever به بازیکنان اجازه داده تا چندین کاراکتر را تا سطح ۳۰ امتحان کنند، اما بررسی‌ها نشان می‌دهد هیچ زره Mail Spell Power از طریق دانجن‌ها و کوئست‌ها در این سطوح ارائه نمی‌شود.",
-   "body_fa": [
-    "بازیکنان در بتای WoW: Forever با کوئست‌ها و دانجن‌های آشنا و جدید روبه‌رو شده‌اند و پاداش‌های آن‌ها را دریافت کرده‌اند.",
-    "با این حال جستجو در پایگاه داده نشان می‌دهد که هیچ قطعه Mail Spell Power از طریق دراپ دانجن‌ها وجود ندارد و تنها دراپ‌های تصادفی Uncommon با پسوندهایی مانند of Magic یا of the Knight یافت می‌شود.",
-    "در بخش پاداش کوئست‌ها نیز تنها دو آیتم ظاهر می‌شود که هر دو عمدتاً Healing هستند: Garrison Cuffs و Silvered Gauntlets.",
-    "این مسئله تنها یک کلاس را در سطوح ۱ تا ۳۰ تحت تأثیر قرار می‌دهد: Paladin.",
-    "در حال حاضر Paladin تنها کلاسی است که هیچ زره متناسبی از طریق دانجن یا کوئست برای ۳۰ سطح اول ندارد.",
-    "اگر Paladin بخواهد ارتقای زره بدون استفاده از Auction House داشته باشد، باید از طریق Crafting و به دست آوردن الگوها از دراپ دانجن‌ها یا Merchant's Favor turn-ins با Azeroth Commerce Authority / Durotar Supply and Logistics اقدام کند.",
-    "هرچند سیستم Crafting جدید برای سطوح اولیه در WoW: Forever بسیار مورد استقبال قرار گرفته، اما جالب است که Paladin تنها کلاسی باشد که برای دریافت ارتقای معادل پاداش‌های کوئست و دانجن مجبور به Crafting شود."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "بتا",
-    "Paladin",
-    "تیونینگ اولیه"
-   ],
-   "items": [],
-   "title_en": "No Mail Spell Power Dungeon and Quest Armor in WoW: Forever Early Levels",
-   "source_url": "https://www.wowhead.com/news=383520",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383520-no-mail-spell-power-dungeon-and-quest-armor-in-wow-forever-early-level.html",
-   "published_at": "2026-10-25T21:31:36Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
   }
  ],
  "queue": [
-  {
-   "id": 383637,
-   "title_en": "Retail Team Discussing Lighting and Water Improvements from WoW: Forever",
-   "url": "https://www.wowhead.com/news=383637",
-   "category": "Live",
-   "published_at": "2026-10-28T19:30:38Z"
-  },
   {
    "id": 383632,
    "title_en": "New Player’s Starter Guide for World of Warcraft: Forever",
