@@ -1,8 +1,35 @@
 {
- "generated": "2026-10-28T01:32:59Z",
+ "generated": "2026-10-28T01:56:03Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383618,
+   "slug": "name-reservations-included-overly-restrictive-name-check-but-fix-incom",
+   "title_fa": "نام‌های رزرو شده در WoW: Forever با محدودیت بیش از حد مواجه بودند",
+   "lead_fa": "بلیزارد اعلام کرد که بررسی نام در رزروهای امروز WoW: Forever بیش از حد محدودکننده بوده و رفع این مشکل با ریستارت سرورها انجام می‌شود.",
+   "body_fa": [
+    "در WoW: Forever تیم در حال کار روی لیست نام‌های محدودشده است. این لیست برای بررسی نام‌هایی به کار می‌رود که غیر توهین‌آمیز هستند اما به دلایل فنی یا به خاطر شخصیت‌های مهم لور Warcraft محدود شده‌اند.",
+    "امروز مشخص شد که باگی در این فرآیند وجود دارد که باعث شده بازی در برخی نام‌ها بیش از حد سخت‌گیرانه عمل کند.",
+    "برای مثال، نام‌هایی که حاوی «c-o-n» هستند به اشتباه محدود می‌شدند.",
+    "با ریستارت بعدی سرورها در هر منطقه، این رفع باگ اعمال خواهد شد.",
+    "پس از اعمال رفع باگ، اگر قبلاً برای نامی که فکر می‌کنید باید مجاز باشد پیام «That name is restricted» دریافت کرده‌اید، می‌توانید دوباره امتحان کنید."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "نام رزرو",
+    "رفع باگ",
+    "نام محدود"
+   ],
+   "items": [],
+   "title_en": "Name Reservations Included Overly Restrictive Name Check But Fix Incoming",
+   "source_url": "https://www.wowhead.com/news=383618",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383618-name-reservations-included-overly-restrictive-name-check-but-fix-incom.html",
+   "published_at": "2026-10-28T01:54:35Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383531,
    "slug": "bonus-rolls-tooltip-fixed-more-labyrinth-bug-fixes-patch-12-1-5-hotfix",
@@ -1259,40 +1286,9 @@
    "model": "gemini-flash-latest",
    "via": "auto-gemini",
    "reviewer": "grok-4.20-0309-non-reasoning"
-  },
-  {
-   "id": 383550,
-   "slug": "patch-12-1-7-ptr-development-notes-various-bug-fixes",
-   "title_fa": "یادداشت‌های توسعه PTR پچ ۱۲.۱.۷",
-   "lead_fa": "این هفته یادداشت‌های توسعه PTR پچ ۱۲.۱.۷ منتشر شد و فقط به رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه اشاره دارد.",
-   "body_fa": [
-    "پچ ۱۲.۱.۷ هفته گذشته به همراه PTR پیش‌نمایش خود را دریافت کرد.",
-    "این هفته PTR با رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه به‌روزرسانی شده است.",
-    "یادداشت‌های توسعه این هفته فقط شامل یک خط در این مورد است."
-   ],
-   "tags_fa": [
-    "PTR",
-    "12.1.7",
-    "Midnight"
-   ],
-   "items": [],
-   "title_en": "Patch 12.1.7 PTR Development Notes - Various Bug Fixes",
-   "source_url": "https://www.wowhead.com/news=383550",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383550-patch-12-1-7-ptr-development-notes-various-bug-fixes.html",
-   "published_at": "2026-10-25T20:43:39Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
   }
  ],
  "queue": [
-  {
-   "id": 383618,
-   "title_en": "Name Reservations Included Overly Restrictive Name Check But Fix Incoming",
-   "url": "https://www.wowhead.com/news=383618",
-   "category": "Forever",
-   "published_at": "2026-10-28T01:30:05Z"
-  },
   {
    "id": 383617,
    "title_en": "Class Tuning and Bug Fixes - Patch 12.1.5 Hotfixes for October 27th",
