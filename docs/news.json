@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T14:32:55Z",
+ "generated": "2026-10-28T15:13:38Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1289,6 +1289,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383593,
+   "title_en": "New Cabin-Themed Shop Decor Discovered in Patch 12.1.7",
+   "url": "https://www.wowhead.com/news=383593",
+   "category": "PTR",
+   "published_at": "2026-10-28T15:00:00Z"
+  },
   {
    "id": 383619,
    "title_en": "Warlords of Draenor Timewalking Week Now Live",
