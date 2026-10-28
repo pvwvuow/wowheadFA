@@ -91,13 +91,20 @@
    "reason": "عددِ بدون منبع در مقاله: 0 | عددِ بدون منبع در مقاله: 042 | عددِ بدون منبع در مقاله: 095",
    "at": "2026-10-28T00:27:17Z",
    "at_ts": 1793147237.069032
+  },
+  "383519": {
+   "reason": "در پاراگراف دوم و سوم مقاله، نقل قول‌هایی مانند «Fixed an issue that could sometimes prevent the “Fools and Curses” scenario from completing» و «The Ancient Hash'ey Battle Art glove enchantments can now be applied to Warbound Until Equipped items» و چندین هاتفیکس دیگر آورده شده ک | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+   "at": "2026-10-28T01:10:35Z",
+   "at_ts": 1793149835.252246
+  },
+  "383518": {
+   "reason": "G4 numbers from source missing in article: 10, 12.1.5, 15, 20, 26, 27, 28",
+   "at": "2026-10-28T01:12:42Z",
+   "at_ts": 1793149962.95041
   }
  },
- "ingest_fails": {
-  "383519": 2,
-  "383518": 2
- },
- "updated_at": "2026-10-28T00:49:01Z",
+ "ingest_fails": {},
+ "updated_at": "2026-10-28T01:12:42Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1280,6 +1287,36 @@
     "warns": 0,
     "sec": 41.2,
     "attempts": 0
+   },
+   {
+    "id": "383519",
+    "ts": "2026-10-28T01:10:35Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 10,
+    "warns": 2,
+    "sec": 65.9,
+    "attempts": 2
+   },
+   {
+    "id": "383519",
+    "ts": "2026-10-28T01:11:30Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 55.3,
+    "attempts": 1
+   },
+   {
+    "id": "383518",
+    "ts": "2026-10-28T01:12:42Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 72.2,
+    "attempts": 2
    }
   ]
  }
