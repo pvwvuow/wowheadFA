@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T20:06:56Z",
+ "generated": "2026-10-28T21:28:41Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1287,6 +1287,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383641,
+   "title_en": "New Class and Item Tuning on WoW: Forever - Hunter Changes",
+   "url": "https://www.wowhead.com/news=383641",
+   "category": "Forever",
+   "published_at": "2026-10-28T21:17:17Z"
+  },
   {
    "id": 383632,
    "title_en": "New Player’s Starter Guide for World of Warcraft: Forever",
