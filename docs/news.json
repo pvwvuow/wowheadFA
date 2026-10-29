@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T22:09:44Z",
+ "generated": "2026-10-29T22:52:44Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1287,6 +1287,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383658,
+   "title_en": "Talebound Awards Two Pieces of Mythic Venomous Abyss Loot",
+   "url": "https://www.wowhead.com/news=383658",
+   "category": "PTR",
+   "published_at": "2026-10-29T22:39:33Z"
+  },
   {
    "id": 383656,
    "title_en": "Everything You Need to Know for WoW: Forever's Global Launch",
