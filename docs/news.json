@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T16:20:11Z",
+ "generated": "2026-10-29T16:40:41Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1289,6 +1289,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383648,
+   "title_en": "The WoW: Forever Podcast Episode 6 Now Available - Tech and Community Building",
+   "url": "https://www.wowhead.com/news=383648",
+   "category": "Forever",
+   "published_at": "2026-10-29T16:27:09Z"
+  },
   {
    "id": 383640,
    "title_en": "WoW: Forever is Aiming for a 4-Month Patch Cadence",
