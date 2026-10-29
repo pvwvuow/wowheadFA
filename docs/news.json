@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T20:41:02Z",
+ "generated": "2026-10-29T21:23:20Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1287,6 +1287,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383656,
+   "title_en": "Everything You Need to Know for WoW: Forever's Global Launch",
+   "url": "https://www.wowhead.com/news=383656",
+   "category": "Forever",
+   "published_at": "2026-10-29T21:09:39Z"
+  },
   {
    "id": 383653,
    "title_en": "Return to Azeroth Recap for World of Warcraft: Forever",
