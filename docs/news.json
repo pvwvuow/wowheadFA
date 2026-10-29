@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T19:13:33Z",
+ "generated": "2026-10-29T19:55:40Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1287,6 +1287,20 @@
   }
  ],
  "queue": [
+  {
+   "id": 383649,
+   "title_en": "Forced World Refreshes Will Be Significantly Reduced for WoW: Forever",
+   "url": "https://www.wowhead.com/news=383649",
+   "category": "Forever",
+   "published_at": "2026-10-29T19:44:00Z"
+  },
+  {
+   "id": 383653,
+   "title_en": "Return to Azeroth Recap for World of Warcraft: Forever",
+   "url": "https://www.wowhead.com/news=383653",
+   "category": "Forever",
+   "published_at": "2026-10-29T19:13:59Z"
+  },
   {
    "id": 383651,
    "title_en": "Patch 12.1.7 PTR Development Notes - Talebound Demo Available Tomorrow",
