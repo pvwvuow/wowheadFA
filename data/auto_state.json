@@ -146,10 +146,15 @@
    "reason": "«November 4th» در lead_fa ذکر شده اما منبع فقط می‌گوید November 4th بدون افزودن سال یا جزئیات بیشتر؛ با این حال این تاریخ دقیقاً در منبع هست و block نیست — اصلاح: block برای «در November 4th آماده می‌کند» نیست، اما جمله lead_fa ادعا می‌کند Blizzard «با انتشار خلاصه‌ای» آماده می‌ک | fallback هم رد شد: عددِ بدون منبع در مقاله: 000 | عددِ بدون منبع در مقاله: 2",
    "at": "2026-10-29T20:38:08Z",
    "at_ts": 1793306288.301006
+  },
+  "383656": {
+   "reason": "«در ۹ دسامبر سه raid ... در دسترس قرار می‌گیرد» — منبع می‌گوید ۹ دسامبر (December 9) اما هیچ تاریخی برای لانچ WoW: Forever ذکر نکرده و فقط گفته «در کمتر از یک هفته در ۴ نوامبر». | «۹ دانجن جدید پنج‌نفره برای سطوح ۱۳ تا ۶۰ معرفی شده است» — منبع دقیقاً «nine new five-player dungeon | fallback هم رد شد: writer error: Remote end closed connection without response",
+   "at": "2026-10-29T22:05:22Z",
+   "at_ts": 1793311522.964623
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-29T20:41:02Z",
+ "updated_at": "2026-10-29T22:09:44Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1581,6 +1586,26 @@
     "blocks": 2,
     "warns": 0,
     "sec": 173.8,
+    "attempts": 1
+   },
+   {
+    "id": "383656",
+    "ts": "2026-10-29T22:05:22Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 3,
+    "warns": 2,
+    "sec": 64.7,
+    "attempts": 2
+   },
+   {
+    "id": "383656",
+    "ts": "2026-10-29T22:09:44Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 260.8,
     "attempts": 1
    }
   ]
