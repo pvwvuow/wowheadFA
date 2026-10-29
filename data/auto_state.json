@@ -1,6 +1,6 @@
 {
  "day": "2026-10-29",
- "published_today": 1,
+ "published_today": 2,
  "held": {
   "383599": {
    "reason": "عنوان مقاله «هاتفیکس‌های ۲۶ اکتبر برای Labyrinth و کلاس‌ها در پچ ۱۲.۱.۵» و پاراگراف اول «در تاریخ ۲۶ اکتبر ۲۰۲۶» و تگ «۱۲.۱.۵» تاریخ و شماره پچ را ذکر کرده‌اند در حالی که منبع هیچ تاریخی، سالی و شماره پچی ندارد. | جمله «این تغییر از اسپاون چندین chest جلوگیری می‌کند» توضیح علت و  | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
@@ -141,10 +141,15 @@
    "reason": "G5 English token not in source: izzard",
    "at": "2026-10-29T19:13:33Z",
    "at_ts": 1793301213.070638
+  },
+  "383653": {
+   "reason": "«November 4th» در lead_fa ذکر شده اما منبع فقط می‌گوید November 4th بدون افزودن سال یا جزئیات بیشتر؛ با این حال این تاریخ دقیقاً در منبع هست و block نیست — اصلاح: block برای «در November 4th آماده می‌کند» نیست، اما جمله lead_fa ادعا می‌کند Blizzard «با انتشار خلاصه‌ای» آماده می‌ک | fallback هم رد شد: عددِ بدون منبع در مقاله: 000 | عددِ بدون منبع در مقاله: 2",
+   "at": "2026-10-29T20:38:08Z",
+   "at_ts": 1793306288.301006
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-29T19:13:33Z",
+ "updated_at": "2026-10-29T20:41:02Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1547,6 +1552,36 @@
     "warns": 0,
     "sec": 51.3,
     "attempts": 2
+   },
+   {
+    "id": "383649",
+    "ts": "2026-10-29T20:37:17Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 47.2,
+    "attempts": 1
+   },
+   {
+    "id": "383653",
+    "ts": "2026-10-29T20:38:08Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 3,
+    "sec": 50.3,
+    "attempts": 2
+   },
+   {
+    "id": "383653",
+    "ts": "2026-10-29T20:41:02Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 173.8,
+    "attempts": 1
    }
   ]
  }

@@ -1,8 +1,37 @@
 {
- "generated": "2026-10-29T19:55:40Z",
+ "generated": "2026-10-29T20:41:02Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383649,
+   "slug": "forced-world-refreshes-will-be-significantly-reduced-for-wow-forever",
+   "title_fa": "کاهش چشمگیر رفرش‌های اجباری لایه‌ها در WoW: Forever",
+   "lead_fa": "در WoW: Forever هنگام لانچ، جوین کردن گروه دیگر به‌صورت خودکار بازی‌کننده را فاز نمی‌کند و رفرش‌های اجباری لایه به مراتب کمتر رخ خواهد داد.",
+   "body_fa": [
+    "فرانک ویلیامز، مهندس ارشد نرم‌افزار، در قسمت ششم پادکست WoW: Forever درباره فناوری جدید layering صحبت کرد. چون در این نسخه دیگر Realm وجود ندارد، سیستم به‌گونه‌ای طراحی شده که بازیکنان را در بخشی از جهان قرار می‌دهد که فکر می‌کند جامعه آن‌ها آنجا حضور دارد؛ چه بازیکنانی که ممکن است بشناسید یا گیلدهای متحد و دشمن.",
+    "هدف اصلی ایجاد ثبات و تعامل‌های تکراری است تا هنگام لولینگ افراد یکسان را ببینید و احتمال تشکیل گروه برای دانجن یا جوین گیلد بیشتر شود.",
+    "در بتا بسیاری از بازیکنان متوجه پاپ‌آپ جدیدی شدند که هنگام زمان‌بندی لایه شدن نمایش داده می‌شد. در ابتدای بتا این اتفاق بسیار زیاد رخ می‌داد چون الگوریتم‌ها بیش از حد تهاجمی عمل می‌کردند و تلاش می‌کردند همه را با جامعه‌شان هم‌گروه کنند.",
+    "با گذشت زمان و تنظیمات انجام‌شده، تعداد جابه‌جایی‌ها به شکل محسوسی کاهش یافت. پس از دو هفته اول و فاین‌تیونینگ، تیم متوجه شد سیستم بدون نیاز به اجبار جامعه را حفظ می‌کند.",
+    "در لانچ فلسفه پاپ‌آپ تغییر می‌کند: به‌طور کلی بازیکنان جابه‌جا نخواهند شد و این اعلان در ظرفیت محدودتر و با لحن دوستانه‌تری ظاهر می‌شود. وقتی گروهی جوین می‌کنید، فقط پاپ‌آپ نمایش داده می‌شود و انتقال خودکار انجام نمی‌گیرد.",
+    "این تغییر به‌ویژه برای حالت Hardcore اهمیت دارد تا بازیکنان در میانه مبارزه یا داخل غار به‌طور ناگهانی به نقطه‌ای منتقل نشوند که Elite در کنارشان باشد. بازیکنان حالا یک بازه زمانی برای تصمیم‌گیری درباره تغییر لایه خواهند داشت.",
+    "در مقابل بتا و نسخه Retail که جوین گروه باعث فاز شدن خودکار می‌شود، در WoW: Forever این اتفاق رخ نمی‌دهد و انتخاب با خود بازی‌کننده است. سیستم جدید لایه‌بندی انتظار می‌رود تعامل‌های تکراری با بازیکنان و گیلدها را افزایش دهد و تجربه‌ای شبیه جریان Classic ارائه کند."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "Layering",
+    "پادکست",
+    "لانچ"
+   ],
+   "items": [],
+   "title_en": "Forced World Refreshes Will Be Significantly Reduced for WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383649",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383649-forced-world-refreshes-will-be-significantly-reduced-for-wow-forever.html",
+   "published_at": "2026-10-29T20:37:17Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383640,
    "slug": "wow-forever-is-aiming-for-a-4-month-patch-cadence",
@@ -1255,45 +1284,9 @@
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
-  },
-  {
-   "id": 383524,
-   "slug": "get-30-off-game-services-and-up-to-50-off-transmogs-toys-and-bundles-o",
-   "title_fa": "تخفیف ۳۰ درصدی خدمات و تا ۵۰ درصدی ترنسماگ، توی و باندل در فروشگاه Battle.net",
-   "lead_fa": "فروش جدیدی در فروشگاه Battle.net آغاز شده و بازیکنان می‌توانند ۳۰٪ تخفیف روی خدمات بازی و تا ۵۰٪ تخفیف روی ترنسماگ، توی و باندل‌های منتخب دریافت کنند.",
-   "body_fa": [
-    "در این فروش World of Warcraft Midnight با قیمت ۲۴.۹۹ دلار (۵۰٪ تخفیف) عرضه می‌شود.",
-    "باندل Wings and Wisdom Pack با قیمت ۱۷.۵۰ دلار (۵۰٪ تخفیف) و Mighty Kodo Pack با قیمت ۱۲.۵۰ دلار (۵۰٪ تخفیف) در دسترس هستند.",
-    "از توی‌ها می‌توان به Sandbox Storm Gryphon با قیمت ۵.۰۰ دلار (۵۰٪ تخفیف)، Deepdweller's Earthen Hearthstone با قیمت ۲.۵۰ دلار (۵۰٪ تخفیف)، Magical Murkmorpher با قیمت ۵.۰۰ دلار (۵۰٪ تخفیف)، Eternal Traveler's Hearthstone با قیمت ۲.۵۰ دلار (۵۰٪ تخفیف)، Timewalker's Hearthstone با قیمت ۲.۵۰ دلار (۵۰٪ تخفیف) و Transmorpher Beacon با قیمت ۵ دلار (۵۰٪ تخفیف) اشاره کرد.",
-    "مجموعه‌های ترنسماگ نیز شامل Cozy Kobold Collection با قیمت ۱۴.۰۰ دلار (۳۰٪ تخفیف)، Ensemble: Lana'thel's Crimson Couture با قیمت ۱۴.۰۰ دلار (۳۰٪ تخفیف)، Ensemble: Stormrider's Attire با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Heavenly Regalia Pack با قیمت ۱۵.۰۰ دلار (۴۰٪ تخفیف)، Ensemble: Green Snugglefin Murloc Romper با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف) و Dreadlord's Regalia Pack با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف) هستند.",
-    "دیگر اقلام ترنسماگ عبارتند از Diadem of the Spell-Keeper با قیمت ۴.۰۰ دلار (۵۰٪ تخفیف)، Collection: Wings of Awakening با قیمت ۷.۵۰ دلار (۵۰٪ تخفیف)، Ensemble: Waveborne Diplomat's Regalia با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Ensemble: Fireplume Regalia با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Ensemble: Sprite Darter's Wings با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Collection: Baby Murloc Satch-Shells با قیمت ۷.۵۰ دلار (۵۰٪ تخفیف) و Ensemble: Celestial Observer با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف).",
-    "خدمات بازی نیز با تخفیف عرضه می‌شوند: Enhanced Level 80 Character Boosts با ۳۳٪ تخفیف، Character Transfers با ۳۰٪ تخفیف، Faction Changes با ۳۰٪ تخفیف، Race Changes با ۳۰٪ تخفیف و Name Changes با ۳۰٪ تخفیف.",
-    "این فروش هم‌اکنون فعال است و علاقه‌مندان می‌توانند اقلام مورد نظر خود را از فروشگاه Battle.net تهیه کنند."
-   ],
-   "tags_fa": [
-    "فروش Battle.net",
-    "تخفیف WoW",
-    "ترنسماگ",
-    "World of Warcraft Midnight"
-   ],
-   "items": [],
-   "title_en": "Get 30% Off Game Services and Up to 50% Off Transmogs, Toys and Bundles on the Battle.net Shop",
-   "source_url": "https://www.wowhead.com/news=383524",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383524-get-30-off-game-services-and-up-to-50-off-transmogs-toys-and-bundles-o.html",
-   "published_at": "2026-10-25T22:37:34Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
   }
  ],
  "queue": [
-  {
-   "id": 383649,
-   "title_en": "Forced World Refreshes Will Be Significantly Reduced for WoW: Forever",
-   "url": "https://www.wowhead.com/news=383649",
-   "category": "Forever",
-   "published_at": "2026-10-29T19:44:00Z"
-  },
   {
    "id": 383653,
    "title_en": "Return to Azeroth Recap for World of Warcraft: Forever",
