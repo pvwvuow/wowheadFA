@@ -126,10 +126,15 @@
    "reason": "عددِ بدون منبع در مقاله: 92 | عددِ بدون منبع در مقاله: 305 | عددِ بدون منبع در مقاله: 113 | fallback هم رد شد: writer error: Remote end closed connection without response",
    "at": "2026-10-29T14:31:29Z",
    "at_ts": 1793284289.650878
+  },
+  "383635": {
+   "reason": "G5 English token not in source: explorable | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+   "at": "2026-10-29T15:38:40Z",
+   "at_ts": 1793288320.138897
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-29T14:36:02Z",
+ "updated_at": "2026-10-29T15:39:28Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1471,6 +1476,26 @@
     "blocks": 0,
     "warns": 0,
     "sec": 272.4,
+    "attempts": 1
+   },
+   {
+    "id": "383635",
+    "ts": "2026-10-29T15:38:40Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 71.7,
+    "attempts": 2
+   },
+   {
+    "id": "383635",
+    "ts": "2026-10-29T15:39:28Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 48.2,
     "attempts": 1
    }
   ]
