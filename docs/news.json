@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T22:10:13Z",
+ "generated": "2026-10-29T14:09:48Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1289,6 +1289,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383634,
+   "title_en": "After 2 Weeks, Over 200k Players Have Defeated Tier 11 Kindo'jan Solo",
+   "url": "https://www.wowhead.com/news=383634",
+   "category": "Live",
+   "published_at": "2026-10-29T14:00:00Z"
+  },
   {
    "id": 383632,
    "title_en": "New Player’s Starter Guide for World of Warcraft: Forever",
