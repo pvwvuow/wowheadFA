@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T15:39:28Z",
+ "generated": "2026-10-29T16:20:11Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1289,6 +1289,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383640,
+   "title_en": "WoW: Forever is Aiming for a 4-Month Patch Cadence",
+   "url": "https://www.wowhead.com/news=383640",
+   "category": "Forever",
+   "published_at": "2026-10-29T16:00:00Z"
+  },
   {
    "id": 383635,
    "title_en": "Patch Cadence, Future Locations, Respeccing - IGN Interview on WoW: Forever",
