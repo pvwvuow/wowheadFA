@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T22:52:44Z",
+ "generated": "2026-10-29T23:33:33Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1287,6 +1287,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383660,
+   "title_en": "Two New Housing Exterior Customizations Discovered on 12.1.7 PTR",
+   "url": "https://www.wowhead.com/news=383660",
+   "category": "PTR",
+   "published_at": "2026-10-29T23:07:55Z"
+  },
   {
    "id": 383658,
    "title_en": "Talebound Awards Two Pieces of Mythic Venomous Abyss Loot",
