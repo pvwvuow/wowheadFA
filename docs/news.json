@@ -1,8 +1,34 @@
 {
- "generated": "2026-10-29T16:40:41Z",
+ "generated": "2026-10-29T17:03:06Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383640,
+   "slug": "wow-forever-is-aiming-for-a-4-month-patch-cadence",
+   "title_fa": "WoW: Forever با چرخهٔ ۴ ماههٔ پچ پیش می‌رود",
+   "lead_fa": "کریس زیرهات، طراح ارشد بازی، در مصاحبه با IGN اعلام کرد که تیم در حال برنامه‌ریزی برای انتشار پچ‌های WoW: Forever هر ۴ ماه یا ۱۷ هفته یک‌بار است.",
+   "body_fa": [
+    "IGN در مصاحبه‌ای با بلیزارد دربارهٔ cadence پچ‌های WoW: Forever سؤال کرد. کریس زیرهات توضیح داد که در طول Classic آزمایش‌های زیادی روی cadence پچ انجام شده است.",
+    "او اشاره کرد که در SoD پچ‌ها هر هشت تا ده هفته منتشر می‌شد که بیش از حد سریع به نظر می‌رسید. به اعتقاد تیم، cadence مناسب حدوداً یک پچ هر ۴ ماه یا ۱۷ هفته است.",
+    "زیرهات افزود که بین پچ‌های اصلی، محتوایی که به تدریج باز می‌شود نیز در نظر گرفته شده است. بنابراین ممکن است دو یا سه ماه پس از شروع یا حتی یک ماه بعد مواردی آنلاک شود.",
+    "با توجه به تمرکز روی داستان‌های کوچک‌تر و محلی، ۴ ماه زمان توسعهٔ مناسبی به حساب می‌آید. فصل‌های PvP نیز با همین چرخه هماهنگ خواهند بود و ۴ ماه طول می‌کشند.",
+    "پچ‌ها با تمام محتوا در زمان انتشار لانچ نمی‌شوند؛ بلکه موارد مختلف طی ۴ ماه به تدریج آنلاک می‌شوند تا طول عمر بیشتری داشته باشند."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "پچ کدنس",
+    "کریس زیرهات"
+   ],
+   "items": [],
+   "title_en": "WoW: Forever is Aiming for a 4-Month Patch Cadence",
+   "source_url": "https://www.wowhead.com/news=383640",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383640-wow-forever-is-aiming-for-a-4-month-patch-cadence.html",
+   "published_at": "2026-10-29T17:03:06Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383641,
    "slug": "new-class-and-item-tuning-on-wow-forever-hunter-changes",
@@ -1258,34 +1284,6 @@
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
-  },
-  {
-   "id": 383505,
-   "slug": "use-skeleton-keys-to-open-locked-door-in-labyrinths-easy-achievement-f",
-   "title_fa": "استفاده از کلیدهای Skeleton برای باز کردن درهای قفل‌شده در Labyrinthها",
-   "lead_fa": "بازیکنان راهی سریع‌تر برای باز کردن در قفل‌شده Labyrinthها پیدا کرده‌اند که نیازی به جستجوی Keeper of the Key ندارد و فارمینگ دستاورد را بسیار سریع‌تر می‌کند.",
-   "body_fa": [
-    "در هر Labyrinth run، یکی از پنج موقعیت ممکن شامل در قفل‌شده است که با نماد کلید نقره‌ای نشان داده می‌شود. به‌جای پیدا کردن Keeper of the Key که Archaic Amani Key می‌دهد، بازیکنان می‌توانند از مهارت Lockpicking Rogue سطح ۹۰ یا کلید Skeleton ساخته‌شده توسط Blacksmithing استفاده کنند.",
-    "توصیه می‌شود همیشه تعدادی Thalassian Skeleton Key همراه داشته باشید تا نیازی به گشت‌وگذار در Labyrinth برای پیدا کردن Keeper of the Key نباشد.",
-    "اتاق قفل‌شده حاوی Mislaid Treasures برای کسب شهرت و Mislaid Curiosities برای افزایش آمار است.",
-    "با داشتن کلیدهای Skeleton می‌توانید دو دستاورد Labyrinth را به‌راحتی فارم کنید: Lock and Key Master که نیاز به باز کردن ۲۰ Locked Room دارد و A Few More Can't Hurt که با لوت کردن Mislaid Treasures به‌دست می‌آید.",
-    "یکی از Spawnهای در قفل‌شده درست نزدیک ورودی قرار می‌گیرد. کافی است با Labyrinth Tier ۱ وارد شوید، به Spawn سمت راست بروید، در را چک کنید، اگر وجود داشت با Thalassian Skeleton Key باز کنید، اتاق را لوت کنید و خارج شوید.",
-    "اگر در آنجا نبود، فوراً خارج شوید و دوباره امتحان کنید. این روش بسیار سریع است، محدودیت Instance Lockout در ساعت ندارد و به شما اجازه می‌دهد هر دو دستاورد را در زمان کوتاهی بگیرید."
-   ],
-   "tags_fa": [
-    "Labyrinth",
-    "دستاورد",
-    "Skeleton Key",
-    "فارمینگ"
-   ],
-   "items": [],
-   "title_en": "Use Skeleton Keys to Open Locked Door in Labyrinths - Easy Achievement Farming",
-   "source_url": "https://www.wowhead.com/news=383505",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383505-use-skeleton-keys-to-open-locked-door-in-labyrinths-easy-achievement-f.html",
-   "published_at": "2026-10-25T22:15:29Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
   }
  ],
  "queue": [
@@ -1295,13 +1293,6 @@
    "url": "https://www.wowhead.com/news=383648",
    "category": "Forever",
    "published_at": "2026-10-29T16:27:09Z"
-  },
-  {
-   "id": 383640,
-   "title_en": "WoW: Forever is Aiming for a 4-Month Patch Cadence",
-   "url": "https://www.wowhead.com/news=383640",
-   "category": "Forever",
-   "published_at": "2026-10-29T16:00:00Z"
   },
   {
    "id": 383635,

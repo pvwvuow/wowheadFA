@@ -1,6 +1,6 @@
 {
  "day": "2026-10-29",
- "published_today": 0,
+ "published_today": 1,
  "held": {
   "383599": {
    "reason": "عنوان مقاله «هاتفیکس‌های ۲۶ اکتبر برای Labyrinth و کلاس‌ها در پچ ۱۲.۱.۵» و پاراگراف اول «در تاریخ ۲۶ اکتبر ۲۰۲۶» و تگ «۱۲.۱.۵» تاریخ و شماره پچ را ذکر کرده‌اند در حالی که منبع هیچ تاریخی، سالی و شماره پچی ندارد. | جمله «این تغییر از اسپاون چندین chest جلوگیری می‌کند» توضیح علت و  | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
@@ -134,7 +134,7 @@
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-29T15:39:28Z",
+ "updated_at": "2026-10-29T17:03:06Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1497,6 +1497,16 @@
     "warns": 0,
     "sec": 48.2,
     "attempts": 1
+   },
+   {
+    "id": "383640",
+    "ts": "2026-10-29T17:03:06Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 49.8,
+    "attempts": 2
    }
   ]
  }
