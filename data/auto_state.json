@@ -131,10 +131,20 @@
    "reason": "G5 English token not in source: explorable | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
    "at": "2026-10-29T15:38:40Z",
    "at_ts": 1793288320.138897
+  },
+  "383651": {
+   "reason": "عددِ بدون منبع در مقاله: 12 | عددِ بدون منبع در مقاله: 1 | عددِ بدون منبع در مقاله: 7 | fallback هم رد شد: writer error: The read operation timed out",
+   "at": "2026-10-29T19:07:41Z",
+   "at_ts": 1793300861.316452
+  },
+  "383650": {
+   "reason": "G5 English token not in source: izzard",
+   "at": "2026-10-29T19:13:33Z",
+   "at_ts": 1793301213.070638
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-29T17:03:06Z",
+ "updated_at": "2026-10-29T19:13:33Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1506,6 +1516,36 @@
     "blocks": 0,
     "warns": 0,
     "sec": 49.8,
+    "attempts": 2
+   },
+   {
+    "id": "383651",
+    "ts": "2026-10-29T19:07:41Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 0,
+    "sec": 54.6,
+    "attempts": 2
+   },
+   {
+    "id": "383651",
+    "ts": "2026-10-29T19:12:41Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 300.1,
+    "attempts": 1
+   },
+   {
+    "id": "383650",
+    "ts": "2026-10-29T19:13:33Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 51.3,
     "attempts": 2
    }
   ]
