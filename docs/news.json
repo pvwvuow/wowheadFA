@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T17:03:06Z",
+ "generated": "2026-10-29T18:24:42Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1287,6 +1287,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383650,
+   "title_en": "Blizzard Working on Top Layering Issues in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383650",
+   "category": "Forever",
+   "published_at": "2026-10-29T18:12:11Z"
+  },
   {
    "id": 383648,
    "title_en": "The WoW: Forever Podcast Episode 6 Now Available - Tech and Community Building",
