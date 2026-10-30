@@ -103,6 +103,8 @@ def _variants(t: str) -> set:
     out = {t}
     st = _stem(t)
     out.add(st)
+    if t.endswith("'s") and len(t) > 4:
+        out.add(t[:-2])                    # Archimonde's -> Archimonde
     if t.endswith("ly") and len(t) > 4:
         out.add(t[:-2])                    # retroactively -> retroactive
     if st.endswith("ly") and len(st) > 4:

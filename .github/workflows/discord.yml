@@ -1,0 +1,59 @@
+name: discord-post
+
+# هر خبر تازه‌ای که publish شود، ربات با واترمارک واو‌فارسی به دیسکورد می‌فرستد.
+#
+# تریگرها:
+#   - workflow_run: بلافاصله بعد از هر اجرای fetch-news (خبر تازه → پست فوری)
+#   - schedule هر ۳۰ دقیقه (پشتیبان)
+#   - workflow_dispatch دستی (با input limit)
+#
+# وضعیت «کدام خبرها فرستاده شده» در data/discord_state.json نگه داشته می‌شود
+# و همین workflow آن را commit می‌کند تا خبر تکراری ارسال نشود.
+#
+# Secretهای لازم:
+#   DISCORD_BOT_TOKEN   — توکن ربات (Developer Portal → Bot → Reset Token)
+#   DISCORD_CHANNEL_ID  — اختیاری؛ پیش‌فرض در tools/discord_poster.py ست شده
+#                         (چنل خبر wowfarsi)
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "حداکثر تعداد پست در این اجرا"
+        default: "5"
+        required: false
+  workflow_run:
+    workflows: [fetch-news]
+    types: [completed]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discord-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install pillow requests
+      - name: Post new articles to Discord
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
+        run: python tools/discord_poster.py --limit "${{ github.event.inputs.limit || '5' }}"
+      - name: Commit state
+        run: |
+          git config user.name "wowfarsi-bot"
+          git config user.email "bot@wowfarsi.ir"
+          git add data/discord_state.json
+          git diff --cached --quiet || git commit -m "discord: posted-state update [skip ci]"
+          git push
