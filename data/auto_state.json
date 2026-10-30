@@ -166,10 +166,15 @@
    "reason": "عددِ بدون منبع در مقاله: 12 | عددِ بدون منبع در مقاله: 1 | عددِ بدون منبع در مقاله: 7 | fallback هم رد شد: عددِ بدون منبع در مقاله: 200 | G5 English token not in source: info | G5 English token not",
    "at": "2026-10-30T14:29:43Z",
    "at_ts": 1793370583.633048
+  },
+  "383652": {
+   "reason": "G1 Persian ratio 43% < 55% | G3 long English run: you can still play and group up with us. But what happens is that when... | G3 long English run: the server needs to choose one of our worlds for you to be placed into... | fallback هم رد شد: writer error: Remote end closed connection without response",
+   "at": "2026-10-30T15:36:26Z",
+   "at_ts": 1793374586.764412
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-30T14:32:55Z",
+ "updated_at": "2026-10-30T15:40:58Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1681,6 +1686,26 @@
     "blocks": 4,
     "warns": 0,
     "sec": 191.4,
+    "attempts": 1
+   },
+   {
+    "id": "383652",
+    "ts": "2026-10-30T15:36:26Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 7,
+    "warns": 0,
+    "sec": 61.5,
+    "attempts": 2
+   },
+   {
+    "id": "383652",
+    "ts": "2026-10-30T15:40:58Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 271.5,
     "attempts": 1
    }
   ]
