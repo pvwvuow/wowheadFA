@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T15:40:58Z",
+ "generated": "2026-10-30T17:24:24Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2334,6 +2334,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383664,
+   "title_en": "WoW Weekly Recap - WoW: Forever, Talebound Demo, New Shop Decor Packs",
+   "url": "https://www.wowhead.com/news=383664",
+   "category": "WoW",
+   "published_at": "2026-10-30T17:20:18Z"
+  },
   {
    "id": 383652,
    "title_en": "Blizzard Addresses Day and Night Cycle Issues for Oceanic Players in WoW: Forever",
