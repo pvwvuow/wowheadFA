@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T20:13:02Z",
+ "generated": "2026-10-30T23:40:04Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2334,6 +2334,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383670,
+   "title_en": "Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever",
+   "url": "https://www.wowhead.com/news=383670",
+   "category": "Forever",
+   "published_at": "2026-10-30T23:22:14Z"
+  },
   {
    "id": 383669,
    "title_en": "Over 8 Million Characters Were Created in the WoW: Forever Beta",
