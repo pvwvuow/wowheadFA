@@ -1,6 +1,6 @@
 {
- "day": "2026-10-29",
- "published_today": 2,
+ "day": "2026-10-30",
+ "published_today": 1,
  "held": {
   "383599": {
    "reason": "عنوان مقاله «هاتفیکس‌های ۲۶ اکتبر برای Labyrinth و کلاس‌ها در پچ ۱۲.۱.۵» و پاراگراف اول «در تاریخ ۲۶ اکتبر ۲۰۲۶» و تگ «۱۲.۱.۵» تاریخ و شماره پچ را ذکر کرده‌اند در حالی که منبع هیچ تاریخی، سالی و شماره پچی ندارد. | جمله «این تغییر از اسپاون چندین chest جلوگیری می‌کند» توضیح علت و  | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
@@ -151,10 +151,20 @@
    "reason": "«در ۹ دسامبر سه raid ... در دسترس قرار می‌گیرد» — منبع می‌گوید ۹ دسامبر (December 9) اما هیچ تاریخی برای لانچ WoW: Forever ذکر نکرده و فقط گفته «در کمتر از یک هفته در ۴ نوامبر». | «۹ دانجن جدید پنج‌نفره برای سطوح ۱۳ تا ۶۰ معرفی شده است» — منبع دقیقاً «nine new five-player dungeon | fallback هم رد شد: writer error: Remote end closed connection without response",
    "at": "2026-10-29T22:05:22Z",
    "at_ts": 1793311522.964623
+  },
+  "383659": {
+   "reason": "«چهار Achievement مربوط به The Final Confrontation's Conclusion هر کدام ۱۰ Venomstones ... اهدا می‌کنند» — منبع فقط سه Achievement (Heroic, Mythic, Veteran) برای ۱۰ Venomstone ذکر کرده و چهارمین را جداگانه فهرست کرده است. | «بازیکنان می‌توانند ۲۰ Champion Crests، ۴۰ Hero Crests و | fallback هم رد شد: مقاله ادعا می‌کند «چهار اچیومنت مشخص شده‌اند که هر یک ۱۰ عدد Venomstones ... پاداش می‌دهند",
+   "at": "2026-10-30T01:07:27Z",
+   "at_ts": 1793322447.771402
+  },
+  "383658": {
+   "reason": "G6 CJK characters leaked into Persian prose: 难度, 难度",
+   "at": "2026-10-30T01:10:45Z",
+   "at_ts": 1793322645.673952
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-29T22:09:44Z",
+ "updated_at": "2026-10-30T01:10:45Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1607,6 +1617,46 @@
     "warns": 0,
     "sec": 260.8,
     "attempts": 1
+   },
+   {
+    "id": "383659",
+    "ts": "2026-10-30T01:07:27Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 8,
+    "warns": 0,
+    "sec": 56.7,
+    "attempts": 2
+   },
+   {
+    "id": "383659",
+    "ts": "2026-10-30T01:09:14Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 6,
+    "warns": 2,
+    "sec": 106.9,
+    "attempts": 1
+   },
+   {
+    "id": "383660",
+    "ts": "2026-10-30T01:09:57Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 43.0,
+    "attempts": 1
+   },
+   {
+    "id": "383658",
+    "ts": "2026-10-30T01:10:45Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 47.7,
+    "attempts": 2
    }
   ]
  }

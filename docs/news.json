@@ -1,8 +1,34 @@
 {
- "generated": "2026-10-30T00:19:13Z",
+ "generated": "2026-10-30T01:10:45Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383660,
+   "slug": "two-new-housing-exterior-customizations-discovered-on-12-1-7-ptr",
+   "title_fa": "کشف دو سفارشی‌سازی جدید نما برای خانه‌ها در PTR 12.1.7",
+   "lead_fa": "در آخرین بیلد PTR پچ 12.1.7 دو آیتم برای یادگیری گزینه‌های جدید سفارشی‌سازی نما کشف شده است.",
+   "body_fa": [
+    "این دو آیتم در حال حاضر هیچ منبعی ندارند و ظاهر آن‌ها رمزنگاری شده است، بنابراین نمی‌توانیم ببینیم چگونه به نظر می‌رسند.",
+    "با این حال به نظر می‌رسد این دو نما با دکور cabin cozy که در بیلد قبلی 12.1.7 استخراج شده بود مرتبط باشند.",
+    "آن دکور منبع In-Game shop دارد و بازیکنان به شدت خواستار کسب این سفارشی‌سازی‌های جدید درون بازی هستند.",
+    "امکان دارد Cozy و Icy cabins نیز به یک پک فروشگاه آینده مربوط باشند، اما به همان اندازه محتمل است که از همان فروشندگان محله‌ای که Autumnal Westfall Barn Facade Plans و Springtime Westfall Barn Facade Plans را عرضه می‌کنند در دسترس قرار بگیرند."
+   ],
+   "tags_fa": [
+    "12.1.7",
+    "PTR",
+    "Housing",
+    "Customizations"
+   ],
+   "items": [],
+   "title_en": "Two New Housing Exterior Customizations Discovered on 12.1.7 PTR",
+   "source_url": "https://www.wowhead.com/news=383660",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383660-two-new-housing-exterior-customizations-discovered-on-12-1-7-ptr.html",
+   "published_at": "2026-10-30T01:09:57Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
   {
    "id": 383649,
    "slug": "forced-world-refreshes-will-be-significantly-reduced-for-wow-forever",
@@ -1256,34 +1282,6 @@
    "model": "gemini-flash-latest",
    "via": "auto-gemini",
    "reviewer": "grok-4.20-0309-non-reasoning"
-  },
-  {
-   "id": 383554,
-   "slug": "world-bosses-legendaries-and-a-scourge-invasion-the-wow-forever-beta-i",
-   "title_fa": "پایان بتای WoW: Forever با باس‌های جهانی، Legendaryها و حمله Scourge",
-   "lead_fa": "در ساعات آخر بتای WoW: Forever، بلیزارد با رویدادهای شاد و آشوب‌آمیز در سراسر جهان بازیکنان را بدرقه کرد.",
-   "body_fa": [
-    "بازیکنان ابتدا NPC جدیدی را در مقابل شهرهای اصلی یافتند که اقلام مصرفی ویژه‌ای مانند آتش‌بازی، طوماری برای افزایش سرعت اطرافیان و معجونی که تجربه کسب‌شده را ۲۰۰٪ افزایش می‌داد عرضه می‌کرد.",
-    "علاوه بر این، World Bossهایی در مناطق شروع بازی ظاهر شدند که شامل Azuregos، \"Super\" Hogger، Voracious، Thunderaan و Lord Kazzak بودند.",
-    "شکست این World Bossها Legendaryهای آشنا و قدرتمندی مانند Sulfuras, Hand of Ragnaros و Thunderfury, Blessed Blade of the Windseeker را به بازیکنان می‌داد.",
-    "در کنار این موارد، بازیکنان امکان فارم کامل ست Tier 1 کلاسیک و سلاح‌های Molten Core را از دشمنان موجود در تمام مناطق شروع بازی داشتند.",
-    "اما این‌ها کافی نبود و بلیزارد جعبه‌های آلوده مربوط به رویداد Scourge در Wrath of the Lich King سال ۲۰۰۸ را دوباره منتشر کرد تا plague Scourge را در سراسر Azeroth پخش کند.",
-    "بتای WoW: Forever با موفقیت چشمگیری همراه بود و بازیکنان مشتاقانه منتظر بازگشت به Azeroth در تاریخ November 4th هستند."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "World Boss",
-    "Scourge Invasion",
-    "Legendary"
-   ],
-   "items": [],
-   "title_en": "World Bosses, Legendaries, and a Scourge Invasion - The WoW: Forever Beta is Over",
-   "source_url": "https://www.wowhead.com/news=383554",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383554-world-bosses-legendaries-and-a-scourge-invasion-the-wow-forever-beta-i.html",
-   "published_at": "2026-10-26T05:13:41Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
   }
  ],
  "queue": [
@@ -1293,13 +1291,6 @@
    "url": "https://www.wowhead.com/news=383659",
    "category": "PTR",
    "published_at": "2026-10-29T23:51:03Z"
-  },
-  {
-   "id": 383660,
-   "title_en": "Two New Housing Exterior Customizations Discovered on 12.1.7 PTR",
-   "url": "https://www.wowhead.com/news=383660",
-   "category": "PTR",
-   "published_at": "2026-10-29T23:07:55Z"
   },
   {
    "id": 383658,

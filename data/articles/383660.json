@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383660",
  "title_en": "Two New Housing Exterior Customizations Discovered on 12.1.7 PTR",
  "category": "PTR",
- "published_at": "2026-10-29T23:07:55Z",
+ "published_at": "2026-10-30T01:09:57Z",
  "fetched_at": "2026-10-29T23:33:33Z",
  "source_mode": "full",
  "qa_facts": {
@@ -107,5 +107,26 @@
   ],
   "chars": 819
  },
- "status": "new"
+ "status": "published",
+ "article_fa": {
+  "title_fa": "کشف دو سفارشی‌سازی جدید نما برای خانه‌ها در PTR 12.1.7",
+  "lead_fa": "در آخرین بیلد PTR پچ 12.1.7 دو آیتم برای یادگیری گزینه‌های جدید سفارشی‌سازی نما کشف شده است.",
+  "body_fa": [
+   "این دو آیتم در حال حاضر هیچ منبعی ندارند و ظاهر آن‌ها رمزنگاری شده است، بنابراین نمی‌توانیم ببینیم چگونه به نظر می‌رسند.",
+   "با این حال به نظر می‌رسد این دو نما با دکور cabin cozy که در بیلد قبلی 12.1.7 استخراج شده بود مرتبط باشند.",
+   "آن دکور منبع In-Game shop دارد و بازیکنان به شدت خواستار کسب این سفارشی‌سازی‌های جدید درون بازی هستند.",
+   "امکان دارد Cozy و Icy cabins نیز به یک پک فروشگاه آینده مربوط باشند، اما به همان اندازه محتمل است که از همان فروشندگان محله‌ای که Autumnal Westfall Barn Facade Plans و Springtime Westfall Barn Facade Plans را عرضه می‌کنند در دسترس قرار بگیرند."
+  ],
+  "tags_fa": [
+   "12.1.7",
+   "PTR",
+   "Housing",
+   "Customizations"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-30T01:09:57Z"
+ }
 }
