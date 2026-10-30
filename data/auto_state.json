@@ -171,10 +171,20 @@
    "reason": "G1 Persian ratio 43% < 55% | G3 long English run: you can still play and group up with us. But what happens is that when... | G3 long English run: the server needs to choose one of our worlds for you to be placed into... | fallback هم رد شد: writer error: Remote end closed connection without response",
    "at": "2026-10-30T15:36:26Z",
    "at_ts": 1793374586.764412
+  },
+  "383666": {
+   "reason": "G1 Persian ratio 52% < 55% | G7 body: plain paragraphs must be >=40 chars | fallback هم رد شد: عددِ بدون منبع در مقاله: 200 | G5 English token not in source: quote",
+   "at": "2026-10-30T18:41:37Z",
+   "at_ts": 1793385697.140434
+  },
+  "383664": {
+   "reason": "عددِ بدون منبع در مقاله: 200 | G5 English token not in source: izzard | G5 English token not in source: quote",
+   "at": "2026-10-30T18:44:15Z",
+   "at_ts": 1793385855.513667
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-30T15:40:58Z",
+ "updated_at": "2026-10-30T18:44:15Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1707,6 +1717,36 @@
     "warns": 0,
     "sec": 271.5,
     "attempts": 1
+   },
+   {
+    "id": "383666",
+    "ts": "2026-10-30T18:41:37Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 55.8,
+    "attempts": 2
+   },
+   {
+    "id": "383666",
+    "ts": "2026-10-30T18:43:32Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 114.9,
+    "attempts": 1
+   },
+   {
+    "id": "383664",
+    "ts": "2026-10-30T18:44:15Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 0,
+    "sec": 43.1,
+    "attempts": 2
    }
   ]
  }
