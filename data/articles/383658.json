@@ -20,15 +20,18 @@
    "and",
    "are",
    "as",
+   "awards",
    "be",
    "been",
    "before",
    "begins",
+   "binds",
    "bosses",
    "both",
    "brand",
    "build",
    "but",
+   "by",
    "cache",
    "caches",
    "can",
@@ -36,12 +39,14 @@
    "changes",
    "classes",
    "clearing",
+   "click",
    "coiled",
    "complete",
    "comprehensive",
    "confirmed",
    "confrontation",
    "confronting",
+   "contains",
    "could",
    "current",
    "datamined",
@@ -60,6 +65,7 @@
    "feel",
    "final",
    "follower",
+   "for",
    "from",
    "game",
    "get",
@@ -79,9 +85,11 @@
    "is",
    "it",
    "it's",
+   "item",
    "items",
    "latest",
    "launch",
+   "level",
    "likely",
    "loot",
    "lucky",
@@ -102,12 +110,14 @@
    "on",
    "once",
    "one",
+   "open",
    "opening",
    "or",
    "participating",
    "patch",
    "pieces",
    "players",
+   "posted",
    "power",
    "ptr",
    "raid",
@@ -115,8 +125,10 @@
    "reporting",
    "represent",
    "require",
+   "requires",
    "reward",
    "rewards",
+   "right",
    "rogue-lite",
    "roguelite",
    "see",
@@ -124,6 +136,8 @@
    "seen",
    "since",
    "slayer",
+   "specialization",
+   "squishei",
    "stand-alone",
    "systems",
    "table",
@@ -141,6 +155,7 @@
    "three",
    "to",
    "tomorrow",
+   "tooltip",
    "total",
    "treasures",
    "two",
@@ -150,6 +165,7 @@
    "upgrade",
    "venomous",
    "very",
+   "warband",
    "warlords",
    "we",
    "we'll",
@@ -161,16 +177,44 @@
    "will",
    "witch",
    "without",
-   "worth"
+   "worth",
+   "your"
   ],
-  "chars": 1759
+  "chars": 2010
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383658/1.png",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383658/1.png"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383658/1.png",
+ "article_fa": {
+  "title_fa": "دو آیتم افسانه‌ای از رید Venomous Abyss به عنوان جایزه در Talebound",
+  "lead_fa": "با تکمیف دو دستاورد جدید در Talebound، بازی‌کنندگان می‌توانند دو آیتم افسانه‌ای از رید Mythic Venomous Abyss را دریافت کنند.",
+  "body_fa": [
+   "بازی‌کنندگان با تکمیف دو دستاورد جدید در Talebound، دو آیتم از لوت رید Mythic Venomous Abyss را به عنوان جایزه دریافت خواهند کرد.",
+   {
+    "t": "h",
+    "x": "اطلاعات بیشتر"
+   },
+   "این‌ها پاداش‌های استخراج شده از داده‌ها در بیلد PTR نسخه ۱۲.۱.۷ هستند. ما در حال گزارش پاداش‌های فعلی دستاوردها بر اساس استخراج داده‌ها هستیم و معتقدیم این موضوع شایستهٔ برجسته شدن است. این تغییرات به عنوان پاداش‌ها تأیید نشده‌اند و ممکن است قبل از عرضه تغییر کنند.",
+   "Talebound یک حالت بازی جدید و مستقل است که در نسخه ۱۲.۱.۷ عرضه می‌شود. بازی‌کنندگان در یک ماجراجویی جدید rogue-lite به عنوان یکی از سه کلاس: The Slayer، The Inquisitor یا The Witch شرکت خواهند کرد. شرکت در Talebound به بازی‌کنندگان پاداش‌های زیادی می‌دهد و در آخرین بیلد PTR نسخه ۱۲.۱.۷، ما دستاوردها و پاداش‌های جدید را استخراج کرده‌ایم!",
+   "دو مورد از این دستاوردها Confronting a Mythic Tale و Mythic: The Comprehensive Final Confrontation هستند که به نظر می‌رسد پاداش‌های پایان بازی محسوب می‌شوند. هر دو دستاورد نیاز دارند که بازی‌کنندگان آن‌ها را در سطح دشواری Mythic تکمیل کنند و از آنجایی که این یک بازی Roguelite است، بازی‌کنندگان احتمالاً آپگرید بسیاری از سیستم‌های مختلف خواهند داشت تا توانایی کافی برای مقابله با آن را داشته باشند. این دو دستاورد پاداش بسیار منحصر به فردی دارند: [[item:Cache of Mythic Treasures]].",
+   "این به این معنی است که بازی‌کنندگان می‌توانند لوت رید Mythic Venomous Abyss را بدون ورود به رید Mythic دریافت کنند. ما از زمان Warlords of Draenor و میز مأموریت، چنین کش‌هایی را ندیده‌ایم، جایی که بازی‌کنندگان می‌توانستند یک کش Mythic از مأموریت‌های همراه خود دریافت کنند پس از شکست دادن ۱۵ باس کلیک Heroic.",
+   "هنوز مشخص نیست که این آیتم‌ها می‌توانند آیتم‌های Mythic ۹/۶ از ریدهای Mythic Coiled Altar و Ula'tek را بدهند، اما اگر بتوانند، بسیاری از بازی‌کنندگان امیدوارند که در باز کردن این کش خوششان بیاید. تست Talebound فردا آغاز می‌شود و باید ببینیم که تکمیف سطح دشواری Mythic برای دریافت این پاداش‌ها چقدر دشوار خواهد بود."
+  ],
+  "tags_fa": [
+   "Talebound",
+   "PTR",
+   "Venomous Abyss",
+   "Mythic"
+  ]
+ },
+ "generator": {
+  "model": "GLM",
+  "via": "auto-glm",
+  "written_at": "2026-10-30T13:53:12Z"
+ }
 }

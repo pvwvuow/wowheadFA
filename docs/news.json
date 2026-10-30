@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T13:13:03Z",
+ "generated": "2026-10-30T14:00:11Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -105,6 +105,127 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383660/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383658,
+   "slug": "talebound-awards-two-pieces-of-mythic-venomous-abyss-loot",
+   "title_fa": "دو آیتم افسانه‌ای از رید Venomous Abyss به عنوان جایزه در Talebound",
+   "lead_fa": "با تکمیف دو دستاورد جدید در Talebound، بازی‌کنندگان می‌توانند دو آیتم افسانه‌ای از رید Mythic Venomous Abyss را دریافت کنند.",
+   "body_fa": [
+    "بازی‌کنندگان با تکمیف دو دستاورد جدید در Talebound، دو آیتم از لوت رید Mythic Venomous Abyss را به عنوان جایزه دریافت خواهند کرد.",
+    {
+     "t": "h",
+     "x": "اطلاعات بیشتر"
+    },
+    "این‌ها پاداش‌های استخراج شده از داده‌ها در بیلد PTR نسخه ۱۲.۱.۷ هستند. ما در حال گزارش پاداش‌های فعلی دستاوردها بر اساس استخراج داده‌ها هستیم و معتقدیم این موضوع شایستهٔ برجسته شدن است. این تغییرات به عنوان پاداش‌ها تأیید نشده‌اند و ممکن است قبل از عرضه تغییر کنند.",
+    "Talebound یک حالت بازی جدید و مستقل است که در نسخه ۱۲.۱.۷ عرضه می‌شود. بازی‌کنندگان در یک ماجراجویی جدید rogue-lite به عنوان یکی از سه کلاس: The Slayer، The Inquisitor یا The Witch شرکت خواهند کرد. شرکت در Talebound به بازی‌کنندگان پاداش‌های زیادی می‌دهد و در آخرین بیلد PTR نسخه ۱۲.۱.۷، ما دستاوردها و پاداش‌های جدید را استخراج کرده‌ایم!",
+    "دو مورد از این دستاوردها Confronting a Mythic Tale و Mythic: The Comprehensive Final Confrontation هستند که به نظر می‌رسد پاداش‌های پایان بازی محسوب می‌شوند. هر دو دستاورد نیاز دارند که بازی‌کنندگان آن‌ها را در سطح دشواری Mythic تکمیل کنند و از آنجایی که این یک بازی Roguelite است، بازی‌کنندگان احتمالاً آپگرید بسیاری از سیستم‌های مختلف خواهند داشت تا توانایی کافی برای مقابله با آن را داشته باشند. این دو دستاورد پاداش بسیار منحصر به فردی دارند: [[item:Cache of Mythic Treasures]].",
+    "این به این معنی است که بازی‌کنندگان می‌توانند لوت رید Mythic Venomous Abyss را بدون ورود به رید Mythic دریافت کنند. ما از زمان Warlords of Draenor و میز مأموریت، چنین کش‌هایی را ندیده‌ایم، جایی که بازی‌کنندگان می‌توانستند یک کش Mythic از مأموریت‌های همراه خود دریافت کنند پس از شکست دادن ۱۵ باس کلیک Heroic.",
+    "هنوز مشخص نیست که این آیتم‌ها می‌توانند آیتم‌های Mythic ۹/۶ از ریدهای Mythic Coiled Altar و Ula'tek را بدهند، اما اگر بتوانند، بسیاری از بازی‌کنندگان امیدوارند که در باز کردن این کش خوششان بیاید. تست Talebound فردا آغاز می‌شود و باید ببینیم که تکمیف سطح دشواری Mythic برای دریافت این پاداش‌ها چقدر دشوار خواهد بود."
+   ],
+   "tags_fa": [
+    "Talebound",
+    "PTR",
+    "Venomous Abyss",
+    "Mythic"
+   ],
+   "items": [],
+   "title_en": "Talebound Awards Two Pieces of Mythic Venomous Abyss Loot",
+   "source_url": "https://www.wowhead.com/news=383658",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383658-talebound-awards-two-pieces-of-mythic-venomous-abyss-loot.html",
+   "published_at": "2026-10-29T22:39:33Z",
+   "model": "GLM",
+   "via": "auto-glm",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383658/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383658/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383656,
+   "slug": "everything-you-need-to-know-for-wow-forever-s-global-launch",
+   "title_fa": "لانچ جهانی WoW: Forever در ۴ نوامبر؛ همه‌چیز که باید بدانید",
+   "lead_fa": "Blizzard همه‌چیزهایی را که پیش از لانچ جهانی WoW: Forever در ۴ نوامبر ساعت ۱۵:۰۰ به وقت PDT لازم است بدانید، یک‌جا جمع‌بندی کرده است؛ از مناطق جدید و نژاد Skyborne تا سیستم Legacy و قوانین بازی.",
+   "body_fa": [
+    "کمتر از یک هفته دیگر، در تاریخ ۴ نوامبر ساعت ۱۵:۰۰ به وقت PDT، WoW: Forever به‌صورت جهانی راه‌اندازی می‌شود. Blizzard در یک پست رسمی فهرست کاملی از آنچه باید بدانید داده است: مناطق جدید، نژاد تازهٔ Skyborne، پیش‌تنظیم‌های تجربه، قوانین بازی، سیستم کمپ، سیستم Legacy و برنامهٔ دانژون‌ها و ریدها. داستان بازی پس از رویدادهای Warcraft III Reforged: Forsaken Kingdom و پیش از Molten Core می‌گذرد و سفر ماجراجویان تا سطح ۶۰ ادامه دارد.",
+    {
+     "t": "h",
+     "x": "مناطق جدید و بازآفرینی‌شده"
+    },
+    "WoW: Forever پادشاهی‌های Eastern Kingdoms و Kalimdor را با مناطق جدید و بازآفرینی‌شده گسترش می‌دهد و بیش از ۱۰۰۰ کوئست جدید در مسیر سطح ۱ تا ۶۰ اضافه می‌کند. در Mount Hyjal پیامدهای شکست Archimonde را می‌بینید و از Darkwhisper Gorge می‌گذرید. در Shen'dralas رازی دیرینه میان Mulgore و Desolace به ماجرایی متصل به Shen'dralar، Eldre'Thalas، Dire Maul و قبایل سانتور تبدیل می‌شود. The Riverglades مرز خشنِ رودخانه‌ها و مسیرهای تجاری است با بیش از ۱۵۰ کوئست جدید در بازهٔ میانهٔ سطح ۳۰ تا میانهٔ ۴۰، و Zephras Isle تجربهٔ شروع عنصری سطوح ۱ تا ۱۲ است که زیبایی‌شناسی کلاسیک Warcraft را با معماری الهام‌گرفته از Skywall ترکیب می‌کند.",
+    {
+     "t": "h",
+     "x": "Skyborne و ترکیب‌های جدید نژاد و کلاس"
+    },
+    "Skyborne (همان shen'dorei یا مردمان پنهان) نژاد قابل‌بازی جدید بازی است که سفرش از Zephras Isle شروع می‌شود؛ در لحظهٔ ساخت شخصیت انتخاب می‌کنید Horde باشید یا Alliance. نسخهٔ Horde یعنی Windshapers که Shaman می‌شوند و نسخهٔ Alliance یعنی High-Order Skyborne که Mage می‌شوند. در کنار آن، ترکیب‌های تازه‌ای مثل Orc Mage، Troll Warlock، Undead Paladin، Human Hunter، Gnome Priest و Dwarf Shaman هم در دسترس خواهند بود.",
+    {
+     "t": "h",
+     "x": "انتخاب پیش‌تنظیم تجربه"
+    },
+    {
+     "t": "table",
+     "head": [
+      "پیش‌تنظیم",
+      "تنظیمات شروع"
+     ],
+     "rows": [
+      [
+       "Classic",
+       "مدل‌های Standard Definition؛ علائم و نقاط کوئست خاموش؛ One-bag خاموش؛ Transmog خاموش؛ چرخش دوربین با کیبورد؛ چیدمان کلاسیک رابط کاربری"
+      ],
+      [
+       "Enhanced",
+       "مدل‌های High Definition؛ علائم و نقاط کوئست روشن؛ One-bag روشن؛ Transmog روشن؛ حرکت استریف با کیبورد؛ رابط کاربری متمرکز"
+      ]
+     ]
+    },
+    "اگر مطمئن نیستید کدام را انتخاب کنید، با Enhanced شروع کنید؛ این پیش‌تنظیم فقط یک نقطهٔ شروع است و می‌توانید بعداً زیر Game Menu > Options تنظیماتش را عوض کنید. در ساخت هر شخصیت جدید هم بین مدل‌های HD و SD یکی را برمی‌گزینید؛ این انتخاب فقط ظاهر را تغییر می‌دهد، نه توانایی‌ها و پیشرفت را.",
+    {
+     "t": "h",
+     "x": "انتخاب Ruleset به‌جای رلم"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "Normal: تمرکز روی ماجراجویی و مبارزه با هیولاها؛ جنگ با بازیکنان دیگر فقط در صورت تمایل خودتان.",
+      "PvP: تقریباً همیشه در معرض حملهٔ بازیکنان مخالف هستید.",
+      "Roleplay: قوانین سخت‌گیرانهٔ نام‌گذاری و رفتار برای بازیکنانی که می‌خواهند در نقش یک شخصیت در دنیای فانتزی غرق شوند.",
+      "Roleplay PvP: همان قوانین نقش‌آفرینی، این بار در دنیایی متمرکز بر مبارزهٔ بازیکن در برابر بازیکن."
+     ]
+    },
+    "در WoW: Forever به‌جای انتخاب «رلم درست»، نوع تجربه‌ای را انتخاب می‌کنید که می‌خواهید در آن قدم بگذارید و هر Ruleset یک اکوسیستم بزرگ بازیکن است. برای چالش نهایی، Ruleset Hardcore با مرگی که عواقب ماندگار دارد مدتی بعد از لانچ اضافه می‌شود. نام شخصیت‌ها هم ساختار دونامی تازه‌ای دارد؛ دو بخش نام، یک نام کامل یکتا در سطح منطقه می‌سازند.",
+    {
+     "t": "h",
+     "x": "کمپ اشتراکی و سیستم Legacy"
+    },
+    "سیستم Camping آتشِ پایهٔ حرفهٔ Cooking را به یک کمپ اشتراکی تبدیل می‌کند؛ بازیکنان نزدیک به هم می‌توانند تا سه Camp Feature ساخته‌شده با حرفه به کمپ اضافه کنند و برای بهره‌بردن از باف‌های آن — که با باف‌های کلاسیکِ متناظر ناسازگارند — دست‌کم ۱ دقیقه در کمپ بنشینید یا ساخت بزنید. سیستم Legacy هم یک سیستم پیشرفت افقی همگانی روی حساب است با سه بخش Legacy Challenges، Legacy Perks و Legacy Rewards؛ ساختن آلت شرط بهره‌بردن از آن نیست و همهٔ مزایا روی یک شخصیت هم باز می‌شوند.",
+    "در لانچ ۹ دانژون پنج‌نفرهٔ جدید برای سطوح ۱۳ تا ۶۰ راه می‌افتد و در ۹ دسامبر بازیکنان سطح ۶۰ با سه رید Barrow Deeps، Hyjal Summit و Onyxia's Lair آزمایش می‌شوند. در PvP، نبرد Battle for the Darkspear Islands در سواحل Dustwallow Marsh یک جنگ ۱۵ در برابر ۱۵ میان Darkspear Raiders و Theramore Expeditionary Force است. WoW: Forever در ۴ نوامبر ساعت ۱۵:۰۰ به وقت PDT رسماً جهانی می‌شود."
+   ],
+   "tags_fa": [
+    "WoW: Forever",
+    "لانچ جهانی",
+    "Skyborne",
+    "Legacy System"
+   ],
+   "items": [],
+   "title_en": "Everything You Need to Know for WoW: Forever's Global Launch",
+   "source_url": "https://www.wowhead.com/news=383656",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383656-everything-you-need-to-know-for-wow-forever-s-global-launch.html",
+   "published_at": "2026-10-29T21:09:39Z",
+   "model": "GLM",
+   "via": "auto-glm",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383656/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383656/1.jpg",
      "cap": ""
     }
    ]
@@ -2213,20 +2334,6 @@
   }
  ],
  "queue": [
-  {
-   "id": 383658,
-   "title_en": "Talebound Awards Two Pieces of Mythic Venomous Abyss Loot",
-   "url": "https://www.wowhead.com/news=383658",
-   "category": "PTR",
-   "published_at": "2026-10-29T22:39:33Z"
-  },
-  {
-   "id": 383656,
-   "title_en": "Everything You Need to Know for WoW: Forever's Global Launch",
-   "url": "https://www.wowhead.com/news=383656",
-   "category": "Forever",
-   "published_at": "2026-10-29T21:09:39Z"
-  },
   {
    "id": 383653,
    "title_en": "Return to Azeroth Recap for World of Warcraft: Forever",
