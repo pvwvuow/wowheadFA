@@ -18,8 +18,10 @@ Gates (all fail -> exit 1, issue list printed):
                            script artifacts (Chinese/Japanese/Korean
                            glyphs leaked into Persian prose)
   G7  shape                title 15..110 chars, lead 20..400 chars,
-                           body 2..8 paragraphs each >=40 chars,
-                           tags 0..5, source_url is a wowhead news link
+                           body 2..14 v2 blocks (plain paragraphs >=40
+                           chars), tags 0..5, wowhead news source_url
+  G9  v2 blocks            body_fa dict blocks are well-formed (types,
+                           required fields; see config/prompt.md v2)
   G8  not near-copy        self-duplication between lead and body
                            sentences
 
@@ -116,6 +118,86 @@ def _variants(t: str) -> set:
     return out
 
 
+# ---- v2 body blocks (see config/prompt.md): strings are paragraphs,
+# dicts are structured blocks. QA gates run on the flattened text. ----
+KNOWN_T = {"p", "h", "ul", "ol", "quote", "note", "table", "img", "item"}
+MARKER = re.compile(r"\[\[item:([^\]|]+?)(?:\|([^\]]+))?\]\]")
+
+
+def block_texts(x):
+    """yield every plain-text piece of a body_fa entry (str or dict block)"""
+    if isinstance(x, str):
+        yield x
+    elif isinstance(x, dict):
+        t = x.get("t")
+        if t in ("p", "h", "quote", "note") and isinstance(x.get("x"), str):
+            yield x["x"]
+        if t in ("ul", "ol") and isinstance(x.get("xs"), list):
+            for i in x["xs"]:
+                if isinstance(i, str):
+                    yield i
+        if t == "table":
+            for h in x.get("head") or []:
+                if isinstance(h, str):
+                    yield h
+            for r in x.get("rows") or []:
+                if isinstance(r, list):
+                    for c in r:
+                        if isinstance(c, str):
+                            yield c
+
+
+def block_issues(body):
+    """G9: shape validation of v2 blocks (empty list = ok)"""
+    iss = []
+    for n, b in enumerate(body):
+        if isinstance(b, str):
+            continue
+        if not isinstance(b, dict):
+            iss.append(f"G9 block {n + 1} is not a string or object")
+            continue
+        t = str(b.get("t") or "").lower()
+        if t not in KNOWN_T:
+            iss.append(f"G9 block {n + 1}: unknown type {t!r}")
+            continue
+        if t in ("p", "h", "quote", "note"):
+            if not str(b.get("x") or "").strip():
+                iss.append(f"G9 block {n + 1}: {t} needs non-empty x")
+            if t == "note" and str(b.get("kind") or "tip") not in ("tip", "warn", "info"):
+                iss.append(f"G9 block {n + 1}: note kind must be tip|warn|info")
+        elif t in ("ul", "ol"):
+            xs = b.get("xs")
+            if not (isinstance(xs, list) and len(xs) >= 2):
+                iss.append(f"G9 block {n + 1}: {t} needs xs list (2+)")
+        elif t == "table":
+            if not (isinstance(b.get("head"), list) and isinstance(b.get("rows"), list)
+                    and b["head"] and b["rows"]):
+                iss.append(f"G9 block {n + 1}: table needs head + rows")
+        elif t == "img":
+            if not re.match(r"^https://", str(b.get("src") or "")):
+                iss.append(f"G9 block {n + 1}: img src must be https")
+        elif t == "item":
+            ids = b.get("ids") or ([b.get("id")] if b.get("id") is not None else [])
+            if not ids and not str(b.get("name") or "").strip():
+                iss.append(f"G9 block {n + 1}: item needs id/ids/name")
+    return iss
+
+
+def strip_markers(text):
+    """[[item:Name|label]] -> label (for punctuation/markup gates)"""
+    return MARKER.sub(lambda m: (m.group(2) or m.group(1)).strip(), text)
+
+
+def flat_body_text(body):
+    """all body text; markers flattened so G4/G5 still see the names"""
+    out = []
+    for b in body:
+        for t in block_texts(b):
+            out.append(MARKER.sub(lambda m: " ".join(
+                filter(None, (m.group(1).strip(), (m.group(2) or "").strip()))), t))
+    return "\n".join(out)
+
+
 def card_texts(art: dict) -> str:
     """Plain text of the structured item-card blocks (items[]), if any."""
     try:
@@ -131,12 +213,20 @@ def check(path: str) -> list:
     a = art.get("article_fa") or {}
     title = a.get("title_fa", "").strip()
     lead = a.get("lead_fa", "").strip()
-    body = [b.strip() for b in a.get("body_fa", []) if b.strip()]
+    body = a.get("body_fa", [])
+    if isinstance(body, str):
+        body = [b for b in re.split(r"\n\s*\n", body) if b.strip()]
+    # v2: strings are paragraphs; dicts are structured blocks. Plain-string
+    # paragraphs (plus quote/note text) feed the prose-shape gates (G7/G8).
+    paras = [b.strip() for b in body if isinstance(b, str) and b.strip()]
+    paras += [str(b.get("x")).strip() for b in body
+              if isinstance(b, dict) and b.get("t") in ("quote", "note")
+              and str(b.get("x") or "").strip()]
     tags = a.get("tags_fa", [])
     # item-card blocks are deterministic code-rendered facts; their text
     # participates in G1..G6 but not in the prose-shape gates (G7/G8).
     items_txt = card_texts(art)
-    whole = "\n".join([title, lead] + body
+    whole = "\n".join([title, lead, flat_body_text(body)]
                       + ([items_txt] if items_txt else []))
     src = art.get("source_text", "")
     facts = art.get("qa_facts") or {}
@@ -209,7 +299,8 @@ def check(path: str) -> list:
         issues.append("G6 double space")
     if re.search(r"\s[،؛:!]", whole):
         issues.append("G6 space before punctuation")
-    if re.search(r"(\*\*|##|\[\]|<\/?[a-z]+>)", whole):
+    # [[item:...]] markers are legal v2 syntax - anything else is an artifact
+    if re.search(r"(\[\[(?!item:)|\*\*|##|<\/?[a-z]+>)", strip_markers(whole)):
         issues.append("G6 markdown/HTML artifact")
     cjk = re.findall(r"[\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af]+", whole)
     if cjk:
@@ -220,18 +311,22 @@ def check(path: str) -> list:
         issues.append(f"G7 title length {len(title)} not in 15..110")
     if not (20 <= len(lead) <= 400):
         issues.append(f"G7 lead length {len(lead)} not in 20..400")
-    if not (2 <= len(body) <= 8) or any(len(b) < 40 for b in body):
-        issues.append("G7 body: need 2..8 paragraphs, each >=40 chars")
+    if not (2 <= len(body) <= 14):
+        issues.append(f"G7 body: need 2..14 blocks (got {len(body)})")
+    elif any(len(b) < 40 for b in paras):
+        issues.append("G7 body: plain paragraphs must be >=40 chars")
     if not (0 <= len(tags) <= 5):
         issues.append("G7 tags count > 5")
     if not re.match(r"https://(www\.)?wowhead\.com/news", art.get("url", "")):
         issues.append("G7 source_url is not a wowhead news link")
+    # G9 (v2 block shape)
+    issues += block_issues(body)
     # G8 lead duplication (dots between digits are NOT sentence ends:
     # "پچ 12.1.7" must not be split into fragments)
     SENT_END = re.compile(r"(?<!\d)\.|[!؟\n]")
     lead_sents = {re.sub(r"\s+", " ", s.lower()) for s in
                   SENT_END.split(lead) if len(s) > 25}
-    body_sents = {re.sub(r"\s+", " ", s.lower()) for b in body for s in
+    body_sents = {re.sub(r"\s+", " ", s.lower()) for b in paras for s in
                   SENT_END.split(b) if len(s) > 25}
     dup = lead_sents & body_sents
     if dup:

@@ -43,8 +43,15 @@ ART = os.path.join(ROOT, "data", "articles")
 PROMPT = os.path.join(ROOT, "config", "prompt.md")
 
 OUTPUT_SPEC = (
-    "Return ONLY this JSON (no fences, no commentary):\n"
-    '{"title_fa": "...", "lead_fa": "...", "body_fa": ["...", "..."],'
+    "Return ONLY this JSON (no fences, no commentary). body_fa is an array of "
+    "plain-string paragraphs AND v2 blocks (see the system prompt): "
+    '{"t":"h","x":"..."} heading, {"t":"ul","xs":[...]} list, '
+    '{"t":"quote","x":"...","by":"..."}, {"t":"note","x":"...","kind":"tip|warn|info"}, '
+    '{"t":"table","head":[...],"rows":[[...]]}, {"t":"item","id":123} for the '
+    "article's main items (id only from the source's own item links), plus "
+    "inline [[item:Exact EN Name]] markers inside any string. Never translate "
+    "item names, never invent ids.\n"
+    '{"title_fa": "...", "lead_fa": "...", "body_fa": ["...", {...]},'
     ' "tags_fa": ["...", "..."]}\n\n'
     "ARTICLE SOURCE TEXT (Wowhead):\n"
 )
@@ -89,6 +96,19 @@ def parse_json_reply(text: str) -> dict:
     if not m:
         raise ValueError("model did not return JSON")
     return json.loads(m.group(0))
+
+
+def norm_blocks(body):
+    """v2 body_fa: keep plain strings and well-formed block dicts, drop junk.
+    (Deep validation is qa_check's G9 job; here we only survive garbage.)"""
+    out = []
+    for b in body or []:
+        if isinstance(b, str) and b.strip():
+            out.append(b.strip())
+        elif isinstance(b, dict) and isinstance(b.get("t"), str) \
+                and b.get("t").strip():
+            out.append(b)
+    return out
 
 
 def write_one(path: str, args) -> int:
@@ -137,11 +157,14 @@ def write_one(path: str, args) -> int:
                                  or os.environ.get("OPENAI_API_KEY", ""),
                                  args.model, system, user)
     out = parse_json_reply(raw)
-    for k in ("title_fa", "lead_fa", "body_fa"):
+    for k in ("title_fa", "lead_fa"):
         if not out.get(k):
             raise ValueError(f"model output missing {k}")
     if isinstance(out.get("body_fa"), str):
         out["body_fa"] = [p for p in out["body_fa"].split("\n") if p.strip()]
+    out["body_fa"] = norm_blocks(out.get("body_fa"))
+    if len(out["body_fa"]) < 2:
+        raise ValueError("model output body_fa has <2 usable blocks")
 
     art["article_fa"] = {k: out[k] for k in
                          ("title_fa", "lead_fa", "body_fa", "tags_fa")

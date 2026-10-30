@@ -82,6 +82,68 @@ def clean_str(v, max_len):
     return s[:max_len]
 
 
+# v2 body blocks that may pass through an issue payload untouched
+BLOCK_TS = {"p", "h", "ul", "ol", "quote", "note", "table", "img", "item"}
+
+
+def clean_block(b, errs, n):
+    """sanitize one v2 block dict; returns dict or None"""
+    t = str(b.get("t") or "").strip().lower()
+    if t not in BLOCK_TS:
+        # unknown type: keep its text as a plain paragraph, never crash
+        return clean_str(next((b.get(k) for k in ("x", "text")
+                               if isinstance(b.get(k), str)), ""), 4000) or None
+    out = {"t": t}
+    if t in ("p", "h", "quote", "note"):
+        x = clean_str(b.get("x"), 4000)
+        if not x:
+            errs.append(f"body_fa block {n}: {t} has empty x")
+            return None
+        out["x"] = x
+        if t == "quote" and b.get("by"):
+            out["by"] = clean_str(b.get("by"), 120)
+        if t == "note":
+            k = str(b.get("kind") or "tip").lower()
+            out["kind"] = k if k in ("tip", "warn", "info") else "tip"
+    elif t in ("ul", "ol"):
+        xs = b.get("xs") if isinstance(b.get("xs"), list) else []
+        xs = [clean_str(x, 600) for x in xs if clean_str(x, 600)][:10]
+        if len(xs) < 2:
+            errs.append(f"body_fa block {n}: {t} needs 2+ xs")
+            return None
+        out["xs"] = xs
+    elif t == "table":
+        head = [clean_str(x, 120) for x in (b.get("head") or []) if clean_str(x, 120)][:6]
+        rows = [[clean_str(c, 240) for c in r[:6]]
+                for r in (b.get("rows") or [])[:12] if isinstance(r, list)]
+        rows = [r for r in rows if any(r)]
+        if not head or not rows:
+            errs.append(f"body_fa block {n}: table needs head + rows")
+            return None
+        out["head"], out["rows"] = head, rows
+    elif t == "img":
+        src = str(b.get("src") or "").strip()
+        if not re.match(r"^https://[\w.-]+/", src):
+            errs.append(f"body_fa block {n}: img src must be an https URL")
+            return None
+        out["src"] = src[:500]
+        if b.get("cap"):
+            out["cap"] = clean_str(b.get("cap"), 200)
+    elif t == "item":
+        ids = b.get("ids") if isinstance(b.get("ids"), list) else \
+            ([b.get("id")] if b.get("id") is not None else [])
+        ids = [int(x) for x in ids if str(x).strip().isdigit()][:4]
+        nm = clean_str(b.get("name"), 200) if not ids else ""
+        if ids:
+            out["ids"] = ids
+        elif nm:
+            out["name"] = nm
+        else:
+            errs.append(f"body_fa block {n}: item needs id/ids/name")
+            return None
+    return out
+
+
 def sanitize_payload(p):
     """Validate/normalize payload fields; returns (data, [errors])."""
     errs = []
@@ -96,9 +158,20 @@ def sanitize_payload(p):
     body = p.get("body_fa") or []
     if isinstance(body, str):
         body = [b for b in re.split(r"\n\s*\n", body) if b.strip()]
-    body = [clean_str(b, 4000) for b in body if clean_str(b, 4000)]
-    if not (2 <= len(body) <= 8):
-        errs.append(f"body_fa must have 2..8 paragraphs (got {len(body)})")
+    # v2: strings are paragraphs; dicts are structured blocks (kept intact)
+    v2 = []
+    for n, b in enumerate(body):
+        if isinstance(b, str):
+            c = clean_str(b, 4000)
+            if c:
+                v2.append(c)
+        elif isinstance(b, dict):
+            cb = clean_block(b, errs, n + 1)
+            if cb:
+                v2.append(cb)
+    body = v2
+    if not (2 <= len(body) <= 14):
+        errs.append(f"body_fa must have 2..14 blocks (got {len(body)})")
     tags = p.get("tags_fa") or []
     if isinstance(tags, str):
         tags = [t.strip() for t in tags.split(",") if t.strip()]

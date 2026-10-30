@@ -102,6 +102,16 @@ main{max-width:52rem;margin:0 auto;padding:1.2rem}
 .tag{background:#21262d;border:1px solid var(--bd);border-radius:99px;padding:0 .6rem;font-size:.78rem;color:var(--ac)}
 article h1{font-size:1.6rem;margin:.2rem 0}
 .lead{color:var(--fg);font-size:1.05rem;border-right:4px solid var(--gold);padding-right:.8rem;margin:1rem 0}
+article h2{font-size:1.25rem;margin:1.4rem 0 .4rem;color:var(--gold)}
+article ul,article ol{padding-inline-start:1.4rem}article li{margin:.3rem 0}
+article blockquote{border-right:3px solid var(--gold);margin:1rem 0;padding:.4rem .9rem;background:var(--bg2);border-radius:0 8px 8px 0}
+article blockquote small{display:block;color:var(--mut);margin-top:.3rem}
+article .note{border:1px solid var(--bd);border-radius:8px;background:var(--bg2);padding:.6rem .9rem;margin:1rem 0;font-size:.95rem}
+article table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.92rem}
+article th,article td{border:1px solid var(--bd);padding:.4rem .7rem;text-align:right}
+article th{background:var(--bg2);color:var(--ac)}
+article figure{margin:1rem 0;text-align:center}article img{max-width:100%;border-radius:8px}
+article figcaption{color:var(--mut);font-size:.82rem;margin-top:.4rem}
 .srcbox{background:#1c1e26;border:1px solid var(--bd);border-radius:8px;padding:.7rem 1rem;margin:1.4rem 0 .4rem;font-size:.9rem;color:var(--mut)}
 footer.site{border-top:1px solid var(--bd);color:var(--mut);font-size:.82rem;padding:1.2rem;text-align:center;line-height:1.9}
 .badge{background:#6e40c9;color:#fff;border-radius:6px;padding:.05rem .5rem;font-size:.75rem}
@@ -118,6 +128,71 @@ footer.site{border-top:1px solid var(--bd);color:var(--mut);font-size:.82rem;pad
 
 
 def esc(s): return html.escape(s, quote=True)
+
+
+# v2 body blocks (mirror of wow-repo tools/news_blocks.py - minimal renderer)
+BLOCK_TS = {"p", "h", "ul", "ol", "quote", "note", "table", "img", "item"}
+
+
+def _blk_clean(s, cap):
+    return re.sub(r"\s+", " ", str(s if s is not None else "")).strip()[:cap]
+
+
+def render_blocks(body):
+    """v2 blocks -> simple static HTML; plain strings stay paragraphs."""
+    out = []
+    for b in body or []:
+        if isinstance(b, str):
+            if b.strip():
+                out.append(f"<p>{esc(_blk_clean(b, 8000))}</p>")
+            continue
+        if not isinstance(b, dict):
+            continue
+        t = str(b.get("t") or "").lower()
+        if t not in BLOCK_TS:
+            continue
+        if t in ("p", "h", "quote", "note"):
+            x = _blk_clean(b.get("x"), 4000)
+            if not x:
+                continue
+            if t == "p":
+                out.append(f"<p>{esc(x)}</p>")
+            elif t == "h":
+                out.append(f"<h2>{esc(x)}</h2>")
+            elif t == "quote":
+                by = f"<small>\u2014 {esc(_blk_clean(b.get('by'), 120))}</small>" if b.get("by") else ""
+                out.append(f"<blockquote><p>{esc(x)}</p>{by}</blockquote>")
+            elif t == "note":
+                ic = {"tip": "\U0001F4A1", "warn": "\u26A0\uFE0F", "info": "\u2139\uFE0F"}.get(
+                    str(b.get("kind") or "tip"), "\U0001F4A1")
+                out.append(f'<div class="note">{ic} {esc(x)}</div>')
+        elif t in ("ul", "ol"):
+            xs = [_blk_clean(x, 600) for x in (b.get("xs") or []) if _blk_clean(x, 600)]
+            if xs:
+                out.append(f"<{t}>" + "".join(f"<li>{esc(x)}</li>" for x in xs) + f"</{t}>")
+        elif t == "table":
+            head = [_blk_clean(x, 120) for x in (b.get("head") or []) if _blk_clean(x, 120)]
+            rows = [[_blk_clean(c, 240) for c in r[:len(head) or 6]]
+                    for r in (b.get("rows") or [])[:12] if isinstance(r, list)]
+            if head and rows:
+                th = "".join(f"<th>{esc(h)}</th>" for h in head)
+                tr = "".join("<tr>" + "".join(f"<td>{esc(c)}</td>" for c in r) + "</tr>"
+                             for r in rows)
+                out.append(f"<table><thead><tr>{th}</tr></thead><tbody>{tr}</tbody></table>")
+        elif t == "img":
+            src = str(b.get("src") or "")
+            if re.match(r"^https://[\w.-]+/", src):
+                cap = f"<figcaption>{esc(_blk_clean(b.get('cap'), 200))}</figcaption>" if b.get("cap") else ""
+                out.append(f'<figure><img src="{esc(src[:500])}" alt="" '
+                           f'loading="lazy" referrerpolicy="no-referrer">{cap}</figure>')
+        elif t == "item":
+            ids = b.get("ids") or ([b.get("id")] if b.get("id") is not None else [])
+            for iid in ids or [b.get("name")]:
+                out.append(f'<div class="note">\U0001F4E6 \u0622\u06cc\u062a\u0645: '
+                           f'<a href="https://www.wowhead.com/item={esc(iid)}" '
+                           f'target="_blank" rel="noopener">{esc(iid)}</a> '
+                           f'(\u06a9\u0627\u0631\u062a \u06a9\u0627\u0645\u0644 \u062f\u0631 wowfarsi.ir)</div>')
+    return "\n".join(out)
 
 
 def render_items(art):
@@ -184,7 +259,7 @@ def article_page(art):
     a = art["article_fa"]
     slug = f"{art['id']}-{art['slug']}"
     url = f"{BASE}/article/{slug}.html"
-    paras = "\n".join(f"<p>{esc(p)}</p>" for p in a["body_fa"])
+    paras = render_blocks(a["body_fa"])
     items_html = render_items(art)
     tags = " ".join(f'<span class="tag">{esc(t)}</span>' for t in a.get("tags_fa", []))
     gen = art.get("generator", {})
