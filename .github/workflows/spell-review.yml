@@ -1,0 +1,66 @@
+name: spell-review
+
+# Manual-only AI review of the spellbook page (wowfarsi.ir/spellbook.html).
+# Sends the EN→FA pairs of data/spell-review/payload.json to the repo's
+# providers (xAI Grok + Gemini) and asks for per-item verdicts
+# (ok / fix / bad). Publishes and commits NOTHING; output lands only in
+# the Job Summary + artifact spell-review-out/.
+#
+# Same safety pattern as ai-compare.yml: mask_keys first, keys only in
+# env (never URLs/logs), manual dispatch only.
+#
+# Env/secrets: XAI_API_KEY, GEMINI_API_KEY; vars: XAI_MODEL, GEMINI_MODEL.
+
+on:
+  workflow_dispatch:
+    inputs:
+      providers:
+        description: "ارائه‌دهنده‌ها (با کاما): xai,gemini"
+        default: "xai,gemini"
+      classes:
+        description: "فقط این کلاس‌ها (با کاما) — خالی = همه"
+        default: ""
+
+permissions:
+  contents: read
+
+jobs:
+  spell-review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Register key masks
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python tools/mask_keys.py
+      - name: Validate keys + models (light calls only)
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          XAI_MODEL: ${{ vars.XAI_MODEL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: python tools/spell_review.py --check-keys
+      - name: Run review (dry, nothing published)
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          XAI_MODEL: ${{ vars.XAI_MODEL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: |
+          python tools/spell_review.py \
+            --payload data/spell-review/payload.json \
+            --out spell-review-out \
+            --providers "${{ inputs.providers }}" \
+            --classes "${{ inputs.classes }}"
+      - name: Upload report artifact
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: spell-review-out
+          path: spell-review-out/
+          if-no-files-found: warn
