@@ -111,5 +111,12 @@
   "model": "grok-4.20-0309-non-reasoning",
   "via": "auto-grok",
   "written_at": "2026-10-25T16:45:58Z"
- }
+ },
+ "images": [
+  {
+   "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383558/1.jpg",
+   "cap": ""
+  }
+ ],
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383558/1.jpg"
 }

@@ -208,5 +208,73 @@
   ],
   "chars": 3074
  },
- "status": "new"
+ "status": "published",
+ "images": [
+  {
+   "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383659/1.jpg",
+   "cap": ""
+  }
+ ],
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383659/1.jpg",
+ "article_fa": {
+  "title_fa": "پاداش‌های قدرت اندگیم Talebound: وینوم‌استون، کش‌های Mythic و معجون‌های Experience",
+  "lead_fa": "Talebound فقط داستان و پازل نیست؛ با پچ 12.1.7 به منبع جدی قدرت پلیر تبدیل می‌شود — از وینوم‌استون و کش‌های تجهیزات Heroic و Mythic تا معجون‌های Experience، هارت‌استون جدید و کمپسایت اختصاصی.",
+  "body_fa": [
+   "در آخرین بیلد PTR پچ 12.1.7 دستاورد‌های تازه‌ای برای Talebound اضافه شده که پاداش‌شان قدرت پلیر در بازی اصلی Retail است؛ بخشی از این پاداش‌ها قبلاً دیتاماین شده بود و حالا منبعشان رسمی و شفاف شده است.",
+   {
+    "t": "img",
+    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383659/1.jpg",
+    "cap": "پاداش‌های اندگیم Talebound در پچ 12.1.7"
+   },
+   {
+    "t": "h",
+    "x": "خرید از Travelling Raven در Silvermoon City"
+   },
+   "بیشتر این پاداش‌ها از Travelling Raven خریداری می‌شوند؛ رونی که در Silvermoon City ایستاده است. همین که با او صحبت کنید، دستاورد Tapping at the Trader's Door هم نصیبتان می‌شود.",
+   {
+    "t": "h",
+    "x": "وینوم‌استون و کش‌های تجهیزات"
+   },
+   "اگر هنوز وینوم‌استون‌های موردنیاز کاراکترهایتان جمع نشده، چهار دستاورد جداگانه هر کدام ۱۰ وینوم‌استون از [[item:288965]] می‌دهند؛ نسخه‌های Heroic، Mythic و Veteran دستاورد The Final Confrontation's Conclusion.",
+   {
+    "t": "ul",
+    "xs": [
+     "سه دستاورد از Talebound یک [[item:288961]] پاداش می‌دهند.",
+     "هشت دستاورد تجهیزات Venomous Abyss می‌دهند: یک کش Normal، پنج کش Heroic ([[item:288987]]) و دو کش Mythic ([[item:288983]])؛ کش Champion هم [[item:288984]] است.",
+     "بونوس کرست‌ها هم فراموش نشود: ۲۰ Champion Crest از [[item:288979]]، ۴۰ Hero Crest از [[item:288978]] و ۴۰ Myth Crest از [[item:288976]] به دست می‌آید."
+    ]
+   },
+   {
+    "t": "note",
+    "kind": "tip",
+    "x": "چهار دستاورد وینوم‌استون روی چهار داستان مختلف سوارند؛ با تموم‌کردن هر داستان روی یک آلت دیگر، عملاً ۱۰ وینوم‌استون اضافه هر بار جمع می‌کنید."
+   },
+   {
+    "t": "h",
+    "x": "جمع‌کردنی‌ها: هارت‌استون، اسباب‌بازی و کمپسایت"
+   },
+   "در کنار قدرت پلیر، آیتم‌های کلکسیونی هم دارند: هارت‌استون جدید [[item:288912]] با دستاورد The Tale Complete می‌آید و اسباب‌بازی The Fate of Quillgrave پاداش دستاورد The Final Confrontation است؛ به‌علاوه یک Campsite کاملاً جدید. اسباب‌بازی [[item:288899]] هم که قبلاً گزارشش را خوانده‌اید، از همین‌جاست.",
+   {
+    "t": "h",
+    "x": "چهار معجون ۱۰٪ Experience"
+   },
+   "هر وقت پازل‌های یک داستان را کامل حل کنید، یک معجون ۱۰ درصد Experience دو ساعته می‌گیرید. چهار داستان یعنی چهار معجون: [[item:288971]]، [[item:288972]]، [[item:288970]] و [[item:288957]].",
+   {
+    "t": "h",
+    "x": "مواد پروفیشن و پریزم مارل"
+   },
+   "دو دستاورد هم جعبهٔ مواد پروفیشن می‌دهند: [[item:288973]] پاداش The Arcanist's Account Complete و [[item:288974]] پاداش The Outfitter's Story Complete. سه دستاورد دیگر هم [[item:288966]] می‌دهند که جمعاً ۷ عدد می‌شود."
+  ],
+  "tags_fa": [
+   "Talebound",
+   "PTR",
+   "پچ 12.1.7",
+   "Player Power"
+  ]
+ },
+ "generator": {
+  "model": "GLM",
+  "via": "auto-glm",
+  "written_at": "2026-10-30T13:05:00Z"
+ }
 }

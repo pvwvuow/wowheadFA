@@ -1,8 +1,81 @@
 {
- "generated": "2026-10-30T12:52:35Z",
+ "generated": "2026-10-30T13:13:03Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383659,
+   "slug": "talebound-end-game-player-power-rewards-venomstones-bonus-rolls-experi",
+   "title_fa": "پاداش‌های قدرت اندگیم Talebound: وینوم‌استون، کش‌های Mythic و معجون‌های Experience",
+   "lead_fa": "Talebound فقط داستان و پازل نیست؛ با پچ 12.1.7 به منبع جدی قدرت پلیر تبدیل می‌شود — از وینوم‌استون و کش‌های تجهیزات Heroic و Mythic تا معجون‌های Experience، هارت‌استون جدید و کمپسایت اختصاصی.",
+   "body_fa": [
+    "در آخرین بیلد PTR پچ 12.1.7 دستاورد‌های تازه‌ای برای Talebound اضافه شده که پاداش‌شان قدرت پلیر در بازی اصلی Retail است؛ بخشی از این پاداش‌ها قبلاً دیتاماین شده بود و حالا منبعشان رسمی و شفاف شده است.",
+    {
+     "t": "img",
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383659/1.jpg",
+     "cap": "پاداش‌های اندگیم Talebound در پچ 12.1.7"
+    },
+    {
+     "t": "h",
+     "x": "خرید از Travelling Raven در Silvermoon City"
+    },
+    "بیشتر این پاداش‌ها از Travelling Raven خریداری می‌شوند؛ رونی که در Silvermoon City ایستاده است. همین که با او صحبت کنید، دستاورد Tapping at the Trader's Door هم نصیبتان می‌شود.",
+    {
+     "t": "h",
+     "x": "وینوم‌استون و کش‌های تجهیزات"
+    },
+    "اگر هنوز وینوم‌استون‌های موردنیاز کاراکترهایتان جمع نشده، چهار دستاورد جداگانه هر کدام ۱۰ وینوم‌استون از [[item:288965]] می‌دهند؛ نسخه‌های Heroic، Mythic و Veteran دستاورد The Final Confrontation's Conclusion.",
+    {
+     "t": "ul",
+     "xs": [
+      "سه دستاورد از Talebound یک [[item:288961]] پاداش می‌دهند.",
+      "هشت دستاورد تجهیزات Venomous Abyss می‌دهند: یک کش Normal، پنج کش Heroic ([[item:288987]]) و دو کش Mythic ([[item:288983]])؛ کش Champion هم [[item:288984]] است.",
+      "بونوس کرست‌ها هم فراموش نشود: ۲۰ Champion Crest از [[item:288979]]، ۴۰ Hero Crest از [[item:288978]] و ۴۰ Myth Crest از [[item:288976]] به دست می‌آید."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "x": "چهار دستاورد وینوم‌استون روی چهار داستان مختلف سوارند؛ با تموم‌کردن هر داستان روی یک آلت دیگر، عملاً ۱۰ وینوم‌استون اضافه هر بار جمع می‌کنید."
+    },
+    {
+     "t": "h",
+     "x": "جمع‌کردنی‌ها: هارت‌استون، اسباب‌بازی و کمپسایت"
+    },
+    "در کنار قدرت پلیر، آیتم‌های کلکسیونی هم دارند: هارت‌استون جدید [[item:288912]] با دستاورد The Tale Complete می‌آید و اسباب‌بازی The Fate of Quillgrave پاداش دستاورد The Final Confrontation است؛ به‌علاوه یک Campsite کاملاً جدید. اسباب‌بازی [[item:288899]] هم که قبلاً گزارشش را خوانده‌اید، از همین‌جاست.",
+    {
+     "t": "h",
+     "x": "چهار معجون ۱۰٪ Experience"
+    },
+    "هر وقت پازل‌های یک داستان را کامل حل کنید، یک معجون ۱۰ درصد Experience دو ساعته می‌گیرید. چهار داستان یعنی چهار معجون: [[item:288971]]، [[item:288972]]، [[item:288970]] و [[item:288957]].",
+    {
+     "t": "h",
+     "x": "مواد پروفیشن و پریزم مارل"
+    },
+    "دو دستاورد هم جعبهٔ مواد پروفیشن می‌دهند: [[item:288973]] پاداش The Arcanist's Account Complete و [[item:288974]] پاداش The Outfitter's Story Complete. سه دستاورد دیگر هم [[item:288966]] می‌دهند که جمعاً ۷ عدد می‌شود."
+   ],
+   "tags_fa": [
+    "Talebound",
+    "PTR",
+    "پچ 12.1.7",
+    "Player Power"
+   ],
+   "items": [],
+   "title_en": "Talebound End-Game Player Power Rewards - Venomstones, Bonus Rolls, Experience Potions",
+   "source_url": "https://www.wowhead.com/news=383659",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383659-talebound-end-game-player-power-rewards-venomstones-bonus-rolls-experi.html",
+   "published_at": "2026-10-29T23:51:03Z",
+   "model": "GLM",
+   "via": "auto-glm",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383659/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383659/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383660,
    "slug": "two-new-housing-exterior-customizations-discovered-on-12-1-7-ptr",
@@ -27,7 +100,14 @@
    "published_at": "2026-10-29T23:07:55Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383660/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383660/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383649,
@@ -56,7 +136,14 @@
    "published_at": "2026-10-29T19:44:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383649/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383649/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383640,
@@ -82,7 +169,14 @@
    "published_at": "2026-10-29T16:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383640/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383640/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383641,
@@ -111,7 +205,14 @@
    "published_at": "2026-10-28T21:17:17Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383641/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383641/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383637,
@@ -138,7 +239,14 @@
    "published_at": "2026-10-28T19:30:38Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383637/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383637/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383593,
@@ -163,7 +271,14 @@
    "published_at": "2026-10-28T15:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383593/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383593/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383618,
@@ -190,7 +305,14 @@
    "published_at": "2026-10-28T01:30:05Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383618/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383618/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383616,
@@ -217,7 +339,14 @@
    "published_at": "2026-10-27T21:54:48Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383616/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383616/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383614,
@@ -241,7 +370,14 @@
    "published_at": "2026-10-27T21:16:46Z",
    "model": "gemini-flash-latest",
    "via": "auto-gemini",
-   "reviewer": "grok-4.20-0309-non-reasoning"
+   "reviewer": "grok-4.20-0309-non-reasoning",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383614/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383614/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383612,
@@ -267,7 +403,14 @@
    "published_at": "2026-10-27T20:05:03Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383612/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383612/1.png",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383610,
@@ -294,7 +437,14 @@
    "published_at": "2026-10-27T19:08:56Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383610/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383610/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383608,
@@ -322,7 +472,14 @@
    "published_at": "2026-10-27T17:58:59Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383608/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383608/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383605,
@@ -348,7 +505,14 @@
    "published_at": "2026-10-27T17:13:12Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383605/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383605/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383512,
@@ -374,7 +538,14 @@
    "published_at": "2026-10-27T15:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383512/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383512/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383591,
@@ -402,7 +573,14 @@
    "published_at": "2026-10-27T14:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383591/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383591/1.png",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383597,
@@ -432,7 +610,14 @@
    "published_at": "2026-10-26T20:38:14Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383597/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383597/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383595,
@@ -459,7 +644,14 @@
    "published_at": "2026-10-26T19:09:41Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383595/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383595/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383592,
@@ -488,7 +680,14 @@
    "published_at": "2026-10-26T18:01:31Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383592/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383592/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383589,
@@ -514,7 +713,14 @@
    "published_at": "2026-10-26T17:07:09Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383589/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383589/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383565,
@@ -540,7 +746,14 @@
    "published_at": "2026-10-26T14:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383565/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383565/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383571,
@@ -568,7 +781,14 @@
    "published_at": "2026-10-26T13:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383571/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383571/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383516,
@@ -1062,7 +1282,14 @@
    "published_at": "2026-10-25T18:00:00Z",
    "model": "gemini-flash-latest",
    "via": "auto-gemini",
-   "reviewer": "grok-4.20-0309-non-reasoning"
+   "reviewer": "grok-4.20-0309-non-reasoning",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383516/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383516/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383544,
@@ -1134,7 +1361,14 @@
    "published_at": "2026-10-25T08:39:00Z",
    "model": "GLM",
    "via": "auto-demo",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383544/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383544/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383566,
@@ -1175,7 +1409,14 @@
    "published_at": "2026-10-24T18:00:00Z",
    "model": "GLM",
    "via": "auto-demo",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383566/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383566/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383554,
@@ -1203,7 +1444,14 @@
    "published_at": "2026-10-23T20:13:11Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383554/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383554/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383560,
@@ -1231,7 +1479,14 @@
    "published_at": "2026-10-23T17:12:50Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383560/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383560/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383558,
@@ -1257,7 +1512,14 @@
    "published_at": "2026-10-23T17:08:34Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-grok",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383558/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383558/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383557,
@@ -1281,7 +1543,14 @@
    "published_at": "2026-10-23T16:35:49Z",
    "model": "gemini-flash-latest",
    "via": "auto-gemini",
-   "reviewer": "grok-4.20-0309-non-reasoning"
+   "reviewer": "grok-4.20-0309-non-reasoning",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383557/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383557/1.png",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383523,
@@ -1309,7 +1578,14 @@
    "published_at": "2026-10-23T16:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383523/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383523/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383529,
@@ -1335,7 +1611,14 @@
    "published_at": "2026-10-23T15:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383529/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383529/1.png",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383511,
@@ -1361,7 +1644,14 @@
    "published_at": "2026-10-23T14:15:00Z",
    "model": "GLM",
    "via": "",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383511/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383511/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383551,
@@ -1388,7 +1678,14 @@
    "published_at": "2026-10-23T13:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383551/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383551/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383550,
@@ -1412,7 +1709,14 @@
    "published_at": "2026-10-22T23:04:49Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383550/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383550/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383546,
@@ -1437,7 +1741,14 @@
    "published_at": "2026-10-22T20:38:25Z",
    "model": "gemini-flash-latest",
    "via": "auto-gemini",
-   "reviewer": "grok-4.20-0309-non-reasoning"
+   "reviewer": "grok-4.20-0309-non-reasoning",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383546/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383546/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383542,
@@ -1465,7 +1776,14 @@
    "published_at": "2026-10-22T18:54:45Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383542/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383542/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383538,
@@ -1492,7 +1810,14 @@
    "published_at": "2026-10-22T16:09:50Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383538/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383538/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383520,
@@ -1521,7 +1846,14 @@
    "published_at": "2026-10-22T16:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383520/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383520/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383525,
@@ -1550,7 +1882,14 @@
    "published_at": "2026-10-22T15:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383525/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383525/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383528,
@@ -1577,7 +1916,14 @@
    "published_at": "2026-10-22T14:15:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383528/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383528/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383532,
@@ -1601,7 +1947,14 @@
    "published_at": "2026-10-22T01:55:07Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383532/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383532/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383531,
@@ -1631,7 +1984,14 @@
    "published_at": "2026-10-22T01:43:01Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383531/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383531/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383505,
@@ -1659,7 +2019,14 @@
    "published_at": "2026-10-21T20:11:41Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383505/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383505/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383524,
@@ -1688,7 +2055,14 @@
    "published_at": "2026-10-21T18:28:46Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383524/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383524/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383522,
@@ -1717,7 +2091,14 @@
    "published_at": "2026-10-21T17:07:33Z",
    "model": "GLM",
    "via": "",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383522/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383522/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383507,
@@ -1741,7 +2122,14 @@
    "published_at": "2026-10-21T15:00:00Z",
    "model": "GLM",
    "via": "",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383507/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383507/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383517,
@@ -1781,7 +2169,14 @@
    "published_at": "2026-10-21T14:00:00Z",
    "model": "GLM",
    "via": "auto-demo",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383517/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383517/1.jpg",
+     "cap": ""
+    }
+   ]
   },
   {
    "id": 383515,
@@ -1807,17 +2202,17 @@
    "published_at": "2026-10-20T21:02:22Z",
    "model": "GLM",
    "via": "",
-   "reviewer": ""
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383515/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383515/1.jpg",
+     "cap": ""
+    }
+   ]
   }
  ],
  "queue": [
-  {
-   "id": 383659,
-   "title_en": "Talebound End-Game Player Power Rewards - Venomstones, Bonus Rolls, Experience Potions",
-   "url": "https://www.wowhead.com/news=383659",
-   "category": "PTR",
-   "published_at": "2026-10-29T23:51:03Z"
-  },
   {
    "id": 383658,
    "title_en": "Talebound Awards Two Pieces of Mythic Venomous Abyss Loot",

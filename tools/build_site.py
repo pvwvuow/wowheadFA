@@ -31,6 +31,7 @@ ART = os.path.join(ROOT, "data", "articles")
 DOCS = os.path.join(ROOT, "docs")
 SITE_CONF = os.path.join(ROOT, "config", "site.json")
 FONT_SRC = os.path.join(ROOT, "assets", "Vazirmatn.ttf")
+NEWS_IMG = os.path.join(ROOT, "data", "news-img")
 
 CONF = json.load(open(SITE_CONF, encoding="utf-8"))
 BASE = CONF["base_url"].rstrip("/")
@@ -456,6 +457,9 @@ def main():
         shutil.rmtree(DOCS)
     os.makedirs(os.path.join(DOCS, "article"))
     os.makedirs(os.path.join(DOCS, "assets"))
+    if os.path.isdir(NEWS_IMG):
+        shutil.copytree(NEWS_IMG, os.path.join(DOCS, "assets", "news"),
+                        dirs_exist_ok=True)
 
     with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as fh:
         fh.write(index_page(arts))
@@ -585,6 +589,8 @@ def main():
             "model": (art.get("generator") or {}).get("model", ""),
             "via": (art.get("generator") or {}).get("via", ""),
             "reviewer": (art.get("generator") or {}).get("reviewer", ""),
+            "thumb": art.get("thumb", ""),
+            "images": art.get("images", []),
         }
 
     queue = []

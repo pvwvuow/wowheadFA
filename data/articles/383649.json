@@ -262,5 +262,12 @@
   "model": "grok-4.20-0309-non-reasoning",
   "via": "auto-xai",
   "written_at": "2026-10-29T20:37:17Z"
- }
+ },
+ "images": [
+  {
+   "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383649/1.jpg",
+   "cap": ""
+  }
+ ],
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383649/1.jpg"
 }

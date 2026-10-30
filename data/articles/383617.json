@@ -314,5 +314,12 @@
   ],
   "chars": 5016
  },
- "status": "new"
+ "status": "new",
+ "images": [
+  {
+   "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383617/1.jpg",
+   "cap": ""
+  }
+ ],
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383617/1.jpg"
 }

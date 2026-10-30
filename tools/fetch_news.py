@@ -145,7 +145,7 @@ def parse_item(it) -> dict | None:
     except Exception:
         published = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     text = "\n\n".join(paras)
-    return {
+    art = {
         "id": int(m.group(1)),
         "slug": slugify(txt("title")),
         "url": link,
@@ -158,6 +158,12 @@ def parse_item(it) -> dict | None:
         "qa_facts": make_qa_facts(text, txt("title")),
         "status": "new",
     }
+    try:
+        import grab_images
+        grab_images.grab(art)  # self-host article images on our GitHub
+    except Exception:
+        pass
+    return art
 
 
 def url_to_id(url: str):

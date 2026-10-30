@@ -112,5 +112,12 @@
   "via": "auto-gemini",
   "written_at": "2026-10-25T20:01:46Z",
   "reviewer": "grok-4.20-0309-non-reasoning"
- }
+ },
+ "images": [
+  {
+   "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383557/1.png",
+   "cap": ""
+  }
+ ],
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383557/1.png"
 }
