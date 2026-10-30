@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T14:32:55Z",
+ "generated": "2026-10-30T15:14:27Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2334,6 +2334,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383652,
+   "title_en": "Blizzard Addresses Day and Night Cycle Issues for Oceanic Players in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383652",
+   "category": "Forever",
+   "published_at": "2026-10-30T15:00:00Z"
+  },
   {
    "id": 383482,
    "title_en": "Returning to Dornogal - Patch 12.1.7 Campaign Playthrough (Story Spoilers)",
