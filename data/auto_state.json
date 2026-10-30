@@ -161,10 +161,15 @@
    "reason": "G6 CJK characters leaked into Persian prose: 难度, 难度",
    "at": "2026-10-30T01:10:45Z",
    "at_ts": 1793322645.673952
+  },
+  "383482": {
+   "reason": "عددِ بدون منبع در مقاله: 12 | عددِ بدون منبع در مقاله: 1 | عددِ بدون منبع در مقاله: 7 | fallback هم رد شد: عددِ بدون منبع در مقاله: 200 | G5 English token not in source: info | G5 English token not",
+   "at": "2026-10-30T14:29:43Z",
+   "at_ts": 1793370583.633048
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-30T01:10:45Z",
+ "updated_at": "2026-10-30T14:32:55Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1657,6 +1662,26 @@
     "warns": 0,
     "sec": 47.7,
     "attempts": 2
+   },
+   {
+    "id": "383482",
+    "ts": "2026-10-30T14:29:43Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 19,
+    "warns": 0,
+    "sec": 75.5,
+    "attempts": 2
+   },
+   {
+    "id": "383482",
+    "ts": "2026-10-30T14:32:55Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 4,
+    "warns": 0,
+    "sec": 191.4,
+    "attempts": 1
    }
   ]
  }
