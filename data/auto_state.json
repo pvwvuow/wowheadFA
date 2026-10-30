@@ -181,10 +181,15 @@
    "reason": "عددِ بدون منبع در مقاله: 200 | G5 English token not in source: izzard | G5 English token not in source: quote",
    "at": "2026-10-30T18:44:15Z",
    "at_ts": 1793385855.513667
+  },
+  "383669": {
+   "reason": "G5 English token not in source: table | G5 English token not in source: rows | G5 English token not in source: head | fallback هم رد شد: writer error: The read operation timed out",
+   "at": "2026-10-30T20:08:01Z",
+   "at_ts": 1793390881.786073
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-30T18:44:15Z",
+ "updated_at": "2026-10-30T20:13:02Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1747,6 +1752,26 @@
     "warns": 0,
     "sec": 43.1,
     "attempts": 2
+   },
+   {
+    "id": "383669",
+    "ts": "2026-10-30T20:08:01Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 0,
+    "sec": 53.8,
+    "attempts": 2
+   },
+   {
+    "id": "383669",
+    "ts": "2026-10-30T20:13:02Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 300.1,
+    "attempts": 1
    }
   ]
  }
