@@ -4,30 +4,45 @@
  "url": "https://www.wowhead.com/news=383517",
  "title_en": "Kindo'jan Labyrinth Reputation Increased from Delve Bonus Event",
  "category": "Live",
- "published_at": "2026-10-21T14:00:00Z",
+ "published_at": "2026-10-30T12:30:23Z",
  "fetched_at": "2026-10-25T06:28:53Z",
  "source_mode": "full",
  "status": "published",
  "article_fa": {
-  "title_fa": "هفتهٔ بونوس Delves؛ ۲۵ درصد Reputation بیشتر برای Labyrinth of Kindo'jan",
-  "lead_fa": "رویداد بونوس Delves این هفته سه باف هم‌زمان می‌دهد: ۲۵ درصد Reputation بیشتر برای Labyrinth of Kindo'jan، ۲۵ درصد Delver's Journey بیشتر و ۲۵ درصد Undercoin بیشتر.",
+  "title_fa": "هفتهٔ بونوس Delves؛ ۲۵ درصد Reputation بیشتر برای Labyrinth",
+  "lead_fa": "هفتهٔ بونوس این بار Delves است؛ تا یکشنبه ۲۵ درصد Reputation بیشتری از فعالیت‌های Labyrinth می‌گیرید.",
   "body_fa": [
-   "رویداد بونوس Delve یک هفته کامل طول می‌کشد و در این مدت سه پاداش کلیدی را تقویت می‌کند: Reputation در Labyrinth of Kindo'jan، پیشرفت Delver's Journey و درآمد Undercoin؛ هر سه ۲۵ درصد بیشتر از حالت عادی.",
-   "نکتهٔ تازه این است که با پچ 12.1.5 این باف حالا به Reputation خود Labyrinth هم اضافه شده است. یعنی برای کسانی که می‌خواهند رنک‌های جدید قدرت و پاداش‌ها را باز کنند، این هفته بهترین زمان ممکن است.",
-   "در مسیر رنک‌ها هم چیزهای جذابی منتظر شماست: در رنک اول یعنی Ancient Curios، صندوق‌های Bountiful Coffers و Hidden Troves می‌توانند در Tier 8 به بالا Curios رتبهٔ ۵ بدهند. رنک دوم با نام Lock, Key, and Mask یک در قفل‌شده و Keeper of the Key و Elemental Hexmasks را به رازهای Labyrinth اضافه می‌کند.",
-   "رنک سوم هم Akil'zon's Favor است؛ می‌توانید از Akil'zon's Seals عبور کنید و با پیدا کردن Sturdy Chests پاداش‌هایی مثل Akil'zon's Swiftness را بگیرید.",
-   "در رنک‌های بالاتر هم خبرهای خوبی هست: با Ancient Curios رتبهٔ ۸ می‌توانید آپدیت Delve-O-Bot 7001 یعنی Midnight Software Update Chip را از Telemancer Astrandis در Silvermoon City بخرید تا مقصد Labyrinth of Kindo'jan به ربات شما اضافه شود. اگر برنامهٔ فارم دارید، این هفته را از دست ندهید."
+   "هفتهٔ بونوس Delves شروع شده و تا یکشنبه ادامه دارد؛ در این بازه همهٔ فعالیت‌های Labyrinth ۲۵ درصد Reputation بیشتری می‌دهند.",
+   {
+    "t": "h",
+    "x": "برنامهٔ پیشنهادی برای بیشترین بازدهی"
+   },
+   {
+    "t": "ol",
+    "xs": [
+     "کوئست‌های هفتگی Labyrinth را اول بگیرید تا پیشرفت‌ها هم‌زمان شمرده شوند.",
+     "دو Delve روزانه را با Tier بالاتر انجام دهید؛ پاداش Reputation با بونوس ۲۵ درصدی ضرب می‌شود.",
+     "باقی‌ماندهٔ بونوس را قبل از ریست هفتگی یکشنبه مصرف کنید."
+    ]
+   },
+   {
+    "t": "note",
+    "x": "بونوس فقط روی Reputation اعمال می‌شود؛ پاداش غنیمت‌ها تغییری نمی‌کند.",
+    "kind": "info"
+   },
+   "جمع‌بندی: اگر فرکشن‌های Midnight را هدف گرفته‌اید، این هفته بهترین فرصت برای پیشرفت سریع‌تر است."
   ],
   "tags_fa": [
    "Delves",
    "Reputation",
-   "رویداد هفتگی"
+   "هفتهٔ بونوس"
   ]
  },
  "generator": {
   "provider": "z-agent",
   "model": "GLM",
-  "written_at": "2026-10-25T06:40:00Z"
+  "written_at": "2026-10-30T12:30:23Z",
+  "via": "auto-demo"
  },
  "qa_facts": {
   "numbers": [

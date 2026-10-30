@@ -188,6 +188,7 @@ def render_blocks(body):
         elif t == "item":
             ids = b.get("ids") or ([b.get("id")] if b.get("id") is not None else [])
             for iid in ids or [b.get("name")]:
+                iid = str(iid)
                 out.append(f'<div class="note">\U0001F4E6 \u0622\u06cc\u062a\u0645: '
                            f'<a href="https://www.wowhead.com/item={esc(iid)}" '
                            f'target="_blank" rel="noopener">{esc(iid)}</a> '
@@ -503,7 +504,7 @@ def main():
 
     # our RSS
     items = []
-    for art in pub[:30]:
+    for art in pub[:60]:
         a = art["article_fa"]
         slug = f"{art['id']}-{art['slug']}"
         items.append(f"""<item><title>{esc(a['title_fa'])}</title>
@@ -603,7 +604,7 @@ def main():
         "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "base_url": BASE,
         "site": "wowheadFA",
-        "published": [pub_item(a) for a in pub[:30]],
+        "published": [pub_item(a) for a in pub[:60]],
         "queue": queue[:40],
     }
     with open(os.path.join(DOCS, "news.json"), "w", encoding="utf-8") as fh:
