@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T23:33:33Z",
+ "generated": "2026-10-30T00:19:13Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1287,6 +1287,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383659,
+   "title_en": "Talebound End-Game Player Power Rewards - Venomstones, Bonus Rolls, Experience Potions",
+   "url": "https://www.wowhead.com/news=383659",
+   "category": "PTR",
+   "published_at": "2026-10-29T23:51:03Z"
+  },
   {
    "id": 383660,
    "title_en": "Two New Housing Exterior Customizations Discovered on 12.1.7 PTR",
