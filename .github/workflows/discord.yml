@@ -65,4 +65,5 @@ jobs:
           git config user.email "bot@wowfarsi.ir"
           git add data/discord_state.json
           git diff --cached --quiet || git commit -m "discord: posted-state update [skip ci]"
-          git push
+          git pull --no-rebase origin main || true
+          git push || true

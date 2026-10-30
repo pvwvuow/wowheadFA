@@ -206,7 +206,7 @@ def article_link(article):
     return base.format(id=article["id"], slug=article.get("slug", "news"))
 
 
-def build_payload(article, fname=None):
+def build_payload(article, fname=None, image_url=None):
     aid = article["id"]
     title = article.get("title_fa") or article.get("title_en") or f"خبر {aid}"
     lead = (article.get("lead_fa") or "").strip()
@@ -222,7 +222,7 @@ def build_payload(article, fname=None):
 
     embed = {
         "author": {
-            "name": "WoWfarsi.ir | خبرگزاری فارسی ورلد آو وارکرفت",
+            "name": "وو فارسی | WoWfarsi.ir",
             "url": "https://wowfarsi.ir",
             "icon_url": "https://pvwvuow.github.io/wowheadFA/assets/watermark/wf-golden.png",
         },
@@ -235,19 +235,21 @@ def build_payload(article, fname=None):
             {"name": "📅 تاریخ خبر", "value": fa_date(article.get("published_at")) or "—", "inline": True},
         ],
         "footer": {
-            "text": "بازنویسی و ترجمه: واو‌فارسی | منبع: Wowhead",
+            "text": "بازنویسی خبر از Wowhead • وو فارسی",
             "icon_url": "https://pvwvuow.github.io/wowheadFA/assets/watermark/wf-golden.png",
         },
         "timestamp": article.get("published_at") or None,
     }
-    if fname:
+    if image_url:
+        embed["image"] = {"url": image_url}
+    elif fname:
         embed["image"] = {"url": f"attachment://{fname}"}
     embed = {k: v for k, v in embed.items() if v is not None}
 
     components = [{"type": 1, "components": []}]
     if link and link.startswith("http"):
         components[0]["components"].append(
-            {"type": 2, "style": 5, "label": "مشاهده خبر در واو‌فارسی", "url": link})
+            {"type": 2, "style": 5, "label": "مشاهده خبر در وو فارسی", "url": link})
     if src.startswith("http"):
         components[0]["components"].append(
             {"type": 2, "style": 5, "label": "منبع: Wowhead", "url": src})
@@ -258,7 +260,7 @@ def build_payload(article, fname=None):
         "embeds": [embed],
         "attachments": ([{"id": 0, "filename": fname,
                           "description": str(article.get("title_en") or title)[:200]}]
-                        if fname else []),
+                        if (fname and not image_url) else []),
     }
     mention = os.environ.get("DISCORD_MENTION", "").strip()
     if mention:
@@ -266,6 +268,53 @@ def build_payload(article, fname=None):
     if components:
         payload["components"] = components
     return payload
+
+
+# ---------- انتشار تصویر واترمارک‌خورده روی گیت‌هاب خودمان ----------
+PAGES_BASE = "https://pvwvuow.github.io/wowheadFA/assets/news"
+
+
+def publish_images_to_git():
+    """تصاویر واترمارک‌خوردهٔ docs/assets/news را commit+push می‌کند (فقط CI).
+    برمی‌گرداند True اگر push موفق بود."""
+    if not os.path.isdir(os.path.join(ROOT, ".git")):
+        return False
+    import subprocess
+    try:
+        subprocess.run(["git", "config", "user.name", "wowfarsi-bot"], cwd=ROOT, check=True)
+        subprocess.run(["git", "config", "user.email", "bot@wowfarsi.ir"], cwd=ROOT, check=True)
+        subprocess.run(["git", "add", "docs/assets/news"], cwd=ROOT, check=True)
+        if subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=ROOT).returncode == 0:
+            return True                                   # چیزی تازه نیست
+        subprocess.run(["git", "commit", "-m",
+                        "discord: watermarked images [skip ci]"], cwd=ROOT, check=True)
+        for attempt in range(3):
+            subprocess.run(["git", "pull", "--no-rebase", "origin", "main"], cwd=ROOT,
+                           check=False, capture_output=True)
+            p = subprocess.run(["git", "push", "origin", "main"], cwd=ROOT,
+                               capture_output=True)
+            if p.returncode == 0:
+                return True
+            time.sleep(4)
+        return False
+    except Exception as e:
+        print(f"   !! انتشار تصاویر روی گیت‌هاب ناموفق: {e}")
+        return False
+
+
+def wait_url_ready(url, timeout_s=150, step=12):
+    """منتظر 200 شدن URL تصویر (تاخیر دیپلوی Pages) — تا سقف timeout_s."""
+    deadline = time.time() + timeout_s
+    while time.time() < deadline:
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=20) as r:
+                if r.status == 200:
+                    return True
+        except Exception:
+            pass
+        time.sleep(step)
+    return False
 
 
 # ---------- ارسال ----------
@@ -341,36 +390,72 @@ def main():
         return 0
 
     sent = 0
+    published_any = False
+    wm_files = []
+    variants = {}
     for a in targets:
         aid = a["id"]
         fname = f"{aid}-wm.jpg"
         img_path = None
-        variant = None
         try:
             src = source_image(a)
             if src:
                 img_path = os.path.join(tempfile.gettempdir(), f"wf-{fname}")
                 variant, img_path = watermark_image(src, img_path, wm_dir)
+                variants[aid] = variant
                 if args.dry_run:
                     pv = os.path.join(ROOT, "data", "discord-preview")
                     os.makedirs(pv, exist_ok=True)
                     import shutil
                     shutil.copyfile(img_path, os.path.join(pv, fname))
                     print(f"   preview → {pv}/{fname} (variant={variant})")
+                else:
+                    # نسخهٔ دائمی برای سرو از GitHub Pages خودمان
+                    docs_dir = os.path.join(ROOT, "docs", "assets", "news", str(aid))
+                    os.makedirs(docs_dir, exist_ok=True)
+                    import shutil
+                    shutil.copyfile(img_path, os.path.join(docs_dir, "wm.jpg"))
+                    wm_files.append(str(aid))
         except Exception as e:
             print(f"   !! تصویر خبر {aid} ناموفق ({e}) — بدون تصویر ارسال می‌شود")
             img_path = None
 
-        payload = build_payload(a, fname=fname if img_path else None)
+    # اگر تصویر تازه‌ای ساخته شد، اول روی گیت‌هاب خودمان ببرش تا embed لینک مستقیم داشته باشد
+    use_pages = False
+    if wm_files and not args.dry_run:
+        use_pages = publish_images_to_git()
+        if use_pages:
+            print(f"images published to git: {', '.join(wm_files)}")
+        else:
+            print("!! انتشار تصویر روی Pages ناموفق → fallback به پیوست دیسکورد")
+
+    for a in targets:
+        aid = a["id"]
+        fname = f"{aid}-wm.jpg"
+        img_path = os.path.join(tempfile.gettempdir(), f"wf-{fname}")
+        if not os.path.exists(img_path):
+            img_path = None
+        image_url = None
+        if use_pages and os.path.exists(os.path.join(ROOT, "docs", "assets", "news",
+                                                     str(aid), "wm.jpg")):
+            image_url = f"{PAGES_BASE}/{aid}/wm.jpg"
+            if not wait_url_ready(image_url):
+                print(f"   !! URL تصویر {aid} آماده نشد → fallback به پیوست")
+                image_url = None
+
+        payload = build_payload(a, fname=fname if img_path else None, image_url=image_url)
         if args.dry_run:
             print(f"– [{aid}] {a.get('title_fa', '')[:60]}")
             print(json.dumps(payload, ensure_ascii=False, indent=1)[:1200])
             continue
-        r = post_message(token, channel, payload, img_path, fname if img_path else None)
+        r = post_message(token, channel, payload, img_path if not image_url else None,
+                         fname if (img_path and not image_url) else None)
         if r.status_code in (200, 201):
             posted[str(aid)] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
             sent += 1
-            print(f"✔ {aid} → کانال {channel} (variant={variant})")
+            published_any = True
+            print(f"✔ {aid} → کانال {channel} (variant={variants.get(aid)}, "
+                  f"image={'pages-url' if image_url else 'attachment'})")
         else:
             print(f"✘ {aid}: HTTP {r.status_code} {r.text[:200]}")
             if r.status_code in (401, 403, 404):
@@ -378,7 +463,8 @@ def main():
         time.sleep(1.2)
 
     if not args.dry_run:
-        save_state(state_path, state)
+        if published_any:                  # بدون bump بی‌دلیل timestamp
+            save_state(state_path, state)
         print(f"done: {sent} posted | state → {state_path}")
     return 0
 
