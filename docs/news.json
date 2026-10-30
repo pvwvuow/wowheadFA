@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T14:00:11Z",
+ "generated": "2026-10-30T14:06:50Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2334,6 +2334,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383482,
+   "title_en": "Returning to Dornogal - Patch 12.1.7 Campaign Playthrough (Story Spoilers)",
+   "url": "https://www.wowhead.com/news=383482",
+   "category": "PTR",
+   "published_at": "2026-10-30T14:00:00Z"
+  },
   {
    "id": 383653,
    "title_en": "Return to Azeroth Recap for World of Warcraft: Forever",
