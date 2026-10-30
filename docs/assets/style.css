@@ -13,6 +13,16 @@ main{max-width:52rem;margin:0 auto;padding:1.2rem}
 .tag{background:#21262d;border:1px solid var(--bd);border-radius:99px;padding:0 .6rem;font-size:.78rem;color:var(--ac)}
 article h1{font-size:1.6rem;margin:.2rem 0}
 .lead{color:var(--fg);font-size:1.05rem;border-right:4px solid var(--gold);padding-right:.8rem;margin:1rem 0}
+article h2{font-size:1.25rem;margin:1.4rem 0 .4rem;color:var(--gold)}
+article ul,article ol{padding-inline-start:1.4rem}article li{margin:.3rem 0}
+article blockquote{border-right:3px solid var(--gold);margin:1rem 0;padding:.4rem .9rem;background:var(--bg2);border-radius:0 8px 8px 0}
+article blockquote small{display:block;color:var(--mut);margin-top:.3rem}
+article .note{border:1px solid var(--bd);border-radius:8px;background:var(--bg2);padding:.6rem .9rem;margin:1rem 0;font-size:.95rem}
+article table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.92rem}
+article th,article td{border:1px solid var(--bd);padding:.4rem .7rem;text-align:right}
+article th{background:var(--bg2);color:var(--ac)}
+article figure{margin:1rem 0;text-align:center}article img{max-width:100%;border-radius:8px}
+article figcaption{color:var(--mut);font-size:.82rem;margin-top:.4rem}
 .srcbox{background:#1c1e26;border:1px solid var(--bd);border-radius:8px;padding:.7rem 1rem;margin:1.4rem 0 .4rem;font-size:.9rem;color:var(--mut)}
 footer.site{border-top:1px solid var(--bd);color:var(--mut);font-size:.82rem;padding:1.2rem;text-align:center;line-height:1.9}
 .badge{background:#6e40c9;color:#fff;border-radius:6px;padding:.05rem .5rem;font-size:.75rem}
