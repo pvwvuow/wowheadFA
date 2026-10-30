@@ -23,6 +23,10 @@ on:
         description: "حداکثر تعداد پست در این اجرا"
         default: "5"
         required: false
+      force_id:
+        description: "شناسهٔ خبر برای ارسال اجباری (مثلاً تست) — خالی = حالت عادی"
+        default: ""
+        required: false
   workflow_run:
     workflows: [fetch-news]
     types: [completed]
@@ -49,7 +53,12 @@ jobs:
         env:
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
           DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
-        run: python tools/discord_poster.py --limit "${{ github.event.inputs.limit || '5' }}"
+        run: |
+          ARGS="--limit ${{ github.event.inputs.limit || '5' }}"
+          if [ -n "${{ github.event.inputs.force_id }}" ]; then
+            ARGS="--id ${{ github.event.inputs.force_id }}"
+          fi
+          python tools/discord_poster.py $ARGS
       - name: Commit state
         run: |
           git config user.name "wowfarsi-bot"
