@@ -28,7 +28,6 @@ import re
 import sys
 import time
 import urllib.error
-import urllib.parse
 import urllib.request
 
 API = "https://api.x.ai/v1"
@@ -115,20 +114,29 @@ class GeminiBadKey(Exception):
     pass
 
 
-def gemini_http(key, path, body, timeout=300):
-    url = GEMINI_BASE + path + "?key=" + urllib.parse.quote(key)
+def gemini_http(key, path, body=None, timeout=300):
+    """One Gemini API request. The key travels ONLY in the x-goog-api-key
+    header - never in the URL (urllib error strings echo the URL).
+    Returns (http_code, parsed_body)."""
+    url = GEMINI_BASE + path
+    data = json.dumps(body).encode("utf-8") if body is not None else None
     req = urllib.request.Request(
-        url, data=json.dumps(body).encode("utf-8"),
-        headers={"Content-Type": "application/json"})
+        url, data=data, method="POST" if data is not None else "GET",
+        headers={"Content-Type": "application/json",
+                 "x-goog-api-key": key})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
-            return 200, json.load(r)
+            return r.status, json.load(r)
     except urllib.error.HTTPError as e:
         try:
-            detail = e.read().decode("utf-8", "replace")[:500]
+            detail = e.read().decode("utf-8", "replace")
         except Exception:
             detail = ""
-        return e.code, {"error": {"message": re.sub(r"\s+", " ", detail)}}
+        try:
+            return e.code, json.loads(detail)
+        except Exception:
+            return e.code, {"error": {"message": scrub(detail)[:400],
+                                      "status": "HTTP_ERROR"}}
 
 
 def gemini_generate(key, model, system, user, temperature, max_tokens,
@@ -192,7 +200,7 @@ def gemini_generate(key, model, system, user, temperature, max_tokens,
 def gemini_any_models(keys):
     models, verdicts = set(), []
     for i, key in enumerate(keys):
-        code, data = gemini_http(key, "/models", {}, timeout=30)
+        code, data = gemini_http(key, "/models?pageSize=200", timeout=30)
         if code != 200:
             verdicts.append((i + 1, scrub((data.get("error") or {})
                                           .get("message", "HTTP "
