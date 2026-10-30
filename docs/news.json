@@ -1,161 +1,8 @@
 {
- "generated": "2026-10-30T12:38:58Z",
+ "generated": "2026-10-30T12:52:35Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
-  {
-   "id": 383517,
-   "slug": "kindo-jan-labyrinth-reputation-increased-from-delve-bonus-event",
-   "title_fa": "هفتهٔ بونوس Delves؛ ۲۵ درصد Reputation بیشتر برای Labyrinth",
-   "lead_fa": "هفتهٔ بونوس این بار Delves است؛ تا یکشنبه ۲۵ درصد Reputation بیشتری از فعالیت‌های Labyrinth می‌گیرید.",
-   "body_fa": [
-    "هفتهٔ بونوس Delves شروع شده و تا یکشنبه ادامه دارد؛ در این بازه همهٔ فعالیت‌های Labyrinth ۲۵ درصد Reputation بیشتری می‌دهند.",
-    {
-     "t": "h",
-     "x": "برنامهٔ پیشنهادی برای بیشترین بازدهی"
-    },
-    {
-     "t": "ol",
-     "xs": [
-      "کوئست‌های هفتگی Labyrinth را اول بگیرید تا پیشرفت‌ها هم‌زمان شمرده شوند.",
-      "دو Delve روزانه را با Tier بالاتر انجام دهید؛ پاداش Reputation با بونوس ۲۵ درصدی ضرب می‌شود.",
-      "باقی‌ماندهٔ بونوس را قبل از ریست هفتگی یکشنبه مصرف کنید."
-     ]
-    },
-    {
-     "t": "note",
-     "x": "بونوس فقط روی Reputation اعمال می‌شود؛ پاداش غنیمت‌ها تغییری نمی‌کند.",
-     "kind": "info"
-    },
-    "جمع‌بندی: اگر فرکشن‌های Midnight را هدف گرفته‌اید، این هفته بهترین فرصت برای پیشرفت سریع‌تر است."
-   ],
-   "tags_fa": [
-    "Delves",
-    "Reputation",
-    "هفتهٔ بونوس"
-   ],
-   "items": [],
-   "title_en": "Kindo'jan Labyrinth Reputation Increased from Delve Bonus Event",
-   "source_url": "https://www.wowhead.com/news=383517",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383517-kindo-jan-labyrinth-reputation-increased-from-delve-bonus-event.html",
-   "published_at": "2026-10-30T12:30:23Z",
-   "model": "GLM",
-   "via": "auto-demo",
-   "reviewer": ""
-  },
-  {
-   "id": 383544,
-   "slug": "catch-up-on-renown-quickly-with-aqir-invasions",
-   "title_fa": "با حمله‌های Aqir هر هفته، Renown فرکشن‌های Midnight را سریع بالا ببرید",
-   "lead_fa": "برای جبران عقب‌افتادگی اعتبار فرکشن‌های Midnight، حمله‌های Aqir ساده‌ترین راه‌اند؛ رویدادی ساعتی که با دو توکن هفتگی، اعتبار سنگینی به دست می‌دهد.",
-   "body_fa": [
-    "حمله‌های Aqir یکی از فعالیت‌های تازهٔ پچ 12.1.5 در Midnight است؛ رویدادی که هر ساعت، سرِ ساعت شروع می‌شود و مرحلهٔ نخست آن ۱۰ دقیقه طول می‌کشد. در این بازه، بازیکن‌ها درون زون پرواز می‌کنند و هدف‌های علامت‌گذاری‌شده را در نقطهٔ مشخص‌شده کامل می‌کنند.",
-    {
-     "t": "h",
-     "x": "باس هر ساعت و توکن هفتگی"
-    },
-    "پس از پایان همین ۱۰ دقیقه است که یک Aqir Monstrosity ظاهر می‌شود و بازیکن‌ها زمان محدودی برای از پا درآوردنش دارند. نکتهٔ مهم برای شکارچیان اعتبار همین‌جاست: در هر هفته، دوبار نخست که این باس را شکست دهید، یک [[item:Aqir Research Satchel]] به دست می‌آورید.",
-    {
-     "t": "note",
-     "x": "فقط دو شکست هفتگی نخست توکن می‌دهد؛ بعد از آن به‌همین‌رویداد برگردید و وقت تلف نکنید.",
-     "kind": "tip"
-    },
-    {
-     "t": "h",
-     "x": "مبادلهٔ توکن در Silvermoon City"
-    },
-    "این توکن نزد فروشنده‌های Aqir Vendors در Silvermoon City مبادله می‌شود؛ دقیقاً در مختصات /way #2393 39.4 80.4. با صحبت با Matildeux Osril انتخاب می‌کنید که اعتبار به کدام فرکشن تعلق بگیرد.",
-    {
-     "t": "table",
-     "head": [
-      "فرکشن",
-      "اعتبار به ازای هر توکن"
-     ],
-     "rows": [
-      [
-       "Silvermoon Court",
-       "2,500"
-      ],
-      [
-       "Amani Tribe",
-       "2,500"
-      ],
-      [
-       "Hara'ti",
-       "2,500"
-      ],
-      [
-       "Singularity",
-       "2,500"
-      ],
-      [
-       "Zul'jarra's Forces",
-       "1,250"
-      ]
-     ]
-    },
-    {
-     "t": "item",
-     "id": 277283
-    },
-    "چون رویداد هر ساعت تکرار می‌شود، بهتر است دو شکست هفتگی را در برنامه‌تان بگنجانید تا پیشرفت Renown فرکشن‌های Midnight بدون وقفه ادامه پیدا کند."
-   ],
-   "tags_fa": [
-    "پچ 12.1.5",
-    "Midnight",
-    "Renown",
-    "Aqir Invasions"
-   ],
-   "items": [],
-   "title_en": "Catch Up on Renown Quickly with Aqir Invasions",
-   "source_url": "https://www.wowhead.com/news=383544",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383544-catch-up-on-renown-quickly-with-aqir-invasions.html",
-   "published_at": "2026-10-30T12:30:23Z",
-   "model": "GLM",
-   "via": "auto-demo",
-   "reviewer": ""
-  },
-  {
-   "id": 383566,
-   "slug": "new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr",
-   "title_fa": "چهار معجون جدید با ۳۰ درصد Experience بیشتر در PTR پچ 12.1.7",
-   "lead_fa": "PTR پچ 12.1.7 چهار معجون تازه آورده که هر کدام ۳۰ درصد Experience بیشتر از نسخهٔ فعلی می‌دهند؛ ترکیب‌های تازه‌ای که سطح‌گیری را سریع‌تر می‌کند.",
-   "body_fa": [
-    "در جدیدترین بیلد PTR پچ 12.1.7 چهار معجون جدید دیده می‌شود که جایگزین ترکیب‌های فعلی می‌شوند و همه یک ویژگی مشترک دارند: ۳۰ درصد Experience بیشتر.",
-    {
-     "t": "h",
-     "x": "چهار معجون تازه"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "معجون اول — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت",
-      "معجون دوم — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت",
-      "معجون سوم — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت",
-      "معجون چهارم — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت"
-     ]
-    },
-    {
-     "t": "note",
-     "x": "این اطلاعات از بیلد PTR است؛ تا انتشار نهایی پچ ممکن است مقادیر تغییر کند.",
-     "kind": "warn"
-    },
-    "اگر در فصل فعلی سطح‌گیری می‌کنید، این معجون‌ها بعد از انتشار پچ بهترین گزینهٔ فلسک و فایل شما خواهند بود."
-   ],
-   "tags_fa": [
-    "PTR",
-    "پچ 12.1.7",
-    "Experience"
-   ],
-   "items": [],
-   "title_en": "New 30% Bonus Experience Potions Datamined on Patch 12.1.7 PTR",
-   "source_url": "https://www.wowhead.com/news=383566",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383566-new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr.html",
-   "published_at": "2026-10-30T12:30:23Z",
-   "model": "GLM",
-   "via": "auto-demo",
-   "reviewer": ""
-  },
   {
    "id": 383660,
    "slug": "two-new-housing-exterior-customizations-discovered-on-12-1-7-ptr",
@@ -177,7 +24,7 @@
    "title_en": "Two New Housing Exterior Customizations Discovered on 12.1.7 PTR",
    "source_url": "https://www.wowhead.com/news=383660",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383660-two-new-housing-exterior-customizations-discovered-on-12-1-7-ptr.html",
-   "published_at": "2026-10-30T01:09:57Z",
+   "published_at": "2026-10-29T23:07:55Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -206,7 +53,7 @@
    "title_en": "Forced World Refreshes Will Be Significantly Reduced for WoW: Forever",
    "source_url": "https://www.wowhead.com/news=383649",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383649-forced-world-refreshes-will-be-significantly-reduced-for-wow-forever.html",
-   "published_at": "2026-10-29T20:37:17Z",
+   "published_at": "2026-10-29T19:44:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -232,7 +79,7 @@
    "title_en": "WoW: Forever is Aiming for a 4-Month Patch Cadence",
    "source_url": "https://www.wowhead.com/news=383640",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383640-wow-forever-is-aiming-for-a-4-month-patch-cadence.html",
-   "published_at": "2026-10-29T17:03:06Z",
+   "published_at": "2026-10-29T16:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -261,7 +108,7 @@
    "title_en": "New Class and Item Tuning on WoW: Forever - Hunter Changes",
    "source_url": "https://www.wowhead.com/news=383641",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383641-new-class-and-item-tuning-on-wow-forever-hunter-changes.html",
-   "published_at": "2026-10-28T22:10:12Z",
+   "published_at": "2026-10-28T21:17:17Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -288,7 +135,7 @@
    "title_en": "Retail Team Discussing Lighting and Water Improvements from WoW: Forever",
    "source_url": "https://www.wowhead.com/news=383637",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383637-retail-team-discussing-lighting-and-water-improvements-from-wow-foreve.html",
-   "published_at": "2026-10-28T20:06:56Z",
+   "published_at": "2026-10-28T19:30:38Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -313,7 +160,7 @@
    "title_en": "New Cabin-Themed Shop Decor Discovered in Patch 12.1.7",
    "source_url": "https://www.wowhead.com/news=383593",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383593-new-cabin-themed-shop-decor-discovered-in-patch-12-1-7.html",
-   "published_at": "2026-10-28T15:35:26Z",
+   "published_at": "2026-10-28T15:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -340,64 +187,7 @@
    "title_en": "Name Reservations Included Overly Restrictive Name Check But Fix Incoming",
    "source_url": "https://www.wowhead.com/news=383618",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383618-name-reservations-included-overly-restrictive-name-check-but-fix-incom.html",
-   "published_at": "2026-10-28T01:54:35Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
-  },
-  {
-   "id": 383531,
-   "slug": "bonus-rolls-tooltip-fixed-more-labyrinth-bug-fixes-patch-12-1-5-hotfix",
-   "title_fa": "رفع مشکل Tooltip Bonus Roll و هاتفیکس‌های بیشتر Labyrinth در پچ ۱۲.۱.۵",
-   "lead_fa": "بلزارد امروز هاتفیکس‌هایی منتشر کرده که شامل رفع باگ‌های Labyrinth و اصلاح نمایش Tooltip Bonus Roll است.",
-   "body_fa": [
-    "حالا Tooltip Bonus Roll به‌درستی آیتم‌های باقی‌مانده از باس را نشان می‌دهد.",
-    "چند سناریو در Labyrinth رفع مشکل شده‌اند. بازیکنان اکنون می‌توانند ۴ Jan'alai Tears را همزمان در Labyrinth حمل کنند.",
-    "بازیکنان می‌توانند با صحبت با Kinduru در De Empire's Rest antechamber در حین سناریوی Kindo'jan از Labyrinth خارج شوند. مشکل استفاده از L00T RAID-R Minis در گروه داخل Labyrinth برطرف شده است.",
-    "اهرم شروع سناریوی A Golden Opportunity در Labyrinth of Kindo'jan اکنون برای بازیکنان سطح ۸۰ و بالاتر قابل استفاده است.",
-    "ظرفیت Carrying a Jan'alai Tear buff به ۴ stack افزایش یافته (قبلاً ۱). مشکل despawn شدن Pit Boss در سناریوی Returning the Bounty هنگام خروج از combat رفع شده است.",
-    "اثر Seriously Sharp Seashell از Gebbo's Bottomless Bag دیگر stealth و invisibility را نمی‌شکند. Jan'thrazet, the Soul Fang اکنون از ابتدای combat برای healerها به‌صورت مطمئن‌تر فعال می‌شود.",
-    "لیست پیش‌نمایش آیتم‌های Nebulous Voidcache bonus roll حالا به‌درستی به‌روزرسانی می‌شود. این فقط مشکل نمایش بود و بر واجد شرایط بودن آیتم‌ها تأثیری نداشت.",
-    "Sanctified Ground هنگام اعمال روی هم‌تیمی‌ها دیگر channeled spellهایی مانند Divine Hymn را قطع نمی‌کند."
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "Labyrinth",
-    "۱۲.۱.۵",
-    "Bonus Roll"
-   ],
-   "items": [],
-   "title_en": "Bonus Rolls Tooltip Fixed & More Labyrinth Bug Fixes - Patch 12.1.5 Hotfixes",
-   "source_url": "https://www.wowhead.com/news=383531",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383531-bonus-rolls-tooltip-fixed-more-labyrinth-bug-fixes-patch-12-1-5-hotfix.html",
-   "published_at": "2026-10-28T00:26:29Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
-  },
-  {
-   "id": 383538,
-   "slug": "josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours",
-   "title_fa": "جاش گرینفیلد از رویداد احتمالی در بتای WoW: Forever خبر داد",
-   "lead_fa": "جاش گرینفیلد با پستی در شبکه‌های اجتماعی بازیکنان را تشویق کرده که طی چند ساعت آینده یک بار دیگر به بتای WoW: Forever وارد شوند.",
-   "body_fa": [
-    "امروز آخرین روز کامل بتای WoW: Forever است و سرور فردا در تاریخ ۲۳ اکتبر ساعت ۱۰:۰۰ AM PDT بسته خواهد شد.",
-    "جاش «Aggrend» گرینفیلد با اشاره به زمان «چند ساعت» آینده، به نوعی از وقوع رویداد خاصی در بتا خبر داده است.",
-    "در رویدادهای پایان بتا در گذشته، بلزارد موجودات سرگرم‌کننده‌ای را در هاب‌های اصلی احضار می‌کرد؛ برای مثال Thrall در Stormwind یا Firelord Nomi.",
-    "امکان دارد این بار هم موجودات دشمن ظاهر شوند و بازیکنان را درگیر کنند.",
-    "بازیکنان اگر فرصت دارند، بهتر است طی ساعات آینده وارد بتا شوند تا ببینند چه اتفاقی رخ می‌دهد."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "بتا",
-    "رویداد پایان بتا",
-    "جاش گرینفیلد"
-   ],
-   "items": [],
-   "title_en": "Josh Greenfield Teases Possible Event on WoW: Forever Beta in \"Few Hours\"",
-   "source_url": "https://www.wowhead.com/news=383538",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383538-josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours.html",
-   "published_at": "2026-10-28T00:02:01Z",
+   "published_at": "2026-10-28T01:30:05Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -424,7 +214,7 @@
    "title_en": "Blizzard Takes Action Against RMT on Retail WoW - Gold Transactions Should Be Direct",
    "source_url": "https://www.wowhead.com/news=383616",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383616-blizzard-takes-action-against-rmt-on-retail-wow-gold-transactions-shou.html",
-   "published_at": "2026-10-27T22:44:58Z",
+   "published_at": "2026-10-27T21:54:48Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -448,38 +238,10 @@
    "title_en": "Players Upset Latest Housing Bundles Breaks Stated Philosophy on Hearthsteel",
    "source_url": "https://www.wowhead.com/news=383614",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383614-players-upset-latest-housing-bundles-breaks-stated-philosophy-on-heart.html",
-   "published_at": "2026-10-27T21:47:43Z",
+   "published_at": "2026-10-27T21:16:46Z",
    "model": "gemini-flash-latest",
    "via": "auto-gemini",
    "reviewer": "grok-4.20-0309-non-reasoning"
-  },
-  {
-   "id": 383542,
-   "slug": "subtlety-rogue-interaction-with-demonology-warlocks-speculated-to-ninj",
-   "title_fa": "تعامل Rogue Subtlety و Warlock Demonology باعث کشیدن غیرعمدی دشمنان می‌شود",
-   "lead_fa": "با افزایش محبوبیت Rogue Subtlety در پچ ۱۲.۱.۵، یک باگ قدیمی دوباره مورد توجه قرار گرفته که باعث می‌شود Warlockهای Demonology به طور ناخواسته دشمنان را در دانجن‌ها ninja pull کنند.",
-   "body_fa": [
-    "در پچ ۱۲.۱.۵ بلیزارد یک باگ مربوط به Rogue Subtlety را رفع کرد و در عوض ۱۴٪ buff damage به آن‌ها داد. بسیاری از بازیکنان تصور می‌کردند این تغییر خنثی باشد ولی در عمل به buff damage بزرگی تبدیل شد.",
-    "نتیجه این buff باعث شد damage Rogue Subtlety به شدت افزایش یابد که طبق آمار Warcraft Logs به خوبی قابل مشاهده است. به همین دلیل بسیاری از گروه‌ها اکنون Rogue Subtlety را به کی‌های خود می‌آورند.",
-    "طبق Raider.io، Rogue Subtlety در حال حاضر یکی از بالاترین امتیازات را در فصل ۲ در کنار Arms Warrior، Holy Paladin، Blood DK و Elemental Shaman دارد و به طور محکم در متا جا افتاده است.",
-    "با قرار گرفتن Rogue Subtlety در متا، توجه‌ها به سمت یک باگ قدیمی رفته که باعث می‌شود Warlock Demonology در حضور Rogue Subtlety شروع به ninja-pulling دشمنان کند. این مسئله برخی Warlockهای Demonology را ناراحت کرده و باعث شده احساس کنند از گروه‌ها کنار گذاشته می‌شوند.",
-    "ninja-pulling دشمنان می‌تواند منجر به wipe شدن گروه در هر سطح کی شود. Phellxgodx در ردیت پستی گذاشته و توضیح داده که shadow clones از apex talent Rogue Subtlety باعث اختلال در targeting Diabolic Oculi یا Alythessa Blaze از hero talent Diabolist (در Demonology و Destruction) می‌شود و آن‌ها را وادار به حمله به هر چیزی در برد می‌کند.",
-    "اگر در دانجن‌ها متوجه کشیدن غیرمنتظره دشمنان شدید، احتمالاً به خاطر این باگ است. بهتر است در یک گروه همزمان Demonology Warlock و Subtlety Rogue نداشته باشید."
-   ],
-   "tags_fa": [
-    "Subtlety Rogue",
-    "Demonology Warlock",
-    "هاتفیکس",
-    "۱۲.۱.۵"
-   ],
-   "items": [],
-   "title_en": "Subtlety Rogue Interaction with Demonology Warlocks Speculated to Ninja Pull Mobs",
-   "source_url": "https://www.wowhead.com/news=383542",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383542-subtlety-rogue-interaction-with-demonology-warlocks-speculated-to-ninj.html",
-   "published_at": "2026-10-27T20:57:24Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
   },
   {
    "id": 383612,
@@ -502,33 +264,7 @@
    "title_en": "Blizzard Announces Name Reservation Issue for Oceanic Players in WoW: Forever",
    "source_url": "https://www.wowhead.com/news=383612",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383612-blizzard-announces-name-reservation-issue-for-oceanic-players-in-wow-f.html",
-   "published_at": "2026-10-27T20:55:36Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
-  },
-  {
-   "id": 383605,
-   "slug": "world-of-warcraft-forever-amv-warpath",
-   "title_fa": "انتشار AMV جدید WARPATH برای WoW: Forever",
-   "lead_fa": "بلیزارد با انتشار AMV تازه‌ای به نام WARPATH، لانچ WoW: Forever را که قرار است در ۴ نوامبر انجام شود، برجسته کرده است.",
-   "body_fa": [
-    "این AMV جدید روی کانال یوتیوب Warcraft قرار گرفته و تم‌های Alliance، Horde و War را به نمایش می‌گذارد.",
-    "بازیکنان می‌توانند از ۴ نوامبر با داشتن WoW Subscription یا game time، به همراه دوستان خود به جنگل‌های وحشی World of Warcraft: Forever قدم بگذارند.",
-    "این ویدیو در همکاری با Brunch Studio ساخته شده است.",
-    "در این AMV آثاری از Poppy، Amy Lee و Courtney LaPlante به گوش می‌رسد که تحت لیسانس Virgin Music Group منتشر شده‌اند."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "AMV",
-    "WARPATH",
-    "Blizzard"
-   ],
-   "items": [],
-   "title_en": "World of Warcraft: Forever AMV - WARPATH",
-   "source_url": "https://www.wowhead.com/news=383605",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383605-world-of-warcraft-forever-amv-warpath.html",
-   "published_at": "2026-10-27T20:08:48Z",
+   "published_at": "2026-10-27T20:05:03Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -555,7 +291,7 @@
    "title_en": "Join the WoW Portal Room for Your Next Adventure in WoW: Forever",
    "source_url": "https://www.wowhead.com/news=383610",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383610-join-the-wow-portal-room-for-your-next-adventure-in-wow-forever.html",
-   "published_at": "2026-10-27T20:08:03Z",
+   "published_at": "2026-10-27T19:08:56Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -583,91 +319,33 @@
    "title_en": "Name Reservations for WoW: Forever Delayed",
    "source_url": "https://www.wowhead.com/news=383608",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383608-name-reservations-for-wow-forever-delayed.html",
-   "published_at": "2026-10-27T18:49:44Z",
+   "published_at": "2026-10-27T17:58:59Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
   },
   {
-   "id": 383523,
-   "slug": "dalaran-updated-ahead-of-the-beta-s-end-in-wow-forever",
-   "title_fa": "به‌روزرسانی دالاران پیش از پایان بتای WoW: Forever",
-   "lead_fa": "در آخرین بیلد بتای World of Warcraft: Forever، شهر دالاران مانع دفاعی خود را پایین آورده و حالا بازیکنان Alliance می‌توانند آزادانه وارد آن شوند. این شهر که نخستین بار در Wrath of the Lich King معرفی شد، تغییرات قابل توجهی دریافت کرده است.",
+   "id": 383605,
+   "slug": "world-of-warcraft-forever-amv-warpath",
+   "title_fa": "انتشار AMV جدید WARPATH برای WoW: Forever",
+   "lead_fa": "بلیزارد با انتشار AMV تازه‌ای به نام WARPATH، لانچ WoW: Forever را که قرار است در ۴ نوامبر انجام شود، برجسته کرده است.",
    "body_fa": [
-    "در این به‌روزرسانی، نگهبانان شهر ارتقا یافته‌اند. Arcane Sentries حالا به شکل بارزتری در نقاط مختلف شهر حضور دارند و به Level 55 Elite تبدیل شده‌اند.",
-    "Kirin Tor Guards به بازیکنان کمک می‌کنند تا مکان‌های مورد نظر خود مانند مهمانخانه، مربیان حرفه‌ها و transmogrifier را پیدا کنند. علاوه بر مربیان حرفه‌ها، مربیان کلاس نیز در شهر حضور دارند که شامل Druid و Mage trainer می‌شود.",
-    "منطقه Underbelly حالا میزبان battlemasters است که بازیکنان می‌توانند از طریق آن‌ها برای تمام battlegroundها، از جمله Darkspear Islands جدید، صف ببندند. «Baroness» Llana که قبلاً Arena Organizer در Wrath of the Lich King بود، حالا به‌عنوان Alterac Valley Battlemaster فعالیت می‌کند.",
-    "بازیکنان Alliance می‌توانند کوئست جدیدی به نام Past Due را در دالاران دریافت کنند. این کوئست توسط Magus Olvek ارائه می‌شود و بازیکنان را ملزم می‌کند تا Arcanist Doan، باس نهایی Scarlet Monastery Library را شکست دهند و غنایم او را جمع‌آوری کنند. کسانی که World of Warcraft TCG را می‌شناسند، احتمالاً این NPC را به خاطر می‌آورند.",
-    "در کنار NPCهای جدید و چهره‌های آشنا از نسخه‌های قبلی، یکی از تغییرات مهم حذف پورتال دالاران از Stormwind City برای High Order Skyborne است. پورتال از دالاران به Stormwind همچنان وجود دارد، اما پورتال بازگشت به دالاران حذف شده است. Theresa Wolf در Silver Enclave در حال تلاش برای احضار چیزی است که ممکن است بعداً به پورتال تبدیل شود.",
-    "با نزدیک شدن به پایان بتا، بازیکنان باید فعلاً با دالاران خداحافظی کنند. شهر در زمان لانچ رسمی WoW: Forever در ۴ نوامبر ممکن است تغییرات بیشتری دریافت کند."
+    "این AMV جدید روی کانال یوتیوب Warcraft قرار گرفته و تم‌های Alliance، Horde و War را به نمایش می‌گذارد.",
+    "بازیکنان می‌توانند از ۴ نوامبر با داشتن WoW Subscription یا game time، به همراه دوستان خود به جنگل‌های وحشی World of Warcraft: Forever قدم بگذارند.",
+    "این ویدیو در همکاری با Brunch Studio ساخته شده است.",
+    "در این AMV آثاری از Poppy، Amy Lee و Courtney LaPlante به گوش می‌رسد که تحت لیسانس Virgin Music Group منتشر شده‌اند."
    ],
    "tags_fa": [
     "WoW Forever",
-    "دالاران",
-    "بتا",
-    "به‌روزرسانی"
+    "AMV",
+    "WARPATH",
+    "Blizzard"
    ],
    "items": [],
-   "title_en": "Dalaran Updated Ahead of the Beta's End in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383523",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383523-dalaran-updated-ahead-of-the-beta-s-end-in-wow-forever.html",
-   "published_at": "2026-10-27T17:12:48Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
-  },
-  {
-   "id": 383592,
-   "slug": "test-talebound-on-the-patch-12-1-7-ptr-this-friday",
-   "title_fa": "تست Talebound در PTR پچ ۱۲.۱.۷ این جمعه",
-   "lead_fa": "بلزارد تست Talebound را در PTR پچ ۱۲.۱.۷ روز جمعه برگزار می‌کند. برای شرکت در این تست نیازی به اشتراک نیست.",
-   "body_fa": [
-    "Talebound جدیدترین حالت مستقل بازی WoW است که در پچ ۱۲.۱.۷ عرضه می‌شود و گیم‌پلی Roguelite دارد. بازیکنان وارد دنیای Talebound شده و در داستان‌های Mysterious Storyteller به عنوان یکی از سه کلاس جدید شرکت می‌کنند.",
-    "در این دمو می‌توانید بخش Red Hollow Introduction را تجربه کنید. سه داستان ترسناک در سه سطح دشواری Normal، Veteran و Heroic در دسترس خواهد بود و هر سه کلاس Slayer، Inquisitor و Witch قابل بازی هستند.",
-    "زمان تست از ۳۰ اکتبر تا ۱ نوامبر است. سه داستان قابل بازی عبارتند از Darkhaven، Greenthistle Wood و Greywake's Expedition.",
-    "در Darkhaven با Konrad von Sonnesheim (Lord Marshal) و Alexandre Dozsenc (Blood Bishop) روبه‌رو می‌شوید؛ شهری که تنها بازمانده از طاعون ویرانگر است. Greenthistle Wood میزبان دو روستای Shady Hollow و Riverton و پر از جادوگر، غول و موجودات وحشی است. Greywake's Expedition داستان جزیره‌ای را روایت می‌کند که Zzyg'th (Hadal Tyrant) و Chathoa (Herald from Beyond) آن را به ویرانی کشانده‌اند.",
-    "تمام کلاس‌ها قابلیت double jump، dodge و guard دارند و حرکت و دفاع در مرکز گیم‌پلی قرار گرفته است. کلاس Slayer با شمشیر، شاتگان و توانایی‌هایی مانند Slash، Explosive Shot، Minefield، Shrapnel Round، Throwing Knives و Silver Bolt دشمنان را شکار می‌کند.",
-    "کلاس Inquisitor با توانایی‌های Purify، Condemn، Denounce، Light’s Wrath، Rapture و Radiant Burst بر پایه نور و آتش عمل می‌کند. کلاس Witch نیز با Brewing Storm، Bubbling Cauldron، Feline Communion، Winter Spiders، Moonlight Ravens و Thorns از جادوی تاریک، رعد و برق، سم و موجودات استفاده می‌کند.",
-    "مانند همیشه در تست‌های PTR، ممکن است تغییراتی اعمال شود. تعدادی از talents هنوز در حال توسعه هستند. در دمو شرکت کنید، ویژگی‌ها را امتحان کنید و نظرات خود را به اشتراک بگذارید."
-   ],
-   "tags_fa": [
-    "PTR",
-    "Talebound",
-    "۱۲.۱.۷",
-    "تست بلیزارد"
-   ],
-   "items": [],
-   "title_en": "Test Talebound on the Patch 12.1.7 PTR This Friday!",
-   "source_url": "https://www.wowhead.com/news=383592",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383592-test-talebound-on-the-patch-12-1-7-ptr-this-friday.html",
-   "published_at": "2026-10-27T15:47:58Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
-  },
-  {
-   "id": 383595,
-   "slug": "meet-the-devs-at-wow-forever-poster-signing-limited-tickets-available-",
-   "title_fa": "امضای پوستر WoW: Forever با حضور دولوپرها در ۲ نوامبر",
-   "lead_fa": "بلیزارد رویداد WoW: Forever Poster Signing را برای ۲ نوامبر ۲۰۲۶ در Irvine Improv برگزار می‌کند و بلیت‌های رایگان آن از فردا در دسترس قرار می‌گیرد.",
-   "body_fa": [
-    "بلیزارد اعلام کرده که علاقه‌مندان می‌توانند در رویداد WoW: Forever Poster Signing دولوپرهای بازی را ملاقات کنند و همزمان با انتشار نزدیک WoW: Forever جشن بگیرند.",
-    "این رویداد در تاریخ ۲ نوامبر ۲۰۲۶ در Irvine Improv برگزار می‌شود. تعداد بلیت‌ها محدود است و حضور بدون بلیت امکان‌پذیر نخواهد بود.",
-    "بلیت‌های رایگان از سه‌شنبه ۲۷ اکتبر ساعت ۱۲:۰۰ به وقت PDT از طریق TIXR در دسترس قرار می‌گیرد. هر شرکت‌کننده باید بلیت خود را از قبل رزرو کند و QR کد معتبر داشته باشد.",
-    "شرکت‌کنندگان تشویق می‌شوند که در بازه زمانی مشخص‌شده زودتر حاضر شوند. ورود فقط با اسکن QR کد در چادر چک‌این خارج از محل برگزاری امکان‌پذیر است.",
-    "محل برگزاری Irvine Improv از امکانات ADA برخوردار است. برای اطلاعات بیشتر می‌توانید به صفحه رویداد مراجعه کنید. این جشن قرار است شلوغ و هیجان‌انگیز باشد."
-   ],
-   "tags_fa": [
-    "WoW: Forever",
-    "رویداد بلیزارد",
-    "امضای پوستر",
-    "Irvine Improv"
-   ],
-   "items": [],
-   "title_en": "Meet the Devs at WoW: Forever Poster Signing - Limited Tickets Available Now",
-   "source_url": "https://www.wowhead.com/news=383595",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383595-meet-the-devs-at-wow-forever-poster-signing-limited-tickets-available-.html",
-   "published_at": "2026-10-27T15:47:10Z",
+   "title_en": "World of Warcraft: Forever AMV - WARPATH",
+   "source_url": "https://www.wowhead.com/news=383605",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383605-world-of-warcraft-forever-amv-warpath.html",
+   "published_at": "2026-10-27T17:13:12Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -693,7 +371,7 @@
    "title_en": "New Theatre-Themed Decor Takes the Stage in Patch 12.1.7",
    "source_url": "https://www.wowhead.com/news=383512",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383512-new-theatre-themed-decor-takes-the-stage-in-patch-12-1-7.html",
-   "published_at": "2026-10-27T15:46:37Z",
+   "published_at": "2026-10-27T15:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -721,7 +399,7 @@
    "title_en": "EllesmereUI Adds Fellowship-Inspired Nameplate Kick Tracker",
    "source_url": "https://www.wowhead.com/news=383591",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383591-ellesmereui-adds-fellowship-inspired-nameplate-kick-tracker.html",
-   "published_at": "2026-10-27T14:59:51Z",
+   "published_at": "2026-10-27T14:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -751,7 +429,63 @@
    "title_en": "Racial Ability Tuning Pass for WoW: Forever",
    "source_url": "https://www.wowhead.com/news=383597",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383597-racial-ability-tuning-pass-for-wow-forever.html",
-   "published_at": "2026-10-26T21:22:31Z",
+   "published_at": "2026-10-26T20:38:14Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
+  {
+   "id": 383595,
+   "slug": "meet-the-devs-at-wow-forever-poster-signing-limited-tickets-available-",
+   "title_fa": "امضای پوستر WoW: Forever با حضور دولوپرها در ۲ نوامبر",
+   "lead_fa": "بلیزارد رویداد WoW: Forever Poster Signing را برای ۲ نوامبر ۲۰۲۶ در Irvine Improv برگزار می‌کند و بلیت‌های رایگان آن از فردا در دسترس قرار می‌گیرد.",
+   "body_fa": [
+    "بلیزارد اعلام کرده که علاقه‌مندان می‌توانند در رویداد WoW: Forever Poster Signing دولوپرهای بازی را ملاقات کنند و همزمان با انتشار نزدیک WoW: Forever جشن بگیرند.",
+    "این رویداد در تاریخ ۲ نوامبر ۲۰۲۶ در Irvine Improv برگزار می‌شود. تعداد بلیت‌ها محدود است و حضور بدون بلیت امکان‌پذیر نخواهد بود.",
+    "بلیت‌های رایگان از سه‌شنبه ۲۷ اکتبر ساعت ۱۲:۰۰ به وقت PDT از طریق TIXR در دسترس قرار می‌گیرد. هر شرکت‌کننده باید بلیت خود را از قبل رزرو کند و QR کد معتبر داشته باشد.",
+    "شرکت‌کنندگان تشویق می‌شوند که در بازه زمانی مشخص‌شده زودتر حاضر شوند. ورود فقط با اسکن QR کد در چادر چک‌این خارج از محل برگزاری امکان‌پذیر است.",
+    "محل برگزاری Irvine Improv از امکانات ADA برخوردار است. برای اطلاعات بیشتر می‌توانید به صفحه رویداد مراجعه کنید. این جشن قرار است شلوغ و هیجان‌انگیز باشد."
+   ],
+   "tags_fa": [
+    "WoW: Forever",
+    "رویداد بلیزارد",
+    "امضای پوستر",
+    "Irvine Improv"
+   ],
+   "items": [],
+   "title_en": "Meet the Devs at WoW: Forever Poster Signing - Limited Tickets Available Now",
+   "source_url": "https://www.wowhead.com/news=383595",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383595-meet-the-devs-at-wow-forever-poster-signing-limited-tickets-available-.html",
+   "published_at": "2026-10-26T19:09:41Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
+  {
+   "id": 383592,
+   "slug": "test-talebound-on-the-patch-12-1-7-ptr-this-friday",
+   "title_fa": "تست Talebound در PTR پچ ۱۲.۱.۷ این جمعه",
+   "lead_fa": "بلزارد تست Talebound را در PTR پچ ۱۲.۱.۷ روز جمعه برگزار می‌کند. برای شرکت در این تست نیازی به اشتراک نیست.",
+   "body_fa": [
+    "Talebound جدیدترین حالت مستقل بازی WoW است که در پچ ۱۲.۱.۷ عرضه می‌شود و گیم‌پلی Roguelite دارد. بازیکنان وارد دنیای Talebound شده و در داستان‌های Mysterious Storyteller به عنوان یکی از سه کلاس جدید شرکت می‌کنند.",
+    "در این دمو می‌توانید بخش Red Hollow Introduction را تجربه کنید. سه داستان ترسناک در سه سطح دشواری Normal، Veteran و Heroic در دسترس خواهد بود و هر سه کلاس Slayer، Inquisitor و Witch قابل بازی هستند.",
+    "زمان تست از ۳۰ اکتبر تا ۱ نوامبر است. سه داستان قابل بازی عبارتند از Darkhaven، Greenthistle Wood و Greywake's Expedition.",
+    "در Darkhaven با Konrad von Sonnesheim (Lord Marshal) و Alexandre Dozsenc (Blood Bishop) روبه‌رو می‌شوید؛ شهری که تنها بازمانده از طاعون ویرانگر است. Greenthistle Wood میزبان دو روستای Shady Hollow و Riverton و پر از جادوگر، غول و موجودات وحشی است. Greywake's Expedition داستان جزیره‌ای را روایت می‌کند که Zzyg'th (Hadal Tyrant) و Chathoa (Herald from Beyond) آن را به ویرانی کشانده‌اند.",
+    "تمام کلاس‌ها قابلیت double jump، dodge و guard دارند و حرکت و دفاع در مرکز گیم‌پلی قرار گرفته است. کلاس Slayer با شمشیر، شاتگان و توانایی‌هایی مانند Slash، Explosive Shot، Minefield، Shrapnel Round، Throwing Knives و Silver Bolt دشمنان را شکار می‌کند.",
+    "کلاس Inquisitor با توانایی‌های Purify، Condemn، Denounce، Light’s Wrath، Rapture و Radiant Burst بر پایه نور و آتش عمل می‌کند. کلاس Witch نیز با Brewing Storm، Bubbling Cauldron، Feline Communion، Winter Spiders، Moonlight Ravens و Thorns از جادوی تاریک، رعد و برق، سم و موجودات استفاده می‌کند.",
+    "مانند همیشه در تست‌های PTR، ممکن است تغییراتی اعمال شود. تعدادی از talents هنوز در حال توسعه هستند. در دمو شرکت کنید، ویژگی‌ها را امتحان کنید و نظرات خود را به اشتراک بگذارید."
+   ],
+   "tags_fa": [
+    "PTR",
+    "Talebound",
+    "۱۲.۱.۷",
+    "تست بلیزارد"
+   ],
+   "items": [],
+   "title_en": "Test Talebound on the Patch 12.1.7 PTR This Friday!",
+   "source_url": "https://www.wowhead.com/news=383592",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383592-test-talebound-on-the-patch-12-1-7-ptr-this-friday.html",
+   "published_at": "2026-10-26T18:01:31Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -777,7 +511,7 @@
    "title_en": "Watch the WoW: Forever Short Story, “Unbowed”",
    "source_url": "https://www.wowhead.com/news=383589",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383589-watch-the-wow-forever-short-story-unbowed.html",
-   "published_at": "2026-10-26T17:49:05Z",
+   "published_at": "2026-10-26T17:07:09Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -803,7 +537,7 @@
    "title_en": "New Talebound Toy Allows Companion Pets to Fly on an Enchanted Book",
    "source_url": "https://www.wowhead.com/news=383565",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383565-new-talebound-toy-allows-companion-pets-to-fly-on-an-enchanted-book.html",
-   "published_at": "2026-10-26T14:23:34Z",
+   "published_at": "2026-10-26T14:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -831,113 +565,7 @@
    "title_en": "The WoW: Forever Beta PvP Tournament: Results, Winners, Statistics",
    "source_url": "https://www.wowhead.com/news=383571",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383571-the-wow-forever-beta-pvp-tournament-results-winners-statistics.html",
-   "published_at": "2026-10-26T13:41:38Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
-  },
-  {
-   "id": 383532,
-   "slug": "world-of-warcraft-forever-beta-will-return-shortly",
-   "title_fa": "بازگشت WoW Forever Beta در چند روز آینده",
-   "lead_fa": "بلیزارد اعلام کرده که در حال کار بر روی بازگشت WoW Forever Beta است و این سرور به‌زودی دوباره آنلاین خواهد شد.",
-   "body_fa": [
-    "طبق اعلام بلیزارد، پس از بازگشت WoW Forever Beta، این آخرین روزهای آن خواهد بود و سرور به‌طور رسمی در ۲۳ اکتبر ساعت ۱۰:۰۰ AM Pacific time پایان می‌یابد.",
-    "بلیزارد در پیام خود اعلام کرده که هنگام روشن کردن مجدد WoW Forever Beta با مشکل کوچکی مواجه شده‌اند و هم‌اکنون در حال رفع آن هستند.",
-    "تا زمان رفع مشکل، بازیکنان می‌توانند با خروج کامل از Battle.net Desktop App، به‌روزرسانی را به‌صورت دستی فعال کنند تا فرآیند سریع‌تر انجام شود."
-   ],
-   "tags_fa": [
-    "Forever Beta",
-    "بلیزارد",
-    "World of Warcraft"
-   ],
-   "items": [],
-   "title_en": "World of Warcraft: Forever Beta Will Return Shortly",
-   "source_url": "https://www.wowhead.com/news=383532",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383532-world-of-warcraft-forever-beta-will-return-shortly.html",
-   "published_at": "2026-10-26T06:11:50Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
-  },
-  {
-   "id": 383525,
-   "slug": "complete-new-sweet-tooth-hallow-s-end-achievement-quickly-using-alts",
-   "title_fa": "تکمیل سریع دستاورد Sweet Tooth هالووین اند با استفاده از آلت‌ها",
-   "lead_fa": "بازیکنان می‌توانند دستاورد جدید Sweet Tooth را با کمک آلت‌ها خیلی سریع به پایان برسانند.",
-   "body_fa": [
-    "هالووین اند ۲۰۲۶ با سه تم محله جدید Felwood، Drustvar و Duskwood همراه است. هر تم به صورت تصادفی هر روز ظاهر می‌شود و کوئست‌های روزانه متفاوتی ارائه می‌دهد.",
-    "دستاورد Sweet Tooth نیازمند تکمیل ۳ کوئست روزانه متفاوت در هر یک از سه تم جدید است. هر روز باید به محله خود بروید و کوئست Sugar Run را پیدا کنید که شما را به پورتال زون تم محله هدایت می‌کند.",
-    "در آنجا کوئست را به Nomi تحویل دهید و از میان سه کوئست روزانه یکی را انتخاب کنید. باید هر یک از این کوئست‌ها را یک بار کامل کنید تا دستاورد به شما اعطا شود.",
-    "با توجه به اینکه هر کاراکتر در روز فقط می‌تواند یکی از کوئست‌های روزانه Nomi را انجام دهد، استفاده از آلت‌ها سرعت کار را بالا می‌برد. اگر سه آلت داشته باشید، هر کدام می‌توانند یک کوئست متفاوت انتخاب کنند و زون مربوطه را کامل کنند تا یکی از دستاوردهای Duskwood Caramel Crafter، Drustvar Choc-O-Drop Designer یا Felwood Fudge Bite Former به دست آید.",
-    "این روش حداقل سه روز زمان می‌برد زیرا باید هر زون را یک بار کامل کنید. بخش سخت آن پیدا کردن محله‌ای با تم درست برای زون‌هایی است که هنوز کامل نکرده‌اید.",
-    "با این حال نیازی به حضور در زون با تم درست برای دریافت کوئست مورد نظر نیست. وقتی Sugar Run را به Nomi تحویل می‌دهید، کوئست‌های روزانه در همه زون‌ها فعال می‌شوند. بنابراین می‌توانید کوئست را بگیرید، از پورتال عبور کنید، آن را تحویل دهید و از انتخاب کوئست جدید خودداری کنید. سپس به زون دلخواه پرواز کنید و دوباره Nomi را پیدا کنید که کوئست‌های روزانه متفاوتی برایتان دارد.",
-    "موقعیت Nomi در Felwood به صورت /way #77 43.7 68.5 و در Duskwood به صورت /way #47 67.25 76.71 است. با ۹ آلت می‌توانید Sweet Tooth را در یک روز کامل کنید."
-   ],
-   "tags_fa": [
-    "هالووین اند",
-    "دستاورد Sweet Tooth",
-    "آلت‌ها",
-    "رویداد فصلی"
-   ],
-   "items": [],
-   "title_en": "Complete New Sweet Tooth Hallow's End Achievement Quickly Using Alts",
-   "source_url": "https://www.wowhead.com/news=383525",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383525-complete-new-sweet-tooth-hallow-s-end-achievement-quickly-using-alts.html",
-   "published_at": "2026-10-26T06:05:47Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
-  },
-  {
-   "id": 383551,
-   "slug": "four-new-titles-available-from-talebound-in-patch-12-1-7",
-   "title_fa": "چهار عنوان جدید از Talebound در پچ ۱۲.۱.۷",
-   "lead_fa": "با ورود حالت بازی Talebound در پچ ۱۲.۱.۷، چهار عنوان تازه برای بازیکنان در نظر گرفته شده که با تکمیل دستاوردها به دست می‌آیند.",
-   "body_fa": [
-    "Talebound یک حالت مستقل roguelite است که در پچ ۱۲.۱.۷ اضافه می‌شود. بازیکنان یکی از سه کلاس را انتخاب کرده و ماجراجویی خود را از شهر Quillgrave آغاز می‌کنند.",
-    "در Quillgrave با شخصیت Storyteller روبه‌رو خواهید شد که داستان‌ها را روایت می‌کند.",
-    "سه عنوان با تکمیل Mythic difficulty برای هر یک از سه کلاس به دست می‌آیند: Mythic: The Inquisitor's Final Confrontation، Mythic: The Slayer's Final Confrontation و Mythic: The Witch's Final Confrontation.",
-    "عنوان چهارم نیز با تکمیل Stories to Share و تمام داستان‌های Storyteller کسب می‌شود.",
-    "اطلاعات دقیقی از Talebound در دسترس نیست زیرا هنوز روی PTR پچ ۱۲.۱.۷ تست نشده و سختی Mythic difficulty تا زمان تست یا انتشار مشخص نخواهد بود."
-   ],
-   "tags_fa": [
-    "Talebound",
-    "۱۲.۱.۷",
-    "عنوان جدید",
-    "PTR"
-   ],
-   "items": [],
-   "title_en": "Four New Titles Available from Talebound in Patch 12.1.7",
-   "source_url": "https://www.wowhead.com/news=383551",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383551-four-new-titles-available-from-talebound-in-patch-12-1-7.html",
-   "published_at": "2026-10-26T05:44:21Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": ""
-  },
-  {
-   "id": 383529,
-   "slug": "bind-to-account-mythic-gear-chests-now-available",
-   "title_fa": "جعبه‌های Amani Equipment Chest برای ارسال به کاراکترهای دیگر حساب در دسترس است",
-   "lead_fa": "با ریست هفتگی اخیر، حالا می‌توانید جعبه Amani Equipment Chest را از Agmera بخرید و آن را برای کاراکترهای دیگر حساب خود ارسال کنید.",
-   "body_fa": [
-    "این جعبه در موقعیت /way #2393 42.15 58.72 قرار دارد و با پرداخت 750 Voidlight Marl قابل خرید است.",
-    "هر جعبه حاوی یک قطعه gear با Item Level 292 (Champion 1/6) از dungeonهای Season 2 است.",
-    "این روش منبع مناسبی برای gearing کاراکترهای تازه‌است، به‌ویژه اگر Voidlight Marl اضافی داشته باشید.",
-    "توجه کنید که این جعبه‌ها bad luck protection ندارند، بنابراین باز کردن چندین جعبه ممکن است چندین قطعه از همان slot را به شما بدهد.",
-    "کاراکترهای تازه حالا به صورت پیش‌فرض 5 Catalyst Charge دارند و این جعبه راه خوبی برای به دست آوردن tier slot pieces به منظور رسیدن فوری به 4-set و unlock Midnight Season 2: Catalyst Unbound است."
-   ],
-   "tags_fa": [
-    "Mythic+",
-    "Midnight",
-    "Season 2"
-   ],
-   "items": [],
-   "title_en": "Bind to Account Mythic+ Gear Chests Now Available",
-   "source_url": "https://www.wowhead.com/news=383529",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383529-bind-to-account-mythic-gear-chests-now-available.html",
-   "published_at": "2026-10-26T05:42:22Z",
+   "published_at": "2026-10-26T13:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -1431,10 +1059,123 @@
    "title_en": "More Readable Book Decor Coming in Patch 12.1.7",
    "source_url": "https://www.wowhead.com/news=383516",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383516-more-readable-book-decor-coming-in-patch-12-1-7.html",
-   "published_at": "2026-10-26T05:39:46Z",
+   "published_at": "2026-10-25T18:00:00Z",
    "model": "gemini-flash-latest",
    "via": "auto-gemini",
    "reviewer": "grok-4.20-0309-non-reasoning"
+  },
+  {
+   "id": 383544,
+   "slug": "catch-up-on-renown-quickly-with-aqir-invasions",
+   "title_fa": "با حمله‌های Aqir هر هفته، Renown فرکشن‌های Midnight را سریع بالا ببرید",
+   "lead_fa": "برای جبران عقب‌افتادگی اعتبار فرکشن‌های Midnight، حمله‌های Aqir ساده‌ترین راه‌اند؛ رویدادی ساعتی که با دو توکن هفتگی، اعتبار سنگینی به دست می‌دهد.",
+   "body_fa": [
+    "حمله‌های Aqir یکی از فعالیت‌های تازهٔ پچ 12.1.5 در Midnight است؛ رویدادی که هر ساعت، سرِ ساعت شروع می‌شود و مرحلهٔ نخست آن ۱۰ دقیقه طول می‌کشد. در این بازه، بازیکن‌ها درون زون پرواز می‌کنند و هدف‌های علامت‌گذاری‌شده را در نقطهٔ مشخص‌شده کامل می‌کنند.",
+    {
+     "t": "h",
+     "x": "باس هر ساعت و توکن هفتگی"
+    },
+    "پس از پایان همین ۱۰ دقیقه است که یک Aqir Monstrosity ظاهر می‌شود و بازیکن‌ها زمان محدودی برای از پا درآوردنش دارند. نکتهٔ مهم برای شکارچیان اعتبار همین‌جاست: در هر هفته، دوبار نخست که این باس را شکست دهید، یک [[item:Aqir Research Satchel]] به دست می‌آورید.",
+    {
+     "t": "note",
+     "x": "فقط دو شکست هفتگی نخست توکن می‌دهد؛ بعد از آن به‌همین‌رویداد برگردید و وقت تلف نکنید.",
+     "kind": "tip"
+    },
+    {
+     "t": "h",
+     "x": "مبادلهٔ توکن در Silvermoon City"
+    },
+    "این توکن نزد فروشنده‌های Aqir Vendors در Silvermoon City مبادله می‌شود؛ دقیقاً در مختصات /way #2393 39.4 80.4. با صحبت با Matildeux Osril انتخاب می‌کنید که اعتبار به کدام فرکشن تعلق بگیرد.",
+    {
+     "t": "table",
+     "head": [
+      "فرکشن",
+      "اعتبار به ازای هر توکن"
+     ],
+     "rows": [
+      [
+       "Silvermoon Court",
+       "2,500"
+      ],
+      [
+       "Amani Tribe",
+       "2,500"
+      ],
+      [
+       "Hara'ti",
+       "2,500"
+      ],
+      [
+       "Singularity",
+       "2,500"
+      ],
+      [
+       "Zul'jarra's Forces",
+       "1,250"
+      ]
+     ]
+    },
+    {
+     "t": "item",
+     "id": 277283
+    },
+    "چون رویداد هر ساعت تکرار می‌شود، بهتر است دو شکست هفتگی را در برنامه‌تان بگنجانید تا پیشرفت Renown فرکشن‌های Midnight بدون وقفه ادامه پیدا کند."
+   ],
+   "tags_fa": [
+    "پچ 12.1.5",
+    "Midnight",
+    "Renown",
+    "Aqir Invasions"
+   ],
+   "items": [],
+   "title_en": "Catch Up on Renown Quickly with Aqir Invasions",
+   "source_url": "https://www.wowhead.com/news=383544",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383544-catch-up-on-renown-quickly-with-aqir-invasions.html",
+   "published_at": "2026-10-25T08:39:00Z",
+   "model": "GLM",
+   "via": "auto-demo",
+   "reviewer": ""
+  },
+  {
+   "id": 383566,
+   "slug": "new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr",
+   "title_fa": "چهار معجون جدید با ۳۰ درصد Experience بیشتر در PTR پچ 12.1.7",
+   "lead_fa": "PTR پچ 12.1.7 چهار معجون تازه آورده که هر کدام ۳۰ درصد Experience بیشتر از نسخهٔ فعلی می‌دهند؛ ترکیب‌های تازه‌ای که سطح‌گیری را سریع‌تر می‌کند.",
+   "body_fa": [
+    "در جدیدترین بیلد PTR پچ 12.1.7 چهار معجون جدید دیده می‌شود که جایگزین ترکیب‌های فعلی می‌شوند و همه یک ویژگی مشترک دارند: ۳۰ درصد Experience بیشتر.",
+    {
+     "t": "h",
+     "x": "چهار معجون تازه"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "معجون اول — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت",
+      "معجون دوم — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت",
+      "معجون سوم — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت",
+      "معجون چهارم — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "این اطلاعات از بیلد PTR است؛ تا انتشار نهایی پچ ممکن است مقادیر تغییر کند.",
+     "kind": "warn"
+    },
+    "اگر در فصل فعلی سطح‌گیری می‌کنید، این معجون‌ها بعد از انتشار پچ بهترین گزینهٔ فلسک و فایل شما خواهند بود."
+   ],
+   "tags_fa": [
+    "PTR",
+    "پچ 12.1.7",
+    "Experience"
+   ],
+   "items": [],
+   "title_en": "New 30% Bonus Experience Potions Datamined on Patch 12.1.7 PTR",
+   "source_url": "https://www.wowhead.com/news=383566",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383566-new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr.html",
+   "published_at": "2026-10-24T18:00:00Z",
+   "model": "GLM",
+   "via": "auto-demo",
+   "reviewer": ""
   },
   {
    "id": 383554,
@@ -1459,91 +1200,296 @@
    "title_en": "World Bosses, Legendaries, and a Scourge Invasion - The WoW: Forever Beta is Over",
    "source_url": "https://www.wowhead.com/news=383554",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383554-world-bosses-legendaries-and-a-scourge-invasion-the-wow-forever-beta-i.html",
-   "published_at": "2026-10-26T05:13:41Z",
+   "published_at": "2026-10-23T20:13:11Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
   },
   {
-   "id": 383524,
-   "slug": "get-30-off-game-services-and-up-to-50-off-transmogs-toys-and-bundles-o",
-   "title_fa": "تخفیف ۳۰ درصدی خدمات و تا ۵۰ درصدی ترنسماگ، توی و باندل در فروشگاه Battle.net",
-   "lead_fa": "فروش جدیدی در فروشگاه Battle.net آغاز شده و بازیکنان می‌توانند ۳۰٪ تخفیف روی خدمات بازی و تا ۵۰٪ تخفیف روی ترنسماگ، توی و باندل‌های منتخب دریافت کنند.",
+   "id": 383560,
+   "slug": "blizzard-thanks-players-for-testing-the-wow-forever-beta",
+   "title_fa": "بلیتزر از بازیکنان بتای WoW Forever قدردانی کرد",
+   "lead_fa": "بلیتزر با انتشار پیامی از بازیکنان برای شرکت در بتای WoW Forever تشکر کرده و جزئیاتی از مراحل پیش از انتشار در ۴ نوامبر را اعلام کرد.",
    "body_fa": [
-    "در این فروش World of Warcraft Midnight با قیمت ۲۴.۹۹ دلار (۵۰٪ تخفیف) عرضه می‌شود.",
-    "باندل Wings and Wisdom Pack با قیمت ۱۷.۵۰ دلار (۵۰٪ تخفیف) و Mighty Kodo Pack با قیمت ۱۲.۵۰ دلار (۵۰٪ تخفیف) در دسترس هستند.",
-    "از توی‌ها می‌توان به Sandbox Storm Gryphon با قیمت ۵.۰۰ دلار (۵۰٪ تخفیف)، Deepdweller's Earthen Hearthstone با قیمت ۲.۵۰ دلار (۵۰٪ تخفیف)، Magical Murkmorpher با قیمت ۵.۰۰ دلار (۵۰٪ تخفیف)، Eternal Traveler's Hearthstone با قیمت ۲.۵۰ دلار (۵۰٪ تخفیف)، Timewalker's Hearthstone با قیمت ۲.۵۰ دلار (۵۰٪ تخفیف) و Transmorpher Beacon با قیمت ۵ دلار (۵۰٪ تخفیف) اشاره کرد.",
-    "مجموعه‌های ترنسماگ نیز شامل Cozy Kobold Collection با قیمت ۱۴.۰۰ دلار (۳۰٪ تخفیف)، Ensemble: Lana'thel's Crimson Couture با قیمت ۱۴.۰۰ دلار (۳۰٪ تخفیف)، Ensemble: Stormrider's Attire با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Heavenly Regalia Pack با قیمت ۱۵.۰۰ دلار (۴۰٪ تخفیف)، Ensemble: Green Snugglefin Murloc Romper با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف) و Dreadlord's Regalia Pack با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف) هستند.",
-    "دیگر اقلام ترنسماگ عبارتند از Diadem of the Spell-Keeper با قیمت ۴.۰۰ دلار (۵۰٪ تخفیف)، Collection: Wings of Awakening با قیمت ۷.۵۰ دلار (۵۰٪ تخفیف)، Ensemble: Waveborne Diplomat's Regalia با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Ensemble: Fireplume Regalia با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Ensemble: Sprite Darter's Wings با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Collection: Baby Murloc Satch-Shells با قیمت ۷.۵۰ دلار (۵۰٪ تخفیف) و Ensemble: Celestial Observer با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف).",
-    "خدمات بازی نیز با تخفیف عرضه می‌شوند: Enhanced Level 80 Character Boosts با ۳۳٪ تخفیف، Character Transfers با ۳۰٪ تخفیف، Faction Changes با ۳۰٪ تخفیف، Race Changes با ۳۰٪ تخفیف و Name Changes با ۳۰٪ تخفیف.",
-    "این فروش هم‌اکنون فعال است و علاقه‌مندان می‌توانند اقلام مورد نظر خود را از فروشگاه Battle.net تهیه کنند."
+    "بتای WoW Forever اکنون به طور رسمی به پایان رسیده است و بلیتزر از همه کسانی که طی پنج هفته گذشته در تست بازی، جمع‌آوری داده، گزارش باگ و ارائه بازخورد شرکت کردند قدردانی کرده است.",
+    "تیم اکنون بر رفع مسائل اولویت‌دار و بهبود سرویس بازی تمرکز خواهد کرد تا برای launch day on November 4 آماده باشد.",
+    "بلیتزر اعلام کرده که سرویس Name Reservation در ۲۷ اکتبر فعال می‌شود و به بازیکنان فرصت می‌دهد تا ruleset مورد نظر خود را انتخاب کنند و نام مناسب شخصیت‌شان را رزرو کنند.",
+    "در ادامه، تیم به فعالیت خود با WoW Forever Podcast خواهد پرداخت و توصیه کرده که علاقه‌مندان قسمت‌های منتشرشده را دنبال کنند.",
+    "پادکست شامل پنج قسمت است: Episode 1 - Unpacking Beta Launch ft. @Xaryu، Episode 2 - Speed Running Classes ft. @sodapoppin، Episode 3 - Dive Into Dungeons With Devs ft. @Hammerdancegaming، Episode 4 - The PvP Episode ft. @TipsOutBaby & @Savixirl و Episode 5 - End of Beta Special.",
+    "بلیتزر بار دیگر از جامعه‌ای که در طول بتا شکل گرفته تشکر کرده و ابراز امیدواری کرده که بازیکنان را در ۴ نوامبر ملاقات کند."
    ],
    "tags_fa": [
-    "فروش Battle.net",
-    "تخفیف WoW",
-    "ترنسماگ",
-    "World of Warcraft Midnight"
+    "WoW Forever",
+    "بتا",
+    "پادکست",
+    "Name Reservation"
    ],
    "items": [],
-   "title_en": "Get 30% Off Game Services and Up to 50% Off Transmogs, Toys and Bundles on the Battle.net Shop",
-   "source_url": "https://www.wowhead.com/news=383524",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383524-get-30-off-game-services-and-up-to-50-off-transmogs-toys-and-bundles-o.html",
-   "published_at": "2026-10-25T22:37:34Z",
+   "title_en": "Blizzard Thanks Players for Testing the WoW Forever Beta",
+   "source_url": "https://www.wowhead.com/news=383560",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383560-blizzard-thanks-players-for-testing-the-wow-forever-beta.html",
+   "published_at": "2026-10-23T17:12:50Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
   },
   {
-   "id": 383505,
-   "slug": "use-skeleton-keys-to-open-locked-door-in-labyrinths-easy-achievement-f",
-   "title_fa": "استفاده از کلیدهای Skeleton برای باز کردن درهای قفل‌شده در Labyrinthها",
-   "lead_fa": "بازیکنان راهی سریع‌تر برای باز کردن در قفل‌شده Labyrinthها پیدا کرده‌اند که نیازی به جستجوی Keeper of the Key ندارد و فارمینگ دستاورد را بسیار سریع‌تر می‌کند.",
+   "id": 383558,
+   "slug": "watch-the-world-of-warcraft-midnight-motion-comic-singularity",
+   "title_fa": "تماشای موشن‌کامیک Midnight با عنوان Singularity",
+   "lead_fa": "بلیزارد موشن‌کامیک جدیدی از سری Midnight به نام Singularity را منتشر کرده که توسط Yuri Lowenthal به عنوان Arator Windrunner خوانده شده است.",
    "body_fa": [
-    "در هر Labyrinth run، یکی از پنج موقعیت ممکن شامل در قفل‌شده است که با نماد کلید نقره‌ای نشان داده می‌شود. به‌جای پیدا کردن Keeper of the Key که Archaic Amani Key می‌دهد، بازیکنان می‌توانند از مهارت Lockpicking Rogue سطح ۹۰ یا کلید Skeleton ساخته‌شده توسط Blacksmithing استفاده کنند.",
-    "توصیه می‌شود همیشه تعدادی Thalassian Skeleton Key همراه داشته باشید تا نیازی به گشت‌وگذار در Labyrinth برای پیدا کردن Keeper of the Key نباشد.",
-    "اتاق قفل‌شده حاوی Mislaid Treasures برای کسب شهرت و Mislaid Curiosities برای افزایش آمار است.",
-    "با داشتن کلیدهای Skeleton می‌توانید دو دستاورد Labyrinth را به‌راحتی فارم کنید: Lock and Key Master که نیاز به باز کردن ۲۰ Locked Room دارد و A Few More Can't Hurt که با لوت کردن Mislaid Treasures به‌دست می‌آید.",
-    "یکی از Spawnهای در قفل‌شده درست نزدیک ورودی قرار می‌گیرد. کافی است با Labyrinth Tier ۱ وارد شوید، به Spawn سمت راست بروید، در را چک کنید، اگر وجود داشت با Thalassian Skeleton Key باز کنید، اتاق را لوت کنید و خارج شوید.",
-    "اگر در آنجا نبود، فوراً خارج شوید و دوباره امتحان کنید. این روش بسیار سریع است، محدودیت Instance Lockout در ساعت ندارد و به شما اجازه می‌دهد هر دو دستاورد را در زمان کوتاهی بگیرید."
+    "این ویدیو شش دقیقه‌ای شامل خوانش کمیک Singularity نوشتهٔ Robert Brooks توسط Yuri Lowenthal است.",
+    "داستان بر حول Arator Windrunner می‌چرخد که با کمک مربی‌اش Umbric به عمق Void سفر می‌کند تا سرنخی از سرنوشت والدین گمشده‌اش بیابد.",
+    "او باید با Void روبه‌رو شود بدون آنکه خود را به آن تسلیم کند.",
+    "Letters توسط AndWorld Design انجام شده و نسخهٔ PDF کمیک نیز قابل دانلود است.",
+    "Yuri Lowenthal صداپیشهٔ Arator Windrunner است."
    ],
    "tags_fa": [
-    "Labyrinth",
-    "دستاورد",
-    "Skeleton Key",
-    "فارمینگ"
+    "Midnight",
+    "موشن‌کامیک",
+    "Singularity"
    ],
    "items": [],
-   "title_en": "Use Skeleton Keys to Open Locked Door in Labyrinths - Easy Achievement Farming",
-   "source_url": "https://www.wowhead.com/news=383505",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383505-use-skeleton-keys-to-open-locked-door-in-labyrinths-easy-achievement-f.html",
-   "published_at": "2026-10-25T22:15:29Z",
+   "title_en": "Watch the World of Warcraft: Midnight Motion Comic, “Singularity”",
+   "source_url": "https://www.wowhead.com/news=383558",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383558-watch-the-world-of-warcraft-midnight-motion-comic-singularity.html",
+   "published_at": "2026-10-23T17:08:34Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-grok",
+   "reviewer": ""
+  },
+  {
+   "id": 383557,
+   "slug": "get-your-wow-forever-beta-stats",
+   "title_fa": "امکان مشاهده و اشتراک‌گذاری آمار دوره WoW: Forever Beta فراهم شد",
+   "lead_fa": "هم‌زمان با پایان دوره آزمایشی WoW: Forever Beta، بازیکنان می‌توانند خلاصه آمار عملکرد و فعالیت‌های خود را مرور کرده و به اشتراک بگذارند.",
+   "body_fa": [
+    "دوره آزمایشی WoW: Forever Beta امروز در ساعت 10:00 به وقت PDT به پایان می‌رسد. در همین راستا، Blizzard قابلیت جدیدی را در دسترس قرار داده است که جزئیات و آمارهای گوناگونی از ماجراجویی‌های بازیکنان را در این مدت گردآوری کرده است.",
+    "این ابزار اطلاعات متفاوتی را پوشش می‌دهد؛ از تعداد ساعاتی که درون بازی صرف کرده‌اید گرفته تا موبی که بیش از همه باعث مرگ شما شده و تعداد دفعاتی که کاراکتر شما پریده است.",
+    "علاوه بر مشاهده آمار، بخشی نیز در پایین صفحه برای شخصی‌سازی تعبیه شده است. بازیکنان می‌توانند آمارهای دلخواه خود را گزینش کرده، تصویری سفارشی از دستاوردهایشان بسازند و آن را برای دوستان خود ارسال کنند."
+   ],
+   "tags_fa": [
+    "بتا",
+    "Forever",
+    "Blizzard"
+   ],
+   "items": [],
+   "title_en": "Get Your WoW: Forever Beta Stats",
+   "source_url": "https://www.wowhead.com/news=383557",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383557-get-your-wow-forever-beta-stats.html",
+   "published_at": "2026-10-23T16:35:49Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "grok-4.20-0309-non-reasoning"
+  },
+  {
+   "id": 383523,
+   "slug": "dalaran-updated-ahead-of-the-beta-s-end-in-wow-forever",
+   "title_fa": "به‌روزرسانی دالاران پیش از پایان بتای WoW: Forever",
+   "lead_fa": "در آخرین بیلد بتای World of Warcraft: Forever، شهر دالاران مانع دفاعی خود را پایین آورده و حالا بازیکنان Alliance می‌توانند آزادانه وارد آن شوند. این شهر که نخستین بار در Wrath of the Lich King معرفی شد، تغییرات قابل توجهی دریافت کرده است.",
+   "body_fa": [
+    "در این به‌روزرسانی، نگهبانان شهر ارتقا یافته‌اند. Arcane Sentries حالا به شکل بارزتری در نقاط مختلف شهر حضور دارند و به Level 55 Elite تبدیل شده‌اند.",
+    "Kirin Tor Guards به بازیکنان کمک می‌کنند تا مکان‌های مورد نظر خود مانند مهمانخانه، مربیان حرفه‌ها و transmogrifier را پیدا کنند. علاوه بر مربیان حرفه‌ها، مربیان کلاس نیز در شهر حضور دارند که شامل Druid و Mage trainer می‌شود.",
+    "منطقه Underbelly حالا میزبان battlemasters است که بازیکنان می‌توانند از طریق آن‌ها برای تمام battlegroundها، از جمله Darkspear Islands جدید، صف ببندند. «Baroness» Llana که قبلاً Arena Organizer در Wrath of the Lich King بود، حالا به‌عنوان Alterac Valley Battlemaster فعالیت می‌کند.",
+    "بازیکنان Alliance می‌توانند کوئست جدیدی به نام Past Due را در دالاران دریافت کنند. این کوئست توسط Magus Olvek ارائه می‌شود و بازیکنان را ملزم می‌کند تا Arcanist Doan، باس نهایی Scarlet Monastery Library را شکست دهند و غنایم او را جمع‌آوری کنند. کسانی که World of Warcraft TCG را می‌شناسند، احتمالاً این NPC را به خاطر می‌آورند.",
+    "در کنار NPCهای جدید و چهره‌های آشنا از نسخه‌های قبلی، یکی از تغییرات مهم حذف پورتال دالاران از Stormwind City برای High Order Skyborne است. پورتال از دالاران به Stormwind همچنان وجود دارد، اما پورتال بازگشت به دالاران حذف شده است. Theresa Wolf در Silver Enclave در حال تلاش برای احضار چیزی است که ممکن است بعداً به پورتال تبدیل شود.",
+    "با نزدیک شدن به پایان بتا، بازیکنان باید فعلاً با دالاران خداحافظی کنند. شهر در زمان لانچ رسمی WoW: Forever در ۴ نوامبر ممکن است تغییرات بیشتری دریافت کند."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "دالاران",
+    "بتا",
+    "به‌روزرسانی"
+   ],
+   "items": [],
+   "title_en": "Dalaran Updated Ahead of the Beta's End in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383523",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383523-dalaran-updated-ahead-of-the-beta-s-end-in-wow-forever.html",
+   "published_at": "2026-10-23T16:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
   },
   {
-   "id": 383528,
-   "slug": "optimize-tricky-treat-exchange-with-neighborhood-vendors-for-hallow-s-",
-   "title_fa": "بهینه‌سازی تبادل Tricky Treat با فروشندگان Hallow's End",
-   "lead_fa": "رویداد Hallow's End با اضافه شدن مأموریت‌های روزانه جدید، امکان دریافت آب‌نبات‌های ویژه را فراهم کرده که می‌توان آن‌ها را با نرخ‌های متفاوت به Tricky Treat تبدیل کرد.",
+   "id": 383529,
+   "slug": "bind-to-account-mythic-gear-chests-now-available",
+   "title_fa": "جعبه‌های Amani Equipment Chest برای ارسال به کاراکترهای دیگر حساب در دسترس است",
+   "lead_fa": "با ریست هفتگی اخیر، حالا می‌توانید جعبه Amani Equipment Chest را از Agmera بخرید و آن را برای کاراکترهای دیگر حساب خود ارسال کنید.",
    "body_fa": [
-    "هر روز هر محله یکی از سه تم Duskwood، Drustvar یا Felwood را دریافت می‌کند. با انجام مأموریت‌های روزانه در محله مربوطه، بازیکنان علاوه بر Tricky Treat، آب‌نبات ویژه آن تم را هم به دست می‌آورند: Drustvar Choc-O-Drops برای Drustvar، Duskwood Caramel برای Duskwood و Felwood Fudge Bite برای Felwood.",
-    "این آب‌نبات‌ها را می‌توان نزد فروشندگان مخصوص هر محله به Tricky Treat تبدیل کرد. موقعیت فروشندگان به این شکل است: برای Horde در /way #2351 51.72 54.5 و برای Alliance در /way #2352 53.74 33.67.",
-    "هر محله نرخ تبدیل متفاوتی دارد و این نرخ از ۵ Tricky Treat در برابر ۱ آب‌نبات تا ۵ Tricky Treat در برابر ۵ آب‌نبات متغیر است. بهترین حالت، یافتن محله‌ای است که ۵ Tricky Treat در برابر ۱ آب‌نبات ارائه می‌دهد.",
-    "برای بهره‌برداری حداکثری، بازیکنان می‌توانند با استفاده از LFG یا فهرست دوستان بین محله‌ها جابه‌جا شوند تا نرخ مطلوب را پیدا کنند. این روش امکان دریافت مقدار بسیار زیادی Tricky Treat و تبدیل آن به پاداش‌های مختلف را فراهم می‌آورد.",
-    "اگر امروز نرخ مناسبی پیدا نکردید، فردا با تازه‌سازی فروشندگان دوباره امتحان کنید."
+    "این جعبه در موقعیت /way #2393 42.15 58.72 قرار دارد و با پرداخت 750 Voidlight Marl قابل خرید است.",
+    "هر جعبه حاوی یک قطعه gear با Item Level 292 (Champion 1/6) از dungeonهای Season 2 است.",
+    "این روش منبع مناسبی برای gearing کاراکترهای تازه‌است، به‌ویژه اگر Voidlight Marl اضافی داشته باشید.",
+    "توجه کنید که این جعبه‌ها bad luck protection ندارند، بنابراین باز کردن چندین جعبه ممکن است چندین قطعه از همان slot را به شما بدهد.",
+    "کاراکترهای تازه حالا به صورت پیش‌فرض 5 Catalyst Charge دارند و این جعبه راه خوبی برای به دست آوردن tier slot pieces به منظور رسیدن فوری به 4-set و unlock Midnight Season 2: Catalyst Unbound است."
    ],
    "tags_fa": [
-    "Hallow's End",
-    "Tricky Treat",
-    "رویداد فصلی",
-    "بهینه‌سازی"
+    "Mythic+",
+    "Midnight",
+    "Season 2"
    ],
    "items": [],
-   "title_en": "Optimize Tricky Treat Exchange with Neighborhood Vendors for Hallow's End",
-   "source_url": "https://www.wowhead.com/news=383528",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383528-optimize-tricky-treat-exchange-with-neighborhood-vendors-for-hallow-s-.html",
-   "published_at": "2026-10-25T21:53:36Z",
+   "title_en": "Bind to Account Mythic+ Gear Chests Now Available",
+   "source_url": "https://www.wowhead.com/news=383529",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383529-bind-to-account-mythic-gear-chests-now-available.html",
+   "published_at": "2026-10-23T15:00:00Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
+  {
+   "id": 383511,
+   "slug": "some-decor-costs-adjusted-on-the-patch-12-1-7-ptr",
+   "title_fa": "تغییر قیمت دیکورها در PTR پچ 12.1.7؛ کتاب‌ها ارزان، بخشی از Midnight گران‌تر",
+   "lead_fa": "روی PTR پچ 12.1.7 قیمت‌های دیکور خانه جابه‌جا شده است؛ دیکورهای The War Within ارزان‌تر شده‌اند و قیمت برخی آیتم‌های Midnight بالا رفته است.",
+   "body_fa": [
+    "بارزترین نمونه، Literature of Dornogal است که قبلاً با قیمت 1000 از فروشندهٔ Auditor Balwurz خریداری می‌شد؛ حالا قیمتش به 250 رسیده است. برای کسی که می‌خواهد یک قفسهٔ کامل کتاب بچیند، این یعنی پر کردن کتابخانهٔ خانه چند برابر مقرون‌به‌صرفه شده است.",
+    "الگوی کاهش قیمت گسترده است: آیتم‌هایی مثل Boulder Springs Recliner و Rambleshire Resting Platform و تخم‌های Nourished و Dormant Brood Egg همگی از 350 به 250 رسیده‌اند. Dornogal Hanging Lantern هم با قیمت 500 در دسترس است و Handmade Shen'dorei Pillow از فروشگاه Midnight با کاهش چشمگیر از 5000 به همان 500 رسیده است.",
+    "خود آیتم‌ها هم چیز تازه‌ای بابت House XP ندارند: همچنان هر دیکور 10 House XP می‌دهد و بیشترشان هم داخل خانه و هم بیرون قابل قرارگیری‌اند.",
+    "در مجموع، این تغییرها جهت روشنی دارند: ورود به دکوراسیون خانه برای بازیکن‌های تازه‌تر ارزان‌تر می‌شود و آیتم‌های شاخص Midnight کمی گران‌تر می‌شوند. اگر لیست خریدی برای خانه‌تان دارید، بهتر است قبل از رسیدن پچ 12.1.7 به لایو، قیمت‌ها را یک بار دیگر چک کنید."
+   ],
+   "tags_fa": [
+    "PTR",
+    "دیکور خانه",
+    "Midnight",
+    "پچ 12.1.7"
+   ],
+   "items": [],
+   "title_en": "Some Decor Costs Adjusted on the Patch 12.1.7 PTR",
+   "source_url": "https://www.wowhead.com/news=383511",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383511-some-decor-costs-adjusted-on-the-patch-12-1-7-ptr.html",
+   "published_at": "2026-10-23T14:15:00Z",
+   "model": "GLM",
+   "via": "",
+   "reviewer": ""
+  },
+  {
+   "id": 383551,
+   "slug": "four-new-titles-available-from-talebound-in-patch-12-1-7",
+   "title_fa": "چهار عنوان جدید از Talebound در پچ ۱۲.۱.۷",
+   "lead_fa": "با ورود حالت بازی Talebound در پچ ۱۲.۱.۷، چهار عنوان تازه برای بازیکنان در نظر گرفته شده که با تکمیل دستاوردها به دست می‌آیند.",
+   "body_fa": [
+    "Talebound یک حالت مستقل roguelite است که در پچ ۱۲.۱.۷ اضافه می‌شود. بازیکنان یکی از سه کلاس را انتخاب کرده و ماجراجویی خود را از شهر Quillgrave آغاز می‌کنند.",
+    "در Quillgrave با شخصیت Storyteller روبه‌رو خواهید شد که داستان‌ها را روایت می‌کند.",
+    "سه عنوان با تکمیل Mythic difficulty برای هر یک از سه کلاس به دست می‌آیند: Mythic: The Inquisitor's Final Confrontation، Mythic: The Slayer's Final Confrontation و Mythic: The Witch's Final Confrontation.",
+    "عنوان چهارم نیز با تکمیل Stories to Share و تمام داستان‌های Storyteller کسب می‌شود.",
+    "اطلاعات دقیقی از Talebound در دسترس نیست زیرا هنوز روی PTR پچ ۱۲.۱.۷ تست نشده و سختی Mythic difficulty تا زمان تست یا انتشار مشخص نخواهد بود."
+   ],
+   "tags_fa": [
+    "Talebound",
+    "۱۲.۱.۷",
+    "عنوان جدید",
+    "PTR"
+   ],
+   "items": [],
+   "title_en": "Four New Titles Available from Talebound in Patch 12.1.7",
+   "source_url": "https://www.wowhead.com/news=383551",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383551-four-new-titles-available-from-talebound-in-patch-12-1-7.html",
+   "published_at": "2026-10-23T13:00:00Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
+  {
+   "id": 383550,
+   "slug": "patch-12-1-7-ptr-development-notes-various-bug-fixes",
+   "title_fa": "یادداشت‌های توسعه PTR پچ ۱۲.۱.۷",
+   "lead_fa": "این هفته یادداشت‌های توسعه PTR پچ ۱۲.۱.۷ منتشر شد و فقط به رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه اشاره دارد.",
+   "body_fa": [
+    "پچ ۱۲.۱.۷ هفته گذشته به همراه PTR پیش‌نمایش خود را دریافت کرد.",
+    "این هفته PTR با رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه به‌روزرسانی شده است.",
+    "یادداشت‌های توسعه این هفته فقط شامل یک خط در این مورد است."
+   ],
+   "tags_fa": [
+    "PTR",
+    "12.1.7",
+    "Midnight"
+   ],
+   "items": [],
+   "title_en": "Patch 12.1.7 PTR Development Notes - Various Bug Fixes",
+   "source_url": "https://www.wowhead.com/news=383550",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383550-patch-12-1-7-ptr-development-notes-various-bug-fixes.html",
+   "published_at": "2026-10-22T23:04:49Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
+  {
+   "id": 383546,
+   "slug": "blizzard-teases-raid-philosophy-and-encounters-for-wow-forever",
+   "title_fa": "جزئیات فلسفه طراحی ریدها و باس‌های WoW: Forever",
+   "lead_fa": "توسعه‌دهندگان بلیزارد در پادکست اخیر خود به بررسی رویکرد طراحی محتوای PvE و میزان سختی ریدها در WoW: Forever پرداختند.",
+   "body_fa": [
+    "مایکل نوتالز (Michael Nuthals)، طراح ارشد انکانترها، در پادکست جدید Blizzard نحوه متعادل‌سازی سختی نبردها و دسترسی‌پذیری آن‌ها را شرح داد. به گفته او، هدف تیم این است که بازیکنان حس راحتی در همراه آوردن دوستانشان داشته باشند؛ فضایی که او آن را به همراهی با تنقلات و نوشیدنی تشبیه می‌کند تا در صورت آمادگی گروه، چالش پشت سر گذاشته شود و پاداش‌هایی به دست آید.",
+    "نوتالز بر اهمیت ایجاد تعادل در پیچیدگی مکانیک‌ها تأکید کرد. تیم توسعه با اتکا به بررسی‌های تیم QA، بازخورد تسترها را دریافت می‌کند تا از مکانیک‌های خسته‌کننده یا اضافه کردن پیچیدگی‌های بیش از حد و چالش افراطی جلوگیری کند. در عین حال، هماهنگی میان اعضای گروه چه از طریق چت صوتی و چه با استفاده از سیستم ping و هشدارهای داخل بازی همچنان برای موفقیت الزامی خواهد بود.",
+    "این طراح ارشد همچنین به چند نمونه از نبردهای مورد علاقه خود در تایر اول ریدهای ۱۰ و ۲۰ نفره اشاره کرد؛ از جمله انکانتری در Barrow Deeps که نیازمند مدیریت یک buff برای افزایش damage در ازای پرداخت هزینه‌ای مشخص است، باسی متشکل از دو عنکبوت، و یک باس crocalisk نامرده در Hyjal Summit که موجود تسخیرکننده آن بیرون می‌آید و جریان نبرد میان این دو فاز در رفت‌وآمد خواهد بود.",
+    "در پایان، نوتالز به محتوای اینستنس آینده اشاره کرد و از سازه‌ای شبیه به خانه یا عمارت نام برد؛ موضوعی که احتمالاً به نسخه بازطراحی‌شده Manor Mistmantle که بازیکنان در منطقه Duskwood پیدا کرده‌اند اشاره دارد."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "رید",
+    "بلیزارد"
+   ],
+   "items": [],
+   "title_en": "Blizzard Teases Raid Philosophy and Encounters for WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383546",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383546-blizzard-teases-raid-philosophy-and-encounters-for-wow-forever.html",
+   "published_at": "2026-10-22T20:38:25Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "grok-4.20-0309-non-reasoning"
+  },
+  {
+   "id": 383542,
+   "slug": "subtlety-rogue-interaction-with-demonology-warlocks-speculated-to-ninj",
+   "title_fa": "تعامل Rogue Subtlety و Warlock Demonology باعث کشیدن غیرعمدی دشمنان می‌شود",
+   "lead_fa": "با افزایش محبوبیت Rogue Subtlety در پچ ۱۲.۱.۵، یک باگ قدیمی دوباره مورد توجه قرار گرفته که باعث می‌شود Warlockهای Demonology به طور ناخواسته دشمنان را در دانجن‌ها ninja pull کنند.",
+   "body_fa": [
+    "در پچ ۱۲.۱.۵ بلیزارد یک باگ مربوط به Rogue Subtlety را رفع کرد و در عوض ۱۴٪ buff damage به آن‌ها داد. بسیاری از بازیکنان تصور می‌کردند این تغییر خنثی باشد ولی در عمل به buff damage بزرگی تبدیل شد.",
+    "نتیجه این buff باعث شد damage Rogue Subtlety به شدت افزایش یابد که طبق آمار Warcraft Logs به خوبی قابل مشاهده است. به همین دلیل بسیاری از گروه‌ها اکنون Rogue Subtlety را به کی‌های خود می‌آورند.",
+    "طبق Raider.io، Rogue Subtlety در حال حاضر یکی از بالاترین امتیازات را در فصل ۲ در کنار Arms Warrior، Holy Paladin، Blood DK و Elemental Shaman دارد و به طور محکم در متا جا افتاده است.",
+    "با قرار گرفتن Rogue Subtlety در متا، توجه‌ها به سمت یک باگ قدیمی رفته که باعث می‌شود Warlock Demonology در حضور Rogue Subtlety شروع به ninja-pulling دشمنان کند. این مسئله برخی Warlockهای Demonology را ناراحت کرده و باعث شده احساس کنند از گروه‌ها کنار گذاشته می‌شوند.",
+    "ninja-pulling دشمنان می‌تواند منجر به wipe شدن گروه در هر سطح کی شود. Phellxgodx در ردیت پستی گذاشته و توضیح داده که shadow clones از apex talent Rogue Subtlety باعث اختلال در targeting Diabolic Oculi یا Alythessa Blaze از hero talent Diabolist (در Demonology و Destruction) می‌شود و آن‌ها را وادار به حمله به هر چیزی در برد می‌کند.",
+    "اگر در دانجن‌ها متوجه کشیدن غیرمنتظره دشمنان شدید، احتمالاً به خاطر این باگ است. بهتر است در یک گروه همزمان Demonology Warlock و Subtlety Rogue نداشته باشید."
+   ],
+   "tags_fa": [
+    "Subtlety Rogue",
+    "Demonology Warlock",
+    "هاتفیکس",
+    "۱۲.۱.۵"
+   ],
+   "items": [],
+   "title_en": "Subtlety Rogue Interaction with Demonology Warlocks Speculated to Ninja Pull Mobs",
+   "source_url": "https://www.wowhead.com/news=383542",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383542-subtlety-rogue-interaction-with-demonology-warlocks-speculated-to-ninj.html",
+   "published_at": "2026-10-22T18:54:45Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
+  {
+   "id": 383538,
+   "slug": "josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours",
+   "title_fa": "جاش گرینفیلد از رویداد احتمالی در بتای WoW: Forever خبر داد",
+   "lead_fa": "جاش گرینفیلد با پستی در شبکه‌های اجتماعی بازیکنان را تشویق کرده که طی چند ساعت آینده یک بار دیگر به بتای WoW: Forever وارد شوند.",
+   "body_fa": [
+    "امروز آخرین روز کامل بتای WoW: Forever است و سرور فردا در تاریخ ۲۳ اکتبر ساعت ۱۰:۰۰ AM PDT بسته خواهد شد.",
+    "جاش «Aggrend» گرینفیلد با اشاره به زمان «چند ساعت» آینده، به نوعی از وقوع رویداد خاصی در بتا خبر داده است.",
+    "در رویدادهای پایان بتا در گذشته، بلزارد موجودات سرگرم‌کننده‌ای را در هاب‌های اصلی احضار می‌کرد؛ برای مثال Thrall در Stormwind یا Firelord Nomi.",
+    "امکان دارد این بار هم موجودات دشمن ظاهر شوند و بازیکنان را درگیر کنند.",
+    "بازیکنان اگر فرصت دارند، بهتر است طی ساعات آینده وارد بتا شوند تا ببینند چه اتفاقی رخ می‌دهد."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "بتا",
+    "رویداد پایان بتا",
+    "جاش گرینفیلد"
+   ],
+   "items": [],
+   "title_en": "Josh Greenfield Teases Possible Event on WoW: Forever Beta in \"Few Hours\"",
+   "source_url": "https://www.wowhead.com/news=383538",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383538-josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours.html",
+   "published_at": "2026-10-22T16:09:50Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
@@ -1572,162 +1518,176 @@
    "title_en": "No Mail Spell Power Dungeon and Quest Armor in WoW: Forever Early Levels",
    "source_url": "https://www.wowhead.com/news=383520",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383520-no-mail-spell-power-dungeon-and-quest-armor-in-wow-forever-early-level.html",
-   "published_at": "2026-10-25T21:31:36Z",
+   "published_at": "2026-10-22T16:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
   },
   {
-   "id": 383546,
-   "slug": "blizzard-teases-raid-philosophy-and-encounters-for-wow-forever",
-   "title_fa": "جزئیات فلسفه طراحی ریدها و باس‌های WoW: Forever",
-   "lead_fa": "توسعه‌دهندگان بلیزارد در پادکست اخیر خود به بررسی رویکرد طراحی محتوای PvE و میزان سختی ریدها در WoW: Forever پرداختند.",
+   "id": 383525,
+   "slug": "complete-new-sweet-tooth-hallow-s-end-achievement-quickly-using-alts",
+   "title_fa": "تکمیل سریع دستاورد Sweet Tooth هالووین اند با استفاده از آلت‌ها",
+   "lead_fa": "بازیکنان می‌توانند دستاورد جدید Sweet Tooth را با کمک آلت‌ها خیلی سریع به پایان برسانند.",
    "body_fa": [
-    "مایکل نوتالز (Michael Nuthals)، طراح ارشد انکانترها، در پادکست جدید Blizzard نحوه متعادل‌سازی سختی نبردها و دسترسی‌پذیری آن‌ها را شرح داد. به گفته او، هدف تیم این است که بازیکنان حس راحتی در همراه آوردن دوستانشان داشته باشند؛ فضایی که او آن را به همراهی با تنقلات و نوشیدنی تشبیه می‌کند تا در صورت آمادگی گروه، چالش پشت سر گذاشته شود و پاداش‌هایی به دست آید.",
-    "نوتالز بر اهمیت ایجاد تعادل در پیچیدگی مکانیک‌ها تأکید کرد. تیم توسعه با اتکا به بررسی‌های تیم QA، بازخورد تسترها را دریافت می‌کند تا از مکانیک‌های خسته‌کننده یا اضافه کردن پیچیدگی‌های بیش از حد و چالش افراطی جلوگیری کند. در عین حال، هماهنگی میان اعضای گروه چه از طریق چت صوتی و چه با استفاده از سیستم ping و هشدارهای داخل بازی همچنان برای موفقیت الزامی خواهد بود.",
-    "این طراح ارشد همچنین به چند نمونه از نبردهای مورد علاقه خود در تایر اول ریدهای ۱۰ و ۲۰ نفره اشاره کرد؛ از جمله انکانتری در Barrow Deeps که نیازمند مدیریت یک buff برای افزایش damage در ازای پرداخت هزینه‌ای مشخص است، باسی متشکل از دو عنکبوت، و یک باس crocalisk نامرده در Hyjal Summit که موجود تسخیرکننده آن بیرون می‌آید و جریان نبرد میان این دو فاز در رفت‌وآمد خواهد بود.",
-    "در پایان، نوتالز به محتوای اینستنس آینده اشاره کرد و از سازه‌ای شبیه به خانه یا عمارت نام برد؛ موضوعی که احتمالاً به نسخه بازطراحی‌شده Manor Mistmantle که بازیکنان در منطقه Duskwood پیدا کرده‌اند اشاره دارد."
+    "هالووین اند ۲۰۲۶ با سه تم محله جدید Felwood، Drustvar و Duskwood همراه است. هر تم به صورت تصادفی هر روز ظاهر می‌شود و کوئست‌های روزانه متفاوتی ارائه می‌دهد.",
+    "دستاورد Sweet Tooth نیازمند تکمیل ۳ کوئست روزانه متفاوت در هر یک از سه تم جدید است. هر روز باید به محله خود بروید و کوئست Sugar Run را پیدا کنید که شما را به پورتال زون تم محله هدایت می‌کند.",
+    "در آنجا کوئست را به Nomi تحویل دهید و از میان سه کوئست روزانه یکی را انتخاب کنید. باید هر یک از این کوئست‌ها را یک بار کامل کنید تا دستاورد به شما اعطا شود.",
+    "با توجه به اینکه هر کاراکتر در روز فقط می‌تواند یکی از کوئست‌های روزانه Nomi را انجام دهد، استفاده از آلت‌ها سرعت کار را بالا می‌برد. اگر سه آلت داشته باشید، هر کدام می‌توانند یک کوئست متفاوت انتخاب کنند و زون مربوطه را کامل کنند تا یکی از دستاوردهای Duskwood Caramel Crafter، Drustvar Choc-O-Drop Designer یا Felwood Fudge Bite Former به دست آید.",
+    "این روش حداقل سه روز زمان می‌برد زیرا باید هر زون را یک بار کامل کنید. بخش سخت آن پیدا کردن محله‌ای با تم درست برای زون‌هایی است که هنوز کامل نکرده‌اید.",
+    "با این حال نیازی به حضور در زون با تم درست برای دریافت کوئست مورد نظر نیست. وقتی Sugar Run را به Nomi تحویل می‌دهید، کوئست‌های روزانه در همه زون‌ها فعال می‌شوند. بنابراین می‌توانید کوئست را بگیرید، از پورتال عبور کنید، آن را تحویل دهید و از انتخاب کوئست جدید خودداری کنید. سپس به زون دلخواه پرواز کنید و دوباره Nomi را پیدا کنید که کوئست‌های روزانه متفاوتی برایتان دارد.",
+    "موقعیت Nomi در Felwood به صورت /way #77 43.7 68.5 و در Duskwood به صورت /way #47 67.25 76.71 است. با ۹ آلت می‌توانید Sweet Tooth را در یک روز کامل کنید."
    ],
    "tags_fa": [
-    "WoW Forever",
-    "رید",
-    "بلیزارد"
+    "هالووین اند",
+    "دستاورد Sweet Tooth",
+    "آلت‌ها",
+    "رویداد فصلی"
    ],
    "items": [],
-   "title_en": "Blizzard Teases Raid Philosophy and Encounters for WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383546",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383546-blizzard-teases-raid-philosophy-and-encounters-for-wow-forever.html",
-   "published_at": "2026-10-25T20:45:48Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "grok-4.20-0309-non-reasoning"
-  },
-  {
-   "id": 383550,
-   "slug": "patch-12-1-7-ptr-development-notes-various-bug-fixes",
-   "title_fa": "یادداشت‌های توسعه PTR پچ ۱۲.۱.۷",
-   "lead_fa": "این هفته یادداشت‌های توسعه PTR پچ ۱۲.۱.۷ منتشر شد و فقط به رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه اشاره دارد.",
-   "body_fa": [
-    "پچ ۱۲.۱.۷ هفته گذشته به همراه PTR پیش‌نمایش خود را دریافت کرد.",
-    "این هفته PTR با رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه به‌روزرسانی شده است.",
-    "یادداشت‌های توسعه این هفته فقط شامل یک خط در این مورد است."
-   ],
-   "tags_fa": [
-    "PTR",
-    "12.1.7",
-    "Midnight"
-   ],
-   "items": [],
-   "title_en": "Patch 12.1.7 PTR Development Notes - Various Bug Fixes",
-   "source_url": "https://www.wowhead.com/news=383550",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383550-patch-12-1-7-ptr-development-notes-various-bug-fixes.html",
-   "published_at": "2026-10-25T20:43:39Z",
+   "title_en": "Complete New Sweet Tooth Hallow's End Achievement Quickly Using Alts",
+   "source_url": "https://www.wowhead.com/news=383525",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383525-complete-new-sweet-tooth-hallow-s-end-achievement-quickly-using-alts.html",
+   "published_at": "2026-10-22T15:00:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
   },
   {
-   "id": 383557,
-   "slug": "get-your-wow-forever-beta-stats",
-   "title_fa": "امکان مشاهده و اشتراک‌گذاری آمار دوره WoW: Forever Beta فراهم شد",
-   "lead_fa": "هم‌زمان با پایان دوره آزمایشی WoW: Forever Beta، بازیکنان می‌توانند خلاصه آمار عملکرد و فعالیت‌های خود را مرور کرده و به اشتراک بگذارند.",
+   "id": 383528,
+   "slug": "optimize-tricky-treat-exchange-with-neighborhood-vendors-for-hallow-s-",
+   "title_fa": "بهینه‌سازی تبادل Tricky Treat با فروشندگان Hallow's End",
+   "lead_fa": "رویداد Hallow's End با اضافه شدن مأموریت‌های روزانه جدید، امکان دریافت آب‌نبات‌های ویژه را فراهم کرده که می‌توان آن‌ها را با نرخ‌های متفاوت به Tricky Treat تبدیل کرد.",
    "body_fa": [
-    "دوره آزمایشی WoW: Forever Beta امروز در ساعت 10:00 به وقت PDT به پایان می‌رسد. در همین راستا، Blizzard قابلیت جدیدی را در دسترس قرار داده است که جزئیات و آمارهای گوناگونی از ماجراجویی‌های بازیکنان را در این مدت گردآوری کرده است.",
-    "این ابزار اطلاعات متفاوتی را پوشش می‌دهد؛ از تعداد ساعاتی که درون بازی صرف کرده‌اید گرفته تا موبی که بیش از همه باعث مرگ شما شده و تعداد دفعاتی که کاراکتر شما پریده است.",
-    "علاوه بر مشاهده آمار، بخشی نیز در پایین صفحه برای شخصی‌سازی تعبیه شده است. بازیکنان می‌توانند آمارهای دلخواه خود را گزینش کرده، تصویری سفارشی از دستاوردهایشان بسازند و آن را برای دوستان خود ارسال کنند."
+    "هر روز هر محله یکی از سه تم Duskwood، Drustvar یا Felwood را دریافت می‌کند. با انجام مأموریت‌های روزانه در محله مربوطه، بازیکنان علاوه بر Tricky Treat، آب‌نبات ویژه آن تم را هم به دست می‌آورند: Drustvar Choc-O-Drops برای Drustvar، Duskwood Caramel برای Duskwood و Felwood Fudge Bite برای Felwood.",
+    "این آب‌نبات‌ها را می‌توان نزد فروشندگان مخصوص هر محله به Tricky Treat تبدیل کرد. موقعیت فروشندگان به این شکل است: برای Horde در /way #2351 51.72 54.5 و برای Alliance در /way #2352 53.74 33.67.",
+    "هر محله نرخ تبدیل متفاوتی دارد و این نرخ از ۵ Tricky Treat در برابر ۱ آب‌نبات تا ۵ Tricky Treat در برابر ۵ آب‌نبات متغیر است. بهترین حالت، یافتن محله‌ای است که ۵ Tricky Treat در برابر ۱ آب‌نبات ارائه می‌دهد.",
+    "برای بهره‌برداری حداکثری، بازیکنان می‌توانند با استفاده از LFG یا فهرست دوستان بین محله‌ها جابه‌جا شوند تا نرخ مطلوب را پیدا کنند. این روش امکان دریافت مقدار بسیار زیادی Tricky Treat و تبدیل آن به پاداش‌های مختلف را فراهم می‌آورد.",
+    "اگر امروز نرخ مناسبی پیدا نکردید، فردا با تازه‌سازی فروشندگان دوباره امتحان کنید."
    ],
    "tags_fa": [
-    "بتا",
-    "Forever",
-    "Blizzard"
+    "Hallow's End",
+    "Tricky Treat",
+    "رویداد فصلی",
+    "بهینه‌سازی"
    ],
    "items": [],
-   "title_en": "Get Your WoW: Forever Beta Stats",
-   "source_url": "https://www.wowhead.com/news=383557",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383557-get-your-wow-forever-beta-stats.html",
-   "published_at": "2026-10-25T20:01:46Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "grok-4.20-0309-non-reasoning"
-  },
-  {
-   "id": 383560,
-   "slug": "blizzard-thanks-players-for-testing-the-wow-forever-beta",
-   "title_fa": "بلیتزر از بازیکنان بتای WoW Forever قدردانی کرد",
-   "lead_fa": "بلیتزر با انتشار پیامی از بازیکنان برای شرکت در بتای WoW Forever تشکر کرده و جزئیاتی از مراحل پیش از انتشار در ۴ نوامبر را اعلام کرد.",
-   "body_fa": [
-    "بتای WoW Forever اکنون به طور رسمی به پایان رسیده است و بلیتزر از همه کسانی که طی پنج هفته گذشته در تست بازی، جمع‌آوری داده، گزارش باگ و ارائه بازخورد شرکت کردند قدردانی کرده است.",
-    "تیم اکنون بر رفع مسائل اولویت‌دار و بهبود سرویس بازی تمرکز خواهد کرد تا برای launch day on November 4 آماده باشد.",
-    "بلیتزر اعلام کرده که سرویس Name Reservation در ۲۷ اکتبر فعال می‌شود و به بازیکنان فرصت می‌دهد تا ruleset مورد نظر خود را انتخاب کنند و نام مناسب شخصیت‌شان را رزرو کنند.",
-    "در ادامه، تیم به فعالیت خود با WoW Forever Podcast خواهد پرداخت و توصیه کرده که علاقه‌مندان قسمت‌های منتشرشده را دنبال کنند.",
-    "پادکست شامل پنج قسمت است: Episode 1 - Unpacking Beta Launch ft. @Xaryu، Episode 2 - Speed Running Classes ft. @sodapoppin، Episode 3 - Dive Into Dungeons With Devs ft. @Hammerdancegaming، Episode 4 - The PvP Episode ft. @TipsOutBaby & @Savixirl و Episode 5 - End of Beta Special.",
-    "بلیتزر بار دیگر از جامعه‌ای که در طول بتا شکل گرفته تشکر کرده و ابراز امیدواری کرده که بازیکنان را در ۴ نوامبر ملاقات کند."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "بتا",
-    "پادکست",
-    "Name Reservation"
-   ],
-   "items": [],
-   "title_en": "Blizzard Thanks Players for Testing the WoW Forever Beta",
-   "source_url": "https://www.wowhead.com/news=383560",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383560-blizzard-thanks-players-for-testing-the-wow-forever-beta.html",
-   "published_at": "2026-10-25T19:59:21Z",
+   "title_en": "Optimize Tricky Treat Exchange with Neighborhood Vendors for Hallow's End",
+   "source_url": "https://www.wowhead.com/news=383528",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383528-optimize-tricky-treat-exchange-with-neighborhood-vendors-for-hallow-s-.html",
+   "published_at": "2026-10-22T14:15:00Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": ""
   },
   {
-   "id": 383558,
-   "slug": "watch-the-world-of-warcraft-midnight-motion-comic-singularity",
-   "title_fa": "تماشای موشن‌کامیک Midnight با عنوان Singularity",
-   "lead_fa": "بلیزارد موشن‌کامیک جدیدی از سری Midnight به نام Singularity را منتشر کرده که توسط Yuri Lowenthal به عنوان Arator Windrunner خوانده شده است.",
+   "id": 383532,
+   "slug": "world-of-warcraft-forever-beta-will-return-shortly",
+   "title_fa": "بازگشت WoW Forever Beta در چند روز آینده",
+   "lead_fa": "بلیزارد اعلام کرده که در حال کار بر روی بازگشت WoW Forever Beta است و این سرور به‌زودی دوباره آنلاین خواهد شد.",
    "body_fa": [
-    "این ویدیو شش دقیقه‌ای شامل خوانش کمیک Singularity نوشتهٔ Robert Brooks توسط Yuri Lowenthal است.",
-    "داستان بر حول Arator Windrunner می‌چرخد که با کمک مربی‌اش Umbric به عمق Void سفر می‌کند تا سرنخی از سرنوشت والدین گمشده‌اش بیابد.",
-    "او باید با Void روبه‌رو شود بدون آنکه خود را به آن تسلیم کند.",
-    "Letters توسط AndWorld Design انجام شده و نسخهٔ PDF کمیک نیز قابل دانلود است.",
-    "Yuri Lowenthal صداپیشهٔ Arator Windrunner است."
+    "طبق اعلام بلیزارد، پس از بازگشت WoW Forever Beta، این آخرین روزهای آن خواهد بود و سرور به‌طور رسمی در ۲۳ اکتبر ساعت ۱۰:۰۰ AM Pacific time پایان می‌یابد.",
+    "بلیزارد در پیام خود اعلام کرده که هنگام روشن کردن مجدد WoW Forever Beta با مشکل کوچکی مواجه شده‌اند و هم‌اکنون در حال رفع آن هستند.",
+    "تا زمان رفع مشکل، بازیکنان می‌توانند با خروج کامل از Battle.net Desktop App، به‌روزرسانی را به‌صورت دستی فعال کنند تا فرآیند سریع‌تر انجام شود."
    ],
    "tags_fa": [
-    "Midnight",
-    "موشن‌کامیک",
-    "Singularity"
+    "Forever Beta",
+    "بلیزارد",
+    "World of Warcraft"
    ],
    "items": [],
-   "title_en": "Watch the World of Warcraft: Midnight Motion Comic, “Singularity”",
-   "source_url": "https://www.wowhead.com/news=383558",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383558-watch-the-world-of-warcraft-midnight-motion-comic-singularity.html",
-   "published_at": "2026-10-25T16:45:58Z",
+   "title_en": "World of Warcraft: Forever Beta Will Return Shortly",
+   "source_url": "https://www.wowhead.com/news=383532",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383532-world-of-warcraft-forever-beta-will-return-shortly.html",
+   "published_at": "2026-10-22T01:55:07Z",
    "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-grok",
+   "via": "auto-xai",
    "reviewer": ""
   },
   {
-   "id": 383511,
-   "slug": "some-decor-costs-adjusted-on-the-patch-12-1-7-ptr",
-   "title_fa": "تغییر قیمت دیکورها در PTR پچ 12.1.7؛ کتاب‌ها ارزان، بخشی از Midnight گران‌تر",
-   "lead_fa": "روی PTR پچ 12.1.7 قیمت‌های دیکور خانه جابه‌جا شده است؛ دیکورهای The War Within ارزان‌تر شده‌اند و قیمت برخی آیتم‌های Midnight بالا رفته است.",
+   "id": 383531,
+   "slug": "bonus-rolls-tooltip-fixed-more-labyrinth-bug-fixes-patch-12-1-5-hotfix",
+   "title_fa": "رفع مشکل Tooltip Bonus Roll و هاتفیکس‌های بیشتر Labyrinth در پچ ۱۲.۱.۵",
+   "lead_fa": "بلزارد امروز هاتفیکس‌هایی منتشر کرده که شامل رفع باگ‌های Labyrinth و اصلاح نمایش Tooltip Bonus Roll است.",
    "body_fa": [
-    "بارزترین نمونه، Literature of Dornogal است که قبلاً با قیمت 1000 از فروشندهٔ Auditor Balwurz خریداری می‌شد؛ حالا قیمتش به 250 رسیده است. برای کسی که می‌خواهد یک قفسهٔ کامل کتاب بچیند، این یعنی پر کردن کتابخانهٔ خانه چند برابر مقرون‌به‌صرفه شده است.",
-    "الگوی کاهش قیمت گسترده است: آیتم‌هایی مثل Boulder Springs Recliner و Rambleshire Resting Platform و تخم‌های Nourished و Dormant Brood Egg همگی از 350 به 250 رسیده‌اند. Dornogal Hanging Lantern هم با قیمت 500 در دسترس است و Handmade Shen'dorei Pillow از فروشگاه Midnight با کاهش چشمگیر از 5000 به همان 500 رسیده است.",
-    "خود آیتم‌ها هم چیز تازه‌ای بابت House XP ندارند: همچنان هر دیکور 10 House XP می‌دهد و بیشترشان هم داخل خانه و هم بیرون قابل قرارگیری‌اند.",
-    "در مجموع، این تغییرها جهت روشنی دارند: ورود به دکوراسیون خانه برای بازیکن‌های تازه‌تر ارزان‌تر می‌شود و آیتم‌های شاخص Midnight کمی گران‌تر می‌شوند. اگر لیست خریدی برای خانه‌تان دارید، بهتر است قبل از رسیدن پچ 12.1.7 به لایو، قیمت‌ها را یک بار دیگر چک کنید."
+    "حالا Tooltip Bonus Roll به‌درستی آیتم‌های باقی‌مانده از باس را نشان می‌دهد.",
+    "چند سناریو در Labyrinth رفع مشکل شده‌اند. بازیکنان اکنون می‌توانند ۴ Jan'alai Tears را همزمان در Labyrinth حمل کنند.",
+    "بازیکنان می‌توانند با صحبت با Kinduru در De Empire's Rest antechamber در حین سناریوی Kindo'jan از Labyrinth خارج شوند. مشکل استفاده از L00T RAID-R Minis در گروه داخل Labyrinth برطرف شده است.",
+    "اهرم شروع سناریوی A Golden Opportunity در Labyrinth of Kindo'jan اکنون برای بازیکنان سطح ۸۰ و بالاتر قابل استفاده است.",
+    "ظرفیت Carrying a Jan'alai Tear buff به ۴ stack افزایش یافته (قبلاً ۱). مشکل despawn شدن Pit Boss در سناریوی Returning the Bounty هنگام خروج از combat رفع شده است.",
+    "اثر Seriously Sharp Seashell از Gebbo's Bottomless Bag دیگر stealth و invisibility را نمی‌شکند. Jan'thrazet, the Soul Fang اکنون از ابتدای combat برای healerها به‌صورت مطمئن‌تر فعال می‌شود.",
+    "لیست پیش‌نمایش آیتم‌های Nebulous Voidcache bonus roll حالا به‌درستی به‌روزرسانی می‌شود. این فقط مشکل نمایش بود و بر واجد شرایط بودن آیتم‌ها تأثیری نداشت.",
+    "Sanctified Ground هنگام اعمال روی هم‌تیمی‌ها دیگر channeled spellهایی مانند Divine Hymn را قطع نمی‌کند."
    ],
    "tags_fa": [
-    "PTR",
-    "دیکور خانه",
-    "Midnight",
-    "پچ 12.1.7"
+    "هاتفیکس",
+    "Labyrinth",
+    "۱۲.۱.۵",
+    "Bonus Roll"
    ],
    "items": [],
-   "title_en": "Some Decor Costs Adjusted on the Patch 12.1.7 PTR",
-   "source_url": "https://www.wowhead.com/news=383511",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383511-some-decor-costs-adjusted-on-the-patch-12-1-7-ptr.html",
-   "published_at": "2026-10-23T14:15:00Z",
-   "model": "GLM",
-   "via": "",
+   "title_en": "Bonus Rolls Tooltip Fixed & More Labyrinth Bug Fixes - Patch 12.1.5 Hotfixes",
+   "source_url": "https://www.wowhead.com/news=383531",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383531-bonus-rolls-tooltip-fixed-more-labyrinth-bug-fixes-patch-12-1-5-hotfix.html",
+   "published_at": "2026-10-22T01:43:01Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
+  {
+   "id": 383505,
+   "slug": "use-skeleton-keys-to-open-locked-door-in-labyrinths-easy-achievement-f",
+   "title_fa": "استفاده از کلیدهای Skeleton برای باز کردن درهای قفل‌شده در Labyrinthها",
+   "lead_fa": "بازیکنان راهی سریع‌تر برای باز کردن در قفل‌شده Labyrinthها پیدا کرده‌اند که نیازی به جستجوی Keeper of the Key ندارد و فارمینگ دستاورد را بسیار سریع‌تر می‌کند.",
+   "body_fa": [
+    "در هر Labyrinth run، یکی از پنج موقعیت ممکن شامل در قفل‌شده است که با نماد کلید نقره‌ای نشان داده می‌شود. به‌جای پیدا کردن Keeper of the Key که Archaic Amani Key می‌دهد، بازیکنان می‌توانند از مهارت Lockpicking Rogue سطح ۹۰ یا کلید Skeleton ساخته‌شده توسط Blacksmithing استفاده کنند.",
+    "توصیه می‌شود همیشه تعدادی Thalassian Skeleton Key همراه داشته باشید تا نیازی به گشت‌وگذار در Labyrinth برای پیدا کردن Keeper of the Key نباشد.",
+    "اتاق قفل‌شده حاوی Mislaid Treasures برای کسب شهرت و Mislaid Curiosities برای افزایش آمار است.",
+    "با داشتن کلیدهای Skeleton می‌توانید دو دستاورد Labyrinth را به‌راحتی فارم کنید: Lock and Key Master که نیاز به باز کردن ۲۰ Locked Room دارد و A Few More Can't Hurt که با لوت کردن Mislaid Treasures به‌دست می‌آید.",
+    "یکی از Spawnهای در قفل‌شده درست نزدیک ورودی قرار می‌گیرد. کافی است با Labyrinth Tier ۱ وارد شوید، به Spawn سمت راست بروید، در را چک کنید، اگر وجود داشت با Thalassian Skeleton Key باز کنید، اتاق را لوت کنید و خارج شوید.",
+    "اگر در آنجا نبود، فوراً خارج شوید و دوباره امتحان کنید. این روش بسیار سریع است، محدودیت Instance Lockout در ساعت ندارد و به شما اجازه می‌دهد هر دو دستاورد را در زمان کوتاهی بگیرید."
+   ],
+   "tags_fa": [
+    "Labyrinth",
+    "دستاورد",
+    "Skeleton Key",
+    "فارمینگ"
+   ],
+   "items": [],
+   "title_en": "Use Skeleton Keys to Open Locked Door in Labyrinths - Easy Achievement Farming",
+   "source_url": "https://www.wowhead.com/news=383505",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383505-use-skeleton-keys-to-open-locked-door-in-labyrinths-easy-achievement-f.html",
+   "published_at": "2026-10-21T20:11:41Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": ""
+  },
+  {
+   "id": 383524,
+   "slug": "get-30-off-game-services-and-up-to-50-off-transmogs-toys-and-bundles-o",
+   "title_fa": "تخفیف ۳۰ درصدی خدمات و تا ۵۰ درصدی ترنسماگ، توی و باندل در فروشگاه Battle.net",
+   "lead_fa": "فروش جدیدی در فروشگاه Battle.net آغاز شده و بازیکنان می‌توانند ۳۰٪ تخفیف روی خدمات بازی و تا ۵۰٪ تخفیف روی ترنسماگ، توی و باندل‌های منتخب دریافت کنند.",
+   "body_fa": [
+    "در این فروش World of Warcraft Midnight با قیمت ۲۴.۹۹ دلار (۵۰٪ تخفیف) عرضه می‌شود.",
+    "باندل Wings and Wisdom Pack با قیمت ۱۷.۵۰ دلار (۵۰٪ تخفیف) و Mighty Kodo Pack با قیمت ۱۲.۵۰ دلار (۵۰٪ تخفیف) در دسترس هستند.",
+    "از توی‌ها می‌توان به Sandbox Storm Gryphon با قیمت ۵.۰۰ دلار (۵۰٪ تخفیف)، Deepdweller's Earthen Hearthstone با قیمت ۲.۵۰ دلار (۵۰٪ تخفیف)، Magical Murkmorpher با قیمت ۵.۰۰ دلار (۵۰٪ تخفیف)، Eternal Traveler's Hearthstone با قیمت ۲.۵۰ دلار (۵۰٪ تخفیف)، Timewalker's Hearthstone با قیمت ۲.۵۰ دلار (۵۰٪ تخفیف) و Transmorpher Beacon با قیمت ۵ دلار (۵۰٪ تخفیف) اشاره کرد.",
+    "مجموعه‌های ترنسماگ نیز شامل Cozy Kobold Collection با قیمت ۱۴.۰۰ دلار (۳۰٪ تخفیف)، Ensemble: Lana'thel's Crimson Couture با قیمت ۱۴.۰۰ دلار (۳۰٪ تخفیف)، Ensemble: Stormrider's Attire با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Heavenly Regalia Pack با قیمت ۱۵.۰۰ دلار (۴۰٪ تخفیف)، Ensemble: Green Snugglefin Murloc Romper با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف) و Dreadlord's Regalia Pack با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف) هستند.",
+    "دیگر اقلام ترنسماگ عبارتند از Diadem of the Spell-Keeper با قیمت ۴.۰۰ دلار (۵۰٪ تخفیف)، Collection: Wings of Awakening با قیمت ۷.۵۰ دلار (۵۰٪ تخفیف)، Ensemble: Waveborne Diplomat's Regalia با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Ensemble: Fireplume Regalia با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Ensemble: Sprite Darter's Wings با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Collection: Baby Murloc Satch-Shells با قیمت ۷.۵۰ دلار (۵۰٪ تخفیف) و Ensemble: Celestial Observer با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف).",
+    "خدمات بازی نیز با تخفیف عرضه می‌شوند: Enhanced Level 80 Character Boosts با ۳۳٪ تخفیف، Character Transfers با ۳۰٪ تخفیف، Faction Changes با ۳۰٪ تخفیف، Race Changes با ۳۰٪ تخفیف و Name Changes با ۳۰٪ تخفیف.",
+    "این فروش هم‌اکنون فعال است و علاقه‌مندان می‌توانند اقلام مورد نظر خود را از فروشگاه Battle.net تهیه کنند."
+   ],
+   "tags_fa": [
+    "فروش Battle.net",
+    "تخفیف WoW",
+    "ترنسماگ",
+    "World of Warcraft Midnight"
+   ],
+   "items": [],
+   "title_en": "Get 30% Off Game Services and Up to 50% Off Transmogs, Toys and Bundles on the Battle.net Shop",
+   "source_url": "https://www.wowhead.com/news=383524",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383524-get-30-off-game-services-and-up-to-50-off-transmogs-toys-and-bundles-o.html",
+   "published_at": "2026-10-21T18:28:46Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
    "reviewer": ""
   },
   {
@@ -1781,6 +1741,46 @@
    "published_at": "2026-10-21T15:00:00Z",
    "model": "GLM",
    "via": "",
+   "reviewer": ""
+  },
+  {
+   "id": 383517,
+   "slug": "kindo-jan-labyrinth-reputation-increased-from-delve-bonus-event",
+   "title_fa": "هفتهٔ بونوس Delves؛ ۲۵ درصد Reputation بیشتر برای Labyrinth",
+   "lead_fa": "هفتهٔ بونوس این بار Delves است؛ تا یکشنبه ۲۵ درصد Reputation بیشتری از فعالیت‌های Labyrinth می‌گیرید.",
+   "body_fa": [
+    "هفتهٔ بونوس Delves شروع شده و تا یکشنبه ادامه دارد؛ در این بازه همهٔ فعالیت‌های Labyrinth ۲۵ درصد Reputation بیشتری می‌دهند.",
+    {
+     "t": "h",
+     "x": "برنامهٔ پیشنهادی برای بیشترین بازدهی"
+    },
+    {
+     "t": "ol",
+     "xs": [
+      "کوئست‌های هفتگی Labyrinth را اول بگیرید تا پیشرفت‌ها هم‌زمان شمرده شوند.",
+      "دو Delve روزانه را با Tier بالاتر انجام دهید؛ پاداش Reputation با بونوس ۲۵ درصدی ضرب می‌شود.",
+      "باقی‌ماندهٔ بونوس را قبل از ریست هفتگی یکشنبه مصرف کنید."
+     ]
+    },
+    {
+     "t": "note",
+     "x": "بونوس فقط روی Reputation اعمال می‌شود؛ پاداش غنیمت‌ها تغییری نمی‌کند.",
+     "kind": "info"
+    },
+    "جمع‌بندی: اگر فرکشن‌های Midnight را هدف گرفته‌اید، این هفته بهترین فرصت برای پیشرفت سریع‌تر است."
+   ],
+   "tags_fa": [
+    "Delves",
+    "Reputation",
+    "هفتهٔ بونوس"
+   ],
+   "items": [],
+   "title_en": "Kindo'jan Labyrinth Reputation Increased from Delve Bonus Event",
+   "source_url": "https://www.wowhead.com/news=383517",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383517-kindo-jan-labyrinth-reputation-increased-from-delve-bonus-event.html",
+   "published_at": "2026-10-21T14:00:00Z",
+   "model": "GLM",
+   "via": "auto-demo",
    "reviewer": ""
   },
   {

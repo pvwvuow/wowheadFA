@@ -1,183 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>WoWhead FA — اخبار ورلد آو وارکرفت به فارسی</title>
 <link>https://pvwvuow.github.io/wowheadFA/</link><description>بازنویسی اورجینال فارسیِ آخرین اخبار World of Warcraft — پچ، هاتفیکس، تیونینگ کلاس‌ها و Midnight. با ذکر منبع Wowhead؛ غیررسمی و بدون وابستگی.</description>
-<item><title>هفتهٔ بونوس Delves؛ ۲۵ درصد Reputation بیشتر برای Labyrinth</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383517-kindo-jan-labyrinth-reputation-increased-from-delve-bonus-event.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383517-kindo-jan-labyrinth-reputation-increased-from-delve-bonus-event.html</guid>
-<pubDate>2026-10-30T12:30:23Z</pubDate>
-<description>هفتهٔ بونوس این بار Delves است؛ تا یکشنبه ۲۵ درصد Reputation بیشتری از فعالیت‌های Labyrinth می‌گیرید.</description></item><item><title>با حمله‌های Aqir هر هفته، Renown فرکشن‌های Midnight را سریع بالا ببرید</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383544-catch-up-on-renown-quickly-with-aqir-invasions.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383544-catch-up-on-renown-quickly-with-aqir-invasions.html</guid>
-<pubDate>2026-10-30T12:30:23Z</pubDate>
-<description>برای جبران عقب‌افتادگی اعتبار فرکشن‌های Midnight، حمله‌های Aqir ساده‌ترین راه‌اند؛ رویدادی ساعتی که با دو توکن هفتگی، اعتبار سنگینی به دست می‌دهد.</description></item><item><title>چهار معجون جدید با ۳۰ درصد Experience بیشتر در PTR پچ 12.1.7</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383566-new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383566-new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr.html</guid>
-<pubDate>2026-10-30T12:30:23Z</pubDate>
-<description>PTR پچ 12.1.7 چهار معجون تازه آورده که هر کدام ۳۰ درصد Experience بیشتر از نسخهٔ فعلی می‌دهند؛ ترکیب‌های تازه‌ای که سطح‌گیری را سریع‌تر می‌کند.</description></item><item><title>کشف دو سفارشی‌سازی جدید نما برای خانه‌ها در PTR 12.1.7</title>
+<item><title>کشف دو سفارشی‌سازی جدید نما برای خانه‌ها در PTR 12.1.7</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383660-two-new-housing-exterior-customizations-discovered-on-12-1-7-ptr.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383660-two-new-housing-exterior-customizations-discovered-on-12-1-7-ptr.html</guid>
-<pubDate>2026-10-30T01:09:57Z</pubDate>
+<pubDate>2026-10-29T23:07:55Z</pubDate>
 <description>در آخرین بیلد PTR پچ 12.1.7 دو آیتم برای یادگیری گزینه‌های جدید سفارشی‌سازی نما کشف شده است.</description></item><item><title>کاهش چشمگیر رفرش‌های اجباری لایه‌ها در WoW: Forever</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383649-forced-world-refreshes-will-be-significantly-reduced-for-wow-forever.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383649-forced-world-refreshes-will-be-significantly-reduced-for-wow-forever.html</guid>
-<pubDate>2026-10-29T20:37:17Z</pubDate>
+<pubDate>2026-10-29T19:44:00Z</pubDate>
 <description>در WoW: Forever هنگام لانچ، جوین کردن گروه دیگر به‌صورت خودکار بازی‌کننده را فاز نمی‌کند و رفرش‌های اجباری لایه به مراتب کمتر رخ خواهد داد.</description></item><item><title>WoW: Forever با چرخهٔ ۴ ماههٔ پچ پیش می‌رود</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383640-wow-forever-is-aiming-for-a-4-month-patch-cadence.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383640-wow-forever-is-aiming-for-a-4-month-patch-cadence.html</guid>
-<pubDate>2026-10-29T17:03:06Z</pubDate>
+<pubDate>2026-10-29T16:00:00Z</pubDate>
 <description>کریس زیرهات، طراح ارشد بازی، در مصاحبه با IGN اعلام کرد که تیم در حال برنامه‌ریزی برای انتشار پچ‌های WoW: Forever هر ۴ ماه یا ۱۷ هفته یک‌بار است.</description></item><item><title>تغییرات تیونینگ هانتر و اکسیر Wisdom در WoW: Forever</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383641-new-class-and-item-tuning-on-wow-forever-hunter-changes.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383641-new-class-and-item-tuning-on-wow-forever-hunter-changes.html</guid>
-<pubDate>2026-10-28T22:10:12Z</pubDate>
+<pubDate>2026-10-28T21:17:17Z</pubDate>
 <description>با آغاز رزرو نام‌ها در WoW: Forever، تعدادی هات‌فکس برای کلاس Hunter و یک potion Alchemy روی سرورهای زنده اعمال شده است.</description></item><item><title>تیم Retail در حال بررسی بهبودهای نورپردازی و آب از WoW: Forever</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383637-retail-team-discussing-lighting-and-water-improvements-from-wow-foreve.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383637-retail-team-discussing-lighting-and-water-improvements-from-wow-foreve.html</guid>
-<pubDate>2026-10-28T20:06:56Z</pubDate>
+<pubDate>2026-10-28T19:30:38Z</pubDate>
 <description>کریس زیرهات در مصاحبه با IGN تأیید کرد که تیم Retail WoW درباره بهبودهای نورپردازی و آب معرفی‌شده در WoW: Forever بحث می‌کند.</description></item><item><title>دکوراسیون جدید با تم کلبه در PTR نسخه ۱۲.۱.۷ کشف شد</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383593-new-cabin-themed-shop-decor-discovered-in-patch-12-1-7.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383593-new-cabin-themed-shop-decor-discovered-in-patch-12-1-7.html</guid>
-<pubDate>2026-10-28T15:35:26Z</pubDate>
+<pubDate>2026-10-28T15:00:00Z</pubDate>
 <description>دکوراسیون جدیدی که از فروشگاه بازی می‌آید در PTR نسخه ۱۲.۱.۷ پیدا شده و تم زمستانی و دنج کلبه را دارد.</description></item><item><title>نام‌های رزرو شده در WoW: Forever با محدودیت بیش از حد مواجه بودند</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383618-name-reservations-included-overly-restrictive-name-check-but-fix-incom.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383618-name-reservations-included-overly-restrictive-name-check-but-fix-incom.html</guid>
-<pubDate>2026-10-28T01:54:35Z</pubDate>
-<description>بلیزارد اعلام کرد که بررسی نام در رزروهای امروز WoW: Forever بیش از حد محدودکننده بوده و رفع این مشکل با ریستارت سرورها انجام می‌شود.</description></item><item><title>رفع مشکل Tooltip Bonus Roll و هاتفیکس‌های بیشتر Labyrinth در پچ ۱۲.۱.۵</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383531-bonus-rolls-tooltip-fixed-more-labyrinth-bug-fixes-patch-12-1-5-hotfix.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383531-bonus-rolls-tooltip-fixed-more-labyrinth-bug-fixes-patch-12-1-5-hotfix.html</guid>
-<pubDate>2026-10-28T00:26:29Z</pubDate>
-<description>بلزارد امروز هاتفیکس‌هایی منتشر کرده که شامل رفع باگ‌های Labyrinth و اصلاح نمایش Tooltip Bonus Roll است.</description></item><item><title>جاش گرینفیلد از رویداد احتمالی در بتای WoW: Forever خبر داد</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383538-josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383538-josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours.html</guid>
-<pubDate>2026-10-28T00:02:01Z</pubDate>
-<description>جاش گرینفیلد با پستی در شبکه‌های اجتماعی بازیکنان را تشویق کرده که طی چند ساعت آینده یک بار دیگر به بتای WoW: Forever وارد شوند.</description></item><item><title>بلزارد علیه معاملات RMT در WoW Retail اقدام کرد</title>
+<pubDate>2026-10-28T01:30:05Z</pubDate>
+<description>بلیزارد اعلام کرد که بررسی نام در رزروهای امروز WoW: Forever بیش از حد محدودکننده بوده و رفع این مشکل با ریستارت سرورها انجام می‌شود.</description></item><item><title>بلزارد علیه معاملات RMT در WoW Retail اقدام کرد</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383616-blizzard-takes-action-against-rmt-on-retail-wow-gold-transactions-shou.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383616-blizzard-takes-action-against-rmt-on-retail-wow-gold-transactions-shou.html</guid>
-<pubDate>2026-10-27T22:44:58Z</pubDate>
+<pubDate>2026-10-27T21:54:48Z</pubDate>
 <description>بلزارد دور جدیدی از اقدامات تنبیهی را علیه حساب‌هایی که در خرید طلای واقعی از شخص ثالث (RMT) دخیل بوده‌اند انجام داده است.</description></item><item><title>اعتراض بازیکنان به عرضه باندل هوسینگ Grimtide در فروشگاه بتل‌نت</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383614-players-upset-latest-housing-bundles-breaks-stated-philosophy-on-heart.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383614-players-upset-latest-housing-bundles-breaks-stated-philosophy-on-heart.html</guid>
-<pubDate>2026-10-27T21:47:43Z</pubDate>
-<description>افزوده شدن باندل جدید هوسینگ Grimtide به فروشگاه Battle.net در ازای Hearthsteel، واکنش اعتراضی گروهی از بازیکنان را به دنبال داشته است.</description></item><item><title>تعامل Rogue Subtlety و Warlock Demonology باعث کشیدن غیرعمدی دشمنان می‌شود</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383542-subtlety-rogue-interaction-with-demonology-warlocks-speculated-to-ninj.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383542-subtlety-rogue-interaction-with-demonology-warlocks-speculated-to-ninj.html</guid>
-<pubDate>2026-10-27T20:57:24Z</pubDate>
-<description>با افزایش محبوبیت Rogue Subtlety در پچ ۱۲.۱.۵، یک باگ قدیمی دوباره مورد توجه قرار گرفته که باعث می‌شود Warlockهای Demonology به طور ناخواسته دشمنان را در دانجن‌ها ninja pull کنند.</description></item><item><title>مشکل رزرو نام برای بازیکنان اقیانوسیه در سرورهای استرالیایی</title>
+<pubDate>2026-10-27T21:16:46Z</pubDate>
+<description>افزوده شدن باندل جدید هوسینگ Grimtide به فروشگاه Battle.net در ازای Hearthsteel، واکنش اعتراضی گروهی از بازیکنان را به دنبال داشته است.</description></item><item><title>مشکل رزرو نام برای بازیکنان اقیانوسیه در سرورهای استرالیایی</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383612-blizzard-announces-name-reservation-issue-for-oceanic-players-in-wow-f.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383612-blizzard-announces-name-reservation-issue-for-oceanic-players-in-wow-f.html</guid>
-<pubDate>2026-10-27T20:55:36Z</pubDate>
-<description>بلیزارد از وجود باگی خبر داده که رزرو نام را برای بازیکنان منطقه اقیانوسیه هنگام اتصال به سرورهای استرالیایی تحت تأثیر قرار می‌دهد.</description></item><item><title>انتشار AMV جدید WARPATH برای WoW: Forever</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383605-world-of-warcraft-forever-amv-warpath.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383605-world-of-warcraft-forever-amv-warpath.html</guid>
-<pubDate>2026-10-27T20:08:48Z</pubDate>
-<description>بلیزارد با انتشار AMV تازه‌ای به نام WARPATH، لانچ WoW: Forever را که قرار است در ۴ نوامبر انجام شود، برجسته کرده است.</description></item><item><title>اتاق پورتال WoW، نقطهٔ شروع ماجراجویی‌های جدید شما</title>
+<pubDate>2026-10-27T20:05:03Z</pubDate>
+<description>بلیزارد از وجود باگی خبر داده که رزرو نام را برای بازیکنان منطقه اقیانوسیه هنگام اتصال به سرورهای استرالیایی تحت تأثیر قرار می‌دهد.</description></item><item><title>اتاق پورتال WoW، نقطهٔ شروع ماجراجویی‌های جدید شما</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383610-join-the-wow-portal-room-for-your-next-adventure-in-wow-forever.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383610-join-the-wow-portal-room-for-your-next-adventure-in-wow-forever.html</guid>
-<pubDate>2026-10-27T20:08:03Z</pubDate>
+<pubDate>2026-10-27T19:08:56Z</pubDate>
 <description>بلیزارد با انتشار بلاگ جدیدی، بازیکنان را به پیوستن به اتاق پورتال WoW دعوت کرده است. این سرور رسمی دیسکورد World of Warcraft فضایی فراگیر برای ارتباط بازیکنان در تمام مراحل سفرشان در WoW: Forever فراهم می‌کند.</description></item><item><title>رزرو نام‌ها برای WoW: Forever به تعویق افتاد</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383608-name-reservations-for-wow-forever-delayed.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383608-name-reservations-for-wow-forever-delayed.html</guid>
-<pubDate>2026-10-27T18:49:44Z</pubDate>
-<description>بلزارد به دلیل مشکلات فنی رزرو نام برای WoW: Forever را که قرار بود امروز فعال شود به تعویق انداخت.</description></item><item><title>به‌روزرسانی دالاران پیش از پایان بتای WoW: Forever</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383523-dalaran-updated-ahead-of-the-beta-s-end-in-wow-forever.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383523-dalaran-updated-ahead-of-the-beta-s-end-in-wow-forever.html</guid>
-<pubDate>2026-10-27T17:12:48Z</pubDate>
-<description>در آخرین بیلد بتای World of Warcraft: Forever، شهر دالاران مانع دفاعی خود را پایین آورده و حالا بازیکنان Alliance می‌توانند آزادانه وارد آن شوند. این شهر که نخستین بار در Wrath of the Lich King معرفی شد، تغییرات قابل توجهی دریافت کرده است.</description></item><item><title>تست Talebound در PTR پچ ۱۲.۱.۷ این جمعه</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383592-test-talebound-on-the-patch-12-1-7-ptr-this-friday.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383592-test-talebound-on-the-patch-12-1-7-ptr-this-friday.html</guid>
-<pubDate>2026-10-27T15:47:58Z</pubDate>
-<description>بلزارد تست Talebound را در PTR پچ ۱۲.۱.۷ روز جمعه برگزار می‌کند. برای شرکت در این تست نیازی به اشتراک نیست.</description></item><item><title>امضای پوستر WoW: Forever با حضور دولوپرها در ۲ نوامبر</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383595-meet-the-devs-at-wow-forever-poster-signing-limited-tickets-available-.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383595-meet-the-devs-at-wow-forever-poster-signing-limited-tickets-available-.html</guid>
-<pubDate>2026-10-27T15:47:10Z</pubDate>
-<description>بلیزارد رویداد WoW: Forever Poster Signing را برای ۲ نوامبر ۲۰۲۶ در Irvine Improv برگزار می‌کند و بلیت‌های رایگان آن از فردا در دسترس قرار می‌گیرد.</description></item><item><title>دکوراسیون تئاتری جدید در پچ ۱۲.۱.۷ وارد می‌شود</title>
+<pubDate>2026-10-27T17:58:59Z</pubDate>
+<description>بلزارد به دلیل مشکلات فنی رزرو نام برای WoW: Forever را که قرار بود امروز فعال شود به تعویق انداخت.</description></item><item><title>انتشار AMV جدید WARPATH برای WoW: Forever</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383605-world-of-warcraft-forever-amv-warpath.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383605-world-of-warcraft-forever-amv-warpath.html</guid>
+<pubDate>2026-10-27T17:13:12Z</pubDate>
+<description>بلیزارد با انتشار AMV تازه‌ای به نام WARPATH، لانچ WoW: Forever را که قرار است در ۴ نوامبر انجام شود، برجسته کرده است.</description></item><item><title>دکوراسیون تئاتری جدید در پچ ۱۲.۱.۷ وارد می‌شود</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383512-new-theatre-themed-decor-takes-the-stage-in-patch-12-1-7.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383512-new-theatre-themed-decor-takes-the-stage-in-patch-12-1-7.html</guid>
-<pubDate>2026-10-27T15:46:37Z</pubDate>
+<pubDate>2026-10-27T15:00:00Z</pubDate>
 <description>با انتشار پچ ۱۲.۱.۷، دکوراسیون‌های جدید با تم تئاتر به خانه‌های بازیکنان اضافه خواهد شد.</description></item><item><title>نام‌پلیت EllesmereUI حالا ترکر Interrupt Fellowship را دارد</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383591-ellesmereui-adds-fellowship-inspired-nameplate-kick-tracker.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383591-ellesmereui-adds-fellowship-inspired-nameplate-kick-tracker.html</guid>
-<pubDate>2026-10-27T14:59:51Z</pubDate>
+<pubDate>2026-10-27T14:00:00Z</pubDate>
 <description>افزونه محبوب EllesmereUI ویژگی جدیدی دریافت کرده که ترکر Interrupt را مستقیماً روی نام‌پلیت نمایش می‌دهد و الهام‌گرفته از Fellowship است.</description></item><item><title>تنظیم نهایی توانایی‌های نژادی برای WoW: Forever</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383597-racial-ability-tuning-pass-for-wow-forever.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383597-racial-ability-tuning-pass-for-wow-forever.html</guid>
-<pubDate>2026-10-26T21:22:31Z</pubDate>
-<description>بلیزارد تنظیمات نهایی توانایی‌های نژادی و ویژگی‌های غیرفعال را برای عرضه WoW: Forever اعلام کرد. این تغییرات بر اساس بازخورد بازیکنان انجام شده و بر حفظ هویت نژادی تمرکز دارد.</description></item><item><title>داستان کوتاه WoW: Forever با عنوان Unbowed منتشر شد</title>
+<pubDate>2026-10-26T20:38:14Z</pubDate>
+<description>بلیزارد تنظیمات نهایی توانایی‌های نژادی و ویژگی‌های غیرفعال را برای عرضه WoW: Forever اعلام کرد. این تغییرات بر اساس بازخورد بازیکنان انجام شده و بر حفظ هویت نژادی تمرکز دارد.</description></item><item><title>امضای پوستر WoW: Forever با حضور دولوپرها در ۲ نوامبر</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383595-meet-the-devs-at-wow-forever-poster-signing-limited-tickets-available-.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383595-meet-the-devs-at-wow-forever-poster-signing-limited-tickets-available-.html</guid>
+<pubDate>2026-10-26T19:09:41Z</pubDate>
+<description>بلیزارد رویداد WoW: Forever Poster Signing را برای ۲ نوامبر ۲۰۲۶ در Irvine Improv برگزار می‌کند و بلیت‌های رایگان آن از فردا در دسترس قرار می‌گیرد.</description></item><item><title>تست Talebound در PTR پچ ۱۲.۱.۷ این جمعه</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383592-test-talebound-on-the-patch-12-1-7-ptr-this-friday.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383592-test-talebound-on-the-patch-12-1-7-ptr-this-friday.html</guid>
+<pubDate>2026-10-26T18:01:31Z</pubDate>
+<description>بلزارد تست Talebound را در PTR پچ ۱۲.۱.۷ روز جمعه برگزار می‌کند. برای شرکت در این تست نیازی به اشتراک نیست.</description></item><item><title>داستان کوتاه WoW: Forever با عنوان Unbowed منتشر شد</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383589-watch-the-wow-forever-short-story-unbowed.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383589-watch-the-wow-forever-short-story-unbowed.html</guid>
-<pubDate>2026-10-26T17:49:05Z</pubDate>
+<pubDate>2026-10-26T17:07:09Z</pubDate>
 <description>داستان کوتاه جدید World of Warcraft: Forever به نام Unbowed بر زندگی Cormack، عضو سابق Scarlet Crusader تمرکز دارد که اکنون به عنوان Forsaken زندگی می‌کند و با وجود مرده بودنش دست‌وپنجه نرم می‌کند.</description></item><item><title>اسباب‌بازی Hexed Tiny Tome از حالت Talebound در پچ ۱۲.۱.۷</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383565-new-talebound-toy-allows-companion-pets-to-fly-on-an-enchanted-book.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383565-new-talebound-toy-allows-companion-pets-to-fly-on-an-enchanted-book.html</guid>
-<pubDate>2026-10-26T14:23:34Z</pubDate>
+<pubDate>2026-10-26T14:00:00Z</pubDate>
 <description>در بیلد جدید PTR پچ ۱۲.۱.۷، اسباب‌بازی Hexed Tiny Tome استخراج شده که از Talebound، حالت Roguelite تازه، به دست می‌آید.</description></item><item><title>نتایج تورنمنت PvP WoW Forever Beta</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383571-the-wow-forever-beta-pvp-tournament-results-winners-statistics.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383571-the-wow-forever-beta-pvp-tournament-results-winners-statistics.html</guid>
-<pubDate>2026-10-26T13:41:38Z</pubDate>
-<description>تورنمنت Forever Open با میزبانی Tipsoutbaby در بتای WoW Forever برگزار شد و Warlockguy به عنوان قهرمان اصلی معرفی گردید.</description></item><item><title>بازگشت WoW Forever Beta در چند روز آینده</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383532-world-of-warcraft-forever-beta-will-return-shortly.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383532-world-of-warcraft-forever-beta-will-return-shortly.html</guid>
-<pubDate>2026-10-26T06:11:50Z</pubDate>
-<description>بلیزارد اعلام کرده که در حال کار بر روی بازگشت WoW Forever Beta است و این سرور به‌زودی دوباره آنلاین خواهد شد.</description></item><item><title>تکمیل سریع دستاورد Sweet Tooth هالووین اند با استفاده از آلت‌ها</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383525-complete-new-sweet-tooth-hallow-s-end-achievement-quickly-using-alts.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383525-complete-new-sweet-tooth-hallow-s-end-achievement-quickly-using-alts.html</guid>
-<pubDate>2026-10-26T06:05:47Z</pubDate>
-<description>بازیکنان می‌توانند دستاورد جدید Sweet Tooth را با کمک آلت‌ها خیلی سریع به پایان برسانند.</description></item><item><title>چهار عنوان جدید از Talebound در پچ ۱۲.۱.۷</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383551-four-new-titles-available-from-talebound-in-patch-12-1-7.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383551-four-new-titles-available-from-talebound-in-patch-12-1-7.html</guid>
-<pubDate>2026-10-26T05:44:21Z</pubDate>
-<description>با ورود حالت بازی Talebound در پچ ۱۲.۱.۷، چهار عنوان تازه برای بازیکنان در نظر گرفته شده که با تکمیل دستاوردها به دست می‌آیند.</description></item><item><title>جعبه‌های Amani Equipment Chest برای ارسال به کاراکترهای دیگر حساب در دسترس است</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383529-bind-to-account-mythic-gear-chests-now-available.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383529-bind-to-account-mythic-gear-chests-now-available.html</guid>
-<pubDate>2026-10-26T05:42:22Z</pubDate>
-<description>با ریست هفتگی اخیر، حالا می‌توانید جعبه Amani Equipment Chest را از Agmera بخرید و آن را برای کاراکترهای دیگر حساب خود ارسال کنید.</description></item><item><title>افزوده شدن کتاب‌های تزئینی قابل خواندن در پچ 12.1.7</title>
+<pubDate>2026-10-26T13:00:00Z</pubDate>
+<description>تورنمنت Forever Open با میزبانی Tipsoutbaby در بتای WoW Forever برگزار شد و Warlockguy به عنوان قهرمان اصلی معرفی گردید.</description></item><item><title>افزوده شدن کتاب‌های تزئینی قابل خواندن در پچ 12.1.7</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383516-more-readable-book-decor-coming-in-patch-12-1-7.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383516-more-readable-book-decor-coming-in-patch-12-1-7.html</guid>
-<pubDate>2026-10-26T05:39:46Z</pubDate>
-<description>در پچ 12.1.7 چهار داستان جدید به بخش Lorewalking اضافه خواهد شد که هر کدام یک کتاب تزئینی و قابل مطالعه به عنوان پاداش دارند.</description></item><item><title>پایان بتای WoW: Forever با باس‌های جهانی، Legendaryها و حمله Scourge</title>
+<pubDate>2026-10-25T18:00:00Z</pubDate>
+<description>در پچ 12.1.7 چهار داستان جدید به بخش Lorewalking اضافه خواهد شد که هر کدام یک کتاب تزئینی و قابل مطالعه به عنوان پاداش دارند.</description></item><item><title>با حمله‌های Aqir هر هفته، Renown فرکشن‌های Midnight را سریع بالا ببرید</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383544-catch-up-on-renown-quickly-with-aqir-invasions.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383544-catch-up-on-renown-quickly-with-aqir-invasions.html</guid>
+<pubDate>2026-10-25T08:39:00Z</pubDate>
+<description>برای جبران عقب‌افتادگی اعتبار فرکشن‌های Midnight، حمله‌های Aqir ساده‌ترین راه‌اند؛ رویدادی ساعتی که با دو توکن هفتگی، اعتبار سنگینی به دست می‌دهد.</description></item><item><title>چهار معجون جدید با ۳۰ درصد Experience بیشتر در PTR پچ 12.1.7</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383566-new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383566-new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr.html</guid>
+<pubDate>2026-10-24T18:00:00Z</pubDate>
+<description>PTR پچ 12.1.7 چهار معجون تازه آورده که هر کدام ۳۰ درصد Experience بیشتر از نسخهٔ فعلی می‌دهند؛ ترکیب‌های تازه‌ای که سطح‌گیری را سریع‌تر می‌کند.</description></item><item><title>پایان بتای WoW: Forever با باس‌های جهانی، Legendaryها و حمله Scourge</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383554-world-bosses-legendaries-and-a-scourge-invasion-the-wow-forever-beta-i.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383554-world-bosses-legendaries-and-a-scourge-invasion-the-wow-forever-beta-i.html</guid>
-<pubDate>2026-10-26T05:13:41Z</pubDate>
-<description>در ساعات آخر بتای WoW: Forever، بلیزارد با رویدادهای شاد و آشوب‌آمیز در سراسر جهان بازیکنان را بدرقه کرد.</description></item><item><title>تخفیف ۳۰ درصدی خدمات و تا ۵۰ درصدی ترنسماگ، توی و باندل در فروشگاه Battle.net</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383524-get-30-off-game-services-and-up-to-50-off-transmogs-toys-and-bundles-o.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383524-get-30-off-game-services-and-up-to-50-off-transmogs-toys-and-bundles-o.html</guid>
-<pubDate>2026-10-25T22:37:34Z</pubDate>
-<description>فروش جدیدی در فروشگاه Battle.net آغاز شده و بازیکنان می‌توانند ۳۰٪ تخفیف روی خدمات بازی و تا ۵۰٪ تخفیف روی ترنسماگ، توی و باندل‌های منتخب دریافت کنند.</description></item><item><title>استفاده از کلیدهای Skeleton برای باز کردن درهای قفل‌شده در Labyrinthها</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383505-use-skeleton-keys-to-open-locked-door-in-labyrinths-easy-achievement-f.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383505-use-skeleton-keys-to-open-locked-door-in-labyrinths-easy-achievement-f.html</guid>
-<pubDate>2026-10-25T22:15:29Z</pubDate>
-<description>بازیکنان راهی سریع‌تر برای باز کردن در قفل‌شده Labyrinthها پیدا کرده‌اند که نیازی به جستجوی Keeper of the Key ندارد و فارمینگ دستاورد را بسیار سریع‌تر می‌کند.</description></item><item><title>بهینه‌سازی تبادل Tricky Treat با فروشندگان Hallow&#x27;s End</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383528-optimize-tricky-treat-exchange-with-neighborhood-vendors-for-hallow-s-.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383528-optimize-tricky-treat-exchange-with-neighborhood-vendors-for-hallow-s-.html</guid>
-<pubDate>2026-10-25T21:53:36Z</pubDate>
-<description>رویداد Hallow&#x27;s End با اضافه شدن مأموریت‌های روزانه جدید، امکان دریافت آب‌نبات‌های ویژه را فراهم کرده که می‌توان آن‌ها را با نرخ‌های متفاوت به Tricky Treat تبدیل کرد.</description></item><item><title>عدم وجود زره Mail Spell Power در مراحل اولیه WoW: Forever</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383520-no-mail-spell-power-dungeon-and-quest-armor-in-wow-forever-early-level.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383520-no-mail-spell-power-dungeon-and-quest-armor-in-wow-forever-early-level.html</guid>
-<pubDate>2026-10-25T21:31:36Z</pubDate>
-<description>بتای World of Warcraft Forever به بازیکنان اجازه داده تا چندین کاراکتر را تا سطح ۳۰ امتحان کنند، اما بررسی‌ها نشان می‌دهد هیچ زره Mail Spell Power از طریق دانجن‌ها و کوئست‌ها در این سطوح ارائه نمی‌شود.</description></item><item><title>جزئیات فلسفه طراحی ریدها و باس‌های WoW: Forever</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383546-blizzard-teases-raid-philosophy-and-encounters-for-wow-forever.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383546-blizzard-teases-raid-philosophy-and-encounters-for-wow-forever.html</guid>
-<pubDate>2026-10-25T20:45:48Z</pubDate>
-<description>توسعه‌دهندگان بلیزارد در پادکست اخیر خود به بررسی رویکرد طراحی محتوای PvE و میزان سختی ریدها در WoW: Forever پرداختند.</description></item><item><title>یادداشت‌های توسعه PTR پچ ۱۲.۱.۷</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383550-patch-12-1-7-ptr-development-notes-various-bug-fixes.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383550-patch-12-1-7-ptr-development-notes-various-bug-fixes.html</guid>
-<pubDate>2026-10-25T20:43:39Z</pubDate>
-<description>این هفته یادداشت‌های توسعه PTR پچ ۱۲.۱.۷ منتشر شد و فقط به رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه اشاره دارد.</description></item><item><title>امکان مشاهده و اشتراک‌گذاری آمار دوره WoW: Forever Beta فراهم شد</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383557-get-your-wow-forever-beta-stats.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383557-get-your-wow-forever-beta-stats.html</guid>
-<pubDate>2026-10-25T20:01:46Z</pubDate>
-<description>هم‌زمان با پایان دوره آزمایشی WoW: Forever Beta، بازیکنان می‌توانند خلاصه آمار عملکرد و فعالیت‌های خود را مرور کرده و به اشتراک بگذارند.</description></item><item><title>بلیتزر از بازیکنان بتای WoW Forever قدردانی کرد</title>
+<pubDate>2026-10-23T20:13:11Z</pubDate>
+<description>در ساعات آخر بتای WoW: Forever، بلیزارد با رویدادهای شاد و آشوب‌آمیز در سراسر جهان بازیکنان را بدرقه کرد.</description></item><item><title>بلیتزر از بازیکنان بتای WoW Forever قدردانی کرد</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383560-blizzard-thanks-players-for-testing-the-wow-forever-beta.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383560-blizzard-thanks-players-for-testing-the-wow-forever-beta.html</guid>
-<pubDate>2026-10-25T19:59:21Z</pubDate>
+<pubDate>2026-10-23T17:12:50Z</pubDate>
 <description>بلیتزر با انتشار پیامی از بازیکنان برای شرکت در بتای WoW Forever تشکر کرده و جزئیاتی از مراحل پیش از انتشار در ۴ نوامبر را اعلام کرد.</description></item><item><title>تماشای موشن‌کامیک Midnight با عنوان Singularity</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383558-watch-the-world-of-warcraft-midnight-motion-comic-singularity.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383558-watch-the-world-of-warcraft-midnight-motion-comic-singularity.html</guid>
-<pubDate>2026-10-25T16:45:58Z</pubDate>
-<description>بلیزارد موشن‌کامیک جدیدی از سری Midnight به نام Singularity را منتشر کرده که توسط Yuri Lowenthal به عنوان Arator Windrunner خوانده شده است.</description></item><item><title>تغییر قیمت دیکورها در PTR پچ 12.1.7؛ کتاب‌ها ارزان، بخشی از Midnight گران‌تر</title>
+<pubDate>2026-10-23T17:08:34Z</pubDate>
+<description>بلیزارد موشن‌کامیک جدیدی از سری Midnight به نام Singularity را منتشر کرده که توسط Yuri Lowenthal به عنوان Arator Windrunner خوانده شده است.</description></item><item><title>امکان مشاهده و اشتراک‌گذاری آمار دوره WoW: Forever Beta فراهم شد</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383557-get-your-wow-forever-beta-stats.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383557-get-your-wow-forever-beta-stats.html</guid>
+<pubDate>2026-10-23T16:35:49Z</pubDate>
+<description>هم‌زمان با پایان دوره آزمایشی WoW: Forever Beta، بازیکنان می‌توانند خلاصه آمار عملکرد و فعالیت‌های خود را مرور کرده و به اشتراک بگذارند.</description></item><item><title>به‌روزرسانی دالاران پیش از پایان بتای WoW: Forever</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383523-dalaran-updated-ahead-of-the-beta-s-end-in-wow-forever.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383523-dalaran-updated-ahead-of-the-beta-s-end-in-wow-forever.html</guid>
+<pubDate>2026-10-23T16:00:00Z</pubDate>
+<description>در آخرین بیلد بتای World of Warcraft: Forever، شهر دالاران مانع دفاعی خود را پایین آورده و حالا بازیکنان Alliance می‌توانند آزادانه وارد آن شوند. این شهر که نخستین بار در Wrath of the Lich King معرفی شد، تغییرات قابل توجهی دریافت کرده است.</description></item><item><title>جعبه‌های Amani Equipment Chest برای ارسال به کاراکترهای دیگر حساب در دسترس است</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383529-bind-to-account-mythic-gear-chests-now-available.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383529-bind-to-account-mythic-gear-chests-now-available.html</guid>
+<pubDate>2026-10-23T15:00:00Z</pubDate>
+<description>با ریست هفتگی اخیر، حالا می‌توانید جعبه Amani Equipment Chest را از Agmera بخرید و آن را برای کاراکترهای دیگر حساب خود ارسال کنید.</description></item><item><title>تغییر قیمت دیکورها در PTR پچ 12.1.7؛ کتاب‌ها ارزان، بخشی از Midnight گران‌تر</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383511-some-decor-costs-adjusted-on-the-patch-12-1-7-ptr.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383511-some-decor-costs-adjusted-on-the-patch-12-1-7-ptr.html</guid>
 <pubDate>2026-10-23T14:15:00Z</pubDate>
-<description>روی PTR پچ 12.1.7 قیمت‌های دیکور خانه جابه‌جا شده است؛ دیکورهای The War Within ارزان‌تر شده‌اند و قیمت برخی آیتم‌های Midnight بالا رفته است.</description></item><item><title>سیستم Camping در WoW: Forever؛ آتش کمپ به نقطهٔ دیدار تبدیل می‌شود</title>
+<description>روی PTR پچ 12.1.7 قیمت‌های دیکور خانه جابه‌جا شده است؛ دیکورهای The War Within ارزان‌تر شده‌اند و قیمت برخی آیتم‌های Midnight بالا رفته است.</description></item><item><title>چهار عنوان جدید از Talebound در پچ ۱۲.۱.۷</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383551-four-new-titles-available-from-talebound-in-patch-12-1-7.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383551-four-new-titles-available-from-talebound-in-patch-12-1-7.html</guid>
+<pubDate>2026-10-23T13:00:00Z</pubDate>
+<description>با ورود حالت بازی Talebound در پچ ۱۲.۱.۷، چهار عنوان تازه برای بازیکنان در نظر گرفته شده که با تکمیل دستاوردها به دست می‌آیند.</description></item><item><title>یادداشت‌های توسعه PTR پچ ۱۲.۱.۷</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383550-patch-12-1-7-ptr-development-notes-various-bug-fixes.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383550-patch-12-1-7-ptr-development-notes-various-bug-fixes.html</guid>
+<pubDate>2026-10-22T23:04:49Z</pubDate>
+<description>این هفته یادداشت‌های توسعه PTR پچ ۱۲.۱.۷ منتشر شد و فقط به رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه اشاره دارد.</description></item><item><title>جزئیات فلسفه طراحی ریدها و باس‌های WoW: Forever</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383546-blizzard-teases-raid-philosophy-and-encounters-for-wow-forever.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383546-blizzard-teases-raid-philosophy-and-encounters-for-wow-forever.html</guid>
+<pubDate>2026-10-22T20:38:25Z</pubDate>
+<description>توسعه‌دهندگان بلیزارد در پادکست اخیر خود به بررسی رویکرد طراحی محتوای PvE و میزان سختی ریدها در WoW: Forever پرداختند.</description></item><item><title>تعامل Rogue Subtlety و Warlock Demonology باعث کشیدن غیرعمدی دشمنان می‌شود</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383542-subtlety-rogue-interaction-with-demonology-warlocks-speculated-to-ninj.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383542-subtlety-rogue-interaction-with-demonology-warlocks-speculated-to-ninj.html</guid>
+<pubDate>2026-10-22T18:54:45Z</pubDate>
+<description>با افزایش محبوبیت Rogue Subtlety در پچ ۱۲.۱.۵، یک باگ قدیمی دوباره مورد توجه قرار گرفته که باعث می‌شود Warlockهای Demonology به طور ناخواسته دشمنان را در دانجن‌ها ninja pull کنند.</description></item><item><title>جاش گرینفیلد از رویداد احتمالی در بتای WoW: Forever خبر داد</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383538-josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383538-josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours.html</guid>
+<pubDate>2026-10-22T16:09:50Z</pubDate>
+<description>جاش گرینفیلد با پستی در شبکه‌های اجتماعی بازیکنان را تشویق کرده که طی چند ساعت آینده یک بار دیگر به بتای WoW: Forever وارد شوند.</description></item><item><title>عدم وجود زره Mail Spell Power در مراحل اولیه WoW: Forever</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383520-no-mail-spell-power-dungeon-and-quest-armor-in-wow-forever-early-level.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383520-no-mail-spell-power-dungeon-and-quest-armor-in-wow-forever-early-level.html</guid>
+<pubDate>2026-10-22T16:00:00Z</pubDate>
+<description>بتای World of Warcraft Forever به بازیکنان اجازه داده تا چندین کاراکتر را تا سطح ۳۰ امتحان کنند، اما بررسی‌ها نشان می‌دهد هیچ زره Mail Spell Power از طریق دانجن‌ها و کوئست‌ها در این سطوح ارائه نمی‌شود.</description></item><item><title>تکمیل سریع دستاورد Sweet Tooth هالووین اند با استفاده از آلت‌ها</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383525-complete-new-sweet-tooth-hallow-s-end-achievement-quickly-using-alts.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383525-complete-new-sweet-tooth-hallow-s-end-achievement-quickly-using-alts.html</guid>
+<pubDate>2026-10-22T15:00:00Z</pubDate>
+<description>بازیکنان می‌توانند دستاورد جدید Sweet Tooth را با کمک آلت‌ها خیلی سریع به پایان برسانند.</description></item><item><title>بهینه‌سازی تبادل Tricky Treat با فروشندگان Hallow&#x27;s End</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383528-optimize-tricky-treat-exchange-with-neighborhood-vendors-for-hallow-s-.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383528-optimize-tricky-treat-exchange-with-neighborhood-vendors-for-hallow-s-.html</guid>
+<pubDate>2026-10-22T14:15:00Z</pubDate>
+<description>رویداد Hallow&#x27;s End با اضافه شدن مأموریت‌های روزانه جدید، امکان دریافت آب‌نبات‌های ویژه را فراهم کرده که می‌توان آن‌ها را با نرخ‌های متفاوت به Tricky Treat تبدیل کرد.</description></item><item><title>بازگشت WoW Forever Beta در چند روز آینده</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383532-world-of-warcraft-forever-beta-will-return-shortly.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383532-world-of-warcraft-forever-beta-will-return-shortly.html</guid>
+<pubDate>2026-10-22T01:55:07Z</pubDate>
+<description>بلیزارد اعلام کرده که در حال کار بر روی بازگشت WoW Forever Beta است و این سرور به‌زودی دوباره آنلاین خواهد شد.</description></item><item><title>رفع مشکل Tooltip Bonus Roll و هاتفیکس‌های بیشتر Labyrinth در پچ ۱۲.۱.۵</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383531-bonus-rolls-tooltip-fixed-more-labyrinth-bug-fixes-patch-12-1-5-hotfix.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383531-bonus-rolls-tooltip-fixed-more-labyrinth-bug-fixes-patch-12-1-5-hotfix.html</guid>
+<pubDate>2026-10-22T01:43:01Z</pubDate>
+<description>بلزارد امروز هاتفیکس‌هایی منتشر کرده که شامل رفع باگ‌های Labyrinth و اصلاح نمایش Tooltip Bonus Roll است.</description></item><item><title>استفاده از کلیدهای Skeleton برای باز کردن درهای قفل‌شده در Labyrinthها</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383505-use-skeleton-keys-to-open-locked-door-in-labyrinths-easy-achievement-f.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383505-use-skeleton-keys-to-open-locked-door-in-labyrinths-easy-achievement-f.html</guid>
+<pubDate>2026-10-21T20:11:41Z</pubDate>
+<description>بازیکنان راهی سریع‌تر برای باز کردن در قفل‌شده Labyrinthها پیدا کرده‌اند که نیازی به جستجوی Keeper of the Key ندارد و فارمینگ دستاورد را بسیار سریع‌تر می‌کند.</description></item><item><title>تخفیف ۳۰ درصدی خدمات و تا ۵۰ درصدی ترنسماگ، توی و باندل در فروشگاه Battle.net</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383524-get-30-off-game-services-and-up-to-50-off-transmogs-toys-and-bundles-o.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383524-get-30-off-game-services-and-up-to-50-off-transmogs-toys-and-bundles-o.html</guid>
+<pubDate>2026-10-21T18:28:46Z</pubDate>
+<description>فروش جدیدی در فروشگاه Battle.net آغاز شده و بازیکنان می‌توانند ۳۰٪ تخفیف روی خدمات بازی و تا ۵۰٪ تخفیف روی ترنسماگ، توی و باندل‌های منتخب دریافت کنند.</description></item><item><title>سیستم Camping در WoW: Forever؛ آتش کمپ به نقطهٔ دیدار تبدیل می‌شود</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383522-camping-system-breakdown-in-world-of-warcraft-forever.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383522-camping-system-breakdown-in-world-of-warcraft-forever.html</guid>
 <pubDate>2026-10-21T17:07:33Z</pubDate>
@@ -185,7 +181,11 @@
 <link>https://pvwvuow.github.io/wowheadFA/article/383507-acquire-scarecrow-pepe-decor-during-hallow-s-end.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383507-acquire-scarecrow-pepe-decor-during-hallow-s-end.html</guid>
 <pubDate>2026-10-21T15:00:00Z</pubDate>
-<description>رویداد Hallow&#x27;s End امسال آچیومنت تازه‌ای به نام A Frightening Friend دارد که جایزه‌اش دیکور Scarecrow Pepe است؛ فقط خلال تعطیلات در دسترس است.</description></item><item><title>رزرو اسم کاراکتر در WoW: Forever از ۲۷ اکتبر باز می‌شود</title>
+<description>رویداد Hallow&#x27;s End امسال آچیومنت تازه‌ای به نام A Frightening Friend دارد که جایزه‌اش دیکور Scarecrow Pepe است؛ فقط خلال تعطیلات در دسترس است.</description></item><item><title>هفتهٔ بونوس Delves؛ ۲۵ درصد Reputation بیشتر برای Labyrinth</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383517-kindo-jan-labyrinth-reputation-increased-from-delve-bonus-event.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383517-kindo-jan-labyrinth-reputation-increased-from-delve-bonus-event.html</guid>
+<pubDate>2026-10-21T14:00:00Z</pubDate>
+<description>هفتهٔ بونوس این بار Delves است؛ تا یکشنبه ۲۵ درصد Reputation بیشتری از فعالیت‌های Labyrinth می‌گیرید.</description></item><item><title>رزرو اسم کاراکتر در WoW: Forever از ۲۷ اکتبر باز می‌شود</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383515-how-to-reserve-your-world-of-warcraft-forever-character-name-on-octobe.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383515-how-to-reserve-your-world-of-warcraft-forever-character-name-on-octobe.html</guid>
 <pubDate>2026-10-20T21:02:22Z</pubDate>

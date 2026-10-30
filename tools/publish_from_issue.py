@@ -301,8 +301,14 @@ def main():
                       [f"  - {i}" for i in issues])
 
     art["status"] = "published"
-    art["published_at"] = FN.datetime.now(FN.timezone.utc) \
+    # published_at stays the ORIGINAL Wowhead publication date (set by
+    # fetch_news from the RSS pubDate). The site must show when the news
+    # happened, not when our translation was written; our own timestamp
+    # lives in generator.written_at.
+    gen = art.get("generator") or {}
+    gen["written_at"] = FN.datetime.now(FN.timezone.utc) \
         .strftime("%Y-%m-%dT%H:%M:%SZ")
+    art["generator"] = gen
     with open(path, "w", encoding="utf-8") as fh:
         json.dump(art, fh, ensure_ascii=False, indent=1)
     lines.append("QA gates passed - published")
