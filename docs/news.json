@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T18:44:15Z",
+ "generated": "2026-10-30T19:46:09Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2334,6 +2334,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383669,
+   "title_en": "Over 8 Million Characters Were Created in the WoW: Forever Beta",
+   "url": "https://www.wowhead.com/news=383669",
+   "category": "Forever",
+   "published_at": "2026-10-30T19:37:04Z"
+  },
   {
    "id": 383666,
    "title_en": "November Traveler's Log Bonus Reward - Hot Motocross Bunmover 4600 Mount",
