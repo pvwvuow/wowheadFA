@@ -1,22 +1,7 @@
 {
  "day": "2026-10-31",
- "published_today": 2,
+ "published_today": 4,
  "held": {
-  "383670": {
-   "reason": "G4 numbers from source missing in article: 16 | G5 English token not in source: kind | G5 English token not in source: dispel | fallback هم رد شد: writer error: Remote end closed connection without response",
-   "at": "2026-10-31T10:03:34Z",
-   "at_ts": 1793441014.497206
-  },
-  "383669": {
-   "reason": "«بتای WoW: Forever به پایان رسیده و کمتر از یک هفته تا زمان عرضه نهایی باقی مانده است» — منبع فقط می‌گوید launch is less than a week away و beta is now over؛ «عرضه نهایی» و «زمان عرضه نهایی» invented claim است. | «بازیکنان برای شروع WoW: Forever در November 4th آماده هستند؟» — منبع می‌گوید on November 4th؛ November 4th را به فارسی November 4th نوشته‌اید اما جمله را به شکل سؤال مستقیم از بازیکنان د",
-   "at": "2026-10-31T10:08:52Z",
-   "at_ts": 1793441332.250972
-  },
-  "383666": {
-   "reason": "عددِ بدون منبع در مقاله: 200 | G5 English token not in source: quote",
-   "at": "2026-10-31T10:09:36Z",
-   "at_ts": 1793441376.222294
-  },
   "383664": {
    "reason": "«World of Warcraft: Forever در سطح جهانی ۴ نوامبر ساعت ۳:۰۰ بعدازظهر PST لانچ می‌شود» — منبع می‌گوید ۴ نوامبر ساعت ۳:۰۰ p.m. PST اما «لانچ می‌شود» به جای «launches worldwide» و جمله ساختار و فعل را تغییر داده است که ادعای جدیدی اضافه می‌کند. | «World of Warcraft: Forever بازیکنان | fallback هم رد شد: «در تاریخ ۴ نوامبر رأس ساعت 3:00 p.m. PST» — منبع دقیقاً همین تاریخ و ساعت را ذکر کرده است",
    "at": "2026-10-31T10:55:36Z",
@@ -81,12 +66,17 @@
    "reason": "G5 English token not in source: cuirass | G5 English token not in source: byrnie | G5 English token not in source: brigandine | fallback هم رد شد: «نخستین قطعه لوت Myth 2/6» و «اولین قطعه از لوت با سطح کیفی Myth 2/6» — منبع می‌گوید اولین",
    "at": "2026-10-31T13:00:58Z",
    "at_ts": 1793451658.923104
+  },
+  "383670": {
+   "reason": "G5 English token not in source: dispel | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+   "at": "2026-10-31T13:25:57Z",
+   "at_ts": 1793453157.457469
   }
  },
  "ingest_fails": {
   "383607": 1
  },
- "updated_at": "2026-10-31T13:03:58Z",
+ "updated_at": "2026-10-31T13:27:24Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1939,6 +1929,46 @@
     "warns": 0,
     "sec": 25.6,
     "attempts": 1
+   },
+   {
+    "id": "383670",
+    "ts": "2026-10-31T13:25:57Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 56.7,
+    "attempts": 2
+   },
+   {
+    "id": "383670",
+    "ts": "2026-10-31T13:26:04Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 6.8,
+    "attempts": 1
+   },
+   {
+    "id": "383669",
+    "ts": "2026-10-31T13:26:35Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 31.4,
+    "attempts": 1
+   },
+   {
+    "id": "383666",
+    "ts": "2026-10-31T13:27:24Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 48.9,
+    "attempts": 2
    }
   ]
  }

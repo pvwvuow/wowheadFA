@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383669",
  "title_en": "Over 8 Million Characters Were Created in the WoW: Forever Beta",
  "category": "Forever",
- "published_at": "2026-10-30T19:37:04Z",
+ "published_at": "2026-10-31T13:26:35Z",
  "fetched_at": "2026-10-30T19:45:52Z",
  "source_mode": "full",
  "qa_facts": {
@@ -88,7 +88,7 @@
   ],
   "chars": 697
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383669/1.png",
@@ -98,5 +98,40 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383669/1.png",
  "hold_reason": "«بتای WoW: Forever به پایان رسیده و کمتر از یک هفته تا زمان عرضه نهایی باقی مانده است» — منبع فقط می‌گوید launch is less than a week away و beta is now over؛ «عرضه نهایی» و «زمان عرضه نهایی» invented claim است. | «بازیکنان برای شروع WoW: Forever در November 4th آماده هستند؟» — منبع می‌گوید on November 4th؛ November 4th را به فارسی November 4th نوشته‌اید اما جمله را به شکل سؤال مستقیم از بازیکنان د",
  "hold_count": 2,
- "hold_at": "2026-10-31T10:08:52Z"
+ "hold_at": "2026-10-31T10:08:52Z",
+ "article_fa": {
+  "title_fa": "بیش از ۸ میلیون شخصیت در بتای WoW: Forever ساخته شد",
+  "lead_fa": "بلیزارد آمار جالبی از بتای WoW: Forever منتشر کرده است که نشان‌دهنده فعالیت گسترده بازیکنان در این دوره است.",
+  "body_fa": [
+   "بتای WoW: Forever اکنون به پایان رسیده و لانچ کمتر از یک هفته دیگر باقی مانده است. بلیزارد آمار مختلفی از این بتا منتشر کرده که شامل تعداد شخصیت‌های ساخته‌شده و مجموع کشتن‌های PvP می‌شود.",
+   {
+    "t": "h",
+    "x": "آمار منتشرشده"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "Characters Created: 8,862,354",
+     "PvP Kills: 9,959,014",
+     "Skyborne: 1,889,084",
+     "Duels Fought: 1,248,125",
+     "Forsaken Paladins: 612,096",
+     "Deaths from Falling: 1,157,204"
+    ]
+   },
+   "Deadliest Dungeon در این بتا The Hall of Thanes بوده است. Deadliest Creature نیز Kobold Miner اعلام شده.",
+   "Zone with the Most PvP هم Hillsbrad Foothills بوده است.",
+   "بلیزارد لانچ WoW: Forever را برای ۴ نوامبر در نظر گرفته است. برای آماده‌سازی می‌توانید راهنماهای ما را بررسی کنید."
+  ],
+  "tags_fa": [
+   "WoW: Forever",
+   "بتا",
+   "آمار بلیزارد"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-31T13:26:35Z"
+ }
 }

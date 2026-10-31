@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383666",
  "title_en": "November Traveler's Log Bonus Reward - Hot Motocross Bunmover 4600 Mount",
  "category": "Live",
- "published_at": "2026-10-30T17:31:46Z",
+ "published_at": "2026-10-31T13:27:24Z",
  "fetched_at": "2026-10-30T18:13:16Z",
  "source_mode": "full",
  "qa_facts": {
@@ -155,7 +155,7 @@
   ],
   "chars": 1626
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383666/1.jpg",
@@ -165,5 +165,45 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383666/1.jpg",
  "hold_reason": "عددِ بدون منبع در مقاله: 200 | G5 English token not in source: quote",
  "hold_count": 2,
- "hold_at": "2026-10-31T10:09:36Z"
+ "hold_at": "2026-10-31T10:09:36Z",
+ "article_fa": {
+  "title_fa": "جایزهٔ ویژهٔ Traveler's Log نوامبر؛ سوارکار Hot Motocross Bunmover 4600",
+  "lead_fa": "بلیزارد جایزهٔ ویژهٔ Traveler's Log ماه نوامبر را اعلام کرد که همان Hot Motocross Bunmover 4600 است؛ این سوارکار در Trading Post با تم Sweet Tooth عرضه می‌شود.",
+  "body_fa": [
+   "بلیزارد در خلاصهٔ هفتگی WoW این هفته، Trading Post ماه نوامبر را با تم Sweet Tooth پیش‌نمایش کرد. هرچند جزئیات اقلام اعلام نشد، اما جایزهٔ ویژهٔ تکمیل Traveler's Log مشخص شد: سوارکار Hot Motocross Bunmover 4600.",
+   {
+    "t": "h",
+    "x": "تم شیرین نوامبر در Trading Post"
+   },
+   "این ماه Trading Post با تم Sweet Tooth آماده است تا مجموعهٔ شما را شیرین‌تر کند. فعالیت‌ها را کامل کنید تا Trader's Tender به دست آورید و Traveler's Log را پر کنید تا جایزهٔ ویژهٔ این ماه را دریافت کنید: سوارکار Hot Motocross Bunmover 4600.",
+   {
+    "t": "quote",
+    "x": "وقتی تولید دسر با بهینه‌سازی سرعت دیدار می‌کند. تحویل سالم نان تضمین نمی‌شود.",
+    "by": "Blizzard"
+   },
+   "این سوارکار از جلو و پشت ظاهر متفاوتی دارد و می‌توانید آن را در Trading Post مشاهده کنید.",
+   {
+    "t": "h",
+    "x": "مکان‌های Trading Post"
+   },
+   "برای دیدن اقلام جدید به T&W (Tawney and Wilder) درست بیرون از Mage District در Stormwind سر بزنید یا به Zen’shiri Trading Post کنار Grommash Hold در Orgrimmar بروید. همچنین می‌توانید به Trading Post در پایتخت‌های Dornogal (The Foregrounds) در Isle of Dorn و Silvermoon City بازسازی‌شده مراجعه کنید که نمایندگان هر دو غرفه آنجا حضور دارند.",
+   {
+    "t": "note",
+    "x": "بازیکنان تازه‌وارد یا بازگشتی به World of Warcraft و Midnight می‌توانند از Trading Post بازدید کنند تا همهٔ جزئیات را از مکان آن تا نحوهٔ کسب Trader's Tender بیشتر از طریق Traveler's Log بیاموزند.",
+    "kind": "info"
+   },
+   "برای دریافت این جایزهٔ ویژه باید Traveler's Log ماه نوامبر را کامل کنید و عدد 4600 در نام سوارکار به همین شکل حفظ شده است."
+  ],
+  "tags_fa": [
+   "Trading Post",
+   "Traveler's Log",
+   "Hot Motocross Bunmover 4600",
+   "نوامبر"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-31T13:27:24Z"
+ }
 }

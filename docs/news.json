@@ -1,8 +1,107 @@
 {
- "generated": "2026-10-31T13:04:06Z",
+ "generated": "2026-10-31T13:27:32Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383666,
+   "slug": "november-traveler-s-log-bonus-reward-hot-motocross-bunmover-4600-mount",
+   "title_fa": "جایزهٔ ویژهٔ Traveler's Log نوامبر؛ سوارکار Hot Motocross Bunmover 4600",
+   "lead_fa": "بلیزارد جایزهٔ ویژهٔ Traveler's Log ماه نوامبر را اعلام کرد که همان Hot Motocross Bunmover 4600 است؛ این سوارکار در Trading Post با تم Sweet Tooth عرضه می‌شود.",
+   "body_fa": [
+    "بلیزارد در خلاصهٔ هفتگی WoW این هفته، Trading Post ماه نوامبر را با تم Sweet Tooth پیش‌نمایش کرد. هرچند جزئیات اقلام اعلام نشد، اما جایزهٔ ویژهٔ تکمیل Traveler's Log مشخص شد: سوارکار Hot Motocross Bunmover 4600.",
+    {
+     "t": "h",
+     "x": "تم شیرین نوامبر در Trading Post"
+    },
+    "این ماه Trading Post با تم Sweet Tooth آماده است تا مجموعهٔ شما را شیرین‌تر کند. فعالیت‌ها را کامل کنید تا Trader's Tender به دست آورید و Traveler's Log را پر کنید تا جایزهٔ ویژهٔ این ماه را دریافت کنید: سوارکار Hot Motocross Bunmover 4600.",
+    {
+     "t": "quote",
+     "x": "وقتی تولید دسر با بهینه‌سازی سرعت دیدار می‌کند. تحویل سالم نان تضمین نمی‌شود.",
+     "by": "Blizzard"
+    },
+    "این سوارکار از جلو و پشت ظاهر متفاوتی دارد و می‌توانید آن را در Trading Post مشاهده کنید.",
+    {
+     "t": "h",
+     "x": "مکان‌های Trading Post"
+    },
+    "برای دیدن اقلام جدید به T&W (Tawney and Wilder) درست بیرون از Mage District در Stormwind سر بزنید یا به Zen’shiri Trading Post کنار Grommash Hold در Orgrimmar بروید. همچنین می‌توانید به Trading Post در پایتخت‌های Dornogal (The Foregrounds) در Isle of Dorn و Silvermoon City بازسازی‌شده مراجعه کنید که نمایندگان هر دو غرفه آنجا حضور دارند.",
+    {
+     "t": "note",
+     "x": "بازیکنان تازه‌وارد یا بازگشتی به World of Warcraft و Midnight می‌توانند از Trading Post بازدید کنند تا همهٔ جزئیات را از مکان آن تا نحوهٔ کسب Trader's Tender بیشتر از طریق Traveler's Log بیاموزند.",
+     "kind": "info"
+    },
+    "برای دریافت این جایزهٔ ویژه باید Traveler's Log ماه نوامبر را کامل کنید و عدد 4600 در نام سوارکار به همین شکل حفظ شده است."
+   ],
+   "tags_fa": [
+    "Trading Post",
+    "Traveler's Log",
+    "Hot Motocross Bunmover 4600",
+    "نوامبر"
+   ],
+   "items": [],
+   "title_en": "November Traveler's Log Bonus Reward - Hot Motocross Bunmover 4600 Mount",
+   "source_url": "https://www.wowhead.com/news=383666",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383666-november-traveler-s-log-bonus-reward-hot-motocross-bunmover-4600-mount.html",
+   "published_at": "2026-10-31T13:27:24Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383666/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383666/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383669,
+   "slug": "over-8-million-characters-were-created-in-the-wow-forever-beta",
+   "title_fa": "بیش از ۸ میلیون شخصیت در بتای WoW: Forever ساخته شد",
+   "lead_fa": "بلیزارد آمار جالبی از بتای WoW: Forever منتشر کرده است که نشان‌دهنده فعالیت گسترده بازیکنان در این دوره است.",
+   "body_fa": [
+    "بتای WoW: Forever اکنون به پایان رسیده و لانچ کمتر از یک هفته دیگر باقی مانده است. بلیزارد آمار مختلفی از این بتا منتشر کرده که شامل تعداد شخصیت‌های ساخته‌شده و مجموع کشتن‌های PvP می‌شود.",
+    {
+     "t": "h",
+     "x": "آمار منتشرشده"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "Characters Created: 8,862,354",
+      "PvP Kills: 9,959,014",
+      "Skyborne: 1,889,084",
+      "Duels Fought: 1,248,125",
+      "Forsaken Paladins: 612,096",
+      "Deaths from Falling: 1,157,204"
+     ]
+    },
+    "Deadliest Dungeon در این بتا The Hall of Thanes بوده است. Deadliest Creature نیز Kobold Miner اعلام شده.",
+    "Zone with the Most PvP هم Hillsbrad Foothills بوده است.",
+    "بلیزارد لانچ WoW: Forever را برای ۴ نوامبر در نظر گرفته است. برای آماده‌سازی می‌توانید راهنماهای ما را بررسی کنید."
+   ],
+   "tags_fa": [
+    "WoW: Forever",
+    "بتا",
+    "آمار بلیزارد"
+   ],
+   "items": [],
+   "title_en": "Over 8 Million Characters Were Created in the WoW: Forever Beta",
+   "source_url": "https://www.wowhead.com/news=383669",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383669-over-8-million-characters-were-created-in-the-wow-forever-beta.html",
+   "published_at": "2026-10-31T13:26:35Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383669/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383669/1.png",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383602,
    "slug": "more-racial-ability-tuning-on-wow-forever",
@@ -2448,20 +2547,6 @@
    "url": "https://www.wowhead.com/news=383670",
    "category": "Forever",
    "published_at": "2026-10-30T23:22:14Z"
-  },
-  {
-   "id": 383669,
-   "title_en": "Over 8 Million Characters Were Created in the WoW: Forever Beta",
-   "url": "https://www.wowhead.com/news=383669",
-   "category": "Forever",
-   "published_at": "2026-10-30T19:37:04Z"
-  },
-  {
-   "id": 383666,
-   "title_en": "November Traveler's Log Bonus Reward - Hot Motocross Bunmover 4600 Mount",
-   "url": "https://www.wowhead.com/news=383666",
-   "category": "Live",
-   "published_at": "2026-10-30T17:31:46Z"
   },
   {
    "id": 383664,
