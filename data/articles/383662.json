@@ -59,5 +59,21 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383662/1.png"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383662/1.png",
+ "last_rejected": {
+  "title_fa": "ه hearthstone جدید با تم Drust از Talebound در دسترس است",
+  "lead_fa": "یکی از پاداش‌های Talebound، Wood-Cursed Hearthstone است که با اتمام دستاورد The Tale Complete به دست می‌آید.",
+  "body_fa": [
+   "Talebound GuideTalebound Rewards",
+   "یکی از پاداش‌های Talebound، Wood-Cursed Hearthstone است؛ این hearthstone جدید با اتمام دستاورد The Tale Complete به دست می‌آید.",
+   "این دستاورد نیازمند تکمیل همه Tales و رویارویی نهایی است.",
+   "انیمیشن آن به شدت با تم Drust طراحی شده و پس از استفاده، خروج بسیار shadowy دارد.",
+   "انیمیشن این hearthstone توسط Wowhead استخراج شده است."
+  ],
+  "tags_fa": [
+   "PTR",
+   "Talebound",
+   "Hearthstone"
+  ]
+ }
 }

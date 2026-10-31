@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383634",
  "title_en": "After 2 Weeks, Over 200k Players Have Defeated Tier 11 Kindo'jan Solo",
  "category": "Live",
- "published_at": "2026-10-29T14:00:00Z",
+ "published_at": "2026-10-31T16:19:13Z",
  "fetched_at": "2026-10-29T14:09:47Z",
  "source_mode": "full",
  "qa_facts": {
@@ -81,7 +81,7 @@
   ],
   "chars": 662
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383634/1.jpg",
@@ -106,5 +106,26 @@
    "Kindo'jan",
    "Let Me Solo Him"
   ]
+ },
+ "article_fa": {
+  "title_fa": "پس از دو هفته بیش از ۲۰۰ هزار بازی‌کننده Tier 11 Kindo'jan را به صورت تک‌نفره شکست دادند",
+  "lead_fa": "هال آف فیم Delve اکنون بسته شده و بیش از ۲۰۰ هزار بازی‌کننده Tier 11 Kindo'jan را به صورت تک‌نفره شکست داده و دستاورد Let Me Solo Him! را کسب کرده‌اند.",
+  "body_fa": [
+   "برای اولین بار بلیزارد دستاورد Nemesis boss achievement را به مدت یک هفته کامل تمدید کرد و به بازیکنان فرصت داد تا Fabled Let Me Solo Him: Kindo'jan را برای یک هفته اضافی کسب کنند.",
+   "در پایان هفته گذشته بیش از ۱۵۰ هزار بازی‌کننده Tier 11 Kindo'jan را به صورت تک‌نفره شکست داده بودند و در طول هفته اضافی ۵۰ هزار بازی‌کننده دیگر این دستاورد را کسب کردند.",
+   "هر دو ریست هفتگی NA و EU اکنون انجام شده و آمار نهایی به ترتیب ۹۲٬۳۰۵ برای NA و ۱۱۳٬۲۰۱ برای EU ثبت شده است.",
+   "تبریک به همه کسانی که Kindo'jan را شکست دادند!"
+  ],
+  "tags_fa": [
+   "Delve",
+   "Kindo'jan",
+   "Let Me Solo Him"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-31T16:19:13Z",
+  "reviewer": "grok-4"
  }
 }

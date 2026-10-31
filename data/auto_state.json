@@ -1,27 +1,7 @@
 {
  "day": "2026-10-31",
- "published_today": 8,
+ "published_today": 10,
  "held": {
-  "383630": {
-   "reason": "«انتشار جهانی WoW: Forever در ۴ نوامبر» ادعای تاریخی و زمانی مشخصی است که منبع اصلی این خبر (Planet Azeroth) اصلاً به آن اشاره نکرده است. | بخش نظرات کاربران و فهرول hotfixes و اخبار مرتبط با Forever و Midnight و آمار «بیش از ۸ میلیون کاراکتر» و «Patch 1.60.1» و مقایسه Retail/For | fallback هم رد شد: G4 numbers from source missing in article: 1.60.1, 10, 15, 16, 2026, 22, 800",
-   "at": "2026-10-31T12:36:45Z",
-   "at_ts": 1793450205.030168
-  },
-  "383619": {
-   "reason": "مقاله ادعا می‌کند هر دانجن کامل ۵ Timewarped Badge به همراه دارد در حالی که منبع برای The Everbloom دو مقدار متفاوت (required bosses: 5 و full run: 5) ذکر کرده است. | در لیست دانجن‌ها، مقاله The Everbloom را فقط با ۵ Badge ذکر کرده اما منبع صراحتاً دو حالت required bosses و full run را جداگانه نوشته است. | مقاله فقط دو mount (Nightfall و Beastlord's Irontusk) لیست کرده در حالی که منبع سه mount کام",
-   "at": "2026-10-31T12:37:51Z",
-   "at_ts": 1793450271.3584
-  },
-  "383617": {
-   "reason": "عنوان «هاتفیکس ۱۲.۱.۵» و اشاره به «پچ ۱۲.۱.۵» در developer noteها: منبع فقط hotfixes امروز (۲۷ اکتبر ۲۰۲۶) را اعلام کرده و هیچ نسخه پچ ۱۲.۱.۵ را ذکر نکرده است. | lead_fa می‌گوید Labyrinth scenarios اعتبار Great Vault را اعطا نمی‌کردند؛ منبع فقط می‌گوید «some scenarios» بودند، نه همه آن‌ها. | در پاراگراف Monk: «مشکل Mistline talent که گاهی lowest health target را به درستی heal نمی‌کرد برطرف شده است",
-   "at": "2026-10-31T12:39:20Z",
-   "at_ts": 1793450360.192258
-  },
-  "383603": {
-   "reason": "G5 English token not in source: cuirass | G5 English token not in source: byrnie | G5 English token not in source: brigandine | fallback هم رد شد: «نخستین قطعه لوت Myth 2/6» و «اولین قطعه از لوت با سطح کیفی Myth 2/6» — منبع می‌گوید اولین",
-   "at": "2026-10-31T13:00:58Z",
-   "at_ts": 1793451658.923104
-  },
   "383670": {
    "reason": "G5 English token not in source: dispel | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
    "at": "2026-10-31T13:25:57Z",
@@ -46,10 +26,25 @@
    "reason": "یادداشت پایانی «این دمو فقط در بازه اعلام‌شده قابل تست است و پس از آن در دسترس نخواهد بود» را منبع نگفته است. | G7 body: plain paragraphs must be >=40 chars | هشدار: 1",
    "at": "2026-10-31T15:19:43Z",
    "at_ts": 1793459983.488001
+  },
+  "383662": {
+   "reason": "تگ «PTR» در مقاله ذکر شده اما منبع هیچ اشاره‌ای به PTR ندارد. | G7 body: plain paragraphs must be >=40 chars | هشدار: 1 | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+   "at": "2026-10-31T16:16:33Z",
+   "at_ts": 1793463393.234237
+  },
+  "383650": {
+   "reason": "G5 English token not in source: izzard",
+   "at": "2026-10-31T16:17:40Z",
+   "at_ts": 1793463460.657633
+  },
+  "383632": {
+   "reason": "G4 numbers from source missing in article: 62 | G6 CJK characters leaked into Persian prose: 线索, 回復",
+   "at": "2026-10-31T16:21:12Z",
+   "at_ts": 1793463672.575332
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-31T15:19:43Z",
+ "updated_at": "2026-10-31T16:21:12Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -2041,6 +2036,66 @@
     "blocks": 2,
     "warns": 1,
     "sec": 70.4,
+    "attempts": 2
+   },
+   {
+    "id": "383662",
+    "ts": "2026-10-31T16:16:33Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 1,
+    "sec": 73.1,
+    "attempts": 2
+   },
+   {
+    "id": "383662",
+    "ts": "2026-10-31T16:16:44Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 11.4,
+    "attempts": 1
+   },
+   {
+    "id": "383650",
+    "ts": "2026-10-31T16:17:40Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 55.8,
+    "attempts": 2
+   },
+   {
+    "id": "383635",
+    "ts": "2026-10-31T16:18:30Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 3,
+    "sec": 49.4,
+    "attempts": 0
+   },
+   {
+    "id": "383634",
+    "ts": "2026-10-31T16:19:13Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 43.4,
+    "attempts": 0
+   },
+   {
+    "id": "383632",
+    "ts": "2026-10-31T16:21:12Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 119.1,
     "attempts": 2
    }
   ]

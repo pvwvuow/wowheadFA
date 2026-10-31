@@ -1,8 +1,83 @@
 {
- "generated": "2026-10-31T15:20:19Z",
+ "generated": "2026-10-31T16:21:31Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383634,
+   "slug": "after-2-weeks-over-200k-players-have-defeated-tier-11-kindo-jan-solo",
+   "title_fa": "پس از دو هفته بیش از ۲۰۰ هزار بازی‌کننده Tier 11 Kindo'jan را به صورت تک‌نفره شکست دادند",
+   "lead_fa": "هال آف فیم Delve اکنون بسته شده و بیش از ۲۰۰ هزار بازی‌کننده Tier 11 Kindo'jan را به صورت تک‌نفره شکست داده و دستاورد Let Me Solo Him! را کسب کرده‌اند.",
+   "body_fa": [
+    "برای اولین بار بلیزارد دستاورد Nemesis boss achievement را به مدت یک هفته کامل تمدید کرد و به بازیکنان فرصت داد تا Fabled Let Me Solo Him: Kindo'jan را برای یک هفته اضافی کسب کنند.",
+    "در پایان هفته گذشته بیش از ۱۵۰ هزار بازی‌کننده Tier 11 Kindo'jan را به صورت تک‌نفره شکست داده بودند و در طول هفته اضافی ۵۰ هزار بازی‌کننده دیگر این دستاورد را کسب کردند.",
+    "هر دو ریست هفتگی NA و EU اکنون انجام شده و آمار نهایی به ترتیب ۹۲٬۳۰۵ برای NA و ۱۱۳٬۲۰۱ برای EU ثبت شده است.",
+    "تبریک به همه کسانی که Kindo'jan را شکست دادند!"
+   ],
+   "tags_fa": [
+    "Delve",
+    "Kindo'jan",
+    "Let Me Solo Him"
+   ],
+   "items": [],
+   "title_en": "After 2 Weeks, Over 200k Players Have Defeated Tier 11 Kindo'jan Solo",
+   "source_url": "https://www.wowhead.com/news=383634",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383634-after-2-weeks-over-200k-players-have-defeated-tier-11-kindo-jan-solo.html",
+   "published_at": "2026-10-31T16:19:13Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383634/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383634/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383635,
+   "slug": "patch-cadence-future-locations-respeccing-ign-interview-on-wow-forever",
+   "title_fa": "مصاحبه آی‌جی‌ان با بلیزارد درباره ووو: فوراور؛ از cadence به‌روزرسانی تا مکان‌های آینده",
+   "lead_fa": "تیم بلیزارد در مصاحبه با آی‌جی‌ان درباره ووو: فوراور به بحث در مورد cadence به‌روزرسانی، مکان‌های آینده، respeccing و موضوعات دیگر پرداخته است.",
+   "body_fa": [
+    "آی‌جی‌ان با Kris Zierhut طراح ارشد بازی و Tim Jones طراح ارشد کلاسیک مصاحبه کرده است. این مصاحبه درباره ووو: فوراور به بررسی تفاوت آن با ووو کلاسیک، ستون‌های اصلی طراحی، بهبودهای گرافیکی، cadence انتشار و مکان‌های آینده پرداخته است.",
+    "{'t': 'h', 'x': 'تفاوت ووو: فوراور با ووو کلاسیک'}",
+    "ووو کلاسیک شبیه به یک موزه است که سال‌ها با تغییرات بسیار کم حفظ شده تا کسانی که می‌خواهند تجربه اصلی را ببینند بتوانند آن را حفظ کنند. ووو: فوراور نسخه‌ای است که اگر هرگز به Outland نرفته بودند و به توسعه جهان ادامه می‌دادند چه می‌شد؛ مانند افزودن کوئست‌های جدید یا Professions.",
+    "هنگام انتخاب تغییرات از ووو: کلاسیک، تیم به چهار ستون اصلی خود نگاه می‌کند. مهم‌ترین آن احتمالاً «the world is the main character» است. سفر باید به اندازه مقصد مهم باشد و جهان باید پر از محتوا به نظر برسد، چه در کدام zone باشید. آن‌ها از تجربه Hardcore الهام گرفته‌اند که در آن هر zone پر از بازیکنان بود زیرا مرگ باعث reroll می‌شد.",
+    "برای «approachable and familiar» پایه کلاسیک را قابل دسترس می‌دانند و با دقت به عناصری مانند SD models پرداخته‌اند. رابط کاربری مدرن استفاده می‌شود اما همچنان حس کلاسیک را حفظ کرده و کپی از رابط کاربری retail نیست. همچنین تلاش شده بازی را «unsolving» کنند تا مسیر leveling و انتخاب Professions کاملاً مشخص نباشد.",
+    "{'t': 'h', 'x': 'بهبودهای Lightning و Shadow و موتور بازی'}",
+    "بازیکنان ووو سال ۲۰۰۴ را بهتر از آنچه واقعاً بود به یاد می‌آورند، بنابراین تیم می‌خواهد Azeroth را همان‌طور که به یاد می‌آورند ارائه دهد نه همان‌طور که بود. هدف جذب بازیکنان جدید و نسل بعدی است که به گرافیک با fidelity بالا عادت دارند. موتور ووو spaghetti code نیست و این توصیف ناعادلانه است. Kris Zierhut شنیده که توسعه‌دهندگان دیگر موتور ووو را می‌خواهند. توسعه‌دهندگان طی ۲۵ سال گذشته برای بهبود نرخ فریم، پاسخ‌دهی سرور و موارد دیگر تلاش کرده‌اند.",
+    "{'t': 'h', 'x': 'cadence انتشار و انواع محتوا'}",
+    "تیم در طول کلاسیک cadence انتشار را آزمایش کرده است. دوره بدون محتوای جدید به مدت شش تا هشت هفته بد به نظر می‌رسد. در SoD از برنامه هشت تا ده هفته‌ای استفاده شد که خیلی سریع بود. cadence مناسب را حدود یک بار هر ۴ ماه یا ۳ بار در سال می‌دانند. این مزیت داستان‌های کوچک و محلی است که نیازی به ۶ ماه برای داستان بزرگ ندارد. محتوای کافی برای دوره ۴ ماهه وجود دارد و برنامه‌ریزی برای محتوای بینابینی هم شده است.",
+    "سه نوع محتوا وجود دارد. اول مسیر شناخته‌شده مانند Molten Core، Blackwing Lair و AQ است که ووو: فوراور به آن‌ها می‌رود اما timeline را کشیده‌تر کرده‌اند. دوم مکان‌هایی مانند Riverglades که جدید به نظر می‌رسند اما حس تعلق دارند و dungeonها و raidهای آینده هم در این دسته قرار می‌گیرند. سوم مکان‌های متفاوت مانند Skyborne و Zephras Isle. Dark Portal، Northrend و Pandaria وجود دارند و می‌توان ماجراجویی‌های کوچک مانند dungeon یا کوئست در آن‌ها داشت اما همیشه به Eastern Kingdoms و Kalimdor برمی‌گردید. این کار به زودی انجام نمی‌شود.",
+    "{'t': 'h', 'x': 'respeccing، griefing و مکان\\u200cهای دیگر'}",
+    "Dual spec از زمان launch در دسترس است و سومین spec برای آینده رد نشده. تغییر talents روی هوا مورد نظر نیست زیرا انتظار تغییر برای هر encounter ایجاد می‌کند که approachable و familiar نیست. درباره آسان‌تر کردن تغییر talent specs هنگام نیاز صحبت شده است. griefing بخشی از بازی است و وظیفه تیم ایجاد بازی است که تعاملات اجتماعی مثبت را ترویج کند. از pro-social design مانند camping system یا elite zone quests استفاده می‌شود. چهار اندازه گروه ۵، ۱۰، ۲۰ و ۴۰ وجود دارد تا بازیکنان برای تکمیل اعداد به شبکه اجتماعی مثبت خود تکیه کنند.",
+    "Hyjal در ووو: فوراور متفاوت به نظر می‌رسد زیرا flying وجود ندارد و بازیکنان از زمین آن را می‌بینند. اشاره‌هایی به Mount Hyjal raid وجود خواهد داشت. تیم می‌خواهد به Emerald Dream، Grim Batol به عنوان مکانی برای کاوش مانند Blackrock Mountain، بخش‌های کاوش‌نشده Caverns of Time، داستان Gilneas پیش از نابودی در Cataclysm و Silvermoon در آینده برود اما فعلاً روی نقاط دیگر تمرکز دارد زیرا Silvermoon در retail مورد توجه است.",
+    "Skyborne Elves محبوب‌ترین نژادها هستند. نژادهای وانیلا باعث عدم تعادل جمعیت می‌شوند زیرا بسیاری نمی‌خواهند «a monster» باشند. downtime وجود خواهد داشت که بتوانید هر دو بازی را بازی کنید. retail روی max-level gameplay متمرکز است که به صورت burst می‌آید، بنابراین در فواصل آن می‌توانید ووو: فوراور را بازی کنید. در حال حاضر برنامه‌ای برای player housing وجود ندارد. تیم می‌داند در آینده تعداد raid و dungeon زیاد می‌شود و هنوز راه‌حل آن را نمی‌دانند اما فعلاً روی انتشار بازی تمرکز دارند."
+   ],
+   "tags_fa": [
+    "Forever",
+    "مصاحبه",
+    "cadence",
+    "respeccing"
+   ],
+   "items": [],
+   "title_en": "Patch Cadence, Future Locations, Respeccing - IGN Interview on WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383635",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383635-patch-cadence-future-locations-respeccing-ign-interview-on-wow-forever.html",
+   "published_at": "2026-10-31T16:18:30Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383635/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383635/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383482,
    "slug": "returning-to-dornogal-patch-12-1-7-campaign-playthrough-story-spoilers",
@@ -2753,86 +2828,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383517,
-   "slug": "kindo-jan-labyrinth-reputation-increased-from-delve-bonus-event",
-   "title_fa": "هفتهٔ بونوس Delves؛ ۲۵ درصد Reputation بیشتر برای Labyrinth",
-   "lead_fa": "هفتهٔ بونوس این بار Delves است؛ تا یکشنبه ۲۵ درصد Reputation بیشتری از فعالیت‌های Labyrinth می‌گیرید.",
-   "body_fa": [
-    "هفتهٔ بونوس Delves شروع شده و تا یکشنبه ادامه دارد؛ در این بازه همهٔ فعالیت‌های Labyrinth ۲۵ درصد Reputation بیشتری می‌دهند.",
-    {
-     "t": "h",
-     "x": "برنامهٔ پیشنهادی برای بیشترین بازدهی"
-    },
-    {
-     "t": "ol",
-     "xs": [
-      "کوئست‌های هفتگی Labyrinth را اول بگیرید تا پیشرفت‌ها هم‌زمان شمرده شوند.",
-      "دو Delve روزانه را با Tier بالاتر انجام دهید؛ پاداش Reputation با بونوس ۲۵ درصدی ضرب می‌شود.",
-      "باقی‌ماندهٔ بونوس را قبل از ریست هفتگی یکشنبه مصرف کنید."
-     ]
-    },
-    {
-     "t": "note",
-     "x": "بونوس فقط روی Reputation اعمال می‌شود؛ پاداش غنیمت‌ها تغییری نمی‌کند.",
-     "kind": "info"
-    },
-    "جمع‌بندی: اگر فرکشن‌های Midnight را هدف گرفته‌اید، این هفته بهترین فرصت برای پیشرفت سریع‌تر است."
-   ],
-   "tags_fa": [
-    "Delves",
-    "Reputation",
-    "هفتهٔ بونوس"
-   ],
-   "items": [],
-   "title_en": "Kindo'jan Labyrinth Reputation Increased from Delve Bonus Event",
-   "source_url": "https://www.wowhead.com/news=383517",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383517-kindo-jan-labyrinth-reputation-increased-from-delve-bonus-event.html",
-   "published_at": "2026-10-21T14:00:00Z",
-   "model": "GLM",
-   "via": "auto-demo",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383517/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383517/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383515,
-   "slug": "how-to-reserve-your-world-of-warcraft-forever-character-name-on-octobe",
-   "title_fa": "رزرو اسم کاراکتر در WoW: Forever از ۲۷ اکتبر باز می‌شود",
-   "lead_fa": "از ۲۷ اکتبر بازیکن‌های واجد شرط می‌توانند تا ۳ اسم کاراکتر در WoW: Forever رزرو کنند؛ اروپا ساعت 18:00 CET شروع می‌کند و آمریکای شمالی ساعت 13:00 PDT.",
-   "body_fa": [
-    "بلیزارد جزئیات Early Name Reservation برای WoW: Forever را اعلام کرد. بازهٔ رزرو از ۲۷ اکتبر تا ۳ نوامبر ادامه دارد و اسم‌ها به‌صورت اولویت‌بندی سرعت تصمیم‌گیری می‌دهند؛ یعنی اسم محبوب شما تضمینی نیست.",
-    "زمان شروع بر اساس منطقه: اروپا ۲۷ اکتبر ساعت 18:00 CET، آمریکای شمالی ۲۷ اکتبر ساعت 13:00 PDT، کره ۲۸ اکتبر ساعت 07:00 KST و تایوان هم ۲۸ اکتبر ساعت 07:00 CST.",
-    "سقف رزرو برای هر حساب ۳ کاراکتر در مجموع و در تمام Rulesetها است. اگر دو کاراکتر روی PvP رزرو کنید، فقط یک جایگاه برای Normal یا Role-Play برایتان می‌ماند. این محدودیت فقط به همین دورهٔ Early Name Reservation مربوط است.",
-    "شرط استفاده از رزرو، خرید WoW: Forever Digital Upgrade یا Collector's Edition است و این مزیت فقط به همان اکانت خاصی تعلق می‌گیرد که خرید برایش انجام شده باشد. کسانی هم که Skyborne Heroic Pack یا Skyborne Epic Pack یا بستهٔ زمان‌دار Warcraft Forever Collection را پیش‌خرید کرده‌اند، به همین بازهٔ رزرو دسترسی دارند.",
-    "اگر می‌خواهید روز اول آماده باشید، همین حالا درایور کارت گرافیک را به‌روز کنید، اپلیکیشن Battle.net دسکتاپ را نصب و آپدیت کنید و در منوی Game Version نسخهٔ World of Warcraft: Forever را انتخاب و نصب کنید تا در لحظهٔ باز شدن رزرو فقط اسم‌ها را وارد کنید."
-   ],
-   "tags_fa": [
-    "WoW: Forever",
-    "رزرو اسم",
-    "بلیزارد"
-   ],
-   "items": [],
-   "title_en": "How to Reserve Your World of Warcraft: Forever Character Name on October 27th",
-   "source_url": "https://www.wowhead.com/news=383515",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383515-how-to-reserve-your-world-of-warcraft-forever-character-name-on-octobe.html",
-   "published_at": "2026-10-20T21:02:22Z",
-   "model": "GLM",
-   "via": "",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383515/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383515/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -2863,20 +2858,6 @@
    "url": "https://www.wowhead.com/news=383648",
    "category": "Forever",
    "published_at": "2026-10-29T16:27:09Z"
-  },
-  {
-   "id": 383635,
-   "title_en": "Patch Cadence, Future Locations, Respeccing - IGN Interview on WoW: Forever",
-   "url": "https://www.wowhead.com/news=383635",
-   "category": "Forever",
-   "published_at": "2026-10-29T15:00:00Z"
-  },
-  {
-   "id": 383634,
-   "title_en": "After 2 Weeks, Over 200k Players Have Defeated Tier 11 Kindo'jan Solo",
-   "url": "https://www.wowhead.com/news=383634",
-   "category": "Live",
-   "published_at": "2026-10-29T14:00:00Z"
   },
   {
    "id": 383632,
