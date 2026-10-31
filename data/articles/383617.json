@@ -324,5 +324,73 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383617/1.jpg",
  "hold_reason": "G1 Persian ratio 47% < 55% | G5 English token not in source: izzard | G5 English token not in source: rollback | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
  "hold_count": 1,
- "hold_at": "2026-10-28T01:55:41Z"
+ "hold_at": "2026-10-28T01:55:41Z",
+ "last_rejected": {
+  "title_fa": "هاتفیکس ۱۲.۱.۵: تیونینگ کلاس‌ها و رفع باگ‌ها",
+  "lead_fa": "بلizzard هاتفیکس امروز را منتشر کرده که شامل تیونینگ کلاس‌ها و رفع باگی است که Labyrinth scenarios اعتبار Great Vault را اعطا نمی‌کردند.",
+  "body_fa": [
+   "هاتفیکس‌های ۲۷ اکتبر ۲۰۲۶ برای کلاس‌ها اعمال شده است. Druid در Feral تمام آسیب واردشده ۵٪ افزایش یافته است. این تغییر PvP را تحت تأثیر قرار نمی‌دهد. در Restoration Verdancy healing ۶۰٪ افزایش یافته است. این تغییر PvP را تحت تأثیر قرار نمی‌دهد. Regrowth healing ۱۰٪ افزایش یافته است. این تغییر PvP را تحت تأثیر قرار نمی‌دهد. Improved Swiftmend افزایش Swiftmend healing را به ۴۰٪ (از ۳۰٪) رسانده است. این تغییر PvP را تحت تأثیر قرار نمی‌دهد. Hunter در Marksmanship Trick Shots حالا ricochet damage از Aimed Shot و Rapid Fire را ۸۵٪ (از ۷۵٪) افزایش می‌دهد. Explosive Shot damage ۱۰٪ افزایش یافته است. Volley damage ۱۰٪ افزایش یافته است. Mage در Fire تمام آسیب واردشده ۵٪ افزایش یافته است. این تغییر PvP را تحت تأثیر قرار نمی‌دهد. Monk مشکل Mistline talent که گاهی lowest health target را به درستی heal نمی‌کرد برطرف شده است. Rogue در Subtlety تمام ability damage ۸٪ کاهش یافته است. Trickster: Fazed حالا damage را ۵٪ (از ۷٪) افزایش می‌دهد.",
+   {
+    "t": "h",
+    "x": "Warlock"
+   },
+   "در Affliction Unstable Affliction damage ۲۰٪ افزایش یافته است. این تغییر PvP را تحت تأثیر قرار نمی‌دهد. در Destruction Rain of Fire damage ۲۰٪ افزایش یافته است. Items و Labyrinth مشکل tabards که Rexxar armor set را hide می‌کرد برطرف شده است. مشکل Labyrinth scenarios که Great Vault credit اعطا نمی‌کردند برطرف شده است.",
+   {
+    "t": "h",
+    "x": "Player versus Player"
+   },
+   "در Death Knight Unholy San’layn: Vampiric Strike damage در PvP combat ۲۰٪ کاهش یافته است. در Demon Hunter Devourer Collapsing Star damage در PvP combat ۲۰٪ افزایش یافته است. در Evoker Preservation Chronowarden: Chronal Dynamo افزایش healing و damage از Living Flame را به ۸۰٪ (از ۵۰٪) در PvP combat رسانده است. Chronowarden: Reverberations حالا Verdant Embrace را ۸۰٪ (از ۴۰٪) اضافی طی ۸ ثانیه heal می‌کند در PvP combat. در Hunter Marksmanship Kill Shot damage در PvP combat ۴۰٪ افزایش یافته است. Deathblow’s chance فعال‌شدن توسط Aimed Shot به ۲۵٪ در PvP combat افزایش یافته است. Dark Ranger: Black Arrow damage در PvP combat ۴۰٪ افزایش یافته است. در Mage Fire تمام damage در PvP combat ۵٪ کاهش یافته است. در Frost Frostfire: Isothermic Core’s Meteor damage در PvP combat ۲۰٪ افزایش یافته است. Frostfire: Duality’s Pyroblast damage در PvP combat ۲۰٪ افزایش یافته است. در Monk Mistweaver Conduit of the Celestials: Celestial Conduit healing در PvP combat ۳۵٪ افزایش یافته است. Conduit of the Celestials: Strength of the Black Ox absorb در PvP combat ۲۵٪ افزایش یافته است. در Paladin Holy تمام healing در PvP combat ۵٪ افزایش یافته است. Divine Favor حالا mana cost از Holy Light را ۵۰٪ (از ۳۰٪) در PvP combat کاهش می‌دهد. در Priest Holy Prayer of Healing healing در PvP combat ۳۰٪ افزایش یافته است. Prayerful Litany حالا primary target از Prayer of Healing را ۷۵٪ (از ۱۲۵٪) بیشتر heal می‌کند در PvP combat. Archon: Resonant Energy حالا healing done را ۴٪ (از ۲٪) به ازای هر stack افزایش می‌دهد در PvP combat. Archon: Empowered Surges حالا healing از spells تحت تأثیر Surge of Light را ۱۰٪ (از ۵٪) افزایش می‌دهد در PvP combat. Archon: Realized Potential حالا Flash Heal healing را ۲۵٪ (از ۲۰٪) افزایش می‌دهد در PvP combat. در Rogue Assassination Deathstalker: Deathstalker’s Mark damage در PvP combat ۲۰٪ افزایش یافته است. Deathstalker: Hunt Them Down damage در PvP combat ۲۰٪ افزایش یافته است. Deathstalker: Darkest Night حالا damage از Eviscerate بعدی را ۱۵٪ (از ۸٪) افزایش می‌دهد در PvP combat. در Shaman Restoration Healing Stream Totem و Stormstream Totem healing در PvP combat ۲۰٪ افزایش یافته است.",
+   {
+    "t": "note",
+    "x": "Developer’s note برای Restoration Druid: این تغییرات برای کمک به مقابله با burst damage در dungeons طراحی شده‌اند زیرا عملکرد آن‌ها نسبت به سایر healers عقب‌تر است. آن‌ها در raid عملکرد خوبی دارند بنابراین talents و abilities مورد علاقه در گروه ۵نفره هدف قرار گرفته‌اند.",
+    "kind": "info"
+   },
+   {
+    "t": "note",
+    "x": "Developer’s note برای Marksmanship Hunter: این تغییرات برای افزایش area damage effectiveness طراحی شده‌اند.",
+    "kind": "info"
+   },
+   {
+    "t": "note",
+    "x": "Developer’s note برای Subtlety Rogue: buff دریافت‌شده همراه تغییرات در پچ ۱۲.۱.۵ بیش از حد انتظار بوده بنابراین بخش قابل توجهی از آن rollback شده است. علاوه بر این تغییرات پچ برای Trickster بیش از Deathstalker مفید بوده بنابراین Trickster nerf کوچک‌تری دریافت می‌کند.",
+    "kind": "info"
+   },
+   {
+    "t": "note",
+    "x": "Developer’s note برای Fire Mage: Fire Mage همچنان overperform کرده بنابراین overall damage آن کاهش یافته است.",
+    "kind": "info"
+   },
+   {
+    "t": "note",
+    "x": "Developer’s note برای Frost Mage: Frostfire گزینه رقابتی برای Frost Mages در این فصل نبوده بنابراین burst damage آن افزایش یافته است.",
+    "kind": "info"
+   },
+   {
+    "t": "note",
+    "x": "Developer’s note برای Mistweaver Monk: Conduit of the Celestials گزینه رقابتی برای Mistweavers در این فصل نبوده بنابراین consistent و burst healing آن افزایش یافته است.",
+    "kind": "info"
+   },
+   {
+    "t": "note",
+    "x": "Developer’s note برای Holy Paladin: throughput Holy Paladin underperforming بوده بنابراین mana cost از Holy Light کاهش یافته است.",
+    "kind": "info"
+   },
+   {
+    "t": "note",
+    "x": "Developer’s note برای Holy Priest: این تغییرات برای بهبود viability از Archon در PvP با افزایش‌های هدفمند به group healing از Prayer of Healing و قدرت proc effects طراحی شده‌اند.",
+    "kind": "info"
+   },
+   {
+    "t": "note",
+    "x": "Developer’s note برای Unholy Death Knight: آخرین تنظیمات San’layn viability آن را افزایش داده اما impact از Vampiric Strike بیش از حد مطلوب بوده است.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "۱۲.۱.۵",
+   "تیونینگ کلاس",
+   "PvP"
+  ]
+ }
 }

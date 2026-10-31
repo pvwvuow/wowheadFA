@@ -61,10 +61,25 @@
    "reason": "عددِ بدون منبع در مقاله: 200 | G4 numbers from source missing in article: 62 | G6 CJK characters leaked into Persian prose: 布局, 布局, 锻",
    "at": "2026-10-31T11:50:42Z",
    "at_ts": 1793447442.305055
+  },
+  "383630": {
+   "reason": "«انتشار جهانی WoW: Forever در ۴ نوامبر» ادعای تاریخی و زمانی مشخصی است که منبع اصلی این خبر (Planet Azeroth) اصلاً به آن اشاره نکرده است. | بخش نظرات کاربران و فهرول hotfixes و اخبار مرتبط با Forever و Midnight و آمار «بیش از ۸ میلیون کاراکتر» و «Patch 1.60.1» و مقایسه Retail/For | fallback هم رد شد: G4 numbers from source missing in article: 1.60.1, 10, 15, 16, 2026, 22, 800",
+   "at": "2026-10-31T12:36:45Z",
+   "at_ts": 1793450205.030168
+  },
+  "383619": {
+   "reason": "مقاله ادعا می‌کند هر دانجن کامل ۵ Timewarped Badge به همراه دارد در حالی که منبع برای The Everbloom دو مقدار متفاوت (required bosses: 5 و full run: 5) ذکر کرده است. | در لیست دانجن‌ها، مقاله The Everbloom را فقط با ۵ Badge ذکر کرده اما منبع صراحتاً دو حالت required bosses و full run را جداگانه نوشته است. | مقاله فقط دو mount (Nightfall و Beastlord's Irontusk) لیست کرده در حالی که منبع سه mount کام",
+   "at": "2026-10-31T12:37:51Z",
+   "at_ts": 1793450271.3584
+  },
+  "383617": {
+   "reason": "عنوان «هاتفیکس ۱۲.۱.۵» و اشاره به «پچ ۱۲.۱.۵» در developer noteها: منبع فقط hotfixes امروز (۲۷ اکتبر ۲۰۲۶) را اعلام کرده و هیچ نسخه پچ ۱۲.۱.۵ را ذکر نکرده است. | lead_fa می‌گوید Labyrinth scenarios اعتبار Great Vault را اعطا نمی‌کردند؛ منبع فقط می‌گوید «some scenarios» بودند، نه همه آن‌ها. | در پاراگراف Monk: «مشکل Mistline talent که گاهی lowest health target را به درستی heal نمی‌کرد برطرف شده است",
+   "at": "2026-10-31T12:39:20Z",
+   "at_ts": 1793450360.192258
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-31T11:50:42Z",
+ "updated_at": "2026-10-31T12:39:20Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1826,6 +1841,46 @@
     "blocks": 4,
     "warns": 0,
     "sec": 88.4,
+    "attempts": 2
+   },
+   {
+    "id": "383630",
+    "ts": "2026-10-31T12:36:45Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 6,
+    "warns": 0,
+    "sec": 75.2,
+    "attempts": 2
+   },
+   {
+    "id": "383630",
+    "ts": "2026-10-31T12:37:05Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 19.9,
+    "attempts": 1
+   },
+   {
+    "id": "383619",
+    "ts": "2026-10-31T12:37:51Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 6,
+    "warns": 0,
+    "sec": 46.2,
+    "attempts": 2
+   },
+   {
+    "id": "383617",
+    "ts": "2026-10-31T12:39:20Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 8,
+    "warns": 0,
+    "sec": 88.8,
     "attempts": 2
    }
   ]

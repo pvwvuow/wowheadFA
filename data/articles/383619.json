@@ -100,5 +100,60 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383619/1.jpg",
  "hold_reason": "G1 Persian ratio 54% < 55% | G5 English token not in source: beastlord's | G5 English token not in source: warwolf | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
  "hold_count": 1,
- "hold_at": "2026-10-28T14:32:38Z"
+ "hold_at": "2026-10-28T14:32:38Z",
+ "last_rejected": {
+  "title_fa": "هفته تایم‌واکینگ Warlords of Draenor اکنون فعال است",
+  "lead_fa": "هفته تایم‌واکینگ Warlords of Draenor اکنون آغاز شده و بازیکنان می‌توانند با اجرای دانجن‌ها، Timewarped Badge به دست آورند.",
+  "body_fa": [
+   "در این هفته، ۶ دانجن از Warlords of Draenor برای تایم‌واکینگ در دسترس هستند. هر دانجن کامل ۵ Timewarped Badge به همراه دارد.",
+   {
+    "t": "ul",
+    "xs": [
+     "Auchindoun: 5 Timewarped Badge",
+     "Bloodmaul Slag Mines: 5 Timewarped Badge",
+     "The Everbloom: 5 Timewarped Badge",
+     "Grimrail Depot: 5 Timewarped Badge",
+     "Shadowmoon Burial Grounds: 5 Timewarped Badge",
+     "Skyreach: 5 Timewarped Badge"
+    ]
+   },
+   "پس از اتمام اولین دانجن، آیتمی به دست می‌آید که ۵۰۰ Timewarped Badge اعطا می‌کند. این آیتم را می‌توان به Tempra و Kronnus تحویل داد.",
+   {
+    "t": "table",
+    "head": [
+     "مکان",
+     "مختصات"
+    ],
+    "rows": [
+     [
+      "#622",
+      "37.2 72.6"
+     ],
+     [
+      "#624",
+      "42.8 54.6"
+     ]
+    ]
+   },
+   "سه سوار قابل خرید با Timewarped Badge وجود دارد.",
+   {
+    "t": "ul",
+    "xs": [
+     "Nightfall",
+     "Beastlord's Irontusk"
+    ]
+   },
+   "برای فهرست کامل جوایز، به راهنمای Warlords of Draenor Timewalking مراجعه کنید.",
+   {
+    "t": "note",
+    "x": "مختصات ارائه‌شده دقیقاً از راهنمای Wowhead گرفته شده و برای یافتن فروشندگان مفید است.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "تایم‌واکینگ",
+   "Warlords of Draenor",
+   "هاتفیکس"
+  ]
+ }
 }
