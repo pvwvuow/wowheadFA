@@ -48,26 +48,35 @@ jobs:
           git config user.email "action@github.com"
           # the 20-min chain overlaps with its own next run (and the */20
           # schedule + other workflows also push); a bare `git push` here
-          # raced and LOST the freshly published articles while the run
-          # went red. Always rebase onto origin/main first, retry 4x.
+          # raced and LOST the freshly published articles. On rejection:
+          # merge origin/main in; same-path collisions (auto_state.json /
+          # the same article written by two runs) resolve to OURS - the
+          # newer writer - and docs are rebuilt from the merged data.
           safe_push() {
             local tries=0
             until git push origin HEAD:main; do
               tries=$((tries+1))
               if [ $tries -ge 4 ]; then
-                echo "##[error]push failed after 4 rebases"
+                echo "##[error]push failed after $tries tries"
                 return 1
               fi
-              echo "push rejected - rebase + retry ($tries/4)"
+              echo "push rejected - merge origin/main + retry ($tries/4)"
               git fetch origin main
-              git rebase origin/main || { git rebase --abort; return 1; }
+              if ! git merge --no-edit origin/main; then
+                git checkout --ours . 2>/dev/null || true
+                git add -A
+                git commit --no-edit || { git merge --abort; return 1; }
+              fi
+              python tools/build_site.py
+              git add docs
+              git diff --cached --quiet || \
+                git commit -m "site: rebuild after merge $(date -u +%FT%TZ)"
             done
           }
           git add data/articles
           if git diff --cached --quiet; then
             echo "No new items."
           else
-            git pull --rebase -q origin main || true
             git commit -m "news: fetch $(date -u +%FT%TZ)"
             pip install --quiet pillow
             python tools/build_site.py
@@ -144,23 +153,29 @@ jobs:
         run: |
           git config user.name "wowfarsi-bot"
           git config user.email "action@github.com"
-          # same race guard as the fetch job: rebase + retry, and after a
-          # mid-push rebase rebuild docs on top so Pages never goes stale
+          # same race guard as the fetch job: merge origin/main + retry;
+          # same-path collisions (auto_state.json / same article written by
+          # two runs) keep OURS (the newer writer), then docs are rebuilt
+          # from the merged data so Pages never goes stale
           safe_push() {
             local tries=0
             until git push origin HEAD:main; do
               tries=$((tries+1))
               if [ $tries -ge 4 ]; then
-                echo "##[error]push failed after 4 rebases"
+                echo "##[error]push failed after $tries tries"
                 return 1
               fi
-              echo "push rejected - rebase + retry ($tries/4)"
+              echo "push rejected - merge origin/main + retry ($tries/4)"
               git fetch origin main
-              git rebase origin/main || { git rebase --abort; return 1; }
+              if ! git merge --no-edit origin/main; then
+                git checkout --ours . 2>/dev/null || true
+                git add -A
+                git commit --no-edit || { git merge --abort; return 1; }
+              fi
               python tools/build_site.py
               git add docs
               git diff --cached --quiet || \
-                git commit -m "site: rebuild after rebase $(date -u +%FT%TZ)"
+                git commit -m "site: rebuild after merge $(date -u +%FT%TZ)"
             done
           }
           git add data/articles
@@ -168,7 +183,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nothing to commit."
           else
-            git pull --rebase -q origin main || true
             pip install --quiet pillow
             python tools/build_site.py
             git add docs
