@@ -1,6 +1,6 @@
 {
- "day": "2026-10-30",
- "published_today": 1,
+ "day": "2026-10-31",
+ "published_today": 0,
  "held": {
   "383599": {
    "reason": "عنوان مقاله «هاتفیکس‌های ۲۶ اکتبر برای Labyrinth و کلاس‌ها در پچ ۱۲.۱.۵» و پاراگراف اول «در تاریخ ۲۶ اکتبر ۲۰۲۶» و تگ «۱۲.۱.۵» تاریخ و شماره پچ را ذکر کرده‌اند در حالی که منبع هیچ تاریخی، سالی و شماره پچی ندارد. | جمله «این تغییر از اسپاون چندین chest جلوگیری می‌کند» توضیح علت و  | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
@@ -186,10 +186,15 @@
    "reason": "G5 English token not in source: table | G5 English token not in source: rows | G5 English token not in source: head | fallback هم رد شد: writer error: The read operation timed out",
    "at": "2026-10-30T20:08:01Z",
    "at_ts": 1793390881.786073
+  },
+  "383670": {
+   "reason": "G4 numbers from source missing in article: 16 | G5 English token not in source: table | G5 English token not in source: rejuvenation | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+   "at": "2026-10-31T00:02:07Z",
+   "at_ts": 1793404927.344018
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-30T20:13:02Z",
+ "updated_at": "2026-10-31T00:02:14Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1771,6 +1776,26 @@
     "blocks": 0,
     "warns": 0,
     "sec": 300.1,
+    "attempts": 1
+   },
+   {
+    "id": "383670",
+    "ts": "2026-10-31T00:02:07Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 8,
+    "warns": 0,
+    "sec": 65.1,
+    "attempts": 2
+   },
+   {
+    "id": "383670",
+    "ts": "2026-10-31T00:02:14Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 6.9,
     "attempts": 1
    }
   ]
