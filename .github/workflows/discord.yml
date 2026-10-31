@@ -17,6 +17,11 @@ name: discord-post
 on:
   schedule:
     - cron: "*/30 * * * *"
+  push:
+    branches: [main]
+    paths:
+      - "tools/discord_poster.py"
+      - ".github/workflows/discord.yml"
   workflow_dispatch:
     inputs:
       limit:
