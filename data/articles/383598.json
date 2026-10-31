@@ -8,17 +8,23 @@
  "fetched_at": "2026-10-26T23:45:16Z",
  "source_mode": "full",
  "qa_facts": {
-  "numbers": [],
+  "numbers": [
+   "26",
+   "383598"
+  ],
   "entities": [
    "a",
+   "accents",
    "aesthetic",
    "all",
    "also",
    "anchor",
    "and",
+   "ark",
    "as",
    "base",
    "been",
+   "bench",
    "bookcase",
    "candelabra",
    "candle",
@@ -26,53 +32,113 @@
    "chair",
    "chandelier",
    "coffee",
+   "cohosts",
    "comes",
+   "content",
    "couch",
    "creature",
+   "currently",
    "datamined",
    "daytime",
    "decor",
    "decrypted",
+   "desks",
+   "destiny",
+   "devastation",
    "dining",
    "display",
    "door",
+   "dungeons",
+   "dyeable",
    "enchanted",
+   "evoker",
+   "expansion",
    "exterior",
    "features",
+   "ffxiv",
+   "final",
    "fixtures",
    "floor",
+   "for",
+   "furnishings",
+   "game",
    "grand",
    "grimtide",
+   "guild",
    "hall",
+   "has",
    "hatch",
    "have",
+   "he",
+   "him",
    "house",
    "housing",
    "hovering",
+   "https",
+   "in",
    "includes",
+   "including",
+   "indoors",
    "inside",
+   "item",
    "items",
+   "king",
    "large",
+   "lich",
+   "lighting",
    "live",
+   "long",
+   "lost",
+   "loves",
+   "manager",
    "manse",
    "many",
+   "medium",
+   "midnight",
+   "might",
+   "misc",
+   "mmos",
    "models",
+   "mythic",
    "new",
+   "new-grimtide-housing-exterior-and-decor-datamined-",
+   "news",
    "nighttime",
+   "no",
    "of",
    "on",
+   "outdoors",
    "over",
    "piano",
+   "placeable",
+   "placed",
+   "played",
+   "playing",
+   "plays",
+   "podcast",
+   "published",
+   "pve",
+   "raiding",
+   "raids",
+   "retail",
    "roof",
    "rug",
    "sconce",
    "sconch",
+   "seating",
    "servers",
+   "shop",
    "side",
+   "since",
+   "size",
    "small",
+   "source",
    "spirited",
    "spooky",
+   "squishei",
+   "t",
    "table",
+   "tables",
    "tall",
    "tentacle",
    "tentacled",
@@ -81,13 +147,25 @@
    "they're",
    "this",
    "three",
+   "time",
+   "tiny",
+   "title",
+   "url",
+   "wall",
+   "warcraft",
    "we've",
    "well",
    "which",
    "window",
-   "with"
+   "with",
+   "world",
+   "wowhead",
+   "wrath",
+   "written",
+   "www.wowhead.com",
+   "years"
   ],
-  "chars": 1297
+  "chars": 2570
  },
  "status": "new",
  "images": [
@@ -101,66 +179,100 @@
  "hold_count": 1,
  "hold_at": "2026-10-27T15:01:54Z",
  "last_rejected": {
-  "title_fa": "داده‌کاوی خانه و دکور جدید Grimtide در سرورهای زنده",
-  "lead_fa": "آیتم‌های جدیدی برای بخش خانه‌سازی در سرورهای زنده رمزگشایی شده‌اند که شامل نمای خارجی Grimtide و مجموعه‌ای از دکورهای مرتبط با آن می‌شود.",
+  "title_fa": "دیتاماین خانه و دکور جدید Grimtide",
+  "lead_fa": "آیتم‌های جدید خانه‌سازی روی سرورهای زنده رمزگشایی شده‌اند و یک نمای خارجی Grimtide Manse به همراه چندین دکور Grimtide-themed دیتاماین شده است.",
   "body_fa": [
-   "در داده‌کاوی انجام‌شده روی سرورهای زنده، یک نمای خارجی تازه به نام Spirited Grimtide Manse کشف شده است. فضای داخلی این خانه دارای تم ترسناک است و موجودی با شاخک‌های بلند را نشان می‌دهد که بر فراز سالن اصلی شناور است.",
+   "در به‌روزرسانی اخیر، یک نمای خارجی جدید به نام Spirited Grimtide Manse دیتاماین شده است. داخل این خانه دارای تم ترسناک است که شامل موجودی با شاخک‌های معلق بر فراز سالن بزرگ می‌شود.",
    {
     "t": "h",
-    "x": "نمای خارجی خانه"
+    "x": "لوازم جانبی جدید"
    },
-   "این نمای خارجی با سه فیکسچر جدید همراه است:",
+   "این نمای خارجی با سه فیکسچر جدید همراه است.",
    {
     "t": "ul",
     "xs": [
-     "Spirited Grimtide Manse Roof",
-     "Spirited Grimtide Manse Base",
-     "Spirited Grimtide Manse Door"
-    ]
-   },
-   {
-    "t": "h",
-    "x": "دکورهای خانه"
-   },
-   "علاوه بر نمای خارجی، مدل‌های دکور متعددی با تم Grimtide رمزگشایی شده‌اند. این موارد شامل قطعات مختلفی هستند که ظاهر spooky خانه را کامل می‌کنند.",
-   {
-    "t": "ul",
-    "xs": [
-     "Grimtide Grand Piano",
-     "Grimtide Bookcase",
-     "Grimtide Couch",
-     "Grimtide Tentacle",
-     "Grimtide Sconce",
-     "Grimtide Candelabra",
-     "Grimtide Chandelier",
-     "Grimtide Enchanted Candle",
-     "Grimtide Small Enchanted Candle",
-     "Grimtide Tall Enchanted Candle",
-     "Nighttime Grimtide Window",
-     "Daytime Grimtide Window",
-     "Grimtide Grand Table",
      "Grimtide Coffee Table",
      "Grimtide Dining Chair",
-     "Grimtide Floor Hatch",
-     "Grimtide Rug",
-     "Small Grimtide Rug",
-     "Grimtide Side Table",
-     "Grimtide Display Anchor"
+     "Grimtide Floor Hatch"
     ]
    },
-   "این آیتم‌ها همگی بخشی از تم Grimtide هستند و می‌توانند برای شخصی‌سازی خانه استفاده شوند.",
+   {
+    "t": "h",
+    "x": "دکورهای جدید"
+   },
+   "علاوه بر این، چندین مدل دکور خانه‌سازی جدید دیتاماین شده که همه آن‌ها نیز تم Grimtide دارند. این موارد شامل موارد زیر هستند:",
+   {
+    "t": "table",
+    "head": [
+     "نام",
+     "نوع",
+     "مکان قرارگیری",
+     "اندازه"
+    ],
+    "rows": [
+     [
+      "Grimtide Coffee Table",
+      "Furnishings - Tables and Desks",
+      "Floor",
+      "Medium"
+     ],
+     [
+      "Grimtide Dining Chair",
+      "Furnishings - Seating",
+      "Floor",
+      "Medium"
+     ],
+     [
+      "Grimtide Floor Hatch",
+      "Accents - Floor",
+      "Floor",
+      "Medium"
+     ],
+     [
+      "Grimtide Rug",
+      "Accents - Floor",
+      "Floor",
+      "Large"
+     ],
+     [
+      "Small Grimtide Rug",
+      "Accents - Floor",
+      "Floor",
+      "Medium"
+     ],
+     [
+      "Grimtide Side Table",
+      "Furnishings - Tables and Desks",
+      "Floor",
+      "Small"
+     ],
+     [
+      "Grimtide Display Anchor",
+      "Misc Accents",
+      "Wall",
+      "Large"
+     ],
+     [
+      "Grimtide Enchanted Candles",
+      "Misc Lighting",
+      "Floor",
+      "Tiny"
+     ]
+    ]
+   },
    {
     "t": "note",
-    "x": "تم spooky این خانه با موجود شاخک‌دار و نورپردازی تاریک، گزینه‌ای مناسب برای علاقه‌مندان به ظاهر ترسناک است.",
+    "x": "همه این آیتم‌ها در گسترش Midnight قابل دسترسی هستند و قابل رنگ‌آمیزی نیستند.",
     "kind": "info"
    },
-   "در حال حاضر این آیتم‌ها از طریق داده‌کاوی در دسترس قرار گرفته‌اند و جزئیات بیشتری درباره نحوه به‌دست‌آوردن آن‌ها اعلام نشده است."
+   "این خبر در مقاله شماره ۳۸۳۵۹۸ منتشر شده است.",
+   "منبع: Squishei — World of Warcraft Retail Content Manager"
   ],
   "tags_fa": [
-   "خانه‌سازی",
+   "خانه سازی",
    "Grimtide",
-   "دکور",
-   "داده‌کاوی"
+   "Midnight",
+   "دیتاماین"
   ]
  }
 }

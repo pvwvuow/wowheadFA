@@ -1,8 +1,62 @@
 {
- "generated": "2026-10-31T16:54:40Z",
+ "generated": "2026-10-31T17:27:22Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383599,
+   "slug": "more-labyrinth-class-bug-fixes-patch-12-1-5-hotfixes-for-october-26th",
+   "title_fa": "رفع باگ‌های جدید برای کلاس‌ها و Labyrinth در هاتفیکس‌های ۲۶ اکتبر",
+   "lead_fa": "بلیزارد در هاتفیکس‌های ۲۶ اکتبر ۲۰۲۶ مجموعه‌ای از باگ‌های مربوط به کلاس‌ها، سناریوهای Labyrinth و رویداد Hallow's End را برطرف کرد.",
+   "body_fa": [
+    "شرکت Blizzard برای تاریخ ۲۶ اکتبر ۲۰۲۶ هاتفیکس‌های جدیدی منتشر کرده است که بخش عمدهٔ آن به برطرف کردن ایرادات فنی کلاس‌ها و سناریوهای Labyrinth اختصاص دارد.",
+    {
+     "t": "h",
+     "x": "تغییرات و رفع ایرادات کلاس‌ها"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "کلاس Shaman تخصص Enhancement: مشکلی که باعث می‌شد در صورت قرار داشتن Ula’tek به عنوان هدف اصلی، توانایی Voltaic Blaze به هدف‌های ثانویه اصابت نکند برطرف شد.",
+      "کلاس Warlock تخصص Affliction: مشکلی که در برخی مواقع مانع نمایش درست Summon Darkglare توسط Cooldown Manager می‌شد اصلاح گردید.",
+      "بخش Player versus Player برای کلاس Paladin تخصص Holy: باگی که هنگام اجرای Blessing of Protection باعث قرار گرفتن Cleanse در وضعیت Cooldown به دلیل Spreading the Word می‌شد رفع شد."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "تغییرات Labyrinth و رویداد Hallow's End"
+    },
+    "در رویداد Hallow's End و بخش Neighborhoods، از این پس با تصاحب Shade of Seabreaker Skoloth تنها یک صندوق ظاهر خواهد شد.",
+    {
+     "t": "ul",
+     "xs": [
+      "در سناریوی The Wandering، مشکلی که به دلیل ورود و خروج بازیکنان دیگر از محدودهٔ اتصال ارواح باعث توقف لحظه‌ای حرکت Remnant می‌شد حل شد.",
+      "در سناریوی Containment Breach، روشن کردن مجدد یک منقل Flame of Jan’alai دیگر دو بار برای هدف Flames Relit محاسبه نمی‌شود.",
+      "مشکلی که گاهی اوقات باعث تکمیل مکرر هدف امتیازی Come to Your Senses در خارج از سناریوی Encroaching Darkness می‌شد برطرف گردید."
+     ]
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "Labyrinth",
+    "تغییرات کلاس‌ها"
+   ],
+   "items": [],
+   "title_en": "More Labyrinth & Class Bug Fixes - Patch 12.1.5 Hotfixes for October 26th",
+   "source_url": "https://www.wowhead.com/news=383599",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383599-more-labyrinth-class-bug-fixes-patch-12-1-5-hotfixes-for-october-26th.html",
+   "published_at": "2026-10-31T17:20:34Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383599/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383599/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383619,
    "slug": "warlords-of-draenor-timewalking-week-now-live",
@@ -2826,42 +2880,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383522,
-   "slug": "camping-system-breakdown-in-world-of-warcraft-forever",
-   "title_fa": "سیستم Camping در WoW: Forever؛ آتش کمپ به نقطهٔ دیدار تبدیل می‌شود",
-   "lead_fa": "Blizzard در وبلاگی رسمی سیستم Camping در WoW: Forever را تشریح کرده است؛ آتش سادهٔ آشپزی به کمپ مشترکی تبدیل می‌شود که بازیکن‌های اطراف با ساخت‌های پروفشن‌ها در آن به هم کمک می‌کنند.",
-   "body_fa": [
-    "ایدهٔ اصلی ساده است: همان Cooking Fire آشنا به Basic Campfire ارتقا می‌یابد. وقتی آتش روشن شود، یک کمپ مشترک شکل می‌گیرد و بازیکن‌های نزدیک می‌توانند قبل از ادامهٔ مسیر در آن استراحت کنند و از امکان‌های ساخته‌شده توسط دیگران استفاده کنند.",
-    "هر کمپ می‌تواند تا ۳ آیتم ویژه از ساخت پروفشن‌ها را نگه دارد و هر بازیکن یکی از آن‌ها را اضافه می‌کند. برای مثال بلک‌اسمیت می‌تواند Sharpening Wheel بگذارد که یک ساعت Strength بالا می‌برد؛ تیلور Faction Banner برای افزایش Spirit قرار می‌دهد و هربالیست با Incense Candle به Intellect کمک می‌کند. این اثرها نسخه‌هایی از باف‌های معمول کلاس‌ها هستند و با آن‌ها exclusive می‌مانند؛ یعنی هم‌زمان نمی‌توانید از هر دو بهره ببرید.",
-    "برای اینکه از امکان‌های دیگران بهره ببرید، کافی است حداقل ۱ دقیقه کنار کمپ بنشینید یا همان‌جا کرفت کنید. همین مکث کوتاه کنار جاده می‌تواند به یک معامله، یک گروه تازه یا حتی شروع یک دوستی طولانی تبدیل شود.",
-    "ورود به این سیستم با یک کوئست ساده در اوایل بازی اتفاق می‌افتد. وقتی سطح اسکیل یک پروفشن به 20 برسد، آیتم‌های اولیهٔ کمپ از کوئست‌های استارت‌زون یا خرید از پروفشن ترینر به دست می‌آیند؛ آیتم‌های نیازمند اسکیل 140 به بالا هم از دراپ دانجن‌ها و ریدها می‌آیند.",
-    "یادآوری ساختار پروفشن‌ها: سه پروفشن ثانویه یعنی Cooking، Fishing و First Aid را همیشه می‌توانید داشته باشید و در کنارشان دو پروفشن اصلی انتخاب می‌کنید؛ از جمع‌آوری‌ها مثل Skinning و Mining و Herbalism تا ساخت‌ها مثل Alchemy و Blacksmithing و Enchanting و Engineering و Leatherworking و Tailoring. مسیر پیشرفت هم از Apprentice به Journeyman و بعد Expert و در نهایت Artisan است.",
-    "نکتهٔ فنی مهم: همهٔ امکان‌های Camping باید در نزدیکی آتش باشند و بین‌شان یک کول‌داون مشترک ۱ ساعته وجود دارد. یعنی چیدن یک کمپ مفید، کمی برنامه‌ریزی گروهی می‌خواهد.",
-    "آشپزها در ادامه می‌توانند Campfireهای ارتقایافته یاد بگیرند که جا برای پنج و حتی 10 آیتم در یک کمپ فراهم می‌کند. نمونهٔ جذاب دیگر هم Mana Well است که به شما و بقیهٔ نشسته‌های نزدیکش اجازه می‌دهد هر ۵ ثانیه 10-29 Mana (بسته به لول) بازسازی کنید."
-   ],
-   "tags_fa": [
-    "WoW: Forever",
-    "Camping",
-    "پروفشن‌ها",
-    "بلیزارد"
-   ],
-   "items": [],
-   "title_en": "Camping System Breakdown in World of Warcraft: Forever",
-   "source_url": "https://www.wowhead.com/news=383522",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383522-camping-system-breakdown-in-world-of-warcraft-forever.html",
-   "published_at": "2026-10-21T17:07:33Z",
-   "model": "GLM",
-   "via": "",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383522/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383522/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -2920,13 +2938,6 @@
    "url": "https://www.wowhead.com/news=383603",
    "category": "Live",
    "published_at": "2026-10-27T22:58:35Z"
-  },
-  {
-   "id": 383599,
-   "title_en": "More Labyrinth & Class Bug Fixes - Patch 12.1.5 Hotfixes for October 26th",
-   "url": "https://www.wowhead.com/news=383599",
-   "category": "Live",
-   "published_at": "2026-10-27T03:22:27Z"
   },
   {
    "id": 383598,

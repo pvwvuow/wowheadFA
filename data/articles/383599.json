@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383599",
  "title_en": "More Labyrinth & Class Bug Fixes - Patch 12.1.5 Hotfixes for October 26th",
  "category": "Live",
- "published_at": "2026-10-27T03:22:27Z",
+ "published_at": "2026-10-31T17:20:34Z",
  "fetched_at": "2026-10-27T03:34:17Z",
  "source_mode": "full",
  "qa_facts": {
@@ -130,7 +130,7 @@
   ],
   "chars": 1096
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383599/1.jpg",
@@ -142,46 +142,91 @@
  "hold_count": 1,
  "hold_at": "2026-10-27T15:00:44Z",
  "last_rejected": {
-  "title_fa": "هاتفیکس‌های بیشتر Labyrinth و کلاس‌ها — ۲۶ اکتبر",
-  "lead_fa": "بلizzard هاتفیکس‌های امروز را منتشر کرده که شامل رفع باگ‌های بیشتر Labyrinth و کلاس‌ها می‌شود.",
+  "title_fa": "رفع باگ‌های بیشتر Labyrinth و کلاس‌ها - هاتفیکس‌های ۱۲.۱.۵ در ۲۶ اکتبر",
+  "lead_fa": "بلیزارد هاتفیکس‌های امروز را منتشر کرده که شامل رفع باگ‌های بیشتر Labyrinth و کلاس‌ها می‌شود.",
   "body_fa": [
-   "در هاتفیکس‌های ۲۶ اکتبر کلاس‌ها بخش‌هایی از Shaman Enhancement و Warlock Affliction اصلاح شده‌اند.",
+   "این هاتفیکس‌ها در تاریخ ۲۶ اکتبر ۲۰۲۶ اعمال می‌شوند.",
+   {
+    "t": "h",
+    "x": "تغییرات کلاس‌ها"
+   },
    {
     "t": "ul",
     "xs": [
-     "در Shaman Enhancement مشکلی که باعث می‌شد Voltaic Blaze هنگام هدف قرار گرفتن Ula’tek به اهداف ثانویه برخورد نکند برطرف شد.",
-     "در Warlock Affliction مشکلی که باعث می‌شد Cooldown Manager گاهی Summon Darkglare را به‌درستی نمایش ندهد رفع گردید."
+     "Shaman Enhancement: مشکلی برطرف شد که باعث می‌شد Voltaic Blaze اهداف ثانویه را نزند وقتی Ula’tek هدف اصلی است.",
+     "Warlock Affliction: مشکلی برطرف شد که باعث می‌شد Cooldown Manager گاهی Summon Darkglare را به درستی نمایش ندهد."
     ]
    },
    {
     "t": "h",
     "x": "Hallow’s End"
    },
-   "در Neighborhoods اکنون فقط یک صندوق هنگام گرفتن Shade of Seabreaker Skoloth ظاهر می‌شود.",
+   "Neighborhoods: اکنون فقط یک صندوق هنگام گرفتن Shade of Seabreaker Skoloth ظاهر می‌شود.",
    {
     "t": "h",
     "x": "Labyrinth"
    },
-   "مشکلات زیر در Labyrinth برطرف شده است:",
    {
     "t": "ul",
     "xs": [
-     "در سناریوی «The Wandering» مشکلی که باعث می‌شد Remnant برای لحظه‌ای متوقف شود وقتی بازیکنان اضافی وارد و خارج از محدوده tether spirits می‌شدند رفع شد.",
-     "در سناریوی «Containment Breach» مشکلی که باعث می‌شد روشن کردن مجدد یک Flame of Jan’alai brazier دو بار به هدف «Flames Relit» شمرده شود برطرف گردید.",
-     "مشکلی که گاهی باعث می‌شد هدف bonus «Come to Your Senses» چندین بار خارج از سناریوی «Encroaching Darkness» کامل شود رفع شد."
+     "مشکلی در سناریوی «The Wandering» برطرف شد که باعث می‌شد Remnant برای لحظه‌ای متوقف شود وقتی بازیکنان اضافی وارد و خارج از محدوده spirits tether می‌شوند.",
+     "مشکلی در سناریوی «Containment Breach» برطرف شد که باعث می‌شد روشن کردن مجدد یک Flame of Jan’alai brazier دو بار به سمت هدف «Flames Relit» شمرده شود.",
+     "مشکلی برطرف شد که گاهی باعث می‌شد هدف جایزه «Come to Your Senses» چندین بار خارج از سناریوی «Encroaching Darkness» کامل شود."
     ]
    },
    {
     "t": "h",
     "x": "Player versus Player"
    },
-   "در Paladin Holy مشکلی که باعث می‌شد Spreading the Word هنگام استفاده از Blessing of Protection کول‌داون Cleanse را فعال کند برطرف شده است.",
-   "این تغییرات در تاریخ ۲۶ اکتبر اعمال می‌شوند."
+   "Paladin Holy: مشکلی برطرف شد که باعث می‌شد Spreading the Word هنگام استفاده از Blessing of Protection، Cleanse را روی کولداون قرار دهد."
   ],
   "tags_fa": [
    "هاتفیکس",
    "Labyrinth",
    "کلاس‌ها"
   ]
+ },
+ "article_fa": {
+  "title_fa": "رفع باگ‌های جدید برای کلاس‌ها و Labyrinth در هاتفیکس‌های ۲۶ اکتبر",
+  "lead_fa": "بلیزارد در هاتفیکس‌های ۲۶ اکتبر ۲۰۲۶ مجموعه‌ای از باگ‌های مربوط به کلاس‌ها، سناریوهای Labyrinth و رویداد Hallow's End را برطرف کرد.",
+  "body_fa": [
+   "شرکت Blizzard برای تاریخ ۲۶ اکتبر ۲۰۲۶ هاتفیکس‌های جدیدی منتشر کرده است که بخش عمدهٔ آن به برطرف کردن ایرادات فنی کلاس‌ها و سناریوهای Labyrinth اختصاص دارد.",
+   {
+    "t": "h",
+    "x": "تغییرات و رفع ایرادات کلاس‌ها"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "کلاس Shaman تخصص Enhancement: مشکلی که باعث می‌شد در صورت قرار داشتن Ula’tek به عنوان هدف اصلی، توانایی Voltaic Blaze به هدف‌های ثانویه اصابت نکند برطرف شد.",
+     "کلاس Warlock تخصص Affliction: مشکلی که در برخی مواقع مانع نمایش درست Summon Darkglare توسط Cooldown Manager می‌شد اصلاح گردید.",
+     "بخش Player versus Player برای کلاس Paladin تخصص Holy: باگی که هنگام اجرای Blessing of Protection باعث قرار گرفتن Cleanse در وضعیت Cooldown به دلیل Spreading the Word می‌شد رفع شد."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "تغییرات Labyrinth و رویداد Hallow's End"
+   },
+   "در رویداد Hallow's End و بخش Neighborhoods، از این پس با تصاحب Shade of Seabreaker Skoloth تنها یک صندوق ظاهر خواهد شد.",
+   {
+    "t": "ul",
+    "xs": [
+     "در سناریوی The Wandering، مشکلی که به دلیل ورود و خروج بازیکنان دیگر از محدودهٔ اتصال ارواح باعث توقف لحظه‌ای حرکت Remnant می‌شد حل شد.",
+     "در سناریوی Containment Breach، روشن کردن مجدد یک منقل Flame of Jan’alai دیگر دو بار برای هدف Flames Relit محاسبه نمی‌شود.",
+     "مشکلی که گاهی اوقات باعث تکمیل مکرر هدف امتیازی Come to Your Senses در خارج از سناریوی Encroaching Darkness می‌شد برطرف گردید."
+    ]
+   }
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "Labyrinth",
+   "تغییرات کلاس‌ها"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-10-31T17:20:34Z",
+  "reviewer": "grok-4"
  }
 }

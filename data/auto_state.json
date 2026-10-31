@@ -1,17 +1,7 @@
 {
  "day": "2026-10-31",
- "published_today": 11,
+ "published_today": 12,
  "held": {
-  "383599": {
-   "reason": "G4 numbers from source missing in article: 2026 | G5 English token not in source: izzard | G7 body: plain paragraphs must be >=40 chars",
-   "at": "2026-10-31T13:54:29Z",
-   "at_ts": 1793454869.255962
-  },
-  "383598": {
-   "reason": "G3 long English run: Grimtide Grand Piano\nGrimtide Bookcase\nGrimtide Couch\nGrimtide Tentacl...",
-   "at": "2026-10-31T13:55:17Z",
-   "at_ts": 1793454917.441361
-  },
   "383653": {
    "reason": "G6 CJK characters leaked into Persian prose: 布局, 布局 | هشدار: 1",
    "at": "2026-10-31T15:18:33Z",
@@ -56,10 +46,30 @@
    "reason": "G3 long English run: H Str Axe\nPledgebearer's Cuirass\nChest Mail\nGalerider's Byrnie\nChest L... | G5 English token not in source: byrnie | G5 English token not in source: cuirass",
    "at": "2026-10-31T16:54:14Z",
    "at_ts": 1793465654.446299
+  },
+  "383598": {
+   "reason": "G3 long English run: Tables and Desks\nFloor\nSmall\nGrimtide Display Anchor\nMisc Accents\nWall... | G4 numbers from source missing in article: 26",
+   "at": "2026-10-31T17:22:16Z",
+   "at_ts": 1793467336.750162
+  },
+  "383562": {
+   "reason": "مقاله تعداد نظرات «۱۴، ۱۵ و ۲۱ مورد» را ذکر کرده در حالی که منبع هیچ عدد مشخصی برای تعداد نظرات اعلام نکرده است. | عددِ بدون منبع در مقاله: 1000 | G3 long English run: Join in with the neighborhood carolers by successfully ringing your be... | هشدار: 1",
+   "at": "2026-10-31T17:23:42Z",
+   "at_ts": 1793467422.047391
+  },
+  "383570": {
+   "reason": "مقاله تاریخ انتشار هاتفیکس‌ها را «۳۰ اکتبر ۲۰۲۶» اعلام کرده، در حالی که منبع فقط زمان انتشار ۲۳ اکتبر را دارد. | مقاله «ارجاع به پچ ۱۲.۱.۷» را به عنوان واقعیت ذکر کرده، در حالی که منبع فقط پچ ۱۲.۱.۵ را نام برده است. | مقاله تعداد دقیق کامنت‌ها (۱۴) و پاسخ‌ها (۱۵،۲۰،۲۱،۲۳) را ذکر کرده که در متن منبع وجود ندارد. | هشدار: 1",
+   "at": "2026-10-31T17:25:07Z",
+   "at_ts": 1793467507.276927
+  },
+  "383568": {
+   "reason": "مقاله ادعا می‌کند «این تغییرات در patch 12.1.5 اعمال خواهند شد» در حالی که منبع فقط می‌گوید تغییرات با نگهداری هفتگی ۲۷ اکتبر می‌رسند. | G1 Persian ratio 26% < 45% | G3 long English run: These changes are intended to help Restoration Druid deal with burst d... | هشدار: 2",
+   "at": "2026-10-31T17:26:59Z",
+   "at_ts": 1793467619.954069
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-31T16:54:14Z",
+ "updated_at": "2026-10-31T17:26:59Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -2171,6 +2181,66 @@
     "blocks": 6,
     "warns": 0,
     "sec": 64.3,
+    "attempts": 2
+   },
+   {
+    "id": "383599",
+    "ts": "2026-10-31T17:16:49Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 76.8,
+    "attempts": 2
+   },
+   {
+    "id": "383599",
+    "ts": "2026-10-31T17:20:34Z",
+    "path": "fallback",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 225.3,
+    "attempts": 1
+   },
+   {
+    "id": "383598",
+    "ts": "2026-10-31T17:22:16Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 102.0,
+    "attempts": 2
+   },
+   {
+    "id": "383562",
+    "ts": "2026-10-31T17:23:42Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 7,
+    "warns": 1,
+    "sec": 85.3,
+    "attempts": 2
+   },
+   {
+    "id": "383570",
+    "ts": "2026-10-31T17:25:07Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 5,
+    "warns": 1,
+    "sec": 85.2,
+    "attempts": 2
+   },
+   {
+    "id": "383568",
+    "ts": "2026-10-31T17:26:59Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 17,
+    "warns": 2,
+    "sec": 112.7,
     "attempts": 2
    }
   ]
