@@ -452,5 +452,39 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383664/1.jpg",
  "hold_reason": "عددِ بدون منبع در مقاله: 200 | G5 English token not in source: izzard | G5 English token not in source: quote",
  "hold_count": 1,
- "hold_at": "2026-10-30T18:44:15Z"
+ "hold_at": "2026-10-30T18:44:15Z",
+ "last_rejected": {
+  "title_fa": "خلاصه هفتگی واو: Forever در ۴ نوامبر، دمو Talebound و پک‌های دکور فروشگاه",
+  "lead_fa": "بلizzard این هفته خلاصه هفتگی واو را منتشر کرده که شامل لانچ جهانی World of Warcraft: Forever در ۴ نوامبر، شروع دمو Talebound امروز و پک‌های جدید دکور فروشگاه می‌شود.",
+  "body_fa": [
+   "World of Warcraft: Forever در سطح جهانی ۴ نوامبر ساعت ۳:۰۰ بعدازظهر PST لانچ می‌شود. ماجراجویی تا سطح ۶۰ در قاره‌های اصلی، کشف داستان‌های جدید و دیدار با ماجراجویان دیگر در خانه‌ای دائمی در کنار مدرن و Classic WoW، جایی که جامعه در اولویت است و مسیر به اندازه مقصد اهمیت دارد.",
+   "{'t': 'h', 'x': 'راهنمای شروع برای بازیکنان جدید: خوش آمدید به World of Warcraft: Forever'}",
+   "World of Warcraft: Forever بازیکنان را به آزروث بازسازی‌شده دعوت می‌کند جایی که کاوش، جامعه و خود مسیر در مرکز توجه قرار دارند. اولین گام‌ها با انتخاب‌های معنادار آغاز می‌شود: نحوه بازی، شکل‌دهی به شخصیت و جایی که کنجکاوی شما را می‌برد. از سطح یک شروع کنید، شخصیتی بسازید و اصول را بیاموزید تا جای خود را در جهانی که سال‌ها قرار است باز شود پیدا کنید.",
+   "{'t': 'h', 'x': 'بازگشت به آزروث در World of Warcraft: Forever'}",
+   "چه چند سال گذشته باشد چه بیشتر، جاده‌های آشنا، دوستان قدیمی و ماجراجویی‌های جدید در World of Warcraft: Forever منتظر شما هستند. برای کمک به بازگشت به مسیر قهرمانانه، اطلاعاتی آماده شده تا دوباره به سفر خود ادامه دهید.",
+   "{'t': 'h', 'x': 'پادکست WoW: Forever را ببینید: همه چیز درباره تکنولوژی'}",
+   "میزبان پادکست Countdown To Classic همراه مهمان ویژه Shobek با طراح ارشد بازی Josh “Aggrend” Greenfield، مهندس ارشد نرم‌افزار Ana Resendez و مهندس ارشد Frank Williams درباره تکنولوژی صحبت می‌کنند. این قسمت بینش‌هایی از تیم توسعه درباره لانچ جهانی World of Warcraft: Forever در ۴ نوامبر ساعت ۳:۰۰ بعدازظهر PST ارائه می‌دهد.",
+   "{'t': 'h', 'x': 'ماجراجویی بعدی شما در WoW: Forever از اتاق پورتال واو شروع می\\u200cشود'}",
+   "اتاق پورتال واو نقطه شروعی برای ایجاد ارتباط‌هاست، چه به دنبال هم‌صحبتی آشنا باشید چه دایره‌ای کاملاً جدید از ماجراجویان. این اتاق آماده استقبال از بازیکنان World of Warcraft: Forever و کمک به ساخت دوستی‌ها، داستان‌ها و ماجراجویی‌های مشترک است.",
+   "{'t': 'h', 'x': 'داستان کوتاه WoW: Forever «Unbowed» را ببینید'}",
+   "Cormack، صلیبی سابق Scarlet Crusader که حالا به عنوان Forsaken برخاسته، با وجود مرده‌ایش مشکل دارد. پس از روبه‌رو شدن با گذشته و باورهایی که او را تعریف می‌کردند، از خود می‌پرسد: آیا Forsaken هنوز می‌تواند به Light خدمت کند؟",
+   "{'t': 'h', 'x': 'دمو Talebound برای WoW: Midnight اکنون زنده است'}",
+   "دمو Talebound را در PTR امتحان کنید و مقدمه Red Hollow، سه داستان ترسناک در سطوح Normal، Veteran و Heroic و هر سه کلاس Slayer، Inquisitor و Witch را تجربه کنید. بدون نیاز به اشتراک می‌توانید شرکت کنید و نظرات خود را به اشتراک بگذارید.",
+   "{'t': 'h', 'x': 'در Trading Post نوامبر دندان شیرین خود را ارضا کنید'}",
+   "تم Sweet Tooth نوامبر با فعالیت‌هایی برای کسب Trader’s Tender و پر کردن Traveler’s Log همراه است. پاداش بونوس این ماه Hot Motocross Bunmover 4600 mount است.",
+   "{'t': 'quote', 'x': 'When dessert manufacturing meets speed optimization. Intact bun delivery not guaranteed.', 'by': 'Blizzard'}",
+   "{'t': 'item', 'id': 4600}",
+   "برای دیدن اقلام جدید به T&W خارج از Mage District در Stormwind یا Zen’shiri Trading Post کنار Grommash Hold در Orgrimmar مراجعه کنید. همچنین می‌توانید به Trading Post در Dornogal (The Foregrounds) در Isle of Dorn و Silvermoon City بروید.",
+   "{'t': 'h', 'x': 'Living Heartsbane Cauldron Mount را به مجموعه خود اضافه کنید'}",
+   "این cauldron زنده از بقایای ritual تاریک برخاسته و نشانه‌های witchcraft را بر خود دارد. این mount macabre برای حرکت در زمین یا آسمان آماده است.",
+   "{'t': 'h', 'x': 'روح دریا را با Grimtide Estate و Grimtide Decor Packs به خانه بیاورید'}",
+   "مجموعه Grimtide شامل Spirited Grimtide Manse exterior، Spirited Grimtide Foyer interior و پک دکور nautical ترسناک است که horrors از عمق را به خانه شما می‌آورد. هر هفته به سایت اخبار World of Warcraft بازگردید تا با هم سرنوشت خود را کشف کنیم."
+  ],
+  "tags_fa": [
+   "هفتگی واو",
+   "WoW Forever",
+   "Talebound",
+   "Trading Post"
+  ]
+ }
 }

@@ -719,5 +719,40 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383482/1.jpg",
  "hold_reason": "عددِ بدون منبع در مقاله: 12 | عددِ بدون منبع در مقاله: 1 | عددِ بدون منبع در مقاله: 7 | fallback هم رد شد: عددِ بدون منبع در مقاله: 200 | G5 English token not in source: info | G5 English token not",
  "hold_count": 1,
- "hold_at": "2026-10-30T14:29:43Z"
+ "hold_at": "2026-10-30T14:29:43Z",
+ "last_rejected": {
+  "title_fa": "بازگشت به Dornogal؛ تجربهٔ کامل داستان کمپین ۱۲٫۱٫۷ (هشدار اسپویلر)",
+  "lead_fa": "در پچ ۱۲٫۱٫۷ بازیکنان از Silvermoon به Dornogal بازمی‌گردند تا جلوی نقشه‌های Xal'atath برای تصاحب Worldsoul را بگیرند. این مقاله داستان کامل پرولاگ فصل ۱۲٫۲ را با تمام دیالوگ‌ها و رویدادهای کلیدی پوشش می‌دهد.",
+  "body_fa": [
+   "پس از فداکاری بزرگ در پایان پچ ۱۲٫۱٫۵، داستان Midnight بلافاصله از Quel'thalas دور شده و دوباره بر نقشه‌های Xal'atath متمرکز می‌شود. با کمک ویژن Orweyna، شخصیت ما متوجه می‌شود که Xal'atath قصد دارد Worldsoul آزورث را به دست بگیرد.",
+   "{'t': 'quote', 'x': 'The goddess... she has her--we must--where is Arator?', 'by': 'Orweyna'}",
+   "{'t': 'quote', 'x': \"The goddess is in danger! Xal'atath has infiltrated the heart of the world!\", 'by': 'Orweyna'}",
+   "Arator و Orweyna سریعاً به Coreway earthen اشاره می‌کنند و Lor'themar ما را همراه Arator به Dornogal می‌فرستد تا وضعیت earthen را بررسی کنیم.",
+   "{'t': 'h', 'x': 'مشکلات excavation در Coreway'}",
+   "در Dornogal با High Speaker Brinthe دیدار می‌کنیم. او توضیح می‌دهد که پروژهٔ حفاری Coreway با مشکلات متعددی روبه‌رو شده است. Dagran Thaurissan II ناگهان از طریق ارتباط تصویری ظاهر می‌شود و خبر می‌دهد که skardynهای void-corrupted از Coreway سرازیر شده‌اند.",
+   "{'t': 'quote', 'x': \"We've got a wee skardyn problem pouring out o' the Coreway passage and could use some help right away!\", 'by': 'Dagran Thaurissan II'}",
+   "ما به Hallowfall می‌رویم، با skardynها مبارزه می‌کنیم و به earthen و Arathi workers کمک می‌کنیم. پس از پایان نبرد، مشخص می‌شود که برای ادامهٔ کار نیاز به security clearance بالاتری داریم و باید Keeper Tyr را پیدا کنیم.",
+   "{'t': 'h', 'x': 'جستجو برای Tyr'}",
+   "Tyr هنوز نرسیده است. ما همراه Dagran به جستجو می‌رویم و در میانهٔ راه با Brann Bronzebeard ملاقات می‌کنیم. پس از جستجوی بیشتر، Tyr را در ساحل جزیره پیدا می‌کنیم که فقط به منظره خیره شده است.",
+   "{'t': 'quote', 'x': \"The Coreway was Archaedas's project. His security disc would grant you the access you seek.\", 'by': 'Tyr'}",
+   "{'t': 'quote', 'x': \"Take my security disc. Archaedas's remains are within the vault in Uldaman. This disc will allow you to find him.\", 'by': 'Tyr'}",
+   "Tyr توضیح می‌دهد که security disc مورد نیاز متعلق به Archaedas است که قبلاً در Uldaman شکستش داده بودیم. او disc خودش را به ما می‌دهد و ما همراه Brann و Dagran به Uldaman می‌رویم.",
+   "{'t': 'h', 'x': 'گفتگو با Tyr و Brinthe'}",
+   "{'t': 'quote', 'x': 'Keeper Tyr. The last time one of your kind visited was not a pleasant memory.', 'by': 'High Speaker Brinthe'}",
+   "{'t': 'quote', 'x': 'You refer to Galan. Both Galan and Dornic lost sight of their directives.', 'by': 'Tyr'}",
+   "Brinthe دربارهٔ گذشتهٔ پرتنش earthen با Titanforged صحبت می‌کند. Tyr نیز ابراز می‌کند که به دنبال رابطهٔ دوستانه است و حافظه‌اش ناقص است.",
+   "{'t': 'h', 'x': 'ماجرای Uldaman و گابلین\\u200cها'}",
+   "در Uldaman، disc Tyr در را باز می‌کند اما گروهی از گابلین‌ها آزاد شده و disc را می‌دزدند و Titanforged را کنترل می‌کنند. ما در طول مسیر با Dagran و Brann مبارزه می‌کنیم و Dagran با فناوری Titan کار می‌کند تا disc جعلی بسازد.",
+   "{'t': 'quote', 'x': \"I'm starting to put the pieces together. Keep the constructs and goblins away!\", 'by': 'Dagran Thaurissan II'}",
+   "در نهایت با ترفند جعلی انفجار، گابلین disc را رها می‌کند. بدن Archaedas حالا نزدیک‌تر به ورودی قرار دارد و disc او را به راحتی به دست می‌آوریم. Archaedas مدل HD جدیدی دریافت کرده است.",
+   "{'t': 'h', 'x': 'آماده\\u200cسازی برای پچ ۱۲٫۲'}",
+   "با بازگشت به Vault of Memory در Dornogal، Tyr، Arator و Brinthe به ما ملحق می‌شوند. پس از استفاده از disc Archaedas، سینماتیک فعلی در دسترس نیست اما دیالوگ‌ها نشان می‌دهد که راهی به Worldcore باز می‌شود و revelation مهمی دربارهٔ earthen در انتظار Brinthe و Dagran است. این خط quests در پچ ۱۲٫۱٫۷ به پایان می‌رسد و ما را برای ادامهٔ داستان در پچ ۱۲٫۲ و ورود به Mantle Vault آماده می‌کند. به احتمال زیاد Brinthe، Dagran و Tyr نیز در ادامه همراه ما خواهند بود. داستان این پرولاگ بیشتر ادامهٔ رویدادهای The War Within به نظر می‌رسد و هر دو گسترش را برای پایان نهایی در ۱۲٫۲ آماده می‌سازد."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "داستان Midnight",
+   "Dornogal",
+   "Xal'atath"
+  ]
+ }
 }
