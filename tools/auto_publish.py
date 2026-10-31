@@ -584,9 +584,14 @@ def build_provider(role, name=None):
     Returns (Provider, None) or (None, clear_error_message)."""
     var = "AI_WRITER" if role == "writer" else "AI_REVIEWER"
     name = (name or os.environ.get(var) or "xai").strip().lower()
+    # REVIEWER_MODEL: optional dedicated model override for the reviewer
+    # role (a fact-checker wants a different (e.g. reasoning) model than
+    # the writer). Empty/unset -> the provider's default model variable.
+    omodel = (os.environ.get("REVIEWER_MODEL") or "").strip() \
+        if role == "reviewer" else ""
     if name == "xai":
         key = (os.environ.get("XAI_API_KEY") or "").strip()
-        model = (os.environ.get("XAI_MODEL") or "").strip()
+        model = (omodel or os.environ.get("XAI_MODEL") or "").strip()
         if not key:
             return None, "سِکرِت XAI_API_KEY خالی است."
         if not model:
@@ -602,7 +607,7 @@ def build_provider(role, name=None):
         return Provider("xai", model, [key]), None
     if name == "glm":
         key = (os.environ.get("GLM_API_KEY") or "").strip()
-        model = (os.environ.get("GLM_MODEL") or "").strip()
+        model = (omodel or os.environ.get("GLM_MODEL") or "").strip()
         if not key:
             return None, "سِکرِت GLM_API_KEY خالی است."
         if not model:
@@ -612,7 +617,7 @@ def build_provider(role, name=None):
         return Provider("glm", model, [key]), None
     if name == "gemini":
         keys = split_keys(os.environ.get("GEMINI_API_KEY") or "")
-        model = (os.environ.get("GEMINI_MODEL") or "").strip()
+        model = (omodel or os.environ.get("GEMINI_MODEL") or "").strip()
         if not keys:
             return None, ("سِکرِت GEMINI_API_KEY خالی است "
                           "(یا همهٔ خطوطش خالی‌اند).")

@@ -100,6 +100,16 @@ A "block" verdict is a serious accusation. Before every "block":
 - **Structured-block JSON keys visible in the article text** ("{'t':
   'quote', ...}" fragments) are a pipeline rendering artifact, not the
   writer's claim. Never block for them; at most a warn.
+- **The same value in two places is NOT a conflict.** If the source says
+  "required bosses: 5" AND "full run: 5", an article that says the
+  dungeon grants 5 badges is CORRECT — 5 == 5. Flag a contradiction
+  only when the values genuinely differ.
+- **A date the source's own CONTEXT carries is in the source.** When the
+  source post is the launch announcement page / references the launch
+  ("players are getting ready for November 4th", links titled "launch
+  date"), the article may state «۴ نوامبر» or «انتشار در ۴ نوامبر» —
+  verify against the FULL source text (headers, links, references)
+  before calling a date "not mentioned".
 
 ## Verdict
 
