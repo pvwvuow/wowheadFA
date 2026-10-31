@@ -25,6 +25,8 @@ jobs:
           python-version: "3.12"
       - name: QA gates
         run: python tools/qa_check.py --all
+      - name: Install Pillow (news watermark)
+        run: pip install --quiet pillow
       - name: Build site
         env:
           GSC_VERIFY_TOKEN: ${{ secrets.GSC_VERIFY_TOKEN }}

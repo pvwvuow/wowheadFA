@@ -97,5 +97,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383619/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383619/1.jpg",
+ "hold_reason": "G1 Persian ratio 54% < 55% | G5 English token not in source: beastlord's | G5 English token not in source: warwolf | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+ "hold_count": 1,
+ "hold_at": "2026-10-28T14:32:38Z"
 }

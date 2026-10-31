@@ -168,5 +168,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383603/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383603/1.jpg",
+ "hold_reason": "G5 English token not in source: chest | G5 English token not in source: cuirass | G5 English token not in source: byrnie | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+ "hold_count": 1,
+ "hold_at": "2026-10-28T00:01:23Z"
 }

@@ -89,5 +89,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383602/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383602/1.jpg",
+ "hold_reason": "G5 English token not in source: fury | fallback هم رد شد: writer error: Remote end closed connection without response",
+ "hold_count": 1,
+ "hold_at": "2026-10-27T16:38:05Z"
 }

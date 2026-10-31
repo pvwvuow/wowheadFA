@@ -59,5 +59,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383607/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383607/1.jpg",
+ "hold_reason": "مقاله در lead_fa و body_fa ادعا می‌کند mount با قیمت ۲۵ دلار «عرضه شد» و «اکنون در دسترس است»، در حالی که منبع فقط می‌گوید «is available on the Battle.net Store for $25» و عنوان «Now Available» دارد؛ اما هیچ تاریخی یا تأیید عرضه قطعی فراتر از اعلام فروشگاه ذکر نشده است. | در body | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+ "hold_count": 1,
+ "hold_at": "2026-10-27T18:48:40Z"
 }

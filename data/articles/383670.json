@@ -302,5 +302,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383670/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383670/1.jpg",
+ "hold_reason": "G4 numbers from source missing in article: 16 | G5 English token not in source: table | G5 English token not in source: rejuvenation | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+ "hold_count": 1,
+ "hold_at": "2026-10-31T00:02:07Z"
 }

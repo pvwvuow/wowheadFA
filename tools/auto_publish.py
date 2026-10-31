@@ -100,7 +100,11 @@ GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta"
 GLM_BASE = "https://api.z.ai/api/paas/v4"   # OpenAI-compatible (z.ai)
 
 FA_DIGITS = str.maketrans("۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩", "01234567890123456789")
-HOLD_DAYS = 7          # held items may be retried after a week
+HOLD_DAYS = 0.125     # held items may be retried after 3 hours (was 7 days:
+                      # news sat invisible for a week while the writer had
+                      # no memory of why it was rejected)
+PARK_AFTER = 8        # hold_count >= 8 -> park the item (queue skips it)
+                      # until a human flips it; protects the API budget
 INGEST_FAIL_LIMIT = 5  # consecutive runs without source text -> hold
 SKIP_CAT = re.compile(r"podcast|video|stream|interview", re.I)
 SKIP_TITLE = re.compile(r"\bpodcas?t\b|\bvideo\b|blizzpod", re.I)
@@ -646,6 +650,20 @@ def hold_item(st, art_id, reason):
     st["held"][str(art_id)] = {"reason": reason[:400], "at": now_iso(),
                                "at_ts": datetime.now(timezone.utc)
                                .timestamp()}
+    # persist the reason on the article itself: when the hold expires the
+    # next run seeds the writer with it, so attempt 1 already knows what
+    # got the previous version rejected (otherwise it repeats the same
+    # mistakes forever)
+    try:
+        p = os.path.join(ART, f"{art_id}.json")
+        art = json.load(open(p, encoding="utf-8"))
+        art["hold_reason"] = reason[:400]
+        art["hold_count"] = int(art.get("hold_count") or 0) + 1
+        art["hold_at"] = now_iso()
+        with open(p, "w", encoding="utf-8") as fh:
+            json.dump(art, fh, ensure_ascii=False, indent=1)
+    except Exception:  # noqa: BLE001 - state file already has the reason
+        pass
 
 
 # ------------------------------------------------------- deterministic QA
@@ -814,10 +832,11 @@ def compose_writer_user(art, src, problems=None, rewrite_note=None,
 
 
 def generate_article(provider, art, src, problems=None, role="write",
-                     cards=None):
+                     cards=None, rewrite_note=None):
     """One writer call (same prompt composition for every provider)."""
     system = open(PROMPT, encoding="utf-8").read()
-    user = compose_writer_user(art, src, problems, cards=cards)
+    user = compose_writer_user(art, src, problems, rewrite_note=rewrite_note,
+                               cards=cards)
     raw = provider.generate(role, system, user, temperature=0.25,
                             max_tokens=8000)
     return parse_json_reply(raw)
@@ -1068,6 +1087,12 @@ def process(art, writer, reviewer, st, summ):
                 "problems": problems or [], "src": src,
                 "cards": cards or []}
 
+    if int(art.get("hold_count") or 0) >= PARK_AFTER:
+        summ.row(art_id, art.get("title_en"), "⏸ پارک شد",
+                 f"{PARK_AFTER} تلاش ناموفق — نیازمند بازبینی دستی")
+        return ret("skip", "content", detail="parked after "
+                                            f"{PARK_AFTER} holds")
+
     src, srcvia = ingest_source(art)
     if not src or len(src) < 400:
         fails = st["ingest_fails"].get(str(art_id), 0) + 1
@@ -1091,7 +1116,10 @@ def process(art, writer, reviewer, st, summ):
         print(f"  item cards: {len(cards)} via {cardsvia}", flush=True)
         summ.note(f"کارت آیتم [{art_id}]: {len(cards)} کارت از صفحه گرفته شد")
 
-    problems = None
+    # cross-run memory: the reason recorded on the previous hold seeds the
+    # first attempt, so the writer starts as an informed rewrite
+    seeded = bool((art.get("hold_reason") or "").strip())
+    problems = [art["hold_reason"]] if seeded else None
     blocks, warns = [], []
     detail = ""
     for attempt in (1, 2):
@@ -1099,7 +1127,15 @@ def process(art, writer, reviewer, st, summ):
         try:
             out = generate_article(writer, art, src, problems,
                                    role="write" if attempt == 1
-                                   else "rewrite", cards=cards)
+                                   else "rewrite", cards=cards,
+                                   rewrite_note=("نسخهٔ قبلی همین خبر در اجرای "
+                                                 "قبل رد شد و این مشکلات ثبت "
+                                                 "شد. یک مقالهٔ کاملاً تازه از "
+                                                 "همان منبع بنویس و این مشکلات "
+                                                 "را تکرار نکن؛ هیچ ادعا، عدد یا "
+                                                 "اسمی که در منبع نیست اضافه نکن:"
+                                                 if (attempt == 1 and seeded)
+                                                 else None))
         except Exception as e:                          # noqa: BLE001
             if attempt == 1:
                 summ.row(art_id, art.get("title_en"), "⏭ رد شد (موقت)",

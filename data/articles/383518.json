@@ -141,5 +141,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383518/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383518/1.jpg",
+ "hold_reason": "G4 numbers from source missing in article: 10, 12.1.5, 15, 20, 26, 27, 28",
+ "hold_count": 1,
+ "hold_at": "2026-10-28T01:12:42Z"
 }

@@ -266,5 +266,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383519/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383519/1.jpg",
+ "hold_reason": "در پاراگراف دوم و سوم مقاله، نقل قول‌هایی مانند «Fixed an issue that could sometimes prevent the “Fools and Curses” scenario from completing» و «The Ancient Hash'ey Battle Art glove enchantments can now be applied to Warbound Until Equipped items» و چندین هاتفیکس دیگر آورده شده ک | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+ "hold_count": 1,
+ "hold_at": "2026-10-28T01:10:35Z"
 }

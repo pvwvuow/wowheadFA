@@ -88,5 +88,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383634/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383634/1.jpg",
+ "hold_reason": "عددِ بدون منبع در مقاله: 92 | عددِ بدون منبع در مقاله: 305 | عددِ بدون منبع در مقاله: 113 | fallback هم رد شد: writer error: Remote end closed connection without response",
+ "hold_count": 1,
+ "hold_at": "2026-10-29T14:31:29Z"
 }

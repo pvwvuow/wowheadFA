@@ -130,5 +130,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383651/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383651/1.jpg",
+ "hold_reason": "عددِ بدون منبع در مقاله: 12 | عددِ بدون منبع در مقاله: 1 | عددِ بدون منبع در مقاله: 7 | fallback هم رد شد: writer error: The read operation timed out",
+ "hold_count": 1,
+ "hold_at": "2026-10-29T19:07:41Z"
 }

@@ -268,5 +268,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383650/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383650/1.jpg",
+ "hold_reason": "G5 English token not in source: izzard",
+ "hold_count": 1,
+ "hold_at": "2026-10-29T19:13:33Z"
 }

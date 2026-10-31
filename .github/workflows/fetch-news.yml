@@ -51,6 +51,7 @@ jobs:
             echo "No new items."
           else
             git commit -m "news: fetch $(date -u +%FT%TZ)"
+            pip install --quiet pillow
             python tools/build_site.py
             git add docs
             if ! git diff --cached --quiet; then
@@ -129,6 +130,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nothing to commit."
           else
+            pip install --quiet pillow
             python tools/build_site.py
             git add docs
             if ! git diff --cached --quiet; then

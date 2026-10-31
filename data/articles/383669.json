@@ -95,5 +95,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383669/1.png"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383669/1.png",
+ "hold_reason": "G5 English token not in source: table | G5 English token not in source: rows | G5 English token not in source: head | fallback هم رد شد: writer error: The read operation timed out",
+ "hold_count": 1,
+ "hold_at": "2026-10-30T20:08:01Z"
 }

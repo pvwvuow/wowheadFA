@@ -155,5 +155,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383530/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383530/1.jpg",
+ "hold_reason": "G6 CJK characters leaked into Persian prose: 吸引 | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+ "hold_count": 1,
+ "hold_at": "2026-10-28T00:23:38Z"
 }

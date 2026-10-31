@@ -716,5 +716,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383482/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383482/1.jpg",
+ "hold_reason": "عددِ بدون منبع در مقاله: 12 | عددِ بدون منبع در مقاله: 1 | عددِ بدون منبع در مقاله: 7 | fallback هم رد شد: عددِ بدون منبع در مقاله: 200 | G5 English token not in source: info | G5 English token not",
+ "hold_count": 1,
+ "hold_at": "2026-10-30T14:29:43Z"
 }

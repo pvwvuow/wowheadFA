@@ -832,5 +832,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383632/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383632/1.jpg",
+ "hold_reason": "G4 numbers from source missing in article: 62 | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+ "hold_count": 1,
+ "hold_at": "2026-10-28T17:42:07Z"
 }

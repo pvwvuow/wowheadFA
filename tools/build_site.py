@@ -460,6 +460,16 @@ def main():
     if os.path.isdir(NEWS_IMG):
         shutil.copytree(NEWS_IMG, os.path.join(DOCS, "assets", "news"),
                         dirs_exist_ok=True)
+        # wowfarsi watermark on every news image. Originals stay pristine
+        # in data/news-img; docs/ is rebuilt from scratch each run, so the
+        # stamp is never applied twice. No Pillow -> copy unwatermarked
+        # (the pipeline never breaks over branding).
+        try:
+            import watermark
+            n = watermark.watermark_tree(os.path.join(DOCS, "assets", "news"))
+            print(f"watermark: {n} image(s) stamped")
+        except ImportError:
+            print("watermark skipped: pillow not installed")
 
     with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as fh:
         fh.write(index_page(arts))

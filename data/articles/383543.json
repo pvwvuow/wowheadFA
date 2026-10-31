@@ -135,5 +135,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383543/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383543/1.jpg",
+ "hold_reason": "بخش آخر بدنه مقاله («در بخش نظرات کاربران، بحث‌هایی درباره Patch 1.60.1، اندازه raid و اعدادی مانند ۱۰، ۲۰، ۲۲، ۳۹ و ۴۰ مطرح شده است.») ادعای وجود Patch 1.60.1 و اعداد ۲۲ و ۳۹ را مطرح می‌کند که منبع هیچ اشاره‌ای به آن‌ها ندارد. | G3 long English run: I think it's probably safe to | fallback هم رد شد: G4 numbers from source missing in article: 1.60.1, 10, 22, 39, 40 | G5 English token not i",
+ "hold_count": 1,
+ "hold_at": "2026-10-27T22:46:05Z"
 }

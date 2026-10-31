@@ -50,6 +50,8 @@ jobs:
           kind=$(head -n1 /tmp/wfa_publish_result.txt 2>/dev/null || echo error)
           echo "kind=$kind" >> "$GITHUB_OUTPUT"
 
+      - name: Install Pillow (news watermark)
+        run: pip install --quiet pillow
       - name: Build site
         if: steps.pub.outputs.kind == 'published'
         run: python tools/build_site.py
