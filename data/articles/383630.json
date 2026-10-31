@@ -11,8 +11,11 @@
   "numbers": [
    "1.60.1",
    "10",
+   "13",
    "15",
    "16",
+   "18",
+   "20",
    "2026",
    "22",
    "30",
@@ -29,6 +32,7 @@
    "across",
    "actions",
    "actual",
+   "ad",
    "ad-freemore",
    "add",
    "addition",
@@ -36,8 +40,11 @@
    "addresses",
    "ads.keep",
    "adult",
+   "advertiser",
    "advertising",
    "adverts",
+   "advisit",
+   "after",
    "again",
    "aggregated",
    "agopatch",
@@ -139,6 +146,7 @@
    "consumer",
    "contains",
    "content",
+   "continue",
    "cookie",
    "cookies",
    "cool",
@@ -524,6 +532,7 @@
    "site",
    "sites",
    "sixty-five",
+   "skip",
    "sleep",
    "slumming",
    "small",
@@ -637,11 +646,13 @@
    "want",
    "warcraft",
    "was",
+   "watching",
    "way",
    "we",
    "web",
    "webhook",
    "website",
+   "websitego",
    "weekly",
    "weeks",
    "well",
@@ -693,45 +704,42 @@
  "hold_count": 1,
  "hold_at": "2026-10-28T17:43:04Z",
  "last_rejected": {
-  "title_fa": "سیاره آزروث: قسمت اول با حضور بیل بیلی",
-  "lead_fa": "سری جدید ویدیویی Planet Azeroth با روایت بیل بیلی منتشر شد که به بررسی موجودات و مکان‌های آیکونیک آزروث می‌پردازد.",
+  "title_fa": "Planet Azeroth: قسمت اول با حضور Bill Bailey",
+  "lead_fa": "سری جدید ویدیویی Planet Azeroth با روایت Bill Bailey منتشر شد که به بررسی موجودات و مکان‌های آیکونیک Azeroth می‌پردازد.",
   "body_fa": [
-   "در ویدیوی جدید YouTube، سری Planet Azeroth: Episode 1 ft. Bill Bailey منتشر شده است. این قسمت با روایت بیل بیلی به موضوعاتی مانند wolves، boars و Barrens Chat می‌پردازد.",
-   "این سری ویدیوها به بررسی برخی از موجودات و مکان‌های آیکونیک آزروث می‌پردازد که شامل wolf، boar، Barrens chat و موارد بیشتر است.",
+   "در ویدیوی جدید یوتیوب، سری Planet Azeroth: Episode 1 ft. Bill Bailey منتشر شده است. این قسمت با روایت Bill Bailey به موضوعاتی مانند wolves، boars و Barrens Chat می‌پردازد.",
    {
     "t": "h",
-    "x": "اطلاعات بیشتر"
+    "x": "محتوای سری Planet Azeroth"
    },
-   "World of Warcraft Retail Content Manager، Squishei (he/him) از زمان Wrath of the Lich King بازی را تجربه کرده و بیش از ۷ سال برای Wowhead نوشته است. او MMORPGهای متعددی مانند Lost Ark، Destiny 2 و FFXIV را بازی کرده و به محتوای PvE از جمله raids و dungeons علاقه دارد. Squishei هم‌میزبان پادکست The Bench World of Warcraft است و در حال حاضر Devastation Evoker را در guild Might بازی می‌کند.",
+   "این سری شما را با برخی از موجودات و مکان‌های آیکونیک Azeroth آشنا می‌کند که شامل wolf، boar، Barrens chat و موارد بیشتر است.",
+   "World of Warcraft Retail Content Manager Squishei (he/him) بیش از ۷ سال برای Wowhead نوشته است. او از زمان Wrath of the Lich King بازی World of Warcraft را تجربه کرده و در حال حاضر Devastation Evoker را در guild Might بازی می‌کند.",
    {
-    "t": "quote",
-    "x": "این سری ویدیوها به بررسی برخی از موجودات و مکان‌های آیکونیک آزروث می‌پردازد که شامل wolf، boar، Barrens chat و موارد بیشتر است.",
-    "by": "Wowhead"
+    "t": "h",
+    "x": "نظرهای بازیکنان"
    },
-   "در بخش نظرات کاربران، بحث‌هایی در مورد محتوای Forever و مقایسه آن با Retail مطرح شده است. برخی کاربران به ویدیوهای Blizzard برای Forever اشاره کرده‌اند که شامل پادکست‌ها، موسیقی، lore، راهنماها، داستان‌گویی، همکاری‌ها و رویدادها می‌شود.",
    {
     "t": "ul",
     "xs": [
-     "۱۰ ساعت پیش: Hotfixes: October 30, 2026 — World of Warcraft — Blizzard News",
-     "۱۵ ساعت پیش: World of Warcraft: Forever Goes Live Globally November 4! — World of Warcraft — Blizzard News",
-     "۱۶ ساعت پیش: Prepare for Forever, Try Midnight’s Talebound, and Discover Sweet Treats in WoW Weekly — World of Warcraft — Blizzard News",
-     "بیش از ۸ میلیون کاراکتر در بتای WoW: Forever ایجاد شده است",
-     "یکی از کاربران Retail با ۲۲ سال سابقه بازی اشاره کرده که به محتوای چالش‌برانگیز علاقه ندارد"
+     "Orcs به درستی به عنوان wildlife در نظر گرفته شده‌اند",
+     "Bill Bailey شبیه Chris Metzen به نظر می‌رسد",
+     "توصیف Barrens chat توسط او عالی بود",
+     "این ویدیو هیجان بیشتری ایجاد کرده و منتظر قسمت‌های بعدی هستیم"
     ]
    },
-   "یکی از کامنت‌ها به Patch 1.60.1 اشاره دارد و بحث‌هایی در مورد جمعیت mythic raiders و علاقه بازیکنان به محتوای relaxing مطرح شده است.",
-   "این ویدیو هیجان طرفداران را برای انتشار جهانی WoW: Forever در ۴ نوامبر افزایش داده است.",
+   "این پست در تاریخ ۲۰۲۶ منتشر شده و شامل کامنت‌هایی با اشاره به Patch 1.60.1 است. کامنت‌ها از ۳ روز پیش و شامل بحث‌هایی در مورد ۱۰، ۱۳، ۱۵، ۱۶، ۱۸ و ۲۰ هستند.",
    {
     "t": "note",
-    "x": "ویدیو Bill Bailey توصیف جالبی از Barrens chat ارائه می‌دهد و بازخورد مثبتی از کاربران دریافت کرده است.",
+    "x": "ویدیو حاوی محتوای بزرگسالانه است و تبلیغات را شامل می‌شود",
     "kind": "info"
-   }
+   },
+   "لینک منبع مقاله شماره ۳۸۳۶۳۰ است."
   ],
   "tags_fa": [
    "Planet Azeroth",
-   "بیل بیلی",
+   "Bill Bailey",
    "Forever",
-   "ویدیو یوتیوب"
+   "ویدیوی یوتیوب"
   ]
  }
 }
