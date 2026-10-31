@@ -43,6 +43,23 @@ quotes, notes, tables and real item cards.
    (see below) using the exact names/ids from that block. Item/NPC/zone
    names stay Latin, numbers get Persian digits, prices and stats are
    reportable like any source fact.
+10. **Output is machine-parsed — format is part of the contract:**
+   - `body_fa` must contain REAL JSON objects for blocks. NEVER emit a
+     block as a string that looks like a dict (`"{'t': 'quote', ...}"`)
+     — that renders as literal junk on the site and fails QA.
+   - Write REAL characters, never escape sequences: no `\u200c`, no
+     `\u06cc`, no literal `\n` inside strings — type the actual
+     نیم‌فاصله (ZWNJ) and Persian letters.
+   - Dates in Persian: "November 4th" → «۴ نوامبر»؛ "tomorrow" →
+     «فردا»؛ "this weekend" → «این آخر هفته». Never leave a date in
+     English inside Persian prose.
+11. **Persian only, everywhere.** Quote blocks (`quote.x`), list items
+   (`ul`/`ol` `xs`), table cells (`head`, `rows`), notes and captions
+   are ALL Persian. A quote from a blue post or an interview is
+   reported speech — translate it; never paste English sentences.
+   The only Latin allowed is rule-3 proper nouns and source formats
+   like patch ids. (Untranslated English sentences are the #1
+   rejection reason: G1/G3 fail and the reviewer blocks the article.)
 
 ## v2 body blocks — your layout toolbox
 

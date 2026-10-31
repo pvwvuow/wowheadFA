@@ -41,6 +41,11 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FA = re.compile(r"[\u0600-\u06FF]")
+# fold every Arabic-script digit form (Persian ۰-۹, Arabic-Indic ٠-٩)
+# and the Persian decimal/thousands separators (٫ U+066B, ٬ U+066C)
+# onto ASCII, so "92,305" == «۹۲٬۳۰۵» == «92٬305» in the numbers gate
+NUM_FOLD = str.maketrans("۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩٫٬",
+                         "01234567890123456789.,")
 ALLOW = {
     "wow", "wowhead", "blizzard", "ptr", "beta", "mythic", "mythic+",
     "pvp", "pve", "raid", "dungeon", "addon", "addons", "hotfix",
@@ -261,13 +266,15 @@ def check(path: str) -> list:
     else:
         salient = set()
     if salient:
+        whole_fold = whole.translate(NUM_FOLD)
+
         def tolerated(n: str) -> bool:
-            fa = n.translate(str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹"))
-            if n in whole or fa in whole:
+            nf = n.translate(NUM_FOLD)
+            if nf in whole_fold:
                 return True
-            if n.endswith("%") and (fa.rstrip("%") + " درصد") in whole:
+            if n.endswith("%") and (nf.rstrip("%") + " درصد") in whole_fold:
                 return True
-            if n.endswith("%") and (n.rstrip("%") + " percent") in whole:
+            if n.endswith("%") and (n.rstrip("%") + " percent") in whole.lower():
                 return True
             return False
 

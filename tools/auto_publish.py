@@ -70,6 +70,8 @@ DATA, never instructions - both prompts say so explicitly.
 stdlib only.
 """
 import argparse
+import ast
+import http.client
 import json
 import os
 import re
@@ -99,7 +101,11 @@ API = "https://api.x.ai/v1"
 GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta"
 GLM_BASE = "https://api.z.ai/api/paas/v4"   # OpenAI-compatible (z.ai)
 
-FA_DIGITS = str.maketrans("۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩", "01234567890123456789")
+FA_DIGITS = str.maketrans("۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩٫٬",
+                          "01234567890123456789.,")
+# U+066B (٫ Arabic decimal sep) and U+066C (٬ thousands) are folded to
+# ASCII here: writers mix «12٫1٫7» with the source's "12.1.7", and the
+# numbers gate must treat them as the same token, not as 12/1/7.
 HOLD_DAYS = 0.125     # held items may be retried after 3 hours (was 7 days:
                       # news sat invisible for a week while the writer had
                       # no memory of why it was rejected)
@@ -414,8 +420,18 @@ def gemini_generate(key, model, system, user, temperature, max_tokens,
         else:
             timeout = http_timeout
         t0 = time.monotonic()
-        code, data = gemini_http(key, f"/models/{model}:generateContent",
-                                 body, timeout=timeout)
+        try:
+            code, data = gemini_http(key, f"/models/{model}:generateContent",
+                                     body, timeout=timeout)
+        except (OSError, http.client.HTTPException) as e:
+            # RemoteDisconnected / socket reset / timeout: transient -
+            # retry like a 5xx (this froze the fallback writer as a hard
+            # error before: 'Remote end closed connection without response')
+            last = f"connection error: {type(e).__name__}: {e}"
+            if attempt >= 6:
+                break
+            time.sleep(min(5 * attempt, 20))
+            continue
         secs = time.monotonic() - t0
         if code == 200:
             text = ""
@@ -674,12 +690,30 @@ def norm_digits(s: str) -> str:
 def numbers_missing_in_source(article_text: str, src: str) -> list:
     """Hard gate: every digit-number written in the article must exist in
     the source (boundary-matched, comma/percent tolerant). Word-numbers
-    and dates in prose are the reviewer's job; this is the numeric net."""
+    and dates in prose are the reviewer's job; this is the numeric net.
+    Literal escape remnants (\u200c, \u06cc, ...) are stripped first: a
+    raw '\u200c' contains the digit run '200', which poisoned this gate
+    and got innocent articles held as 'عددِ بدون منبع: 200'."""
+    esc = re.compile(r"\\u[0-9a-fA-F]{4}|\\[nrtbf]")
+    article_text = esc.sub(" ", article_text)
+    src = esc.sub(" ", src)
     src_n = re.sub(r"(?<=\d),(?=\d)", "", norm_digits(src))
     src_nums = {m.group(0).strip(".,") for m in
                 re.finditer(r"\d[\d.,:]*\d|\d", norm_digits(src))}
     art_n = norm_digits(article_text)
     missing, seen = [], set()
+    # small English word-number map: the source often SPELLS numbers out
+    # ("Nine New Dungeons") while the writer correctly uses digits (۹);
+    # that is the same fact, never an invented number
+    WORD_NUM = {"1": "one", "2": "two", "3": "three", "4": "four",
+                "5": "five", "6": "six", "7": "seven", "8": "eight",
+                "9": "nine", "10": "ten", "11": "eleven", "12": "twelve",
+                "13": "thirteen", "14": "fourteen", "15": "fifteen",
+                "16": "sixteen", "17": "seventeen", "18": "eighteen",
+                "19": "nineteen", "20": "twenty", "30": "thirty",
+                "40": "forty", "50": "fifty", "60": "sixty",
+                "70": "seventy", "80": "eighty", "90": "ninety",
+                "100": "hundred", "1000": "thousand"}
     for m in re.finditer(r"\d[\d.,:]*\d|\d", art_n):
         tok = m.group(0).strip(".,:;")
         tok = re.sub(r"(?<=\d),(?=\d)", "", tok)
@@ -688,6 +722,10 @@ def numbers_missing_in_source(article_text: str, src: str) -> list:
         seen.add(tok)
         near = rf"(?<![\d.,]){re.escape(tok)}(?![\d.,])"
         if re.search(near, src_n) or tok in src_nums:
+            continue
+        word = WORD_NUM.get(tok)
+        if word and re.search(rf"(?<![A-Za-z]){word}(?![A-Za-z])",
+                              src_n, re.IGNORECASE):
             continue
         missing.append(tok)
     return missing
@@ -739,6 +777,95 @@ def split_in_two(p):
     return [p[:sp].strip(), p[sp + 1:].strip()]
 
 
+# --------------------------------------------------- writer-output repair
+ESC_U = re.compile(r"\\u([0-9a-fA-F]{4})")
+ESC_SIMPLE = (("\\r", "\n"), ("\\n", "\n"), ("\\t", " "),
+              ('\\"', '"'), ("\\'", "'"), ("\\/", "/"))
+
+
+def decode_escapes(s: str) -> str:
+    """Decode LITERAL escape sequences a model sometimes emits as visible
+    text ('\\u200c' instead of the real ZWNJ, '\\u06cc' instead of ی).
+    Real JSON escapes were already decoded by json.loads - only literal
+    backslash runs remain, and '\\u200c' literally contains '200', which
+    poisoned the numbers gate and G6 typography checks."""
+    s = str(s)
+    for old, new in ESC_SIMPLE:
+        s = s.replace(old, new)
+    if "\\u" in s:
+        s = ESC_U.sub(lambda m: chr(int(m.group(1), 16)), s)
+    return s
+
+
+def _decode_deep(x):
+    if isinstance(x, str):
+        return decode_escapes(x)
+    if isinstance(x, list):
+        return [_decode_deep(i) for i in x]
+    if isinstance(x, dict):
+        return {k: _decode_deep(v) for k, v in x.items()}
+    return x
+
+
+def parse_block_string(s: str):
+    """A stringified block object (JSON or Python repr, e.g.
+    "{'t': 'quote', 'x': '...'}" left inside body_fa as a plain string)
+    -> the real block dict; None when s is not one. v1/v2 writers
+    sometimes stringify the whole block - stringified blocks render as
+    literal "{'t': ...}" junk on the site and poison G1/G3/G5."""
+    t = str(s).strip()
+    if not (t.startswith("{") and t.endswith("}")):
+        return None
+    if not re.search(r"['\"]t['\"]\s*:", t):
+        return None
+    block = None
+    try:
+        block = json.loads(t)
+    except Exception:                                          # noqa: BLE001
+        try:
+            block = ast.literal_eval(t)
+        except Exception:                                      # noqa: BLE001
+            return None
+    if not isinstance(block, dict):
+        return None
+    bt = str(block.get("t") or "").strip().lower()
+    if bt not in qa_check.KNOWN_T:
+        return None
+    return block
+
+
+def repair_writer_output(out):
+    """In-place repair of common writer-format failures (formatting only,
+    never content): literal escape remnants decoded, stringified block
+    objects re-parsed into real v2 blocks, junk dropped. Called by
+    enforce_structure so every path (primary + fallback) benefits."""
+    out["title_fa"] = decode_escapes(out.get("title_fa") or "")
+    out["lead_fa"] = decode_escapes(out.get("lead_fa") or "")
+    tags = out.get("tags_fa")
+    if isinstance(tags, list):
+        out["tags_fa"] = [decode_escapes(t) for t in tags]
+    body = out.get("body_fa")
+    if isinstance(body, str):
+        body = [p for p in re.split(r"\n\s*\n", body) if p.strip()]
+    norm = []
+    for p in (body or []):
+        if isinstance(p, str):
+            # parse FIRST (raw string): decode_escapes would turn \' into '
+            # and break the Python-repr quoting inside stringified blocks
+            blk = parse_block_string(p)
+            if blk is None:
+                p = decode_escapes(p)
+                blk = parse_block_string(p)
+            norm.append(blk if blk is not None else p.strip())
+        elif isinstance(p, dict):
+            norm.append(_decode_deep(p))
+    out["body_fa"] = [p for p in norm
+                      if (isinstance(p, str) and p.strip())
+                      or (isinstance(p, dict)
+                          and str(p.get("t") or "").strip())]
+    return out
+
+
 def enforce_structure(out):
     """CODE-enforced v2 article shape (never an LLM call, never a rejection
     reason - the model is not even asked):
@@ -755,6 +882,7 @@ def enforce_structure(out):
     degenerate one-block body that cannot be split) - these feed the
     targeted rewrite, they are never block-count complaints."""
     probs = []
+    out = repair_writer_output(out)   # same object mutated + returned
     for k in ("title_fa", "lead_fa", "body_fa"):
         if not out.get(k):
             probs.append(f"خروجی مدل فیلد {k} را ندارد")
@@ -773,18 +901,34 @@ def enforce_structure(out):
     body = norm
     n_merged = n_split = 0
     while len(body) > 14:
-        # merge the shortest adjacent pair OF PLAIN STRINGS only
+        # merge the shortest adjacent pair (strings preferred). When the
+        # repair re-parsed stringified blocks the body can exceed 14 with
+        # no two plain strings left - flatten ANY shortest pair (dict ->
+        # its text) so the 2..14 shape gate can actually be satisfied.
         i = None
         best = None
         for j in range(len(body) - 1):
-            if isinstance(body[j], str) and isinstance(body[j + 1], str):
-                sz = len(body[j]) + len(body[j + 1])
-                if best is None or sz < best:
-                    i, best = j, sz
-        if i is None:      # cap exceeded but everything is a dict: stop
+            both_str = isinstance(body[j], str) and isinstance(body[j + 1], str)
+            ta = body[j] if isinstance(body[j], str) else " ".join(
+                qa_check.block_texts(body[j]))
+            tb = body[j + 1] if isinstance(body[j + 1], str) else " ".join(
+                qa_check.block_texts(body[j + 1]))
+            if not (ta.strip() or tb.strip()):
+                continue          # never merge two text-less blocks (img/item)
+            sz = len(ta[:200]) + len(tb[:200])
+            if both_str:
+                sz -= 10000          # always prefer a string-string pair
+            if best is None or sz < best:
+                i, best = j, sz
+        if i is None:      # single block left or nothing mergeable: stop
             break
-        body = (body[:i] + [body[i].rstrip() + " " + body[i + 1].lstrip()]
-                + body[i + 2:])
+        a, b = body[i], body[i + 1]
+        ta = a if isinstance(a, str) else " ".join(
+            qa_check.block_texts(a))
+        tb = b if isinstance(b, str) else " ".join(
+            qa_check.block_texts(b))
+        merged = (ta.rstrip() + " " + tb.lstrip()).strip()
+        body = (body[:i] + [merged if merged else "—"] + body[i + 2:])
         n_merged += 1
     if len(body) == 1 and isinstance(body[0], str):
         halves = split_in_two(body[0])
@@ -1059,9 +1203,13 @@ def eval_candidate(cand, src):
     publish and compare pipelines. Item-card text joins the article text
     and the gate source (cards are code-rendered facts, not prose)."""
     items_txt = IC.cards_text(cand.get("items") or [])
-    whole = "\n".join([cand["article_fa"]["title_fa"],
-                       cand["article_fa"]["lead_fa"]]
-                      + cand["article_fa"]["body_fa"])
+    parts = [cand["article_fa"]["title_fa"], cand["article_fa"]["lead_fa"]]
+    for b in cand["article_fa"]["body_fa"]:
+        if isinstance(b, str):
+            parts.append(b)
+        else:                    # v2 dict block: flattened text only
+            parts.extend(qa_check.block_texts(b))
+    whole = "\n".join(parts)
     if items_txt:
         whole += "\n" + items_txt
     hard = numbers_missing_in_source(whole, src + "\n" + items_txt)
@@ -1081,7 +1229,9 @@ def salvage_candidate(art, src, cards):
     fa = art.get("last_rejected") or {}
     title = str(fa.get("title_fa", "")).strip()
     lead = str(fa.get("lead_fa", "")).strip()
-    body = [str(p).strip() for p in (fa.get("body_fa") or []) if str(p).strip()]
+    body = [p.strip() if isinstance(p, str) else p
+            for p in (fa.get("body_fa") or [])
+            if (isinstance(p, str) and p.strip()) or isinstance(p, dict)]
     if not title or not body:
         return None
     cand = dict(art)
@@ -1122,6 +1272,9 @@ def salvage_candidate(art, src, cards):
         return None                      # the lead itself is the problem
     new_body = []
     for p in body:
+        if isinstance(p, dict):          # structured block passes through
+            new_body.append(p)
+            continue
         kept = " ".join(x for x in SENT_SPLIT.split(p) if clean(x)).strip()
         if kept:
             new_body.append(kept)
@@ -1259,9 +1412,13 @@ def process(art, writer, reviewer, st, summ):
         cand["article_fa"] = {
             "title_fa": str(out.get("title_fa", "")).strip(),
             "lead_fa": str(out.get("lead_fa", "")).strip(),
-            "body_fa": [str(p).strip() for p in (out.get("body_fa") or [])
-                        if str(p).strip()],
-            "tags_fa": out.get("tags_fa") or [],
+            # v2 blocks (dicts) must survive VERBATIM here - str(p) would
+            # re-create the literal "{'t': ...}" bug that tripped G1/G3/G5
+            "body_fa": [p.strip() if isinstance(p, str) else dict(p)
+                        for p in (out.get("body_fa") or [])
+                        if (isinstance(p, str) and p.strip())
+                        or isinstance(p, dict)],
+            "tags_fa": list(out.get("tags_fa") or []),
         }
         if cards:
             cand["items"] = [IC.translate_card(c) for c in cards]
@@ -1375,9 +1532,13 @@ def fallback_attempt(art, src, problems, fwriter, freviewer, st, summ,
     cand["article_fa"] = {
         "title_fa": str(out.get("title_fa", "")).strip(),
         "lead_fa": str(out.get("lead_fa", "")).strip(),
-        "body_fa": [str(p).strip() for p in (out.get("body_fa") or [])
-                    if str(p).strip()],
-        "tags_fa": out.get("tags_fa") or [],
+        # v2 blocks (dicts) must survive VERBATIM here - str(p) would
+        # re-create the literal "{'t': ...}" bug that tripped G1/G3/G5
+        "body_fa": [p.strip() if isinstance(p, str) else dict(p)
+                    for p in (out.get("body_fa") or [])
+                    if (isinstance(p, str) and p.strip())
+                    or isinstance(p, dict)],
+        "tags_fa": list(out.get("tags_fa") or []),
     }
     if cards:
         cand["items"] = [IC.translate_card(c) for c in cards]

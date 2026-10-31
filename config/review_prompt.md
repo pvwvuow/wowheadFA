@@ -85,6 +85,21 @@ A "block" verdict is a serious accusation. Before every "block":
   Item/NPC/zone names staying in Latin is correct; item prices like
   2000 with Persian digits (۲۰۰۰) are the same fact. Do not demand that
   the article render item cards — the system appends them automatically.
+- **Time-phrase and verb equivalences are the translator's JOB, never
+  blocks.** A Persian phrase that is the standard rendering of the
+  source's own phrase carries the SAME claim:
+  "available tomorrow" → «فردا در دسترس خواهد بود» — same fact;
+  "this weekend" → «این آخر هفته» — same fact;
+  "launches worldwide" / "goes live" → «لانچ می‌شود» / «عرضه می‌شود» /
+  «در دسترس قرار می‌گیرد» — same fact;
+  "November 4th" → «۴ نوامبر» (Persian digits + month name) — same fact;
+  "less than a week away" → «کمتر از یک هفته باقی مانده است» — same fact.
+  Flagging any of these as "invented claim", "added claim" or "a more
+  precise time claim than the source" is a FALSE block — the source
+  phrase and the Persian phrase are the same statement.
+- **Structured-block JSON keys visible in the article text** ("{'t':
+  'quote', ...}" fragments) are a pipeline rendering artifact, not the
+  writer's claim. Never block for them; at most a warn.
 
 ## Verdict
 
@@ -113,5 +128,10 @@ and `issue` (the short Persian sentence). Use [] when there is nothing:
   before a partial list is faithful if the source had more items — not a
   block. Blocking it forces robotic full enumeration.
 - When genuinely torn between "block" and "warn", choose **"warn"**.
+- Untranslated ENGLISH SENTENCES in the article (quotes pasted in
+  English, English list items) are a STYLE/quality problem — report
+  them as "warn" (the deterministic gates G1/G3 already handle them
+  deterministically; double-blocking with a claim accusation is wrong
+  unless the English text also states a fact the source lacks).
 - Do NOT invent problems to seem thorough. An article with zero real
   blocks gets an empty problems list — that is a correct answer.
