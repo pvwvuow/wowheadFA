@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T19:10:00Z",
+ "generated": "2026-10-31T19:22:59Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -42,6 +42,41 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383574/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383662,
+   "slug": "new-drust-themed-hearthstone-available-from-talebound",
+   "title_fa": "معرفی Wood-Cursed Hearthstone جدید با تم Drust از طریق Talebound",
+   "lead_fa": "یک Hearthstone کاملاً جدید از بخش Talebound در دسترس قرار گرفته که انیمیشن تله‌پورت آن از تم Drust الهام گرفته شده است.",
+   "body_fa": [
+    "یکی از پاداش‌های Talebound، آیتمی به نام [[item:Wood-Cursed Hearthstone]] است که انیمیشن اختصاصی آن نیز دیتاماین شده است.",
+    {
+     "t": "h",
+     "x": "نحوه دریافت و ویژگی‌ها"
+    },
+    "این هارت‌استون جدید از طریق تکمیل اچیومنت The Tale Complete به دست می‌آید. برای انجام این اچیومنت، بازیکنان باید تمامی Taleها و همچنین نبرد نهایی (final confrontation) را به پایان برسانند.",
+    "انیمیشن [[item:Wood-Cursed Hearthstone]] به‌شدت دارای تم Drust است و در هنگام استفاده، خروجی بسیار تاریک و سایه‌وار (shadowy exit) به نمایش می‌گذارد."
+   ],
+   "tags_fa": [
+    "Talebound",
+    "Hearthstone",
+    "دیتاماین"
+   ],
+   "items": [],
+   "title_en": "New Drust-Themed Hearthstone Available from Talebound",
+   "source_url": "https://www.wowhead.com/news=383662",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383662-new-drust-themed-hearthstone-available-from-talebound.html",
+   "published_at": "2026-10-31T14:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383662/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383662/1.png",
      "cap": ""
     }
    ]
@@ -2865,43 +2900,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383531,
-   "slug": "bonus-rolls-tooltip-fixed-more-labyrinth-bug-fixes-patch-12-1-5-hotfix",
-   "title_fa": "رفع مشکل Tooltip Bonus Roll و هاتفیکس‌های بیشتر Labyrinth در پچ ۱۲.۱.۵",
-   "lead_fa": "بلزارد امروز هاتفیکس‌هایی منتشر کرده که شامل رفع باگ‌های Labyrinth و اصلاح نمایش Tooltip Bonus Roll است.",
-   "body_fa": [
-    "حالا Tooltip Bonus Roll به‌درستی آیتم‌های باقی‌مانده از باس را نشان می‌دهد.",
-    "چند سناریو در Labyrinth رفع مشکل شده‌اند. بازیکنان اکنون می‌توانند ۴ Jan'alai Tears را همزمان در Labyrinth حمل کنند.",
-    "بازیکنان می‌توانند با صحبت با Kinduru در De Empire's Rest antechamber در حین سناریوی Kindo'jan از Labyrinth خارج شوند. مشکل استفاده از L00T RAID-R Minis در گروه داخل Labyrinth برطرف شده است.",
-    "اهرم شروع سناریوی A Golden Opportunity در Labyrinth of Kindo'jan اکنون برای بازیکنان سطح ۸۰ و بالاتر قابل استفاده است.",
-    "ظرفیت Carrying a Jan'alai Tear buff به ۴ stack افزایش یافته (قبلاً ۱). مشکل despawn شدن Pit Boss در سناریوی Returning the Bounty هنگام خروج از combat رفع شده است.",
-    "اثر Seriously Sharp Seashell از Gebbo's Bottomless Bag دیگر stealth و invisibility را نمی‌شکند. Jan'thrazet, the Soul Fang اکنون از ابتدای combat برای healerها به‌صورت مطمئن‌تر فعال می‌شود.",
-    "لیست پیش‌نمایش آیتم‌های Nebulous Voidcache bonus roll حالا به‌درستی به‌روزرسانی می‌شود. این فقط مشکل نمایش بود و بر واجد شرایط بودن آیتم‌ها تأثیری نداشت.",
-    "Sanctified Ground هنگام اعمال روی هم‌تیمی‌ها دیگر channeled spellهایی مانند Divine Hymn را قطع نمی‌کند."
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "Labyrinth",
-    "۱۲.۱.۵",
-    "Bonus Roll"
-   ],
-   "items": [],
-   "title_en": "Bonus Rolls Tooltip Fixed & More Labyrinth Bug Fixes - Patch 12.1.5 Hotfixes",
-   "source_url": "https://www.wowhead.com/news=383531",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383531-bonus-rolls-tooltip-fixed-more-labyrinth-bug-fixes-patch-12-1-5-hotfix.html",
-   "published_at": "2026-10-22T01:43:01Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383531/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383531/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -2911,13 +2909,6 @@
    "url": "https://www.wowhead.com/news=383657",
    "category": "Forever",
    "published_at": "2026-10-31T18:00:00Z"
-  },
-  {
-   "id": 383662,
-   "title_en": "New Drust-Themed Hearthstone Available from Talebound",
-   "url": "https://www.wowhead.com/news=383662",
-   "category": "PTR",
-   "published_at": "2026-10-31T14:00:00Z"
   },
   {
    "id": 383670,

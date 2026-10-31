@@ -1,17 +1,7 @@
 {
  "day": "2026-10-31",
- "published_today": 14,
+ "published_today": 15,
  "held": {
-  "383662": {
-   "reason": "تگ «PTR» در مقاله ذکر شده اما منبع هیچ اشاره‌ای به PTR ندارد. | G7 body: plain paragraphs must be >=40 chars | هشدار: 1 | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
-   "at": "2026-10-31T16:16:33Z",
-   "at_ts": 1793463393.234237
-  },
-  "383650": {
-   "reason": "G5 English token not in source: izzard",
-   "at": "2026-10-31T16:17:40Z",
-   "at_ts": 1793463460.657633
-  },
   "383632": {
    "reason": "G4 numbers from source missing in article: 62 | G6 CJK characters leaked into Persian prose: 线索, 回復",
    "at": "2026-10-31T16:21:12Z",
@@ -106,10 +96,15 @@
    "reason": "مقاله می‌گوید «شامل اطلاعات Patch 12.1.5 و 12.1.7 است» در حالی که منبع فقط به Patch 12.1.5 در کامنت‌ها اشاره دارد و 12.1.7 را ذکر نکرده است. | G4 numbers from source missing in article: 10, 15, 16, 18, 21, 23, 30, 383518",
    "at": "2026-10-31T18:58:05Z",
    "at_ts": 1793473085.155775
+  },
+  "383650": {
+   "reason": "نقل قول «امکانات جالبی وجود دارد که افراد با استفاده از افزونه‌ها...» به Shobek نسبت داده شده، در حالی که منبع آن را از پاسخ توسعه‌دهندگان (نه Shobek) نقل کرده است. | G5 English token not in source: izzard",
+   "at": "2026-10-31T19:22:34Z",
+   "at_ts": 1793474554.103845
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-31T18:58:05Z",
+ "updated_at": "2026-10-31T19:22:34Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -2431,6 +2426,36 @@
     "blocks": 2,
     "warns": 0,
     "sec": 106.4,
+    "attempts": 2
+   },
+   {
+    "id": "383662",
+    "ts": "2026-10-31T19:20:07Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 3,
+    "warns": 0,
+    "sec": 60.4,
+    "attempts": 2
+   },
+   {
+    "id": "383662",
+    "ts": "2026-10-31T19:21:26Z",
+    "path": "fallback",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 78.4,
+    "attempts": 1
+   },
+   {
+    "id": "383650",
+    "ts": "2026-10-31T19:22:34Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 67.9,
     "attempts": 2
    }
   ]

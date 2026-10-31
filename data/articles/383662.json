@@ -52,7 +52,7 @@
   ],
   "chars": 425
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383662/1.png",
@@ -61,19 +61,51 @@
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383662/1.png",
  "last_rejected": {
-  "title_fa": "ه hearthstone جدید با تم Drust از Talebound در دسترس است",
-  "lead_fa": "یکی از پاداش‌های Talebound، Wood-Cursed Hearthstone است که با اتمام دستاورد The Tale Complete به دست می‌آید.",
+  "title_fa": "هارت‌استون جدید با تم Drust از Talebound در دسترس است",
+  "lead_fa": "یک هارت‌استون تازه با تم Drust از طریق Talebound قابل دریافت است و انیمیشن آن استخراج شده.",
   "body_fa": [
-   "Talebound GuideTalebound Rewards",
-   "یکی از پاداش‌های Talebound، Wood-Cursed Hearthstone است؛ این hearthstone جدید با اتمام دستاورد The Tale Complete به دست می‌آید.",
-   "این دستاورد نیازمند تکمیل همه Tales و رویارویی نهایی است.",
-   "انیمیشن آن به شدت با تم Drust طراحی شده و پس از استفاده، خروج بسیار shadowy دارد.",
-   "انیمیشن این hearthstone توسط Wowhead استخراج شده است."
+   "یکی از پاداش‌های Talebound، Wood-Cursed Hearthstone است که هارت‌استون جدیدی به شمار می‌رود.",
+   "این هارت‌استون با انجام دستاورد The Tale Complete به دست می‌آید.",
+   "دستاورد The Tale Complete نیازمند تکمیل تمام Tales و رویارویی نهایی است.",
+   {
+    "t": "h",
+    "x": "انیمیشن هارت‌استون"
+   },
+   "انیمیشن این هارت‌استون به شدت با تم Drust طراحی شده و پس از استفاده، خروج بسیار shadowy دارد.",
+   {
+    "t": "note",
+    "x": "این هارت‌استون از طریق Talebound Guide قابل پیگیری است.",
+    "kind": "info"
+   }
   ],
   "tags_fa": [
-   "PTR",
    "Talebound",
-   "Hearthstone"
+   "هارت‌استون",
+   "PTR"
   ]
+ },
+ "article_fa": {
+  "title_fa": "معرفی Wood-Cursed Hearthstone جدید با تم Drust از طریق Talebound",
+  "lead_fa": "یک Hearthstone کاملاً جدید از بخش Talebound در دسترس قرار گرفته که انیمیشن تله‌پورت آن از تم Drust الهام گرفته شده است.",
+  "body_fa": [
+   "یکی از پاداش‌های Talebound، آیتمی به نام [[item:Wood-Cursed Hearthstone]] است که انیمیشن اختصاصی آن نیز دیتاماین شده است.",
+   {
+    "t": "h",
+    "x": "نحوه دریافت و ویژگی‌ها"
+   },
+   "این هارت‌استون جدید از طریق تکمیل اچیومنت The Tale Complete به دست می‌آید. برای انجام این اچیومنت، بازیکنان باید تمامی Taleها و همچنین نبرد نهایی (final confrontation) را به پایان برسانند.",
+   "انیمیشن [[item:Wood-Cursed Hearthstone]] به‌شدت دارای تم Drust است و در هنگام استفاده، خروجی بسیار تاریک و سایه‌وار (shadowy exit) به نمایش می‌گذارد."
+  ],
+  "tags_fa": [
+   "Talebound",
+   "Hearthstone",
+   "دیتاماین"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-10-31T19:21:26Z",
+  "reviewer": "grok-4"
  }
 }
