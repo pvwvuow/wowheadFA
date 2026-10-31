@@ -12,6 +12,7 @@
   "numbers": [
    "1.60.1",
    "15",
+   "18",
    "20",
    "2026",
    "22",
@@ -143,6 +144,7 @@
    "discord",
    "discover",
    "do",
+   "dover",
    "dpatch",
    "dreturn",
    "drop",
@@ -167,6 +169,7 @@
    "exercise",
    "expect",
    "experience",
+   "exploit",
    "facts",
    "ffxiv",
    "filling",
@@ -174,6 +177,7 @@
    "find",
    "first",
    "fix",
+   "fixed",
    "follow",
    "for",
    "force",
@@ -199,6 +203,7 @@
    "hand",
    "has",
    "have",
+   "hcould",
    "he",
    "headings",
    "help",
@@ -208,6 +213,7 @@
    "hover",
    "how",
    "however",
+   "hrepeatable",
    "https",
    "identifiable",
    "identifying",
@@ -283,6 +289,7 @@
    "mythic",
    "necessary",
    "need",
+   "new",
    "news",
    "newsdatabasetoolsguidescommunitygo",
    "next",
@@ -346,6 +353,7 @@
    "provide",
    "published",
    "pve",
+   "quest",
    "quickly",
    "raiding",
    "raids",
@@ -373,6 +381,7 @@
    "running",
    "sale",
    "saying",
+   "secret",
    "see",
    "sell",
    "server",
@@ -416,6 +425,7 @@
    "talent",
    "targeted",
    "team",
+   "teasing",
    "tech",
    "terms",
    "that",
@@ -468,6 +478,7 @@
    "warcraft",
    "warning",
    "we",
+   "weapon",
    "web",
    "webhook",
    "website",
@@ -505,23 +516,37 @@
  "hold_count": 1,
  "hold_at": "2026-10-27T20:56:28Z",
  "last_rejected": {
-  "title_fa": "بلizzard به‌زودی Realmهای Forever Beta را ریستارت می‌کند",
-  "lead_fa": "بلizzard اعلام کرده که به‌زودی ریستارت‌هایی روی سرور Forever Beta انجام خواهد داد.",
+  "title_fa": "ری‌استارت سرورهای Forever Beta به‌زودی انجام می‌شود",
+  "lead_fa": "بلزارد اعلام کرده که به‌زودی ری‌استارت‌هایی روی سرور Forever Beta انجام خواهد داد.",
   "body_fa": [
-   "طبق اعلام بلizzard، در حدود ۴۰ دقیقه دیگر و دقیقاً ساعت ۲:۰۰ بعدازظهر به وقت PDT (۴:۰۰ بعدازظهر CDT و ۵:۰۰ بعدازظهر EDT) ریستارت سریع Realmهای WoW Forever Beta انجام می‌شود.",
-   "بازی‌کنانی که در حال حاضر داخل بازی هستند، از ۱۵ دقیقه پیش از آفلاین شدن سرور، پیام‌های هشدار از تیم سرور دریافت خواهند کرد.",
+   "طبق اعلام بلزارد، در حدود ۴۰ دقیقه دیگر و دقیقاً ساعت ۲:۰۰ بعدازظهر به وقت PDT (۴:۰۰ بعدازظهر CDT و ۵:۰۰ بعدازظهر EDT) ری‌استارت سریع سرور WoW Forever Beta انجام می‌شود.",
+   "بازی‌کنانی که در حال حاضر داخل بازی هستند، از ۱۵ دقیقه پیش از آفلاین شدن سرور پیام‌هایی از تیم سرور دریافت خواهند کرد که آن‌ها را از ری‌استارت آگاه می‌کند.",
    {
-    "t": "quote",
-    "x": "در حدود ۴۰ دقیقه، ساعت ۲:۰۰ بعدازظهر PDT (۴:۰۰ بعدازظهر CDT، ۵:۰۰ بعدازظهر EDT)، Realmهای WoW Forever Beta را به سرعت ریستارت خواهیم کرد. بازی‌کنانی که اکنون داخل بازی هستند، از ۱۵ دقیقه پیش از آفلاین شدن سرور، پیام‌های هشدار از تیم ما دریافت خواهند کرد.",
-    "by": "World of Warcraft Retail Content Manager"
+    "t": "h",
+    "x": "اطلاعات بیشتر"
    },
-   "این ریستارت بخشی از روندهای معمول نگهداری سرور در فاز بتای Forever به شمار می‌رود.",
-   "برای اطلاعات بیشتر دربارهٔ به‌روزرسانی‌های Forever می‌توانید سایر اخبار مرتبط را در Wowhead دنبال کنید."
+   "این خبر در تاریخ ۲۲ اکتبر ۲۰۲۶ منتشر شده و با توجه به اخبار اخیر، شامل به‌روزرسانی‌هایی با شماره ۱.۶۰.۱ نیز هست.",
+   {
+    "t": "ul",
+    "xs": [
+     "Hotfixes: October 30, 2026 — World of Warcraft — Blizzard News",
+     "World of Warcraft: Forever Goes Live Globally November 4!",
+     "Over 8 Million Characters Were Created in the WoW: Forever Beta"
+    ]
+   },
+   {
+    "t": "note",
+    "x": "بازی‌کنندگان برای جلوگیری از اختلال، به پیام‌های ۱۵ دقیقه پیش از ری‌استارت توجه کنند.",
+    "kind": "info"
+   },
+   "در بخش کامنت‌ها نیز به Patch 1.60.1 اشاره شده و کاربران از رویدادهای کوچک آخر ساعات بازی لذت برده‌اند.",
+   "این ری‌استارت بخشی از آماده‌سازی برای لانچ جهانی Forever در ۴ نوامبر به شمار می‌رود."
   ],
   "tags_fa": [
-   "Forever",
-   "ریستارت",
-   "بتا"
+   "Forever Beta",
+   "ری‌استارت سرور",
+   "هاتفیکس",
+   "Forever"
   ]
  }
 }
