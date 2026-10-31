@@ -602,6 +602,15 @@ def build_provider(role, name=None):
         except Exception as e:                         # noqa: BLE001
             return None, f"دسترسی به xAI ممکن نشد (کلید/شبکه): {scrub(e)}"
         if ids and model not in ids:
+            # REVIEWER_MODEL typo/stale id must NEVER stop the pipeline:
+            # log the valid ids (they are not secrets) and fall back to
+            # XAI_MODEL so the reviewer keeps working until the variable
+            # is corrected.
+            if omodel:
+                print(f"WARNING: REVIEWER_MODEL={omodel!r} is not a valid "
+                      f"xAI id. Available ids: {', '.join(ids)}. "
+                      f"Falling back to XAI_MODEL={model!r}.", flush=True)
+                return Provider("xai", model, [key]), None
             return None, (f"مدل «{model}» در فهرست xAI نیست. "
                           f"شناسه‌های موجود: {', '.join(ids)}")
         return Provider("xai", model, [key]), None
@@ -692,19 +701,31 @@ def norm_digits(s: str) -> str:
     return s.translate(FA_DIGITS)
 
 
-def numbers_missing_in_source(article_text: str, src: str) -> list:
+def numbers_missing_in_source(article_text: str, src: str,
+                              allowed=None) -> list:
     """Hard gate: every digit-number written in the article must exist in
     the source (boundary-matched, comma/percent tolerant). Word-numbers
     and dates in prose are the reviewer's job; this is the numeric net.
     Literal escape remnants (\u200c, \u06cc, ...) are stripped first: a
     raw '\u200c' contains the digit run '200', which poisoned this gate
-    and got innocent articles held as 'عددِ بدون منبع: 200'."""
+    and got innocent articles held as 'عددِ بدون منبع: 200'.
+
+    `allowed` is the article's persisted qa_facts.numbers — the UNION of
+    every source/card fact ever merged for this item (merge_facts only
+    grows it). The source is re-fetched fresh on every run (feed vs page
+    vs cards 403/5xx), so a number the writer legitimately took from the
+    source/cards in run A can be "missing" from run B's shorter source;
+    tolerating the union makes the gate stable across runs instead of a
+    rejection lottery. The union never contains writer-invented numbers
+    (it is only ever fed from the source and item cards)."""
     esc = re.compile(r"\\u[0-9a-fA-F]{4}|\\[nrtbf]")
     article_text = esc.sub(" ", article_text)
     src = esc.sub(" ", src)
     src_n = re.sub(r"(?<=\d),(?=\d)", "", norm_digits(src))
     src_nums = {m.group(0).strip(".,") for m in
                 re.finditer(r"\d[\d.,:]*\d|\d", norm_digits(src))}
+    allowed_n = {re.sub(r"(?<=\d),(?=\d)", "", n.translate(FA_DIGITS))
+                 for n in (allowed or [])}
     art_n = norm_digits(article_text)
     missing, seen = [], set()
     # small English word-number map: the source often SPELLS numbers out
@@ -726,7 +747,7 @@ def numbers_missing_in_source(article_text: str, src: str) -> list:
             continue
         seen.add(tok)
         near = rf"(?<![\d.,]){re.escape(tok)}(?![\d.,])"
-        if re.search(near, src_n) or tok in src_nums:
+        if re.search(near, src_n) or tok in src_nums or tok in allowed_n:
             continue
         word = WORD_NUM.get(tok)
         if word and re.search(rf"(?<![A-Za-z]){word}(?![A-Za-z])",
@@ -1217,7 +1238,11 @@ def eval_candidate(cand, src):
     whole = "\n".join(parts)
     if items_txt:
         whole += "\n" + items_txt
-    hard = numbers_missing_in_source(whole, src + "\n" + items_txt)
+    # the persisted qa_facts numbers union makes the gate stable across
+    # runs (source re-fetched fresh each run: feed vs page vs cards 403)
+    allowed = (cand.get("qa_facts") or {}).get("numbers") or []
+    hard = numbers_missing_in_source(whole, src + "\n" + items_txt,
+                                     allowed=allowed)
     qa = run_qa_gate(cand)
     gates = {"numbers_missing": hard, "qa": qa}
     return whole, gates

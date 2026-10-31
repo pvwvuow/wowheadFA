@@ -46,10 +46,28 @@ jobs:
         run: |
           git config user.name "wowfarsi-bot"
           git config user.email "action@github.com"
+          # the 20-min chain overlaps with its own next run (and the */20
+          # schedule + other workflows also push); a bare `git push` here
+          # raced and LOST the freshly published articles while the run
+          # went red. Always rebase onto origin/main first, retry 4x.
+          safe_push() {
+            local tries=0
+            until git push origin HEAD:main; do
+              tries=$((tries+1))
+              if [ $tries -ge 4 ]; then
+                echo "##[error]push failed after 4 rebases"
+                return 1
+              fi
+              echo "push rejected - rebase + retry ($tries/4)"
+              git fetch origin main
+              git rebase origin/main || { git rebase --abort; return 1; }
+            done
+          }
           git add data/articles
           if git diff --cached --quiet; then
             echo "No new items."
           else
+            git pull --rebase -q origin main || true
             git commit -m "news: fetch $(date -u +%FT%TZ)"
             pip install --quiet pillow
             python tools/build_site.py
@@ -57,7 +75,7 @@ jobs:
             if ! git diff --cached --quiet; then
               git commit -m "site: rebuild after fetch $(date -u +%FT%TZ)"
             fi
-            git push
+            safe_push
             if [ -n "$NEWS_PING_TOKEN" ]; then
               code=$(curl -sS -o /tmp/ping.json -w "%{http_code}" -X POST \
                 -H "Authorization: Bearer $NEWS_PING_TOKEN" \
@@ -125,17 +143,37 @@ jobs:
         run: |
           git config user.name "wowfarsi-bot"
           git config user.email "action@github.com"
+          # same race guard as the fetch job: rebase + retry, and after a
+          # mid-push rebase rebuild docs on top so Pages never goes stale
+          safe_push() {
+            local tries=0
+            until git push origin HEAD:main; do
+              tries=$((tries+1))
+              if [ $tries -ge 4 ]; then
+                echo "##[error]push failed after 4 rebases"
+                return 1
+              fi
+              echo "push rejected - rebase + retry ($tries/4)"
+              git fetch origin main
+              git rebase origin/main || { git rebase --abort; return 1; }
+              python tools/build_site.py
+              git add docs
+              git diff --cached --quiet || \
+                git commit -m "site: rebuild after rebase $(date -u +%FT%TZ)"
+            done
+          }
           git add data/articles
           git add data/auto_state.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Nothing to commit."
           else
+            git pull --rebase -q origin main || true
             pip install --quiet pillow
             python tools/build_site.py
             git add docs
             if ! git diff --cached --quiet; then
               git commit -m "auto-publish: $(date -u +%FT%TZ)"
-              git push
+              safe_push
             fi
             if [ "${PUBLISHED:-0}" -gt 0 ] 2>/dev/null; then
               git pull --rebase -q || true

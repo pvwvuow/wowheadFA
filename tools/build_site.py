@@ -257,11 +257,36 @@ def page(title, desc, body, canonical, extra_head="", ld=None):
 </body></html>"""
 
 
+def lead_figures(art, body):
+    """HTML figures for the article's own images (thumbnail first), shown
+    INSIDE the article body - owner request: «تصاویر تامنیل توی خود خبر
+    باشه». Skipped when the writer already embedded an img block (no
+    duplicates), when no images exist, or for non-published drafts."""
+    if not art.get("thumb") and not art.get("images"):
+        return ""
+    for b in body:
+        if isinstance(b, dict) and b.get("t") == "img":
+            return ""                      # writer already placed images
+    seen, figs = set(), []
+    for im in ([{"src": art.get("thumb", ""), "cap": ""}] if art.get("thumb")
+               else []) + list(art.get("images") or []):
+        src = str((im or {}).get("src") or "").strip()
+        if not re.match(r"^https://", src) or src in seen:
+            continue
+        seen.add(src)
+        cap = str((im or {}).get("cap") or "").strip()
+        cap = (f"<figcaption>{esc(cap)}</figcaption>" if cap else "")
+        figs.append(f'<figure><img src="{esc(src[:500])}" alt="" '
+                    f'loading="lazy" referrerpolicy="no-referrer">{cap}</figure>')
+    return "\n".join(figs)
+
+
 def article_page(art):
     a = art["article_fa"]
     slug = f"{art['id']}-{art['slug']}"
     url = f"{BASE}/article/{slug}.html"
     paras = render_blocks(a["body_fa"])
+    figs = lead_figures(art, a["body_fa"])
     items_html = render_items(art)
     tags = " ".join(f'<span class="tag">{esc(t)}</span>' for t in a.get("tags_fa", []))
     gen = art.get("generator", {})
@@ -286,6 +311,7 @@ def article_page(art):
   <div class="meta"><span>{esc(fa_date(art['published_at']))}</span>
     {genline}<span>{tags}</span></div>
   <p class="lead">{esc(a['lead_fa'])}</p>
+  {figs}
   {paras}
   {items_html}
   <div class="srcbox">{SRC_FA}<a href="{esc(art['url'])}" rel="noopener"
