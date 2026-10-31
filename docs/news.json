@@ -1,8 +1,162 @@
 {
- "generated": "2026-10-31T14:01:55Z",
+ "generated": "2026-10-31T15:19:56Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383482,
+   "slug": "returning-to-dornogal-patch-12-1-7-campaign-playthrough-story-spoilers",
+   "title_fa": "بازگشت به Dornogal در پچ 12.1.7 و پیش‌درآمد ماجراهای پچ 12.2",
+   "lead_fa": "بازیکنان در خط داستانی جدید پچ 12.1.7 از Silvermoon خارج شده و برای تعقیب Xal'atath و باز کردن مسیر Coreway دوباره راهی Dornogal و Khaz Algar می‌شوند.",
+   "body_fa": [
+    "پس از فداکاری مهم در پایان پچ 12.1.5، مسیر داستانی بستهٔ الحاقی Midnight از ماجراهای Quel'thalas فاصله می‌گیرد و بار دیگر روی نقشه‌های Xal'atath متمرکز می‌شود. با رویایی که Orweyna مشاهده می‌کند، مشخص می‌شود که Xal'atath قصد دارد Worldsoul متعلق به Azeroth را تصاحب کند. در نتیجه، شخصیت‌های داستانی به همراه Arator تصمیم می‌گیرند راهی به سوی مرکز سیاره پیدا کنند.",
+    "با آغاز مأموریت‌های پچ 12.1.7، به دستور Lor'themar همراه با Arator به Khaz Algar و شهر Dornogal می‌رویم تا وضعیت Earthenها را بررسی کنیم. این گروه در میانهٔ پاک‌سازی مسیر ریزش‌کردهٔ Coreway هستند، اما حفاری با کندی پیش می‌رود و برای پیشروی بیشتر به کمک یک Keeper و سطح دسترسی امنیتی بالاتر نیاز دارند.",
+    {
+     "t": "h",
+     "x": "بحران Skardyn و جست‌وجو برای Tyr"
+    },
+    "هم‌زمان با کندی حفاری، Dagran Thaurissan II درخواست کمک فوری می‌دهد؛ زیرا موجودات Skardyn آلوده به Void از محل حفاری Coreway سرازیر شده‌اند. بازیکنان به همراه او راهی Hallowfall می‌شوند تا این موجودات را مهار کرده و کارگران Earthen و Arathi را نجات دهند.",
+    "پس از رفع خطر، تلاش‌ها برای یافتن Keeper Tyr که احضار شده اما هنوز نرسیده بود آغاز می‌شود. با همراهی Brann Bronzebeard، او را در سواحل Isle of Dorn در حال تماشای منظره پیدا می‌کنیم. Tyr توضیح می‌دهد که دسترسی به Coreway در حوزهٔ اختیارات او نبوده و به Keeper Archaedas تعلق داشته است. از این رو، Tyr دیسک امنیتی خود را به ما می‌دهد تا به کمک آن بقایای Archaedas را در Uldaman پیدا کنیم.",
+    {
+     "t": "note",
+     "x": "در حین گفت‌وگو، High Speaker Brinthe دربارهٔ گذشتهٔ تلخ Earthen با نگهبانانی مانند Dornic و Galan صحبت می‌کند، هرچند Tyr به دلیل فراموشی گذشته ابراز تمایل می‌کند که رابطه‌ای دوستانه شکل بگیرد.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "ماجراجویی در Uldaman"
+    },
+    "در ورود به دانجن Uldaman، استفاده از دیسک Tyr باعث آزادی گروهی از گابلین‌های به دام افتاده می‌شود. گابلین‌ها دیسک را می‌دزدند و کنترل ربات‌های Titanforged را در دست می‌گیرند. در جریان درگیری، Dagran موفق به سرهم‌کردن یک دیسک ساختگی می‌شود که صدور فرمان‌های متضاد آن ربات‌ها را گیج می‌کند. در نهایت با ترفند Brann و Dagran دیسک‌ها پس گرفته شده و به جسد Archaedas می‌رسیم.",
+    {
+     "t": "note",
+     "x": "مدل گرافیکی Archaedas در این بخش به یک نسخهٔ کاملاً جدید با کیفیت بالا (HD) به‌روزرسانی شده است.",
+     "kind": "tip"
+    },
+    {
+     "t": "h",
+     "x": "پیش‌درآمدی بر وقایع پچ 12.2"
+    },
+    "پس از بازگشت به Vault of Memory در Dornogal، شخصیت‌ها از جمله Tyr، Arator و Brinthe گرد هم می‌آیند. اگرچه سینماتیک نهایی هنوز در دسترس نیست، دیالوگ‌ها نشان می‌دهند که مسیر دسترسی به Worldcore از طریق Coreway هموار می‌شود و رازهایی دربارهٔ Earthen آشکار خواهد شد.",
+    "این خط داستانی در اینجا به پایان می‌رسد و بازیکنان باید در پچ 12.2 تعقیب Xal'atath را به سمت منطقهٔ پایانی Midnight یعنی Mantle Vault ادامه دهند."
+   ],
+   "tags_fa": [
+    "PTR",
+    "داستان",
+    "Midnight",
+    "هاتفیکس"
+   ],
+   "items": [],
+   "title_en": "Returning to Dornogal - Patch 12.1.7 Campaign Playthrough (Story Spoilers)",
+   "source_url": "https://www.wowhead.com/news=383482",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383482-returning-to-dornogal-patch-12-1-7-campaign-playthrough-story-spoilers.html",
+   "published_at": "2026-10-31T15:16:56Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383482/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383482/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383652,
+   "slug": "blizzard-addresses-day-and-night-cycle-issues-for-oceanic-players-in-w",
+   "title_fa": "بلزارد به مشکل چرخه روز و شب برای بازیکنان اقیانوسیه در WoW: Forever پاسخ داد",
+   "lead_fa": "در جدیدترین قسمت پادکست WoW: Forever، بلزارد به مسئله چرخه روز و شب برای بازیکنان اقیانوسیه پرداخته است. این موضوع به خاطر به اشتراک گذاشتن سرور با بازیکنان آمریکای شمالی مطرح شده و نظرات بازیکنان در این باره خواسته می‌شود.",
+   "body_fa": [
+    "طبق آنچه در قسمت قبلی پادکست گفته شده بود، بازیکنان استرالیا می‌توانند با بازیکنان آمریکای شمالی روی یک سرور بازی کنند. به همین دلیل مسئله مناطق زمانی برای بازیکنان اقیانوسیه پیش می‌آید. آیا آن‌ها همیشه در زمان بازی اصلی شب را می‌بینند یا فرصت تجربه روز را هم دارند؟",
+    "طراح ارشد نرم‌افزار Ana Resendez نحوه کارکرد این سیستم را توضیح می‌دهد.",
+    "اما وقتی گروه تشکیل می\\u200cدهید، سرور باید یکی از جهان\\u200cهای ما را برای شما انتخاب کند. ما سرورهای استرالیا داریم و می\\u200cتوانیم مناطق زمانی استرالیایی روی آن\\u200cها بگذاریم، ولی وقتی دعوتی از جاش دریافت می\\u200cکنید و ناگهان در چند ثانیه از شب به روز می\\u200cروید چه اتفاقی می\\u200cافتد؟', 'by': 'Ana Resendez'}",
+    "Aggrend نیز وارد بحث شد و مستقیماً از جامعه نظر خواست.",
+    "آیا با آن مشکلی ندارید؟ آیا با این که روز و شب\\u200cتان ناگهان هر بار که گروه عوض می\\u200cکنید و بسته به مکان لیدر گروه تغییر کند، مشکلی ندارید؟ ما می\\u200cتوانیم تصمیم بگیریم و بگوییم که این کار را انجام می\\u200cدهیم، اما ممکن است برای افراد خیلی ناگهانی باشد، پس دریافت بازخورد در این مورد مفید خواهد بود.', 'by': 'Aggrend'}",
+    "حالا سؤال این است که بازیکنان اقیانوسیه چه چیزی را ترجیح می‌دهند؟ صدای خود را بلند کنید و به توسعه‌دهندگان بگویید که چه سیستم روز و شب را در WoW: Forever می‌خواهید ببینید."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "پادکست",
+    "اقیانوسیه",
+    "چرخه روز و شب"
+   ],
+   "items": [],
+   "title_en": "Blizzard Addresses Day and Night Cycle Issues for Oceanic Players in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383652",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383652-blizzard-addresses-day-and-night-cycle-issues-for-oceanic-players-in-w.html",
+   "published_at": "2026-10-31T15:14:45Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383652/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383652/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383664,
+   "slug": "wow-weekly-recap-wow-forever-talebound-demo-new-shop-decor-packs",
+   "title_fa": "خلاصه هفتگی واو: Forever در ۴ نوامبر، دمو Talebound از امروز و پک‌های دکور فروشگاه",
+   "lead_fa": "بلیزارد خلاصه هفتگی واو را منتشر کرده که شامل لانچ جهانی World of Warcraft: Forever در هفته آینده، شروع دمو Talebound از امروز و پک‌های جدید دکور فروشگاه می‌شود.",
+   "body_fa": [
+    "این هفته اخبار با راهنماهای مفید، داستان‌های تازه، پاداش‌های جدید و افزودنی‌های ترسناک به مجموعه‌ها همراه است. World of Warcraft: Forever در ۴ نوامبر به صورت جهانی لانچ می‌شود World of Warcraft: Forever در ۴ نوامبر ساعت ۳:۰۰ بعدازظهر PST به صورت جهانی لانچ می‌شود. ماجراجویی خود را تا سطح ۶۰ در قاره‌های اصلی آغاز کنید، داستان‌های جدید کشف کنید و با ماجراجویان دیگر در خانه‌ای دائمی در کنار نسخه مدرن و Classic WoW دیدار کنید؛ جایی که جامعه در اولویت است و مسیر به اندازه مقصد اهمیت دارد.",
+    {
+     "t": "h",
+     "x": "راهنمای شروع برای بازیکنان جدید: خوش آمدید به World of Warcraft: Forever"
+    },
+    "World of Warcraft: Forever بازیکنان را به Azeroth بازسازی‌شده اصلی دعوت می‌کند جایی که کاوش، جامعه و خود مسیر در مرکز توجه قرار دارند. گام‌های اولیه شما در Azeroth با چند انتخاب معنادار آغاز می‌شود: نحوه بازی، هویت شخصیت و جایی که کنجکاوی شما را هدایت می‌کند. از سطح یک شروع کنید، شخصیتی بسازید و اصول را بیاموزید تا جایگاه خود را در جهانی که سال‌ها قرار است گسترش یابد پیدا کنید. بازگشت به Azeroth در World of Warcraft: Forever به Azeroth خوش آمدید. چه چند سال گذشته باشد چه بیشتر، جاده‌های آشنا، دوستان قدیمی و ماجراجویی‌های جدید در World of Warcraft: Forever منتظر شما هستند. برای کمک به بازگشت به مسیر قهرمانانه‌تان، اطلاعاتی آماده کرده‌ایم که ممکن است برای آغاز دوباره ماجراجویی در Azeroth نیاز داشته باشید.",
+    {
+     "t": "h",
+     "x": "پادکست WoW: Forever را ببینید: همه چیز درباره تکنولوژی"
+    },
+    "به پادکست WoW: Forever با میزبانی Countdown To Classic و مهمان ویژه Shobek بپیوندید که درباره تکنولوژی با Senior Game Designer Josh “Aggrend” Greenfield، Lead Software Engineer Ana Resendez و Principal Software Engineer Frank Williams صحبت می‌کنند. این قسمت را ببینید تا بینش‌هایی از تیم توسعه درباره لانچ جهانی World of Warcraft: Forever در ۴ نوامبر ساعت ۳:۰۰ بعدازظهر PST دریافت کنید.",
+    {
+     "t": "h",
+     "x": "ماجراجویی بعدی شما در WoW: Forever از WoW Portal Room آغاز می‌شود"
+    },
+    "Azeroth همیشه بیش از یک مکان برای بازی بوده است؛ جهانی است که توسط افرادی که در مسیر با آن‌ها آشنا می‌شویم شکل گرفته. WoW Portal Room نقطه شروعی برای ایجاد این ارتباط‌ها ارائه می‌دهد، چه به دنبال هم‌صحبتی آشنا باشید چه دایره‌ای کاملاً جدید از ماجراجویان. WoW Portal Room آماده استقبال از بازیکنان World of Warcraft: Forever است و به آن‌ها کمک می‌کند تا دوستی‌ها، داستان‌ها و ماجراجویی‌های مشترک را بسازند که Azeroth را به خانه تبدیل می‌کند. داستان کوتاه WoW: Forever به نام “Unbowed” را ببینید",
+    "Cormack، که در زندگی سابق Scarlet Crusader بود و اکنون به عنوان Forsaken برخاسته، با پذیرش وجود مرده‌اش مبارزه می‌کند. پس از روبه‌رو شدن با گذشته و باورهایی که او را تعریف می‌کردند، از خود می‌پرسد: آیا Forsaken هنوز می‌تواند به Light خدمت کند؟ به Cormack برای روایت کنار آتش داستان کوتاه جدیدمان “Unbowed” بپیوندید. دمو Talebound برای WoW: Midnight اکنون در دسترس است دمو Talebound را در Player Test Realm (PTR) امتحان کنید و مقدمه Red Hollow، سه داستان ترسناک در سطوح Normal، Veteran و Heroic و هر سه کلاس Slayer، Inquisitor و Witch را تجربه کنید. در دمو Talebound غوطه‌ور شوید، ویژگی‌های موجود را امتحان کنید و نظرات خود را به اشتراک بگذارید. برای شرکت نیازی به اشتراک نیست.",
+    {
+     "t": "h",
+     "x": "در Trading Post ماه نوامبر دندان شیرین خود را ارضا کنید"
+    },
+    "اشتهای ماجراجویی‌تان را بیاورید؛ این ماه همه چیز درباره لذت بردن از سمت شیرین است. Trading Post نوامبر با تم Sweet Tooth آماده است تا کمی شیرینی به مجموعه شما اضافه کند. فعالیت‌ها را کامل کنید تا Trader’s Tender کسب کنید و Traveler’s Log خود را پر کنید تا پاداش ویژه این ماه را دریافت کنید: سوار Hot Motocross Bunmover 4600. «وقتی تولید دسر با بهینه‌سازی سرعت دیدار می‌کند. تحویل سالم نان تضمین نمی‌شود.» برای دیدن آخرین اقلام، به T&W (Tawney and Wilder) درست خارج از Mage District در Stormwind یا Zen’shiri Trading Post کنار Grommash Hold در Orgrimmar مراجعه کنید. بازیکنان همچنین می‌توانند به Trading Post در شهرهای اصلی Dornogal (The Foregrounds) در Isle of Dorn و Silvermoon City بازسازی‌شده بروند، جایی که نمایندگان Tawney and Wilder و Zen’shiri Trading Post آماده کسب‌وکار هستند. قهرمانان جدید یا بازگشتی به World of Warcraft و Midnight می‌توانند از Trading Post بازدید کنند تا همه چیز را از مکان آن تا نحوه کسب Trader's Tender اضافی از طریق Traveler's Log بیاموزند.",
+    {
+     "t": "h",
+     "x": "سوار Living Heartsbane Cauldron را به مجموعه خود اضافه کنید"
+    },
+    "این cauldron زنده که از بقایای یک ritual تاریک برخاسته، نشانه‌های witchcraft را که آن را بیدار کرده بر خود دارد. فرمان این خلق نفرین‌شده را به دست بگیرید و با سبکی شیطانی در Azeroth سواری کنید. Living Heartsbane Cauldron یک سوار macabre دلپذیر است که آماده است شما را به ماجراجویی‌ها در زمین یا آسمان ببرد.",
+    {
+     "t": "h",
+     "x": "روح دریا را با پک‌های Grimtide Estate و Grimtide Decor به خانه بیاورید"
+    },
+    "از عمق‌ها برخاسته، روح haunting دریا را با مجموعه Grimtide برای World of Warcraft Housing به خانه بیاورید که شامل Spirited Grimtide Manse exterior، Spirited Grimtide Foyer interior و یک پک هماهنگ از دکور nautical ترسناک است. پک‌های Grimtide Estate و Grimtide Decor مطمئناً horrors از پایین را به خانه شما می‌آورند. هر هفته به سایت اخبار World of Warcraft بازگردید تا سرنوشت خود را با هم کشف کنیم."
+   ],
+   "tags_fa": [
+    "هفتگی",
+    "WoW Forever",
+    "Talebound",
+    "Trading Post"
+   ],
+   "items": [],
+   "title_en": "WoW Weekly Recap - WoW: Forever, Talebound Demo, New Shop Decor Packs",
+   "source_url": "https://www.wowhead.com/news=383664",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383664-wow-weekly-recap-wow-forever-talebound-demo-new-shop-decor-packs.html",
+   "published_at": "2026-10-31T15:13:52Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383664/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383664/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383607,
    "slug": "living-heartsbane-cauldron-mount-now-available-on-battle-net-store",
@@ -2583,27 +2737,6 @@
    "url": "https://www.wowhead.com/news=383670",
    "category": "Forever",
    "published_at": "2026-10-30T23:22:14Z"
-  },
-  {
-   "id": 383664,
-   "title_en": "WoW Weekly Recap - WoW: Forever, Talebound Demo, New Shop Decor Packs",
-   "url": "https://www.wowhead.com/news=383664",
-   "category": "WoW",
-   "published_at": "2026-10-30T17:20:18Z"
-  },
-  {
-   "id": 383652,
-   "title_en": "Blizzard Addresses Day and Night Cycle Issues for Oceanic Players in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383652",
-   "category": "Forever",
-   "published_at": "2026-10-30T15:00:00Z"
-  },
-  {
-   "id": 383482,
-   "title_en": "Returning to Dornogal - Patch 12.1.7 Campaign Playthrough (Story Spoilers)",
-   "url": "https://www.wowhead.com/news=383482",
-   "category": "PTR",
-   "published_at": "2026-10-30T14:00:00Z"
   },
   {
    "id": 383653,

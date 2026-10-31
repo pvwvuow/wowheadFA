@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383664",
  "title_en": "WoW Weekly Recap - WoW: Forever, Talebound Demo, New Shop Decor Packs",
  "category": "WoW",
- "published_at": "2026-10-30T17:20:18Z",
+ "published_at": "2026-10-31T15:13:52Z",
  "fetched_at": "2026-10-30T17:24:02Z",
  "source_mode": "full",
  "qa_facts": {
@@ -442,7 +442,7 @@
   ],
   "chars": 5808
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383664/1.jpg",
@@ -486,5 +486,55 @@
    "Talebound",
    "Trading Post"
   ]
+ },
+ "article_fa": {
+  "title_fa": "خلاصه هفتگی واو: Forever در ۴ نوامبر، دمو Talebound از امروز و پک‌های دکور فروشگاه",
+  "lead_fa": "بلیزارد خلاصه هفتگی واو را منتشر کرده که شامل لانچ جهانی World of Warcraft: Forever در هفته آینده، شروع دمو Talebound از امروز و پک‌های جدید دکور فروشگاه می‌شود.",
+  "body_fa": [
+   "این هفته اخبار با راهنماهای مفید، داستان‌های تازه، پاداش‌های جدید و افزودنی‌های ترسناک به مجموعه‌ها همراه است. World of Warcraft: Forever در ۴ نوامبر به صورت جهانی لانچ می‌شود World of Warcraft: Forever در ۴ نوامبر ساعت ۳:۰۰ بعدازظهر PST به صورت جهانی لانچ می‌شود. ماجراجویی خود را تا سطح ۶۰ در قاره‌های اصلی آغاز کنید، داستان‌های جدید کشف کنید و با ماجراجویان دیگر در خانه‌ای دائمی در کنار نسخه مدرن و Classic WoW دیدار کنید؛ جایی که جامعه در اولویت است و مسیر به اندازه مقصد اهمیت دارد.",
+   {
+    "t": "h",
+    "x": "راهنمای شروع برای بازیکنان جدید: خوش آمدید به World of Warcraft: Forever"
+   },
+   "World of Warcraft: Forever بازیکنان را به Azeroth بازسازی‌شده اصلی دعوت می‌کند جایی که کاوش، جامعه و خود مسیر در مرکز توجه قرار دارند. گام‌های اولیه شما در Azeroth با چند انتخاب معنادار آغاز می‌شود: نحوه بازی، هویت شخصیت و جایی که کنجکاوی شما را هدایت می‌کند. از سطح یک شروع کنید، شخصیتی بسازید و اصول را بیاموزید تا جایگاه خود را در جهانی که سال‌ها قرار است گسترش یابد پیدا کنید. بازگشت به Azeroth در World of Warcraft: Forever به Azeroth خوش آمدید. چه چند سال گذشته باشد چه بیشتر، جاده‌های آشنا، دوستان قدیمی و ماجراجویی‌های جدید در World of Warcraft: Forever منتظر شما هستند. برای کمک به بازگشت به مسیر قهرمانانه‌تان، اطلاعاتی آماده کرده‌ایم که ممکن است برای آغاز دوباره ماجراجویی در Azeroth نیاز داشته باشید.",
+   {
+    "t": "h",
+    "x": "پادکست WoW: Forever را ببینید: همه چیز درباره تکنولوژی"
+   },
+   "به پادکست WoW: Forever با میزبانی Countdown To Classic و مهمان ویژه Shobek بپیوندید که درباره تکنولوژی با Senior Game Designer Josh “Aggrend” Greenfield، Lead Software Engineer Ana Resendez و Principal Software Engineer Frank Williams صحبت می‌کنند. این قسمت را ببینید تا بینش‌هایی از تیم توسعه درباره لانچ جهانی World of Warcraft: Forever در ۴ نوامبر ساعت ۳:۰۰ بعدازظهر PST دریافت کنید.",
+   {
+    "t": "h",
+    "x": "ماجراجویی بعدی شما در WoW: Forever از WoW Portal Room آغاز می‌شود"
+   },
+   "Azeroth همیشه بیش از یک مکان برای بازی بوده است؛ جهانی است که توسط افرادی که در مسیر با آن‌ها آشنا می‌شویم شکل گرفته. WoW Portal Room نقطه شروعی برای ایجاد این ارتباط‌ها ارائه می‌دهد، چه به دنبال هم‌صحبتی آشنا باشید چه دایره‌ای کاملاً جدید از ماجراجویان. WoW Portal Room آماده استقبال از بازیکنان World of Warcraft: Forever است و به آن‌ها کمک می‌کند تا دوستی‌ها، داستان‌ها و ماجراجویی‌های مشترک را بسازند که Azeroth را به خانه تبدیل می‌کند. داستان کوتاه WoW: Forever به نام “Unbowed” را ببینید",
+   "Cormack، که در زندگی سابق Scarlet Crusader بود و اکنون به عنوان Forsaken برخاسته، با پذیرش وجود مرده‌اش مبارزه می‌کند. پس از روبه‌رو شدن با گذشته و باورهایی که او را تعریف می‌کردند، از خود می‌پرسد: آیا Forsaken هنوز می‌تواند به Light خدمت کند؟ به Cormack برای روایت کنار آتش داستان کوتاه جدیدمان “Unbowed” بپیوندید. دمو Talebound برای WoW: Midnight اکنون در دسترس است دمو Talebound را در Player Test Realm (PTR) امتحان کنید و مقدمه Red Hollow، سه داستان ترسناک در سطوح Normal، Veteran و Heroic و هر سه کلاس Slayer، Inquisitor و Witch را تجربه کنید. در دمو Talebound غوطه‌ور شوید، ویژگی‌های موجود را امتحان کنید و نظرات خود را به اشتراک بگذارید. برای شرکت نیازی به اشتراک نیست.",
+   {
+    "t": "h",
+    "x": "در Trading Post ماه نوامبر دندان شیرین خود را ارضا کنید"
+   },
+   "اشتهای ماجراجویی‌تان را بیاورید؛ این ماه همه چیز درباره لذت بردن از سمت شیرین است. Trading Post نوامبر با تم Sweet Tooth آماده است تا کمی شیرینی به مجموعه شما اضافه کند. فعالیت‌ها را کامل کنید تا Trader’s Tender کسب کنید و Traveler’s Log خود را پر کنید تا پاداش ویژه این ماه را دریافت کنید: سوار Hot Motocross Bunmover 4600. «وقتی تولید دسر با بهینه‌سازی سرعت دیدار می‌کند. تحویل سالم نان تضمین نمی‌شود.» برای دیدن آخرین اقلام، به T&W (Tawney and Wilder) درست خارج از Mage District در Stormwind یا Zen’shiri Trading Post کنار Grommash Hold در Orgrimmar مراجعه کنید. بازیکنان همچنین می‌توانند به Trading Post در شهرهای اصلی Dornogal (The Foregrounds) در Isle of Dorn و Silvermoon City بازسازی‌شده بروند، جایی که نمایندگان Tawney and Wilder و Zen’shiri Trading Post آماده کسب‌وکار هستند. قهرمانان جدید یا بازگشتی به World of Warcraft و Midnight می‌توانند از Trading Post بازدید کنند تا همه چیز را از مکان آن تا نحوه کسب Trader's Tender اضافی از طریق Traveler's Log بیاموزند.",
+   {
+    "t": "h",
+    "x": "سوار Living Heartsbane Cauldron را به مجموعه خود اضافه کنید"
+   },
+   "این cauldron زنده که از بقایای یک ritual تاریک برخاسته، نشانه‌های witchcraft را که آن را بیدار کرده بر خود دارد. فرمان این خلق نفرین‌شده را به دست بگیرید و با سبکی شیطانی در Azeroth سواری کنید. Living Heartsbane Cauldron یک سوار macabre دلپذیر است که آماده است شما را به ماجراجویی‌ها در زمین یا آسمان ببرد.",
+   {
+    "t": "h",
+    "x": "روح دریا را با پک‌های Grimtide Estate و Grimtide Decor به خانه بیاورید"
+   },
+   "از عمق‌ها برخاسته، روح haunting دریا را با مجموعه Grimtide برای World of Warcraft Housing به خانه بیاورید که شامل Spirited Grimtide Manse exterior، Spirited Grimtide Foyer interior و یک پک هماهنگ از دکور nautical ترسناک است. پک‌های Grimtide Estate و Grimtide Decor مطمئناً horrors از پایین را به خانه شما می‌آورند. هر هفته به سایت اخبار World of Warcraft بازگردید تا سرنوشت خود را با هم کشف کنیم."
+  ],
+  "tags_fa": [
+   "هفتگی",
+   "WoW Forever",
+   "Talebound",
+   "Trading Post"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-31T15:13:52Z",
+  "reviewer": "grok-4"
  }
 }
