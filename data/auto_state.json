@@ -31,10 +31,25 @@
    "reason": "عددِ بدون منبع در مقاله: 12 | عددِ بدون منبع در مقاله: 1 | عددِ بدون منبع در مقاله: 7",
    "at": "2026-10-31T10:58:59Z",
    "at_ts": 1793444339.400545
+  },
+  "383653": {
+   "reason": "عددِ بدون منبع در مقاله: 9 | عددِ بدون منبع در مقاله: 200 | G1 Persian ratio 49% < 55% | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+   "at": "2026-10-31T11:20:31Z",
+   "at_ts": 1793445631.894991
+  },
+  "383651": {
+   "reason": "«دمو Talebound فردا در دسترس خواهد بود» و «Talebound در این آخر هفته برای تست در دسترس خواهد بود» — منبع فقط می‌گوید «available tomorrow» و «this weekend» (۳۰ اکتبر تا ۲ نوامبر)؛ «فردا» و «این آخر هفته» ادعای زمانی دقیق‌تری است که منبع ندارد. | «به صورت یک حالت PvE action RPG جدید به زندگی درآمده است» — منبع می‌گوید «chillingly brought to life in a new PvE action RPG game mode»؛ «به زندگی درآمده» ",
+   "at": "2026-10-31T11:21:35Z",
+   "at_ts": 1793445695.545548
+  },
+  "383650": {
+   "reason": "عددِ بدون منبع در مقاله: 200 | G1 Persian ratio 48% < 55% | G3 long English run: ve also been thinking of ways to auto-detect PvP battles that are happ...",
+   "at": "2026-10-31T11:22:35Z",
+   "at_ts": 1793445755.01441
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-31T10:58:59Z",
+ "updated_at": "2026-10-31T11:22:35Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1716,6 +1731,46 @@
     "blocks": 16,
     "warns": 0,
     "sec": 41.6,
+    "attempts": 2
+   },
+   {
+    "id": "383653",
+    "ts": "2026-10-31T11:20:31Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 10,
+    "warns": 0,
+    "sec": 27.8,
+    "attempts": 2
+   },
+   {
+    "id": "383653",
+    "ts": "2026-10-31T11:20:38Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 6.1,
+    "attempts": 1
+   },
+   {
+    "id": "383651",
+    "ts": "2026-10-31T11:21:35Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 11,
+    "warns": 0,
+    "sec": 57.1,
+    "attempts": 2
+   },
+   {
+    "id": "383650",
+    "ts": "2026-10-31T11:22:35Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 7,
+    "warns": 0,
+    "sec": 59.5,
     "attempts": 2
    }
   ]

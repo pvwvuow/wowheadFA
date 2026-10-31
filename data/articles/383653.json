@@ -473,6 +473,7 @@
    "roleplaying",
    "room",
    "rooted",
+   "rows",
    "ruins",
    "rules",
    "ruleset",
@@ -507,6 +508,7 @@
    "site",
    "skyborne",
    "span",
+   "spec",
    "standard",
    "start",
    "started",
@@ -631,5 +633,31 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383653/1.png",
  "hold_reason": "«November 4th» در lead_fa ذکر شده اما منبع فقط می‌گوید November 4th بدون افزودن سال یا جزئیات بیشتر؛ با این حال این تاریخ دقیقاً در منبع هست و block نیست — اصلاح: block برای «در November 4th آماده می‌کند» نیست، اما جمله lead_fa ادعا می‌کند Blizzard «با انتشار خلاصه‌ای» آماده می‌ک | fallback هم رد شد: عددِ بدون منبع در مقاله: 000 | عددِ بدون منبع در مقاله: 2",
  "hold_count": 1,
- "hold_at": "2026-10-29T20:38:08Z"
+ "hold_at": "2026-10-29T20:38:08Z",
+ "last_rejected": {
+  "title_fa": "بازگشت به آزراث در World of Warcraft: Forever",
+  "lead_fa": "بلیزارد با انتشار خلاصه‌ای، بازیکنان را برای بازگشت به آزراث در چهارم نوامبر و آغاز World of Warcraft: Forever آماده می‌کند. این نسخه سفری تازه در جهانی بازسازی‌شده ارائه می‌دهد که با مناطق، کوئست‌ها، دانجن‌ها، سیستم‌ها و گزینه‌های جدید شخصیت همراه است.",
+  "body_fa": [
+   "World of Warcraft: Forever در دوره اولیه «سال ۱» نسخه اصلی World of Warcraft آغاز می‌شود؛ پیش از آنکه Kazzak Dark Portal را دوباره باز کند و پیش از سفرهایی که بعدها timeline را تغییر دادند. این نسخه بر پایه دنیای سطح ۱ تا ۶۰ ساخته شده و رویدادها، شخصیت‌ها و مکان‌های موجود یا ممکن در آن دوران را گسترش می‌دهد.",
+   "{'t': 'h', 'x': 'کشف آنچه در WoW: Forever منتظر شماست'}",
+   "این نسخه Eastern Kingdoms و Kalimdor را با مناطق جدید و بازسازی‌شده و بیش از ۱۰۰۰ کوئست تازه در مسیر سطح ۱ تا ۶۰ گسترش می‌دهد. مقصدهای تازه شامل Mount Hyjal، Shen’dralas، Riverglades و Zephras Isle هستند. ۹ دانجن جدید پنج‌نفره در سطوح ۱۳ تا ۶۰ در Eastern Kingdoms و Kalimdor قرار دارند. دانجن‌های Eastern Kingdoms عبارتند از Hall of Thanes، Ruins of Lordaeron، Excavation Site، City of Dalaran، The Drowned City و Krol’dok Stronghold. دانجن‌های Kalimdor نیز Alcaz Prison، Blackmaw Hold و Shaper’s Terrace هستند.",
+   "{'t': 'h', 'x': 'ترکیب\\u200cهای جدید نژاد و کلاس'}",
+   "ترکیب‌های تازه‌ای که در نسخه اصلی در دسترس نبودند اکنون قابل انتخاب هستند: Alliance شامل Human Hunter، Dwarf Shaman و Gnome Priest؛ Horde شامل Orc Mage، Troll Warlock و Undead Paladin. نژاد Skyborne نیز اضافه شده که می‌تواند به Alliance یا Horde بپیوندد و در Zephras Isle شروع می‌کند. Skyborne می‌تواند Druid، Hunter، Rogue و Warrior باشد؛ Skyborneهای Alliance-aligned می‌توانند Mage هم انتخاب کنند و Skyborneهای Horde-aligned می‌توانند Shaman. دسترسی به Skyborne نیازمند خرید Heroic Pack یا بالاتر است.",
+   "{'t': 'h', 'x': 'سیستم Legacy و پیشرفت PvP'}",
+   "Legacy System یک سیستم پیشرفت افقی حساب‌محور جدید است که بر کاوش همه محتوای بازی تمرکز دارد و الزاما نیازی به لول‌آپ کاراکترهای آلت ندارد. همه مزایا را می‌توان روی یک کاراکتر هم باز کرد. سیستم PvP نیز به‌روزرسانی شده است. بازیکنان از طریق battlegroundها، PvP quests، weekly seasonal tasks و فعالیت‌های دیگر Honor و Rank points کسب می‌کنند. هفته‌های تعطیل battleground پاداش بیشتری می‌دهد. battleground جدید Darkspear Islands یک نبرد ۱۵ در برابر ۱۵ در ساحل Dustwallow Marsh برای سطوح ۳۰ تا ۶۰ است که چهار capture point و یک central flag دارد و اولین تیمی که به ۲۰۰۰ امتیاز برسد برنده می‌شود. بازیکنان می‌توانند reputation با Darkspear Raiders یا Theramore Expeditionary Force کسب کنند.",
+   "{'t': 'h', 'x': 'انتخاب تجربه و نام\\u200cگذاری'}",
+   "در اولین ورود، باید Choose Your Experience Preset را انتخاب کنید که دو حالت دارد: Classic با مدل‌های ساده‌تر و ویژگی‌های کمتر مدرن، یا Enhanced با fidelity بالاتر و ویژگی‌های بیشتر. برای هر کاراکتر جدید نیز می‌توانید مدل HD یا SD انتخاب کنید. هر کاراکتر دو بخش نام دارد که ترکیب کامل آن باید در منطقه منحصربه‌فرد باشد. می‌توانید نام دوم را در Nameplates مخفی کنید ولی در چت نمایش داده می‌شود.",
+   "{'t': 'h', 'x': 'انتخاب Ruleset'}",
+   "به جای انتخاب از لیست طولانی realmها، Ruleset انتخاب می‌کنید: Normal، PvP، Roleplay، Roleplay-PvP و Hardcore که بعدا اضافه می‌شود. هماهنگی با دوستان و guild برای انتخاب همان Ruleset و faction ضروری است.",
+   "{'t': 'ul', 'xs': ['Normal: Focus on adventuring and fighting monsters, with player-versus-player combat available at your discretion.', 'PvP: Focus on player-versus-player combat, with the risk of being attacked by opposing players through much of the open world.', 'Roleplay: Enter a community with naming and behavior rules intended for players who want to immerse themselves as characters in a fantasy world.', 'Roleplay-PvP: Join an immersive roleplaying community while also facing the danger of open-world conflict with the opposing faction.']}",
+   "{'t': 'h', 'x': 'آماده\\u200cسازی و نصب'}",
+   "پیش از نصب، سیستم‌عامل و درایورهای گرافیک را به‌روزرسانی کنید و سیستم مورد نیاز رسمی را بررسی نمایید. اگر نمی‌توانید وارد شوید، از ابزارهای بازیابی حساب بلیزارد استفاده کنید. Battle.net را دانلود کنید، WoW: Forever را انتخاب و نصب نمایید. دسترسی نیازمند اشتراک فعال World of Warcraft یا Game Time است. دوستانتان را جمع کنید، کاراکتر و Ruleset مناسب را برگزینید و سفرتان را در World of Warcraft: Forever آغاز کنید."
+  ],
+  "tags_fa": [
+   "World of Warcraft: Forever",
+   "بازگشت به آزراث",
+   "Legacy System",
+   "Ruleset"
+  ]
+ }
 }

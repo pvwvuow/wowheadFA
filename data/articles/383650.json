@@ -271,5 +271,26 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383650/1.jpg",
  "hold_reason": "G5 English token not in source: izzard",
  "hold_count": 1,
- "hold_at": "2026-10-29T19:13:33Z"
+ "hold_at": "2026-10-29T19:13:33Z",
+ "last_rejected": {
+  "title_fa": "بلزارد در حال کار بر روی مشکلات لایرینگ در وو: فوراور",
+  "lead_fa": "در جدیدترین قسمت پادکست WoW: Forever، بلزارد اعلام کرده که بر روی بارزترین مشکلات لایرینگ مشاهده‌شده در بتا کار می‌کند.",
+  "body_fa": [
+   "در قسمت اخیر پادکست WoW: Forever، توسعه‌دهندگان به موضوع لایرینگ و نبردهای PvP در مقیاس بزرگ پرداختند. بازیکنان در بتای WoW: Forever محدودیت‌های هر لایر را آزمایش کردند. نبردهای PvP جهانی بزرگ برگزار شد؛ برخی از آن‌ها موفقیت‌آمیز بودند اما در موارد دیگر، هماهنگ کردن همه بازیکنان در یک لایر با مشکل مواجه شد.",
+   "{'t': 'quote', 'x': \"There's a lot of cool things people are doing, using addons and stuff to organize things; we look at a lot of that functionality really closely and say, hey, what do we really wanna pull and try to integrate?\", 'by': 'Shobek'}",
+   "مهمان این هفته پادکست، Shobek، پرسید آیا تغییری برای کمک به این نبردهای بزرگ وجود دارد. Frank Williams، مهندس نرم‌افزار ارشد، گفت که ایده‌هایی برای آینده روی تخته سفید وجود دارد تا به نبردهای PvP جهانی در مقیاس بزرگ کمک کند.",
+   "{'t': 'quote', 'x': 'There might be a whiteboard on campus with the word \"megaraid\" scrawled on it, but we\\'ve also been thinking of ways to auto-detect PvP battles that are happening and have the servers expand slightly to keep the battle continuous and flowing. But I would say the state at the end of the beta is what you can expect for launch.', 'by': 'Frank Williams'}",
+   "{'t': 'h', 'x': 'لایرینگ بین زون\\u200cها'}",
+   "مشکل رایج‌تر برای بازیکنان، لایرینگ هنگام عبور از یک زون به زون دیگر است. برای مثال، بازیکنان Alliance ممکن است در Hillsbrad Foothills با گروهی از هم‌تیمی‌های خود حرکت کنند و به Silverpine Forest بروند تا به Shadowfang Keep برسند، اما با عبور از مرز زون، تعداد زیادی از آن‌ها ناگهان ناپدید می‌شوند زیرا وارد لایر جدیدی شده‌اند.",
+   "{'t': 'quote', 'x': \"One of the things we can kind of tune or tweak are which zones are actually connected to each other. That's why you're in Durotar watching people duel, and then someone suddenly appears out of nowhere because they walked out of Orgrimmar... for launch, that's an important thing to have because Durotar will be slammed, whereas there won't be many people idling in Orgrimmar; however, later on, it'll flip. We can fine-tune when we group things so at launch, the way it looks may be much different than the way it looks a month down the road.\", 'by': 'Frank Williams'}",
+   "Frank Williams توضیح داد که ویژگی‌های لایرینگ در روزهای آخر بتا و تست استرس تنظیم شده‌اند و بهبودهای بیشتری در حال انجام است. این موضوع trade-off طراحی WoW: Forever است. هرچند طراحی کامل نیست، اما همچنان لایرینگ زون‌ها رخ خواهد داد و تیم بهترین راه‌ها را برای بهبود بلندمدت این سیستم بررسی می‌کند.",
+   "در نهایت، حالت نهایی بتا همان چیزی است که باید در زمان لانچ انتظار داشته باشید."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "Forever",
+   "لایرینگ",
+   "PvP"
+  ]
+ }
 }
