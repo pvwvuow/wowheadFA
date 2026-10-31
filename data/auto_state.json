@@ -2,11 +2,6 @@
  "day": "2026-10-31",
  "published_today": 15,
  "held": {
-  "383632": {
-   "reason": "G4 numbers from source missing in article: 62 | G6 CJK characters leaked into Persian prose: 线索, 回復",
-   "at": "2026-10-31T16:21:12Z",
-   "at_ts": 1793463672.575332
-  },
   "383670": {
    "reason": "مقاله می‌گوید Swiftmend حالا فقط بعد از Regrowth کار می‌کند در حالی که منبع Regrowth or Rejuvenation را ذکر کرده است. | G5 English token not in source: dispel | G7 body: plain paragraphs must be >=40 chars | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
    "at": "2026-10-31T16:44:38Z",
@@ -101,10 +96,15 @@
    "reason": "نقل قول «امکانات جالبی وجود دارد که افراد با استفاده از افزونه‌ها...» به Shobek نسبت داده شده، در حالی که منبع آن را از پاسخ توسعه‌دهندگان (نه Shobek) نقل کرده است. | G5 English token not in source: izzard",
    "at": "2026-10-31T19:22:34Z",
    "at_ts": 1793474554.103845
+  },
+  "383632": {
+   "reason": "G4 numbers from source missing in article: 62 | G6 CJK characters leaked into Persian prose: 布局, 布局 | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
+   "at": "2026-10-31T19:45:45Z",
+   "at_ts": 1793475945.681013
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-31T19:22:34Z",
+ "updated_at": "2026-10-31T19:46:00Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -2457,6 +2457,26 @@
     "warns": 0,
     "sec": 67.9,
     "attempts": 2
+   },
+   {
+    "id": "383632",
+    "ts": "2026-10-31T19:45:45Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 112.4,
+    "attempts": 2
+   },
+   {
+    "id": "383632",
+    "ts": "2026-10-31T19:46:00Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 15.0,
+    "attempts": 1
    }
   ]
  }
