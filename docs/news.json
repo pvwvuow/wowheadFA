@@ -1,8 +1,148 @@
 {
- "generated": "2026-10-31T14:01:55Z",
+ "generated": "2026-10-31T14:50:49Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383651,
+   "slug": "patch-12-1-7-ptr-development-notes-talebound-demo-available-tomorrow",
+   "title_fa": "یادداشت‌های توسعه PTR پچ ۱۲٫۱٫۷ — دمو Talebound فردا در دسترس قرار می‌گیرد",
+   "lead_fa": "بلزارد یادداشت‌های توسعه PTR برای پچ ۱۲٫۱٫۷ را منتشر کرده و به بازیکنان یادآوری کرده که دمو Talebound فردا در دسترس خواهد بود.",
+   "body_fa": [
+    "PTR نسخه ۱۲٫۱٫۷ به‌روزرسانی شده و همزمان با در دسترس قرار گرفتن دمو Talebound برای تست آماده می‌شود.",
+    "Talebound این آخر هفته قابل تست خواهد بود.",
+    {
+     "t": "h",
+     "x": "زمان‌بندی Talebound"
+    },
+    "Talebound از ۳۰ اکتبر ساعت ۱۰:۰۰ صبح به وقت PDT تا ۲ نوامبر ساعت ۱۰:۰۰ صبح به وقت PDT در دسترس خواهد بود.",
+    {
+     "t": "h",
+     "x": "Tales Take a Dark Turn in Talebound"
+    },
+    "Talebound یک حالت PvE اکشن RPG جدید است که در آن بازیکنان وارد دنیای macabre داستان‌های تاریک یک Storyteller مرموز می‌شوند. می‌توانید به صورت solo یا همراه دوستانتان از میان داستان‌های ترسناک عبور کنید، با دشمنان و باس‌های ترسناک مبارزه کنید، پازل‌های پیچیده حل کنید، گنج و relics کشف کنید و Bound Silver به دست آورید تا پاداش‌های cosmetic دریافت کنید.",
+    "جزئیات بیشتر درباره دمو Talebound را می‌توانید در مقاله رسمی بلزارد با شماره ۲۴۳۱۳۱۰۷ پیدا کنید.",
+    {
+     "t": "note",
+     "x": "این دمو فقط برای تست در این آخر هفته در دسترس است و زمان آن دقیقاً از ۳۰ اکتبر ساعت ۱۰:۰۰ صبح PDT آغاز می‌شود.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "PTR",
+    "۱۲٫۱٫۷",
+    "Talebound",
+    "دمو"
+   ],
+   "items": [],
+   "title_en": "Patch 12.1.7 PTR Development Notes - Talebound Demo Available Tomorrow",
+   "source_url": "https://www.wowhead.com/news=383651",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383651-patch-12-1-7-ptr-development-notes-talebound-demo-available-tomorrow.html",
+   "published_at": "2026-10-31T14:50:34Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383651/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383651/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383653,
+   "slug": "return-to-azeroth-recap-for-world-of-warcraft-forever",
+   "title_fa": "بازگشت به آزراث در World of Warcraft: Forever",
+   "lead_fa": "بلیزارد با انتشار خلاصه‌ای، بازیکنان را برای بازگشت به آزراث در ۴ نوامبر در World of Warcraft: Forever آماده می‌کند.",
+   "body_fa": [
+    "World of Warcraft: Forever سفری تازه در جهانی بازسازی‌شده آغاز می‌کند که شامل مناطق جدید، کوئست‌ها، دانجن‌ها، سیستم‌ها و گزینه‌های شخصیت است و در عین حال پایه‌های اصلی بازی را حفظ می‌کند. این تجربه از دوره اولیه «Year 1» نسخهٔ اورجینال World of Warcraft الهام گرفته شده است؛ زمانی پیش از آنکه Kazzak Dark Portal را بازگشایی کند و پیش از سفرهایی که Northrend را شامل می‌شد.",
+    {
+     "t": "h",
+     "x": "مناطق و دانجن‌های تازه"
+    },
+    "بیش از ۱۰۰۰ کوئست جدید در طول مسیر سطح ۱ تا ۶۰ اضافه شده است. مناطق تازه شامل Mount Hyjal، Shen’dralas، the Riverglades و Zephras Isle هستند. ۹ دانجن جدید پنج‌نفره در سطوح ۱۳ تا ۶۰ در Eastern Kingdoms و Kalimdor قرار دارند. دانجن‌های Eastern Kingdoms عبارتند از Hall of Thanes، Ruins of Lordaeron، Excavation Site، City of Dalaran، The Drowned City و Krol’dok Stronghold. دانجن‌های Kalimdor نیز Alcaz Prison، Blackmaw Hold و Shaper’s Terrace هستند.",
+    {
+     "t": "h",
+     "x": "ترکیب‌های جدید نژاد و کلاس"
+    },
+    "ترکیب‌های تازه‌ای که در نسخهٔ اورجینال وجود نداشتند اکنون در دسترس هستند:\nAlliance: Human Hunter، Dwarf Shaman و Gnome Priest.\nHorde: Orc Mage، Troll Warlock و Undead Paladin. نژاد Skyborne به هر دو فکشن Alliance و Horde تعلق می‌گیرد و با توانایی‌های نژادی متفاوت آغاز می‌شود. این نژاد در منطقهٔ شروع Zephras Isle سطح ۱ تا ۱۲ قرار دارد و می‌تواند Druid، Hunter، Rogue و Warrior باشد. Skyborneهای Alliance-aligned می‌توانند Mage نیز انتخاب کنند و Skyborneهای Horde-aligned می‌توانند Shaman باشند. دسترسی به Skyborne نیازمند خرید Heroic Pack یا ارتقاهای بالاتر است.",
+    {
+     "t": "h",
+     "x": "سیستم Legacy و پیشرفت PvP"
+    },
+    "Legacy System یک سیستم پیشرفت افقی حساب‌محور است که بر کاوش همهٔ محتوای بازی تمرکز دارد و الزامی برای لول‌آپ کاراکترهای آلت وجود ندارد. همهٔ مزایا را می‌توان روی یک کاراکتر باز کرد. سیستم PvP بازطراحی‌شده شامل کسب Honor و Rank points از طریق battlegroundها، PvP quests، weekly seasonal tasks و فعالیت‌های دیگر است. هفته‌های تعطیل battleground پاداش بیشتری می‌دهد.",
+    "Darkspear Islands یک battleground جدید ۱۵ در برابر ۱۵ در ساحل Dustwallow Marsh برای سطوح ۳۰ تا ۶۰ است. تیم‌ها با کنترل چهار capture point و تصاحب پرچم مرکزی امتیاز کسب می‌کنند و اولین تیمی که به ۲۰۰۰ امتیاز برسد برنده می‌شود. شهرت با Darkspear Raiders یا Theramore Expeditionary Force برای دریافت پاداش‌های فکشن قابل کسب است.",
+    {
+     "t": "h",
+     "x": "انتخاب تجربهٔ دلخواه"
+    },
+    "در اولین ورود به بازی، باید Experience Preset را انتخاب کنید:\nClassic: مدل‌های Standard Definition، Quest points of interest خاموش، One-bag خاموش، Transmog خاموش، UI کلاسیک.\nEnhanced: مدل‌های High Definition، Quest points of interest روشن، One-bag روشن، Transmog روشن، UI متمرکز. هر کاراکتر جدید می‌تواند بین مدل‌های HD و SD انتخاب کند که تنها بر ظاهر تأثیر می‌گذارد. این انتخاب بعداً از طریق Options Menu یا Barbershop قابل تغییر است.",
+    "هر شخصیت دارای نام دوبخشی است که ترکیب کامل آن باید در منطقه منحصربه‌فرد باشد. نام دوم می‌تواند برای نشان دادن خانواده، مکان، عنوان یا ارتباط بین کاراکترها استفاده شود. می‌توانید نمایش نام دوم را در Nameplates مخفی کنید.",
+    {
+     "t": "h",
+     "x": "Rulesetها و نصب بازی"
+    },
+    "به جای انتخاب از لیست طولانی ریلم‌ها، Ruleset انتخاب می‌شود:\nNormal، PvP، Roleplay، Roleplay-PvP و Hardcore (که بعداً اضافه می‌شود). پیش از نصب، سیستم‌عامل و درایورهای گرافیک را به‌روزرسانی کنید و سیستم مورد نیاز رسمی را بررسی نمایید. اگر نمی‌توانید وارد شوید، از ابزارهای بازیابی حساب بلیزارد استفاده کنید.",
+    "برای شروع، Battle.net desktop app را دانلود کنید، WoW: Forever را انتخاب نمایید و نصب را آغاز کنید. دسترسی به بازی نیازمند World of Warcraft subscription یا Game Time فعال است. ارتقای Skyborne Heroic Pack یا بالاتر برای دسترسی به نژاد Skyborne لازم است. دوستان خود را جمع کنید، کاراکتر و Ruleset مناسب را برگزینید و سفرتان را در World of Warcraft: Forever آغاز کنید."
+   ],
+   "tags_fa": [
+    "World of Warcraft: Forever",
+    "بازگشت به آزراث",
+    "سیستم Legacy",
+    "Darkspear Islands"
+   ],
+   "items": [],
+   "title_en": "Return to Azeroth Recap for World of Warcraft: Forever",
+   "source_url": "https://www.wowhead.com/news=383653",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383653-return-to-azeroth-recap-for-world-of-warcraft-forever.html",
+   "published_at": "2026-10-31T14:49:23Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383653/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383653/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383652,
+   "slug": "blizzard-addresses-day-and-night-cycle-issues-for-oceanic-players-in-w",
+   "title_fa": "بلزارد به مشکل چرخه روز و شب برای بازیکنان اقیانوسیه در WoW: Forever پاسخ داد",
+   "lead_fa": "در جدیدترین قسمت پادکست WoW: Forever، بلزارد به مسئله چرخه روز و شب برای بازیکنان اقیانوسیه پرداخته است. این موضوع به خاطر به اشتراک گذاشتن سرور با بازیکنان آمریکای شمالی مطرح شده و نظرات بازیکنان در این باره خواسته می‌شود.",
+   "body_fa": [
+    "طبق آنچه در قسمت قبلی پادکست گفته شده بود، بازیکنان استرالیا می‌توانند با بازیکنان آمریکای شمالی روی یک سرور بازی کنند. به همین دلیل مسئله مناطق زمانی برای بازیکنان اقیانوسیه پیش می‌آید. آیا آن‌ها همیشه در زمان بازی اصلی شب را می‌بینند یا فرصت تجربه روز را هم دارند؟",
+    "طراح ارشد نرم‌افزار Ana Resendez نحوه کارکرد این سیستم را توضیح می‌دهد.",
+    "اما وقتی گروه تشکیل می\\u200cدهید، سرور باید یکی از جهان\\u200cهای ما را برای شما انتخاب کند. ما سرورهای استرالیا داریم و می\\u200cتوانیم مناطق زمانی استرالیایی روی آن\\u200cها بگذاریم، ولی وقتی دعوتی از جاش دریافت می\\u200cکنید و ناگهان در چند ثانیه از شب به روز می\\u200cروید چه اتفاقی می\\u200cافتد؟', 'by': 'Ana Resendez'}",
+    "Aggrend نیز وارد بحث شد و مستقیماً از جامعه نظر خواست.",
+    "آیا با آن مشکلی ندارید؟ آیا با این که روز و شب\\u200cتان ناگهان هر بار که گروه عوض می\\u200cکنید و بسته به مکان لیدر گروه تغییر کند، مشکلی ندارید؟ ما می\\u200cتوانیم تصمیم بگیریم و بگوییم که این کار را انجام می\\u200cدهیم، اما ممکن است برای افراد خیلی ناگهانی باشد، پس دریافت بازخورد در این مورد مفید خواهد بود.', 'by': 'Aggrend'}",
+    "حالا سؤال این است که بازیکنان اقیانوسیه چه چیزی را ترجیح می‌دهند؟ صدای خود را بلند کنید و به توسعه‌دهندگان بگویید که چه سیستم روز و شب را در WoW: Forever می‌خواهید ببینید."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "پادکست",
+    "اقیانوسیه",
+    "چرخه روز و شب"
+   ],
+   "items": [],
+   "title_en": "Blizzard Addresses Day and Night Cycle Issues for Oceanic Players in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383652",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383652-blizzard-addresses-day-and-night-cycle-issues-for-oceanic-players-in-w.html",
+   "published_at": "2026-10-31T14:45:54Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383652/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383652/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383607,
    "slug": "living-heartsbane-cauldron-mount-now-available-on-battle-net-store",
@@ -2592,32 +2732,11 @@
    "published_at": "2026-10-30T17:20:18Z"
   },
   {
-   "id": 383652,
-   "title_en": "Blizzard Addresses Day and Night Cycle Issues for Oceanic Players in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383652",
-   "category": "Forever",
-   "published_at": "2026-10-30T15:00:00Z"
-  },
-  {
    "id": 383482,
    "title_en": "Returning to Dornogal - Patch 12.1.7 Campaign Playthrough (Story Spoilers)",
    "url": "https://www.wowhead.com/news=383482",
    "category": "PTR",
    "published_at": "2026-10-30T14:00:00Z"
-  },
-  {
-   "id": 383653,
-   "title_en": "Return to Azeroth Recap for World of Warcraft: Forever",
-   "url": "https://www.wowhead.com/news=383653",
-   "category": "Forever",
-   "published_at": "2026-10-29T19:13:59Z"
-  },
-  {
-   "id": 383651,
-   "title_en": "Patch 12.1.7 PTR Development Notes - Talebound Demo Available Tomorrow",
-   "url": "https://www.wowhead.com/news=383651",
-   "category": "PTR",
-   "published_at": "2026-10-29T18:41:51Z"
   },
   {
    "id": 383650,
