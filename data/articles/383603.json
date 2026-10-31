@@ -176,48 +176,47 @@
   "title_fa": "قطعه اول لوت Myth 2/6 از لابیرنت‌ها در دسترس قرار گرفت",
   "lead_fa": "اولین قطعه از لوت Myth 2/6 اکنون در لابیرنت‌ها قابل دریافت است و gearing کاراکترها را آسان‌تر می‌کند.",
   "body_fa": [
-   "لابیرنت Labyrinth of Kindo'jan از سه weekly reset گذشته در دسترس بوده و حالا اولین قطعه Myth 2/6 آماده شده است.",
-   "هر هفته Wah'du یک کوئست جدید ارائه می‌دهد که بازیکنان باید یک Chamber خاص را در Labyrinth روی Tier 8 یا بالاتر کامل کنند.",
-   "با تکمیل این کوئست، یک Mythical Soul Fragment به دست می‌آورید. تحویل سه عدد از این Fragmentها به Wah'du، یک قطعه gear از انتخاب‌های او با item level Myth 2/6 می‌دهد.",
+   "لابیرنت Labyrinth of Kindo'jan از سه weekly reset گذشته در دسترس بوده است، بنابراین حالا اولین قطعه Myth 2/6 آماده شده.",
+   "هر هفته Wah'du یک کوئست جدید ارائه می‌دهد که از بازیکنان می‌خواهد یک Chamber خاص را در Labyrinth روی Tier 8 یا بالاتر کامل کنند.",
+   "با کامل کردن این کوئست، بازیکنان یک Mythical Soul Fragment دریافت می‌کنند. تحویل سه عدد از این Mythical Soul Fragmentها به Wah'du، یک قطعه gear از انتخاب‌های او با item level Myth 2/6 را به همراه دارد.",
    "قبل از خرید می‌توانید stats دقیق این آیتم‌ها را ببینید.",
    "اگر این کوئست‌ها را انجام نداده‌اید، نگران نباشید. Wah'du یک کوئست در هر زمان ارائه می‌دهد تا عقب‌ماندگی شما جبران شود و حتی ممکن است بتوانید چندین کوئست را در یک run انجام دهید.",
    {
     "t": "h",
-    "x": "آیتم‌های قابل خرید"
+    "x": "آیتم‌های در دسترس"
    },
-   "یکی از محبوب‌ترین انتخاب‌ها Rings هستند. تعداد Rings در این tier کم است و هر بازیکن به دو عدد نیاز دارد، ترجیحاً با stats دلخواه.",
-   "Kith'ix اخیراً یک Heavy Mastery ring دیگر اضافه کرده است. Nyrmissa یک Haste / Versatility Ring و Venomous Abyss دو ring ارائه می‌دهند.",
+   "یکی از محبوب‌ترین انتخاب‌ها احتمالاً Rings هستند. تعداد Rings در این tier کم است و هر بازیکن به دو عدد نیاز دارد، ترجیحاً با stats دلخواه.",
+   "Kith'ix اخیراً یک Heavy Mastery ring دیگر (Band of the Swarmcaller) اضافه کرده است، در حالی که Nyrmissa یک Haste / Versatility Ring (Alluring Bubbleband) و Venomous Abyss دو ring (Apex Brute's Claw Ring و Vile Alchemist's Band) دارد.",
    {
-    "t": "ul",
-    "xs": [
-     "Colubrine Band (Ring - Haste/Mastery)"
+    "t": "table",
+    "head": [
+     "آیتم",
+     "نوع"
+    ],
+    "rows": [
+     [
+      "Colubrine Band",
+      "Ring (Haste/Mastery)"
+     ],
+     [
+      "Unconfined Labrys",
+      "1H Str Axe"
+     ],
+     [
+      "Pledgebearer's Cuirass",
+      "Chest Mail"
+     ],
+     [
+      "Galerider's Byrnie",
+      "Chest Leather"
+     ],
+     [
+      "Miststalker's Brigandine",
+      "Chest Cloth"
+     ]
     ]
    },
-   {
-    "t": "ul",
-    "xs": [
-     "Unconfined Labrys (1H Str Axe)"
-    ]
-   },
-   {
-    "t": "ul",
-    "xs": [
-     "Pledgebearer's Cuirass (Plate)"
-    ]
-   },
-   {
-    "t": "ul",
-    "xs": [
-     "Galerider's Byrnie (Leather)"
-    ]
-   },
-   {
-    "t": "ul",
-    "xs": [
-     "Miststalker's Brigandine (Cloth)"
-    ]
-   },
-   "شما می‌توانید stats دقیق هر کدام را پیش از خرید مشاهده کنید."
+   "شما می‌توانید stats دقیق این آیتم‌ها را قبل از خرید مشاهده کنید."
   ],
   "tags_fa": [
    "Myth 2/6",

@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383619",
  "title_en": "Warlords of Draenor Timewalking Week Now Live",
  "category": "Live",
- "published_at": "2026-10-28T14:00:00Z",
+ "published_at": "2026-10-31T16:51:56Z",
  "fetched_at": "2026-10-28T14:10:56Z",
  "source_mode": "full",
  "qa_facts": {
@@ -90,7 +90,7 @@
   ],
   "chars": 887
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383619/1.jpg",
@@ -155,5 +155,59 @@
    "Warlords of Draenor",
    "هاتفیکس"
   ]
+ },
+ "article_fa": {
+  "title_fa": "هفته تایم‌واکینگ Warlords of Draenor اکنون فعال است",
+  "lead_fa": "هفته تایم‌واکینگ Warlords of Draenor اکنون برای این هفته فعال شده است و بازیکنان می‌توانند با اجرای دانجن‌ها، Timewarped Badge به دست آورند.",
+  "body_fa": [
+   "تایم‌واکینگ Warlords of Draenor شامل شش دانجن است که بازیکنان می‌توانند آن‌ها را اجرا کنند تا Gear و Timewarped Badge کسب نمایند.",
+   {
+    "t": "ul",
+    "xs": [
+     "Auchindoun: 5 Timewarped Badge",
+     "Bloodmaul Slag Mines: 5 Timewarped Badge",
+     "The Everbloom: 5 Timewarped Badge required bosses, 5 Timewarped Badge full run",
+     "Grimrail Depot: 5 Timewarped Badge",
+     "Shadowmoon Burial Grounds: 5 Timewarped Badge",
+     "Skyreach: 5 Timewarped Badge"
+    ]
+   },
+   "در پایان دانجن اول، آیتمی لوت می‌شود که ۵۰۰ Timewarped Badge اعطا می‌کند. این آیتم را می‌توان به Tempra و Kronnus تحویل داد.",
+   {
+    "t": "table",
+    "head": [
+     "مکان",
+     "مختصات"
+    ],
+    "rows": [
+     [
+      "#622",
+      "37.2 72.6"
+     ],
+     [
+      "#624",
+      "42.8 54.6"
+     ]
+    ]
+   },
+   "سه مونت با استفاده از Timewarped Badge قابل خرید هستند.",
+   {
+    "t": "note",
+    "x": "برای فهرست کامل پاداش‌ها، راهنمای Warlords of Draenor Timewalking را بررسی کنید.",
+    "kind": "info"
+   },
+   "این رویداد فرصت مناسبی برای کسب Gear و جمع‌آوری Badges است."
+  ],
+  "tags_fa": [
+   "تایم‌واکینگ",
+   "Warlords of Draenor",
+   "دانجن"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-31T16:51:56Z",
+  "reviewer": "grok-4"
  }
 }

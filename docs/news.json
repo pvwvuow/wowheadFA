@@ -1,8 +1,73 @@
 {
- "generated": "2026-10-31T16:21:51Z",
+ "generated": "2026-10-31T16:54:40Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383619,
+   "slug": "warlords-of-draenor-timewalking-week-now-live",
+   "title_fa": "هفته تایم‌واکینگ Warlords of Draenor اکنون فعال است",
+   "lead_fa": "هفته تایم‌واکینگ Warlords of Draenor اکنون برای این هفته فعال شده است و بازیکنان می‌توانند با اجرای دانجن‌ها، Timewarped Badge به دست آورند.",
+   "body_fa": [
+    "تایم‌واکینگ Warlords of Draenor شامل شش دانجن است که بازیکنان می‌توانند آن‌ها را اجرا کنند تا Gear و Timewarped Badge کسب نمایند.",
+    {
+     "t": "ul",
+     "xs": [
+      "Auchindoun: 5 Timewarped Badge",
+      "Bloodmaul Slag Mines: 5 Timewarped Badge",
+      "The Everbloom: 5 Timewarped Badge required bosses, 5 Timewarped Badge full run",
+      "Grimrail Depot: 5 Timewarped Badge",
+      "Shadowmoon Burial Grounds: 5 Timewarped Badge",
+      "Skyreach: 5 Timewarped Badge"
+     ]
+    },
+    "در پایان دانجن اول، آیتمی لوت می‌شود که ۵۰۰ Timewarped Badge اعطا می‌کند. این آیتم را می‌توان به Tempra و Kronnus تحویل داد.",
+    {
+     "t": "table",
+     "head": [
+      "مکان",
+      "مختصات"
+     ],
+     "rows": [
+      [
+       "#622",
+       "37.2 72.6"
+      ],
+      [
+       "#624",
+       "42.8 54.6"
+      ]
+     ]
+    },
+    "سه مونت با استفاده از Timewarped Badge قابل خرید هستند.",
+    {
+     "t": "note",
+     "x": "برای فهرست کامل پاداش‌ها، راهنمای Warlords of Draenor Timewalking را بررسی کنید.",
+     "kind": "info"
+    },
+    "این رویداد فرصت مناسبی برای کسب Gear و جمع‌آوری Badges است."
+   ],
+   "tags_fa": [
+    "تایم‌واکینگ",
+    "Warlords of Draenor",
+    "دانجن"
+   ],
+   "items": [],
+   "title_en": "Warlords of Draenor Timewalking Week Now Live",
+   "source_url": "https://www.wowhead.com/news=383619",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383619-warlords-of-draenor-timewalking-week-now-live.html",
+   "published_at": "2026-10-31T16:51:56Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383619/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383619/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383634,
    "slug": "after-2-weeks-over-200k-players-have-defeated-tier-11-kindo-jan-solo",
@@ -2797,37 +2862,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383507,
-   "slug": "acquire-scarecrow-pepe-decor-during-hallow-s-end",
-   "title_fa": "Scarecrow Pepe در Hallow's End؛ یک آچیومنت ساده، یک دیکور دوست‌داشتنی",
-   "lead_fa": "رویداد Hallow's End امسال آچیومنت تازه‌ای به نام A Frightening Friend دارد که جایزه‌اش دیکور Scarecrow Pepe است؛ فقط خلال تعطیلات در دسترس است.",
-   "body_fa": [
-    "اخبار Hallow's End 2026: آچیومنت جدید A Frightening Friend پاداش تازه‌ای به نام Scarecrow Pepe دارد. اگر قبلاً این آچیومنت را گرفته باشید، دیکور به‌صورت retroactively به شما می‌رسد؛ اما اگر هنوز این پرندهٔ کوچک را ندارید، فقط در روزهای رویداد فرصت دارید.",
-    "شرط لازم داشتن Garrison سطح ۳ از نسخهٔ Warlords of Draenor است. بعد به گورستان Garrison بروید؛ در گاریسون Horde مختصات /way 71.2 90.3 و در گاریسون Alliance مختصات /way 40.5 70.2 نقطهٔ هدف است.",
-    "آن‌جا Scarecrow Pepe را روی یک سنگ قبر نشسته پیدا می‌کنید. کافی است رویش کلیک کنید تا هم آچیومنت ثبت شود و هم دیکور جدید به مجموعهٔ خانه‌تان اضافه شود. کار ساده‌ای است، ولی فقط تا پایان Hallow's End."
-   ],
-   "tags_fa": [
-    "Hallow's End",
-    "Pepe",
-    "دیکور خانه"
-   ],
-   "items": [],
-   "title_en": "Acquire Scarecrow Pepe Decor During Hallow's End",
-   "source_url": "https://www.wowhead.com/news=383507",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383507-acquire-scarecrow-pepe-decor-during-hallow-s-end.html",
-   "published_at": "2026-10-21T15:00:00Z",
-   "model": "GLM",
-   "via": "",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383507/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383507/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -2872,13 +2906,6 @@
    "url": "https://www.wowhead.com/news=383630",
    "category": "Forever",
    "published_at": "2026-10-28T16:38:15Z"
-  },
-  {
-   "id": 383619,
-   "title_en": "Warlords of Draenor Timewalking Week Now Live",
-   "url": "https://www.wowhead.com/news=383619",
-   "category": "Live",
-   "published_at": "2026-10-28T14:00:00Z"
   },
   {
    "id": 383617,

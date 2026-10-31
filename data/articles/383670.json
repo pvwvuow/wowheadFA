@@ -308,36 +308,89 @@
  "hold_count": 2,
  "hold_at": "2026-10-31T10:03:34Z",
  "last_rejected": {
-  "title_fa": "تغییرات عظیم درخت استعداد دروید و پالادین و تیونینگ کلاس‌ها برای WoW: Forever",
-  "lead_fa": "درویدها و پالادین‌ها تغییرات بسیار گسترده‌ای در درخت استعداد خود دریافت کرده‌اند و چندین کلاس دیگر نیز تیونینگ شده‌اند؛ این تغییرات هاتفیکس پیش از لانچ WoW: Forever در ۴ نوامبر اعمال شده است.",
+  "title_fa": "تغییرات گسترده درخت استعداد دروید و پالادین - تیونینگ کلاس‌ها برای WoW: Forever",
+  "lead_fa": "درویدها و پالادین‌ها تغییرات بسیار بزرگی در درخت استعداد خود دریافت کرده‌اند و چندین کلاس دیگر نیز تیونینگ شده‌اند؛ این تغییرات پیش از انتشار WoW: Forever در ۴ نوامبر اعمال می‌شود.",
   "body_fa": [
-   "این هاتفیکس‌ها روی سرورهای زنده Forever اعمال شده‌اند. این تغییرات هنوز در یادداشت‌های توسعه تأیید نشده‌اند و ممکن است در آینده تغییر کنند.",
+   "این هاتفیکس‌ها روی سرورهای زنده Forever اعمال شده‌اند. این تغییرات هنوز در یادداشت‌های توسعه تأیید نشده‌اند و ممکن است در آینده تغییر کنند. تغییرات دروید چندین استعداد موقعیت خود را در درخت تغییر داده‌اند. جزئیات کامل را می‌توانید در Druid Talent Calculator ببینید. Genesis حالا آسیب و درمان دوره‌ای را ۲/۴/۶/۸/۱۰٪ افزایش می‌دهد (قبلاً ۱/۲/۳/۴/۵٪ بود).",
    {
-    "t": "h",
-    "x": "تغییرات دروید"
+    "t": "ul",
+    "xs": [
+     "Lacerate استعداد جدیدی است.",
+     "Berserk حذف شده است.",
+     "Leader of the Pack حالا تمام critical strike را افزایش می‌دهد (قبلاً فقط melee و ranged).",
+     "آسیب Primal Bite به ۴۲/۶۲/۷۷ افزایش یافته (قبلاً ۲۶/۳۸/۵۹ بود) و موقعیت استعداد تغییر کرده است.",
+     "cooldown Shifting Power به ۸ ثانیه کاهش یافته (قبلاً ۱۶ ثانیه بود)."
+    ]
    },
-   "چندین استعداد موقعیت خود را در درخت تغییر داده‌اند. برای دیدن جزئیات دقیق می‌توانید از Druid Talent Calculator استفاده کنید. Genesis حالا آسیب و درمان دوره‌ای را ۲/۴/۶/۸/۱۰٪ افزایش می‌دهد (قبلاً ۱/۲/۳/۴/۵٪). Lacerate به عنوان استعداد جدید اضافه شده است. Berserk حذف شده است. Leader of the Pack حالا تمام critical strike را افزایش می‌دهد (قبلاً فقط melee و ranged). Primal Bite آسیب ۴۲/۶۲/۷۷ وارد می‌کند (قبلاً ۲۶/۳۸/۵۹) و موقعیت استعداد تغییر کرده است. Shifting Power cooldown به ۸ ثانیه کاهش یافته است (قبلاً ۱۶ ثانیه). Bloom به عنوان استعداد جدید اضافه شده است. Naturalist حالا علاوه بر کاهش زمان cast، آسیب و درمان Wild Growth را ۲/۴/۶/۸/۱۰٪ افزایش می‌دهد (قبلاً ۱/۲/۳/۴/۵٪). Swiftmend حالا فقط بعد از Regrowth فعال می‌شود (قبلاً هر spell). Wild Growth حالا زمان cast ۳ ثانیه‌ای دارد.",
+   "Bloom استعداد جدیدی است. Naturalist حالا علاوه بر کاهش زمان cast، آسیب و درمان Wild Growth را ۲/۴/۶/۸/۱۰٪ افزایش می‌دهد (قبلاً ۱/۲/۳/۴/۵٪ بود). Swiftmend حالا فقط بعد از Regrowth کار می‌کند (قبلاً هر spell). Wild Growth حالا زمان cast ۳ ثانیه‌ای دارد. تغییرات هانتر، میج، پالادین، پریست، وارلاک و واریور هانترها تغییراتی در درخت Beast Mastery داشته‌اند. Pathfinding به Row ۳ منتقل شده (قبلاً Row ۲ بود). در Arcane میج: Arcane Blast حالا ۱۲٪ Int stack می‌کند (قبلاً ۱۵٪)، هزینه mana ۱۰۰٪ افزایش یافته (قبلاً ۱۷۵٪) و مدت buff به ۱۸ ثانیه رسیده (قبلاً ۱۵ ثانیه). Arcane Resilience حالا ۳ رتبه دارد و رتبه سوم ۷۵٪ Intellect به عنوان armor می‌دهد. Arcane Resilience به Row ۱ منتقل شده (قبلاً Row ۲). Missile Barrage به Row ۲ منتقل شده (قبلاً Row ۱). Arcane Focus از درخت حذف شده است. در Fire میج:",
    {
-    "t": "h",
-    "x": "تغییرات هانتر، مِیج، پریست و وارلاک"
+    "t": "ul",
+    "xs": [
+     "Accelerant حالا نام قبلی Improved Fireball را دارد و زمان cast Arcane Wrath را هم کاهش می‌دهد.",
+     "Critical Mass در رتبه ۳ حداکثر ۶٪ crit chance می‌دهد (قبلاً ۱۰٪ در رتبه ۵).",
+     "Improved Fire Blast به Row ۳ منتقل شده (قبلاً Row ۱).",
+     "Incineration در رتبه ۵ حداکثر ۱۰٪ crit chance برای Fire Blast، Ice Lance، Arcane Blast و Scorch می‌دهد (قبلاً ۶٪ در رتبه ۳)."
+    ]
    },
-   "هانترها تغییراتی در درخت Beast Mastery داشته‌اند. Pathfinding به Row ۳ منتقل شده است (قبلاً Row ۲). در Arcane مِیج، Arcane Blast حالا ۱۲٪ Int stack می‌کند (قبلاً ۱۵٪)، هزینه mana ۱۰۰٪ افزایش یافته (قبلاً ۱۷۵٪) و مدت buff به ۱۸ ثانیه رسیده است (قبلاً ۱۵ ثانیه). Arcane Resilience حالا ۳ rank دارد و rank سوم ۷۵٪ Intellect به عنوان armor می‌دهد. این استعداد به Row ۱ منتقل شده (قبلاً Row ۲). Missile Barrage به Row ۲ منتقل شده (قبلاً Row ۱). Arcane Focus از درخت حذف شده است. در Fire مِیج، Accelerant قبلاً Improved Fireball نام داشت و حالا زمان cast Arcane Wrath را هم کاهش می‌دهد. Critical Mass در rank ۳ حداکثر ۶٪ crit chance می‌دهد (قبلاً ۱۰٪ در rank ۵). Improved Fire Blast به Row ۳ منتقل شده (قبلاً Row ۱). Incineration در rank ۵ حداکثر ۱۰٪ crit chance برای Fire Blast، Ice Lance، Arcane Blast و Scorch می‌دهد (قبلاً ۶٪ در rank ۳). در Frost مِیج، Arctic Reach حالا برد Ice Lance را هم افزایش می‌دهد. Ice Barrier حالا آسیب Frost را ۱۵٪ افزایش می‌دهد (قبلاً ۳٪). آسیب اضافی در حالت shielded ۵٪ بیشتر است (قبلاً ۳٪). Winter's Chill آسیب Cone of Cold بعدی را ۲۰٪ افزایش می‌دهد (قبلاً ۵٪). Ice Lance حالا ۳۰۰٪ آسیب بیشتر به اهداف frozen وارد می‌کند (قبلاً ۲۰۰٪) اما cooldown ۸ ثانیه‌ای دارد. Precision قبلاً Elemental Precision نام داشت و حالا تمام hit chance را افزایش می‌دهد (قبلاً فقط برخی spellها). در Priest، Shadow Word: Death حالا ۳۰٪ backlash damage وارد می‌کند (قبلاً ۱۰٪). Holy Binding به عنوان استعداد جدید اضافه شده است. در Warlock، Improved Drains حالا مقدار mana که Drain Mana می‌گیرد را افزایش می‌دهد. در Warrior، Revenge در تمام rankها با ۲۵٪ attack power مقیاس می‌گیرد.",
+   "در Frost میج:",
    {
-    "t": "h",
-    "x": "تغییرات پالادین"
+    "t": "ul",
+    "xs": [
+     "Arctic Reach حالا برد Ice Lance را هم افزایش می‌دهد.",
+     "Ice Barrier حالا آسیب Frost را ۱۵٪ افزایش می‌دهد (قبلاً ۳٪) و در حالت shielded آسیب اضافی ۵٪ بیشتر می‌شود (قبلاً ۳٪).",
+     "Winter's Chill آسیب Cone of Cold بعدی را ۲۰٪ افزایش می‌دهد (قبلاً ۵٪).",
+     "Ice Lance حالا ۳۰۰٪ آسیب اضافی به هدف‌های frozen وارد می‌کند (قبلاً ۲۰۰٪) ولی cooldown ۸ ثانیه‌ای دارد.",
+     "Precision حالا نام قبلی Elemental Precision را دارد و hit chance همه spellها را افزایش می‌دهد (قبلاً فقط برخی spellها)."
+    ]
    },
-   "درخت استعداد پالادین تغییرات بسیار گسترده‌ای دیده است. برای دیدن قبل و بعد می‌توانید از Paladin Talent Calculator استفاده کنید. Boundless Light به عنوان استعداد جدید اضافه شده است. Divine Precision حداکثر ۲ rank دارد و rank آخر hit chance spellهای Holy را ۸٪ افزایش می‌دهد (قبلاً ۱۸٪) و مدت Silence را ۲۰٪ کاهش می‌دهد. Holy Power حالا bonus critical strike healing را ۱۰/۲۰/۳۰/۴۰/۵۰٪ افزایش می‌دهد (قبلاً chance). Improved Seals تا rank ۵ و ۱۵٪ مقیاس می‌گیرد (قبلاً rank ۳ و ۹٪).",
-   "Light's Vigil دیگر روی دشمن trigger نمی‌شود. Oath of Light به عنوان استعداد جدید اضافه شده است. Reverence حداکثر ۲ rank دارد (قبلاً ۳) اما مقدار mana regeneration در rank آخر همچنان ۳۰٪ است. Spiritual Focus حالا حداکثر ۵ rank دارد (قبلاً ۲) و تا ۷۰٪ chance می‌رسد. Righteous Fury حالا در سطح ۱۰ یاد گرفته می‌شود (قبلاً ۱۶).",
-   "Holy Shield آسیب ۳۲٪ کاهش یافته، هزینه mana به ۱۰۰ رسیده (قبلاً ۱۵۰) و flag جدید «Take Harmful Spell» اضافه شده است. Improved Righteous Fury آسیب دریافتی را ۳/۶/۹٪ کاهش می‌دهد (قبلاً ۲/۴/۶٪). Iron Creed حداکثر rankها ۳ کاهش یافته (قبلاً ۵)، threat increase در rank آخر ۳۰٪ است (قبلاً ۱۵٪) اما damage taken به ۶٪ رسیده (قبلاً ۱۰٪).",
-   "Sacred Duty دیگر stamina را افزایش نمی‌دهد اما مدت Forbearance را در rank آخر ۱۰ ثانیه کاهش می‌دهد. Shield Specialization حداکثر ۲ rank دارد (قبلاً ۳) با همان مقادیر در rank آخر. Shieldsworn به عنوان استعداد جدید اضافه شده است.",
-   "Stoicism به عنوان استعداد جدید اضافه شده است. Swift Judgement اثر جدیدی دارد. Templar's Bulwark حالا قابل magic dispel است. Champion of the Light حداکثر ۵ rank دارد (قبلاً ۳)، spell damage در rank آخر همان است اما زمان cast Hammer of Wrath را ۱ ثانیه کاهش می‌دهد. Conviction حداکثر ۳ rank دارد (قبلاً ۵) و در rank آخر تمام spellها را ۶٪ تحت تأثیر قرار می‌دهد. Turn Evil به عنوان ability جدید اضافه شده است.",
-   "Two-Handed Weapon Specialization حالا physical damage را افزایش می‌دهد (قبلاً all damage) و threat را در rank آخر ۲۰٪ کاهش می‌دهد. Unsealed Wrath نام و اثر جدیدی دارد. Vindication دیگر attack power را افزایش نمی‌دهد.",
+   "درخت استعداد پالادین تغییرات بسیار گسترده‌ای دیده است. در Holy:",
+   {
+    "t": "ul",
+    "xs": [
+     "Boundless Light استعداد جدیدی است.",
+     "تعداد رتبه‌های حداکثر Divine Precision به ۲ کاهش یافته و رتبه حداکثر hit chance spellهای Holy را ۸٪ افزایش می‌دهد (قبلاً ۱۸٪) ولی مدت Silence را ۲۰٪ کاهش می‌دهد.",
+     "Holy Power حالا bonus critical strike healing را ۱۰/۲۰/۳۰/۴۰/۵۰٪ افزایش می‌دهد (قبلاً chance).",
+     "Improved Seals حالا تا رتبه ۵ و ۱۵٪ مقیاس می‌گیرد (قبلاً رتبه ۳ و ۹٪).",
+     "Light's Vigil دیگر روی دشمن trigger نمی‌شود.",
+     "Oath of Light استعداد جدیدی است.",
+     "تعداد رتبه‌های حداکثر Reverence به ۲ کاهش یافته (قبلاً ۳) ولی مقدار mana regeneration در رتبه حداکثر همچنان ۳۰٪ است.",
+     "Spiritual Focus حالا ۵ رتبه حداکثر دارد (قبلاً ۲) و تا ۷۰٪ chance مقیاس می‌گیرد."
+    ]
+   },
+   "در Protection:",
+   {
+    "t": "ul",
+    "xs": [
+     "Righteous Fury حالا از سطح ۱۰ یاد گرفته می‌شود (قبلاً ۱۶).",
+     "آسیب Holy Shield ۳۲٪ کاهش یافته، هزینه mana به ۱۰۰ رسیده (قبلاً ۱۵۰) و flag جدیدی به نام Take Harmful Spell اضافه شده است.",
+     "Improved Righteous Fury آسیب دریافتی را ۳/۶/۹٪ کاهش می‌دهد (قبلاً ۲/۴/۶٪).",
+     "تعداد رتبه‌های حداکثر Iron Creed ۳ کاهش یافته (قبلاً ۵) و افزایش threat در رتبه حداکثر ۳۰٪ است (قبلاً ۱۵٪) ولی آسیب دریافتی به ۶٪ کاهش یافته (قبلاً ۱۰٪).",
+     "Sacred Duty دیگر stamina را افزایش نمی‌دهد ولی مدت Forbearance را در رتبه حداکثر ۱۰ ثانیه کاهش می‌دهد.",
+     "تعداد رتبه‌های حداکثر Shield Specialization به ۲ کاهش یافته (قبلاً ۳) با همان مقادیر در رتبه حداکثر.",
+     "Shieldsworn استعداد جدیدی است.",
+     "Stoicism استعداد جدیدی است.",
+     "Swift Judgement اثر جدیدی دارد.",
+     "Templar's Bulwark حالا قابل magic dispel است."
+    ]
+   },
+   "در Retribution:",
+   {
+    "t": "ul",
+    "xs": [
+     "Champion of the Light حالا ۵ رتبه حداکثر دارد (قبلاً ۳) و spell damage در رتبه حداکثر همان مقدار قبلی است ولی زمان cast Hammer of Wrath را ۱ ثانیه کاهش می‌دهد.",
+     "Conviction حالا ۳ رتبه حداکثر دارد (قبلاً ۵) و در رتبه حداکثر همه spellها را ۶٪ تحت تأثیر قرار می‌دهد.",
+     "Turn Evil توانایی جدیدی است.",
+     "Two-Handed Weapon Specialization حالا physical damage را افزایش می‌دهد (قبلاً همه damage) و threat را در رتبه حداکثر ۲۰٪ کاهش می‌دهد.",
+     "Unsealed Wrath نام و اثر جدیدی دارد.",
+     "Vindication دیگر attack power را افزایش نمی‌دهد."
+    ]
+   },
+   "Shadow Word: Death حالا ۳۰٪ backlash damage وارد می‌کند (قبلاً ۱۰٪). Holy Binding استعداد جدیدی برای Holy Priest است. Improved Drains حالا مقدار mana که Drain Mana می‌گیرد را افزایش می‌دهد (به جای تأثیر روی Wrack). Revenge حالا در همه رتبه‌ها با ۲۵٪ attack power مقیاس می‌گیرد.",
    {
     "t": "note",
-    "x": "این تغییرات روی سرورهای زنده اعمال شده‌اند و ممکن است در آینده تغییر کنند.",
+    "x": "این تغییرات هم‌اکنون روی سرورهای زنده اعمال شده‌اند ولی ممکن است در آینده تغییر کنند.",
     "kind": "info"
-   },
-   "برای مشاهده دقیق تغییرات درخت استعداد Druid و Paladin از Talent Calculatorهای مربوطه استفاده کنید."
+   }
   ],
   "tags_fa": [
    "هاتفیکس",
