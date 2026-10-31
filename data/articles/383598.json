@@ -14,6 +14,7 @@
    "aesthetic",
    "all",
    "also",
+   "anchor",
    "and",
    "as",
    "base",
@@ -21,7 +22,10 @@
    "bookcase",
    "candelabra",
    "candle",
+   "candles",
+   "chair",
    "chandelier",
+   "coffee",
    "comes",
    "couch",
    "creature",
@@ -29,14 +33,18 @@
    "daytime",
    "decor",
    "decrypted",
+   "dining",
+   "display",
    "door",
    "enchanted",
    "exterior",
    "features",
    "fixtures",
+   "floor",
    "grand",
    "grimtide",
    "hall",
+   "hatch",
    "have",
    "house",
    "housing",
@@ -56,8 +64,11 @@
    "over",
    "piano",
    "roof",
+   "rug",
+   "sconce",
    "sconch",
    "servers",
+   "side",
    "small",
    "spirited",
    "spooky",
@@ -76,7 +87,7 @@
    "window",
    "with"
   ],
-  "chars": 841
+  "chars": 1297
  },
  "status": "new",
  "images": [
@@ -88,5 +99,68 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383598/1.jpg",
  "hold_reason": "G1 Persian ratio 42% < 55%",
  "hold_count": 1,
- "hold_at": "2026-10-27T15:01:54Z"
+ "hold_at": "2026-10-27T15:01:54Z",
+ "last_rejected": {
+  "title_fa": "داده‌کاوی خانه و دکور جدید Grimtide در سرورهای زنده",
+  "lead_fa": "آیتم‌های جدیدی برای بخش خانه‌سازی در سرورهای زنده رمزگشایی شده‌اند که شامل نمای خارجی Grimtide و مجموعه‌ای از دکورهای مرتبط با آن می‌شود.",
+  "body_fa": [
+   "در داده‌کاوی انجام‌شده روی سرورهای زنده، یک نمای خارجی تازه به نام Spirited Grimtide Manse کشف شده است. فضای داخلی این خانه دارای تم ترسناک است و موجودی با شاخک‌های بلند را نشان می‌دهد که بر فراز سالن اصلی شناور است.",
+   {
+    "t": "h",
+    "x": "نمای خارجی خانه"
+   },
+   "این نمای خارجی با سه فیکسچر جدید همراه است:",
+   {
+    "t": "ul",
+    "xs": [
+     "Spirited Grimtide Manse Roof",
+     "Spirited Grimtide Manse Base",
+     "Spirited Grimtide Manse Door"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "دکورهای خانه"
+   },
+   "علاوه بر نمای خارجی، مدل‌های دکور متعددی با تم Grimtide رمزگشایی شده‌اند. این موارد شامل قطعات مختلفی هستند که ظاهر spooky خانه را کامل می‌کنند.",
+   {
+    "t": "ul",
+    "xs": [
+     "Grimtide Grand Piano",
+     "Grimtide Bookcase",
+     "Grimtide Couch",
+     "Grimtide Tentacle",
+     "Grimtide Sconce",
+     "Grimtide Candelabra",
+     "Grimtide Chandelier",
+     "Grimtide Enchanted Candle",
+     "Grimtide Small Enchanted Candle",
+     "Grimtide Tall Enchanted Candle",
+     "Nighttime Grimtide Window",
+     "Daytime Grimtide Window",
+     "Grimtide Grand Table",
+     "Grimtide Coffee Table",
+     "Grimtide Dining Chair",
+     "Grimtide Floor Hatch",
+     "Grimtide Rug",
+     "Small Grimtide Rug",
+     "Grimtide Side Table",
+     "Grimtide Display Anchor"
+    ]
+   },
+   "این آیتم‌ها همگی بخشی از تم Grimtide هستند و می‌توانند برای شخصی‌سازی خانه استفاده شوند.",
+   {
+    "t": "note",
+    "x": "تم spooky این خانه با موجود شاخک‌دار و نورپردازی تاریک، گزینه‌ای مناسب برای علاقه‌مندان به ظاهر ترسناک است.",
+    "kind": "info"
+   },
+   "در حال حاضر این آیتم‌ها از طریق داده‌کاوی در دسترس قرار گرفته‌اند و جزئیات بیشتری درباره نحوه به‌دست‌آوردن آن‌ها اعلام نشده است."
+  ],
+  "tags_fa": [
+   "خانه‌سازی",
+   "Grimtide",
+   "دکور",
+   "داده‌کاوی"
+  ]
+ }
 }

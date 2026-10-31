@@ -1,8 +1,44 @@
 {
- "generated": "2026-10-31T13:47:12Z",
+ "generated": "2026-10-31T13:55:32Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383607,
+   "slug": "living-heartsbane-cauldron-mount-now-available-on-battle-net-store",
+   "title_fa": "ماونت Living Heartsbane Cauldron در فروشگاه Battle.net در دسترس قرار گرفت",
+   "lead_fa": "ماونت جدید Living Heartsbane Cauldron هم‌زمان با بسته‌های مسکن Grimtide با قیمت ۲۵ دلار در فروشگاه Battle.net عرضه شد.",
+   "body_fa": [
+    "ماونت جدیدی تحت عنوان [[item:Living Heartsbane Cauldron]] در فروشگاه Battle.net در دسترس بازیکنان قرار گرفته است. این ماونت با قیمت 25 دلار (USD) به فروش می‌رسد و عرضهٔ آن در کنار باندل‌های مسکن Grimtide انجام شده است.",
+    {
+     "t": "note",
+     "x": "این ماونت با قیمت 25 دلار آمریکا در فروشگاه بتل‌نت قابل خریداری است.",
+     "kind": "info"
+    },
+    "در توضیحات مربوط به این ماونت آمده است که سازه‌های چوبی و حصیریِ drust هم مرگبار و هم کارآمد هستند؛ در مورد Living Heartsbane Cauldron، یک ساحرهٔ زیرک می‌تواند به‌طور هم‌زمان هم معجون دم کند و هم سفر نماید.",
+    "عرضهٔ این محصول با واکنش‌ها و نظرات مختلفی از سوی کاربران در بخش دیدگاه‌ها همراه بوده است؛ از جمله کاربری که اشاره کرده از زمان عرضهٔ 12.1.5 این چهارمین یا پنجمین آیتم تزئینی پولی فروشگاه است، و بازیکنی که از سال ۲۰۰۴ مشغول تجربهٔ بازی بوده و از افزایش اقلام فروشگاهی ابراز نارضایتی کرده است."
+   ],
+   "tags_fa": [
+    "فروشگاه بتل‌نت",
+    "ماونت",
+    "اخبار وارکرفت"
+   ],
+   "items": [],
+   "title_en": "Living Heartsbane Cauldron Mount Now Available on Battle.net Store",
+   "source_url": "https://www.wowhead.com/news=383607",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383607-living-heartsbane-cauldron-mount-now-available-on-battle-net-store.html",
+   "published_at": "2026-10-31T13:53:52Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "grok-4.20-0309-non-reasoning",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383607/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383607/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383666,
    "slug": "november-traveler-s-log-bonus-reward-hot-motocross-bunmover-4600-mount",
@@ -2645,13 +2681,6 @@
    "url": "https://www.wowhead.com/news=383603",
    "category": "Live",
    "published_at": "2026-10-27T22:58:35Z"
-  },
-  {
-   "id": 383607,
-   "title_en": "Living Heartsbane Cauldron Mount Now Available on Battle.net Store",
-   "url": "https://www.wowhead.com/news=383607",
-   "category": "Live",
-   "published_at": "2026-10-27T18:00:46Z"
   },
   {
    "id": 383599,

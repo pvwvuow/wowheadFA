@@ -1,6 +1,6 @@
 {
  "day": "2026-10-31",
- "published_today": 4,
+ "published_today": 5,
  "held": {
   "383664": {
    "reason": "«World of Warcraft: Forever در سطح جهانی ۴ نوامبر ساعت ۳:۰۰ بعدازظهر PST لانچ می‌شود» — منبع می‌گوید ۴ نوامبر ساعت ۳:۰۰ p.m. PST اما «لانچ می‌شود» به جای «launches worldwide» و جمله ساختار و فعل را تغییر داده است که ادعای جدیدی اضافه می‌کند. | «World of Warcraft: Forever بازیکنان | fallback هم رد شد: «در تاریخ ۴ نوامبر رأس ساعت 3:00 p.m. PST» — منبع دقیقاً همین تاریخ و ساعت را ذکر کرده است",
@@ -71,12 +71,20 @@
    "reason": "G5 English token not in source: dispel | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
    "at": "2026-10-31T13:25:57Z",
    "at_ts": 1793453157.457469
+  },
+  "383599": {
+   "reason": "G4 numbers from source missing in article: 2026 | G5 English token not in source: izzard | G7 body: plain paragraphs must be >=40 chars",
+   "at": "2026-10-31T13:54:29Z",
+   "at_ts": 1793454869.255962
+  },
+  "383598": {
+   "reason": "G3 long English run: Grimtide Grand Piano\nGrimtide Bookcase\nGrimtide Couch\nGrimtide Tentacl...",
+   "at": "2026-10-31T13:55:17Z",
+   "at_ts": 1793454917.441361
   }
  },
- "ingest_fails": {
-  "383607": 1
- },
- "updated_at": "2026-10-31T13:27:24Z",
+ "ingest_fails": {},
+ "updated_at": "2026-10-31T13:55:17Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1968,6 +1976,46 @@
     "blocks": 0,
     "warns": 0,
     "sec": 48.9,
+    "attempts": 2
+   },
+   {
+    "id": "383607",
+    "ts": "2026-10-31T13:49:50Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 1,
+    "sec": 77.5,
+    "attempts": 2
+   },
+   {
+    "id": "383607",
+    "ts": "2026-10-31T13:53:52Z",
+    "path": "fallback",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 241.7,
+    "attempts": 1
+   },
+   {
+    "id": "383599",
+    "ts": "2026-10-31T13:54:29Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 3,
+    "warns": 0,
+    "sec": 37.1,
+    "attempts": 2
+   },
+   {
+    "id": "383598",
+    "ts": "2026-10-31T13:55:17Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 48.2,
     "attempts": 2
    }
   ]

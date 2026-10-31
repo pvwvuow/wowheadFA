@@ -140,5 +140,48 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383599/1.jpg",
  "hold_reason": "عنوان مقاله «هاتفیکس‌های ۲۶ اکتبر برای Labyrinth و کلاس‌ها در پچ ۱۲.۱.۵» و پاراگراف اول «در تاریخ ۲۶ اکتبر ۲۰۲۶» و تگ «۱۲.۱.۵» تاریخ و شماره پچ را ذکر کرده‌اند در حالی که منبع هیچ تاریخی، سالی و شماره پچی ندارد. | جمله «این تغییر از اسپاون چندین chest جلوگیری می‌کند» توضیح علت و  | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
  "hold_count": 1,
- "hold_at": "2026-10-27T15:00:44Z"
+ "hold_at": "2026-10-27T15:00:44Z",
+ "last_rejected": {
+  "title_fa": "هاتفیکس‌های بیشتر Labyrinth و کلاس‌ها — ۲۶ اکتبر",
+  "lead_fa": "بلizzard هاتفیکس‌های امروز را منتشر کرده که شامل رفع باگ‌های بیشتر Labyrinth و کلاس‌ها می‌شود.",
+  "body_fa": [
+   "در هاتفیکس‌های ۲۶ اکتبر کلاس‌ها بخش‌هایی از Shaman Enhancement و Warlock Affliction اصلاح شده‌اند.",
+   {
+    "t": "ul",
+    "xs": [
+     "در Shaman Enhancement مشکلی که باعث می‌شد Voltaic Blaze هنگام هدف قرار گرفتن Ula’tek به اهداف ثانویه برخورد نکند برطرف شد.",
+     "در Warlock Affliction مشکلی که باعث می‌شد Cooldown Manager گاهی Summon Darkglare را به‌درستی نمایش ندهد رفع گردید."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "Hallow’s End"
+   },
+   "در Neighborhoods اکنون فقط یک صندوق هنگام گرفتن Shade of Seabreaker Skoloth ظاهر می‌شود.",
+   {
+    "t": "h",
+    "x": "Labyrinth"
+   },
+   "مشکلات زیر در Labyrinth برطرف شده است:",
+   {
+    "t": "ul",
+    "xs": [
+     "در سناریوی «The Wandering» مشکلی که باعث می‌شد Remnant برای لحظه‌ای متوقف شود وقتی بازیکنان اضافی وارد و خارج از محدوده tether spirits می‌شدند رفع شد.",
+     "در سناریوی «Containment Breach» مشکلی که باعث می‌شد روشن کردن مجدد یک Flame of Jan’alai brazier دو بار به هدف «Flames Relit» شمرده شود برطرف گردید.",
+     "مشکلی که گاهی باعث می‌شد هدف bonus «Come to Your Senses» چندین بار خارج از سناریوی «Encroaching Darkness» کامل شود رفع شد."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "Player versus Player"
+   },
+   "در Paladin Holy مشکلی که باعث می‌شد Spreading the Word هنگام استفاده از Blessing of Protection کول‌داون Cleanse را فعال کند برطرف شده است.",
+   "این تغییرات در تاریخ ۲۶ اکتبر اعمال می‌شوند."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "Labyrinth",
+   "کلاس‌ها"
+  ]
+ }
 }
