@@ -17,9 +17,11 @@
    "12.1.7",
    "14",
    "15",
+   "18",
    "20",
    "2026",
    "21",
+   "23",
    "30",
    "3000",
    "333",
@@ -44,6 +46,7 @@
    "activity",
    "actual",
    "actually",
+   "ad",
    "ad-free",
    "add",
    "adding",
@@ -56,9 +59,12 @@
    "ads",
    "ads.keep",
    "adult",
+   "advertiser",
    "advertising",
    "adverts",
+   "advisit",
    "affect",
+   "after",
    "again",
    "aggregated",
    "ago",
@@ -150,6 +156,8 @@
    "browser",
    "build",
    "bunmover",
+   "business",
+   "businesses",
    "but",
    "by",
    "california",
@@ -190,6 +198,7 @@
    "collect",
    "collected",
    "collecting",
+   "colorado",
    "comes",
    "comment",
    "communication",
@@ -197,10 +206,12 @@
    "companies",
    "complete",
    "connected",
+   "connecticut",
    "consumer",
    "contact",
    "contains",
    "content",
+   "continue",
    "contribution",
    "controls",
    "converted",
@@ -232,6 +243,7 @@
    "d",
    "dailies",
    "daily",
+   "data",
    "datamined",
    "date",
    "day",
@@ -259,6 +271,7 @@
    "develop",
    "development",
    "device",
+   "devices",
    "did",
    "didn't",
    "different",
@@ -267,6 +280,7 @@
    "discord",
    "discover",
    "discovered",
+   "dnovember",
    "do",
    "doa",
    "does",
@@ -275,6 +289,7 @@
    "don't",
    "done",
    "dornogal",
+   "dover",
    "dreturning",
    "drop",
    "dropping",
@@ -337,6 +352,7 @@
    "expect",
    "expectations",
    "experience",
+   "exploit",
    "exterior",
    "eye",
    "faction-location",
@@ -362,6 +378,7 @@
    "first",
    "fishing",
    "fix",
+   "fixed",
    "flanell",
    "follow",
    "food",
@@ -412,6 +429,7 @@
    "has",
    "have",
    "having",
+   "hcould",
    "he",
    "headings",
    "hearthstone",
@@ -436,6 +454,7 @@
    "hover",
    "how",
    "however",
+   "hrepeatable",
    "https",
    "huge",
    "i",
@@ -498,6 +517,7 @@
    "lately",
    "later",
    "latest",
+   "launch",
    "launched",
    "least",
    "left",
@@ -608,6 +628,7 @@
    "no",
    "nonsense",
    "not",
+   "notice",
    "notifications",
    "november",
    "now",
@@ -670,6 +691,7 @@
    "pieces",
    "pinata",
    "place",
+   "platform",
    "played",
    "player",
    "players",
@@ -699,6 +721,7 @@
    "previous",
    "privacy",
    "probably",
+   "processing",
    "profile",
    "progress",
    "promised",
@@ -778,6 +801,7 @@
    "season",
    "season's",
    "seasonal",
+   "secret",
    "see",
    "seem",
    "seems",
@@ -801,6 +825,7 @@
    "site",
    "sites",
    "skin",
+   "skip",
    "slow",
    "small",
    "so",
@@ -825,6 +850,7 @@
    "start",
    "stated",
    "statement",
+   "states",
    "stay",
    "still",
    "stolen",
@@ -856,6 +882,7 @@
    "target",
    "targeted",
    "tasks",
+   "teasing",
    "teleported",
    "tell",
    "tequima",
@@ -929,6 +956,7 @@
    "under",
    "undercity",
    "uniquely",
+   "united",
    "until",
    "up",
    "update",
@@ -945,6 +973,7 @@
    "usprepare",
    "usually",
    "usworld",
+   "utah",
    "utilized",
    "valeera",
    "valid",
@@ -958,7 +987,9 @@
    "version",
    "very",
    "via",
+   "video",
    "viewing",
+   "virginia",
    "visit",
    "visited",
    "visitors",
@@ -970,14 +1001,17 @@
    "was",
    "wasn't",
    "waste",
+   "watching",
    "wax",
    "way",
    "we",
    "we've",
+   "weapon",
    "web",
    "webhook",
    "webhookdatabasetoolsguidescommunitygo",
    "website",
+   "websitego",
    "websites",
    "weekly",
    "weeks",
@@ -1036,10 +1070,10 @@
  "hold_at": "2026-10-27T16:43:54Z",
  "last_rejected": {
   "title_fa": "به‌روزرسانی فعالیت‌های محله زمستانی در پچ ۱۲.۱.۷",
-  "lead_fa": "دستیابی‌های جدید نشان می‌دهد که محله‌های Housing در پچ ۱۲.۱.۷ برای Winter Veil به‌روزرسانی می‌شوند و شامل فعالیت جدیدی به نام Tree Defense خواهد بود.",
+  "lead_fa": "دستیابی‌های جدید نشان می‌دهند که محله‌های خانه‌سازی در پچ ۱۲.۱.۷ برای زمستانی دریافت به‌روزرسانی خواهند شد که شامل فعالیت جدید دفاع از درخت است.",
   "body_fa": [
-   "Hallow's End نیز به‌روزرسانی‌هایی برای فعالیت‌های محله دریافت کرده است که شامل کوئست‌های روزانه و سه تم محله می‌شود. به نظر می‌رسد Winter Veil نیز به همین شکل باشد، زیرا در آخرین بیلد PTR پچ ۱۲.۱.۷ دستیابی‌های جدیدی استخراج شده که به فعالیت Tree Defense در محله اشاره دارند.",
-   "فعالیت Tree Defense شامل power-upها، موجودی به نام Rotten Pummeler، توانایی punt کردن مهاجمان درخت و وظایفی برای بازگرداندن هدایا به نظر می‌رسد. همچنین احتمالاً کوئست‌های روزانه جدیدی وجود خواهد داشت که شامل carolers و تحویل Candy Cane gifts به بازیکنان است.",
+   "هالووین اند نیز به‌روزرسانی‌هایی برای فعالیت‌های محله دریافت کرده است که شامل کوئست‌های روزانه و سه تم محله می‌شود. به نظر می‌رسد زمستانی نیز به همین شکل باشد، زیرا در آخرین بیلد PTR پچ ۱۲.۱.۷ دستیابی‌های جدیدی استخراج شده که به فعالیت «Tree Defense» در محله اشاره دارند.",
+   "فعالیت Tree Defense ظاهراً شامل power-upها، موجودی به نام Rotten Pummeler، توانایی punt کردن مهاجمان درخت و وظایفی برای بازگرداندن هدایا است. همچنین به نظر می‌رسد کوئست‌های روزانه جدیدی شامل carolers و تحویل Candy Cane gifts به بازیکنان وجود داشته باشد.",
    {
     "t": "h",
     "x": "دستیابی‌های جدید"
@@ -1047,44 +1081,79 @@
    {
     "t": "ul",
     "xs": [
-     "Bells Will Be Ringing: Join in with the neighborhood carolers by successfully ringing your bells.",
-     "Candy Cane Brigade: Deliver 12 Candy Cane gifts within the housing neighborhoods.",
-     "Master of Merry Mayhem: Use a power-up 3 times in the tree defense activity.",
-     "Season's Beatings: Get pummeled 10 times by a Rotten Pummeler during the neighborhood tree defense activity.",
-     "Sockin' Around the Winter Veil Tree: Punt 100 tree attackers during the neighborhood tree defense activity.",
-     "That's Not For You: Return Stolen Festive Presents to the neighborhood tree during the tree defense activity.",
-     "Tree-fense: Complete the neighborhood tree defense activity."
+     "Bells Will Be Ringing — با carolers محله همراه شوید و با به صدا درآوردن زنگ‌های خود موفق شوید.",
+     "Candy Cane Brigade — ۱۲ Candy Cane gift را درون محله‌های خانه‌سازی تحویل دهید.",
+     "Master of Merry Mayhem — از power-up سه بار در فعالیت دفاع از درخت استفاده کنید.",
+     "Season's Beatings — ۱۰ بار توسط Rotten Pummeler در فعالیت دفاع از درخت محله pummeled شوید.",
+     "Sockin' Around the Winter Veil Tree — ۱۰۰ مهاجم درخت را در فعالیت دفاع از درخت محله punt کنید.",
+     "That's Not For You — هدایای festive دزدیده‌شده را به درخت محله در طول فعالیت دفاع از درخت بازگردانید.",
+     "Tree-fense — فعالیت دفاع از درخت محله را کامل کنید."
     ]
    },
-   "این به‌روزرسانی هیجان‌انگیز به نظر می‌رسد و به جشن فصل تعطیلات کمک خواهد کرد. بسیاری از پاداش‌های جدید Winter Veil نیز استخراج شده‌اند که احتمالاً در دسترس خواهند بود.",
+   "این به‌روزرسانی هیجان‌انگیز به نظر می‌رسد تا فصل تعطیلات را در محله‌ها جشن بگیرد. بسیاری از پاداش‌های زمستانی جدید نیز استخراج شده‌اند که احتمالاً در دسترس خواهند بود.",
    {
     "t": "note",
-    "x": "فعالیت‌های Hallow's End شامل کوئست‌های روزانه و سه تم محله است و به نظر می‌رسد Winter Veil نیز مشابه باشد.",
+    "x": "این دستیابی‌ها و فعالیت‌ها در بیلد PTR پچ ۱۲.۱.۷ استخراج شده‌اند و ممکن است تا انتشار نهایی تغییر کنند.",
     "kind": "info"
    },
    {
+    "t": "table",
+    "head": [
+     "دستیابی",
+     "شرط"
+    ],
+    "rows": [
+     [
+      "Bells Will Be Ringing",
+      "همراهی با carolers محله"
+     ],
+     [
+      "Candy Cane Brigade",
+      "تحویل ۱۲ Candy Cane gift"
+     ],
+     [
+      "Master of Merry Mayhem",
+      "استفاده ۳ بار از power-up"
+     ],
+     [
+      "Season's Beatings",
+      "pummeled شدن ۱۰ بار توسط Rotten Pummeler"
+     ],
+     [
+      "Sockin' Around the Winter Veil Tree",
+      "punt کردن ۱۰۰ مهاجم درخت"
+     ],
+     [
+      "That's Not For You",
+      "بازگرداندن هدایای دزدیده‌شده"
+     ],
+     [
+      "Tree-fense",
+      "کامل کردن فعالیت دفاع از درخت"
+     ]
+    ]
+   },
+   "در بخش نظرات کاربران، بحث‌هایی در مورد میزان فعالیت محله‌ها مطرح شده است. مثلاً یکی از کاربران اشاره کرده که در محله خود ۷ نفر حضور دارند اما تنها ۳ نفر فعال هستند و مقدار ۳۰۰۰ برای پر کردن نوار مشارکت زیاد به نظر می‌رسد. بحث‌هایی نیز در مورد کاهش نوار به حدود ۳۳۳/۳۳۳/۳۳۳ (مجموع ۱۰۰۰) برای افزایش مشارکت وجود دارد. برخی کاربران از عدم فعالیت محله‌ها در هالووین اند (با مقادیری مانند ۱۱/۳۰۰۰ و ۱۱۷/۳۰۰۰) صحبت کرده‌اند.",
+   {
     "t": "quote",
     "x": "Glad they are implementing more holiday themed stuff in the housing zones.",
-    "by": "کاربر selkiesidhe"
+    "by": "یکی از کاربران"
    },
    {
     "t": "quote",
-    "x": "I liked what they did with Hallow's End so I'm excited to see the Christmas stuff",
-    "by": "کاربر selkiesidhe"
+    "x": "Neat, I liked what they did with Hallow's End so I'm excited to see the Christmas stuff",
+    "by": "یکی از کاربران"
    },
+   "این مطلب در تاریخ ۲۵ اکتبر ۲۰۲۶ منتشر شده و شماره مقاله ۳۸۳۵۶۲ است. برای اطلاعات بیشتر می‌توانید به اخبار هاتفیکس‌های ۳۰ اکتبر ۲۰۲۶، اخبار مربوط به ۱۸ ساعت پیش، ۲۰ ساعت پیش، ۲۱ ساعت پیش و ۲۳ ساعت پیش مراجعه کنید.",
    {
-    "t": "h",
-    "x": "بازخورد جامعه"
-   },
-   "بسیاری از بازیکنان در بخش نظرات به فعالیت neighborhood در Hallow's End اشاره کرده‌اند. برخی محله‌ها تقریباً غیرفعال هستند و بار contribution برای Hallow's End برابر ۳۰۰۰ است. پیشنهادهایی مانند کاهش آن به حدود ۳۳۳/۳۳۳/۳۳۳ (مجموع ۱۰۰۰) برای افزایش مشارکت مطرح شده است.",
-   "در اخبار مرتبط با پچ ۱۲.۱.۵ و ۱۲.۱.۷ نیز به مواردی مانند Two New Housing Exterior Customizations Discovered on 12.1.7 PTR، WoW Weekly Recap - WoW: Forever, Talebound Demo, New Shop Decor Packs و Returning to Dornogal - Patch 12.1.7 Campaign Playthrough اشاره شده است. این اخبار با شناسه ۳۸۳۵۶۲ منتشر شده‌اند.",
-   "تعداد نظرات ثبت‌شده در صفحه خبر ۱۴، ۱۵ و ۲۱ مورد بوده است.",
-   "این به‌روزرسانی‌ها بخشی از محتوای PTR پچ ۱۲.۱.۷ هستند."
+    "t": "item",
+    "id": 383562
+   }
   ],
   "tags_fa": [
-   "هاتفیکس",
-   "Winter Veil",
-   "Player Housing",
+   "زمستانی",
+   "محله‌های خانه‌سازی",
+   "پچ ۱۲.۱.۷",
    "PTR"
   ]
  }

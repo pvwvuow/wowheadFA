@@ -2,26 +2,6 @@
  "day": "2026-10-31",
  "published_today": 15,
  "held": {
-  "383598": {
-   "reason": "G3 long English run: Tables and Desks\nFloor\nSmall\nGrimtide Display Anchor\nMisc Accents\nWall... | G4 numbers from source missing in article: 26",
-   "at": "2026-10-31T17:22:16Z",
-   "at_ts": 1793467336.750162
-  },
-  "383562": {
-   "reason": "مقاله تعداد نظرات «۱۴، ۱۵ و ۲۱ مورد» را ذکر کرده در حالی که منبع هیچ عدد مشخصی برای تعداد نظرات اعلام نکرده است. | عددِ بدون منبع در مقاله: 1000 | G3 long English run: Join in with the neighborhood carolers by successfully ringing your be... | هشدار: 1",
-   "at": "2026-10-31T17:23:42Z",
-   "at_ts": 1793467422.047391
-  },
-  "383570": {
-   "reason": "مقاله تاریخ انتشار هاتفیکس‌ها را «۳۰ اکتبر ۲۰۲۶» اعلام کرده، در حالی که منبع فقط زمان انتشار ۲۳ اکتبر را دارد. | مقاله «ارجاع به پچ ۱۲.۱.۷» را به عنوان واقعیت ذکر کرده، در حالی که منبع فقط پچ ۱۲.۱.۵ را نام برده است. | مقاله تعداد دقیق کامنت‌ها (۱۴) و پاسخ‌ها (۱۵،۲۰،۲۱،۲۳) را ذکر کرده که در متن منبع وجود ندارد. | هشدار: 1",
-   "at": "2026-10-31T17:25:07Z",
-   "at_ts": 1793467507.276927
-  },
-  "383568": {
-   "reason": "مقاله ادعا می‌کند «این تغییرات در patch 12.1.5 اعمال خواهند شد» در حالی که منبع فقط می‌گوید تغییرات با نگهداری هفتگی ۲۷ اکتبر می‌رسند. | G1 Persian ratio 26% < 45% | G3 long English run: These changes are intended to help Restoration Druid deal with burst d... | هشدار: 2",
-   "at": "2026-10-31T17:26:59Z",
-   "at_ts": 1793467619.954069
-  },
   "383561": {
    "reason": "جمله آخر بدنه «در به‌روزرسانی‌های اخیر مانند ۱۲.۱.۵ و ۱۲.۱.۷ نیز تغییرات متعددی مشاهده شده است از جمله هاتفیکس‌های ۳۰ اکتبر و مسائل مربوط به چرخه روز و شب برای بازیکنان Oceanic» هیچ‌کدام از این ادعاها در منبع وجود ندارد. | G4 numbers from source missing in article: 07:00, 15, 22, | fallback هم رد شد: G4 numbers from source missing in article: 07:00, 12.1.5, 12.1.7, 15, 22, 28, 383561",
    "at": "2026-10-31T17:49:46Z",
@@ -101,10 +81,30 @@
    "reason": "G3 long English run: H Str Axe\nPledgebearer's Cuirass\nChest Mail\nGalerider's Byrnie\nChest L... | G5 English token not in source: byrnie | G5 English token not in source: chest",
    "at": "2026-10-31T20:16:04Z",
    "at_ts": 1793477764.521135
+  },
+  "383598": {
+   "reason": "جملهٔ «انتشار این آیتم‌ها در ۲۶ اکتبر اعلام شده است» در منبع وجود ندارد؛ منبع فقط تاریخ انتشار خبر دیتاماین را نشان می‌دهد و هیچ تاریخ انتشاری برای آیتم‌ها ذکر نکرده است. | fallback هم رد شد: مقاله تاریخ «در ۲۶ اکتبر» را ذکر کرده در حالی که منبع هیچ تاریخی در متن اصلی ندارد.",
+   "at": "2026-10-31T20:39:35Z",
+   "at_ts": 1793479175.138774
+  },
+  "383562": {
+   "reason": "عددِ بدون منبع در مقاله: 1000 | G3 long English run: Glad they are implementing more holiday themed stuff in the housing zo... | G3 long English run: I liked what they did with Hallow's End so I'm excited to see the Chri... | هشدار: 2",
+   "at": "2026-10-31T20:43:05Z",
+   "at_ts": 1793479385.784188
+  },
+  "383570": {
+   "reason": "مقاله ادعا کرده هاتفیکس‌ها در ۳۰ اکتبر ۲۰۲۶ منتشر شده‌اند در حالی که منبع پست را ۲۳ اکتبر ۲۰۲۶ تاریخ‌گذاری کرده است. | مقاله گفته «شامل رفع مشکلاتی در پچ ۱۲٫۱٫۷ نیز هستند» در حالی که منبع فقط به پچ ۱۲٫۱٫۵ اشاره دارد. | مقاله تعداد کامنت‌ها را «۱۴ و ۱۵ و ۱۸ و ۲۰ و ۲۱ و ۲۳» اعلام کرده که در منبع وجود ندارد.",
+   "at": "2026-10-31T20:44:18Z",
+   "at_ts": 1793479458.605159
+  },
+  "383568": {
+   "reason": "مقاله در بدنه ادعا می‌کند «۱٫۱۴ × ۰٫۹۲ = ۱٫۰۴۸۸ (معادل ۴٫۸۸٪ buff خالص)» که در منبع اصلی وجود ندارد. | مقاله در بدنه به «World of Warcraft: Forever Goes Live Globally November 4!» و «Returning to Dornogal - Patch 12.1.7» اشاره کرده که در متن خبر منبع نیست. | عددِ بدون منبع در مقاله: 0.92 | هشدار: 1",
+   "at": "2026-10-31T20:45:29Z",
+   "at_ts": 1793479529.797447
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-31T20:16:04Z",
+ "updated_at": "2026-10-31T20:45:29Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -2526,6 +2526,56 @@
     "blocks": 6,
     "warns": 0,
     "sec": 65.0,
+    "attempts": 2
+   },
+   {
+    "id": "383598",
+    "ts": "2026-10-31T20:39:35Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 108.7,
+    "attempts": 2
+   },
+   {
+    "id": "383598",
+    "ts": "2026-10-31T20:41:32Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 117.3,
+    "attempts": 1
+   },
+   {
+    "id": "383562",
+    "ts": "2026-10-31T20:43:05Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 2,
+    "sec": 93.1,
+    "attempts": 2
+   },
+   {
+    "id": "383570",
+    "ts": "2026-10-31T20:44:18Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 5,
+    "warns": 0,
+    "sec": 72.8,
+    "attempts": 2
+   },
+   {
+    "id": "383568",
+    "ts": "2026-10-31T20:45:29Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 18,
+    "warns": 1,
+    "sec": 71.2,
     "attempts": 2
    }
   ]

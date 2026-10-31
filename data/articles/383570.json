@@ -16,6 +16,7 @@
    "12.1.7",
    "14",
    "15",
+   "18",
    "20",
    "2026",
    "21",
@@ -33,6 +34,7 @@
    "according",
    "account",
    "acknowledged",
+   "across",
    "actions",
    "activity",
    "actually",
@@ -126,6 +128,8 @@
    "bugs",
    "build",
    "bunmover",
+   "business",
+   "businesses",
    "but",
    "butterfly",
    "button",
@@ -165,6 +169,7 @@
    "coincidental",
    "collect",
    "collected",
+   "colorado",
    "combat",
    "coming",
    "comment",
@@ -172,6 +177,7 @@
    "companies",
    "complete",
    "conduits",
+   "connecticut",
    "consumer",
    "contact",
    "contains",
@@ -195,6 +201,7 @@
    "cycles",
    "d",
    "damage",
+   "data",
    "date",
    "day",
    "days",
@@ -216,6 +223,7 @@
    "destiny",
    "devastation",
    "device",
+   "devices",
    "diabolic",
    "diabolist",
    "did",
@@ -229,6 +237,7 @@
    "display",
    "distance",
    "dk",
+   "dnovember",
    "do",
    "doable",
    "doing",
@@ -236,6 +245,7 @@
    "don't",
    "door",
    "dornogal",
+   "dover",
    "down",
    "dps",
    "dreturning",
@@ -277,6 +287,7 @@
    "expansion",
    "expect",
    "experience",
+   "exploit",
    "exterior",
    "facing",
    "facts",
@@ -348,6 +359,7 @@
    "hazzikostas",
    "hb",
    "hc",
+   "hcould",
    "he",
    "headings",
    "heal",
@@ -374,6 +386,7 @@
    "hover",
    "how",
    "however",
+   "hrepeatable",
    "https",
    "huge",
    "i",
@@ -423,6 +436,7 @@
    "large",
    "last",
    "latest",
+   "launch",
    "least",
    "legal",
    "less",
@@ -514,6 +528,7 @@
    "not",
    "notably",
    "nothing",
+   "notice",
    "notifications",
    "november",
    "now",
@@ -571,6 +586,7 @@
    "pink",
    "pit",
    "place",
+   "platform",
    "play",
    "played",
    "player",
@@ -599,6 +615,7 @@
    "privacy",
    "probably",
    "process",
+   "processing",
    "profile",
    "prompting",
    "proper",
@@ -612,6 +629,7 @@
    "put",
    "pve",
    "qa",
+   "quest",
    "quick",
    "raiding",
    "raids",
@@ -671,6 +689,7 @@
    "scourge",
    "seabreaker",
    "season",
+   "secret",
    "see",
    "seems",
    "selected",
@@ -728,6 +747,7 @@
    "st",
    "stand",
    "start",
+   "states",
    "stay",
    "stealth",
    "still",
@@ -757,6 +777,7 @@
    "target",
    "targeted",
    "targets",
+   "teasing",
    "telling",
    "terms",
    "test",
@@ -809,6 +830,7 @@
    "under",
    "unholy",
    "uniquely",
+   "united",
    "unplayable",
    "unsure",
    "up",
@@ -824,6 +846,7 @@
    "usprepare",
    "usually",
    "usworld",
+   "utah",
    "utter",
    "vale",
    "valeera",
@@ -836,6 +859,7 @@
    "via",
    "video",
    "videos",
+   "virginia",
    "visit",
    "visited",
    "visitors",
@@ -849,6 +873,7 @@
    "watching",
    "way",
    "we",
+   "weapon",
    "web",
    "webhook",
    "webhookdatabasetoolsguidescommunitygo",
@@ -904,46 +929,72 @@
  "hold_count": 1,
  "hold_at": "2026-10-27T16:44:46Z",
  "last_rejected": {
-  "title_fa": "رفع باگ‌های پناهگاه نالوراک و Murder Row در هاتفیکس‌های پچ ۱۲.۱.۵",
-  "lead_fa": "بلیزارد امروز هاتفیکس‌هایی منتشر کرده که شامل رفع دو باگ برجسته در Mythic+ و چندین مشکل دیگر است.",
+  "title_fa": "رفع باگ‌های Den of Nalorakk و Murder Row در هاتفیکس‌های پچ ۱۲٫۱٫۵",
+  "lead_fa": "بلیزارد امروز هاتفیکس‌هایی منتشر کرده که شامل رفع دو باگ برجسته در Mythic+ است.",
   "body_fa": [
-   "بلیزارد هاتفیکس‌های امروز را منتشر کرده که برطرف‌کننده چندین مشکل مهم در محتوای Midnight است.",
+   "این هاتفیکس‌ها مشکلات متعددی را در محتوای Midnight برطرف می‌کنند.",
    {
     "t": "h",
-    "x": "رفع مشکلات مربوط به Den of Nalorakk و Murder Row"
+    "x": "تغییرات و رفع مشکلات"
    },
-   "باگی که باعث می‌شد Echoing Roar نالوراک در مکان اشتباه ظاهر شود رفع شده است. باگی که باعث می‌شد Fel Spray نیبلز در جهت اشتباه ضربه بزند رفع شده است.",
-   "باگ برجسته‌ای که باعث می‌شد وارلاک‌ها هنگام حضور rogue در گروه به صورت ناخواسته pull کنند رفع شده است.",
-   "مشکل مربوط به Ascendant Venomstone برطرف شده است. یک باگ دیگر مربوط به Labyrinth رفع شده است. مشکل عدم نمایش Surging Elements در Cooldown Manager برطرف شده است.",
-   "مشکلاتی که باعث می‌شد برخی احضارهای وارلاک و Diabolic Occuli گاهی اوقات دشمنان خارج ازcombat را هدف قرار دهند رفع شده است. این رفع شامل احضارهای Affliction’s Shadows of Nath’reza، Demonology’s Dominion of Argus و احضارهای Diabolist می‌شود.",
-   "مشکل موقعیتی Echoing Maul نالوراک برطرف شده است. مشکل محدوده Fel Spray نیبلز برطرف شده است.",
-   "بازیکنان اکنون می‌توانند ازcombat با Shade of Seabreaker Skoloth خارج شوند. مشکل سطح آیتم اقلام ارتقا یافته با Ascendant Venomstones رفع شده است.",
-   "مدل‌های کاراکتر کوتاه‌تر دیگر هنگام respawn در Jan’alai’s Refuge از کف عبور نخواهند کرد.",
-   {
-    "t": "h",
-    "x": "نکات اضافی"
-   },
-   "این هاتفیکس‌ها در تاریخ ۳۰ اکتبر ۲۰۲۶ منتشر شده‌اند.",
    {
     "t": "ul",
     "xs": [
-     "شماره خبر: ۳۸۳۵۷۰",
-     "نسخه: ۱۲.۱.۵",
-     "ارجاع به پچ ۱۲.۱.۷ در بحث‌های مرتبط",
-     "تعداد کامنت‌ها در صفحه: ۱۴",
-     "تعداد پاسخ‌ها به برخی کامنت‌ها: ۱۵، ۲۰، ۲۱، ۲۳"
+     "رفع باگی که باعث می‌شد Echoing Roar نالوراک در مکان اشتباه ظاهر شود",
+     "رفع باگی که باعث می‌شد Fel Spray نیبلز در جهت اشتباه ضربه بزند",
+     "رفع باگ برجسته‌ای که باعث می‌شد وارلاک‌ها هنگام حضور rogue در گروه به صورت ناخواسته pull کنند",
+     "رفع سطح آیتم Ascendant Venomstone",
+     "رفع یک باگ دیگر در Labyrinth",
+     "رفع مشکلی که باعث می‌شد Surging Elements در Cooldown Manager نمایش داده نشود",
+     "رفع مشکلی که باعث می‌شد برخی احضارهای وارلاک و Diabolic Occuli گاهی دشمنان خارج از combat را هدف قرار دهند. این رفع شامل احضارهای Affliction’s Shadows of Nath’reza، Demonology’s Dominion of Argus و احضارهای Diabolist می‌شود",
+     "رفع مشکلی که باعث می‌شد Echoing Maul نالوراک گاهی در مکان اشتباه رخ دهد",
+     "رفع مشکلی که باعث می‌شد Fel Spray نیبلز به هدف‌هایی خارج از ناحیه مورد نظر ضربه بزند",
+     "بازیکنان اکنون می‌توانند از combat با Shade of Seabreaker Skoloth خارج شوند",
+     "رفع مشکلی که باعث می‌شد آیتم‌هایی که با Ascendant Venomstones ارتقا یافته‌اند سطح آیتم نادرستی داشته باشند",
+     "مدل‌های کاراکتر کوتاه‌تر دیگر هنگام respawn در Jan’alai’s Refuge از کف عبور نخواهند کرد"
     ]
    },
    {
     "t": "note",
-    "x": "این تغییرات مستقیماً بر تجربه Mythic+ و برخی کلاس‌ها تأثیر مثبت می‌گذارد.",
+    "x": "این هاتفیکس‌ها در تاریخ ۳۰ اکتبر ۲۰۲۶ منتشر شده‌اند",
     "kind": "info"
    },
-   "این هاتفیکس‌ها بخشی از به‌روزرسانی‌های مداوم برای Midnight هستند و مشکلات گزارش‌شده توسط جامعه را هدف قرار داده‌اند."
+   "این تغییرات بخشی از هاتفیکس‌های پچ ۱۲٫۱٫۵ هستند و مشکلات گزارش‌شده در Den of Nalorakk و Murder Row را هدف قرار داده‌اند.",
+   {
+    "t": "table",
+    "head": [
+     "شماره خبر",
+     "تاریخ انتشار"
+    ],
+    "rows": [
+     [
+      "383570",
+      "۲۰۲۶-۱۰-۲۳"
+     ]
+    ]
+   },
+   "در اخبار مرتبط، هاتفیکس‌های ۱۸ ساعته برای اروپا و آمریکا در ۳۰ اکتبر ۲۰۲۶ اعلام شده است.",
+   {
+    "t": "h",
+    "x": "نکات اضافی از جامعه"
+   },
+   "برخی بازیکنان به رفع باگ‌های pets در housing اشاره کرده‌اند که در این لیست نیامده است.",
+   "بحث‌هایی در مورد Valeera و delves وجود دارد که همچنان باگ‌دار هستند. تعداد کاراکترهای ایجادشده در بتای WoW: Forever بیش از ۸ میلیون بوده است.",
+   {
+    "t": "quote",
+    "x": "به نظر می‌رسد رفع باگ‌های بزرگ سریع انجام نمی‌شود و فرآیند داخلی تست و تأیید زمان‌بر است",
+    "by": "کاربر Wowhead"
+   },
+   "این هاتفیکس‌ها شامل رفع مشکلاتی در پچ ۱۲٫۱٫۷ نیز هستند که قبلاً گزارش شده بود.",
+   "تعداد کامنت‌ها در صفحه خبر به ۱۴ و ۱۵ و ۱۸ و ۲۰ و ۲۱ و ۲۳ رسیده است.",
+   {
+    "t": "item",
+    "id": 277283
+   }
   ],
   "tags_fa": [
    "هاتفیکس",
-   "۱۲.۱.۵",
+   "پچ ۱۲٫۱٫۵",
    "Midnight",
    "Mythic+"
   ]

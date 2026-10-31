@@ -180,27 +180,16 @@
  "hold_at": "2026-10-27T15:01:54Z",
  "last_rejected": {
   "title_fa": "دیتاماین خانه و دکور جدید Grimtide",
-  "lead_fa": "آیتم‌های جدید خانه‌سازی روی سرورهای زنده رمزگشایی شده‌اند و یک نمای خارجی Grimtide Manse به همراه چندین دکور Grimtide-themed دیتاماین شده است.",
+  "lead_fa": "آیتم‌های جدید خانه‌سازی روی سرورهای زنده رمزگشایی شده‌اند و دیتاماین‌ها یک نمای خارجی جدید Grimtide Manse و چندین دکور مرتبط را نشان می‌دهند.",
   "body_fa": [
-   "در به‌روزرسانی اخیر، یک نمای خارجی جدید به نام Spirited Grimtide Manse دیتاماین شده است. داخل این خانه دارای تم ترسناک است که شامل موجودی با شاخک‌های معلق بر فراز سالن بزرگ می‌شود.",
-   {
-    "t": "h",
-    "x": "لوازم جانبی جدید"
-   },
+   "در به‌روزرسانی اخیر سرورهای زنده، یک نمای خارجی جدید برای خانه‌ها دیتاماین شده است: Spirited Grimtide Manse.",
+   "داخل این خانه دارای تم ترسناک است که شامل یک موجود شاخک‌دار شناور بر فراز سالن بزرگ می‌شود.",
    "این نمای خارجی با سه فیکسچر جدید همراه است.",
    {
-    "t": "ul",
-    "xs": [
-     "Grimtide Coffee Table",
-     "Grimtide Dining Chair",
-     "Grimtide Floor Hatch"
-    ]
-   },
-   {
     "t": "h",
-    "x": "دکورهای جدید"
+    "x": "دکورهای جدید Grimtide"
    },
-   "علاوه بر این، چندین مدل دکور خانه‌سازی جدید دیتاماین شده که همه آن‌ها نیز تم Grimtide دارند. این موارد شامل موارد زیر هستند:",
+   "چندین مدل دکور خانه‌سازی جدید نیز رمزگشایی شده‌اند که همه آن‌ها تم Grimtide دارند.",
    {
     "t": "table",
     "head": [
@@ -213,66 +202,66 @@
      [
       "Grimtide Coffee Table",
       "Furnishings - Tables and Desks",
-      "Floor",
+      "Indoors, Outdoors",
       "Medium"
      ],
      [
       "Grimtide Dining Chair",
       "Furnishings - Seating",
-      "Floor",
+      "Indoors, Outdoors",
       "Medium"
      ],
      [
       "Grimtide Floor Hatch",
       "Accents - Floor",
-      "Floor",
+      "Indoors, Outdoors",
       "Medium"
      ],
      [
       "Grimtide Rug",
       "Accents - Floor",
-      "Floor",
+      "Indoors, Outdoors",
       "Large"
      ],
      [
       "Small Grimtide Rug",
       "Accents - Floor",
-      "Floor",
+      "Indoors, Outdoors",
       "Medium"
      ],
      [
       "Grimtide Side Table",
       "Furnishings - Tables and Desks",
-      "Floor",
+      "Indoors, Outdoors",
       "Small"
      ],
      [
       "Grimtide Display Anchor",
       "Misc Accents",
-      "Wall",
+      "Indoors, Outdoors",
       "Large"
      ],
      [
       "Grimtide Enchanted Candles",
       "Misc Lighting",
-      "Floor",
+      "Indoors, Outdoors",
       "Tiny"
      ]
     ]
    },
    {
     "t": "note",
-    "x": "همه این آیتم‌ها در گسترش Midnight قابل دسترسی هستند و قابل رنگ‌آمیزی نیستند.",
+    "x": "همه این آیتم‌ها Shop Item هستند و در گسترش Midnight عرضه می‌شوند.",
     "kind": "info"
    },
-   "این خبر در مقاله شماره ۳۸۳۵۹۸ منتشر شده است.",
-   "منبع: Squishei — World of Warcraft Retail Content Manager"
+   "این تغییرات در خبر شماره ۳۸۳۵۹۸ منتشر شده است.",
+   "انتشار این آیتم‌ها در ۲۶ اکتبر اعلام شده است."
   ],
   "tags_fa": [
    "خانه سازی",
    "Grimtide",
-   "Midnight",
-   "دیتاماین"
+   "دکور",
+   "Midnight"
   ]
  }
 }

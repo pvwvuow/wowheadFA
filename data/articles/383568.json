@@ -18,6 +18,7 @@
    "12.1.7",
    "14",
    "15",
+   "18",
    "20",
    "2026",
    "21",
@@ -44,6 +45,7 @@
    "abyss",
    "according",
    "account",
+   "across",
    "actions",
    "activated",
    "activity",
@@ -146,6 +148,8 @@
    "build",
    "bunmover",
    "burst",
+   "business",
+   "businesses",
    "but",
    "buttons",
    "by",
@@ -188,6 +192,7 @@
    "collapsing",
    "collect",
    "collected",
+   "colorado",
    "combat",
    "comment",
    "community",
@@ -195,6 +200,7 @@
    "compensation",
    "competitive",
    "conduit",
+   "connecticut",
    "consecutive",
    "considered",
    "considering",
@@ -223,6 +229,7 @@
    "damage",
    "dark",
    "darkest",
+   "data",
    "date",
    "day",
    "days",
@@ -250,6 +257,7 @@
    "developer's",
    "developers",
    "device",
+   "devices",
    "devourer",
    "devs",
    "did",
@@ -262,6 +270,7 @@
    "discover",
    "discovered",
    "divine",
+   "dnovember",
    "do",
    "does",
    "doing",
@@ -269,6 +278,7 @@
    "done",
    "dont",
    "dornogal",
+   "dover",
    "down",
    "dps",
    "dreturning",
@@ -315,6 +325,7 @@
    "expectations",
    "expected",
    "experience",
+   "exploit",
    "explosive",
    "exterior",
    "facts",
@@ -337,6 +348,7 @@
    "first",
    "fix",
    "fix+buff",
+   "fixed",
    "flame",
    "flash",
    "follow",
@@ -381,6 +393,7 @@
    "hasnt",
    "hate",
    "have",
+   "hcould",
    "he",
    "headings",
    "heal",
@@ -405,6 +418,7 @@
    "hover",
    "how",
    "however",
+   "hrepeatable",
    "https",
    "hunt",
    "hunter",
@@ -456,6 +470,7 @@
    "know",
    "last",
    "latest",
+   "launch",
    "leading",
    "least",
    "left",
@@ -533,6 +548,7 @@
    "much",
    "my",
    "mythic",
+   "name",
    "nearly",
    "necessary",
    "nerf",
@@ -550,6 +566,7 @@
    "note",
    "notes",
    "nothing",
+   "notice",
    "notifications",
    "november",
    "now",
@@ -604,6 +621,7 @@
    "personalized",
    "personally",
    "pieces",
+   "platform",
    "play",
    "played",
    "player",
@@ -634,6 +652,7 @@
    "prob",
    "probably",
    "proc",
+   "processing",
    "profile",
    "promote",
    "prompting",
@@ -647,6 +666,7 @@
    "pve",
    "pvp",
    "pyroblast",
+   "quest",
    "raid",
    "raiding",
    "raids",
@@ -689,6 +709,7 @@
    "rogue's",
    "rolling",
    "rolls",
+   "rows",
    "s",
    "sad",
    "sadly",
@@ -699,6 +720,7 @@
    "season",
    "second",
    "seconds",
+   "secret",
    "see",
    "sell",
    "service",
@@ -744,6 +766,7 @@
    "stack",
    "star",
    "starfall",
+   "states",
    "stay",
    "still",
    "store",
@@ -780,6 +803,7 @@
    "target",
    "targeted",
    "targeting",
+   "teasing",
    "terms",
    "terrible",
    "than",
@@ -838,6 +862,7 @@
    "unfortunate",
    "unholy",
    "uniquely",
+   "united",
    "unlike",
    "unstable",
    "up",
@@ -856,6 +881,7 @@
    "usprepare",
    "usually",
    "usworld",
+   "utah",
    "valid",
    "vampiric",
    "venomous",
@@ -867,6 +893,7 @@
    "via",
    "viability",
    "video",
+   "virginia",
    "visit",
    "visited",
    "visitors",
@@ -882,6 +909,7 @@
    "way",
    "we",
    "we're",
+   "weapon",
    "web",
    "webhook",
    "webhookdatabasetoolsguidescommunitygo",
@@ -936,52 +964,47 @@
  "hold_at": "2026-10-27T17:06:04Z",
  "last_rejected": {
   "title_fa": "تنظیمات کلاس با ریست هفتگی: nerf Subtlety Rogue و buff Feral Druid",
-  "lead_fa": "بلizzard تنظیمات کلاس جدیدی اعلام کرده که شامل buff برای Feral Druid و nerf برای Subtlety Rogue می‌شود. این تغییرات با نگهداری هفتگی برنامه‌ریزی‌شده در ۲۷ اکتبر اعمال خواهند شد.",
+  "lead_fa": "بلizzard تنظیمات کلاس جدیدی اعلام کرده که شامل buff برای Feral Druid و nerf برای Subtlety Rogue است. این تغییرات با نگهداری هفتگی ۲۷ اکتبر اعمال می‌شوند.",
   "body_fa": [
-   "بلizzard اعلام کرده که تنظیمات کلاس بعدی با نگهداری هفتگی (۲۷ اکتبر در این منطقه) وارد بازی می‌شود. این به‌روزرسانی شامل buff برای Restoration Druid، Marksmanship Hunter، Affliction Warlock، Destruction Warlock، San’layn، Chronowarden، Survival Hunter، Marksmanship Hunter، Frostfire، Conduit of the Celestials، Holy Paladin، Archon، Deathstalker و Healing Stream Totem و Stormstream Totem است و nerf برای Subtlety Rogue و Fire Mage. تغییرات Restoration Druid",
-   "All damage done افزایش ۵٪. این تغییر PvP را تحت تأثیر قرار نمی‌دهد. Developer’s note: These changes are intended to help Restoration Druid deal with burst damage in dungeons, as they are behind other healers. They are performing well in raid settings, so we are targeting talents and abilities that are favored when healing a 5-person group. Verdancy healing افزایش ۶۰٪. این تغییر PvP را تحت تأثیر قرار نمی‌دهد. Regrowth healing افزایش ۱۰٪. این تغییر PvP را تحت تأثیر قرار نمی‌دهد. Improved Swiftmend افزایش Swiftmend healing به ۴۰٪ (قبلاً ۳۰٪). این تغییر PvP را تحت تأثیر قرار نمی‌دهد.",
+   "بلizzard اعلام کرده تنظیمات کلاس بعدی با نگهداری هفتگی منطقه (۲۷ اکتبر) وارد بازی می‌شود. این به‌روزرسانی شامل تغییراتی برای Druid، Hunter، Rogue، Warlock، Death Knight، Mage، Monk، Paladin، Priest و Shaman است. تغییرات Druid All damage done increased by 5%. Does not affect PvP combat. Developer’s note: These changes are intended to help Restoration Druid deal with burst damage in dungeons, as they are behind other healers. They are performing well in raid settings, so we are targeting talents and abilities that are favored when healing a 5-person group. Verdancy healing increased by 60%. Does not affect PvP combat. Regrowth healing increased by 10%. Does not affect PvP combat. Improved Swiftmend increases Swiftmend healing by 40% (was 30%). Does not affect PvP combat.",
    {
     "t": "h",
-    "x": "تغییرات Marksmanship Hunter"
+    "x": "تغییرات Hunter"
    },
-   "Developer’s notes: These changes are intended to boost the area damage effectiveness of Marksmanship Hunters. Trick Shots اکنون ricochet damage از Aimed Shot و Rapid Fire را ۸۵٪ افزایش می‌دهد (قبلاً ۷۵٪). Explosive Shot damage افزایش ۱۰٪. تغییرات Subtlety Rogue All damage done افزایش ۵٪. این تغییر PvP را تحت تأثیر قرار نمی‌دهد. Developer’s notes: The buff Subtlety received as compensation alongside changes in the 12.1.5 patch overshot expectations, so we’re rolling back a significant portion of that buff. In addition, the patch changes benefitted Trickster more than Deathstalker, so Trickster is receiving an additional smaller nerf. Trickster: Fazed اکنون damage را ۵٪ افزایش می‌دهد (قبلاً ۷٪).",
+   "Developers’ notes: These changes are intended to boost the area damage effectiveness of Marksmanship Hunters. Trick Shots now increases the ricochet damage of Aimed Shot and Rapid Fire by 85% (was 75%). Explosive Shot damage increased by 10%. تغییرات Rogue",
+   "All damage done increased by 5%. Does not affect PvP combat. Developers’ notes: The buff Subtlety received as compensation alongside changes in the 12.1.5 patch overshot expectations, so we’re rolling back a significant portion of that buff. In addition, the patch changes benefitted Trickster more than Deathstalker, so Trickster is receiving an additional smaller nerf. Trickster: Fazed now increases damage by 5% (was 7%). تغییرات Warlock Unstable Affliction damage increased by 20%. Does not affect PvP combat. Rain of Fire damage increased by 20%.",
    {
     "t": "h",
-    "x": "تغییرات Affliction Warlock و Destruction Warlock"
+    "x": "تغییرات Death Knight"
    },
-   "Unstable Affliction damage افزایش ۲۰٪. این تغییر PvP را تحت تأثیر قرار نمی‌دهد. Rain of Fire damage افزایش ۲۰٪. تغییرات San’layn Developer’s notes: The last adjustments to San’layn did increase its viability, but the impact of Vampiric Strike has been higher than we would like. San’layn: Vampiric Strike damage کاهش ۲۰٪ در PvP combat. Collapsing Star damage افزایش ۲۰٪ در PvP combat. تغییرات Chronowarden Chronowarden: Chronal Dynamo افزایش healing و damage از Living Flame به ۸۰٪ وقتی instant cast نیست در PvP combat (قبلاً ۵۰٪). Chronowarden: Reverberations اکنون Verdant Embrace را باعث می‌شود ۸۰٪ اضافی طی ۸ ثانیه heal کند در PvP combat (قبلاً ۴۰٪).",
+   "Developers’ notes: The last adjustments to San’layn did increase its viability, but the impact of Vampiric Strike has been higher than we would like. San’layn: Vampiric Strike damage reduced by 20% in PvP combat. Collapsing Star damage increased by 20% in PvP combat. تغییرات Mage Developers’ notes: Fire Mage has continued to overperform, so we’re decreasing its overall damage to bring it in line with expectations. All damage reduced by 5% in PvP combat. Developers’ notes: Frostfire has not been a competitive option for Frost Mages this season, so we’re increasing a few of its burst damage aspects to differentiate its damage profile from Spellslinger. Frostfire: Isothermic Core’s Meteor damage increased by 20% in PvP combat. Frostfire: Duality’s Pyroblast damage increased by 20% in PvP combat. تغییرات Monk Developers’ notes: Conduit of the Celestials has not been a competitive option for Mistweavers this season, so we’re increasing its consistent and burst healing. Conduit of the Celestials: Celestial Conduit healing increased by 35% in PvP combat. Conduit of the Celestials: Strength of the Black Ox absorb increased by 25% in PvP combat.",
    {
     "t": "h",
-    "x": "تغییرات Survival Hunter و Marksmanship Hunter"
+    "x": "تغییرات Paladin"
    },
-   "Kill Shot damage افزایش ۴۰٪ در PvP combat. Deathblow’s chance to be activated by Aimed Shot افزایش به ۲۵٪ در PvP combat. Dark Ranger: Black Arrow damage افزایش ۴۰٪ در PvP combat. تغییرات Fire Mage Developer’s notes: Fire Mage has continued to overperform, so we’re decreasing its overall damage to bring it in line with expectations. All damage کاهش ۵٪ در PvP combat. تغییرات Frostfire Developer’s notes: Frostfire has not been a competitive option for Frost Mages this season, so we’re increasing a few of its burst damage aspects to differentiate its damage profile from Spellslinger. Frostfire: Isothermic Core’s Meteor damage افزایش ۲۰٪ در PvP combat. Frostfire: Duality’s Pyroblast damage افزایش ۲۰٪ در PvP combat.",
+   "Developers’ notes: Holy Paladin’s throughput has been underperforming and we’re decreasing the mana cost of Holy Light to promote casted healing. All healing increased by 5% in PvP combat. Divine Favor now reduces the mana cost of Holy Light by 50% in PvP combat (was 30%).",
    {
     "t": "h",
-    "x": "تغییرات Conduit of the Celestials"
+    "x": "تغییرات Priest"
    },
-   "Developer’s notes: Conduit of the Celestials has not been a competitive option for Mistweavers this season, so we’re increasing its consistent and burst healing. Conduit of the Celestials: Celestial Conduit healing افزایش ۳۵٪ در PvP combat. Conduit of the Celestials: Strength of the Black Ox absorb افزایش ۲۵٪ در PvP combat. تغییرات Holy Paladin Developer’s notes: Holy Paladin’s throughput has been underperforming and we’re decreasing the mana cost of Holy Light to promote casted healing. All healing افزایش ۵٪ در PvP combat. Divine Favor اکنون mana cost از Holy Light را ۵۰٪ کاهش می‌دهد در PvP combat (قبلاً ۳۰٪). تغییرات Archon Developer’s notes: These changes are aimed at further improving Archon’s viability in PvP with targeted increases to Prayer of Healing’s group healing and the power of proc effects from the tree. Prayerful Litany اکنون باعث می‌شود primary target از Prayer of Healing ۷۵٪ بیشتر heal شود در PvP combat (قبلاً ۱۲۵٪). Prayer of Healing healing افزایش ۳۰٪ در PvP combat. Archon: Resonant Energy اکنون healing done را ۴٪ به ازای هر stack افزایش می‌دهد در PvP combat (قبلاً ۲٪). Archon: Empowered Surges اکنون healing از spellهایی که تحت تأثیر Surge of Light هستند را ۱۰٪ افزایش می‌دهد در PvP combat (قبلاً ۵٪). Archon: Realized Potential اکنون Flash Heal healing را ۲۵٪ افزایش می‌دهد در PvP combat (قبلاً ۲۰٪). تغییرات Deathstalker Deathstalker: Deathstalker’s Mark damage افزایش ۲۰٪ در PvP combat. Deathstalker: Hunt Them Down damage افزایش ۲۰٪ در PvP combat. Deathstalker: Darkest Night اکنون damage از Eviscerate بعدی را ۱۵٪ افزایش می‌دهد در PvP combat (قبلاً ۸٪). تغییرات Shaman Healing Stream Totem و Stormstream Totem healing افزایش ۲۰٪ در PvP combat.",
+   "Developers’ notes: These changes are aimed at further improving Archon’s viability in PvP with targeted increases to Prayer of Healing’s group healing and the power of proc effects from the tree. Prayerful Litany now causes the primary target of Prayer of Healing to be healed for 75% more in PvP combat (was 125%). Prayer of Healing healing increased by 30% in PvP combat. Archon: Resonant Energy now increases healing done by 4% per stack in PvP combat (was 2%). Archon: Empowered Surges now increases the healing of spells affected by Surge of Light by 10% in PvP combat (was 5%). Archon: Realized Potential now increases Flash Heal healing by 25% in PvP combat (was 20%).",
    {
-    "t": "quote",
-    "x": "The buff Subtlety received as compensation alongside changes in the 12.1.5 patch overshot expectations, so we’re rolling back a significant portion of that buff. In addition, the patch changes benefitted Trickster more than Deathstalker, so Trickster is receiving an additional smaller nerf.",
-    "by": "Blizzard"
+    "t": "h",
+    "x": "تغییرات Rogue (Deathstalker)"
    },
-   {
-    "t": "quote",
-    "x": "These changes are intended to help Restoration Druid deal with burst damage in dungeons, as they are behind other healers. They are performing well in raid settings, so we are targeting talents and abilities that are favored when healing a 5-person group.",
-    "by": "Blizzard"
-   },
+   "Deathstalker: Deathstalker’s Mark damage increased by 20% in PvP combat. Deathstalker: Hunt Them Down damage increased by 20% in PvP combat. Deathstalker: Darkest Night now increases the damage of the next Eviscerate by 15% in PvP combat (was 8%). تغییرات Shaman Healing Stream Totem and Stormstream Totem healing increased by 20% in PvP combat.",
    {
     "t": "note",
-    "x": "این تنظیمات فقط در Combat PvE و PvP اعمال می‌شوند و برخی از آن‌ها PvP را تحت تأثیر قرار نمی‌دهند.",
+    "x": "این تنظیمات در Patch 12.1.5 اعمال می‌شود و توسعه‌دهندگان اشاره کرده‌اند که buff قبلی Subtlety بیش از حد انتظار بوده است.",
     "kind": "info"
    },
-   "این تغییرات در patch 12.1.5 اعمال خواهند شد و بحث‌هایی در جامعه ایجاد کرده است. برخی بازیکنان محاسباتی مانند 1.14 * .92 = 1.0488 یا 4.88% buff خالص را مطرح کرده‌اند. کلاس تغییر Feral Druid All damage done +5% Subtlety Rogue Trickster Fazed 5% (was 7%) Fire Mage All damage -5% in PvP این خبر با شماره 383568 در سال ۲۰۲۶ منتشر شده است."
+   "در بخش نظرات کاربران به محاسباتی مانند ۱٫۱۴ × ۰٫۹۲ = ۱٫۰۴۸۸ (معادل ۴٫۸۸٪ buff خالص) اشاره شده است. تاریخ انتشار شماره خبر ۲۰۲۶ ۳۸۳۵۶۸ این تغییرات بخشی از اخبار Hotfixes: October 30, 2026 و World of Warcraft: Midnight Hotfixes - October 30 است و با اخبار مرتبط دیگری مانند World of Warcraft: Forever Goes Live Globally November 4! و Returning to Dornogal - Patch 12.1.7 Campaign Playthrough هم‌زمان منتشر شده. علاوه بر این، بحث‌هایی در مورد Patch 12.1.5 و اعدادی مانند ۱۰، ۱۲، ۱۴، ۱۵، ۱۸، ۲۰، ۲۱، ۲۳، ۲۵، ۳۰، ۳۵، ۴۰، ۵۰، ۶۰، ۷۵ و ۸۰ در کامنت‌ها وجود دارد."
   ],
   "tags_fa": [
    "هاتفیکس",
    "تنظیم کلاس",
-   "Subtlety Rogue",
-   "Feral Druid"
+   "Midnight",
+   "Patch 12.1.5"
   ]
  }
 }
