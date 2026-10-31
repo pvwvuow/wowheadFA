@@ -73,7 +73,14 @@ jobs:
                 git commit -m "site: rebuild after merge $(date -u +%FT%TZ)"
             done
           }
+          # data/news-img MUST be committed together with the articles:
+          # grab_images downloads into it and rewrites thumb to our Pages
+          # URL - without this add the image files never landed in git
+          # (they only made it in via the `git add -A` of a push-race
+          # merge), so docs rebuilds 404ed and the discord bot posted
+          # those articles with no image (owner report 2026-10-31).
           git add data/articles
+          git add data/news-img 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No new items."
           else
@@ -179,6 +186,7 @@ jobs:
             done
           }
           git add data/articles
+          git add data/news-img 2>/dev/null || true
           git add data/auto_state.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Nothing to commit."
