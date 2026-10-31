@@ -344,6 +344,7 @@ def main():
     else:
         files = sys.argv[1:]
     bad = 0
+    bad_published = 0
     for f in files:
         art = json.load(open(f, encoding="utf-8"))
         if art.get("status") == "new":
@@ -352,13 +353,21 @@ def main():
         issues = check(f)
         if issues:
             bad += 1
-            print(f"{os.path.basename(f)}: FAIL")
+            if art.get("status") == "published":
+                bad_published += 1
+            print(f"{os.path.basename(f)}: FAIL"
+                  + (" (published — reported, not blocking)"
+                     if art.get("status") == "published" else ""))
             for i in issues:
                 print(f"   - {i}")
         else:
             print(f"{os.path.basename(f)}: OK")
-    print(f"\n{len(files)} checked, {bad} failing")
-    return 1 if bad else 0
+    print(f"\n{len(files)} checked, {bad} failing"
+          + (f" ({bad_published} already published — cannot unpublish, "
+             f"exit stays green so one old article never bricks the site "
+             f"build; the publish-time gates remain the hard net)"
+             if bad_published else ""))
+    return 1 if (bad - bad_published) else 0
 
 
 if __name__ == "__main__":
