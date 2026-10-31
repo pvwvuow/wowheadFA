@@ -2,26 +2,6 @@
  "day": "2026-10-31",
  "published_today": 15,
  "held": {
-  "383670": {
-   "reason": "مقاله می‌گوید Swiftmend حالا فقط بعد از Regrowth کار می‌کند در حالی که منبع Regrowth or Rejuvenation را ذکر کرده است. | G5 English token not in source: dispel | G7 body: plain paragraphs must be >=40 chars | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
-   "at": "2026-10-31T16:44:38Z",
-   "at_ts": 1793465078.913456
-  },
-  "383630": {
-   "reason": "شماره «بیش از ۱۳ میلیون محاسبه» در کامنت اشتباه است؛ منبع ۶۵ میلیون و ... را ذکر کرده. | جمله آخر «این ویدیو می‌تواند علاقه بازیکنان به دنیای Azeroth را بیشتر کند» ادعای اضافه است و منبع آن را بیان نکرده. | نقل‌قول با attribution به «World of Warcraft Retail Content Manager» در منبع وجود ندارد. | هشدار: 1",
-   "at": "2026-10-31T16:51:02Z",
-   "at_ts": 1793465462.606274
-  },
-  "383617": {
-   "reason": "G5 English token not in source: rollback | G5 English token not in source: izzard",
-   "at": "2026-10-31T16:53:10Z",
-   "at_ts": 1793465590.140275
-  },
-  "383603": {
-   "reason": "G3 long English run: H Str Axe\nPledgebearer's Cuirass\nChest Mail\nGalerider's Byrnie\nChest L... | G5 English token not in source: byrnie | G5 English token not in source: cuirass",
-   "at": "2026-10-31T16:54:14Z",
-   "at_ts": 1793465654.446299
-  },
   "383598": {
    "reason": "G3 long English run: Tables and Desks\nFloor\nSmall\nGrimtide Display Anchor\nMisc Accents\nWall... | G4 numbers from source missing in article: 26",
    "at": "2026-10-31T17:22:16Z",
@@ -101,10 +81,30 @@
    "reason": "G4 numbers from source missing in article: 62 | G6 CJK characters leaked into Persian prose: 布局, 布局 | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
    "at": "2026-10-31T19:45:45Z",
    "at_ts": 1793475945.681013
+  },
+  "383670": {
+   "reason": "G5 English token not in source: dispel | fallback هم رد شد: در بخش Protection پالادین نوشته «حداکثر رنک Iron Creed به ۳ رنک کاهش یافته (قبلاً ۵ بود)» ",
+   "at": "2026-10-31T20:10:12Z",
+   "at_ts": 1793477412.218823
+  },
+  "383630": {
+   "reason": "«این ویدیو بخشی از محتوای World of Warcraft: Forever است» در منبع وجود ندارد؛ منبع فقط ویدیو را جداگانه معرفی کرده. | لیست ul شامل «Patch 1.60.1» و اعداد «۱۰،۱۳،۱۵» و غیره در منبع متناظر با این خبر نیست. | G4 numbers from source missing in article: 23, 30, 383630, 800 | هشدار: 1",
+   "at": "2026-10-31T20:13:38Z",
+   "at_ts": 1793477618.006013
+  },
+  "383617": {
+   "reason": "عنوان «هاتفیکس‌های ۱۲.۱.۵» را ذکر کرده در حالی که منبع فقط در یادداشت Subtlety به پچ ۱۲.۱.۵ اشاره کرده و هاتفیکس‌های ۲۷ اکتبر را جداگانه اعلام کرده است. | G5 English token not in source: rollback",
+   "at": "2026-10-31T20:14:59Z",
+   "at_ts": 1793477699.481412
+  },
+  "383603": {
+   "reason": "G3 long English run: H Str Axe\nPledgebearer's Cuirass\nChest Mail\nGalerider's Byrnie\nChest L... | G5 English token not in source: byrnie | G5 English token not in source: chest",
+   "at": "2026-10-31T20:16:04Z",
+   "at_ts": 1793477764.521135
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-31T19:46:00Z",
+ "updated_at": "2026-10-31T20:16:04Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -2477,6 +2477,56 @@
     "warns": 0,
     "sec": 15.0,
     "attempts": 1
+   },
+   {
+    "id": "383670",
+    "ts": "2026-10-31T20:10:12Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 84.7,
+    "attempts": 2
+   },
+   {
+    "id": "383670",
+    "ts": "2026-10-31T20:11:56Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 104.5,
+    "attempts": 1
+   },
+   {
+    "id": "383630",
+    "ts": "2026-10-31T20:13:38Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 6,
+    "warns": 1,
+    "sec": 101.1,
+    "attempts": 2
+   },
+   {
+    "id": "383617",
+    "ts": "2026-10-31T20:14:59Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 81.5,
+    "attempts": 2
+   },
+   {
+    "id": "383603",
+    "ts": "2026-10-31T20:16:04Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 6,
+    "warns": 0,
+    "sec": 65.0,
+    "attempts": 2
    }
   ]
  }

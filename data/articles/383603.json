@@ -180,13 +180,20 @@
    "هر هفته Wah'du یک کوئست جدید ارائه می‌دهد که از بازیکنان می‌خواهد یک Chamber خاص را در Labyrinth روی Tier 8 یا بالاتر کامل کنند.",
    "با کامل کردن این کوئست، بازیکنان یک Mythical Soul Fragment دریافت می‌کنند. تحویل سه عدد از این Mythical Soul Fragmentها به Wah'du، یک قطعه gear از انتخاب‌های او با item level Myth 2/6 را به همراه دارد.",
    "قبل از خرید می‌توانید stats دقیق این آیتم‌ها را ببینید.",
-   "اگر این کوئست‌ها را انجام نداده‌اید، نگران نباشید. Wah'du یک کوئست در هر زمان ارائه می‌دهد تا عقب‌ماندگی شما جبران شود و حتی ممکن است بتوانید چندین کوئست را در یک run انجام دهید.",
+   "اگر این کوئست‌ها را قبلاً انجام نداده‌اید، نگران نباشید. Wah'du یک کوئست در هر زمان ارائه می‌دهد تا عقب‌ماندگی شما جبران شود و حتی ممکن است بتوانید چندین کوئست را در یک run کامل کنید.",
    {
     "t": "h",
     "x": "آیتم‌های در دسترس"
    },
-   "یکی از محبوب‌ترین انتخاب‌ها احتمالاً Rings هستند. تعداد Rings در این tier کم است و هر بازیکن به دو عدد نیاز دارد، ترجیحاً با stats دلخواه.",
-   "Kith'ix اخیراً یک Heavy Mastery ring دیگر (Band of the Swarmcaller) اضافه کرده است، در حالی که Nyrmissa یک Haste / Versatility Ring (Alluring Bubbleband) و Venomous Abyss دو ring (Apex Brute's Claw Ring و Vile Alchemist's Band) دارد.",
+   "یکی از محبوب‌ترین انتخاب‌ها، حلقه‌ها هستند. تعداد حلقه‌ها در این tier کم است و هر بازیکن به دو حلقه با stats دلخواه نیاز دارد.",
+   {
+    "t": "ul",
+    "xs": [
+     "Kith'ix اخیراً یک Heavy Mastery ring دیگر به نام Band of the Swarmcaller اضافه کرده است.",
+     "Nyrmissa یک Haste / Versatility Ring به نام Alluring Bubbleband می‌دهد.",
+     "Venomous Abyss دو حلقه دارد: Apex Brute's Claw Ring و Vile Alchemist's Band."
+    ]
+   },
    {
     "t": "table",
     "head": [
@@ -216,13 +223,12 @@
      ]
     ]
    },
-   "شما می‌توانید stats دقیق این آیتم‌ها را قبل از خرید مشاهده کنید."
+   "این آیتم‌ها را می‌توانید با تحویل Mythical Soul Fragmentها از Wah'du بخرید."
   ],
   "tags_fa": [
+   "هاتفیکس",
    "Myth 2/6",
-   "Labyrinth of Kindo'jan",
-   "Wah'du",
-   "Mythical Soul Fragment"
+   "Labyrinth of Kindo'jan"
   ]
  }
 }
