@@ -1,8 +1,51 @@
 {
- "generated": "2026-10-31T18:31:21Z",
+ "generated": "2026-10-31T18:58:27Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383574,
+   "slug": "repeatable-quest-experience-exploit-fixed-for-wow-forever-launch",
+   "title_fa": "رفع باگ تکرار کوئست برای دریافت اکسپی در آستانه عرضه WoW: Forever",
+   "lead_fa": "بلیزارد اکسپلویت مربوط به دریافت بی‌پایان امتیاز تجربه از یک کوئست را پیش از لانچ WoW: Forever برطرف کرد.",
+   "body_fa": [
+    "در جریان بتای WoW: Forever، بازیکنان متوجه یک کوئست ویژه فکشن Alliance شدند که به شکل مداوم Experience Points می‌داد. در حالی که گروهی از بازیکنان با استفاده از این فرصت توانستند در بتا به سرعت به Level 30 برسند، بسیاری از وجود آن کاملاً بی‌خبر بودند.",
+    {
+     "t": "h",
+     "x": "جزئیات کوئست و نحوه کار اکسپلویت"
+    },
+    "این کوئست که Applejack Still نام دارد و درست بیرون از Stormwind City قرار گرفته، تنها به تحویل ۴ عدد [[item:Shiny Red Apple]] نیاز داشت؛ آیتمی که می‌شد آن را مستقیماً از یک وندور خریداری کرد.",
+    "بر اساس ویدیویی که در ساب‌ردیت Classic WoW منتشر شد، یک کاراکتر لول ۲۱ با هر بار تحویل این کوئست ۱۷۰ امتیاز تجربه دریافت می‌کرد.",
+    {
+     "t": "note",
+     "x": "Aggrend در پلتفرم X تایید کرد که این فارم ناخواسته پیش از انتشار بازی رفع شده است.",
+     "kind": "info"
+    },
+    "سرعت Leveling همواره بحث داغی میان بازیکنان بوده است؛ عده‌ای خواهان روندی کندتر هستند و در طرف مقابل، عده دیگری می‌خواهند هرچه سریع‌تر به ۶۰ برسند و این دو گروه اغلب در بخش نظرات شبکه‌های اجتماعی با یکدیگر بحث دارند.",
+    "این اکسپلویت مشخصاً ناخواسته بود؛ بنابراین کسانی که امیدوار بودند پس از عرضه Forever از این کوئست استفاده کنند، اکنون باید کارها را از مسیر تعریف‌شده و عادی آن پیش ببرند."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "اکسپلویت",
+    "بتای Forever",
+    "لولینگ"
+   ],
+   "items": [],
+   "title_en": "Repeatable Quest Experience Exploit Fixed for WoW: Forever Launch",
+   "source_url": "https://www.wowhead.com/news=383574",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383574-repeatable-quest-experience-exploit-fixed-for-wow-forever-launch.html",
+   "published_at": "2026-10-31T18:56:18Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383574/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383574/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383537,
    "slug": "rp-pvp-ruleset-coming-to-wow-forever",
@@ -2859,51 +2902,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383505,
-   "slug": "use-skeleton-keys-to-open-locked-door-in-labyrinths-easy-achievement-f",
-   "title_fa": "استفاده از کلیدهای Skeleton برای باز کردن درهای قفل‌شده در Labyrinthها",
-   "lead_fa": "بازیکنان راهی سریع‌تر برای باز کردن در قفل‌شده Labyrinthها پیدا کرده‌اند که نیازی به جستجوی Keeper of the Key ندارد و فارمینگ دستاورد را بسیار سریع‌تر می‌کند.",
-   "body_fa": [
-    "در هر Labyrinth run، یکی از پنج موقعیت ممکن شامل در قفل‌شده است که با نماد کلید نقره‌ای نشان داده می‌شود. به‌جای پیدا کردن Keeper of the Key که Archaic Amani Key می‌دهد، بازیکنان می‌توانند از مهارت Lockpicking Rogue سطح ۹۰ یا کلید Skeleton ساخته‌شده توسط Blacksmithing استفاده کنند.",
-    "توصیه می‌شود همیشه تعدادی Thalassian Skeleton Key همراه داشته باشید تا نیازی به گشت‌وگذار در Labyrinth برای پیدا کردن Keeper of the Key نباشد.",
-    "اتاق قفل‌شده حاوی Mislaid Treasures برای کسب شهرت و Mislaid Curiosities برای افزایش آمار است.",
-    "با داشتن کلیدهای Skeleton می‌توانید دو دستاورد Labyrinth را به‌راحتی فارم کنید: Lock and Key Master که نیاز به باز کردن ۲۰ Locked Room دارد و A Few More Can't Hurt که با لوت کردن Mislaid Treasures به‌دست می‌آید.",
-    "یکی از Spawnهای در قفل‌شده درست نزدیک ورودی قرار می‌گیرد. کافی است با Labyrinth Tier ۱ وارد شوید، به Spawn سمت راست بروید، در را چک کنید، اگر وجود داشت با Thalassian Skeleton Key باز کنید، اتاق را لوت کنید و خارج شوید.",
-    "اگر در آنجا نبود، فوراً خارج شوید و دوباره امتحان کنید. این روش بسیار سریع است، محدودیت Instance Lockout در ساعت ندارد و به شما اجازه می‌دهد هر دو دستاورد را در زمان کوتاهی بگیرید."
-   ],
-   "tags_fa": [
-    "Labyrinth",
-    "دستاورد",
-    "Skeleton Key",
-    "فارمینگ"
-   ],
-   "items": [],
-   "title_en": "Use Skeleton Keys to Open Locked Door in Labyrinths - Easy Achievement Farming",
-   "source_url": "https://www.wowhead.com/news=383505",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383505-use-skeleton-keys-to-open-locked-door-in-labyrinths-easy-achievement-f.html",
-   "published_at": "2026-10-21T20:11:41Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383505/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383505/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383574,
-   "title_en": "Repeatable Quest Experience Exploit Fixed for WoW: Forever Launch",
-   "url": "https://www.wowhead.com/news=383574",
-   "category": "Forever",
-   "published_at": "2026-10-31T18:00:00Z"
-  },
   {
    "id": 383657,
    "title_en": "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
