@@ -1070,6 +1070,74 @@ def eval_candidate(cand, src):
     return whole, gates
 
 
+# ------------------------------------------------------- salvage (auto-repair)
+def salvage_candidate(art, src, cards):
+    """Deterministic rescue for a previously-rejected draft: drop every
+    sentence carrying a block-level deterministic problem (a number or an
+    English token absent from the source) and re-run the SAME gates.
+    Returns the cleaned candidate dict, or None when nothing safe remains.
+    LLM-reported claim problems are NOT patched here - the reviewer still
+    re-checks the trimmed article before anything is published."""
+    fa = art.get("last_rejected") or {}
+    title = str(fa.get("title_fa", "")).strip()
+    lead = str(fa.get("lead_fa", "")).strip()
+    body = [str(p).strip() for p in (fa.get("body_fa") or []) if str(p).strip()]
+    if not title or not body:
+        return None
+    cand = dict(art)
+    cand["article_fa"] = {"title_fa": title, "lead_fa": lead,
+                          "body_fa": list(body),
+                          "tags_fa": fa.get("tags_fa") or []}
+    cand["items"] = [IC.translate_card(c) for c in (cards or [])]
+
+    def problems_of(c):
+        _whole, gates = eval_candidate(c, src)
+        bad = [("num", n) for n in gates["numbers_missing"]]
+        for g in gates["qa"]:
+            m = re.search(r"English token not in source: (.+)$", g)
+            if m:
+                bad.append(("tok", m.group(1).strip()))
+        return bad
+
+    bad = problems_of(cand)
+    if not bad:
+        return cand
+    nums = {v for k, v in bad if k == "num"}
+    toks = {v for k, v in bad if k == "tok"}
+
+    def clean(s):
+        s_n = norm_digits(s)
+        for n in nums:
+            if re.search(r"(?<!\d)" + re.escape(str(n)) + r"(?!\d)", s_n):
+                return False
+        low = s.lower()
+        for t in toks:
+            if re.search(r"(?<![a-z0-9])" + re.escape(t.lower())
+                         + r"(?![a-z0-9])", low):
+                return False
+        return True
+
+    new_lead = " ".join(x for x in SENT_SPLIT.split(lead) if clean(x)).strip()
+    if lead and not new_lead:
+        return None                      # the lead itself is the problem
+    new_body = []
+    for p in body:
+        kept = " ".join(x for x in SENT_SPLIT.split(p) if clean(x)).strip()
+        if kept:
+            new_body.append(kept)
+    if len(new_body) < 2:                # a 2..8 paragraph body is mandatory
+        return None
+    out = dict(art)
+    out["article_fa"] = {"title_fa": title, "lead_fa": new_lead or lead,
+                         "body_fa": new_body,
+                         "tags_fa": fa.get("tags_fa") or []}
+    out["items"] = cand["items"]
+    _w_fin, g_fin = eval_candidate(out, src)
+    if g_fin["numbers_missing"] or g_fin["qa"]:
+        return None                      # trim broke another gate - give up
+    return out
+
+
 def process(art, writer, reviewer, st, summ):
     """Primary pipeline. Returns a record dict:
     {result: published|held|skip, kind: content|api|ingest,
@@ -1115,6 +1183,43 @@ def process(art, writer, reviewer, st, summ):
         art["qa_facts"] = IC.merge_facts(cards, art.get("qa_facts"))
         print(f"  item cards: {len(cards)} via {cardsvia}", flush=True)
         summ.note(f"کارت آیتم [{art_id}]: {len(cards)} کارت از صفحه گرفته شد")
+
+    # ---- salvage pass: a previous rejection can often be repaired
+    # deterministically (drop sentences with unsourced numbers/tokens);
+    # the reviewer still re-checks the trimmed text before publishing
+    if art.get("last_rejected"):
+        salv = salvage_candidate(art, src, cards)
+        if salv is not None:
+            try:
+                sblocks, swarns = review_article(reviewer, src,
+                                                 salv["article_fa"],
+                                                 cards=cards)
+            except Exception as e:  # noqa: BLE001
+                sblocks, swarns = [f"بازبین پاسخ معتبر نداد: {scrub(e)}"], []
+            _swhole, sgates = eval_candidate(salv, src)
+            sblocks = (list(sblocks)
+                       + [f"عددِ بدون منبع در مقاله: {n}"
+                          for n in sgates["numbers_missing"]]
+                       + sgates["qa"])
+            if not sblocks:
+                payload = {"source_url": art["url"],
+                           "title_en": art.get("title_en", ""),
+                           "model": writer.model,
+                           "title_fa": salv["article_fa"]["title_fa"],
+                           "lead_fa": salv["article_fa"]["lead_fa"],
+                           "body_fa": salv["article_fa"]["body_fa"],
+                           "tags_fa": salv["article_fa"]["tags_fa"]}
+                data, errs = PFI.sanitize_payload(payload)
+                if not errs:
+                    publish(art, data, writer, reviewer,
+                            items=salv.get("items"))
+                    st["published_today"] = st.get("published_today", 0) + 1
+                    summ.row(art_id, art.get("title_en"),
+                             "✅ منتشر شد (نجات خودکار)",
+                             "نسخهٔ ردشده مکانیکی پاک‌سازی و بازبینی شد")
+                    return ret("published", "content", blocks=0,
+                               warns=len(swarns), attempts=0,
+                               detail="salvage-trim", src=src, cards=cards)
 
     # cross-run memory: the reason recorded on the previous hold seeds the
     # first attempt, so the writer starts as an informed rewrite
@@ -1214,6 +1319,13 @@ def process(art, writer, reviewer, st, summ):
                 summ.note(f"warn [{art_id}]: {w}")
             print(f"  attempt 1 rejected -> rewrite: {detail}", flush=True)
     hold_item(st, art_id, detail)
+    try:                                  # keep the draft for the salvage pass
+        art["last_rejected"] = cand["article_fa"]
+        with open(os.path.join(ART, f"{art_id}.json"), "w",
+                  encoding="utf-8") as fh:
+            json.dump(art, fh, ensure_ascii=False, indent=1)
+    except Exception:  # noqa: BLE001 - state file already has the reason
+        pass
     summ.row(art_id, art.get("title_en"), "⏸ نگه داشته شد",
              f"دو بار رد شد: {detail}")
     for w in warns[:3]:
