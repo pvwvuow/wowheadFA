@@ -1,8 +1,58 @@
 {
- "generated": "2026-10-31T17:58:47Z",
+ "generated": "2026-10-31T18:30:57Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383537,
+   "slug": "rp-pvp-ruleset-coming-to-wow-forever",
+   "title_fa": "افزوده شدن سرورهای RP-PvP به بازی WoW: Forever",
+   "lead_fa": "شرکت Blizzard تایید کرد که سرورهای دارای قوانین RP-PvP هم‌زمان با لانچ رسمی WoW: Forever در دسترس قرار می‌گیرند و رزرو نام آن‌ها از هفته آینده آغاز می‌شود.",
+   "body_fa": [
+    "شرکت Blizzard رسماً اعلام کرد که مجموعه قوانین RP-PvP را برای زمان لانچ بازی WoW: Forever اضافه خواهد کرد. این تصمیم پس از گفت‌وگوهای قسمت اخیر برنامه WoW: Forever Podcast و بررسی بازخوردهای بازیکنان اتخاذ شده است.",
+    {
+     "t": "quote",
+     "x": "در قسمت اخیر پادکست WoW Forever به بخشی از نگرانی‌های خود درباره افزودن رول‌ست Roleplay-PVP در WoW Forever اشاره کردیم، اما گفتیم که این موضوع همچنان در حال بررسی داخلی است و بازخورد بازیکنان را زیر نظر داریم. طی چند روز گذشته جوانب این موضوع را سنجیدیم و تصمیم گرفتیم آن را اضافه کنیم. ما رول‌ست Roleplay-PVP را برای عرضه در ۴ نوامبر آماده خواهیم کرد. همچنین تلاش می‌کنیم تا بتوانید این رول‌ست را هنگام آغاز دوره رزرو نام در روز سه‌شنبه ۲۷ اکتبر انتخاب کنید. از بازخوردها و نظرات در این مورد بسیار سپاسگزاریم.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "h",
+     "x": "برنامه زمانی رزرو نام و عرضه"
+    },
+    "طبق اعلام تیم سازنده، انتخاب سرور و رزرو نام برای رول‌ست RP-PvP هم‌زمان با شروع دوره رزرو نام‌ها در روز سه‌شنبه ۲۷ اکتبر (October 27) فعال خواهد شد و خود بازی نیز در تاریخ ۴ نوامبر رسماً لانچ می‌شود.",
+    {
+     "t": "note",
+     "x": "دوره رزرو نام‌ها در تاریخ ۲۷ اکتبر کلید می‌خورد و عرضه جهانی بازی در ۴ نوامبر انجام خواهد شد.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "جزئیات پایگاه داده و خبرهای مرتبط"
+    },
+    "این خبر با شناسه 383537 در تاریخ 2026-10-22 به ثبت رسیده است و نظرات بازیکنان تحت نسخه 1.60.1 به ثبت رسیده‌اند. بخش نظرات شامل ۲۰ دیدگاه از ۲۰ نظر ثبت‌شده در صفحه نخست است و کاربرانی نظیر 5RanceRaptor و 12Heavyharper دیدگاه‌های خود را مطرح کرده‌اند. همچنین در خبرهای سایت، عناوینی چون انتشار هاتفیکس‌های ۳۰ اکتبر ۲۰۲۶ (October 30, 2026) در بازه‌های زمانی ۱۵ ساعت و ۱۶ ساعت پیش، آماده‌سازی برای عرضه در ۲۱ ساعت و ۲۲ ساعت قبل، رفع باگ کوئست‌ها در ۲۰ دقیقه پیش و ساخت بیش از ۸ میلیون کاراکتر در بتا به چشم می‌خورد."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "بلیزارد",
+    "اخبار سرورها",
+    "رول پلی"
+   ],
+   "items": [],
+   "title_en": "RP-PvP Ruleset Coming to WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383537",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383537-rp-pvp-ruleset-coming-to-wow-forever.html",
+   "published_at": "2026-10-31T18:24:08Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383537/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383537/1.png",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383599,
    "slug": "more-labyrinth-class-bug-fixes-patch-12-1-5-hotfixes-for-october-26th",
@@ -2844,42 +2894,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383524,
-   "slug": "get-30-off-game-services-and-up-to-50-off-transmogs-toys-and-bundles-o",
-   "title_fa": "تخفیف ۳۰ درصدی خدمات و تا ۵۰ درصدی ترنسماگ، توی و باندل در فروشگاه Battle.net",
-   "lead_fa": "فروش جدیدی در فروشگاه Battle.net آغاز شده و بازیکنان می‌توانند ۳۰٪ تخفیف روی خدمات بازی و تا ۵۰٪ تخفیف روی ترنسماگ، توی و باندل‌های منتخب دریافت کنند.",
-   "body_fa": [
-    "در این فروش World of Warcraft Midnight با قیمت ۲۴.۹۹ دلار (۵۰٪ تخفیف) عرضه می‌شود.",
-    "باندل Wings and Wisdom Pack با قیمت ۱۷.۵۰ دلار (۵۰٪ تخفیف) و Mighty Kodo Pack با قیمت ۱۲.۵۰ دلار (۵۰٪ تخفیف) در دسترس هستند.",
-    "از توی‌ها می‌توان به Sandbox Storm Gryphon با قیمت ۵.۰۰ دلار (۵۰٪ تخفیف)، Deepdweller's Earthen Hearthstone با قیمت ۲.۵۰ دلار (۵۰٪ تخفیف)، Magical Murkmorpher با قیمت ۵.۰۰ دلار (۵۰٪ تخفیف)، Eternal Traveler's Hearthstone با قیمت ۲.۵۰ دلار (۵۰٪ تخفیف)، Timewalker's Hearthstone با قیمت ۲.۵۰ دلار (۵۰٪ تخفیف) و Transmorpher Beacon با قیمت ۵ دلار (۵۰٪ تخفیف) اشاره کرد.",
-    "مجموعه‌های ترنسماگ نیز شامل Cozy Kobold Collection با قیمت ۱۴.۰۰ دلار (۳۰٪ تخفیف)، Ensemble: Lana'thel's Crimson Couture با قیمت ۱۴.۰۰ دلار (۳۰٪ تخفیف)، Ensemble: Stormrider's Attire با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Heavenly Regalia Pack با قیمت ۱۵.۰۰ دلار (۴۰٪ تخفیف)، Ensemble: Green Snugglefin Murloc Romper با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف) و Dreadlord's Regalia Pack با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف) هستند.",
-    "دیگر اقلام ترنسماگ عبارتند از Diadem of the Spell-Keeper با قیمت ۴.۰۰ دلار (۵۰٪ تخفیف)، Collection: Wings of Awakening با قیمت ۷.۵۰ دلار (۵۰٪ تخفیف)، Ensemble: Waveborne Diplomat's Regalia با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Ensemble: Fireplume Regalia با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Ensemble: Sprite Darter's Wings با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف)، Collection: Baby Murloc Satch-Shells با قیمت ۷.۵۰ دلار (۵۰٪ تخفیف) و Ensemble: Celestial Observer با قیمت ۱۰.۰۰ دلار (۵۰٪ تخفیف).",
-    "خدمات بازی نیز با تخفیف عرضه می‌شوند: Enhanced Level 80 Character Boosts با ۳۳٪ تخفیف، Character Transfers با ۳۰٪ تخفیف، Faction Changes با ۳۰٪ تخفیف، Race Changes با ۳۰٪ تخفیف و Name Changes با ۳۰٪ تخفیف.",
-    "این فروش هم‌اکنون فعال است و علاقه‌مندان می‌توانند اقلام مورد نظر خود را از فروشگاه Battle.net تهیه کنند."
-   ],
-   "tags_fa": [
-    "فروش Battle.net",
-    "تخفیف WoW",
-    "ترنسماگ",
-    "World of Warcraft Midnight"
-   ],
-   "items": [],
-   "title_en": "Get 30% Off Game Services and Up to 50% Off Transmogs, Toys and Bundles on the Battle.net Shop",
-   "source_url": "https://www.wowhead.com/news=383524",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383524-get-30-off-game-services-and-up-to-50-off-transmogs-toys-and-bundles-o.html",
-   "published_at": "2026-10-21T18:28:46Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383524/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383524/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3022,13 +3036,6 @@
    "url": "https://www.wowhead.com/news=383540",
    "category": "Forever",
    "published_at": "2026-10-22T16:21:06Z"
-  },
-  {
-   "id": 383537,
-   "title_en": "RP-PvP Ruleset Coming to WoW: Forever",
-   "url": "https://www.wowhead.com/news=383537",
-   "category": "Forever",
-   "published_at": "2026-10-22T15:33:56Z"
   },
   {
    "id": 383530,
