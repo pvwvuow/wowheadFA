@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T18:30:57Z",
+ "generated": "2026-10-31T18:31:21Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2897,6 +2897,20 @@
   }
  ],
  "queue": [
+  {
+   "id": 383574,
+   "title_en": "Repeatable Quest Experience Exploit Fixed for WoW: Forever Launch",
+   "url": "https://www.wowhead.com/news=383574",
+   "category": "Forever",
+   "published_at": "2026-10-31T18:00:00Z"
+  },
+  {
+   "id": 383657,
+   "title_en": "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
+   "url": "https://www.wowhead.com/news=383657",
+   "category": "Forever",
+   "published_at": "2026-10-31T18:00:00Z"
+  },
   {
    "id": 383662,
    "title_en": "New Drust-Themed Hearthstone Available from Talebound",
