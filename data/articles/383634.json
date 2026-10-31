@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383634",
  "title_en": "After 2 Weeks, Over 200k Players Have Defeated Tier 11 Kindo'jan Solo",
  "category": "Live",
- "published_at": "2026-10-29T14:00:00Z",
+ "published_at": "2026-10-31T15:49:50Z",
  "fetched_at": "2026-10-29T14:09:47Z",
  "source_mode": "full",
  "qa_facts": {
@@ -81,7 +81,7 @@
   ],
   "chars": 662
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383634/1.jpg",
@@ -106,5 +106,49 @@
    "Kindo'jan",
    "Let Me Solo Him"
   ]
+ },
+ "article_fa": {
+  "title_fa": "بیش از ۲۰۰ هزار بازی‌کننده Tier 11 Kindo'jan را به‌تنهایی شکست دادند",
+  "lead_fa": "هال آف فیم دلوز بسته شد و بیش از ۲۰۰ هزار بازی‌کننده موفق شدند Tier 11 Kindo'jan را به‌صورت سولو شکست دهند و دستاورد Let Me Solo Him! Labyrinth of Kindo'jan را کسب کنند.",
+  "body_fa": [
+   "برای نخستین بار بلیزارد دستاورد نمسیس باس را یک هفته کامل تمدید کرد تا بازیکنان فرصت بیشتری برای کسب Fabled Let Me Solo Him: Kindo'jan داشته باشند.",
+   "در پایان هفتهٔ گذشته بیش از ۱۵۰ هزار بازی‌کننده Tier 11 Kindo'jan را سولو زده بودند و در هفتهٔ اضافی ۵۰ هزار بازی‌کنندهٔ دیگر این دستاورد را به‌دست آوردند.",
+   "اکنون هر دو ریست هفتگی NA و EU انجام شده و آمار نهایی ثبت شده است.",
+   {
+    "t": "table",
+    "head": [
+     "منطقه",
+     "تعداد بازیکنان"
+    ],
+    "rows": [
+     [
+      "NA",
+      "92,305"
+     ],
+     [
+      "EU",
+      "113,201"
+     ]
+    ]
+   },
+   "در مجموع بیش از ۲۰۰ هزار بازی‌کننده در این چالش شرکت کردند.",
+   {
+    "t": "note",
+    "x": "تبریک به همهٔ کسانی که Kindo'jan را شکست دادند",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "دلوز",
+   "Kindo'jan",
+   "Let Me Solo Him",
+   "هال آف فیم"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-31T15:49:50Z",
+  "reviewer": "grok-4"
  }
 }
