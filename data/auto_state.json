@@ -1,6 +1,6 @@
 {
  "day": "2026-10-31",
- "published_today": 0,
+ "published_today": 2,
  "held": {
   "383670": {
    "reason": "G4 numbers from source missing in article: 16 | G5 English token not in source: kind | G5 English token not in source: dispel | fallback هم رد شد: writer error: Remote end closed connection without response",
@@ -76,10 +76,17 @@
    "reason": "عنوان «هاتفیکس ۱۲.۱.۵» و اشاره به «پچ ۱۲.۱.۵» در developer noteها: منبع فقط hotfixes امروز (۲۷ اکتبر ۲۰۲۶) را اعلام کرده و هیچ نسخه پچ ۱۲.۱.۵ را ذکر نکرده است. | lead_fa می‌گوید Labyrinth scenarios اعتبار Great Vault را اعطا نمی‌کردند؛ منبع فقط می‌گوید «some scenarios» بودند، نه همه آن‌ها. | در پاراگراف Monk: «مشکل Mistline talent که گاهی lowest health target را به درستی heal نمی‌کرد برطرف شده است",
    "at": "2026-10-31T12:39:20Z",
    "at_ts": 1793450360.192258
+  },
+  "383603": {
+   "reason": "G5 English token not in source: cuirass | G5 English token not in source: byrnie | G5 English token not in source: brigandine | fallback هم رد شد: «نخستین قطعه لوت Myth 2/6» و «اولین قطعه از لوت با سطح کیفی Myth 2/6» — منبع می‌گوید اولین",
+   "at": "2026-10-31T13:00:58Z",
+   "at_ts": 1793451658.923104
   }
  },
- "ingest_fails": {},
- "updated_at": "2026-10-31T12:39:20Z",
+ "ingest_fails": {
+  "383607": 1
+ },
+ "updated_at": "2026-10-31T13:03:58Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1882,6 +1889,56 @@
     "warns": 0,
     "sec": 88.8,
     "attempts": 2
+   },
+   {
+    "id": "383603",
+    "ts": "2026-10-31T13:00:58Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 9,
+    "warns": 0,
+    "sec": 55.7,
+    "attempts": 2
+   },
+   {
+    "id": "383603",
+    "ts": "2026-10-31T13:01:54Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 10,
+    "warns": 0,
+    "sec": 54.9,
+    "attempts": 1
+   },
+   {
+    "id": "383607",
+    "ts": "2026-10-31T13:02:42Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 48.2,
+    "attempts": 0
+   },
+   {
+    "id": "383606",
+    "ts": "2026-10-31T13:03:32Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 50.7,
+    "attempts": 2
+   },
+   {
+    "id": "383602",
+    "ts": "2026-10-31T13:03:58Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 25.6,
+    "attempts": 1
    }
   ]
  }

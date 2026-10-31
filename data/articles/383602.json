@@ -4,11 +4,13 @@
  "url": "https://www.wowhead.com/news=383602",
  "title_en": "More Racial Ability Tuning on WoW: Forever",
  "category": "Forever",
- "published_at": "2026-10-27T15:47:39Z",
+ "published_at": "2026-10-31T13:03:58Z",
  "fetched_at": "2026-10-27T16:08:18Z",
  "source_mode": "full",
  "qa_facts": {
   "numbers": [
+   "10",
+   "10:00",
    "15",
    "25"
   ],
@@ -21,15 +23,21 @@
    "additions",
    "affecting",
    "also",
+   "am",
    "and",
    "attuned",
    "be",
+   "been",
+   "berserking",
    "blizzard",
    "blood",
+   "change",
    "charged",
    "clarify",
    "cooldown",
    "death",
+   "duration",
+   "edit",
    "entering",
    "for",
    "forever",
@@ -38,6 +46,7 @@
    "has",
    "in",
    "include",
+   "increased",
    "intended",
    "internal",
    "is",
@@ -67,6 +76,7 @@
    "through",
    "to",
    "touch",
+   "troll",
    "tuning",
    "undead",
    "updated",
@@ -80,9 +90,9 @@
    "wow",
    "yesterday's"
   ],
-  "chars": 614
+  "chars": 748
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383602/1.jpg",
@@ -92,5 +102,38 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383602/1.jpg",
  "hold_reason": "G5 English token not in source: fury | fallback هم رد شد: writer error: Remote end closed connection without response",
  "hold_count": 1,
- "hold_at": "2026-10-27T16:38:05Z"
+ "hold_at": "2026-10-27T16:38:05Z",
+ "article_fa": {
+  "title_fa": "تنظیمات جدید توانایی نژادی در WoW: Forever",
+  "lead_fa": "بلزارد تنظیمات بیشتری برای توانایی‌های نژادی در WoW: Forever اعمال کرده که اورک‌ها، آندد و اسکایبورن را تحت تأثیر قرار می‌دهد.",
+  "body_fa": [
+   "در به‌روزرسانی دیروز، تغییراتی برای توانایی‌های نژادی و تالنت‌ها اضافه شده است.",
+   {
+    "t": "ul",
+    "xs": [
+     "کول‌داون Orc Blood Fury به ۲ دقیقه کاهش یافته است (از ۳ دقیقه)",
+     "مدت زمان Troll Berserking به ۱۵ ثانیه افزایش یافته است (از ۱۰ ثانیه)",
+     "کول‌داون داخلی Undead Touch of the Grave به ۱۵ ثانیه کاهش یافته است (از ۲۵ ثانیه)"
+    ]
+   },
+   "همچنین برای Skyborne اعلام شده که Charged پس از مرگ باقی می‌ماند و هنگام ورود به رید حذف می‌شود.",
+   "Attuned نیز پس از مرگ باقی می‌ماند و هنگام ورود به رید حذف می‌شود.",
+   {
+    "t": "note",
+    "x": "ویرایش شماره ۱ در ساعت ۱۰:۰۰ صبح اضافه شده و تغییر Troll Berserking را شامل می‌شود.",
+    "kind": "info"
+   },
+   "این تغییرات در ادامه تنظیمات قبلی نژادی اعمال شده است."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "WoW Forever",
+   "تنظیم نژادی"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-31T13:03:58Z"
+ }
 }

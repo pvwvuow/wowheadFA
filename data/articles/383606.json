@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383606",
  "title_en": "New Grimtide Housing Bundles Available for Hearthsteel",
  "category": "Live",
- "published_at": "2026-10-27T17:24:31Z",
+ "published_at": "2026-10-31T13:03:32Z",
  "fetched_at": "2026-10-27T17:56:29Z",
  "source_mode": "full",
  "qa_facts": {
@@ -124,7 +124,7 @@
   ],
   "chars": 1804
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383606/1.jpg",
@@ -134,5 +134,56 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383606/1.jpg",
  "hold_reason": "G1 Persian ratio 39% < 55%",
  "hold_count": 1,
- "hold_at": "2026-10-27T18:50:34Z"
+ "hold_at": "2026-10-27T18:50:34Z",
+ "article_fa": {
+  "title_fa": "باندل‌های جدید خانه Grimtide برای Hearthsteel عرضه شد",
+  "lead_fa": "دو باندل ترسناک جدید خانه Grimtide حالا در فروشگاه Battle.net برای Hearthsteel در دسترس هستند: Haunted Grimtide Estate و Grimtide Decor Pack.",
+  "body_fa": [
+   "این باندل‌ها شامل ظاهرهای خارجی و داخلی و همچنین مجموعه‌ای از وسایل دکوری با تم Grimtide هستند که حس مرموز و دریایی عمیق را به خانه شما می‌آورند.",
+   {
+    "t": "h",
+    "x": "باندل Haunted Grimtide Estate"
+   },
+   "این باندل با قیمت ۲۵۰۰ Hearthsteel یا حدود ۲۵ دلار آمریکا عرضه می‌شود. محتوای آن شامل Spirited Grimtide Manse Housing Exterior به عنوان ظاهر خارجی خانه و Spirit Grimtide Foyer به عنوان فضای داخلی است.",
+   "توضیح رسمی باندل می‌گوید: چیزی از اعماق بر این خانه چنگ انداخته است. این خانه مرموز که با شاخک‌ها پوشیده شده و توسط دریاها فرسوده شده، رازهای اقیانوس را به ساحل آورده است.",
+   {
+    "t": "note",
+    "x": "برای مشاهده تصاویر بیشتر از ظاهر داخلی و خارجی، می‌توانید پست داده‌کاوی‌شده دیروز ما را ببینید.",
+    "kind": "info"
+   },
+   {
+    "t": "h",
+    "x": "باندل Grimtide Decor Pack"
+   },
+   "این باندل با قیمت ۱۰۰۰ Hearthsteel یا حدود ۱۰ دلار آمریکا در دسترس است و شامل تعداد زیادی وسیله دکوری Grimtide می‌شود.",
+   {
+    "t": "ul",
+    "xs": [
+     "Grimtide Grand Table x۱",
+     "Grimtide Side Table x۲",
+     "Grimtide Dining Chair x۴",
+     "Grimtide Couch x۲",
+     "Small Grimtide Rug x۲",
+     "Grimtide Rug x۲",
+     "Grimtide Coffee Table x۲",
+     "Grimtide Grand Piano x۱",
+     "Grimtide Tentacle x۴",
+     "Daytime Grimtide Window x۴"
+    ]
+   },
+   "این وسایل شامل میز بزرگ، صندلی، کاناپه، فرش، پیانو، شاخک، پنجره‌های روز و شب، شمع‌های جادویی در اندازه‌های مختلف، لوستر، قفسه کتاب و دریچه کف هستند.",
+   "این باندل‌ها گزینه‌های مناسبی برای بازیکنان علاقه‌مند به تم‌های ترسناک و دریایی در خانه‌های خود فراهم می‌کنند."
+  ],
+  "tags_fa": [
+   "Hearthsteel",
+   "Grimtide",
+   "خانه سازی",
+   "باندل"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-31T13:03:32Z"
+ }
 }

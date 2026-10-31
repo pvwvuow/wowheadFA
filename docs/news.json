@@ -1,8 +1,116 @@
 {
- "generated": "2026-10-31T12:58:51Z",
+ "generated": "2026-10-31T13:04:06Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383602,
+   "slug": "more-racial-ability-tuning-on-wow-forever",
+   "title_fa": "تنظیمات جدید توانایی نژادی در WoW: Forever",
+   "lead_fa": "بلزارد تنظیمات بیشتری برای توانایی‌های نژادی در WoW: Forever اعمال کرده که اورک‌ها، آندد و اسکایبورن را تحت تأثیر قرار می‌دهد.",
+   "body_fa": [
+    "در به‌روزرسانی دیروز، تغییراتی برای توانایی‌های نژادی و تالنت‌ها اضافه شده است.",
+    {
+     "t": "ul",
+     "xs": [
+      "کول‌داون Orc Blood Fury به ۲ دقیقه کاهش یافته است (از ۳ دقیقه)",
+      "مدت زمان Troll Berserking به ۱۵ ثانیه افزایش یافته است (از ۱۰ ثانیه)",
+      "کول‌داون داخلی Undead Touch of the Grave به ۱۵ ثانیه کاهش یافته است (از ۲۵ ثانیه)"
+     ]
+    },
+    "همچنین برای Skyborne اعلام شده که Charged پس از مرگ باقی می‌ماند و هنگام ورود به رید حذف می‌شود.",
+    "Attuned نیز پس از مرگ باقی می‌ماند و هنگام ورود به رید حذف می‌شود.",
+    {
+     "t": "note",
+     "x": "ویرایش شماره ۱ در ساعت ۱۰:۰۰ صبح اضافه شده و تغییر Troll Berserking را شامل می‌شود.",
+     "kind": "info"
+    },
+    "این تغییرات در ادامه تنظیمات قبلی نژادی اعمال شده است."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "WoW Forever",
+    "تنظیم نژادی"
+   ],
+   "items": [],
+   "title_en": "More Racial Ability Tuning on WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383602",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383602-more-racial-ability-tuning-on-wow-forever.html",
+   "published_at": "2026-10-31T13:03:58Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383602/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383602/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383606,
+   "slug": "new-grimtide-housing-bundles-available-for-hearthsteel",
+   "title_fa": "باندل‌های جدید خانه Grimtide برای Hearthsteel عرضه شد",
+   "lead_fa": "دو باندل ترسناک جدید خانه Grimtide حالا در فروشگاه Battle.net برای Hearthsteel در دسترس هستند: Haunted Grimtide Estate و Grimtide Decor Pack.",
+   "body_fa": [
+    "این باندل‌ها شامل ظاهرهای خارجی و داخلی و همچنین مجموعه‌ای از وسایل دکوری با تم Grimtide هستند که حس مرموز و دریایی عمیق را به خانه شما می‌آورند.",
+    {
+     "t": "h",
+     "x": "باندل Haunted Grimtide Estate"
+    },
+    "این باندل با قیمت ۲۵۰۰ Hearthsteel یا حدود ۲۵ دلار آمریکا عرضه می‌شود. محتوای آن شامل Spirited Grimtide Manse Housing Exterior به عنوان ظاهر خارجی خانه و Spirit Grimtide Foyer به عنوان فضای داخلی است.",
+    "توضیح رسمی باندل می‌گوید: چیزی از اعماق بر این خانه چنگ انداخته است. این خانه مرموز که با شاخک‌ها پوشیده شده و توسط دریاها فرسوده شده، رازهای اقیانوس را به ساحل آورده است.",
+    {
+     "t": "note",
+     "x": "برای مشاهده تصاویر بیشتر از ظاهر داخلی و خارجی، می‌توانید پست داده‌کاوی‌شده دیروز ما را ببینید.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "باندل Grimtide Decor Pack"
+    },
+    "این باندل با قیمت ۱۰۰۰ Hearthsteel یا حدود ۱۰ دلار آمریکا در دسترس است و شامل تعداد زیادی وسیله دکوری Grimtide می‌شود.",
+    {
+     "t": "ul",
+     "xs": [
+      "Grimtide Grand Table x۱",
+      "Grimtide Side Table x۲",
+      "Grimtide Dining Chair x۴",
+      "Grimtide Couch x۲",
+      "Small Grimtide Rug x۲",
+      "Grimtide Rug x۲",
+      "Grimtide Coffee Table x۲",
+      "Grimtide Grand Piano x۱",
+      "Grimtide Tentacle x۴",
+      "Daytime Grimtide Window x۴"
+     ]
+    },
+    "این وسایل شامل میز بزرگ، صندلی، کاناپه، فرش، پیانو، شاخک، پنجره‌های روز و شب، شمع‌های جادویی در اندازه‌های مختلف، لوستر، قفسه کتاب و دریچه کف هستند.",
+    "این باندل‌ها گزینه‌های مناسبی برای بازیکنان علاقه‌مند به تم‌های ترسناک و دریایی در خانه‌های خود فراهم می‌کنند."
+   ],
+   "tags_fa": [
+    "Hearthsteel",
+    "Grimtide",
+    "خانه سازی",
+    "باندل"
+   ],
+   "items": [],
+   "title_en": "New Grimtide Housing Bundles Available for Hearthsteel",
+   "source_url": "https://www.wowhead.com/news=383606",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383606-new-grimtide-housing-bundles-available-for-hearthsteel.html",
+   "published_at": "2026-10-31T13:03:32Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383606/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383606/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383659,
    "slug": "talebound-end-game-player-power-rewards-venomstones-bonus-rolls-experi",
@@ -2459,20 +2567,6 @@
    "url": "https://www.wowhead.com/news=383607",
    "category": "Live",
    "published_at": "2026-10-27T18:00:46Z"
-  },
-  {
-   "id": 383606,
-   "title_en": "New Grimtide Housing Bundles Available for Hearthsteel",
-   "url": "https://www.wowhead.com/news=383606",
-   "category": "Live",
-   "published_at": "2026-10-27T17:24:31Z"
-  },
-  {
-   "id": 383602,
-   "title_en": "More Racial Ability Tuning on WoW: Forever",
-   "url": "https://www.wowhead.com/news=383602",
-   "category": "Forever",
-   "published_at": "2026-10-27T15:47:39Z"
   },
   {
    "id": 383599,
