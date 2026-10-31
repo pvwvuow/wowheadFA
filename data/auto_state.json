@@ -2,199 +2,24 @@
  "day": "2026-10-31",
  "published_today": 0,
  "held": {
-  "383599": {
-   "reason": "عنوان مقاله «هاتفیکس‌های ۲۶ اکتبر برای Labyrinth و کلاس‌ها در پچ ۱۲.۱.۵» و پاراگراف اول «در تاریخ ۲۶ اکتبر ۲۰۲۶» و تگ «۱۲.۱.۵» تاریخ و شماره پچ را ذکر کرده‌اند در حالی که منبع هیچ تاریخی، سالی و شماره پچی ندارد. | جمله «این تغییر از اسپاون چندین chest جلوگیری می‌کند» توضیح علت و  | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
-   "at": "2026-10-27T15:00:44Z",
-   "at_ts": 1793113244.206401
-  },
-  "383598": {
-   "reason": "G1 Persian ratio 42% < 55%",
-   "at": "2026-10-27T15:01:54Z",
-   "at_ts": 1793113314.496757
-  },
-  "383602": {
-   "reason": "G5 English token not in source: fury | fallback هم رد شد: writer error: Remote end closed connection without response",
-   "at": "2026-10-27T16:38:05Z",
-   "at_ts": 1793119085.159887
-  },
-  "383562": {
-   "reason": "«دستاوردهای Account Wide نیز شامل ...» ادعای Account Wide بودن دستاوردها را مطرح می‌کند در حالی که منبع هیچ اشاره‌ای به Account Wide برای این achievements نکرده است. | «بسیاری از پاداش‌های جدید Winter Veil نیز datamined شده‌اند که احتمالاً در دسترس خواهند بود» پاداش‌های جدید Winter Veil را به عنوان datamined و احتمالاً در دسترس معرفی می‌کند، اما منبع فقط می‌گوید «We have datamined many new Winter ",
-   "at": "2026-10-27T16:43:54Z",
-   "at_ts": 1793119434.103469
-  },
-  "383570": {
-   "reason": "«مشکل Warlocks ninja pulling when a rogue is in a group برطرف شده است» در منبع وجود ندارد. | «یکی دیگر از مشکلات Labyrinth برطرف شده است» ادعای مبهم و اضافی است که منبع دقیقاً آن را پشتیبانی نمی‌کند. | «برای Warlock مشکلاتی که باعث می‌شد برخی احضارها و Diabolic Occuli گاهی دشمنان خارج ازcombat را هدف قرار دهند» منبع فقط Diabolic Occuli را ذکر کرده و «برخی احضارها» را به صورت کلی نگفته است.",
-   "at": "2026-10-27T16:44:46Z",
-   "at_ts": 1793119486.201926
-  },
-  "383568": {
-   "reason": "G1 Persian ratio 49% < 55% | G4 numbers from source missing in article: 80 | G5 English token not in source: izzard | fallback هم رد شد: writer error: The read operation timed out",
-   "at": "2026-10-27T17:06:04Z",
-   "at_ts": 1793120764.378503
-  },
-  "383561": {
-   "reason": "G5 English token not in source: izzard",
-   "at": "2026-10-27T17:11:55Z",
-   "at_ts": 1793121115.659804
-  },
-  "383607": {
-   "reason": "مقاله در lead_fa و body_fa ادعا می‌کند mount با قیمت ۲۵ دلار «عرضه شد» و «اکنون در دسترس است»، در حالی که منبع فقط می‌گوید «is available on the Battle.net Store for $25» و عنوان «Now Available» دارد؛ اما هیچ تاریخی یا تأیید عرضه قطعی فراتر از اعلام فروشگاه ذکر نشده است. | در body | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
-   "at": "2026-10-27T18:48:40Z",
-   "at_ts": 1793126920.780452
-  },
-  "383606": {
-   "reason": "G1 Persian ratio 39% < 55%",
-   "at": "2026-10-27T18:50:34Z",
-   "at_ts": 1793127034.494209
-  },
-  "383552": {
-   "reason": "«جدول تغییرات به این شکل است: Non-Crafted از Myth Item Level ۳۴۰ به ۳۴۱.» — منبع جدول کامل‌تری دارد که هر دو نوع Non-Crafted و Crafted را نشان می‌دهد؛ مقاله فقط یک سطر را آورده و آن را به عنوان «جدول تغییرات» معرفی کرده که ناقص و گمراه‌کننده است. | G4 numbers from source missing  | fallback هم رد شد: «قطعات Crafted با دریافت ۶ پله افزایش به Item level ۳۳۷ می‌رسند» — منبع می‌گوید crafted pi",
-   "at": "2026-10-27T20:09:42Z",
-   "at_ts": 1793131782.535765
-  },
-  "383548": {
-   "reason": "«در ساعات اخیر نیز مواردی مانند Name Reservation Issue for Oceanic Players، World of Warcraft: Forever Raid Overview—Locations, Raid Sizes, and Attunement، World of Warcraft: Forever Early Name Reservations Are Now Live! و Add the Living Heartsbane Cauldron Mount to your Collecti | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
-   "at": "2026-10-27T20:56:28Z",
-   "at_ts": 1793134588.566188
-  },
-  "383521": {
-   "reason": "G4 numbers from source missing in article: 10",
-   "at": "2026-10-27T21:55:13Z",
-   "at_ts": 1793138113.609298
-  },
-  "383543": {
-   "reason": "بخش آخر بدنه مقاله («در بخش نظرات کاربران، بحث‌هایی درباره Patch 1.60.1، اندازه raid و اعدادی مانند ۱۰، ۲۰، ۲۲، ۳۹ و ۴۰ مطرح شده است.») ادعای وجود Patch 1.60.1 و اعداد ۲۲ و ۳۹ را مطرح می‌کند که منبع هیچ اشاره‌ای به آن‌ها ندارد. | G3 long English run: I think it's probably safe to | fallback هم رد شد: G4 numbers from source missing in article: 1.60.1, 10, 22, 39, 40 | G5 English token not i",
-   "at": "2026-10-27T22:46:05Z",
-   "at_ts": 1793141165.313657
-  },
-  "383541": {
-   "reason": "G4 numbers from source missing in article: 12, 20",
-   "at": "2026-10-27T22:48:05Z",
-   "at_ts": 1793141285.348636
-  },
-  "383603": {
-   "reason": "G5 English token not in source: chest | G5 English token not in source: cuirass | G5 English token not in source: byrnie | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
-   "at": "2026-10-28T00:01:23Z",
-   "at_ts": 1793145683.008435
-  },
-  "383537": {
-   "reason": "G5 English token not in source: izzard",
-   "at": "2026-10-28T00:02:40Z",
-   "at_ts": 1793145760.285911
-  },
-  "383530": {
-   "reason": "G6 CJK characters leaked into Persian prose: 吸引 | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
-   "at": "2026-10-28T00:23:38Z",
-   "at_ts": 1793147018.762552
-  },
-  "383487": {
-   "reason": "عددِ بدون منبع در مقاله: 0 | عددِ بدون منبع در مقاله: 042 | عددِ بدون منبع در مقاله: 095",
-   "at": "2026-10-28T00:27:17Z",
-   "at_ts": 1793147237.069032
-  },
-  "383519": {
-   "reason": "در پاراگراف دوم و سوم مقاله، نقل قول‌هایی مانند «Fixed an issue that could sometimes prevent the “Fools and Curses” scenario from completing» و «The Ancient Hash'ey Battle Art glove enchantments can now be applied to Warbound Until Equipped items» و چندین هاتفیکس دیگر آورده شده ک | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
-   "at": "2026-10-28T01:10:35Z",
-   "at_ts": 1793149835.252246
-  },
-  "383518": {
-   "reason": "G4 numbers from source missing in article: 10, 12.1.5, 15, 20, 26, 27, 28",
-   "at": "2026-10-28T01:12:42Z",
-   "at_ts": 1793149962.95041
-  },
-  "383617": {
-   "reason": "G1 Persian ratio 47% < 55% | G5 English token not in source: izzard | G5 English token not in source: rollback | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
-   "at": "2026-10-28T01:55:41Z",
-   "at_ts": 1793152541.329792
-  },
-  "383619": {
-   "reason": "G1 Persian ratio 54% < 55% | G5 English token not in source: beastlord's | G5 English token not in source: warwolf | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
-   "at": "2026-10-28T14:32:38Z",
-   "at_ts": 1793197958.158388
-  },
-  "383632": {
-   "reason": "G4 numbers from source missing in article: 62 | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
-   "at": "2026-10-28T17:42:07Z",
-   "at_ts": 1793209327.241375
-  },
-  "383630": {
-   "reason": "«در بخش نظرات کاربران به مواردی مانند Patch 1.60.1، ۱۰٪، ۱۵، ۱۶، ۲۷، ۲۸ و ۸۰۰ اشاره شده است» — منبع هیچ اشاره‌ای به این اعداد و کامنت‌ها در مقاله ندارد و این‌ها از کامنت‌های کاربران استخراج شده‌اند که بخشی از خبر اصلی نیستند. | «اخبار مرتبط دیگری نیز در صفحه وجود دارد که شامل به‌روزرسانی‌های مختلف برای World of Warcraft: Forever می‌شود» — منبع فقط فهرست اخبار مرتبط را نشان می‌دهد و هیچ توصیف یا نت",
-   "at": "2026-10-28T17:43:04Z",
-   "at_ts": 1793209384.82785
-  },
-  "383634": {
-   "reason": "عددِ بدون منبع در مقاله: 92 | عددِ بدون منبع در مقاله: 305 | عددِ بدون منبع در مقاله: 113 | fallback هم رد شد: writer error: Remote end closed connection without response",
-   "at": "2026-10-29T14:31:29Z",
-   "at_ts": 1793284289.650878
-  },
-  "383635": {
-   "reason": "G5 English token not in source: explorable | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
-   "at": "2026-10-29T15:38:40Z",
-   "at_ts": 1793288320.138897
-  },
-  "383651": {
-   "reason": "عددِ بدون منبع در مقاله: 12 | عددِ بدون منبع در مقاله: 1 | عددِ بدون منبع در مقاله: 7 | fallback هم رد شد: writer error: The read operation timed out",
-   "at": "2026-10-29T19:07:41Z",
-   "at_ts": 1793300861.316452
-  },
-  "383650": {
-   "reason": "G5 English token not in source: izzard",
-   "at": "2026-10-29T19:13:33Z",
-   "at_ts": 1793301213.070638
-  },
-  "383653": {
-   "reason": "«November 4th» در lead_fa ذکر شده اما منبع فقط می‌گوید November 4th بدون افزودن سال یا جزئیات بیشتر؛ با این حال این تاریخ دقیقاً در منبع هست و block نیست — اصلاح: block برای «در November 4th آماده می‌کند» نیست، اما جمله lead_fa ادعا می‌کند Blizzard «با انتشار خلاصه‌ای» آماده می‌ک | fallback هم رد شد: عددِ بدون منبع در مقاله: 000 | عددِ بدون منبع در مقاله: 2",
-   "at": "2026-10-29T20:38:08Z",
-   "at_ts": 1793306288.301006
-  },
-  "383656": {
-   "reason": "«در ۹ دسامبر سه raid ... در دسترس قرار می‌گیرد» — منبع می‌گوید ۹ دسامبر (December 9) اما هیچ تاریخی برای لانچ WoW: Forever ذکر نکرده و فقط گفته «در کمتر از یک هفته در ۴ نوامبر». | «۹ دانجن جدید پنج‌نفره برای سطوح ۱۳ تا ۶۰ معرفی شده است» — منبع دقیقاً «nine new five-player dungeon | fallback هم رد شد: writer error: Remote end closed connection without response",
-   "at": "2026-10-29T22:05:22Z",
-   "at_ts": 1793311522.964623
-  },
-  "383659": {
-   "reason": "«چهار Achievement مربوط به The Final Confrontation's Conclusion هر کدام ۱۰ Venomstones ... اهدا می‌کنند» — منبع فقط سه Achievement (Heroic, Mythic, Veteran) برای ۱۰ Venomstone ذکر کرده و چهارمین را جداگانه فهرست کرده است. | «بازیکنان می‌توانند ۲۰ Champion Crests، ۴۰ Hero Crests و | fallback هم رد شد: مقاله ادعا می‌کند «چهار اچیومنت مشخص شده‌اند که هر یک ۱۰ عدد Venomstones ... پاداش می‌دهند",
-   "at": "2026-10-30T01:07:27Z",
-   "at_ts": 1793322447.771402
-  },
-  "383658": {
-   "reason": "G6 CJK characters leaked into Persian prose: 难度, 难度",
-   "at": "2026-10-30T01:10:45Z",
-   "at_ts": 1793322645.673952
-  },
-  "383482": {
-   "reason": "عددِ بدون منبع در مقاله: 12 | عددِ بدون منبع در مقاله: 1 | عددِ بدون منبع در مقاله: 7 | fallback هم رد شد: عددِ بدون منبع در مقاله: 200 | G5 English token not in source: info | G5 English token not",
-   "at": "2026-10-30T14:29:43Z",
-   "at_ts": 1793370583.633048
-  },
-  "383652": {
-   "reason": "G1 Persian ratio 43% < 55% | G3 long English run: you can still play and group up with us. But what happens is that when... | G3 long English run: the server needs to choose one of our worlds for you to be placed into... | fallback هم رد شد: writer error: Remote end closed connection without response",
-   "at": "2026-10-30T15:36:26Z",
-   "at_ts": 1793374586.764412
-  },
-  "383666": {
-   "reason": "G1 Persian ratio 52% < 55% | G7 body: plain paragraphs must be >=40 chars | fallback هم رد شد: عددِ بدون منبع در مقاله: 200 | G5 English token not in source: quote",
-   "at": "2026-10-30T18:41:37Z",
-   "at_ts": 1793385697.140434
-  },
-  "383664": {
-   "reason": "عددِ بدون منبع در مقاله: 200 | G5 English token not in source: izzard | G5 English token not in source: quote",
-   "at": "2026-10-30T18:44:15Z",
-   "at_ts": 1793385855.513667
+  "383670": {
+   "reason": "G4 numbers from source missing in article: 16 | G5 English token not in source: kind | G5 English token not in source: dispel | fallback هم رد شد: writer error: Remote end closed connection without response",
+   "at": "2026-10-31T10:03:34Z",
+   "at_ts": 1793441014.497206
   },
   "383669": {
-   "reason": "G5 English token not in source: table | G5 English token not in source: rows | G5 English token not in source: head | fallback هم رد شد: writer error: The read operation timed out",
-   "at": "2026-10-30T20:08:01Z",
-   "at_ts": 1793390881.786073
+   "reason": "«بتای WoW: Forever به پایان رسیده و کمتر از یک هفته تا زمان عرضه نهایی باقی مانده است» — منبع فقط می‌گوید launch is less than a week away و beta is now over؛ «عرضه نهایی» و «زمان عرضه نهایی» invented claim است. | «بازیکنان برای شروع WoW: Forever در November 4th آماده هستند؟» — منبع می‌گوید on November 4th؛ November 4th را به فارسی November 4th نوشته‌اید اما جمله را به شکل سؤال مستقیم از بازیکنان د",
+   "at": "2026-10-31T10:08:52Z",
+   "at_ts": 1793441332.250972
   },
-  "383670": {
-   "reason": "G4 numbers from source missing in article: 16 | G5 English token not in source: table | G5 English token not in source: rejuvenation | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
-   "at": "2026-10-31T00:02:07Z",
-   "at_ts": 1793404927.344018
+  "383666": {
+   "reason": "عددِ بدون منبع در مقاله: 200 | G5 English token not in source: quote",
+   "at": "2026-10-31T10:09:36Z",
+   "at_ts": 1793441376.222294
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-31T00:02:14Z",
+ "updated_at": "2026-10-31T10:09:36Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1797,6 +1622,46 @@
     "warns": 0,
     "sec": 6.9,
     "attempts": 1
+   },
+   {
+    "id": "383670",
+    "ts": "2026-10-31T10:03:34Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 6,
+    "warns": 0,
+    "sec": 68.7,
+    "attempts": 2
+   },
+   {
+    "id": "383670",
+    "ts": "2026-10-31T10:07:54Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 260.3,
+    "attempts": 1
+   },
+   {
+    "id": "383669",
+    "ts": "2026-10-31T10:08:52Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 1,
+    "sec": 57.3,
+    "attempts": 2
+   },
+   {
+    "id": "383666",
+    "ts": "2026-10-31T10:09:36Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 44.0,
+    "attempts": 2
    }
   ]
  }

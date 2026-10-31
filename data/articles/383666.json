@@ -163,7 +163,7 @@
   }
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383666/1.jpg",
- "hold_reason": "G1 Persian ratio 52% < 55% | G7 body: plain paragraphs must be >=40 chars | fallback هم رد شد: عددِ بدون منبع در مقاله: 200 | G5 English token not in source: quote",
- "hold_count": 1,
- "hold_at": "2026-10-30T18:41:37Z"
+ "hold_reason": "عددِ بدون منبع در مقاله: 200 | G5 English token not in source: quote",
+ "hold_count": 2,
+ "hold_at": "2026-10-31T10:09:36Z"
 }
