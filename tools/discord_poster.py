@@ -4,35 +4,51 @@
 کاری که می‌کند:
   1. فید news.json را می‌خواند (لوکال docs/news.json یا URL) و خبرهای جدید
      نسبت به data/discord_state.json را پیدا می‌کند.
-  2. تصویر هر خبر را برمی‌دارد (ترجیحاً نسخهٔ خودمیزبانِ data/news-img/<id>/)
-     و واترمارک واو‌فارسی را با انتخاب خودکار واریانت می‌زند:
-       پس‌زمینه تیره  → واترمارک سفید
-       پس‌زمینه متوسط → واترمارک طلایی (رنگی)
-       پس‌زمینه روشن  → واترمارک مینیمال (مشکی)
-  3. با توکن ربات، یک embed فارسی + دکمه‌های لینک به کانال مقصد می‌فرستد.
+  2. تصویر هر خبر را برمی‌دارد و واترمارک رسمی واو‌فارسی (دو لوگوی خودِ
+     صاحب سایت) را می‌زند:
+       پس‌زمینهٔ تیره  → لوگوی طلایی  (assets/watermark/logo-gold.png)
+       پس‌زمینهٔ روشن → لوگوی صدفی (assets/watermark/logo-ivory.png)
+  3. تصویر را **مستقیم به‌عنوان پیوست دیسکورد** می‌فرستد (attachment://).
+     پیوست روی CDN خود دیسکورد ذخیره می‌شود و برخلاف لینک خارجی هیچ‌وقت
+     از دست نمی‌رود — تصویر خبر همیشه در embed نمایش داده می‌شود.
   4. شناسهٔ خبرهای فرستاده‌شده را در data/discord_state.json ثبت می‌کند
      (CI آن را commit می‌کند تا خبر تکراری نفرستد).
+
+چرا پیوست و نه لینک تصویر Pages؟ (ریشهٔ باگ «عکس خبر در دیسکورد نمی‌آید»)
+  نسخهٔ قبلی embed.image را روی لینک
+  pvwvuow.github.io/wowheadFA/assets/news/<id>/wm.jpg می‌گذاشت. ولی
+  build_site.py در هر اجرا کل docs/ را rmtree و از نو می‌سازد و wm.jpg را
+  هرگز دوباره تولید نمی‌کرد → چند دقیقه بعد از پست، لینک ۴۰۴ می‌شد و
+  دیسکورد تصویر را از embed حذف می‌کرد. پیوست دیسکورد نقطهٔ شکست خارجی
+  ندارد؛ برای همین مسیر publish-to-Pages کاملاً حذف شد.
+
+منبع تصویر (به ترتیب):
+  1. data/news-img/<id>/      — نسخهٔ اصلی (واترمارک اینجا زده می‌شود)
+  2. docs/assets/news/<id>/   — خروجی build_site (خودش مهر خورده؛ دوباره
+                                 مهر نمی‌زنیم که واترمارک دوتایی نشود)
+  3. thumb فید               — URL بیرونی مهر می‌خورد؛ اگر لینک خودِ ما
+                                 (Pages) باشد یعنی مهر خورده است
 
 CLI:
   python3 tools/discord_poster.py                 # اجرای عادی (CI)
   python3 tools/discord_poster.py --dry-run       # همه‌چیز به‌جز ارسال
   python3 tools/discord_poster.py --limit 3       # حداکثر ۳ خبر در هر اجرا
   python3 tools/discord_poster.py --id 383659     # اجبارِ ارسال یک خبر مشخص
-  python3 tools/discord_poster.py --mark-posted   # فقط ثبت وضعیت فعلی بدون ارسال
+  python3 tools/discord_poster.py --mark-posted   # فقط ثبت وضعیت، بدون ارسال
 
 Env:
   DISCORD_BOT_TOKEN   توکن ربات (بدون آن، خروج با پیام و کد 0 انجام می‌شود)
   DISCORD_CHANNEL_ID  کانال مقصد (پیش‌فرض: چنل خبر wowfarsi)
   NEWS_JSON           مسیر/URL فید (پیش‌فرض: docs/news.json در همین ریپو)
   STATE_FILE          پیش‌فرض data/discord_state.json
-  WATERMARK_DIR       پیش‌فرض assets/watermark
-  POST_ON_FIRST_RUN   اگر "1" باشد در اولین اجرا همهٔ خبرهای موجود را می‌فرستد
+  POST_ON_FIRST_RUN   اگر "1" باشد در اولین اجرا همهٔ خبرها را می‌فرستد
                       (پیش‌فرض 0 = اولین اجرا فقط وضعیت را seed می‌کند)
   LINK_MODE           wowfarsi (پیش‌فرض) | pages  — مقصد دکمهٔ «مشاهده خبر»
 """
 import argparse
 import json
 import os
+import shutil
 import sys
 import tempfile
 import time
@@ -40,6 +56,7 @@ import urllib.request
 from datetime import datetime, timezone
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(ROOT, "tools"))
 
 try:
     from PIL import Image
@@ -53,14 +70,12 @@ except ImportError:
 API = "https://discord.com/api/v10"
 DEFAULT_CHANNEL = "1565441578225504378"   # چنل خبر — discord.com/channels/1565219490554183681/1565441578225504378
 DEFAULT_LINK_BASE = "https://wowfarsi.ir/news/{id}-{slug}.html"
+PAGES_BASE = "https://pvwvuow.github.io/wowheadFA/assets/news"
+SITE_ICON = "https://wowfarsi.ir/assets/img/logo.webp"   # آیکون author/footer — URL پایدار سایت اصلی
 GOLD = 0xF0B232
 UA = "wowfarsi-discord-bot/1.0 (+https://wowfarsi.ir)"
-
-WM_VARIANTS = {          # (فایل، آلفا)
-    "white":  ("wf-white.png", 0.92),
-    "golden": ("wf-golden.png", 0.94),
-    "minimal": ("wf-minimal.png", 0.90),
-}
+MAX_W = 1600          # سقف عرض تصویر برای حجم پیوست دیسکورد
+JPEG_Q = 88
 
 # ---------- تقویم شمسی (همان الگوریتم build_news واو‌فارسی) ----------
 FA_DIGITS = str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹")
@@ -129,72 +144,64 @@ def save_state(path, st):
         f.write("\n")
 
 
-# ---------- واترمارک ----------
+# ---------- تصویر و واترمارک ----------
 def _fetch_bytes(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=40) as r:
         return r.read()
 
 
-def source_image(article):
-    """بهترین نسخهٔ تصویر خبر: فایل خودمیزبان لوکال، وگرنه thumb فید."""
-    aid = article["id"]
+def _first_local_img(aid):
+    """(مسیر تصویر خودمیزبان، ریشه‌ای که پیدا شد) — یا (None, None)."""
     for base in (os.path.join(ROOT, "data", "news-img", str(aid)),
                  os.path.join(ROOT, "docs", "assets", "news", str(aid))):
         if os.path.isdir(base):
             for name in sorted(os.listdir(base)):
                 if name.lower().endswith((".jpg", ".jpeg", ".png", ".webp")):
-                    return os.path.join(base, name)
-    thumb = article.get("thumb") or ""
-    if thumb.startswith("http"):
-        data = _fetch_bytes(thumb)
-        fd, p = tempfile.mkstemp(suffix=".img")
+                    return os.path.join(base, name), base
+    return None, None
+
+
+def prepare_image(article):
+    """تصویر آمادهٔ پیوست: jpg با عرض ≤ MAX_W و واترمارک رسمی.
+    خروجی: مسیر فایل، یا None اگر خبر تصویری نداشت / تصویر خراب بود."""
+    if Image is None:                       # بدون Pillow ارسال بی‌واترمارک
+        local, _ = _first_local_img(article["id"])
+        return local
+    aid = article["id"]
+    path, base = _first_local_img(aid)
+    stamped = False
+    if path is not None:
+        # docs = خروجی build_site که خودش watermark_tree زده → دوباره مهر
+        # نزنیم؛ data/news-img = نسخهٔ اصلی و تمیز.
+        stamped = os.path.join("data", "news-img") not in base
+    else:
+        thumb = article.get("thumb") or ""
+        if not thumb.startswith("http"):
+            return None
+        fd, path = tempfile.mkstemp(suffix=".img")
         with os.fdopen(fd, "wb") as f:
-            f.write(data)
-        return p
-    return None
+            f.write(_fetch_bytes(thumb))
+        # لینک thumb خودِ ما (Pages) خروجی build_site است → مهر خورده
+        stamped = thumb.startswith(PAGES_BASE)
 
-
-def pick_variant(img):
-    """روشناییِ ناحیهٔ پایین-راست (جای واترمارک) → واریانت مناسب."""
-    w, h = img.size
-    region = img.convert("L").crop((int(w * 0.55), int(h * 0.70), w, h))
-    hist = region.histogram()
-    total = sum(hist) or 1
-    mean = sum(i * c for i, c in enumerate(hist)) / total
-    if mean < 105:
-        return "white"
-    if mean > 175:
-        return "minimal"
-    return "golden"
-
-
-def watermark_image(src_path, out_path, wm_dir):
-    base = Image.open(src_path).convert("RGBA")
-    if base.width > 1600:                       # سقف حجم برای دیسکورد
-        nh = int(base.height * 1600 / base.width)
-        base = base.resize((1600, nh), Image.LANCZOS)
-    variant = pick_variant(base)
-    fname, alpha = WM_VARIANTS[variant]
-    wm = Image.open(os.path.join(wm_dir, fname)).convert("RGBA")
-    bbox = wm.getbbox()
-    if bbox:
-        wm = wm.crop(bbox)
-    tw = max(150, min(460, int(base.width * 0.26)))
-    wm = wm.resize((tw, max(1, int(wm.height * tw / wm.width))), Image.LANCZOS)
-    if alpha < 1.0:
-        a = wm.getchannel("A").point(lambda v: int(v * alpha))
-        wm.putalpha(a)
-    mx = max(14, int(base.width * 0.025))
-    px = base.width - wm.width - mx
-    py = base.height - wm.height - mx
-    if px < 0 or py < 0:                        # تصویر خیلی کوچک
-        wm = wm.resize((max(1, base.width // 3), max(1, base.height // 3)), Image.LANCZOS)
-        px = base.width - wm.width - 10
-        py = base.height - wm.height - 10
-    base.alpha_composite(wm, (px, py))
-    base.convert("RGB").save(out_path, "JPEG", quality=88, optimize=True)
-    return variant, out_path
+    img = Image.open(path)
+    img.load()
+    if img.width > MAX_W:
+        img = img.resize((MAX_W, max(1, int(img.height * MAX_W / img.width))),
+                         Image.LANCZOS)
+    if not stamped:
+        # واترمارک رسمی صاحب سایت: طلایی روی زمینهٔ تیره، صدفی روی روشن
+        # (انتخاب خودکار بر اساس روشنایی ناحیهٔ مهر — tools/watermark.py)
+        import watermark
+        tmp = os.path.join(tempfile.gettempdir(), f"wf-{aid}-raw.png")
+        img.convert("RGBA").save(tmp)
+        if watermark.watermark_file(tmp):
+            img = Image.open(tmp)
+            img.load()
+    out = os.path.join(tempfile.gettempdir(), f"wf-{aid}-wm.jpg")
+    img.convert("RGB").save(out, "JPEG", quality=JPEG_Q, optimize=True)
+    return out
 
 
 # ---------- embed دیسکورد ----------
@@ -206,9 +213,8 @@ def article_link(article):
     return base.format(id=article["id"], slug=article.get("slug", "news"))
 
 
-def build_payload(article, fname=None, image_url=None):
-    aid = article["id"]
-    title = article.get("title_fa") or article.get("title_en") or f"خبر {aid}"
+def build_payload(article, fname=None):
+    title = article.get("title_fa") or article.get("title_en") or f"خبر {article['id']}"
     lead = (article.get("lead_fa") or "").strip()
     if len(lead) > 380:
         lead = lead[:377].rsplit(" ", 1)[0].rstrip("،.؛ ") + "…"
@@ -224,7 +230,7 @@ def build_payload(article, fname=None, image_url=None):
         "author": {
             "name": "وو فارسی | WoWfarsi.ir",
             "url": "https://wowfarsi.ir",
-            "icon_url": "https://pvwvuow.github.io/wowheadFA/assets/watermark/wf-golden.png",
+            "icon_url": SITE_ICON,
         },
         "title": title,
         "url": link,
@@ -236,13 +242,11 @@ def build_payload(article, fname=None, image_url=None):
         ],
         "footer": {
             "text": "بازنویسی خبر از Wowhead • وو فارسی",
-            "icon_url": "https://pvwvuow.github.io/wowheadFA/assets/watermark/wf-golden.png",
+            "icon_url": SITE_ICON,
         },
         "timestamp": article.get("published_at") or None,
     }
-    if image_url:
-        embed["image"] = {"url": image_url}
-    elif fname:
+    if fname:
         embed["image"] = {"url": f"attachment://{fname}"}
     embed = {k: v for k, v in embed.items() if v is not None}
 
@@ -260,7 +264,7 @@ def build_payload(article, fname=None, image_url=None):
         "embeds": [embed],
         "attachments": ([{"id": 0, "filename": fname,
                           "description": str(article.get("title_en") or title)[:200]}]
-                        if (fname and not image_url) else []),
+                        if fname else []),
     }
     mention = os.environ.get("DISCORD_MENTION", "").strip()
     if mention:
@@ -268,53 +272,6 @@ def build_payload(article, fname=None, image_url=None):
     if components:
         payload["components"] = components
     return payload
-
-
-# ---------- انتشار تصویر واترمارک‌خورده روی گیت‌هاب خودمان ----------
-PAGES_BASE = "https://pvwvuow.github.io/wowheadFA/assets/news"
-
-
-def publish_images_to_git():
-    """تصاویر واترمارک‌خوردهٔ docs/assets/news را commit+push می‌کند (فقط CI).
-    برمی‌گرداند True اگر push موفق بود."""
-    if not os.path.isdir(os.path.join(ROOT, ".git")):
-        return False
-    import subprocess
-    try:
-        subprocess.run(["git", "config", "user.name", "wowfarsi-bot"], cwd=ROOT, check=True)
-        subprocess.run(["git", "config", "user.email", "bot@wowfarsi.ir"], cwd=ROOT, check=True)
-        subprocess.run(["git", "add", "docs/assets/news"], cwd=ROOT, check=True)
-        if subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=ROOT).returncode == 0:
-            return True                                   # چیزی تازه نیست
-        subprocess.run(["git", "commit", "-m",
-                        "discord: watermarked images [skip ci]"], cwd=ROOT, check=True)
-        for attempt in range(3):
-            subprocess.run(["git", "pull", "--no-rebase", "origin", "main"], cwd=ROOT,
-                           check=False, capture_output=True)
-            p = subprocess.run(["git", "push", "origin", "main"], cwd=ROOT,
-                               capture_output=True)
-            if p.returncode == 0:
-                return True
-            time.sleep(4)
-        return False
-    except Exception as e:
-        print(f"   !! انتشار تصاویر روی گیت‌هاب ناموفق: {e}")
-        return False
-
-
-def wait_url_ready(url, timeout_s=150, step=12):
-    """منتظر 200 شدن URL تصویر (تاخیر دیپلوی Pages) — تا سقف timeout_s."""
-    deadline = time.time() + timeout_s
-    while time.time() < deadline:
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=20) as r:
-                if r.status == 200:
-                    return True
-        except Exception:
-            pass
-        time.sleep(step)
-    return False
 
 
 # ---------- ارسال ----------
@@ -349,7 +306,6 @@ def main():
 
     feed_path = os.environ.get("NEWS_JSON") or os.path.join(ROOT, "docs", "news.json")
     state_path = os.environ.get("STATE_FILE") or os.path.join(ROOT, "data", "discord_state.json")
-    wm_dir = os.environ.get("WATERMARK_DIR") or os.path.join(ROOT, "assets", "watermark")
     channel = os.environ.get("DISCORD_CHANNEL_ID") or DEFAULT_CHANNEL
     token = os.environ.get("DISCORD_BOT_TOKEN", "").strip()
 
@@ -391,71 +347,39 @@ def main():
 
     sent = 0
     published_any = False
-    wm_files = []
-    variants = {}
     for a in targets:
         aid = a["id"]
         fname = f"{aid}-wm.jpg"
         img_path = None
         try:
-            src = source_image(a)
-            if src:
-                img_path = os.path.join(tempfile.gettempdir(), f"wf-{fname}")
-                variant, img_path = watermark_image(src, img_path, wm_dir)
-                variants[aid] = variant
-                if args.dry_run:
-                    pv = os.path.join(ROOT, "data", "discord-preview")
-                    os.makedirs(pv, exist_ok=True)
-                    import shutil
-                    shutil.copyfile(img_path, os.path.join(pv, fname))
-                    print(f"   preview → {pv}/{fname} (variant={variant})")
-                else:
-                    # نسخهٔ دائمی برای سرو از GitHub Pages خودمان
-                    docs_dir = os.path.join(ROOT, "docs", "assets", "news", str(aid))
-                    os.makedirs(docs_dir, exist_ok=True)
-                    import shutil
-                    shutil.copyfile(img_path, os.path.join(docs_dir, "wm.jpg"))
-                    wm_files.append(str(aid))
+            img_path = prepare_image(a)
         except Exception as e:
-            print(f"   !! تصویر خبر {aid} ناموفق ({e}) — بدون تصویر ارسال می‌شود")
+            print(f"   !! تصویر خبر {aid} ناموفق ({type(e).__name__}: {e}) — "
+                  "بدون تصویر ارسال می‌شود")
             img_path = None
 
-    # اگر تصویر تازه‌ای ساخته شد، اول روی گیت‌هاب خودمان ببرش تا embed لینک مستقیم داشته باشد
-    use_pages = False
-    if wm_files and not args.dry_run:
-        use_pages = publish_images_to_git()
-        if use_pages:
-            print(f"images published to git: {', '.join(wm_files)}")
-        else:
-            print("!! انتشار تصویر روی Pages ناموفق → fallback به پیوست دیسکورد")
+        if img_path and args.dry_run:
+            pv = os.path.join(ROOT, "data", "discord-preview")
+            os.makedirs(pv, exist_ok=True)
+            shutil.copyfile(img_path, os.path.join(pv, fname))
+            print(f"   preview → data/discord-preview/{fname} "
+                  f"({os.path.getsize(img_path) // 1024} KB)")
+        elif not img_path:
+            print(f"   (خبر {aid} تصویری ندارد)")
 
-    for a in targets:
-        aid = a["id"]
-        fname = f"{aid}-wm.jpg"
-        img_path = os.path.join(tempfile.gettempdir(), f"wf-{fname}")
-        if not os.path.exists(img_path):
-            img_path = None
-        image_url = None
-        if use_pages and os.path.exists(os.path.join(ROOT, "docs", "assets", "news",
-                                                     str(aid), "wm.jpg")):
-            image_url = f"{PAGES_BASE}/{aid}/wm.jpg"
-            if not wait_url_ready(image_url):
-                print(f"   !! URL تصویر {aid} آماده نشد → fallback به پیوست")
-                image_url = None
-
-        payload = build_payload(a, fname=fname if img_path else None, image_url=image_url)
+        payload = build_payload(a, fname=fname if img_path else None)
         if args.dry_run:
             print(f"– [{aid}] {a.get('title_fa', '')[:60]}")
             print(json.dumps(payload, ensure_ascii=False, indent=1)[:1200])
             continue
-        r = post_message(token, channel, payload, img_path if not image_url else None,
-                         fname if (img_path and not image_url) else None)
+        r = post_message(token, channel, payload, img_path, fname if img_path else None)
         if r.status_code in (200, 201):
             posted[str(aid)] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
             sent += 1
             published_any = True
-            print(f"✔ {aid} → کانال {channel} (variant={variants.get(aid)}, "
-                  f"image={'pages-url' if image_url else 'attachment'})")
+            print(f"✔ {aid} → کانال {channel} (image=attachment "
+                  f"{os.path.getsize(img_path) // 1024} KB)"
+                  if img_path else f"✔ {aid} → کانال {channel} (بدون تصویر)")
         else:
             print(f"✘ {aid}: HTTP {r.status_code} {r.text[:200]}")
             if r.status_code in (401, 403, 404):
