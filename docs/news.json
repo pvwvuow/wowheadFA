@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T18:58:27Z",
+ "generated": "2026-10-31T19:10:00Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -34,7 +34,7 @@
    "title_en": "Repeatable Quest Experience Exploit Fixed for WoW: Forever Launch",
    "source_url": "https://www.wowhead.com/news=383574",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383574-repeatable-quest-experience-exploit-fixed-for-wow-forever-launch.html",
-   "published_at": "2026-10-31T18:56:18Z",
+   "published_at": "2026-10-31T18:00:00Z",
    "model": "gemini-flash-latest",
    "via": "auto-gemini",
    "reviewer": "grok-4",
@@ -47,338 +47,100 @@
    ]
   },
   {
-   "id": 383537,
-   "slug": "rp-pvp-ruleset-coming-to-wow-forever",
-   "title_fa": "افزوده شدن سرورهای RP-PvP به بازی WoW: Forever",
-   "lead_fa": "شرکت Blizzard تایید کرد که سرورهای دارای قوانین RP-PvP هم‌زمان با لانچ رسمی WoW: Forever در دسترس قرار می‌گیرند و رزرو نام آن‌ها از هفته آینده آغاز می‌شود.",
+   "id": 383669,
+   "slug": "over-8-million-characters-were-created-in-the-wow-forever-beta",
+   "title_fa": "بیش از ۸ میلیون شخصیت در بتای WoW: Forever ساخته شد",
+   "lead_fa": "بلیزارد آمار جالبی از بتای WoW: Forever منتشر کرده است که نشان‌دهنده فعالیت گسترده بازیکنان در این دوره است.",
    "body_fa": [
-    "شرکت Blizzard رسماً اعلام کرد که مجموعه قوانین RP-PvP را برای زمان لانچ بازی WoW: Forever اضافه خواهد کرد. این تصمیم پس از گفت‌وگوهای قسمت اخیر برنامه WoW: Forever Podcast و بررسی بازخوردهای بازیکنان اتخاذ شده است.",
+    "بتای WoW: Forever اکنون به پایان رسیده و لانچ کمتر از یک هفته دیگر باقی مانده است. بلیزارد آمار مختلفی از این بتا منتشر کرده که شامل تعداد شخصیت‌های ساخته‌شده و مجموع کشتن‌های PvP می‌شود.",
+    {
+     "t": "h",
+     "x": "آمار منتشرشده"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "Characters Created: 8,862,354",
+      "PvP Kills: 9,959,014",
+      "Skyborne: 1,889,084",
+      "Duels Fought: 1,248,125",
+      "Forsaken Paladins: 612,096",
+      "Deaths from Falling: 1,157,204"
+     ]
+    },
+    "Deadliest Dungeon در این بتا The Hall of Thanes بوده است. Deadliest Creature نیز Kobold Miner اعلام شده.",
+    "Zone with the Most PvP هم Hillsbrad Foothills بوده است.",
+    "بلیزارد لانچ WoW: Forever را برای ۴ نوامبر در نظر گرفته است. برای آماده‌سازی می‌توانید راهنماهای ما را بررسی کنید."
+   ],
+   "tags_fa": [
+    "WoW: Forever",
+    "بتا",
+    "آمار بلیزارد"
+   ],
+   "items": [],
+   "title_en": "Over 8 Million Characters Were Created in the WoW: Forever Beta",
+   "source_url": "https://www.wowhead.com/news=383669",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383669-over-8-million-characters-were-created-in-the-wow-forever-beta.html",
+   "published_at": "2026-10-30T19:37:04Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383669/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383669/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383666,
+   "slug": "november-traveler-s-log-bonus-reward-hot-motocross-bunmover-4600-mount",
+   "title_fa": "جایزهٔ ویژهٔ Traveler's Log نوامبر؛ سوارکار Hot Motocross Bunmover 4600",
+   "lead_fa": "بلیزارد جایزهٔ ویژهٔ Traveler's Log ماه نوامبر را اعلام کرد که همان Hot Motocross Bunmover 4600 است؛ این سوارکار در Trading Post با تم Sweet Tooth عرضه می‌شود.",
+   "body_fa": [
+    "بلیزارد در خلاصهٔ هفتگی WoW این هفته، Trading Post ماه نوامبر را با تم Sweet Tooth پیش‌نمایش کرد. هرچند جزئیات اقلام اعلام نشد، اما جایزهٔ ویژهٔ تکمیل Traveler's Log مشخص شد: سوارکار Hot Motocross Bunmover 4600.",
+    {
+     "t": "h",
+     "x": "تم شیرین نوامبر در Trading Post"
+    },
+    "این ماه Trading Post با تم Sweet Tooth آماده است تا مجموعهٔ شما را شیرین‌تر کند. فعالیت‌ها را کامل کنید تا Trader's Tender به دست آورید و Traveler's Log را پر کنید تا جایزهٔ ویژهٔ این ماه را دریافت کنید: سوارکار Hot Motocross Bunmover 4600.",
     {
      "t": "quote",
-     "x": "در قسمت اخیر پادکست WoW Forever به بخشی از نگرانی‌های خود درباره افزودن رول‌ست Roleplay-PVP در WoW Forever اشاره کردیم، اما گفتیم که این موضوع همچنان در حال بررسی داخلی است و بازخورد بازیکنان را زیر نظر داریم. طی چند روز گذشته جوانب این موضوع را سنجیدیم و تصمیم گرفتیم آن را اضافه کنیم. ما رول‌ست Roleplay-PVP را برای عرضه در ۴ نوامبر آماده خواهیم کرد. همچنین تلاش می‌کنیم تا بتوانید این رول‌ست را هنگام آغاز دوره رزرو نام در روز سه‌شنبه ۲۷ اکتبر انتخاب کنید. از بازخوردها و نظرات در این مورد بسیار سپاسگزاریم.",
+     "x": "وقتی تولید دسر با بهینه‌سازی سرعت دیدار می‌کند. تحویل سالم نان تضمین نمی‌شود.",
      "by": "Blizzard"
     },
+    "این سوارکار از جلو و پشت ظاهر متفاوتی دارد و می‌توانید آن را در Trading Post مشاهده کنید.",
     {
      "t": "h",
-     "x": "برنامه زمانی رزرو نام و عرضه"
+     "x": "مکان‌های Trading Post"
     },
-    "طبق اعلام تیم سازنده، انتخاب سرور و رزرو نام برای رول‌ست RP-PvP هم‌زمان با شروع دوره رزرو نام‌ها در روز سه‌شنبه ۲۷ اکتبر (October 27) فعال خواهد شد و خود بازی نیز در تاریخ ۴ نوامبر رسماً لانچ می‌شود.",
+    "برای دیدن اقلام جدید به T&W (Tawney and Wilder) درست بیرون از Mage District در Stormwind سر بزنید یا به Zen’shiri Trading Post کنار Grommash Hold در Orgrimmar بروید. همچنین می‌توانید به Trading Post در پایتخت‌های Dornogal (The Foregrounds) در Isle of Dorn و Silvermoon City بازسازی‌شده مراجعه کنید که نمایندگان هر دو غرفه آنجا حضور دارند.",
     {
      "t": "note",
-     "x": "دوره رزرو نام‌ها در تاریخ ۲۷ اکتبر کلید می‌خورد و عرضه جهانی بازی در ۴ نوامبر انجام خواهد شد.",
+     "x": "بازیکنان تازه‌وارد یا بازگشتی به World of Warcraft و Midnight می‌توانند از Trading Post بازدید کنند تا همهٔ جزئیات را از مکان آن تا نحوهٔ کسب Trader's Tender بیشتر از طریق Traveler's Log بیاموزند.",
      "kind": "info"
     },
-    {
-     "t": "h",
-     "x": "جزئیات پایگاه داده و خبرهای مرتبط"
-    },
-    "این خبر با شناسه 383537 در تاریخ 2026-10-22 به ثبت رسیده است و نظرات بازیکنان تحت نسخه 1.60.1 به ثبت رسیده‌اند. بخش نظرات شامل ۲۰ دیدگاه از ۲۰ نظر ثبت‌شده در صفحه نخست است و کاربرانی نظیر 5RanceRaptor و 12Heavyharper دیدگاه‌های خود را مطرح کرده‌اند. همچنین در خبرهای سایت، عناوینی چون انتشار هاتفیکس‌های ۳۰ اکتبر ۲۰۲۶ (October 30, 2026) در بازه‌های زمانی ۱۵ ساعت و ۱۶ ساعت پیش، آماده‌سازی برای عرضه در ۲۱ ساعت و ۲۲ ساعت قبل، رفع باگ کوئست‌ها در ۲۰ دقیقه پیش و ساخت بیش از ۸ میلیون کاراکتر در بتا به چشم می‌خورد."
+    "برای دریافت این جایزهٔ ویژه باید Traveler's Log ماه نوامبر را کامل کنید و عدد 4600 در نام سوارکار به همین شکل حفظ شده است."
    ],
    "tags_fa": [
-    "WoW Forever",
-    "بلیزارد",
-    "اخبار سرورها",
-    "رول پلی"
+    "Trading Post",
+    "Traveler's Log",
+    "Hot Motocross Bunmover 4600",
+    "نوامبر"
    ],
    "items": [],
-   "title_en": "RP-PvP Ruleset Coming to WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383537",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383537-rp-pvp-ruleset-coming-to-wow-forever.html",
-   "published_at": "2026-10-31T18:24:08Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383537/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383537/1.png",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383599,
-   "slug": "more-labyrinth-class-bug-fixes-patch-12-1-5-hotfixes-for-october-26th",
-   "title_fa": "رفع باگ‌های جدید برای کلاس‌ها و Labyrinth در هاتفیکس‌های ۲۶ اکتبر",
-   "lead_fa": "بلیزارد در هاتفیکس‌های ۲۶ اکتبر ۲۰۲۶ مجموعه‌ای از باگ‌های مربوط به کلاس‌ها، سناریوهای Labyrinth و رویداد Hallow's End را برطرف کرد.",
-   "body_fa": [
-    "شرکت Blizzard برای تاریخ ۲۶ اکتبر ۲۰۲۶ هاتفیکس‌های جدیدی منتشر کرده است که بخش عمدهٔ آن به برطرف کردن ایرادات فنی کلاس‌ها و سناریوهای Labyrinth اختصاص دارد.",
-    {
-     "t": "h",
-     "x": "تغییرات و رفع ایرادات کلاس‌ها"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "کلاس Shaman تخصص Enhancement: مشکلی که باعث می‌شد در صورت قرار داشتن Ula’tek به عنوان هدف اصلی، توانایی Voltaic Blaze به هدف‌های ثانویه اصابت نکند برطرف شد.",
-      "کلاس Warlock تخصص Affliction: مشکلی که در برخی مواقع مانع نمایش درست Summon Darkglare توسط Cooldown Manager می‌شد اصلاح گردید.",
-      "بخش Player versus Player برای کلاس Paladin تخصص Holy: باگی که هنگام اجرای Blessing of Protection باعث قرار گرفتن Cleanse در وضعیت Cooldown به دلیل Spreading the Word می‌شد رفع شد."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "تغییرات Labyrinth و رویداد Hallow's End"
-    },
-    "در رویداد Hallow's End و بخش Neighborhoods، از این پس با تصاحب Shade of Seabreaker Skoloth تنها یک صندوق ظاهر خواهد شد.",
-    {
-     "t": "ul",
-     "xs": [
-      "در سناریوی The Wandering، مشکلی که به دلیل ورود و خروج بازیکنان دیگر از محدودهٔ اتصال ارواح باعث توقف لحظه‌ای حرکت Remnant می‌شد حل شد.",
-      "در سناریوی Containment Breach، روشن کردن مجدد یک منقل Flame of Jan’alai دیگر دو بار برای هدف Flames Relit محاسبه نمی‌شود.",
-      "مشکلی که گاهی اوقات باعث تکمیل مکرر هدف امتیازی Come to Your Senses در خارج از سناریوی Encroaching Darkness می‌شد برطرف گردید."
-     ]
-    }
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "Labyrinth",
-    "تغییرات کلاس‌ها"
-   ],
-   "items": [],
-   "title_en": "More Labyrinth & Class Bug Fixes - Patch 12.1.5 Hotfixes for October 26th",
-   "source_url": "https://www.wowhead.com/news=383599",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383599-more-labyrinth-class-bug-fixes-patch-12-1-5-hotfixes-for-october-26th.html",
-   "published_at": "2026-10-31T17:20:34Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383599/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383599/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383619,
-   "slug": "warlords-of-draenor-timewalking-week-now-live",
-   "title_fa": "هفته تایم‌واکینگ Warlords of Draenor اکنون فعال است",
-   "lead_fa": "هفته تایم‌واکینگ Warlords of Draenor اکنون برای این هفته فعال شده است و بازیکنان می‌توانند با اجرای دانجن‌ها، Timewarped Badge به دست آورند.",
-   "body_fa": [
-    "تایم‌واکینگ Warlords of Draenor شامل شش دانجن است که بازیکنان می‌توانند آن‌ها را اجرا کنند تا Gear و Timewarped Badge کسب نمایند.",
-    {
-     "t": "ul",
-     "xs": [
-      "Auchindoun: 5 Timewarped Badge",
-      "Bloodmaul Slag Mines: 5 Timewarped Badge",
-      "The Everbloom: 5 Timewarped Badge required bosses, 5 Timewarped Badge full run",
-      "Grimrail Depot: 5 Timewarped Badge",
-      "Shadowmoon Burial Grounds: 5 Timewarped Badge",
-      "Skyreach: 5 Timewarped Badge"
-     ]
-    },
-    "در پایان دانجن اول، آیتمی لوت می‌شود که ۵۰۰ Timewarped Badge اعطا می‌کند. این آیتم را می‌توان به Tempra و Kronnus تحویل داد.",
-    {
-     "t": "table",
-     "head": [
-      "مکان",
-      "مختصات"
-     ],
-     "rows": [
-      [
-       "#622",
-       "37.2 72.6"
-      ],
-      [
-       "#624",
-       "42.8 54.6"
-      ]
-     ]
-    },
-    "سه مونت با استفاده از Timewarped Badge قابل خرید هستند.",
-    {
-     "t": "note",
-     "x": "برای فهرست کامل پاداش‌ها، راهنمای Warlords of Draenor Timewalking را بررسی کنید.",
-     "kind": "info"
-    },
-    "این رویداد فرصت مناسبی برای کسب Gear و جمع‌آوری Badges است."
-   ],
-   "tags_fa": [
-    "تایم‌واکینگ",
-    "Warlords of Draenor",
-    "دانجن"
-   ],
-   "items": [],
-   "title_en": "Warlords of Draenor Timewalking Week Now Live",
-   "source_url": "https://www.wowhead.com/news=383619",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383619-warlords-of-draenor-timewalking-week-now-live.html",
-   "published_at": "2026-10-31T16:51:56Z",
+   "title_en": "November Traveler's Log Bonus Reward - Hot Motocross Bunmover 4600 Mount",
+   "source_url": "https://www.wowhead.com/news=383666",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383666-november-traveler-s-log-bonus-reward-hot-motocross-bunmover-4600-mount.html",
+   "published_at": "2026-10-30T17:31:46Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383619/1.jpg",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383666/1.jpg",
    "images": [
     {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383619/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383634,
-   "slug": "after-2-weeks-over-200k-players-have-defeated-tier-11-kindo-jan-solo",
-   "title_fa": "پس از دو هفته بیش از ۲۰۰ هزار بازی‌کننده Tier 11 Kindo'jan را به صورت تک‌نفره شکست دادند",
-   "lead_fa": "هال آف فیم Delve اکنون بسته شده و بیش از ۲۰۰ هزار بازی‌کننده Tier 11 Kindo'jan را به صورت تک‌نفره شکست داده و دستاورد Let Me Solo Him! را کسب کرده‌اند.",
-   "body_fa": [
-    "برای اولین بار بلیزارد دستاورد Nemesis boss achievement را به مدت یک هفته کامل تمدید کرد و به بازیکنان فرصت داد تا Fabled Let Me Solo Him: Kindo'jan را برای یک هفته اضافی کسب کنند.",
-    "در پایان هفته گذشته بیش از ۱۵۰ هزار بازی‌کننده Tier 11 Kindo'jan را به صورت تک‌نفره شکست داده بودند و در طول هفته اضافی ۵۰ هزار بازی‌کننده دیگر این دستاورد را کسب کردند.",
-    "هر دو ریست هفتگی NA و EU اکنون انجام شده و آمار نهایی به ترتیب ۹۲٬۳۰۵ برای NA و ۱۱۳٬۲۰۱ برای EU ثبت شده است.",
-    "تبریک به همه کسانی که Kindo'jan را شکست دادند!"
-   ],
-   "tags_fa": [
-    "Delve",
-    "Kindo'jan",
-    "Let Me Solo Him"
-   ],
-   "items": [],
-   "title_en": "After 2 Weeks, Over 200k Players Have Defeated Tier 11 Kindo'jan Solo",
-   "source_url": "https://www.wowhead.com/news=383634",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383634-after-2-weeks-over-200k-players-have-defeated-tier-11-kindo-jan-solo.html",
-   "published_at": "2026-10-31T16:19:13Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383634/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383634/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383635,
-   "slug": "patch-cadence-future-locations-respeccing-ign-interview-on-wow-forever",
-   "title_fa": "مصاحبه آی‌جی‌ان با بلیزارد درباره ووو: فوراور؛ از cadence به‌روزرسانی تا مکان‌های آینده",
-   "lead_fa": "تیم بلیزارد در مصاحبه با آی‌جی‌ان درباره ووو: فوراور به بحث در مورد cadence به‌روزرسانی، مکان‌های آینده، respeccing و موضوعات دیگر پرداخته است.",
-   "body_fa": [
-    "آی‌جی‌ان با Kris Zierhut طراح ارشد بازی و Tim Jones طراح ارشد کلاسیک مصاحبه کرده است. این مصاحبه درباره ووو: فوراور به بررسی تفاوت آن با ووو کلاسیک، ستون‌های اصلی طراحی، بهبودهای گرافیکی، cadence انتشار و مکان‌های آینده پرداخته است.",
-    "{'t': 'h', 'x': 'تفاوت ووو: فوراور با ووو کلاسیک'}",
-    "ووو کلاسیک شبیه به یک موزه است که سال‌ها با تغییرات بسیار کم حفظ شده تا کسانی که می‌خواهند تجربه اصلی را ببینند بتوانند آن را حفظ کنند. ووو: فوراور نسخه‌ای است که اگر هرگز به Outland نرفته بودند و به توسعه جهان ادامه می‌دادند چه می‌شد؛ مانند افزودن کوئست‌های جدید یا Professions.",
-    "هنگام انتخاب تغییرات از ووو: کلاسیک، تیم به چهار ستون اصلی خود نگاه می‌کند. مهم‌ترین آن احتمالاً «the world is the main character» است. سفر باید به اندازه مقصد مهم باشد و جهان باید پر از محتوا به نظر برسد، چه در کدام zone باشید. آن‌ها از تجربه Hardcore الهام گرفته‌اند که در آن هر zone پر از بازیکنان بود زیرا مرگ باعث reroll می‌شد.",
-    "برای «approachable and familiar» پایه کلاسیک را قابل دسترس می‌دانند و با دقت به عناصری مانند SD models پرداخته‌اند. رابط کاربری مدرن استفاده می‌شود اما همچنان حس کلاسیک را حفظ کرده و کپی از رابط کاربری retail نیست. همچنین تلاش شده بازی را «unsolving» کنند تا مسیر leveling و انتخاب Professions کاملاً مشخص نباشد.",
-    "{'t': 'h', 'x': 'بهبودهای Lightning و Shadow و موتور بازی'}",
-    "بازیکنان ووو سال ۲۰۰۴ را بهتر از آنچه واقعاً بود به یاد می‌آورند، بنابراین تیم می‌خواهد Azeroth را همان‌طور که به یاد می‌آورند ارائه دهد نه همان‌طور که بود. هدف جذب بازیکنان جدید و نسل بعدی است که به گرافیک با fidelity بالا عادت دارند. موتور ووو spaghetti code نیست و این توصیف ناعادلانه است. Kris Zierhut شنیده که توسعه‌دهندگان دیگر موتور ووو را می‌خواهند. توسعه‌دهندگان طی ۲۵ سال گذشته برای بهبود نرخ فریم، پاسخ‌دهی سرور و موارد دیگر تلاش کرده‌اند.",
-    "{'t': 'h', 'x': 'cadence انتشار و انواع محتوا'}",
-    "تیم در طول کلاسیک cadence انتشار را آزمایش کرده است. دوره بدون محتوای جدید به مدت شش تا هشت هفته بد به نظر می‌رسد. در SoD از برنامه هشت تا ده هفته‌ای استفاده شد که خیلی سریع بود. cadence مناسب را حدود یک بار هر ۴ ماه یا ۳ بار در سال می‌دانند. این مزیت داستان‌های کوچک و محلی است که نیازی به ۶ ماه برای داستان بزرگ ندارد. محتوای کافی برای دوره ۴ ماهه وجود دارد و برنامه‌ریزی برای محتوای بینابینی هم شده است.",
-    "سه نوع محتوا وجود دارد. اول مسیر شناخته‌شده مانند Molten Core، Blackwing Lair و AQ است که ووو: فوراور به آن‌ها می‌رود اما timeline را کشیده‌تر کرده‌اند. دوم مکان‌هایی مانند Riverglades که جدید به نظر می‌رسند اما حس تعلق دارند و dungeonها و raidهای آینده هم در این دسته قرار می‌گیرند. سوم مکان‌های متفاوت مانند Skyborne و Zephras Isle. Dark Portal، Northrend و Pandaria وجود دارند و می‌توان ماجراجویی‌های کوچک مانند dungeon یا کوئست در آن‌ها داشت اما همیشه به Eastern Kingdoms و Kalimdor برمی‌گردید. این کار به زودی انجام نمی‌شود.",
-    "{'t': 'h', 'x': 'respeccing، griefing و مکان\\u200cهای دیگر'}",
-    "Dual spec از زمان launch در دسترس است و سومین spec برای آینده رد نشده. تغییر talents روی هوا مورد نظر نیست زیرا انتظار تغییر برای هر encounter ایجاد می‌کند که approachable و familiar نیست. درباره آسان‌تر کردن تغییر talent specs هنگام نیاز صحبت شده است. griefing بخشی از بازی است و وظیفه تیم ایجاد بازی است که تعاملات اجتماعی مثبت را ترویج کند. از pro-social design مانند camping system یا elite zone quests استفاده می‌شود. چهار اندازه گروه ۵، ۱۰، ۲۰ و ۴۰ وجود دارد تا بازیکنان برای تکمیل اعداد به شبکه اجتماعی مثبت خود تکیه کنند.",
-    "Hyjal در ووو: فوراور متفاوت به نظر می‌رسد زیرا flying وجود ندارد و بازیکنان از زمین آن را می‌بینند. اشاره‌هایی به Mount Hyjal raid وجود خواهد داشت. تیم می‌خواهد به Emerald Dream، Grim Batol به عنوان مکانی برای کاوش مانند Blackrock Mountain، بخش‌های کاوش‌نشده Caverns of Time، داستان Gilneas پیش از نابودی در Cataclysm و Silvermoon در آینده برود اما فعلاً روی نقاط دیگر تمرکز دارد زیرا Silvermoon در retail مورد توجه است.",
-    "Skyborne Elves محبوب‌ترین نژادها هستند. نژادهای وانیلا باعث عدم تعادل جمعیت می‌شوند زیرا بسیاری نمی‌خواهند «a monster» باشند. downtime وجود خواهد داشت که بتوانید هر دو بازی را بازی کنید. retail روی max-level gameplay متمرکز است که به صورت burst می‌آید، بنابراین در فواصل آن می‌توانید ووو: فوراور را بازی کنید. در حال حاضر برنامه‌ای برای player housing وجود ندارد. تیم می‌داند در آینده تعداد raid و dungeon زیاد می‌شود و هنوز راه‌حل آن را نمی‌دانند اما فعلاً روی انتشار بازی تمرکز دارند."
-   ],
-   "tags_fa": [
-    "Forever",
-    "مصاحبه",
-    "cadence",
-    "respeccing"
-   ],
-   "items": [],
-   "title_en": "Patch Cadence, Future Locations, Respeccing - IGN Interview on WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383635",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383635-patch-cadence-future-locations-respeccing-ign-interview-on-wow-forever.html",
-   "published_at": "2026-10-31T16:18:30Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383635/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383635/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383482,
-   "slug": "returning-to-dornogal-patch-12-1-7-campaign-playthrough-story-spoilers",
-   "title_fa": "بازگشت به Dornogal در پچ 12.1.7 و پیش‌درآمد ماجراهای پچ 12.2",
-   "lead_fa": "بازیکنان در خط داستانی جدید پچ 12.1.7 از Silvermoon خارج شده و برای تعقیب Xal'atath و باز کردن مسیر Coreway دوباره راهی Dornogal و Khaz Algar می‌شوند.",
-   "body_fa": [
-    "پس از فداکاری مهم در پایان پچ 12.1.5، مسیر داستانی بستهٔ الحاقی Midnight از ماجراهای Quel'thalas فاصله می‌گیرد و بار دیگر روی نقشه‌های Xal'atath متمرکز می‌شود. با رویایی که Orweyna مشاهده می‌کند، مشخص می‌شود که Xal'atath قصد دارد Worldsoul متعلق به Azeroth را تصاحب کند. در نتیجه، شخصیت‌های داستانی به همراه Arator تصمیم می‌گیرند راهی به سوی مرکز سیاره پیدا کنند.",
-    "با آغاز مأموریت‌های پچ 12.1.7، به دستور Lor'themar همراه با Arator به Khaz Algar و شهر Dornogal می‌رویم تا وضعیت Earthenها را بررسی کنیم. این گروه در میانهٔ پاک‌سازی مسیر ریزش‌کردهٔ Coreway هستند، اما حفاری با کندی پیش می‌رود و برای پیشروی بیشتر به کمک یک Keeper و سطح دسترسی امنیتی بالاتر نیاز دارند.",
-    {
-     "t": "h",
-     "x": "بحران Skardyn و جست‌وجو برای Tyr"
-    },
-    "هم‌زمان با کندی حفاری، Dagran Thaurissan II درخواست کمک فوری می‌دهد؛ زیرا موجودات Skardyn آلوده به Void از محل حفاری Coreway سرازیر شده‌اند. بازیکنان به همراه او راهی Hallowfall می‌شوند تا این موجودات را مهار کرده و کارگران Earthen و Arathi را نجات دهند.",
-    "پس از رفع خطر، تلاش‌ها برای یافتن Keeper Tyr که احضار شده اما هنوز نرسیده بود آغاز می‌شود. با همراهی Brann Bronzebeard، او را در سواحل Isle of Dorn در حال تماشای منظره پیدا می‌کنیم. Tyr توضیح می‌دهد که دسترسی به Coreway در حوزهٔ اختیارات او نبوده و به Keeper Archaedas تعلق داشته است. از این رو، Tyr دیسک امنیتی خود را به ما می‌دهد تا به کمک آن بقایای Archaedas را در Uldaman پیدا کنیم.",
-    {
-     "t": "note",
-     "x": "در حین گفت‌وگو، High Speaker Brinthe دربارهٔ گذشتهٔ تلخ Earthen با نگهبانانی مانند Dornic و Galan صحبت می‌کند، هرچند Tyr به دلیل فراموشی گذشته ابراز تمایل می‌کند که رابطه‌ای دوستانه شکل بگیرد.",
-     "kind": "info"
-    },
-    {
-     "t": "h",
-     "x": "ماجراجویی در Uldaman"
-    },
-    "در ورود به دانجن Uldaman، استفاده از دیسک Tyr باعث آزادی گروهی از گابلین‌های به دام افتاده می‌شود. گابلین‌ها دیسک را می‌دزدند و کنترل ربات‌های Titanforged را در دست می‌گیرند. در جریان درگیری، Dagran موفق به سرهم‌کردن یک دیسک ساختگی می‌شود که صدور فرمان‌های متضاد آن ربات‌ها را گیج می‌کند. در نهایت با ترفند Brann و Dagran دیسک‌ها پس گرفته شده و به جسد Archaedas می‌رسیم.",
-    {
-     "t": "note",
-     "x": "مدل گرافیکی Archaedas در این بخش به یک نسخهٔ کاملاً جدید با کیفیت بالا (HD) به‌روزرسانی شده است.",
-     "kind": "tip"
-    },
-    {
-     "t": "h",
-     "x": "پیش‌درآمدی بر وقایع پچ 12.2"
-    },
-    "پس از بازگشت به Vault of Memory در Dornogal، شخصیت‌ها از جمله Tyr، Arator و Brinthe گرد هم می‌آیند. اگرچه سینماتیک نهایی هنوز در دسترس نیست، دیالوگ‌ها نشان می‌دهند که مسیر دسترسی به Worldcore از طریق Coreway هموار می‌شود و رازهایی دربارهٔ Earthen آشکار خواهد شد.",
-    "این خط داستانی در اینجا به پایان می‌رسد و بازیکنان باید در پچ 12.2 تعقیب Xal'atath را به سمت منطقهٔ پایانی Midnight یعنی Mantle Vault ادامه دهند."
-   ],
-   "tags_fa": [
-    "PTR",
-    "داستان",
-    "Midnight",
-    "هاتفیکس"
-   ],
-   "items": [],
-   "title_en": "Returning to Dornogal - Patch 12.1.7 Campaign Playthrough (Story Spoilers)",
-   "source_url": "https://www.wowhead.com/news=383482",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383482-returning-to-dornogal-patch-12-1-7-campaign-playthrough-story-spoilers.html",
-   "published_at": "2026-10-31T15:16:56Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383482/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383482/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383652,
-   "slug": "blizzard-addresses-day-and-night-cycle-issues-for-oceanic-players-in-w",
-   "title_fa": "بلزارد به مشکل چرخه روز و شب برای بازیکنان اقیانوسیه در WoW: Forever پاسخ داد",
-   "lead_fa": "در جدیدترین قسمت پادکست WoW: Forever، بلزارد به مسئله چرخه روز و شب برای بازیکنان اقیانوسیه پرداخته است. این موضوع به خاطر به اشتراک گذاشتن سرور با بازیکنان آمریکای شمالی مطرح شده و نظرات بازیکنان در این باره خواسته می‌شود.",
-   "body_fa": [
-    "طبق آنچه در قسمت قبلی پادکست گفته شده بود، بازیکنان استرالیا می‌توانند با بازیکنان آمریکای شمالی روی یک سرور بازی کنند. به همین دلیل مسئله مناطق زمانی برای بازیکنان اقیانوسیه پیش می‌آید. آیا آن‌ها همیشه در زمان بازی اصلی شب را می‌بینند یا فرصت تجربه روز را هم دارند؟",
-    "طراح ارشد نرم‌افزار Ana Resendez نحوه کارکرد این سیستم را توضیح می‌دهد.",
-    "اما وقتی گروه تشکیل می\\u200cدهید، سرور باید یکی از جهان\\u200cهای ما را برای شما انتخاب کند. ما سرورهای استرالیا داریم و می\\u200cتوانیم مناطق زمانی استرالیایی روی آن\\u200cها بگذاریم، ولی وقتی دعوتی از جاش دریافت می\\u200cکنید و ناگهان در چند ثانیه از شب به روز می\\u200cروید چه اتفاقی می\\u200cافتد؟', 'by': 'Ana Resendez'}",
-    "Aggrend نیز وارد بحث شد و مستقیماً از جامعه نظر خواست.",
-    "آیا با آن مشکلی ندارید؟ آیا با این که روز و شب\\u200cتان ناگهان هر بار که گروه عوض می\\u200cکنید و بسته به مکان لیدر گروه تغییر کند، مشکلی ندارید؟ ما می\\u200cتوانیم تصمیم بگیریم و بگوییم که این کار را انجام می\\u200cدهیم، اما ممکن است برای افراد خیلی ناگهانی باشد، پس دریافت بازخورد در این مورد مفید خواهد بود.', 'by': 'Aggrend'}",
-    "حالا سؤال این است که بازیکنان اقیانوسیه چه چیزی را ترجیح می‌دهند؟ صدای خود را بلند کنید و به توسعه‌دهندگان بگویید که چه سیستم روز و شب را در WoW: Forever می‌خواهید ببینید."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "پادکست",
-    "اقیانوسیه",
-    "چرخه روز و شب"
-   ],
-   "items": [],
-   "title_en": "Blizzard Addresses Day and Night Cycle Issues for Oceanic Players in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383652",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383652-blizzard-addresses-day-and-night-cycle-issues-for-oceanic-players-in-w.html",
-   "published_at": "2026-10-31T15:14:45Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383652/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383652/1.jpg",
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383666/1.jpg",
      "cap": ""
     }
    ]
@@ -432,7 +194,7 @@
    "title_en": "WoW Weekly Recap - WoW: Forever, Talebound Demo, New Shop Decor Packs",
    "source_url": "https://www.wowhead.com/news=383664",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383664-wow-weekly-recap-wow-forever-talebound-demo-new-shop-decor-packs.html",
-   "published_at": "2026-10-31T15:13:52Z",
+   "published_at": "2026-10-30T17:20:18Z",
    "model": "grok-4.20-0309-non-reasoning",
    "via": "auto-xai",
    "reviewer": "grok-4",
@@ -445,349 +207,94 @@
    ]
   },
   {
-   "id": 383651,
-   "slug": "patch-12-1-7-ptr-development-notes-talebound-demo-available-tomorrow",
-   "title_fa": "یادداشت‌های توسعه PTR پچ ۱۲٫۱٫۷ — دمو Talebound فردا در دسترس قرار می‌گیرد",
-   "lead_fa": "بلزارد یادداشت‌های توسعه PTR برای پچ ۱۲٫۱٫۷ را منتشر کرده و به بازیکنان یادآوری کرده که دمو Talebound فردا در دسترس خواهد بود.",
+   "id": 383652,
+   "slug": "blizzard-addresses-day-and-night-cycle-issues-for-oceanic-players-in-w",
+   "title_fa": "بلزارد به مشکل چرخه روز و شب برای بازیکنان اقیانوسیه در WoW: Forever پاسخ داد",
+   "lead_fa": "در جدیدترین قسمت پادکست WoW: Forever، بلزارد به مسئله چرخه روز و شب برای بازیکنان اقیانوسیه پرداخته است. این موضوع به خاطر به اشتراک گذاشتن سرور با بازیکنان آمریکای شمالی مطرح شده و نظرات بازیکنان در این باره خواسته می‌شود.",
    "body_fa": [
-    "PTR نسخه ۱۲٫۱٫۷ به‌روزرسانی شده و همزمان با در دسترس قرار گرفتن دمو Talebound برای تست آماده می‌شود.",
-    "Talebound این آخر هفته قابل تست خواهد بود.",
+    "طبق آنچه در قسمت قبلی پادکست گفته شده بود، بازیکنان استرالیا می‌توانند با بازیکنان آمریکای شمالی روی یک سرور بازی کنند. به همین دلیل مسئله مناطق زمانی برای بازیکنان اقیانوسیه پیش می‌آید. آیا آن‌ها همیشه در زمان بازی اصلی شب را می‌بینند یا فرصت تجربه روز را هم دارند؟",
+    "طراح ارشد نرم‌افزار Ana Resendez نحوه کارکرد این سیستم را توضیح می‌دهد.",
+    "اما وقتی گروه تشکیل می\\u200cدهید، سرور باید یکی از جهان\\u200cهای ما را برای شما انتخاب کند. ما سرورهای استرالیا داریم و می\\u200cتوانیم مناطق زمانی استرالیایی روی آن\\u200cها بگذاریم، ولی وقتی دعوتی از جاش دریافت می\\u200cکنید و ناگهان در چند ثانیه از شب به روز می\\u200cروید چه اتفاقی می\\u200cافتد؟', 'by': 'Ana Resendez'}",
+    "Aggrend نیز وارد بحث شد و مستقیماً از جامعه نظر خواست.",
+    "آیا با آن مشکلی ندارید؟ آیا با این که روز و شب\\u200cتان ناگهان هر بار که گروه عوض می\\u200cکنید و بسته به مکان لیدر گروه تغییر کند، مشکلی ندارید؟ ما می\\u200cتوانیم تصمیم بگیریم و بگوییم که این کار را انجام می\\u200cدهیم، اما ممکن است برای افراد خیلی ناگهانی باشد، پس دریافت بازخورد در این مورد مفید خواهد بود.', 'by': 'Aggrend'}",
+    "حالا سؤال این است که بازیکنان اقیانوسیه چه چیزی را ترجیح می‌دهند؟ صدای خود را بلند کنید و به توسعه‌دهندگان بگویید که چه سیستم روز و شب را در WoW: Forever می‌خواهید ببینید."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "پادکست",
+    "اقیانوسیه",
+    "چرخه روز و شب"
+   ],
+   "items": [],
+   "title_en": "Blizzard Addresses Day and Night Cycle Issues for Oceanic Players in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383652",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383652-blizzard-addresses-day-and-night-cycle-issues-for-oceanic-players-in-w.html",
+   "published_at": "2026-10-30T15:00:00Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383652/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383652/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383482,
+   "slug": "returning-to-dornogal-patch-12-1-7-campaign-playthrough-story-spoilers",
+   "title_fa": "بازگشت به Dornogal در پچ 12.1.7 و پیش‌درآمد ماجراهای پچ 12.2",
+   "lead_fa": "بازیکنان در خط داستانی جدید پچ 12.1.7 از Silvermoon خارج شده و برای تعقیب Xal'atath و باز کردن مسیر Coreway دوباره راهی Dornogal و Khaz Algar می‌شوند.",
+   "body_fa": [
+    "پس از فداکاری مهم در پایان پچ 12.1.5، مسیر داستانی بستهٔ الحاقی Midnight از ماجراهای Quel'thalas فاصله می‌گیرد و بار دیگر روی نقشه‌های Xal'atath متمرکز می‌شود. با رویایی که Orweyna مشاهده می‌کند، مشخص می‌شود که Xal'atath قصد دارد Worldsoul متعلق به Azeroth را تصاحب کند. در نتیجه، شخصیت‌های داستانی به همراه Arator تصمیم می‌گیرند راهی به سوی مرکز سیاره پیدا کنند.",
+    "با آغاز مأموریت‌های پچ 12.1.7، به دستور Lor'themar همراه با Arator به Khaz Algar و شهر Dornogal می‌رویم تا وضعیت Earthenها را بررسی کنیم. این گروه در میانهٔ پاک‌سازی مسیر ریزش‌کردهٔ Coreway هستند، اما حفاری با کندی پیش می‌رود و برای پیشروی بیشتر به کمک یک Keeper و سطح دسترسی امنیتی بالاتر نیاز دارند.",
     {
      "t": "h",
-     "x": "زمان‌بندی Talebound"
+     "x": "بحران Skardyn و جست‌وجو برای Tyr"
     },
-    "Talebound از ۳۰ اکتبر ساعت ۱۰:۰۰ صبح به وقت PDT تا ۲ نوامبر ساعت ۱۰:۰۰ صبح به وقت PDT در دسترس خواهد بود.",
-    {
-     "t": "h",
-     "x": "Tales Take a Dark Turn in Talebound"
-    },
-    "Talebound یک حالت PvE اکشن RPG جدید است که در آن بازیکنان وارد دنیای macabre داستان‌های تاریک یک Storyteller مرموز می‌شوند. می‌توانید به صورت solo یا همراه دوستانتان از میان داستان‌های ترسناک عبور کنید، با دشمنان و باس‌های ترسناک مبارزه کنید، پازل‌های پیچیده حل کنید، گنج و relics کشف کنید و Bound Silver به دست آورید تا پاداش‌های cosmetic دریافت کنید.",
-    "جزئیات بیشتر درباره دمو Talebound را می‌توانید در مقاله رسمی بلزارد با شماره ۲۴۳۱۳۱۰۷ پیدا کنید.",
+    "هم‌زمان با کندی حفاری، Dagran Thaurissan II درخواست کمک فوری می‌دهد؛ زیرا موجودات Skardyn آلوده به Void از محل حفاری Coreway سرازیر شده‌اند. بازیکنان به همراه او راهی Hallowfall می‌شوند تا این موجودات را مهار کرده و کارگران Earthen و Arathi را نجات دهند.",
+    "پس از رفع خطر، تلاش‌ها برای یافتن Keeper Tyr که احضار شده اما هنوز نرسیده بود آغاز می‌شود. با همراهی Brann Bronzebeard، او را در سواحل Isle of Dorn در حال تماشای منظره پیدا می‌کنیم. Tyr توضیح می‌دهد که دسترسی به Coreway در حوزهٔ اختیارات او نبوده و به Keeper Archaedas تعلق داشته است. از این رو، Tyr دیسک امنیتی خود را به ما می‌دهد تا به کمک آن بقایای Archaedas را در Uldaman پیدا کنیم.",
     {
      "t": "note",
-     "x": "این دمو فقط برای تست در این آخر هفته در دسترس است و زمان آن دقیقاً از ۳۰ اکتبر ساعت ۱۰:۰۰ صبح PDT آغاز می‌شود.",
+     "x": "در حین گفت‌وگو، High Speaker Brinthe دربارهٔ گذشتهٔ تلخ Earthen با نگهبانانی مانند Dornic و Galan صحبت می‌کند، هرچند Tyr به دلیل فراموشی گذشته ابراز تمایل می‌کند که رابطه‌ای دوستانه شکل بگیرد.",
      "kind": "info"
-    }
+    },
+    {
+     "t": "h",
+     "x": "ماجراجویی در Uldaman"
+    },
+    "در ورود به دانجن Uldaman، استفاده از دیسک Tyr باعث آزادی گروهی از گابلین‌های به دام افتاده می‌شود. گابلین‌ها دیسک را می‌دزدند و کنترل ربات‌های Titanforged را در دست می‌گیرند. در جریان درگیری، Dagran موفق به سرهم‌کردن یک دیسک ساختگی می‌شود که صدور فرمان‌های متضاد آن ربات‌ها را گیج می‌کند. در نهایت با ترفند Brann و Dagran دیسک‌ها پس گرفته شده و به جسد Archaedas می‌رسیم.",
+    {
+     "t": "note",
+     "x": "مدل گرافیکی Archaedas در این بخش به یک نسخهٔ کاملاً جدید با کیفیت بالا (HD) به‌روزرسانی شده است.",
+     "kind": "tip"
+    },
+    {
+     "t": "h",
+     "x": "پیش‌درآمدی بر وقایع پچ 12.2"
+    },
+    "پس از بازگشت به Vault of Memory در Dornogal، شخصیت‌ها از جمله Tyr، Arator و Brinthe گرد هم می‌آیند. اگرچه سینماتیک نهایی هنوز در دسترس نیست، دیالوگ‌ها نشان می‌دهند که مسیر دسترسی به Worldcore از طریق Coreway هموار می‌شود و رازهایی دربارهٔ Earthen آشکار خواهد شد.",
+    "این خط داستانی در اینجا به پایان می‌رسد و بازیکنان باید در پچ 12.2 تعقیب Xal'atath را به سمت منطقهٔ پایانی Midnight یعنی Mantle Vault ادامه دهند."
    ],
    "tags_fa": [
     "PTR",
-    "۱۲٫۱٫۷",
-    "Talebound",
-    "دمو"
+    "داستان",
+    "Midnight",
+    "هاتفیکس"
    ],
    "items": [],
-   "title_en": "Patch 12.1.7 PTR Development Notes - Talebound Demo Available Tomorrow",
-   "source_url": "https://www.wowhead.com/news=383651",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383651-patch-12-1-7-ptr-development-notes-talebound-demo-available-tomorrow.html",
-   "published_at": "2026-10-31T14:50:34Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383651/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383651/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383653,
-   "slug": "return-to-azeroth-recap-for-world-of-warcraft-forever",
-   "title_fa": "بازگشت به آزراث در World of Warcraft: Forever",
-   "lead_fa": "بلیزارد با انتشار خلاصه‌ای، بازیکنان را برای بازگشت به آزراث در ۴ نوامبر در World of Warcraft: Forever آماده می‌کند.",
-   "body_fa": [
-    "World of Warcraft: Forever سفری تازه در جهانی بازسازی‌شده آغاز می‌کند که شامل مناطق جدید، کوئست‌ها، دانجن‌ها، سیستم‌ها و گزینه‌های شخصیت است و در عین حال پایه‌های اصلی بازی را حفظ می‌کند. این تجربه از دوره اولیه «Year 1» نسخهٔ اورجینال World of Warcraft الهام گرفته شده است؛ زمانی پیش از آنکه Kazzak Dark Portal را بازگشایی کند و پیش از سفرهایی که Northrend را شامل می‌شد.",
-    {
-     "t": "h",
-     "x": "مناطق و دانجن‌های تازه"
-    },
-    "بیش از ۱۰۰۰ کوئست جدید در طول مسیر سطح ۱ تا ۶۰ اضافه شده است. مناطق تازه شامل Mount Hyjal، Shen’dralas، the Riverglades و Zephras Isle هستند. ۹ دانجن جدید پنج‌نفره در سطوح ۱۳ تا ۶۰ در Eastern Kingdoms و Kalimdor قرار دارند. دانجن‌های Eastern Kingdoms عبارتند از Hall of Thanes، Ruins of Lordaeron، Excavation Site، City of Dalaran، The Drowned City و Krol’dok Stronghold. دانجن‌های Kalimdor نیز Alcaz Prison، Blackmaw Hold و Shaper’s Terrace هستند.",
-    {
-     "t": "h",
-     "x": "ترکیب‌های جدید نژاد و کلاس"
-    },
-    "ترکیب‌های تازه‌ای که در نسخهٔ اورجینال وجود نداشتند اکنون در دسترس هستند:\nAlliance: Human Hunter، Dwarf Shaman و Gnome Priest.\nHorde: Orc Mage، Troll Warlock و Undead Paladin. نژاد Skyborne به هر دو فکشن Alliance و Horde تعلق می‌گیرد و با توانایی‌های نژادی متفاوت آغاز می‌شود. این نژاد در منطقهٔ شروع Zephras Isle سطح ۱ تا ۱۲ قرار دارد و می‌تواند Druid، Hunter، Rogue و Warrior باشد. Skyborneهای Alliance-aligned می‌توانند Mage نیز انتخاب کنند و Skyborneهای Horde-aligned می‌توانند Shaman باشند. دسترسی به Skyborne نیازمند خرید Heroic Pack یا ارتقاهای بالاتر است.",
-    {
-     "t": "h",
-     "x": "سیستم Legacy و پیشرفت PvP"
-    },
-    "Legacy System یک سیستم پیشرفت افقی حساب‌محور است که بر کاوش همهٔ محتوای بازی تمرکز دارد و الزامی برای لول‌آپ کاراکترهای آلت وجود ندارد. همهٔ مزایا را می‌توان روی یک کاراکتر باز کرد. سیستم PvP بازطراحی‌شده شامل کسب Honor و Rank points از طریق battlegroundها، PvP quests، weekly seasonal tasks و فعالیت‌های دیگر است. هفته‌های تعطیل battleground پاداش بیشتری می‌دهد.",
-    "Darkspear Islands یک battleground جدید ۱۵ در برابر ۱۵ در ساحل Dustwallow Marsh برای سطوح ۳۰ تا ۶۰ است. تیم‌ها با کنترل چهار capture point و تصاحب پرچم مرکزی امتیاز کسب می‌کنند و اولین تیمی که به ۲۰۰۰ امتیاز برسد برنده می‌شود. شهرت با Darkspear Raiders یا Theramore Expeditionary Force برای دریافت پاداش‌های فکشن قابل کسب است.",
-    {
-     "t": "h",
-     "x": "انتخاب تجربهٔ دلخواه"
-    },
-    "در اولین ورود به بازی، باید Experience Preset را انتخاب کنید:\nClassic: مدل‌های Standard Definition، Quest points of interest خاموش، One-bag خاموش، Transmog خاموش، UI کلاسیک.\nEnhanced: مدل‌های High Definition، Quest points of interest روشن، One-bag روشن، Transmog روشن، UI متمرکز. هر کاراکتر جدید می‌تواند بین مدل‌های HD و SD انتخاب کند که تنها بر ظاهر تأثیر می‌گذارد. این انتخاب بعداً از طریق Options Menu یا Barbershop قابل تغییر است.",
-    "هر شخصیت دارای نام دوبخشی است که ترکیب کامل آن باید در منطقه منحصربه‌فرد باشد. نام دوم می‌تواند برای نشان دادن خانواده، مکان، عنوان یا ارتباط بین کاراکترها استفاده شود. می‌توانید نمایش نام دوم را در Nameplates مخفی کنید.",
-    {
-     "t": "h",
-     "x": "Rulesetها و نصب بازی"
-    },
-    "به جای انتخاب از لیست طولانی ریلم‌ها، Ruleset انتخاب می‌شود:\nNormal، PvP، Roleplay، Roleplay-PvP و Hardcore (که بعداً اضافه می‌شود). پیش از نصب، سیستم‌عامل و درایورهای گرافیک را به‌روزرسانی کنید و سیستم مورد نیاز رسمی را بررسی نمایید. اگر نمی‌توانید وارد شوید، از ابزارهای بازیابی حساب بلیزارد استفاده کنید.",
-    "برای شروع، Battle.net desktop app را دانلود کنید، WoW: Forever را انتخاب نمایید و نصب را آغاز کنید. دسترسی به بازی نیازمند World of Warcraft subscription یا Game Time فعال است. ارتقای Skyborne Heroic Pack یا بالاتر برای دسترسی به نژاد Skyborne لازم است. دوستان خود را جمع کنید، کاراکتر و Ruleset مناسب را برگزینید و سفرتان را در World of Warcraft: Forever آغاز کنید."
-   ],
-   "tags_fa": [
-    "World of Warcraft: Forever",
-    "بازگشت به آزراث",
-    "سیستم Legacy",
-    "Darkspear Islands"
-   ],
-   "items": [],
-   "title_en": "Return to Azeroth Recap for World of Warcraft: Forever",
-   "source_url": "https://www.wowhead.com/news=383653",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383653-return-to-azeroth-recap-for-world-of-warcraft-forever.html",
-   "published_at": "2026-10-31T14:49:23Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383653/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383653/1.png",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383607,
-   "slug": "living-heartsbane-cauldron-mount-now-available-on-battle-net-store",
-   "title_fa": "ماونت Living Heartsbane Cauldron در فروشگاه Battle.net در دسترس قرار گرفت",
-   "lead_fa": "ماونت جدید Living Heartsbane Cauldron هم‌زمان با بسته‌های مسکن Grimtide با قیمت ۲۵ دلار در فروشگاه Battle.net عرضه شد.",
-   "body_fa": [
-    "ماونت جدیدی تحت عنوان [[item:Living Heartsbane Cauldron]] در فروشگاه Battle.net در دسترس بازیکنان قرار گرفته است. این ماونت با قیمت 25 دلار (USD) به فروش می‌رسد و عرضهٔ آن در کنار باندل‌های مسکن Grimtide انجام شده است.",
-    {
-     "t": "note",
-     "x": "این ماونت با قیمت 25 دلار آمریکا در فروشگاه بتل‌نت قابل خریداری است.",
-     "kind": "info"
-    },
-    "در توضیحات مربوط به این ماونت آمده است که سازه‌های چوبی و حصیریِ drust هم مرگبار و هم کارآمد هستند؛ در مورد Living Heartsbane Cauldron، یک ساحرهٔ زیرک می‌تواند به‌طور هم‌زمان هم معجون دم کند و هم سفر نماید.",
-    "عرضهٔ این محصول با واکنش‌ها و نظرات مختلفی از سوی کاربران در بخش دیدگاه‌ها همراه بوده است؛ از جمله کاربری که اشاره کرده از زمان عرضهٔ 12.1.5 این چهارمین یا پنجمین آیتم تزئینی پولی فروشگاه است، و بازیکنی که از سال ۲۰۰۴ مشغول تجربهٔ بازی بوده و از افزایش اقلام فروشگاهی ابراز نارضایتی کرده است."
-   ],
-   "tags_fa": [
-    "فروشگاه بتل‌نت",
-    "ماونت",
-    "اخبار وارکرفت"
-   ],
-   "items": [],
-   "title_en": "Living Heartsbane Cauldron Mount Now Available on Battle.net Store",
-   "source_url": "https://www.wowhead.com/news=383607",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383607-living-heartsbane-cauldron-mount-now-available-on-battle-net-store.html",
-   "published_at": "2026-10-31T13:53:52Z",
+   "title_en": "Returning to Dornogal - Patch 12.1.7 Campaign Playthrough (Story Spoilers)",
+   "source_url": "https://www.wowhead.com/news=383482",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383482-returning-to-dornogal-patch-12-1-7-campaign-playthrough-story-spoilers.html",
+   "published_at": "2026-10-30T14:00:00Z",
    "model": "gemini-flash-latest",
    "via": "auto-gemini",
-   "reviewer": "grok-4.20-0309-non-reasoning",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383607/1.jpg",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383482/1.jpg",
    "images": [
     {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383607/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383666,
-   "slug": "november-traveler-s-log-bonus-reward-hot-motocross-bunmover-4600-mount",
-   "title_fa": "جایزهٔ ویژهٔ Traveler's Log نوامبر؛ سوارکار Hot Motocross Bunmover 4600",
-   "lead_fa": "بلیزارد جایزهٔ ویژهٔ Traveler's Log ماه نوامبر را اعلام کرد که همان Hot Motocross Bunmover 4600 است؛ این سوارکار در Trading Post با تم Sweet Tooth عرضه می‌شود.",
-   "body_fa": [
-    "بلیزارد در خلاصهٔ هفتگی WoW این هفته، Trading Post ماه نوامبر را با تم Sweet Tooth پیش‌نمایش کرد. هرچند جزئیات اقلام اعلام نشد، اما جایزهٔ ویژهٔ تکمیل Traveler's Log مشخص شد: سوارکار Hot Motocross Bunmover 4600.",
-    {
-     "t": "h",
-     "x": "تم شیرین نوامبر در Trading Post"
-    },
-    "این ماه Trading Post با تم Sweet Tooth آماده است تا مجموعهٔ شما را شیرین‌تر کند. فعالیت‌ها را کامل کنید تا Trader's Tender به دست آورید و Traveler's Log را پر کنید تا جایزهٔ ویژهٔ این ماه را دریافت کنید: سوارکار Hot Motocross Bunmover 4600.",
-    {
-     "t": "quote",
-     "x": "وقتی تولید دسر با بهینه‌سازی سرعت دیدار می‌کند. تحویل سالم نان تضمین نمی‌شود.",
-     "by": "Blizzard"
-    },
-    "این سوارکار از جلو و پشت ظاهر متفاوتی دارد و می‌توانید آن را در Trading Post مشاهده کنید.",
-    {
-     "t": "h",
-     "x": "مکان‌های Trading Post"
-    },
-    "برای دیدن اقلام جدید به T&W (Tawney and Wilder) درست بیرون از Mage District در Stormwind سر بزنید یا به Zen’shiri Trading Post کنار Grommash Hold در Orgrimmar بروید. همچنین می‌توانید به Trading Post در پایتخت‌های Dornogal (The Foregrounds) در Isle of Dorn و Silvermoon City بازسازی‌شده مراجعه کنید که نمایندگان هر دو غرفه آنجا حضور دارند.",
-    {
-     "t": "note",
-     "x": "بازیکنان تازه‌وارد یا بازگشتی به World of Warcraft و Midnight می‌توانند از Trading Post بازدید کنند تا همهٔ جزئیات را از مکان آن تا نحوهٔ کسب Trader's Tender بیشتر از طریق Traveler's Log بیاموزند.",
-     "kind": "info"
-    },
-    "برای دریافت این جایزهٔ ویژه باید Traveler's Log ماه نوامبر را کامل کنید و عدد 4600 در نام سوارکار به همین شکل حفظ شده است."
-   ],
-   "tags_fa": [
-    "Trading Post",
-    "Traveler's Log",
-    "Hot Motocross Bunmover 4600",
-    "نوامبر"
-   ],
-   "items": [],
-   "title_en": "November Traveler's Log Bonus Reward - Hot Motocross Bunmover 4600 Mount",
-   "source_url": "https://www.wowhead.com/news=383666",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383666-november-traveler-s-log-bonus-reward-hot-motocross-bunmover-4600-mount.html",
-   "published_at": "2026-10-31T13:27:24Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383666/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383666/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383669,
-   "slug": "over-8-million-characters-were-created-in-the-wow-forever-beta",
-   "title_fa": "بیش از ۸ میلیون شخصیت در بتای WoW: Forever ساخته شد",
-   "lead_fa": "بلیزارد آمار جالبی از بتای WoW: Forever منتشر کرده است که نشان‌دهنده فعالیت گسترده بازیکنان در این دوره است.",
-   "body_fa": [
-    "بتای WoW: Forever اکنون به پایان رسیده و لانچ کمتر از یک هفته دیگر باقی مانده است. بلیزارد آمار مختلفی از این بتا منتشر کرده که شامل تعداد شخصیت‌های ساخته‌شده و مجموع کشتن‌های PvP می‌شود.",
-    {
-     "t": "h",
-     "x": "آمار منتشرشده"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "Characters Created: 8,862,354",
-      "PvP Kills: 9,959,014",
-      "Skyborne: 1,889,084",
-      "Duels Fought: 1,248,125",
-      "Forsaken Paladins: 612,096",
-      "Deaths from Falling: 1,157,204"
-     ]
-    },
-    "Deadliest Dungeon در این بتا The Hall of Thanes بوده است. Deadliest Creature نیز Kobold Miner اعلام شده.",
-    "Zone with the Most PvP هم Hillsbrad Foothills بوده است.",
-    "بلیزارد لانچ WoW: Forever را برای ۴ نوامبر در نظر گرفته است. برای آماده‌سازی می‌توانید راهنماهای ما را بررسی کنید."
-   ],
-   "tags_fa": [
-    "WoW: Forever",
-    "بتا",
-    "آمار بلیزارد"
-   ],
-   "items": [],
-   "title_en": "Over 8 Million Characters Were Created in the WoW: Forever Beta",
-   "source_url": "https://www.wowhead.com/news=383669",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383669-over-8-million-characters-were-created-in-the-wow-forever-beta.html",
-   "published_at": "2026-10-31T13:26:35Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383669/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383669/1.png",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383602,
-   "slug": "more-racial-ability-tuning-on-wow-forever",
-   "title_fa": "تنظیمات جدید توانایی نژادی در WoW: Forever",
-   "lead_fa": "بلزارد تنظیمات بیشتری برای توانایی‌های نژادی در WoW: Forever اعمال کرده که اورک‌ها، آندد و اسکایبورن را تحت تأثیر قرار می‌دهد.",
-   "body_fa": [
-    "در به‌روزرسانی دیروز، تغییراتی برای توانایی‌های نژادی و تالنت‌ها اضافه شده است.",
-    {
-     "t": "ul",
-     "xs": [
-      "کول‌داون Orc Blood Fury به ۲ دقیقه کاهش یافته است (از ۳ دقیقه)",
-      "مدت زمان Troll Berserking به ۱۵ ثانیه افزایش یافته است (از ۱۰ ثانیه)",
-      "کول‌داون داخلی Undead Touch of the Grave به ۱۵ ثانیه کاهش یافته است (از ۲۵ ثانیه)"
-     ]
-    },
-    "همچنین برای Skyborne اعلام شده که Charged پس از مرگ باقی می‌ماند و هنگام ورود به رید حذف می‌شود.",
-    "Attuned نیز پس از مرگ باقی می‌ماند و هنگام ورود به رید حذف می‌شود.",
-    {
-     "t": "note",
-     "x": "ویرایش شماره ۱ در ساعت ۱۰:۰۰ صبح اضافه شده و تغییر Troll Berserking را شامل می‌شود.",
-     "kind": "info"
-    },
-    "این تغییرات در ادامه تنظیمات قبلی نژادی اعمال شده است."
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "WoW Forever",
-    "تنظیم نژادی"
-   ],
-   "items": [],
-   "title_en": "More Racial Ability Tuning on WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383602",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383602-more-racial-ability-tuning-on-wow-forever.html",
-   "published_at": "2026-10-31T13:03:58Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383602/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383602/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383606,
-   "slug": "new-grimtide-housing-bundles-available-for-hearthsteel",
-   "title_fa": "باندل‌های جدید خانه Grimtide برای Hearthsteel عرضه شد",
-   "lead_fa": "دو باندل ترسناک جدید خانه Grimtide حالا در فروشگاه Battle.net برای Hearthsteel در دسترس هستند: Haunted Grimtide Estate و Grimtide Decor Pack.",
-   "body_fa": [
-    "این باندل‌ها شامل ظاهرهای خارجی و داخلی و همچنین مجموعه‌ای از وسایل دکوری با تم Grimtide هستند که حس مرموز و دریایی عمیق را به خانه شما می‌آورند.",
-    {
-     "t": "h",
-     "x": "باندل Haunted Grimtide Estate"
-    },
-    "این باندل با قیمت ۲۵۰۰ Hearthsteel یا حدود ۲۵ دلار آمریکا عرضه می‌شود. محتوای آن شامل Spirited Grimtide Manse Housing Exterior به عنوان ظاهر خارجی خانه و Spirit Grimtide Foyer به عنوان فضای داخلی است.",
-    "توضیح رسمی باندل می‌گوید: چیزی از اعماق بر این خانه چنگ انداخته است. این خانه مرموز که با شاخک‌ها پوشیده شده و توسط دریاها فرسوده شده، رازهای اقیانوس را به ساحل آورده است.",
-    {
-     "t": "note",
-     "x": "برای مشاهده تصاویر بیشتر از ظاهر داخلی و خارجی، می‌توانید پست داده‌کاوی‌شده دیروز ما را ببینید.",
-     "kind": "info"
-    },
-    {
-     "t": "h",
-     "x": "باندل Grimtide Decor Pack"
-    },
-    "این باندل با قیمت ۱۰۰۰ Hearthsteel یا حدود ۱۰ دلار آمریکا در دسترس است و شامل تعداد زیادی وسیله دکوری Grimtide می‌شود.",
-    {
-     "t": "ul",
-     "xs": [
-      "Grimtide Grand Table x۱",
-      "Grimtide Side Table x۲",
-      "Grimtide Dining Chair x۴",
-      "Grimtide Couch x۲",
-      "Small Grimtide Rug x۲",
-      "Grimtide Rug x۲",
-      "Grimtide Coffee Table x۲",
-      "Grimtide Grand Piano x۱",
-      "Grimtide Tentacle x۴",
-      "Daytime Grimtide Window x۴"
-     ]
-    },
-    "این وسایل شامل میز بزرگ، صندلی، کاناپه، فرش، پیانو، شاخک، پنجره‌های روز و شب، شمع‌های جادویی در اندازه‌های مختلف، لوستر، قفسه کتاب و دریچه کف هستند.",
-    "این باندل‌ها گزینه‌های مناسبی برای بازیکنان علاقه‌مند به تم‌های ترسناک و دریایی در خانه‌های خود فراهم می‌کنند."
-   ],
-   "tags_fa": [
-    "Hearthsteel",
-    "Grimtide",
-    "خانه سازی",
-    "باندل"
-   ],
-   "items": [],
-   "title_en": "New Grimtide Housing Bundles Available for Hearthsteel",
-   "source_url": "https://www.wowhead.com/news=383606",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383606-new-grimtide-housing-bundles-available-for-hearthsteel.html",
-   "published_at": "2026-10-31T13:03:32Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383606/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383606/1.jpg",
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383482/1.jpg",
      "cap": ""
     }
    ]
@@ -1056,6 +563,111 @@
    ]
   },
   {
+   "id": 383653,
+   "slug": "return-to-azeroth-recap-for-world-of-warcraft-forever",
+   "title_fa": "بازگشت به آزراث در World of Warcraft: Forever",
+   "lead_fa": "بلیزارد با انتشار خلاصه‌ای، بازیکنان را برای بازگشت به آزراث در ۴ نوامبر در World of Warcraft: Forever آماده می‌کند.",
+   "body_fa": [
+    "World of Warcraft: Forever سفری تازه در جهانی بازسازی‌شده آغاز می‌کند که شامل مناطق جدید، کوئست‌ها، دانجن‌ها، سیستم‌ها و گزینه‌های شخصیت است و در عین حال پایه‌های اصلی بازی را حفظ می‌کند. این تجربه از دوره اولیه «Year 1» نسخهٔ اورجینال World of Warcraft الهام گرفته شده است؛ زمانی پیش از آنکه Kazzak Dark Portal را بازگشایی کند و پیش از سفرهایی که Northrend را شامل می‌شد.",
+    {
+     "t": "h",
+     "x": "مناطق و دانجن‌های تازه"
+    },
+    "بیش از ۱۰۰۰ کوئست جدید در طول مسیر سطح ۱ تا ۶۰ اضافه شده است. مناطق تازه شامل Mount Hyjal، Shen’dralas، the Riverglades و Zephras Isle هستند. ۹ دانجن جدید پنج‌نفره در سطوح ۱۳ تا ۶۰ در Eastern Kingdoms و Kalimdor قرار دارند. دانجن‌های Eastern Kingdoms عبارتند از Hall of Thanes، Ruins of Lordaeron، Excavation Site، City of Dalaran، The Drowned City و Krol’dok Stronghold. دانجن‌های Kalimdor نیز Alcaz Prison، Blackmaw Hold و Shaper’s Terrace هستند.",
+    {
+     "t": "h",
+     "x": "ترکیب‌های جدید نژاد و کلاس"
+    },
+    "ترکیب‌های تازه‌ای که در نسخهٔ اورجینال وجود نداشتند اکنون در دسترس هستند:\nAlliance: Human Hunter، Dwarf Shaman و Gnome Priest.\nHorde: Orc Mage، Troll Warlock و Undead Paladin. نژاد Skyborne به هر دو فکشن Alliance و Horde تعلق می‌گیرد و با توانایی‌های نژادی متفاوت آغاز می‌شود. این نژاد در منطقهٔ شروع Zephras Isle سطح ۱ تا ۱۲ قرار دارد و می‌تواند Druid، Hunter، Rogue و Warrior باشد. Skyborneهای Alliance-aligned می‌توانند Mage نیز انتخاب کنند و Skyborneهای Horde-aligned می‌توانند Shaman باشند. دسترسی به Skyborne نیازمند خرید Heroic Pack یا ارتقاهای بالاتر است.",
+    {
+     "t": "h",
+     "x": "سیستم Legacy و پیشرفت PvP"
+    },
+    "Legacy System یک سیستم پیشرفت افقی حساب‌محور است که بر کاوش همهٔ محتوای بازی تمرکز دارد و الزامی برای لول‌آپ کاراکترهای آلت وجود ندارد. همهٔ مزایا را می‌توان روی یک کاراکتر باز کرد. سیستم PvP بازطراحی‌شده شامل کسب Honor و Rank points از طریق battlegroundها، PvP quests، weekly seasonal tasks و فعالیت‌های دیگر است. هفته‌های تعطیل battleground پاداش بیشتری می‌دهد.",
+    "Darkspear Islands یک battleground جدید ۱۵ در برابر ۱۵ در ساحل Dustwallow Marsh برای سطوح ۳۰ تا ۶۰ است. تیم‌ها با کنترل چهار capture point و تصاحب پرچم مرکزی امتیاز کسب می‌کنند و اولین تیمی که به ۲۰۰۰ امتیاز برسد برنده می‌شود. شهرت با Darkspear Raiders یا Theramore Expeditionary Force برای دریافت پاداش‌های فکشن قابل کسب است.",
+    {
+     "t": "h",
+     "x": "انتخاب تجربهٔ دلخواه"
+    },
+    "در اولین ورود به بازی، باید Experience Preset را انتخاب کنید:\nClassic: مدل‌های Standard Definition، Quest points of interest خاموش، One-bag خاموش، Transmog خاموش، UI کلاسیک.\nEnhanced: مدل‌های High Definition، Quest points of interest روشن، One-bag روشن، Transmog روشن، UI متمرکز. هر کاراکتر جدید می‌تواند بین مدل‌های HD و SD انتخاب کند که تنها بر ظاهر تأثیر می‌گذارد. این انتخاب بعداً از طریق Options Menu یا Barbershop قابل تغییر است.",
+    "هر شخصیت دارای نام دوبخشی است که ترکیب کامل آن باید در منطقه منحصربه‌فرد باشد. نام دوم می‌تواند برای نشان دادن خانواده، مکان، عنوان یا ارتباط بین کاراکترها استفاده شود. می‌توانید نمایش نام دوم را در Nameplates مخفی کنید.",
+    {
+     "t": "h",
+     "x": "Rulesetها و نصب بازی"
+    },
+    "به جای انتخاب از لیست طولانی ریلم‌ها، Ruleset انتخاب می‌شود:\nNormal، PvP، Roleplay، Roleplay-PvP و Hardcore (که بعداً اضافه می‌شود). پیش از نصب، سیستم‌عامل و درایورهای گرافیک را به‌روزرسانی کنید و سیستم مورد نیاز رسمی را بررسی نمایید. اگر نمی‌توانید وارد شوید، از ابزارهای بازیابی حساب بلیزارد استفاده کنید.",
+    "برای شروع، Battle.net desktop app را دانلود کنید، WoW: Forever را انتخاب نمایید و نصب را آغاز کنید. دسترسی به بازی نیازمند World of Warcraft subscription یا Game Time فعال است. ارتقای Skyborne Heroic Pack یا بالاتر برای دسترسی به نژاد Skyborne لازم است. دوستان خود را جمع کنید، کاراکتر و Ruleset مناسب را برگزینید و سفرتان را در World of Warcraft: Forever آغاز کنید."
+   ],
+   "tags_fa": [
+    "World of Warcraft: Forever",
+    "بازگشت به آزراث",
+    "سیستم Legacy",
+    "Darkspear Islands"
+   ],
+   "items": [],
+   "title_en": "Return to Azeroth Recap for World of Warcraft: Forever",
+   "source_url": "https://www.wowhead.com/news=383653",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383653-return-to-azeroth-recap-for-world-of-warcraft-forever.html",
+   "published_at": "2026-10-29T19:13:59Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383653/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383653/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383651,
+   "slug": "patch-12-1-7-ptr-development-notes-talebound-demo-available-tomorrow",
+   "title_fa": "یادداشت‌های توسعه PTR پچ ۱۲٫۱٫۷ — دمو Talebound فردا در دسترس قرار می‌گیرد",
+   "lead_fa": "بلزارد یادداشت‌های توسعه PTR برای پچ ۱۲٫۱٫۷ را منتشر کرده و به بازیکنان یادآوری کرده که دمو Talebound فردا در دسترس خواهد بود.",
+   "body_fa": [
+    "PTR نسخه ۱۲٫۱٫۷ به‌روزرسانی شده و همزمان با در دسترس قرار گرفتن دمو Talebound برای تست آماده می‌شود.",
+    "Talebound این آخر هفته قابل تست خواهد بود.",
+    {
+     "t": "h",
+     "x": "زمان‌بندی Talebound"
+    },
+    "Talebound از ۳۰ اکتبر ساعت ۱۰:۰۰ صبح به وقت PDT تا ۲ نوامبر ساعت ۱۰:۰۰ صبح به وقت PDT در دسترس خواهد بود.",
+    {
+     "t": "h",
+     "x": "Tales Take a Dark Turn in Talebound"
+    },
+    "Talebound یک حالت PvE اکشن RPG جدید است که در آن بازیکنان وارد دنیای macabre داستان‌های تاریک یک Storyteller مرموز می‌شوند. می‌توانید به صورت solo یا همراه دوستانتان از میان داستان‌های ترسناک عبور کنید، با دشمنان و باس‌های ترسناک مبارزه کنید، پازل‌های پیچیده حل کنید، گنج و relics کشف کنید و Bound Silver به دست آورید تا پاداش‌های cosmetic دریافت کنید.",
+    "جزئیات بیشتر درباره دمو Talebound را می‌توانید در مقاله رسمی بلزارد با شماره ۲۴۳۱۳۱۰۷ پیدا کنید.",
+    {
+     "t": "note",
+     "x": "این دمو فقط برای تست در این آخر هفته در دسترس است و زمان آن دقیقاً از ۳۰ اکتبر ساعت ۱۰:۰۰ صبح PDT آغاز می‌شود.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "PTR",
+    "۱۲٫۱٫۷",
+    "Talebound",
+    "دمو"
+   ],
+   "items": [],
+   "title_en": "Patch 12.1.7 PTR Development Notes - Talebound Demo Available Tomorrow",
+   "source_url": "https://www.wowhead.com/news=383651",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383651-patch-12-1-7-ptr-development-notes-talebound-demo-available-tomorrow.html",
+   "published_at": "2026-10-29T18:41:51Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383651/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383651/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383640,
    "slug": "wow-forever-is-aiming-for-a-4-month-patch-cadence",
    "title_fa": "WoW: Forever با چرخهٔ ۴ ماههٔ پچ پیش می‌رود",
@@ -1084,6 +696,81 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383640/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383635,
+   "slug": "patch-cadence-future-locations-respeccing-ign-interview-on-wow-forever",
+   "title_fa": "مصاحبه آی‌جی‌ان با بلیزارد درباره ووو: فوراور؛ از cadence به‌روزرسانی تا مکان‌های آینده",
+   "lead_fa": "تیم بلیزارد در مصاحبه با آی‌جی‌ان درباره ووو: فوراور به بحث در مورد cadence به‌روزرسانی، مکان‌های آینده، respeccing و موضوعات دیگر پرداخته است.",
+   "body_fa": [
+    "آی‌جی‌ان با Kris Zierhut طراح ارشد بازی و Tim Jones طراح ارشد کلاسیک مصاحبه کرده است. این مصاحبه درباره ووو: فوراور به بررسی تفاوت آن با ووو کلاسیک، ستون‌های اصلی طراحی، بهبودهای گرافیکی، cadence انتشار و مکان‌های آینده پرداخته است.",
+    "{'t': 'h', 'x': 'تفاوت ووو: فوراور با ووو کلاسیک'}",
+    "ووو کلاسیک شبیه به یک موزه است که سال‌ها با تغییرات بسیار کم حفظ شده تا کسانی که می‌خواهند تجربه اصلی را ببینند بتوانند آن را حفظ کنند. ووو: فوراور نسخه‌ای است که اگر هرگز به Outland نرفته بودند و به توسعه جهان ادامه می‌دادند چه می‌شد؛ مانند افزودن کوئست‌های جدید یا Professions.",
+    "هنگام انتخاب تغییرات از ووو: کلاسیک، تیم به چهار ستون اصلی خود نگاه می‌کند. مهم‌ترین آن احتمالاً «the world is the main character» است. سفر باید به اندازه مقصد مهم باشد و جهان باید پر از محتوا به نظر برسد، چه در کدام zone باشید. آن‌ها از تجربه Hardcore الهام گرفته‌اند که در آن هر zone پر از بازیکنان بود زیرا مرگ باعث reroll می‌شد.",
+    "برای «approachable and familiar» پایه کلاسیک را قابل دسترس می‌دانند و با دقت به عناصری مانند SD models پرداخته‌اند. رابط کاربری مدرن استفاده می‌شود اما همچنان حس کلاسیک را حفظ کرده و کپی از رابط کاربری retail نیست. همچنین تلاش شده بازی را «unsolving» کنند تا مسیر leveling و انتخاب Professions کاملاً مشخص نباشد.",
+    "{'t': 'h', 'x': 'بهبودهای Lightning و Shadow و موتور بازی'}",
+    "بازیکنان ووو سال ۲۰۰۴ را بهتر از آنچه واقعاً بود به یاد می‌آورند، بنابراین تیم می‌خواهد Azeroth را همان‌طور که به یاد می‌آورند ارائه دهد نه همان‌طور که بود. هدف جذب بازیکنان جدید و نسل بعدی است که به گرافیک با fidelity بالا عادت دارند. موتور ووو spaghetti code نیست و این توصیف ناعادلانه است. Kris Zierhut شنیده که توسعه‌دهندگان دیگر موتور ووو را می‌خواهند. توسعه‌دهندگان طی ۲۵ سال گذشته برای بهبود نرخ فریم، پاسخ‌دهی سرور و موارد دیگر تلاش کرده‌اند.",
+    "{'t': 'h', 'x': 'cadence انتشار و انواع محتوا'}",
+    "تیم در طول کلاسیک cadence انتشار را آزمایش کرده است. دوره بدون محتوای جدید به مدت شش تا هشت هفته بد به نظر می‌رسد. در SoD از برنامه هشت تا ده هفته‌ای استفاده شد که خیلی سریع بود. cadence مناسب را حدود یک بار هر ۴ ماه یا ۳ بار در سال می‌دانند. این مزیت داستان‌های کوچک و محلی است که نیازی به ۶ ماه برای داستان بزرگ ندارد. محتوای کافی برای دوره ۴ ماهه وجود دارد و برنامه‌ریزی برای محتوای بینابینی هم شده است.",
+    "سه نوع محتوا وجود دارد. اول مسیر شناخته‌شده مانند Molten Core، Blackwing Lair و AQ است که ووو: فوراور به آن‌ها می‌رود اما timeline را کشیده‌تر کرده‌اند. دوم مکان‌هایی مانند Riverglades که جدید به نظر می‌رسند اما حس تعلق دارند و dungeonها و raidهای آینده هم در این دسته قرار می‌گیرند. سوم مکان‌های متفاوت مانند Skyborne و Zephras Isle. Dark Portal، Northrend و Pandaria وجود دارند و می‌توان ماجراجویی‌های کوچک مانند dungeon یا کوئست در آن‌ها داشت اما همیشه به Eastern Kingdoms و Kalimdor برمی‌گردید. این کار به زودی انجام نمی‌شود.",
+    "{'t': 'h', 'x': 'respeccing، griefing و مکان\\u200cهای دیگر'}",
+    "Dual spec از زمان launch در دسترس است و سومین spec برای آینده رد نشده. تغییر talents روی هوا مورد نظر نیست زیرا انتظار تغییر برای هر encounter ایجاد می‌کند که approachable و familiar نیست. درباره آسان‌تر کردن تغییر talent specs هنگام نیاز صحبت شده است. griefing بخشی از بازی است و وظیفه تیم ایجاد بازی است که تعاملات اجتماعی مثبت را ترویج کند. از pro-social design مانند camping system یا elite zone quests استفاده می‌شود. چهار اندازه گروه ۵، ۱۰، ۲۰ و ۴۰ وجود دارد تا بازیکنان برای تکمیل اعداد به شبکه اجتماعی مثبت خود تکیه کنند.",
+    "Hyjal در ووو: فوراور متفاوت به نظر می‌رسد زیرا flying وجود ندارد و بازیکنان از زمین آن را می‌بینند. اشاره‌هایی به Mount Hyjal raid وجود خواهد داشت. تیم می‌خواهد به Emerald Dream، Grim Batol به عنوان مکانی برای کاوش مانند Blackrock Mountain، بخش‌های کاوش‌نشده Caverns of Time، داستان Gilneas پیش از نابودی در Cataclysm و Silvermoon در آینده برود اما فعلاً روی نقاط دیگر تمرکز دارد زیرا Silvermoon در retail مورد توجه است.",
+    "Skyborne Elves محبوب‌ترین نژادها هستند. نژادهای وانیلا باعث عدم تعادل جمعیت می‌شوند زیرا بسیاری نمی‌خواهند «a monster» باشند. downtime وجود خواهد داشت که بتوانید هر دو بازی را بازی کنید. retail روی max-level gameplay متمرکز است که به صورت burst می‌آید، بنابراین در فواصل آن می‌توانید ووو: فوراور را بازی کنید. در حال حاضر برنامه‌ای برای player housing وجود ندارد. تیم می‌داند در آینده تعداد raid و dungeon زیاد می‌شود و هنوز راه‌حل آن را نمی‌دانند اما فعلاً روی انتشار بازی تمرکز دارند."
+   ],
+   "tags_fa": [
+    "Forever",
+    "مصاحبه",
+    "cadence",
+    "respeccing"
+   ],
+   "items": [],
+   "title_en": "Patch Cadence, Future Locations, Respeccing - IGN Interview on WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383635",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383635-patch-cadence-future-locations-respeccing-ign-interview-on-wow-forever.html",
+   "published_at": "2026-10-29T15:00:00Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383635/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383635/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383634,
+   "slug": "after-2-weeks-over-200k-players-have-defeated-tier-11-kindo-jan-solo",
+   "title_fa": "پس از دو هفته بیش از ۲۰۰ هزار بازی‌کننده Tier 11 Kindo'jan را به صورت تک‌نفره شکست دادند",
+   "lead_fa": "هال آف فیم Delve اکنون بسته شده و بیش از ۲۰۰ هزار بازی‌کننده Tier 11 Kindo'jan را به صورت تک‌نفره شکست داده و دستاورد Let Me Solo Him! را کسب کرده‌اند.",
+   "body_fa": [
+    "برای اولین بار بلیزارد دستاورد Nemesis boss achievement را به مدت یک هفته کامل تمدید کرد و به بازیکنان فرصت داد تا Fabled Let Me Solo Him: Kindo'jan را برای یک هفته اضافی کسب کنند.",
+    "در پایان هفته گذشته بیش از ۱۵۰ هزار بازی‌کننده Tier 11 Kindo'jan را به صورت تک‌نفره شکست داده بودند و در طول هفته اضافی ۵۰ هزار بازی‌کننده دیگر این دستاورد را کسب کردند.",
+    "هر دو ریست هفتگی NA و EU اکنون انجام شده و آمار نهایی به ترتیب ۹۲٬۳۰۵ برای NA و ۱۱۳٬۲۰۱ برای EU ثبت شده است.",
+    "تبریک به همه کسانی که Kindo'jan را شکست دادند!"
+   ],
+   "tags_fa": [
+    "Delve",
+    "Kindo'jan",
+    "Let Me Solo Him"
+   ],
+   "items": [],
+   "title_en": "After 2 Weeks, Over 200k Players Have Defeated Tier 11 Kindo'jan Solo",
+   "source_url": "https://www.wowhead.com/news=383634",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383634-after-2-weeks-over-200k-players-have-defeated-tier-11-kindo-jan-solo.html",
+   "published_at": "2026-10-29T14:00:00Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383634/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383634/1.jpg",
      "cap": ""
     }
    ]
@@ -1186,6 +873,71 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383593/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383619,
+   "slug": "warlords-of-draenor-timewalking-week-now-live",
+   "title_fa": "هفته تایم‌واکینگ Warlords of Draenor اکنون فعال است",
+   "lead_fa": "هفته تایم‌واکینگ Warlords of Draenor اکنون برای این هفته فعال شده است و بازیکنان می‌توانند با اجرای دانجن‌ها، Timewarped Badge به دست آورند.",
+   "body_fa": [
+    "تایم‌واکینگ Warlords of Draenor شامل شش دانجن است که بازیکنان می‌توانند آن‌ها را اجرا کنند تا Gear و Timewarped Badge کسب نمایند.",
+    {
+     "t": "ul",
+     "xs": [
+      "Auchindoun: 5 Timewarped Badge",
+      "Bloodmaul Slag Mines: 5 Timewarped Badge",
+      "The Everbloom: 5 Timewarped Badge required bosses, 5 Timewarped Badge full run",
+      "Grimrail Depot: 5 Timewarped Badge",
+      "Shadowmoon Burial Grounds: 5 Timewarped Badge",
+      "Skyreach: 5 Timewarped Badge"
+     ]
+    },
+    "در پایان دانجن اول، آیتمی لوت می‌شود که ۵۰۰ Timewarped Badge اعطا می‌کند. این آیتم را می‌توان به Tempra و Kronnus تحویل داد.",
+    {
+     "t": "table",
+     "head": [
+      "مکان",
+      "مختصات"
+     ],
+     "rows": [
+      [
+       "#622",
+       "37.2 72.6"
+      ],
+      [
+       "#624",
+       "42.8 54.6"
+      ]
+     ]
+    },
+    "سه مونت با استفاده از Timewarped Badge قابل خرید هستند.",
+    {
+     "t": "note",
+     "x": "برای فهرست کامل پاداش‌ها، راهنمای Warlords of Draenor Timewalking را بررسی کنید.",
+     "kind": "info"
+    },
+    "این رویداد فرصت مناسبی برای کسب Gear و جمع‌آوری Badges است."
+   ],
+   "tags_fa": [
+    "تایم‌واکینگ",
+    "Warlords of Draenor",
+    "دانجن"
+   ],
+   "items": [],
+   "title_en": "Warlords of Draenor Timewalking Week Now Live",
+   "source_url": "https://www.wowhead.com/news=383619",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383619-warlords-of-draenor-timewalking-week-now-live.html",
+   "published_at": "2026-10-28T14:00:00Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383619/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383619/1.jpg",
      "cap": ""
     }
    ]
@@ -1357,6 +1109,42 @@
    ]
   },
   {
+   "id": 383607,
+   "slug": "living-heartsbane-cauldron-mount-now-available-on-battle-net-store",
+   "title_fa": "ماونت Living Heartsbane Cauldron در فروشگاه Battle.net در دسترس قرار گرفت",
+   "lead_fa": "ماونت جدید Living Heartsbane Cauldron هم‌زمان با بسته‌های مسکن Grimtide با قیمت ۲۵ دلار در فروشگاه Battle.net عرضه شد.",
+   "body_fa": [
+    "ماونت جدیدی تحت عنوان [[item:Living Heartsbane Cauldron]] در فروشگاه Battle.net در دسترس بازیکنان قرار گرفته است. این ماونت با قیمت 25 دلار (USD) به فروش می‌رسد و عرضهٔ آن در کنار باندل‌های مسکن Grimtide انجام شده است.",
+    {
+     "t": "note",
+     "x": "این ماونت با قیمت 25 دلار آمریکا در فروشگاه بتل‌نت قابل خریداری است.",
+     "kind": "info"
+    },
+    "در توضیحات مربوط به این ماونت آمده است که سازه‌های چوبی و حصیریِ drust هم مرگبار و هم کارآمد هستند؛ در مورد Living Heartsbane Cauldron، یک ساحرهٔ زیرک می‌تواند به‌طور هم‌زمان هم معجون دم کند و هم سفر نماید.",
+    "عرضهٔ این محصول با واکنش‌ها و نظرات مختلفی از سوی کاربران در بخش دیدگاه‌ها همراه بوده است؛ از جمله کاربری که اشاره کرده از زمان عرضهٔ 12.1.5 این چهارمین یا پنجمین آیتم تزئینی پولی فروشگاه است، و بازیکنی که از سال ۲۰۰۴ مشغول تجربهٔ بازی بوده و از افزایش اقلام فروشگاهی ابراز نارضایتی کرده است."
+   ],
+   "tags_fa": [
+    "فروشگاه بتل‌نت",
+    "ماونت",
+    "اخبار وارکرفت"
+   ],
+   "items": [],
+   "title_en": "Living Heartsbane Cauldron Mount Now Available on Battle.net Store",
+   "source_url": "https://www.wowhead.com/news=383607",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383607-living-heartsbane-cauldron-mount-now-available-on-battle-net-store.html",
+   "published_at": "2026-10-27T18:00:46Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "grok-4.20-0309-non-reasoning",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383607/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383607/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383608,
    "slug": "name-reservations-for-wow-forever-delayed",
    "title_fa": "رزرو نام‌ها برای WoW: Forever به تعویق افتاد",
@@ -1392,6 +1180,69 @@
    ]
   },
   {
+   "id": 383606,
+   "slug": "new-grimtide-housing-bundles-available-for-hearthsteel",
+   "title_fa": "باندل‌های جدید خانه Grimtide برای Hearthsteel عرضه شد",
+   "lead_fa": "دو باندل ترسناک جدید خانه Grimtide حالا در فروشگاه Battle.net برای Hearthsteel در دسترس هستند: Haunted Grimtide Estate و Grimtide Decor Pack.",
+   "body_fa": [
+    "این باندل‌ها شامل ظاهرهای خارجی و داخلی و همچنین مجموعه‌ای از وسایل دکوری با تم Grimtide هستند که حس مرموز و دریایی عمیق را به خانه شما می‌آورند.",
+    {
+     "t": "h",
+     "x": "باندل Haunted Grimtide Estate"
+    },
+    "این باندل با قیمت ۲۵۰۰ Hearthsteel یا حدود ۲۵ دلار آمریکا عرضه می‌شود. محتوای آن شامل Spirited Grimtide Manse Housing Exterior به عنوان ظاهر خارجی خانه و Spirit Grimtide Foyer به عنوان فضای داخلی است.",
+    "توضیح رسمی باندل می‌گوید: چیزی از اعماق بر این خانه چنگ انداخته است. این خانه مرموز که با شاخک‌ها پوشیده شده و توسط دریاها فرسوده شده، رازهای اقیانوس را به ساحل آورده است.",
+    {
+     "t": "note",
+     "x": "برای مشاهده تصاویر بیشتر از ظاهر داخلی و خارجی، می‌توانید پست داده‌کاوی‌شده دیروز ما را ببینید.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "باندل Grimtide Decor Pack"
+    },
+    "این باندل با قیمت ۱۰۰۰ Hearthsteel یا حدود ۱۰ دلار آمریکا در دسترس است و شامل تعداد زیادی وسیله دکوری Grimtide می‌شود.",
+    {
+     "t": "ul",
+     "xs": [
+      "Grimtide Grand Table x۱",
+      "Grimtide Side Table x۲",
+      "Grimtide Dining Chair x۴",
+      "Grimtide Couch x۲",
+      "Small Grimtide Rug x۲",
+      "Grimtide Rug x۲",
+      "Grimtide Coffee Table x۲",
+      "Grimtide Grand Piano x۱",
+      "Grimtide Tentacle x۴",
+      "Daytime Grimtide Window x۴"
+     ]
+    },
+    "این وسایل شامل میز بزرگ، صندلی، کاناپه، فرش، پیانو، شاخک، پنجره‌های روز و شب، شمع‌های جادویی در اندازه‌های مختلف، لوستر، قفسه کتاب و دریچه کف هستند.",
+    "این باندل‌ها گزینه‌های مناسبی برای بازیکنان علاقه‌مند به تم‌های ترسناک و دریایی در خانه‌های خود فراهم می‌کنند."
+   ],
+   "tags_fa": [
+    "Hearthsteel",
+    "Grimtide",
+    "خانه سازی",
+    "باندل"
+   ],
+   "items": [],
+   "title_en": "New Grimtide Housing Bundles Available for Hearthsteel",
+   "source_url": "https://www.wowhead.com/news=383606",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383606-new-grimtide-housing-bundles-available-for-hearthsteel.html",
+   "published_at": "2026-10-27T17:24:31Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383606/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383606/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383605,
    "slug": "world-of-warcraft-forever-amv-warpath",
    "title_fa": "انتشار AMV جدید WARPATH برای WoW: Forever",
@@ -1420,6 +1271,51 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383605/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383602,
+   "slug": "more-racial-ability-tuning-on-wow-forever",
+   "title_fa": "تنظیمات جدید توانایی نژادی در WoW: Forever",
+   "lead_fa": "بلزارد تنظیمات بیشتری برای توانایی‌های نژادی در WoW: Forever اعمال کرده که اورک‌ها، آندد و اسکایبورن را تحت تأثیر قرار می‌دهد.",
+   "body_fa": [
+    "در به‌روزرسانی دیروز، تغییراتی برای توانایی‌های نژادی و تالنت‌ها اضافه شده است.",
+    {
+     "t": "ul",
+     "xs": [
+      "کول‌داون Orc Blood Fury به ۲ دقیقه کاهش یافته است (از ۳ دقیقه)",
+      "مدت زمان Troll Berserking به ۱۵ ثانیه افزایش یافته است (از ۱۰ ثانیه)",
+      "کول‌داون داخلی Undead Touch of the Grave به ۱۵ ثانیه کاهش یافته است (از ۲۵ ثانیه)"
+     ]
+    },
+    "همچنین برای Skyborne اعلام شده که Charged پس از مرگ باقی می‌ماند و هنگام ورود به رید حذف می‌شود.",
+    "Attuned نیز پس از مرگ باقی می‌ماند و هنگام ورود به رید حذف می‌شود.",
+    {
+     "t": "note",
+     "x": "ویرایش شماره ۱ در ساعت ۱۰:۰۰ صبح اضافه شده و تغییر Troll Berserking را شامل می‌شود.",
+     "kind": "info"
+    },
+    "این تغییرات در ادامه تنظیمات قبلی نژادی اعمال شده است."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "WoW Forever",
+    "تنظیم نژادی"
+   ],
+   "items": [],
+   "title_en": "More Racial Ability Tuning on WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383602",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383602-more-racial-ability-tuning-on-wow-forever.html",
+   "published_at": "2026-10-27T15:47:39Z",
+   "model": "grok-4.20-0309-non-reasoning",
+   "via": "auto-xai",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383602/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383602/1.jpg",
      "cap": ""
     }
    ]
@@ -1488,6 +1384,60 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383591/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383599,
+   "slug": "more-labyrinth-class-bug-fixes-patch-12-1-5-hotfixes-for-october-26th",
+   "title_fa": "رفع باگ‌های جدید برای کلاس‌ها و Labyrinth در هاتفیکس‌های ۲۶ اکتبر",
+   "lead_fa": "بلیزارد در هاتفیکس‌های ۲۶ اکتبر ۲۰۲۶ مجموعه‌ای از باگ‌های مربوط به کلاس‌ها، سناریوهای Labyrinth و رویداد Hallow's End را برطرف کرد.",
+   "body_fa": [
+    "شرکت Blizzard برای تاریخ ۲۶ اکتبر ۲۰۲۶ هاتفیکس‌های جدیدی منتشر کرده است که بخش عمدهٔ آن به برطرف کردن ایرادات فنی کلاس‌ها و سناریوهای Labyrinth اختصاص دارد.",
+    {
+     "t": "h",
+     "x": "تغییرات و رفع ایرادات کلاس‌ها"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "کلاس Shaman تخصص Enhancement: مشکلی که باعث می‌شد در صورت قرار داشتن Ula’tek به عنوان هدف اصلی، توانایی Voltaic Blaze به هدف‌های ثانویه اصابت نکند برطرف شد.",
+      "کلاس Warlock تخصص Affliction: مشکلی که در برخی مواقع مانع نمایش درست Summon Darkglare توسط Cooldown Manager می‌شد اصلاح گردید.",
+      "بخش Player versus Player برای کلاس Paladin تخصص Holy: باگی که هنگام اجرای Blessing of Protection باعث قرار گرفتن Cleanse در وضعیت Cooldown به دلیل Spreading the Word می‌شد رفع شد."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "تغییرات Labyrinth و رویداد Hallow's End"
+    },
+    "در رویداد Hallow's End و بخش Neighborhoods، از این پس با تصاحب Shade of Seabreaker Skoloth تنها یک صندوق ظاهر خواهد شد.",
+    {
+     "t": "ul",
+     "xs": [
+      "در سناریوی The Wandering، مشکلی که به دلیل ورود و خروج بازیکنان دیگر از محدودهٔ اتصال ارواح باعث توقف لحظه‌ای حرکت Remnant می‌شد حل شد.",
+      "در سناریوی Containment Breach، روشن کردن مجدد یک منقل Flame of Jan’alai دیگر دو بار برای هدف Flames Relit محاسبه نمی‌شود.",
+      "مشکلی که گاهی اوقات باعث تکمیل مکرر هدف امتیازی Come to Your Senses در خارج از سناریوی Encroaching Darkness می‌شد برطرف گردید."
+     ]
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "Labyrinth",
+    "تغییرات کلاس‌ها"
+   ],
+   "items": [],
+   "title_en": "More Labyrinth & Class Bug Fixes - Patch 12.1.5 Hotfixes for October 26th",
+   "source_url": "https://www.wowhead.com/news=383599",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383599-more-labyrinth-class-bug-fixes-patch-12-1-5-hotfixes-for-october-26th.html",
+   "published_at": "2026-10-27T03:22:27Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383599/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383599/1.jpg",
      "cap": ""
     }
    ]
@@ -2202,6 +2152,54 @@
    ]
   },
   {
+   "id": 383566,
+   "slug": "new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr",
+   "title_fa": "چهار معجون جدید با ۳۰ درصد Experience بیشتر در PTR پچ 12.1.7",
+   "lead_fa": "PTR پچ 12.1.7 چهار معجون تازه آورده که هر کدام ۳۰ درصد Experience بیشتر از نسخهٔ فعلی می‌دهند؛ ترکیب‌های تازه‌ای که سطح‌گیری را سریع‌تر می‌کند.",
+   "body_fa": [
+    "در جدیدترین بیلد PTR پچ 12.1.7 چهار معجون جدید دیده می‌شود که جایگزین ترکیب‌های فعلی می‌شوند و همه یک ویژگی مشترک دارند: ۳۰ درصد Experience بیشتر.",
+    {
+     "t": "h",
+     "x": "چهار معجون تازه"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "معجون اول — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت",
+      "معجون دوم — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت",
+      "معجون سوم — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت",
+      "معجون چهارم — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "این اطلاعات از بیلد PTR است؛ تا انتشار نهایی پچ ممکن است مقادیر تغییر کند.",
+     "kind": "warn"
+    },
+    "اگر در فصل فعلی سطح‌گیری می‌کنید، این معجون‌ها بعد از انتشار پچ بهترین گزینهٔ فلسک و فایل شما خواهند بود."
+   ],
+   "tags_fa": [
+    "PTR",
+    "پچ 12.1.7",
+    "Experience"
+   ],
+   "items": [],
+   "title_en": "New 30% Bonus Experience Potions Datamined on Patch 12.1.7 PTR",
+   "source_url": "https://www.wowhead.com/news=383566",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383566-new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr.html",
+   "published_at": "2026-10-24T18:00:00Z",
+   "model": "GLM",
+   "via": "auto-demo",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383566/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383566/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383544,
    "slug": "catch-up-on-renown-quickly-with-aqir-invasions",
    "title_fa": "با حمله‌های Aqir هر هفته، Renown فرکشن‌های Midnight را سریع بالا ببرید",
@@ -2268,7 +2266,7 @@
    "title_en": "Catch Up on Renown Quickly with Aqir Invasions",
    "source_url": "https://www.wowhead.com/news=383544",
    "page_url": "https://pvwvuow.github.io/wowheadFA/article/383544-catch-up-on-renown-quickly-with-aqir-invasions.html",
-   "published_at": "2026-10-25T08:39:00Z",
+   "published_at": "2026-10-24T14:00:00Z",
    "model": "GLM",
    "via": "auto-demo",
    "reviewer": "",
@@ -2276,54 +2274,6 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383544/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383566,
-   "slug": "new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr",
-   "title_fa": "چهار معجون جدید با ۳۰ درصد Experience بیشتر در PTR پچ 12.1.7",
-   "lead_fa": "PTR پچ 12.1.7 چهار معجون تازه آورده که هر کدام ۳۰ درصد Experience بیشتر از نسخهٔ فعلی می‌دهند؛ ترکیب‌های تازه‌ای که سطح‌گیری را سریع‌تر می‌کند.",
-   "body_fa": [
-    "در جدیدترین بیلد PTR پچ 12.1.7 چهار معجون جدید دیده می‌شود که جایگزین ترکیب‌های فعلی می‌شوند و همه یک ویژگی مشترک دارند: ۳۰ درصد Experience بیشتر.",
-    {
-     "t": "h",
-     "x": "چهار معجون تازه"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "معجون اول — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت",
-      "معجون دوم — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت",
-      "معجون سوم — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت",
-      "معجون چهارم — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت"
-     ]
-    },
-    {
-     "t": "note",
-     "x": "این اطلاعات از بیلد PTR است؛ تا انتشار نهایی پچ ممکن است مقادیر تغییر کند.",
-     "kind": "warn"
-    },
-    "اگر در فصل فعلی سطح‌گیری می‌کنید، این معجون‌ها بعد از انتشار پچ بهترین گزینهٔ فلسک و فایل شما خواهند بود."
-   ],
-   "tags_fa": [
-    "PTR",
-    "پچ 12.1.7",
-    "Experience"
-   ],
-   "items": [],
-   "title_en": "New 30% Bonus Experience Potions Datamined on Patch 12.1.7 PTR",
-   "source_url": "https://www.wowhead.com/news=383566",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383566-new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr.html",
-   "published_at": "2026-10-24T18:00:00Z",
-   "model": "GLM",
-   "via": "auto-demo",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383566/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383566/1.jpg",
      "cap": ""
     }
    ]
@@ -2761,6 +2711,56 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383520/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383537,
+   "slug": "rp-pvp-ruleset-coming-to-wow-forever",
+   "title_fa": "افزوده شدن سرورهای RP-PvP به بازی WoW: Forever",
+   "lead_fa": "شرکت Blizzard تایید کرد که سرورهای دارای قوانین RP-PvP هم‌زمان با لانچ رسمی WoW: Forever در دسترس قرار می‌گیرند و رزرو نام آن‌ها از هفته آینده آغاز می‌شود.",
+   "body_fa": [
+    "شرکت Blizzard رسماً اعلام کرد که مجموعه قوانین RP-PvP را برای زمان لانچ بازی WoW: Forever اضافه خواهد کرد. این تصمیم پس از گفت‌وگوهای قسمت اخیر برنامه WoW: Forever Podcast و بررسی بازخوردهای بازیکنان اتخاذ شده است.",
+    {
+     "t": "quote",
+     "x": "در قسمت اخیر پادکست WoW Forever به بخشی از نگرانی‌های خود درباره افزودن رول‌ست Roleplay-PVP در WoW Forever اشاره کردیم، اما گفتیم که این موضوع همچنان در حال بررسی داخلی است و بازخورد بازیکنان را زیر نظر داریم. طی چند روز گذشته جوانب این موضوع را سنجیدیم و تصمیم گرفتیم آن را اضافه کنیم. ما رول‌ست Roleplay-PVP را برای عرضه در ۴ نوامبر آماده خواهیم کرد. همچنین تلاش می‌کنیم تا بتوانید این رول‌ست را هنگام آغاز دوره رزرو نام در روز سه‌شنبه ۲۷ اکتبر انتخاب کنید. از بازخوردها و نظرات در این مورد بسیار سپاسگزاریم.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "h",
+     "x": "برنامه زمانی رزرو نام و عرضه"
+    },
+    "طبق اعلام تیم سازنده، انتخاب سرور و رزرو نام برای رول‌ست RP-PvP هم‌زمان با شروع دوره رزرو نام‌ها در روز سه‌شنبه ۲۷ اکتبر (October 27) فعال خواهد شد و خود بازی نیز در تاریخ ۴ نوامبر رسماً لانچ می‌شود.",
+    {
+     "t": "note",
+     "x": "دوره رزرو نام‌ها در تاریخ ۲۷ اکتبر کلید می‌خورد و عرضه جهانی بازی در ۴ نوامبر انجام خواهد شد.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "جزئیات پایگاه داده و خبرهای مرتبط"
+    },
+    "این خبر با شناسه 383537 در تاریخ 2026-10-22 به ثبت رسیده است و نظرات بازیکنان تحت نسخه 1.60.1 به ثبت رسیده‌اند. بخش نظرات شامل ۲۰ دیدگاه از ۲۰ نظر ثبت‌شده در صفحه نخست است و کاربرانی نظیر 5RanceRaptor و 12Heavyharper دیدگاه‌های خود را مطرح کرده‌اند. همچنین در خبرهای سایت، عناوینی چون انتشار هاتفیکس‌های ۳۰ اکتبر ۲۰۲۶ (October 30, 2026) در بازه‌های زمانی ۱۵ ساعت و ۱۶ ساعت پیش، آماده‌سازی برای عرضه در ۲۱ ساعت و ۲۲ ساعت قبل، رفع باگ کوئست‌ها در ۲۰ دقیقه پیش و ساخت بیش از ۸ میلیون کاراکتر در بتا به چشم می‌خورد."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "بلیزارد",
+    "اخبار سرورها",
+    "رول پلی"
+   ],
+   "items": [],
+   "title_en": "RP-PvP Ruleset Coming to WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383537",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383537-rp-pvp-ruleset-coming-to-wow-forever.html",
+   "published_at": "2026-10-22T15:33:56Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "grok-4",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383537/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383537/1.png",
      "cap": ""
     }
    ]
