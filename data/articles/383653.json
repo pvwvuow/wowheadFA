@@ -4,7 +4,7 @@
  "url": "https://www.wowhead.com/news=383653",
  "title_en": "Return to Azeroth Recap for World of Warcraft: Forever",
  "category": "Forever",
- "published_at": "2026-10-29T19:13:59Z",
+ "published_at": "2026-10-31T14:49:23Z",
  "fetched_at": "2026-10-29T19:55:40Z",
  "source_mode": "full",
  "qa_facts": {
@@ -623,7 +623,7 @@
   ],
   "chars": 9809
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383653/1.png",
@@ -659,5 +659,52 @@
    "Legacy System",
    "Ruleset"
   ]
+ },
+ "article_fa": {
+  "title_fa": "بازگشت به آزراث در World of Warcraft: Forever",
+  "lead_fa": "بلیزارد با انتشار خلاصه‌ای، بازیکنان را برای بازگشت به آزراث در ۴ نوامبر در World of Warcraft: Forever آماده می‌کند.",
+  "body_fa": [
+   "World of Warcraft: Forever سفری تازه در جهانی بازسازی‌شده آغاز می‌کند که شامل مناطق جدید، کوئست‌ها، دانجن‌ها، سیستم‌ها و گزینه‌های شخصیت است و در عین حال پایه‌های اصلی بازی را حفظ می‌کند. این تجربه از دوره اولیه «Year 1» نسخهٔ اورجینال World of Warcraft الهام گرفته شده است؛ زمانی پیش از آنکه Kazzak Dark Portal را بازگشایی کند و پیش از سفرهایی که Northrend را شامل می‌شد.",
+   {
+    "t": "h",
+    "x": "مناطق و دانجن‌های تازه"
+   },
+   "بیش از ۱۰۰۰ کوئست جدید در طول مسیر سطح ۱ تا ۶۰ اضافه شده است. مناطق تازه شامل Mount Hyjal، Shen’dralas، the Riverglades و Zephras Isle هستند. ۹ دانجن جدید پنج‌نفره در سطوح ۱۳ تا ۶۰ در Eastern Kingdoms و Kalimdor قرار دارند. دانجن‌های Eastern Kingdoms عبارتند از Hall of Thanes، Ruins of Lordaeron، Excavation Site، City of Dalaran، The Drowned City و Krol’dok Stronghold. دانجن‌های Kalimdor نیز Alcaz Prison، Blackmaw Hold و Shaper’s Terrace هستند.",
+   {
+    "t": "h",
+    "x": "ترکیب‌های جدید نژاد و کلاس"
+   },
+   "ترکیب‌های تازه‌ای که در نسخهٔ اورجینال وجود نداشتند اکنون در دسترس هستند:\nAlliance: Human Hunter، Dwarf Shaman و Gnome Priest.\nHorde: Orc Mage، Troll Warlock و Undead Paladin. نژاد Skyborne به هر دو فکشن Alliance و Horde تعلق می‌گیرد و با توانایی‌های نژادی متفاوت آغاز می‌شود. این نژاد در منطقهٔ شروع Zephras Isle سطح ۱ تا ۱۲ قرار دارد و می‌تواند Druid، Hunter، Rogue و Warrior باشد. Skyborneهای Alliance-aligned می‌توانند Mage نیز انتخاب کنند و Skyborneهای Horde-aligned می‌توانند Shaman باشند. دسترسی به Skyborne نیازمند خرید Heroic Pack یا ارتقاهای بالاتر است.",
+   {
+    "t": "h",
+    "x": "سیستم Legacy و پیشرفت PvP"
+   },
+   "Legacy System یک سیستم پیشرفت افقی حساب‌محور است که بر کاوش همهٔ محتوای بازی تمرکز دارد و الزامی برای لول‌آپ کاراکترهای آلت وجود ندارد. همهٔ مزایا را می‌توان روی یک کاراکتر باز کرد. سیستم PvP بازطراحی‌شده شامل کسب Honor و Rank points از طریق battlegroundها، PvP quests، weekly seasonal tasks و فعالیت‌های دیگر است. هفته‌های تعطیل battleground پاداش بیشتری می‌دهد.",
+   "Darkspear Islands یک battleground جدید ۱۵ در برابر ۱۵ در ساحل Dustwallow Marsh برای سطوح ۳۰ تا ۶۰ است. تیم‌ها با کنترل چهار capture point و تصاحب پرچم مرکزی امتیاز کسب می‌کنند و اولین تیمی که به ۲۰۰۰ امتیاز برسد برنده می‌شود. شهرت با Darkspear Raiders یا Theramore Expeditionary Force برای دریافت پاداش‌های فکشن قابل کسب است.",
+   {
+    "t": "h",
+    "x": "انتخاب تجربهٔ دلخواه"
+   },
+   "در اولین ورود به بازی، باید Experience Preset را انتخاب کنید:\nClassic: مدل‌های Standard Definition، Quest points of interest خاموش، One-bag خاموش، Transmog خاموش، UI کلاسیک.\nEnhanced: مدل‌های High Definition، Quest points of interest روشن، One-bag روشن، Transmog روشن، UI متمرکز. هر کاراکتر جدید می‌تواند بین مدل‌های HD و SD انتخاب کند که تنها بر ظاهر تأثیر می‌گذارد. این انتخاب بعداً از طریق Options Menu یا Barbershop قابل تغییر است.",
+   "هر شخصیت دارای نام دوبخشی است که ترکیب کامل آن باید در منطقه منحصربه‌فرد باشد. نام دوم می‌تواند برای نشان دادن خانواده، مکان، عنوان یا ارتباط بین کاراکترها استفاده شود. می‌توانید نمایش نام دوم را در Nameplates مخفی کنید.",
+   {
+    "t": "h",
+    "x": "Rulesetها و نصب بازی"
+   },
+   "به جای انتخاب از لیست طولانی ریلم‌ها، Ruleset انتخاب می‌شود:\nNormal، PvP، Roleplay، Roleplay-PvP و Hardcore (که بعداً اضافه می‌شود). پیش از نصب، سیستم‌عامل و درایورهای گرافیک را به‌روزرسانی کنید و سیستم مورد نیاز رسمی را بررسی نمایید. اگر نمی‌توانید وارد شوید، از ابزارهای بازیابی حساب بلیزارد استفاده کنید.",
+   "برای شروع، Battle.net desktop app را دانلود کنید، WoW: Forever را انتخاب نمایید و نصب را آغاز کنید. دسترسی به بازی نیازمند World of Warcraft subscription یا Game Time فعال است. ارتقای Skyborne Heroic Pack یا بالاتر برای دسترسی به نژاد Skyborne لازم است. دوستان خود را جمع کنید، کاراکتر و Ruleset مناسب را برگزینید و سفرتان را در World of Warcraft: Forever آغاز کنید."
+  ],
+  "tags_fa": [
+   "World of Warcraft: Forever",
+   "بازگشت به آزراث",
+   "سیستم Legacy",
+   "Darkspear Islands"
+  ]
+ },
+ "generator": {
+  "model": "grok-4.20-0309-non-reasoning",
+  "via": "auto-xai",
+  "written_at": "2026-10-31T14:49:23Z",
+  "reviewer": "grok-4"
  }
 }
