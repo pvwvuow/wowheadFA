@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T14:01:55Z",
+ "generated": "2026-10-31T15:12:01Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2577,6 +2577,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383662,
+   "title_en": "New Drust-Themed Hearthstone Available from Talebound",
+   "url": "https://www.wowhead.com/news=383662",
+   "category": "PTR",
+   "published_at": "2026-10-31T14:00:00Z"
+  },
   {
    "id": 383670,
    "title_en": "Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever",
