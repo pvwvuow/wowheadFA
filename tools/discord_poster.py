@@ -13,6 +13,12 @@
      از دست نمی‌رود — تصویر خبر همیشه در embed نمایش داده می‌شود.
   4. شناسهٔ خبرهای فرستاده‌شده را در data/discord_state.json ثبت می‌کند
      (CI آن را commit می‌کند تا خبر تکراری نفرستد).
+  5. فقط خبرهای تازه را می‌فرستد: خبرهای قدیمی‌تر از MAX_AGE_HOURS ساعت
+     (پیش‌فرض ۲۴) به‌عنوان فرستاده‌شده ثبت می‌شوند و هرگز به دیسکورد
+     نمی‌روند — تاریخ ملاک، تاریخ اصلی خود خبر در Wowhead است.
+  6. گزارش هر اجرا (چه چیزی با/بدون تصویر فرستاد، چه چیزی قدیمی بود،
+     کد HTTP) در state["last_run"] نوشته می‌شود و با state کامیت می‌شود؛
+     این گزارش جایگزین لاگ Actions برای بازبینی از راه دور است.
 
 چرا پیوست و نه لینک تصویر Pages؟ (ریشهٔ باگ «عکس خبر در دیسکورد نمی‌آید»)
   نسخهٔ قبلی embed.image را روی لینک
@@ -44,6 +50,8 @@ Env:
   POST_ON_FIRST_RUN   اگر "1" باشد در اولین اجرا همهٔ خبرها را می‌فرستد
                       (پیش‌فرض 0 = اولین اجرا فقط وضعیت را seed می‌کند)
   LINK_MODE           wowfarsi (پیش‌فرض) | pages  — مقصد دکمهٔ «مشاهده خبر»
+  MAX_AGE_HOURS       حداکثر عمر خبر برای ارسال (پیش‌فرض 24) — قدیمی‌ترها
+                      فقط ثبت می‌شوند و به دیسکورد نمی‌روند
 """
 import argparse
 import json
@@ -134,6 +142,15 @@ def load_state(path):
             return json.load(f)
     except Exception:
         return {"posted": {}}
+
+
+def article_age_h(article):
+    """عمر خبر به ساعت بر اساس تاریخ اصلی Wowhead (published_at)."""
+    try:
+        dt = datetime.fromisoformat(str(article.get("published_at")).replace("Z", "+00:00"))
+        return (datetime.now(timezone.utc) - dt).total_seconds() / 3600.0
+    except Exception:
+        return 0.0                                       # تاریخ خراب → تازه فرض کن
 
 
 def save_state(path, st):
@@ -284,13 +301,27 @@ def post_message(token, channel, payload, img_path=None, fname=None):
         files = {"files[0]": (fname, img_bytes, "image/jpeg")}
     headers = {"Authorization": f"Bot {token}",
                "User-Agent": UA}
+    r = None
+    last_err = None
     for attempt in range(3):
-        r = requests.post(f"{API}/channels/{channel}/messages",
-                          data=data, files=files, headers=headers, timeout=40)
+        try:
+            r = requests.post(f"{API}/channels/{channel}/messages",
+                              data=data, files=files, headers=headers,
+                              timeout=40)
+        except requests.RequestException as e:
+            last_err = e
+            time.sleep(3)
+            continue
         if r.status_code == 429:
-            time.sleep(min(float(r.json().get("retry_after", 2)) + 0.5, 15))
+            try:
+                wait = float(r.json().get("retry_after", 2)) + 0.5
+            except Exception:
+                wait = 2.5
+            time.sleep(min(wait, 15))
             continue
         return r
+    if r is None and last_err is not None:
+        raise last_err                     # شبکه کاملاً قطع بود → بالا بده
     return r
 
 
@@ -345,8 +376,32 @@ def main():
         print("!! DISCORD_BOT_TOKEN تنظیم نیست — رد شد (کد 0 تا CI قرمز نشود)")
         return 0
 
+    max_age = float(os.environ.get("MAX_AGE_HOURS", "24") or 24)
     sent = 0
     published_any = False
+    run_log = []                      # diagnostics → state["last_run"] → git
+
+    # دروازهٔ تازگی: خبر قدیمی‌تر از max_age ساعت اصلاً به دیسکورد نمی‌رود؛
+    # برای اینکه هر بار دوباره بررسی نشود، ثبتش می‌کنیم و دلیلش را لاگ می‌کنیم.
+    fresh = []
+    for a in targets:
+        age = article_age_h(a)
+        if age > max_age and not args.dry_run and not args.id:
+            posted[str(a["id"])] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+            run_log.append({"id": a["id"], "image": "none", "http": 0,
+                            "note": f"skipped-old ({age:.0f}h > {max_age:.0f}h)"})
+            print(f"⏭ {a['id']} قدیمی است ({age:.0f} ساعت) — ارسال نشد، فقط ثبت شد")
+        else:
+            fresh.append(a)
+    targets = fresh
+    if not targets:
+        if not args.dry_run:
+            state["last_run"] = {"at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                                 "channel": channel, "posts": run_log}
+            save_state(state_path, state)
+        print("done: 0 posted (همه قدیمی یا قبلاً فرستاده شده)")
+        return 0
+
     for a in targets:
         aid = a["id"]
         fname = f"{aid}-wm.jpg"
@@ -366,29 +421,44 @@ def main():
                   f"({os.path.getsize(img_path) // 1024} KB)")
         elif not img_path:
             print(f"   (خبر {aid} تصویری ندارد)")
+        entry = {"id": aid,
+                 "image": (f"attached:{os.path.getsize(img_path) // 1024}KB"
+                           if img_path else "none"), "http": 0}
 
         payload = build_payload(a, fname=fname if img_path else None)
         if args.dry_run:
             print(f"– [{aid}] {a.get('title_fa', '')[:60]}")
             print(json.dumps(payload, ensure_ascii=False, indent=1)[:1200])
             continue
-        r = post_message(token, channel, payload, img_path, fname if img_path else None)
-        if r.status_code in (200, 201):
-            posted[str(aid)] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-            sent += 1
-            published_any = True
-            print(f"✔ {aid} → کانال {channel} (image=attachment "
-                  f"{os.path.getsize(img_path) // 1024} KB)"
-                  if img_path else f"✔ {aid} → کانال {channel} (بدون تصویر)")
-        else:
-            print(f"✘ {aid}: HTTP {r.status_code} {r.text[:200]}")
-            if r.status_code in (401, 403, 404):
-                break                      # توکن/دسترسی خراب — بی‌خود ادامه نده
+        r = None
+        try:
+            r = post_message(token, channel, payload, img_path,
+                             fname if img_path else None)
+        except Exception as e:
+            entry["note"] = f"post-error {type(e).__name__}: {str(e)[:80]}"
+            print(f"✘ {aid}: خطای شبکه {type(e).__name__}: {str(e)[:120]}")
+        if r is not None:
+            entry["http"] = r.status_code
+            if r.status_code in (200, 201):
+                posted[str(aid)] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+                sent += 1
+                published_any = True
+                print(f"✔ {aid} → کانال {channel} (image=attachment "
+                      f"{os.path.getsize(img_path) // 1024} KB)"
+                      if img_path else f"✔ {aid} → کانال {channel} (بدون تصویر)")
+            else:
+                print(f"✘ {aid}: HTTP {r.status_code} {r.text[:200]}")
+                if r.status_code in (401, 403, 404):
+                    break                  # توکن/دسترسی خراب — بی‌خود ادامه نده
+        run_log.append(entry)
         time.sleep(1.2)
 
     if not args.dry_run:
-        if published_any:                  # بدون bump بی‌دلیل timestamp
-            save_state(state_path, state)
+        # last_run همیشه نوشته می‌شود — حتی وقتی چیزی فرستاده نشد — تا هر
+        # اجرا ردپایی در گیت بگذارد (جای لاگ Actions برای بازبینی دور).
+        state["last_run"] = {"at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                             "channel": channel, "posts": run_log}
+        save_state(state_path, state)
         print(f"done: {sent} posted | state → {state_path}")
     return 0
 

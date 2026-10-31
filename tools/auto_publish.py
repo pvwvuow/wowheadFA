@@ -1137,7 +1137,14 @@ def publish(art, data, writer, reviewer, items=None):
     art["generator"] = gen
     art.pop("source_text", None)          # copyright: never persist source
     art["status"] = "published"
-    art["published_at"] = now_iso()
+    # published_at is the article's ORIGINAL Wowhead date (set at fetch from
+    # the RSS pubDate) - never overwrite it with the bot's publish time:
+    # the site and the Discord embed must show the real news date, and the
+    # discord bot's fresh-news gate judges age by it. When we wrote the bot
+    # time here, a 3-day-old Wowhead story appeared as "today's news"
+    # (owner report 2026-10-31). The bot's own publish moment is already
+    # recorded in generator.written_at.
+    art.setdefault("published_at", now_iso())
     if not art.get("qa_facts"):
         art["qa_facts"] = {"numbers": [], "entities": [], "chars": 0}
     os.makedirs(ART, exist_ok=True)
