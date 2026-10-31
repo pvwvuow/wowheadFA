@@ -46,10 +46,25 @@
    "reason": "عددِ بدون منبع در مقاله: 200 | G1 Persian ratio 48% < 55% | G3 long English run: ve also been thinking of ways to auto-detect PvP battles that are happ...",
    "at": "2026-10-31T11:22:35Z",
    "at_ts": 1793445755.01441
+  },
+  "383635": {
+   "reason": "عددِ بدون منبع در مقاله: 200 | fallback هم رد شد: عددِ بدون منبع در مقاله: 200 | G5 English token not in source: note | G5 English token not",
+   "at": "2026-10-31T11:44:26Z",
+   "at_ts": 1793447066.44154
+  },
+  "383634": {
+   "reason": "عددِ بدون منبع در مقاله: 92 | عددِ بدون منبع در مقاله: 305 | عددِ بدون منبع در مقاله: 113",
+   "at": "2026-10-31T11:49:13Z",
+   "at_ts": 1793447353.948693
+  },
+  "383632": {
+   "reason": "عددِ بدون منبع در مقاله: 200 | G4 numbers from source missing in article: 62 | G6 CJK characters leaked into Persian prose: 布局, 布局, 锻",
+   "at": "2026-10-31T11:50:42Z",
+   "at_ts": 1793447442.305055
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-10-31T11:22:35Z",
+ "updated_at": "2026-10-31T11:50:42Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -1771,6 +1786,46 @@
     "blocks": 7,
     "warns": 0,
     "sec": 59.5,
+    "attempts": 2
+   },
+   {
+    "id": "383635",
+    "ts": "2026-10-31T11:44:26Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 66.4,
+    "attempts": 2
+   },
+   {
+    "id": "383635",
+    "ts": "2026-10-31T11:48:18Z",
+    "path": "fallback",
+    "result": "held",
+    "blocks": 4,
+    "warns": 0,
+    "sec": 231.6,
+    "attempts": 1
+   },
+   {
+    "id": "383634",
+    "ts": "2026-10-31T11:49:13Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 5,
+    "warns": 0,
+    "sec": 55.6,
+    "attempts": 2
+   },
+   {
+    "id": "383632",
+    "ts": "2026-10-31T11:50:42Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 0,
+    "sec": 88.4,
     "attempts": 2
    }
   ]
