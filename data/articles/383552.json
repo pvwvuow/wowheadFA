@@ -105,7 +105,9 @@
    "available",
    "awards",
    "awful",
+   "azeroth",
    "bad",
+   "bailey",
    "banner",
    "based",
    "basically",
@@ -124,6 +126,7 @@
    "between",
    "beyond",
    "bias",
+   "bill",
    "bis",
    "bit",
    "blizz",
@@ -157,6 +160,7 @@
    "changes",
    "characters",
    "check",
+   "chef",
    "chest",
    "choose",
    "chunk",
@@ -204,6 +208,7 @@
    "day",
    "days",
    "dblizzard",
+   "dcould",
    "debated",
    "decor",
    "default",
@@ -227,6 +232,7 @@
    "discover",
    "discovered",
    "discussion",
+   "dnew",
    "dnovember",
    "do",
    "doesn't",
@@ -236,6 +242,7 @@
    "dornogal",
    "doubling",
    "dover",
+   "drepeatable",
    "dreturning",
    "drop",
    "dropped",
@@ -267,6 +274,7 @@
    "enter",
    "entire",
    "entirely",
+   "episode",
    "equal",
    "equally",
    "equipment",
@@ -314,6 +322,7 @@
    "forever",
    "forms",
    "from",
+   "ft",
    "fun",
    "function",
    "functioning",
@@ -363,6 +372,7 @@
    "hero",
    "hero-track",
    "heroic",
+   "hget",
    "him",
    "hit",
    "hnew",
@@ -377,7 +387,9 @@
    "hover",
    "how",
    "however",
+   "hplanet",
    "hrepeatable",
+   "hthe",
    "https",
    "hunts",
    "i",
@@ -456,6 +468,7 @@
    "long",
    "loop",
    "loot",
+   "lorewalking",
    "lost",
    "loves",
    "lucky",
@@ -583,6 +596,7 @@
    "points",
    "policy",
    "popular",
+   "post",
    "potions",
    "power",
    "powerboost",
@@ -762,6 +776,7 @@
    "tide",
    "tier",
    "time",
+   "titans",
    "title",
    "to",
    "toggle",
@@ -774,6 +789,7 @@
    "towards",
    "track",
    "tracks",
+   "trading",
    "traffic",
    "traveler's",
    "treats",
@@ -791,6 +807,7 @@
    "unaffected",
    "unchanged",
    "under",
+   "uniform",
    "uniquely",
    "unplayable",
    "until",
@@ -831,6 +848,7 @@
    "wanna",
    "want",
    "warcraft",
+   "warturkey",
    "was",
    "wasn't",
    "wasnt",
@@ -905,24 +923,28 @@
  "hold_count": 1,
  "hold_at": "2026-10-27T20:09:42Z",
  "last_rejected": {
-  "title_fa": "تغییرات سطح آیتم در تجهیزات Ascended Venomforged",
-  "lead_fa": "هاتفیکس جدیدی سطح آیتم تجهیزاتی را که با استفاده از Ascended Venomstones ارتقا یافته‌اند تغییر داده است.",
+  "title_fa": "تغییرات Item Level در تجهیزات Ascended Venomforged",
+  "lead_fa": "هاتفیکس جدید تغییراتی در سطح آیتم حاصل از ارتقا با Ascended Venomstone اعمال کرده و توزیع قدرت میان قطعات ساخته‌شده و غارت‌شده را دستخوش دگرگونی کرده است.",
   "body_fa": [
-   "بازیکنان می‌توانند با مصرف ۱۰ عدد Ascendant Venomstone روی برخی از قطعات تجهیزات، سطح آیتم آن‌ها را افزایش دهند. اوایل هفته، یک قطعه crafted با ۷ سطح آیتم به ۳۳۸ رسیده بود در حالی که یک قطعه non-crafted با ۶ سطح آیتم به ۳۴۰ می‌رسید.",
-   "این موضوع به‌تازگی با هاتفیکس اصلاح شده و مقدار افزایش سطح آیتم تغییر کرده است.",
+   "در یک هاتفیکس تازه، سازوکار افزایش سطح آیتم تجهیزات ارتقایافته تغییر یافته است. بازیکنان می‌توانند ۱۰ عدد Ascendant Venomstone را روی قطعات خاصی از تجهیزات به کار ببرند تا سطح آیتم آن‌ها را بالاتر ببرند.",
+   {
+    "t": "h",
+    "x": "مقایسه تغییرات سطوح آیتم"
+   },
+   "در اوایل هفته، یک قطعه ساختنی (Crafted) پس از ارتقا ۷ سطح دریافت می‌کرد و به ۳۳۸ می‌رسید، در حالی که قطعات غیرساختنی (Non-Crafted) با ۶ سطح افزایش به ۳۴۰ می‌رسیدند. پس از هاتفیکس، مقادیر تغییر کرده است:",
    {
     "t": "ul",
     "xs": [
-     "قطعه Crafted با ۶ سطح آیتم به Item level ۳۳۷ می‌رسد.",
-     "قطعه Non-Crafted با ۷ سطح آیتم به Item Level ۳۴۱ می‌رسد."
+     "قطعات ساخته‌شده (Crafted) ۶ سطح دریافت کرده و به سطح ۳۳۷ می‌رسند.",
+     "قطعات غیرساختنی (Non-Crafted) ۷ سطح دریافت کرده و به سطح ۳۴۱ می‌رسند."
     ]
    },
    {
     "t": "table",
     "head": [
      "نوع تجهیزات",
-     "Previous Myth Item Level",
-     "New Myth Item Level"
+     "سطح Myth قبلی",
+     "سطح Myth جدید"
     ],
     "rows": [
      [
@@ -937,31 +959,16 @@
      ]
     ]
    },
-   "هرچند این تغییر احتمالاً تأثیر زیادی در تصویر کلی ندارد، اما تجهیزات non-crafted کمی قدرت بیشتری نسبت به تجهیزات crafted به دست آورده‌اند.",
-   {
-    "t": "h",
-    "x": "توضیحات فنی"
-   },
-   "طبق ویدیو Zorthas، مقادیر قبلی با مسیر ارتقای Myth سازگار نبودند. حالا Blizzard این ناهماهنگی را برطرف کرده است.",
    {
     "t": "note",
-    "x": "این هاتفیکس روی آیتم‌های موجود نیز اعمال می‌شود.",
+    "x": "این هاتفیکس باعث شده تجهیزات غیرساختنی اندکی قدرت بیشتری نسبت به تجهیزات ساخته‌شده به دست آورند.",
     "kind": "info"
-   },
-   "این تغییرات در Patch 12.1.5 اعمال شده و منبع خبر با شماره 383552 منتشر شده است.",
-   {
-    "t": "quote",
-    "x": "کسی در Blizzard ویدیو Zorthas را دیده بود.",
-    "by": "کامنت کاربر"
-   },
-   "در مجموع، این هاتفیکس مقادیر ۳۳۸ و ۳۴۰ را به ترتیب به ۳۳۷ و ۳۴۱ تغییر داده است.",
-   "تاریخ انتشار خبر ۲۲ اکتبر ۲۰۲۶ بوده و در دسته‌بندی Live قرار دارد."
+   }
   ],
   "tags_fa": [
    "هاتفیکس",
-   "Midnight",
-   "Patch 12.1.5",
-   "Ascended Venomstone"
+   "سطح آیتم",
+   "Midnight"
   ]
  }
 }

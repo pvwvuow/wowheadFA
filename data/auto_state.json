@@ -16,10 +16,35 @@
    "reason": "G3 long English run: H Str Axe\nPlate\nPledgebearer's Cuirass\nChest\nMail\nGalerider's Byrnie\nC... | G5 English token not in source: chest | G5 English token not in source: brigandine",
    "at": "2026-11-01T21:42:28Z",
    "at_ts": 1793569348.310103
+  },
+  "383562": {
+   "reason": "خطای مدل در بازنویسی: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+   "at": "2026-11-01T22:11:10Z",
+   "at_ts": 1793571070.797218
+  },
+  "383552": {
+   "reason": "G4 numbers from source missing in article: 12, 12.1.0, 12.1.5, 12.1.7, 15, 18, 20, 2026",
+   "at": "2026-11-01T22:25:55Z",
+   "at_ts": 1793571955.560092
+  },
+  "383543": {
+   "reason": "خطای مدل در بازنویسی: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+   "at": "2026-11-01T22:35:30Z",
+   "at_ts": 1793572530.482782
+  },
+  "383530": {
+   "reason": "بخش note نظرات کاربران (کامنت‌ها) و تیترهای مقالات جانبی سایت مانند هاتفیکس ۳۰ اکتبر ۲۰۲۶ و قرارداد NetEase را به عنوان بخشی از رویداد و خبر رسمی ادغام و ادعا کرده است که در متن خبر اصلی وجود ندارد.",
+   "at": "2026-11-01T22:47:16Z",
+   "at_ts": 1793573236.686684
+  },
+  "383487": {
+   "reason": "G4 numbers from source missing in article: 22, 80",
+   "at": "2026-11-01T22:59:42Z",
+   "at_ts": 1793573982.443658
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-01T21:45:01Z",
+ "updated_at": "2026-11-01T22:59:42Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -2652,6 +2677,106 @@
     "warns": 0,
     "sec": 153.1,
     "attempts": 0
+   },
+   {
+    "id": "383562",
+    "ts": "2026-11-01T22:11:10Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 266.5,
+    "attempts": 2
+   },
+   {
+    "id": "383570",
+    "ts": "2026-11-01T22:12:58Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 107.4,
+    "attempts": 1
+   },
+   {
+    "id": "383568",
+    "ts": "2026-11-01T22:14:50Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 111.9,
+    "attempts": 1
+   },
+   {
+    "id": "383561",
+    "ts": "2026-11-01T22:16:47Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 117.7,
+    "attempts": 1
+   },
+   {
+    "id": "383552",
+    "ts": "2026-11-01T22:25:55Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 547.8,
+    "attempts": 2
+   },
+   {
+    "id": "383548",
+    "ts": "2026-11-01T22:30:17Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 261.6,
+    "attempts": 1
+   },
+   {
+    "id": "383543",
+    "ts": "2026-11-01T22:35:30Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 313.3,
+    "attempts": 2
+   },
+   {
+    "id": "383541",
+    "ts": "2026-11-01T22:39:32Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 242.4,
+    "attempts": 1
+   },
+   {
+    "id": "383530",
+    "ts": "2026-11-01T22:47:16Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 463.8,
+    "attempts": 2
+   },
+   {
+    "id": "383487",
+    "ts": "2026-11-01T22:59:42Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 745.8,
+    "attempts": 2
    }
   ]
  }

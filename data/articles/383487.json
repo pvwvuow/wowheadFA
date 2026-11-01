@@ -22,6 +22,7 @@
    "101.2",
    "102.4",
    "109.5",
+   "11",
    "137.7",
    "15",
    "16",
@@ -69,6 +70,7 @@
    "activity",
    "actual",
    "actually",
+   "ad",
    "ad-freemore",
    "add",
    "added",
@@ -87,8 +89,10 @@
    "ads.keep",
    "adult",
    "advance",
+   "advertiser",
    "advertising",
    "adverts",
+   "advisit",
    "affect",
    "affected",
    "affecting",
@@ -180,6 +184,7 @@
    "b",
    "back",
    "bad",
+   "bailey",
    "balance",
    "bandaid",
    "banner",
@@ -213,6 +218,7 @@
    "bf",
    "big",
    "biggest",
+   "bill",
    "bit",
    "bite",
    "blacksmithing",
@@ -404,6 +410,7 @@
    "day",
    "days",
    "dblizzard",
+   "dcould",
    "deal",
    "dealing",
    "death",
@@ -465,6 +472,7 @@
    "dooming",
    "double",
    "doubts",
+   "dover",
    "down",
    "downtime",
    "downvoted",
@@ -473,6 +481,7 @@
    "dragon",
    "drastically",
    "drawbacks",
+   "drepeatable",
    "dreturn",
    "drool",
    "drop",
@@ -627,6 +636,7 @@
    "from",
    "frustrating",
    "frustration",
+   "ft",
    "fuel",
    "full",
    "fully",
@@ -745,6 +755,7 @@
    "however",
    "hp",
    "hpals",
+   "hplanet",
    "hs",
    "https",
    "huge",
@@ -1342,6 +1353,7 @@
    "skew",
    "skill",
    "skilled",
+   "skip",
    "slam",
    "slap",
    "slew",
@@ -1614,6 +1626,7 @@
    "very",
    "via",
    "viable",
+   "video",
    "vision",
    "visit",
    "visited",
@@ -1632,6 +1645,7 @@
    "was",
    "wasnt",
    "wasted",
+   "watching",
    "way",
    "ways",
    "we",
@@ -1646,6 +1660,7 @@
    "web",
    "webhook",
    "website",
+   "websitego",
    "week",
    "weekly",
    "weird",
@@ -1709,7 +1724,7 @@
    "youtube",
    "zero"
   ],
-  "chars": 43740
+  "chars": 43777
  },
  "images": [
   {
@@ -1722,91 +1737,53 @@
  "hold_count": 1,
  "hold_at": "2026-10-28T00:27:17Z",
  "last_rejected": {
-  "title_fa": "وضعیت فعلی پروتکشن پالادین در وو فوراور",
-  "lead_fa": "پروتکشن پالادین در طول بتا تغییرات متعددی دریافت کرده است که بیشتر آن‌ها به شکل nerf بوده‌اند. این به‌روزرسانی‌ها نحوهٔ بازی و جایگاه این spec را در roster raid تحت تأثیر قرار می‌دهند.",
+  "title_fa": "بررسی وضعیت و تغییرات اساسی Protection Paladin در نسخه بتای WoW Forever",
+  "lead_fa": "تغییرات اخیر بتای سرور Forever تحولات گسترده‌ای در توازن، مانا و مکانیک‌های کلاس Protection Paladin ایجاد کرده که چالش‌ها و بحث‌های جدی میان بازیکنان به همراه داشته است.",
   "body_fa": [
-   "مانند بسیاری از specها، پروتکشن پالادین نیز تغییراتی دریافت کرد تا نسبت به نسخهٔ کلاسیک خود viable شود. در طول بتا تنظیمات متعددی اعمال شد و آخرین دور تغییرات نحوهٔ رویکرد به پروتکشن پالادین و جایگاه آن در raid roster را به طور گسترده دگرگون کرد.",
+   "در بتای Forever، کلاس Protection Paladin دستخوش اصلاحات فراوانی شده تا به یک تانک کارآمد تبدیل شود. با این حال، جدیدترین تغییرات اعمال‌شده در تاریخ ۲۱ اکتبر 2026 طبق گزارش 383487، رویکرد کلی و جایگاه این تخصص را در ریدها دگرگون ساخته است.",
    {
     "t": "h",
-    "x": "تغییرات تأثیرگذار بر پروتکشن پالادین"
+    "x": "فهرست تغییرات رسمی اعمال‌شده"
    },
    {
     "t": "ul",
     "xs": [
-     "Seal of Fury دیگر توسط Power Word: Shield overwrite نمی‌شود.",
-     "Blessing of Salvation و Greater Blessing of Salvation با Salvation و Mass Salvation جایگزین شده‌اند. این‌ها به همان شکل blessings اعمال می‌شوند اما با blessings انحصاری نیستند.",
-     "پالادین‌ها هنگام یادگیری Salvation، Revoke را نیز یاد می‌گیرند. Revoke اثر Salvation یا Mass Salvation را از عضو party یا raid هدف برمی‌دارد.",
-     "Judgement of Righteousness و Judgement of Fury اکنون spell power coefficient صحیح برای instant cast spells دارند.",
-     "مشکل Seal of Righteousness که تقریباً دو برابر مقدار مورد نظر از Spell Damage سود می‌برد رفع شد.",
-     "مشکل Judgement of Righteousness که spell damage coefficient نادرستی داشت رفع شد.",
-     "Spell Power Coefficient Consecration به ازای هر tick به ۰٫۰۴۲ تغییر کرد (قبلاً ۰٫۰۹۵).",
-     "Holy damage threat generation Righteous Fury به ۹۰٪ افزایش یافت (قبلاً ۶۰٪).",
-     "Seal of Fury Rank 3 اکنون به درستی در سطح ۲۶ برای آموزش در دسترس است (قبلاً به اشتباه سطح ۲۵).",
-     "Shield Specialization Mana restored به پالادین به ۴٪ با internal cooldown ۳ ثانیه‌ای کاهش یافت (قبلاً ۶٪ با internal cooldown ۳ ثانیه‌ای).",
-     "Reckoning: این talent تنظیم شد تا هر بار که فعال شود یک charge از Reckoning به دست آورید. حملهٔ melee بعدی (auto attack) همهٔ chargeهای انباشته را فعال می‌کند و برای هر کدام یک حملهٔ اضافی می‌دهد. حداکثر ۴ charge ممکن است.",
-     "Champion of the Light اکنون spell damage را به میزان ۱۰/۲۰/۳۰٪ از Intellect شما افزایش می‌دهد (قبلاً ۲۰/۴۰/۶۰٪).",
-     "Mana restore effect Sanctified Judgement دیگر threat ایجاد نمی‌کند."
+     "مهارت Seal of Fury دیگر توسط Power Word: Shield لغو یا جایگزین نمی‌شود.",
+     "اسپل‌های Blessing of Salvation و Greater Blessing of Salvation با Salvation و Mass Salvation جایگزین شدند و دیگر تداخلی با سایر Blessingها ندارند.",
+     "پالادین‌ها همراه با Salvation، اسپل Revoke را برای حذف این اثر از اعضای گروه یاد می‌گیرند.",
+     "اسپل‌های Judgement of Righteousness و Judgement of Fury ضرایب Spell Power مناسب طلسم‌های Instant دریافت کردند و باگ دو برابر شدن ضریب Seal of Righteousness رفع شد.",
+     "ضریب Spell Power توانایی Consecration در هر تیک از 0.095 به 0.042 کاهش یافته است.",
+     "تولید Threat آسیب‌های Holy توسط Righteous Fury از 60% به 90% ارتقا پیدا کرد.",
+     "اسپل Seal of Fury Rank 3 اکنون به درستی در لول 26 قابل آموزش است (قبلاً به اشتباه لول 25 بود).",
+     "بازیابی مانای Shield Specialization هنگام بلاک از 6% به 4% کاهش یافت و Cooldown داخلی آن 3 ثانیه باقی ماند.",
+     "تلنت Reckoning اصلاح شد تا با هر بار فعال‌شدن یک شارژ تا حداکثر 4 شارژ ذخیره کند و با ضربه Melee بعدی مصرف شود.",
+     "تلنت Champion of the Light ضریب Spell Damage را به جای 20/40/60% معادل 10/20/30% از Intellect قرار می‌دهد و بازگردانی مانای Sanctified Judgement دیگر Threat ایجاد نمی‌کند."
     ]
    },
-   "هرچند همهٔ این تغییرات به نوعی بر پروتکشن پالادین اثر می‌گذارند، بیایید به برخی موارد برجسته و تأثیر آن‌ها بر گیم‌پلی در حین leveling و endgame بپردازیم. خلاصهٔ سریع این تغییرات nerf قابل توجهی نسبت به وضعیت قبلی هستند، اما بدون دانستن زمینهٔ کامل endgame و تغییرات احتمالی سایر tankها، تأثیر آن‌ها محدود است. با این حال، با توجه به مرجع فعلی، برخی مقایسه‌ها با tankهای دیگر در وضعیت کنونی انجام می‌شود. اینکه (Spell #1038) دیگر blessing tag ندارد به معنای آن است که با buffهایی مانند Blessing of Kings، Blessing of Wisdom یا Blessing of Might رقابت نمی‌کند. این تغییر عالی است زیرا همیشه اصطکاکی در انتخاب blessing وجود داشت، به‌ویژه در محیط dungeon. چیزهای کمی ناامیدکننده‌تر از این بود که mage در حال AOE کردن threat بکشد، قبلاً Salv داشته باشد و سپس whisper دریافت کند که «Wisdom pls» و mage به tank جدید گروه تبدیل شود. این تغییر برای کسانی که می‌خواستند جایگاه raid خود را تثبیت کنند معایبی دارد، زیرا قبلاً داشتن حداقل ۳ پالادین در raid تقریباً الزامی بود، در حالی که اکنون ارزش پالادین سوم به شدت کاهش یافته و تنها (Spell #19979) و Judgement of Light را به raid اضافه می‌کند. با این حال این وضعیت را کاملاً مناسب می‌دانم، به‌خصوص با تبدیل شدن بسیاری از party-wide buffs به raid-wide. Righteous Fury به modifier threat ۹۰٪ برای Holy damage بازگشت که از ۶۰٪ افزایش یافته است. این مقدار ابتدا در بتا تغییر کرده بود زمانی که پروتکشن پالادین‌ها threat را تقریباً بی‌اهمیت کرده بودند به دلیل spell power modifierهای buffشدهٔ Consecration و Retribution Aura که از آن زمان nerf شده‌اند. این بیشتر جبران است تا buff مستقیم، به‌ویژه برای AOE threat. با این وجود، به single-target threat-focused buildهایی که Holy Shock را در rotation خود دارند اعتبار می‌بخشد که ممکن است در raidهایی که threat-capped هستند استفاده شود. Reckoning قبلاً در بتا بسیار نامنظم بود و اساساً به عنوان proci عمل می‌کرد که swing timer auto-attack را تمام می‌کرد. اکنون بیشتر شبیه نسخهٔ کلاسیک خود عمل می‌کند اما با مزیت اضافی اینکه از طریق blocking attacks نیز proc شود. این امکان‌های گیم‌پلی جالبی ایجاد می‌کند، مانند استفاده از /stopattack برای ذخیرهٔ chargeها، به‌خصوص پیش از درگیری با boss encounter. این procها seal effects را مانند همیشه فعال می‌کنند. یکی از جنبه‌های جالب تغییر Reckoning، توانایی ذخیرهٔ ۴ charge از Reckoning پیش از boss، تعویض به two-hander و تخلیهٔ Reck-bomb پیش از بازگشت به sword-and-board است. Weapon swapping باعث ۱٫۵ ثانیه GCD می‌شود اما می‌تواند با توانایی‌های دیگر ترکیب شود، مانند استفاده از Holy Strike پیش از بازگشت به shield. Seal of Fury نیز با رفع bug دیگر Power Word: Shield را overwrite نمی‌کند. بزرگ‌ترین nerf به toolkit پروتکشن پالادین از طریق نصف شدن spell power coefficient Consecration آمده است. علاوه بر nerf به تعداد targetهایی که تحت تأثیر Consecration پالادین قرار می‌گیرند، niche قبلی به عنوان dedicated AOE tank دیگر با tuning فعلی وجود ندارد. از نظر threat، این nerf تأثیر بزرگی ندارد زیرا با تغییر Righteous Fury همراه است. این تغییر skew threat را به سمت بالاتر در gear با spell power پایین و پایین‌تر در gear با spell power بالا جابه‌جا می‌کند نسبت به نسخهٔ قبلی.",
-   {
-    "t": "table",
-    "head": [
-     "فرمول",
-     "تهدید به ازای هر tick"
-    ],
-    "rows": [
-     [
-      "Old Formula",
-      "(base + 0.095SP)1.6"
-     ],
-     [
-      "New Formula",
-      "(base + 0.042SP)1.9"
-     ]
-    ]
-   },
-   "در Rank 5 (حداکثر rank)، با base tick damage ۳۹، برای برابر شدن فرمول قدیمی با جدید به حدود ۱۶۲ spell power نیاز است و هر نقطهٔ spell power اضافه‌شده پس از آن به فرمول قدیمی سود بیشتری می‌رساند. با itemization فوراور، این عددی است که خیلی زود در فرآیند gearing به آن می‌رسید. هرچند class fantasy همیشه tank AOE بسیار ماهر بوده، این تغییر single-target threat را آسان‌تر افزایش می‌دهد بدون اینکه AOE threat بیش از حد آسان شود، که ممکن است تغییر لازم برای بالانس single-target threat پالادین بوده باشد. با این تغییرات، AOE throughput بالاتر از tankهای دیگر نیست که به نظر flaw در طراحی می‌رسد. tuning مشخص خواهد کرد که چگونه پیش می‌رود، اما افزودن +۱ target به main damage Consecration راه خوبی برای حفظ niche پروتکشن پالادین به عنوان AOE tanking به نظر می‌رسد. Shield Specialization از بازگرداندن ۶٪ mana به ازای هر block به ۴٪ کاهش یافت. به نظر نمی‌رسد این تغییر تأثیر زیادی بر mana کلی ما در endgame داشته باشد، اما leveling در سطوح پایین‌تر را mana-restrictiveتر می‌کند بسته به talentهایی که انتخاب می‌کنید. برای مرجع، در ادامه breakdown mana هر talent mana فردی در درخت Protection و Retribution هنگام tanking single target با swing timer ۲٫۰ ثانیه‌ای با استفاده از سلاحی با attack speed ۱٫۵ ثانیه در max level آمده است.",
-   {
-    "t": "table",
-    "head": [
-     "talent",
-     "MP/5"
-    ],
-    "rows": [
-     [
-      "Shield Specialization",
-      "۱۰۹٫۵ (۷۲٫۳ پس از تغییر)"
-     ],
-     [
-      "Holy Conduit",
-      "۱۳۷٫۷ اگر Consecration به صورت rotational استفاده شود (۱۷۹٫۲ در برابر Demon/Undead)"
-     ]
-    ]
-   },
-   "ارزش Shield Specialization با tanking چندین target حتی با وجود internal cooldown ۳ ثانیه‌ای افزایش می‌یابد. به سختی می‌توان تصور کرد که این تغییر profile mana پروتکشن پالادین را به طور drastic تغییر دهد، اما قابل توجه خواهد بود. Seal of Righteousness (SoR) modifier بیش از حد بالایی در بتا داشت و از تغییر آن ناراحت نیستم زیرا بسیار قوی به نظر می‌رسید و رفتارهای غیرشهودی را تشویق می‌کرد. اکنون هم Seal of Fury و هم Seal of Righteousness modifier ۰٫۱ spell power روی one-handed weapons دارند و SoR باید به spellای محدود شود که تنها زمانی استفاده می‌کنید که بخواهید از taunt هدف با Judgement اجتناب کنید. به طور کلی، این تغییرات باید وضعیت threat در early game را کمی manageableتر کنند به قیمت کاهش AOE throughput و کاهش جزئی mana.",
    {
     "t": "h",
-    "x": "نگرانی‌ها در مورد آیندهٔ پروتکشن پالادین"
+    "x": "تحلیل تهدید و تغییرات فرمول Consecration"
    },
-   "در حالی که کاملاً مخالف dooming بر اساس اطلاعات ناقص در مورد class design و tuning هستم، چند چیز وجود دارد که کمی در مورد چشم‌انداز پروتکشن پالادین در مقایسه با Protection Warrior و Feral Druid نگرانم. سؤال: چرا پروتکشن پالادین بیاوریم؟ بر اساس داده‌های فعلی، Protection Warrior بسیار بهتر با boss damage کنار می‌آید زیرا می‌تواند Crushing Blows (و Critical Strikes) را به طور قابل اعتماد با Shield Block از combat table خارج کند، در حالی که پالادین نمی‌تواند با Holy Shield به آن نقطه برسد. علاوه بر این، Warrior Thunder Clap (که در فوراور به ۲۰٪ attack speed reduction buff شده)، Sunder Armor و Demoralizing Shout را می‌آورد. در حالی که کاملاً انتظار تغییرات در toolkit Feral Druid، به‌خصوص Berserk را دارم، EHP بالای آن‌ها، مقادیر armor و توانایی وارد کردن damage جدی در حالی که tanking نمی‌کنند به این معناست که پروتکشن پالادین باید چیزی unique به raid بیاورد تا برای جایگاه raid رقابت کند. قبلاً این AOE tanking بود. در حال حاضر شرط آورده شدن یا a) specهای دیگر پالادین desirable نبودن، یا b) encounterها به شکلی طراحی شده باشند که Divine Shield از طریق حذف non-dispellable debuffها utility قابل توجهی فراهم کند یا utility unique از طریق ۸ ثانیه taunt با Divine Shield + double Judgement of Fury با استفاده از Swift Judgement، یا c) دوستانتان به اندازهٔ کافی شما را دوست داشته باشند که به اینکه کدام tank را بیاورند اهمیت ندهند. امیدوارم این نگرانی‌ها کاملاً بی‌اساس باشند و همان‌طور که قبلاً گفتم، tuning فعلی را جدی نگیرید، اما تغییراتی که در طول بتا دیده‌ایم تصویری ترسیم می‌کنند که کمی در مورد identity مورد نظر پروتکشن پالادین و نقشی که باید پر کنیم گیج‌کننده است. Wowhead همچنین Owner of the Light Club Discord والتر را به عنوان مهمان ویژه این هفته پذیرفت. می‌توانید نظرات والتر در مورد وضعیت فعلی پروتکشن پالادین را با کلیک روی لینک زیر بخوانید.",
+   "اصلاح Consecration یکی از سنگین‌ترین نرف‌های این تخصص محسوب می‌شود. فرمول محاسبه Threat در هر تیک از فرمول قدیمی (base + 0.095SP)1.6 به فرمول جدید (base + 0.042SP)1.9 تغییر کرده است. در Rank 5 با دمیج پایه 39، رسیدن به حدود 162 اسپل‌پاور دو فرمول را برابر می‌کند و بالاتر از آن به نفع نسخه قدیم بود.",
+   "در سلاح‌های یک‌دست، هر دو اسپل Seal of Fury و Seal of Righteousness ضریب 0.1 اسپل‌پاور دارند. از سوی دیگر، سلاح لول 21 حدود 28SP و سلاح لول 39 دارای 31SP است و شیلدهای لول 15 و 28 هرکدام 5SP و لول 39 معادل 6SP می‌دهند.",
    {
     "t": "h",
-    "x": "درخت talent و مشکلات اساسی"
+    "x": "مدیریت مانا و مقایسه در رید"
    },
-   "پس از leveling همهٔ سه tank در وو فوراور، تفاوت آشکار است: وقتی talent pointها را روی Druid یا Warrior خرج می‌کنم، قوی‌تر می‌شوم و راه‌های جدید بازی به دست می‌آورم. وقتی روی پروتکشن پالادین خرج می‌کنم، عمدتاً مشکلات را رفع می‌کنم که نباید وجود داشته باشند. Tier 1: پنج point به block chance. mitigation passive بدون هیجان. Tier 2: سه point به hit chance که واقعاً خوب است، به دنبال آن دو point filler فقط برای پیشرفت. Tier 3: Improved Seal of Fury به patch mana regeneration کمک می‌کند. سه point به Shield Specialization برای بازگرداندن mana هنگام block، رفع منبع دیگر وابسته به RNG. سه point دیگر ۶٪ damage reduction می‌خرد و به ما کمک می‌کند به baseline durability tankهای دیگر نزدیک شویم. ما قبلاً heavily خرج کرده‌ایم فقط برای function کردن. Tier 4: سه point به One-Handed Weapon Specialization اما نسخهٔ ضعیف‌تر که melee و seal damage را بهبود می‌بخشد نه همهٔ damage. برای Holy warrior که threat آن به Holy damage وابسته است، ناامیدکننده است. Swift Judgement reset Judgement را یک بار در دقیقه می‌دهد. مفید اما به سختی transformative. Tier 5: Templar's Bulwark shield دفاعی به ما می‌دهد اما Forbearance اعمال می‌کند و ما را از گزینه‌های دفاعی دیگر قفل می‌کند. پنج point به Reckoning حمله‌های اضافی پس از blockها می‌دهد. قابل قبول اما passive دیگری که به hit شدن دشمنان و trigger block وابسته است. Tier 6: پنج point برای بهبود threat Holy Strike و اعطای defensive buff کوتاه. سرمایه‌گذاری بیشتر برای رساندن baseline threat و mitigation به جایی که نیاز است. Tier 7: Holy Shield. capstone ما chance به block و وارد کردن damage جزئی هنگام block است. همین. در برابر casters یا encounterهایی با حمله‌های blockable کم، payoff بدتر می‌شود. بدون Avenger's Shield، Shield of the Righteous، Hammer of the Righteous یا دکمهٔ هیجان‌انگیز دیگری که نحوهٔ tanking ما را تغییر دهد. ما تقریباً کل درخت را صرف رفع mana، بهبود passive block mechanics و خرید mitigation کافی برای رقابت کرده‌ایم. پیشرفت کجاست؟ synergy کجاست؟ سرگرمی کجاست؟ درخت talent Druid به این شکل کار می‌کند که talentها یکدیگر را تقویت می‌کنند. حرکت، damage، crit، rage، حمله‌های جدید و cooldown هیجان‌انگیز همه به سمت شخصیت قوی‌تر ساخته شده‌اند. talentهای پالادین عمدتاً resource generation و survivability را repair می‌کنند در حالی که passive block effects بیشتری stack می‌کنند. Block پایهٔ وحشتناکی برای کل درخت است. Block می‌تواند مفید باشد اما جواب universal نیست. در برابر spell damage کمک نمی‌کند و dodge، parry و missها فرصت‌های block-triggered effects را کاهش می‌دهند. mana generation، Reckoning و capstone ما به این مکانیک غیرقابل اعتماد تکیه دارند. در حالی که critهای Druid rage تولید می‌کنند و talentهای dodge آن می‌توانند rage بیشتری به rotation تزریق کنند. مکانیک‌های دفاعی و offensive Druid با هم همکاری می‌کنند. مکانیک‌های پالادین مانند شرط‌هایی به نظر می‌رسند که باید برای ادامهٔ بازی برآورده کنید. پالادین‌ها قبلاً niche واضحی به عنوان AOE tank داشتند. اکنون spell-power coefficient Consecration از ۰٫۰۹۵ به ۰٫۰۴۲ در هر tick کاهش یافته است همراه با تغییراتی در target effectiveness آن. modifier threat بالاتر Righteous Fury ممکن است کمک کند تا mobها را نگه داریم اما damage یا احساس قدرت را بازنمی‌گرداند. ما damage را از دست می‌دهیم در حالی که tankهای دیگر بهبودهای offensive قابل توجه دریافت می‌کنند. ما همچنین pull ranged متعارف یا interrupt نداریم. taunt ما به Judgement of Fury وابسته است که با دکمه‌ای که در rotation عادی استفاده می‌شود رقابت می‌کند. Templar's Bulwark Forbearance اعمال می‌کند. absorption Seal of Fury می‌تواند Retribution Aura را از آسیب زدن به attackers متوقف کند در حالی که shield فعال است. این synergy نیست. این toolkit است که علیه خودش کار می‌کند. سپس scaling وجود دارد. Warriors و Druids damage و threat را از طریق attack power و talentهایی که توانایی‌های offensive‌شان را amplify می‌کنند می‌سازند. پالادین‌ها به Holy damage وابسته‌اند اما درخت ما به سختی آن را توسعه می‌دهد. صرفاً افزایش modifier threat Righteous Fury damage ضعیف، گیم‌پلی dull یا از دست دادن identity AOE را حل نمی‌کند. و برخلاف Warriors با Shield Block، ما نمی‌توانیم به طور قابل اعتماد همان حفاظت در برابر crushing blows را به دست آوریم. چه نقطهٔ قوت unique‌ای قرار است بیاوریم؟ نمی‌خواهم پالادین‌ها overpowered باشند. می‌خواهم با همان مراقبتی طراحی شوند که tankهای دیگر دارند. Holy damage scaling معنادار، توانایی‌های active که ارزش pressing دارند و talentهایی که روی یکدیگر ساخته می‌شوند به ما بدهید. Block را بخشی از toolkit ما کنید نه جواب تقریباً هر مشکلی. capstoneی به ما بدهید که واقعاً مانند reward احساس شود. مهم‌تر از همه، می‌خواهم کلاس در طول تجربهٔ leveling خوب احساس شود، نه فقط اینکه احتمالاً با gear کامل در سطح ۶۰ functional شود. وو فوراور قرار است دربارهٔ journey باشد. گفتن به بازیکنان که کلاس‌شان ممکن است در نهایت در max level کار کند کاملاً نقطه را از دست می‌دهد. پس از leveling همهٔ سه tank، تفاوت در philosophy طراحی غیرقابل چشم‌پوشی است. Druidها و Warriors talent pointها را صرف می‌کنند تا نسخه‌های بهتری از کلاس خود شوند. پروتکشن پالادین‌ها talent pointها را صرف غلبه بر نقاط ضعف خود می‌کنند. این مشکل واقعی پروتکشن پالادین است و هیچ تنظیم عددی جزئی درخت talenti را که اساساً فاقد پیشرفت هیجان‌انگیز، synergy معنادار و identity واضح است تعمیر نخواهد کرد.",
+   "در لول ماکس با سلاح Attack Speed معادل 1.5 و اسوینگ 2.0 ثانیه‌ای، تلنت Shield Specialization مقدار 109.5 MP/5 و تلنت Holy Conduit حدود 137.7 MP/5 (در برابر Demon/Undead معادل 179.2 MP/5) مانا تولید می‌کند.",
    {
     "t": "note",
-    "x": "این مقاله بر اساس وضعیت فعلی در بتا نوشته شده و tuning نهایی ممکن است تغییر کند. نسخهٔ ۱٫۶۰٫۱",
-    "kind": "info"
+    "x": "کاهش اسپل‌پاور Consecration موجب از دست رفتن برتری انحصاری پالادین در تانکی AoE شده است.",
+    "kind": "warn"
    },
-   "Wowhead همچنین والتر را به عنوان مهمان ویژه پذیرفت و لینک نظرات او در مورد وضعیت فعلی موجود است."
+   "در مقایسه دفاعی، واریورها با Thunder Clap کاهش Attack Speed به میزان 20% اعمال می‌کنند. همچنین بحث مصونیت در برابر Crushing Blows مطرح است؛ جایی که رسیدن به مجموع 102.4% دفاعی برای واریور با Shield Block ممکن است، در حالی که دروزی‌ها با 101.2% نمی‌توانند به آن برسند. در پچ 1.60.1 و بحث‌های انجمن در 11 روز گذشته، به آپ‌تایم 24 تا 30 درصدی Redoubt و نیاز به 40.6% شانس بلاک برای مقابله با رخدادها در کنار پایه 31.8% اجتناب در دیفنس 440 اشاره شده است.",
+   "درخت تلنت Feral با مواردی چون افزایش 30% سرعت و اسوایپ، 6% کریت و کول‌داون تهاجمی Berserk با 100% شانس کریت و بوف 50% تریت همراه است، در حالی که پالادین برای رسیدن به کارایی باید تریت بسیار بالاتری تا سقف 400% دریافت کند تا جایگزین تانک‌های برتر شود."
   ],
   "tags_fa": [
-   "هاتفیکس",
-   "فوراور",
-   "پروتکشن پالادین",
-   "تیونینگ کلاس‌ها"
+   "پالادین",
+   "تانک",
+   "بتای Forever",
+   "کلاس پروتکشن"
   ]
  }
 }
