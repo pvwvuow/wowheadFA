@@ -1,9 +1,25 @@
 {
  "day": "2026-11-01",
- "published_today": 5,
- "held": {},
+ "published_today": 7,
+ "held": {
+  "383632": {
+   "reason": "G3 long English run: you choose a Ruleset before you create your character based on the typ... | G3 long English run: with the risk of being attacked by opposing players through much of th... | G3 long English run: Enter a community with naming and behavior rules intended for players ... | هشدار: 1",
+   "at": "2026-11-01T21:29:35Z",
+   "at_ts": 1793568575.90369
+  },
+  "383630": {
+   "reason": "عددِ بدون منبع در مقاله: 200 | هشدار: 1",
+   "at": "2026-11-01T21:36:55Z",
+   "at_ts": 1793569015.643465
+  },
+  "383603": {
+   "reason": "G3 long English run: H Str Axe\nPlate\nPledgebearer's Cuirass\nChest\nMail\nGalerider's Byrnie\nC... | G5 English token not in source: chest | G5 English token not in source: brigandine",
+   "at": "2026-11-01T21:42:28Z",
+   "at_ts": 1793569348.310103
+  }
+ },
  "ingest_fails": {},
- "updated_at": "2026-11-01T21:01:32Z",
+ "updated_at": "2026-11-01T21:45:01Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -2586,6 +2602,56 @@
     "warns": 0,
     "sec": 210.8,
     "attempts": 1
+   },
+   {
+    "id": "383632",
+    "ts": "2026-11-01T21:29:35Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 1,
+    "sec": 401.5,
+    "attempts": 2
+   },
+   {
+    "id": "383630",
+    "ts": "2026-11-01T21:36:55Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 1,
+    "sec": 439.7,
+    "attempts": 2
+   },
+   {
+    "id": "383617",
+    "ts": "2026-11-01T21:37:57Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 61.8,
+    "attempts": 0
+   },
+   {
+    "id": "383603",
+    "ts": "2026-11-01T21:42:28Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 5,
+    "warns": 0,
+    "sec": 270.8,
+    "attempts": 2
+   },
+   {
+    "id": "383598",
+    "ts": "2026-11-01T21:45:01Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 153.1,
+    "attempts": 0
    }
   ]
  }

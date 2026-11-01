@@ -173,62 +173,66 @@
  "hold_count": 1,
  "hold_at": "2026-10-28T00:01:23Z",
  "last_rejected": {
-  "title_fa": "قطعه اول لوت Myth 2/6 از لابیرنت‌ها در دسترس قرار گرفت",
-  "lead_fa": "اولین قطعه از لوت Myth 2/6 اکنون در لابیرنت‌ها قابل دریافت است و gearing کاراکترها را آسان‌تر می‌کند.",
+  "title_fa": "امکان دریافت نخستین قطعه لوت رده Myth 2/6 از Labyrinths",
+  "lead_fa": "با گذشت سه ریست هفتگی از عرضه Labyrinth of Kindo'jan، بازیکنان اکنون می‌توانند نخستین قطعه از تجهیزات رده Myth 2/6 را از Wah'du دریافت کنند.",
   "body_fa": [
-   "لابیرنت Labyrinth of Kindo'jan از سه weekly reset گذشته در دسترس بوده است، بنابراین حالا اولین قطعه Myth 2/6 آماده شده.",
-   "هر هفته Wah'du یک کوئست جدید ارائه می‌دهد که از بازیکنان می‌خواهد یک Chamber خاص را در Labyrinth روی Tier 8 یا بالاتر کامل کنند.",
-   "با کامل کردن این کوئست، بازیکنان یک Mythical Soul Fragment دریافت می‌کنند. تحویل سه عدد از این Mythical Soul Fragmentها به Wah'du، یک قطعه gear از انتخاب‌های او با item level Myth 2/6 را به همراه دارد.",
-   "قبل از خرید می‌توانید stats دقیق این آیتم‌ها را ببینید.",
-   "اگر این کوئست‌ها را قبلاً انجام نداده‌اید، نگران نباشید. Wah'du یک کوئست در هر زمان ارائه می‌دهد تا عقب‌ماندگی شما جبران شود و حتی ممکن است بتوانید چندین کوئست را در یک run کامل کنید.",
+   "با سپری شدن سه ریست هفتگی از فعال شدن محتوای Labyrinth of Kindo'jan، نخستین قطعه لوت رده Myth 2/6 در دسترس بازیکنان قرار گرفته است تا روند تجهیز شخصیت‌ها آسان‌تر شود.",
    {
     "t": "h",
-    "x": "آیتم‌های در دسترس"
+    "x": "نحوه دریافت تجهیزات از Wah'du"
    },
-   "یکی از محبوب‌ترین انتخاب‌ها، حلقه‌ها هستند. تعداد حلقه‌ها در این tier کم است و هر بازیکن به دو حلقه با stats دلخواه نیاز دارد.",
+   "شخصیت Wah'du هر هفته یک کوئست تازه ارائه می‌دهد که از بازیکنان می‌خواهد یک بخش مشخص از Chamber را در محتوای Labyrinth در سطح Tier 8 یا بالاتر به پایان برسانند. با تکمیل این مأموریت، یک [[item:Mythical Soul Fragment]] به دست می‌آید. بازیکنان می‌توانند با تحویل دادن سه عدد از این فرگمنت‌ها به Wah'du، یک قطعه از آیتم‌های انتخابی او را در سطح Myth 2/6 دریافت کنند. مشخصات دقیق هر آیتم پیش از خرید قابل مشاهده است.",
    {
-    "t": "ul",
-    "xs": [
-     "Kith'ix اخیراً یک Heavy Mastery ring دیگر به نام Band of the Swarmcaller اضافه کرده است.",
-     "Nyrmissa یک Haste / Versatility Ring به نام Alluring Bubbleband می‌دهد.",
-     "Venomous Abyss دو حلقه دارد: Apex Brute's Claw Ring و Vile Alchemist's Band."
-    ]
+    "t": "note",
+    "x": "اگر انجام این مأموریت‌ها را از دست داده‌اید، Wah'du کوئست‌ها را به ترتیب ارائه می‌کند تا به سطح روز برسید؛ حتی امکان تکمیل هم‌زمان چند مأموریت در یک دور ورود وجود دارد.",
+    "kind": "tip"
    },
+   {
+    "t": "h",
+    "x": "آیتم‌های موجود و وضعیت انگشترها"
+   },
+   "به نظر می‌رسد انگشترها از محبوب‌ترین گزینه‌ها برای خرید باشند، چرا که گزینه‌های زیادی در این رده وجود ندارد و هر بازیکن به دو انگشتر با مشخصات مورد نیازش احتیاج دارد. اخیراً باس Kith'ix یک انگشتر با تخصص سنگین Mastery به نام [[item:Band of the Swarmcaller]] اضافه کرده است، در حالی که Nyrmissa انگشتر [[item:Alluring Bubbleband]] با ترکیب Haste و Versatility را دراپ می‌کند و محتوای Venomous Abyss نیز شامل دو انگشتر [[item:Apex Brute's Claw Ring]] و [[item:Vile Alchemist's Band]] است.",
    {
     "t": "table",
     "head": [
-     "آیتم",
-     "نوع"
+     "دسته‌بندی",
+     "نام آیتم",
+     "مشخصات / اسلات"
     ],
     "rows": [
      [
-      "Colubrine Band",
+      "Accessories",
+      "[[item:Colubrine Band]]",
       "Ring (Haste/Mastery)"
      ],
      [
-      "Unconfined Labrys",
+      "Weapons",
+      "[[item:Unconfined Labrys]]",
       "1H Str Axe"
      ],
      [
-      "Pledgebearer's Cuirass",
-      "Chest Mail"
+      "Plate",
+      "[[item:Pledgebearer's Cuirass]]",
+      "Chest"
      ],
      [
-      "Galerider's Byrnie",
-      "Chest Leather"
+      "Mail",
+      "[[item:Galerider's Byrnie]]",
+      "Chest"
      ],
      [
-      "Miststalker's Brigandine",
-      "Chest Cloth"
+      "Leather",
+      "[[item:Miststalker's Brigandine]]",
+      "Chest"
      ]
     ]
-   },
-   "این آیتم‌ها را می‌توانید با تحویل Mythical Soul Fragmentها از Wah'du بخرید."
+   }
   ],
   "tags_fa": [
-   "هاتفیکس",
-   "Myth 2/6",
-   "Labyrinth of Kindo'jan"
+   "تجهیزات",
+   "لوت",
+   "Labyrinths",
+   "Myth"
   ]
  }
 }

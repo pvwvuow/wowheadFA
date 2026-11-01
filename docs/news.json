@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T21:02:03Z",
+ "generated": "2026-11-01T21:45:32Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1378,6 +1378,87 @@
    ]
   },
   {
+   "id": 383617,
+   "slug": "class-tuning-and-bug-fixes-patch-12-1-5-hotfixes-for-october-27th",
+   "title_fa": "تیونینگ کلاس‌ها و رفع باگ‌ها - هاتفیکس‌های ۱۲.۱.۵ در ۲۷ اکتبر",
+   "lead_fa": "بلزارد امروز هاتفیکس‌هایی منتشر کرده که شامل تغییرات تیونینگ کلاس‌ها و رفع مشکلی است که باعث می‌شد سناریوهای Labyrinth اعتبار Great Vault را اعطا نکنند.",
+   "body_fa": [
+    "این هاتفیکس‌ها در تاریخ ۲۷ اکتبر ۲۰۲۶ اعمال می‌شوند و تمرکز اصلی روی تنظیم عملکرد کلاس‌ها در PvE و PvP است. تغییرات کلاس‌ها در PvE درخت Feral دروئید: تمام آسیب واردشده ۵٪ افزایش می‌یابد. این تغییر PvP را تحت تأثیر قرار نمی‌دهد. درخت Restoration دروئید: طبق یادداشت توسعه‌دهندگان، این تغییرات برای کمک به Druid Restoration در مقابله با آسیب انفجاری در دانجن‌ها طراحی شده‌اند، زیرا نسبت به سایر هیلرها عقب هستند. عملکرد آن‌ها در رید خوب است، بنابراین استعدادها و توانایی‌هایی هدف قرار گرفته‌اند که در گروه ۵ نفره بیشتر استفاده می‌شوند.",
+    {
+     "t": "ul",
+     "xs": [
+      "Verdancy healing ۶۰٪ افزایش می‌یابد. PvP را تحت تأثیر قرار نمی‌دهد.",
+      "Regrowth healing ۱۰٪ افزایش می‌یابد. PvP را تحت تأثیر قرار نمی‌دهد.",
+      "Improved Swiftmend افزایش healing Swiftmend را به ۴۰٪ (از ۳۰٪) می‌رساند. PvP را تحت تأثیر قرار نمی‌دهد."
+     ]
+    },
+    "شکارچی Marksmanship: طبق یادداشت توسعه‌دهندگان، این تغییرات برای بهبود آسیب منطقه‌ای Marksmanship Hunters طراحی شده‌اند. Trick Shots اکنون آسیب ricochet از Aimed Shot و Rapid Fire را ۸۵٪ (از ۷۵٪) افزایش می‌دهد. Explosive Shot damage ۱۰٪ افزایش می‌یابد. Volley damage ۱۰٪ افزایش می‌یابد.",
+    "Mage Fire: تمام آسیب واردشده ۵٪ افزایش می‌یابد. این تغییر PvP را تحت تأثیر قرار نمی‌دهد. Monk Mistweaver: مشکلی رفع شد که باعث می‌شد talent Mistline گاهی lowest health target را به درستی heal نکند. علاوه بر این، تغییرات پچ به Trickster بیشتر از Deathstalker سود رسانده، بنابراین Trickster nerf کوچک‌تری دریافت می‌کند.",
+    {
+     "t": "ul",
+     "xs": [
+      "تمام ability damage ۸٪ کاهش می‌یابد.",
+      "Trickster: Fazed اکنون damage را ۵٪ (از ۷٪) افزایش می‌دهد."
+     ]
+    },
+    "Warlock Affliction: Unstable Affliction damage ۲۰٪ افزایش می‌یابد. PvP را تحت تأثیر قرار نمی‌دهد. Warlock Destruction: Rain of Fire damage ۲۰٪ افزایش می‌یابد. تغییرات آیتم‌ها و محتوا مشکل رفع شد که باعث می‌شد tabardها مجموعه زره Rexxar را مخفی کنند. مشکل Labyrinth رفع شد که باعث می‌شد برخی سناریوها اعتبار Great Vault اعطا نکنند. تغییرات PvP Death Knight Unholy: طبق یادداشت توسعه‌دهندگان، تنظیمات قبلی San’layn viability آن را افزایش داد اما تأثیر Vampiric Strike بیشتر از حد مطلوب بوده است. San’layn: Vampiric Strike damage در PvP ۲۰٪ کاهش می‌یابد. Demon Hunter: Devourer Collapsing Star damage در PvP ۲۰٪ افزایش می‌یابد. Evoker Preservation:",
+    {
+     "t": "ul",
+     "xs": [
+      "Chronowarden: Chronal Dynamo افزایش healing و damage Living Flame را به ۸۰٪ (از ۵۰٪) در PvP می‌رساند وقتی instant cast نیست.",
+      "Chronowarden: Reverberations اکنون Verdant Embrace را باعث heal اضافی ۸۰٪ طی ۸ ثانیه در PvP می‌کند (از ۴۰٪)."
+     ]
+    },
+    "Hunter Marksmanship: Kill Shot damage در PvP ۴۰٪ افزایش می‌یابد. Deathblow’s chance فعال‌سازی توسط Aimed Shot به ۲۵٪ در PvP افزایش می‌یابد. Dark Ranger: Black Arrow damage در PvP ۴۰٪ افزایش می‌یابد. Mage Fire: طبق یادداشت توسعه‌دهندگان، Fire Mage همچنان overperform می‌کند، بنابراین overall damage آن کاهش می‌یابد. تمام damage در PvP ۵٪ کاهش می‌یابد. Mage Frost: طبق یادداشت توسعه‌دهندگان، Frostfire گزینه رقابتی برای Frost Mages در این فصل نبوده، بنابراین برخی جنبه‌های burst damage آن افزایش می‌یابد.",
+    {
+     "t": "ul",
+     "xs": [
+      "Frostfire: Isothermic Core’s Meteor damage در PvP ۲۰٪ افزایش می‌یابد.",
+      "Frostfire: Duality’s Pyroblast damage در PvP ۲۰٪ افزایش می‌یابد."
+     ]
+    },
+    "Monk Mistweaver: طبق یادداشت توسعه‌دهندگان، Conduit of the Celestials گزینه رقابتی برای Mistweavers در این فصل نبوده، بنابراین consistent و burst healing آن افزایش می‌یابد.",
+    {
+     "t": "ul",
+     "xs": [
+      "Conduit of the Celestials: Celestial Conduit healing در PvP ۳۵٪ افزایش می‌یابد.",
+      "Conduit of the Celestials: Strength of the Black Ox absorb در PvP ۲۵٪ افزایش می‌یابد."
+     ]
+    },
+    "Paladin Holy: طبق یادداشت توسعه‌دهندگان، throughput Holy Paladin underperforming بوده و mana cost Holy Light کاهش می‌یابد تا casted healing تشویق شود. تمام healing در PvP ۵٪ افزایش می‌یابد. Divine Favor اکنون mana cost Holy Light را ۵۰٪ (از ۳۰٪) در PvP کاهش می‌دهد. Priest Holy: طبق یادداشت توسعه‌دهندگان، این تغییرات برای بهبود بیشتر viability Archon در PvP با افزایش healing گروهی Prayer of Healing و قدرت proc effects طراحی شده‌اند. Prayerful Litany اکنون primary target Prayer of Healing را ۷۵٪ بیشتر (از ۱۲۵٪) در PvP heal می‌کند. Prayer of Healing healing ۳۰٪ افزایش می‌یابد. Archon: Resonant Energy اکنون healing done را ۴٪ به ازای هر stack (از ۲٪) در PvP افزایش می‌دهد. Archon: Empowered Surges اکنون healing spells تحت تأثیر Surge of Light را ۱۰٪ (از ۵٪) در PvP افزایش می‌دهد. Archon: Realized Potential اکنون Flash Heal healing را ۲۵٪ (از ۲۰٪) در PvP افزایش می‌دهد. Rogue Assassination:",
+    {
+     "t": "ul",
+     "xs": [
+      "Deathstalker: Deathstalker’s Mark damage در PvP ۲۰٪ افزایش می‌یابد.",
+      "Deathstalker: Hunt Them Down damage در PvP ۲۰٪ افزایش می‌یابد.",
+      "Deathstalker: Darkest Night اکنون damage Eviscerate بعدی را ۱۵٪ (از ۸٪) در PvP افزایش می‌دهد."
+     ]
+    },
+    "Shaman Restoration: Healing Stream Totem و Stormstream Totem healing در PvP ۲۰٪ افزایش می‌یابد."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "۱۲.۱.۵",
+    "تیونینگ کلاس",
+    "PvP"
+   ],
+   "items": [],
+   "title_en": "Class Tuning and Bug Fixes - Patch 12.1.5 Hotfixes for October 27th",
+   "source_url": "https://www.wowhead.com/news=383617",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383617-class-tuning-and-bug-fixes-patch-12-1-5-hotfixes-for-october-27th.html",
+   "published_at": "2026-10-28T01:08:50Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383617/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383617/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383616,
    "slug": "blizzard-takes-action-against-rmt-on-retail-wow-gold-transactions-shou",
    "title_fa": "بلزارد علیه معاملات RMT در WoW Retail اقدام کرد",
@@ -1839,6 +1920,109 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383599/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383598,
+   "slug": "new-grimtide-housing-exterior-and-decor-datamined",
+   "title_fa": "دیتاماین خانه و دکور جدید Grimtide",
+   "lead_fa": "آیتم‌های جدید خانه‌سازی روی سرورهای زنده رمزگشایی شده‌اند و دیتاماین‌ها یک نمای خارجی جدید Grimtide Manse و چندین دکور مرتبط را نشان می‌دهند.",
+   "body_fa": [
+    "در به‌روزرسانی اخیر سرورهای زنده، یک نمای خارجی جدید برای خانه‌ها دیتاماین شده است: Spirited Grimtide Manse.",
+    "داخل این خانه دارای تم ترسناک است که شامل یک موجود شاخک‌دار شناور بر فراز سالن بزرگ می‌شود.",
+    "این نمای خارجی با سه فیکسچر جدید همراه است.",
+    {
+     "t": "h",
+     "x": "دکورهای جدید Grimtide"
+    },
+    "چندین مدل دکور خانه‌سازی جدید نیز رمزگشایی شده‌اند که همه آن‌ها تم Grimtide دارند.",
+    {
+     "t": "table",
+     "head": [
+      "نام",
+      "نوع",
+      "مکان قرارگیری",
+      "اندازه"
+     ],
+     "rows": [
+      [
+       "Grimtide Coffee Table",
+       "Furnishings - Tables and Desks",
+       "Indoors, Outdoors",
+       "Medium"
+      ],
+      [
+       "Grimtide Dining Chair",
+       "Furnishings - Seating",
+       "Indoors, Outdoors",
+       "Medium"
+      ],
+      [
+       "Grimtide Floor Hatch",
+       "Accents - Floor",
+       "Indoors, Outdoors",
+       "Medium"
+      ],
+      [
+       "Grimtide Rug",
+       "Accents - Floor",
+       "Indoors, Outdoors",
+       "Large"
+      ],
+      [
+       "Small Grimtide Rug",
+       "Accents - Floor",
+       "Indoors, Outdoors",
+       "Medium"
+      ],
+      [
+       "Grimtide Side Table",
+       "Furnishings - Tables and Desks",
+       "Indoors, Outdoors",
+       "Small"
+      ],
+      [
+       "Grimtide Display Anchor",
+       "Misc Accents",
+       "Indoors, Outdoors",
+       "Large"
+      ],
+      [
+       "Grimtide Enchanted Candles",
+       "Misc Lighting",
+       "Indoors, Outdoors",
+       "Tiny"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "x": "همه این آیتم‌ها Shop Item هستند و در گسترش Midnight عرضه می‌شوند.",
+     "kind": "info"
+    },
+    "این تغییرات در خبر شماره ۳۸۳۵۹۸ منتشر شده است.",
+    "انتشار این آیتم‌ها در ۲۶ اکتبر اعلام شده است."
+   ],
+   "tags_fa": [
+    "خانه سازی",
+    "Grimtide",
+    "دکور",
+    "Midnight"
+   ],
+   "items": [],
+   "title_en": "New Grimtide Housing Exterior and Decor Datamined",
+   "source_url": "https://www.wowhead.com/news=383598",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383598-new-grimtide-housing-exterior-and-decor-datamined.html",
+   "published_at": "2026-10-26T23:24:18Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383598/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383598/1.jpg",
      "cap": ""
     }
    ]
@@ -3010,75 +3194,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383542,
-   "slug": "subtlety-rogue-interaction-with-demonology-warlocks-speculated-to-ninj",
-   "title_fa": "تعامل Rogue Subtlety و Warlock Demonology باعث کشیدن غیرعمدی دشمنان می‌شود",
-   "lead_fa": "با افزایش محبوبیت Rogue Subtlety در پچ ۱۲.۱.۵، یک باگ قدیمی دوباره مورد توجه قرار گرفته که باعث می‌شود Warlockهای Demonology به طور ناخواسته دشمنان را در دانجن‌ها ninja pull کنند.",
-   "body_fa": [
-    "در پچ ۱۲.۱.۵ بلیزارد یک باگ مربوط به Rogue Subtlety را رفع کرد و در عوض ۱۴٪ buff damage به آن‌ها داد. بسیاری از بازیکنان تصور می‌کردند این تغییر خنثی باشد ولی در عمل به buff damage بزرگی تبدیل شد.",
-    "نتیجه این buff باعث شد damage Rogue Subtlety به شدت افزایش یابد که طبق آمار Warcraft Logs به خوبی قابل مشاهده است. به همین دلیل بسیاری از گروه‌ها اکنون Rogue Subtlety را به کی‌های خود می‌آورند.",
-    "طبق Raider.io، Rogue Subtlety در حال حاضر یکی از بالاترین امتیازات را در فصل ۲ در کنار Arms Warrior، Holy Paladin، Blood DK و Elemental Shaman دارد و به طور محکم در متا جا افتاده است.",
-    "با قرار گرفتن Rogue Subtlety در متا، توجه‌ها به سمت یک باگ قدیمی رفته که باعث می‌شود Warlock Demonology در حضور Rogue Subtlety شروع به ninja-pulling دشمنان کند. این مسئله برخی Warlockهای Demonology را ناراحت کرده و باعث شده احساس کنند از گروه‌ها کنار گذاشته می‌شوند.",
-    "ninja-pulling دشمنان می‌تواند منجر به wipe شدن گروه در هر سطح کی شود. Phellxgodx در ردیت پستی گذاشته و توضیح داده که shadow clones از apex talent Rogue Subtlety باعث اختلال در targeting Diabolic Oculi یا Alythessa Blaze از hero talent Diabolist (در Demonology و Destruction) می‌شود و آن‌ها را وادار به حمله به هر چیزی در برد می‌کند.",
-    "اگر در دانجن‌ها متوجه کشیدن غیرمنتظره دشمنان شدید، احتمالاً به خاطر این باگ است. بهتر است در یک گروه همزمان Demonology Warlock و Subtlety Rogue نداشته باشید."
-   ],
-   "tags_fa": [
-    "Subtlety Rogue",
-    "Demonology Warlock",
-    "هاتفیکس",
-    "۱۲.۱.۵"
-   ],
-   "items": [],
-   "title_en": "Subtlety Rogue Interaction with Demonology Warlocks Speculated to Ninja Pull Mobs",
-   "source_url": "https://www.wowhead.com/news=383542",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383542-subtlety-rogue-interaction-with-demonology-warlocks-speculated-to-ninj.html",
-   "published_at": "2026-10-22T18:54:45Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383542/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383542/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383538,
-   "slug": "josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours",
-   "title_fa": "جاش گرینفیلد از رویداد احتمالی در بتای WoW: Forever خبر داد",
-   "lead_fa": "جاش گرینفیلد با پستی در شبکه‌های اجتماعی بازیکنان را تشویق کرده که طی چند ساعت آینده یک بار دیگر به بتای WoW: Forever وارد شوند.",
-   "body_fa": [
-    "امروز آخرین روز کامل بتای WoW: Forever است و سرور فردا در تاریخ ۲۳ اکتبر ساعت ۱۰:۰۰ AM PDT بسته خواهد شد.",
-    "جاش «Aggrend» گرینفیلد با اشاره به زمان «چند ساعت» آینده، به نوعی از وقوع رویداد خاصی در بتا خبر داده است.",
-    "در رویدادهای پایان بتا در گذشته، بلزارد موجودات سرگرم‌کننده‌ای را در هاب‌های اصلی احضار می‌کرد؛ برای مثال Thrall در Stormwind یا Firelord Nomi.",
-    "امکان دارد این بار هم موجودات دشمن ظاهر شوند و بازیکنان را درگیر کنند.",
-    "بازیکنان اگر فرصت دارند، بهتر است طی ساعات آینده وارد بتا شوند تا ببینند چه اتفاقی رخ می‌دهد."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "بتا",
-    "رویداد پایان بتا",
-    "جاش گرینفیلد"
-   ],
-   "items": [],
-   "title_en": "Josh Greenfield Teases Possible Event on WoW: Forever Beta in \"Few Hours\"",
-   "source_url": "https://www.wowhead.com/news=383538",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383538-josh-greenfield-teases-possible-event-on-wow-forever-beta-in-few-hours.html",
-   "published_at": "2026-10-22T16:09:50Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383538/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383538/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3111,25 +3226,11 @@
    "published_at": "2026-10-28T16:38:15Z"
   },
   {
-   "id": 383617,
-   "title_en": "Class Tuning and Bug Fixes - Patch 12.1.5 Hotfixes for October 27th",
-   "url": "https://www.wowhead.com/news=383617",
-   "category": "Live",
-   "published_at": "2026-10-28T01:08:50Z"
-  },
-  {
    "id": 383603,
    "title_en": "Myth 2/6 Piece of Loot Now Available from Labyrinths",
    "url": "https://www.wowhead.com/news=383603",
    "category": "Live",
    "published_at": "2026-10-27T22:58:35Z"
-  },
-  {
-   "id": 383598,
-   "title_en": "New Grimtide Housing Exterior and Decor Datamined",
-   "url": "https://www.wowhead.com/news=383598",
-   "category": "Live",
-   "published_at": "2026-10-26T23:24:18Z"
   },
   {
    "id": 383573,
