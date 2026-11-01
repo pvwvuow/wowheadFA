@@ -16,6 +16,7 @@
    "12.1.7",
    "14",
    "15",
+   "17",
    "18",
    "20",
    "2026",
@@ -98,9 +99,11 @@
    "awards",
    "awesome",
    "azerite",
+   "azeroth",
    "aztarec",
    "babies",
    "back",
+   "bailey",
    "banner",
    "based",
    "be",
@@ -112,6 +115,7 @@
    "beta",
    "between",
    "big",
+   "bill",
    "blinding",
    "blizz",
    "blizzard",
@@ -152,6 +156,7 @@
    "changes",
    "character",
    "characters",
+   "chef",
    "chibi",
    "choose",
    "chr",
@@ -206,6 +211,7 @@
    "day",
    "days",
    "dblizzard",
+   "dcould",
    "deal",
    "decor",
    "default",
@@ -237,6 +243,7 @@
    "display",
    "distance",
    "dk",
+   "dnew",
    "dnovember",
    "do",
    "doable",
@@ -248,6 +255,7 @@
    "dover",
    "down",
    "dps",
+   "drepeatable",
    "dreturning",
    "drop",
    "druids",
@@ -272,6 +280,7 @@
    "enhancement",
    "ensure",
    "enter",
+   "episode",
    "etc",
    "euhotfixes",
    "euprepare",
@@ -319,6 +328,7 @@
    "fresh",
    "from",
    "front",
+   "ft",
    "fun",
    "function",
    "functioning",
@@ -369,6 +379,7 @@
    "helps",
    "her",
    "here",
+   "hget",
    "high-profile",
    "him",
    "his",
@@ -386,7 +397,9 @@
    "hover",
    "how",
    "however",
+   "hplanet",
    "hrepeatable",
+   "hthe",
    "https",
    "huge",
    "i",
@@ -463,6 +476,7 @@
    "loop",
    "loot",
    "lords",
+   "lorewalking",
    "lost",
    "loves",
    "low-prio",
@@ -807,6 +821,7 @@
    "times",
    "tiny",
    "tis",
+   "titans",
    "title",
    "tmptfate",
    "to",
@@ -816,6 +831,7 @@
    "toolsdiscord",
    "topicsmidnightpatch",
    "track",
+   "trading",
    "traffic",
    "trash",
    "traveler's",
@@ -829,6 +845,7 @@
    "types",
    "under",
    "unholy",
+   "uniform",
    "uniquely",
    "united",
    "unplayable",
@@ -869,6 +886,7 @@
    "warcraft",
    "warlock",
    "warlocks",
+   "warturkey",
    "was",
    "watching",
    "way",
@@ -929,74 +947,49 @@
  "hold_count": 1,
  "hold_at": "2026-10-27T16:44:46Z",
  "last_rejected": {
-  "title_fa": "رفع باگ‌های Den of Nalorakk و Murder Row در هاتفیکس‌های پچ ۱۲٫۱٫۵",
-  "lead_fa": "بلیزارد امروز هاتفیکس‌هایی منتشر کرده که شامل رفع دو باگ برجسته در Mythic+ است.",
+  "title_fa": "رفع باگ‌های Den of Nalorakk و Murder Row در هاتفیکس‌های پچ 12.1.5",
+  "lead_fa": "شرکت Blizzard با انتشار هاتفیکس‌های جدیدی برای پچ 12.1.5، باگ‌های برجسته سیاه‌چاله‌های Mythic+ و مشکلات احضارهای کلاس Warlock را برطرف کرد.",
   "body_fa": [
-   "این هاتفیکس‌ها مشکلات متعددی را در محتوای Midnight برطرف می‌کنند.",
+   "در هاتفیکس‌های منتشرشده برای پچ 12.1.5، شرکت Blizzard مجموعه‌ای از اصلاحات فنی را برای دو باگ مطرح در Mythic+ و چند بخش دیگر بازی پیاده‌سازی کرده است.",
    {
     "t": "h",
-    "x": "تغییرات و رفع مشکلات"
+    "x": "تغییرات و رفع باگ‌های سیاه‌چاله‌ها"
    },
    {
     "t": "ul",
     "xs": [
-     "رفع باگی که باعث می‌شد Echoing Roar نالوراک در مکان اشتباه ظاهر شود",
-     "رفع باگی که باعث می‌شد Fel Spray نیبلز در جهت اشتباه ضربه بزند",
-     "رفع باگ برجسته‌ای که باعث می‌شد وارلاک‌ها هنگام حضور rogue در گروه به صورت ناخواسته pull کنند",
-     "رفع سطح آیتم Ascendant Venomstone",
-     "رفع یک باگ دیگر در Labyrinth",
-     "رفع مشکلی که باعث می‌شد Surging Elements در Cooldown Manager نمایش داده نشود",
-     "رفع مشکلی که باعث می‌شد برخی احضارهای وارلاک و Diabolic Occuli گاهی دشمنان خارج از combat را هدف قرار دهند. این رفع شامل احضارهای Affliction’s Shadows of Nath’reza، Demonology’s Dominion of Argus و احضارهای Diabolist می‌شود",
-     "رفع مشکلی که باعث می‌شد Echoing Maul نالوراک گاهی در مکان اشتباه رخ دهد",
-     "رفع مشکلی که باعث می‌شد Fel Spray نیبلز به هدف‌هایی خارج از ناحیه مورد نظر ضربه بزند",
-     "بازیکنان اکنون می‌توانند از combat با Shade of Seabreaker Skoloth خارج شوند",
-     "رفع مشکلی که باعث می‌شد آیتم‌هایی که با Ascendant Venomstones ارتقا یافته‌اند سطح آیتم نادرستی داشته باشند",
-     "مدل‌های کاراکتر کوتاه‌تر دیگر هنگام respawn در Jan’alai’s Refuge از کف عبور نخواهند کرد"
+     "رفع باگی که باعث می‌شد Echoing Roar از Nalorakk در موقعیت نادرستی نمایش داده شود.",
+     "اصلاح مشکلی که سبب می‌شد Echoing Maul از Nalorakk در مکانی اشتباه رخ دهد.",
+     "رفع باگی که در آن Fel Spray از Nibbles به جهت اشتباه شلیک می‌کرد یا به اهدافی خارج از محدوده مورد نظر برخورد داشت.",
+     "بازیکنان اکنون می‌توانند از کامبت با Shade of Seabreaker Skoloth خارج شوند.",
+     "مدل‌های کوتاه‌تر شخصیت‌ها هنگام باززنده‌سازی در Jan'alai's Refuge دیگر از کف زمین سقوط نمی‌کنند.",
+     "رفع باگ دیگری در Labyrinth."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "اصلاحات کلاس Warlock و آیتم‌ها"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "رفع باگ جلب‌توجه دشمنان توسط Warlock در هنگام حضور Rogue در گروه.",
+     "اصلاح مشکل احضارهای Warlock و Diabolic Occuli که اهداف خارج از مبارزه را هدف قرار می‌دادند؛ شامل احضارهای Shadows of Nath'reza در تخصص Affliction، مهارت Dominion of Argus در تخصص Demonology و احضارهای Diabolist.",
+     "رفع مشکل آیتم‌لول اشتباه در آیتم‌های ارتقایافته با Ascendant Venomstone.",
+     "اصلاح عدم نمایش Surging Elements در Cooldown Manager."
     ]
    },
    {
     "t": "note",
-    "x": "این هاتفیکس‌ها در تاریخ ۳۰ اکتبر ۲۰۲۶ منتشر شده‌اند",
+    "x": "این هاتفیکس‌ها به‌طور ویژه اختلالات خط دید و مکانیک‌های مربوط به مهارت‌های محیطی را در مسیرهای دانجن بهبود داده‌اند.",
     "kind": "info"
-   },
-   "این تغییرات بخشی از هاتفیکس‌های پچ ۱۲٫۱٫۵ هستند و مشکلات گزارش‌شده در Den of Nalorakk و Murder Row را هدف قرار داده‌اند.",
-   {
-    "t": "table",
-    "head": [
-     "شماره خبر",
-     "تاریخ انتشار"
-    ],
-    "rows": [
-     [
-      "383570",
-      "۲۰۲۶-۱۰-۲۳"
-     ]
-    ]
-   },
-   "در اخبار مرتبط، هاتفیکس‌های ۱۸ ساعته برای اروپا و آمریکا در ۳۰ اکتبر ۲۰۲۶ اعلام شده است.",
-   {
-    "t": "h",
-    "x": "نکات اضافی از جامعه"
-   },
-   "برخی بازیکنان به رفع باگ‌های pets در housing اشاره کرده‌اند که در این لیست نیامده است.",
-   "بحث‌هایی در مورد Valeera و delves وجود دارد که همچنان باگ‌دار هستند. تعداد کاراکترهای ایجادشده در بتای WoW: Forever بیش از ۸ میلیون بوده است.",
-   {
-    "t": "quote",
-    "x": "به نظر می‌رسد رفع باگ‌های بزرگ سریع انجام نمی‌شود و فرآیند داخلی تست و تأیید زمان‌بر است",
-    "by": "کاربر Wowhead"
-   },
-   "این هاتفیکس‌ها شامل رفع مشکلاتی در پچ ۱۲٫۱٫۷ نیز هستند که قبلاً گزارش شده بود.",
-   "تعداد کامنت‌ها در صفحه خبر به ۱۴ و ۱۵ و ۱۸ و ۲۰ و ۲۱ و ۲۳ رسیده است.",
-   {
-    "t": "item",
-    "id": 277283
    }
   ],
   "tags_fa": [
    "هاتفیکس",
-   "پچ ۱۲٫۱٫۵",
-   "Midnight",
-   "Mythic+"
+   "پچ 12.1.5",
+   "میتیک پلاس",
+   "بلیزارد"
   ]
  }
 }

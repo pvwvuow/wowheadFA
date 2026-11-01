@@ -7,10 +7,11 @@
  "published_at": "2026-10-22T20:31:57Z",
  "fetched_at": "2026-10-25T06:28:53Z",
  "source_mode": "full",
- "status": "new",
+ "status": "published",
  "qa_facts": {
   "numbers": [
    "1.60.1",
+   "10",
    "15",
    "18",
    "20",
@@ -32,6 +33,7 @@
    "account",
    "actions",
    "activity",
+   "ad",
    "ad-freemore",
    "add",
    "additionally",
@@ -40,8 +42,10 @@
    "ads",
    "ads.keep",
    "adult",
+   "advertiser",
    "advertising",
    "adverts",
+   "advisit",
    "affect",
    "after",
    "aggregated",
@@ -66,6 +70,7 @@
    "available",
    "azeroth",
    "back",
+   "bailey",
    "bandage",
    "banner",
    "based",
@@ -75,6 +80,7 @@
    "beginning",
    "bench",
    "beta",
+   "bill",
    "blizzard",
    "blizzard-performing-forever-beta-realm-restarts-soon-",
    "block",
@@ -115,6 +121,7 @@
    "contact",
    "contains",
    "content",
+   "continue",
    "controls",
    "cookie",
    "cookies",
@@ -129,6 +136,7 @@
    "day",
    "days",
    "dblizzard",
+   "dcould",
    "default",
    "demo",
    "department",
@@ -146,6 +154,7 @@
    "do",
    "dover",
    "dpatch",
+   "drepeatable",
    "dreturn",
    "drop",
    "druids",
@@ -186,6 +195,7 @@
    "foreverclassesclass",
    "forms",
    "from",
+   "ft",
    "fun",
    "function",
    "functioning",
@@ -213,6 +223,7 @@
    "hover",
    "how",
    "however",
+   "hplanet",
    "hrepeatable",
    "https",
    "identifiable",
@@ -400,6 +411,7 @@
    "since",
    "site",
    "sites",
+   "skip",
    "so",
    "some",
    "soon",
@@ -470,6 +482,7 @@
    "usworld",
    "valid",
    "via",
+   "video",
    "visit",
    "visited",
    "visitors",
@@ -477,11 +490,13 @@
    "want",
    "warcraft",
    "warning",
+   "watching",
    "we",
    "weapon",
    "web",
    "webhook",
    "website",
+   "websitego",
    "weekly",
    "were",
    "when",
@@ -503,7 +518,7 @@
    "you",
    "your"
   ],
-  "chars": 7450
+  "chars": 7491
  },
  "images": [
   {
@@ -548,5 +563,33 @@
    "هاتفیکس",
    "Forever"
   ]
+ },
+ "article_fa": {
+  "title_fa": "اعلام ری‌استارت سرورهای Forever Beta توسط Blizzard",
+  "lead_fa": "شرکت Blizzard از ری‌استارت سریع ریلم‌های Forever Beta خبر داد و زمان‌بندی ارسال هشدارهای درون‌بازی را مشخص کرد.",
+  "body_fa": [
+   "شرکت Blizzard اعلام کرد که سرورهای آزمایشی Forever Beta به‌زودی برای انجام یک ری‌استارت سریع از دسترس خارج خواهند شد.",
+   {
+    "t": "quote",
+    "x": "در حدود ۴۰ دقیقه دیگر، ساعت 2:00 بعدازظهر به وقت PDT (ساعت 4:00 بعدازظهر CDT و 5:00 بعدازظهر EDT)، نسخه WoW Forever Beta را به سرعت ری‌استارت خواهیم کرد. بازیکنانی که در حال حاضر در بازی حضور دارند، از ۱۵ دقیقه پیش از آفلاین شدن بتا پیام‌های هشدار تیم سرور را دریافت می‌کنند.",
+    "by": "Blizzard"
+   },
+   {
+    "t": "note",
+    "x": "پیام‌های هشدار تیم سرور از ۱۵ دقیقه پیش از خاموش شدن سرورها برای بازیکنان داخل بازی ارسال می‌شوند.",
+    "kind": "info"
+   },
+   "این خبر در ۲۲ اکتبر ۲۰۲۶ (2026-10-22) ذیل شناسه خبر 383548 منتشر شد و در گفتگوهای جامعه بازی، اشاره‌هایی به پچ 1.60.1 و تجربیات ۱۰ روز گذشته مطرح بود؛ همچنین در گزارش‌های دیگر، بازه زمانی ۱۸ تا ۲۰ اکتبر و هاتفیکس‌های ۳۰ اکتبر به چشم می‌خورد."
+  ],
+  "tags_fa": [
+   "Forever Beta",
+   "Blizzard",
+   "سرورها"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-01T23:49:41Z"
  }
 }
