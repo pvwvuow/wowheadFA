@@ -54,6 +54,7 @@
    "dunecloth",
    "enchanted",
    "ensemble",
+   "everything",
    "executive",
    "fiery",
    "for",
@@ -72,6 +73,7 @@
    "highbootsteel-plated",
    "highlands",
    "hot",
+   "in",
    "is",
    "itemcosttype",
    "items",
@@ -136,12 +138,141 @@
   ],
   "chars": 1744
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383680/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383680/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383680/1.jpg",
+ "article_fa": {
+  "title_fa": "فهرست جوایز Trading Post در ماه نوامبر 2026؛ لباس سرآشپز و مانت بوقلمون جنگی",
+  "lead_fa": "جوایز ماه نوامبر 2026 در Trading Post مشخص شد که شامل دو دست لباس سرآشپز، مانت بوقلمون و آیتم‌های بازگشتی است.",
+  "body_fa": [
+   "شرکت Blizzard برای ماه نوامبر 2026 پیش‌نمایش کاملی از Trading Post منتشر نکرد و تنها به نمایش پاداش امتیازی بسنده کرده بود. اکنون فهرست کامل آیتم‌هایی که بازیکنان می‌توانند در این ماه خریداری کنند در دسترس قرار گرفته است.",
+   {
+    "t": "h",
+    "x": "آیتم‌های جدید این دوره"
+   },
+   "در میان اقلام تازه، مجموعه‌های ظاهری آشپزی و مانت‌های متعددی به چشم می‌خورند که با Trader's Tender قابل خرید هستند:",
+   {
+    "t": "table",
+    "head": [
+     "آیتم",
+     "نوع",
+     "هزینه"
+    ],
+    "rows": [
+     [
+      "[[item:Ensemble: Executive Chef's Uniform]]",
+      "Transmog Set",
+      "700"
+     ],
+     [
+      "[[item:Ensemble: Head Chef's Uniform]]",
+      "Transmog Set",
+      "700"
+     ],
+     [
+      "[[item:Aubergine Warturkey]]",
+      "Mount",
+      "500"
+     ],
+     [
+      "[[item:Hot Motocross Bunmover 4400]]",
+      "Mount",
+      "500"
+     ],
+     [
+      "[[item:Gill'el]]",
+      "Pet",
+      "250"
+     ],
+     [
+      "[[item:Baker's Citrine Bulwark]]",
+      "Shield",
+      "150"
+     ],
+     [
+      "[[item:Baker's Citrine Tray]]",
+      "Back",
+      "150"
+     ],
+     [
+      "[[item:Baker's Enchanted Cookbook]]",
+      "Staff",
+      "150"
+     ],
+     [
+      "[[item:Baker's Fiery Cookbook]]",
+      "Staff",
+      "150"
+     ],
+     [
+      "[[item:Ensemble: Sorcerer's Carrot Garb]]",
+      "Transmog Set",
+      "100"
+     ],
+     [
+      "[[item:Carrot Dunecloth Vest]]",
+      "Chest",
+      "35"
+     ],
+     [
+      "[[item:Rosy Dunecloth Skirt]]",
+      "Legs",
+      "35"
+     ]
+    ]
+   },
+   {
+    "t": "h",
+    "x": "آیتم‌های بازگشتی"
+   },
+   "چندین آیتم از دوره‌های پیشین نیز مجدداً برای خرید در دسترس قرار گرفته‌اند:",
+   {
+    "t": "table",
+    "head": [
+     "آیتم",
+     "نوع",
+     "هزینه"
+    ],
+    "rows": [
+     [
+      "[[item:Highlands Gobbler]]",
+      "Mount",
+      "500"
+     ],
+     [
+      "[[item:Ensemble: Villager's Country Attire]]",
+      "Transmog Set",
+      "440"
+     ],
+     [
+      "[[item:Ensemble: Villager's Country Collection]]",
+      "Transmog Set",
+      "440"
+     ],
+     [
+      "[[item:Bunch of Orange Carrots]]",
+      "Offhand",
+      "60"
+     ]
+    ]
+   },
+   "بازیکنان می‌توانند در طول این ماه با انجام فعالیت‌های مربوطه، ارز لازم را برای دریافت این جوایز جمع‌آوری کنند."
+  ],
+  "tags_fa": [
+   "Trading Post",
+   "نوامبر 2026",
+   "مانت",
+   "ترنسموگ"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-01T20:55:44Z"
+ }
 }

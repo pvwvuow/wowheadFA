@@ -1,8 +1,257 @@
 {
- "generated": "2026-11-01T18:23:13Z",
+ "generated": "2026-11-01T21:02:03Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383685,
+   "slug": "planet-azeroth-episode-2-ft-bill-bailey",
+   "title_fa": "انتشار قسمت دوم مجموعه Planet Azeroth با حضور Bill Bailey",
+   "lead_fa": "دومین قسمت از مجموعه ویدیویی Planet Azeroth با حضور Bill Bailey منتشر شد و به معرفی حیات وحش و ساکنان دنیای Azeroth می‌پردازد.",
+   "body_fa": [
+    "در دومین قسمت از سری ویدیوهای Planet Azeroth، بیل بیلی (Bill Bailey) به بررسی گوشه‌هایی از جهان Azeroth می‌پردازد تا مخاطبان اطلاعات بیشتری درباره این دنیا کسب کنند.",
+    {
+     "t": "h",
+     "x": "موضوعات بررسی‌شده در این قسمت"
+    },
+    "این قسمت تمرکز ویژه‌ای روی موجودات و گروه‌های حاضر در این جهان دارد و جزئیاتی از آن‌ها را به نمایش می‌گذارد:",
+    {
+     "t": "ul",
+     "xs": [
+      "رپتورها (Raptors)",
+      "ببرها (Tigers)",
+      "دزدان دریایی (Pirates)"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "این مجموعه ویدیویی در کنار رویدادهای مربوط به انتشار نسخه Forever در نوامبر ۲۰۲۶ و پس از به‌روزرسانی‌های ۳۰ اکتبر در دسترس مخاطبان قرار گرفته است (شناسه خبر: 383685).",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "Planet Azeroth",
+    "ویدیو",
+    "Forever",
+    "اخبار"
+   ],
+   "items": [],
+   "title_en": "Planet Azeroth: Episode 2 ft. Bill Bailey",
+   "source_url": "https://www.wowhead.com/news=383685",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383685-planet-azeroth-episode-2-ft-bill-bailey.html",
+   "published_at": "2026-11-01T18:05:28Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383685/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383685/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383483,
+   "slug": "the-story-of-lorewalking-titans-in-patch-12-1-7",
+   "title_fa": "مرور تاریخچه تایتان‌ها با کوئست‌لاین جدید Lorewalking در پچ 12.1.7",
+   "lead_fa": "در پچ 12.1.7 یک خط کوئست Lorewalking همراه با Li Li تاریخچه کهن تایتان‌ها و نبرد سرنوشت‌ساز پانتئون با Sargeras را روایت می‌کند.",
+   "body_fa": [
+    "در به‌روزرسانی 12.1.7 بازیکنان در کنار Apprentice Lorewalker Li Li وارد یک ماجراجویی روایی از نوع Lorewalking می‌شوند تا سرگذشت تایتان‌ها، شکل‌گیری نژادهای فانی و ریشه‌های تنش‌های کهکشانی را بازخوانی کنند؛ خط داستانی که پیش‌زمینه‌ای برای وقایع آینده و The Last Titan به شمار می‌رود.",
+    {
+     "t": "h",
+     "x": "از تالارهای کهن تا کشف ماهیت نفرین گوشت"
+    },
+    "در بخش نخست این سفر، وقایع کاوش‌های نخستین بازگو می‌شود. کاوشگرانی نظیر Brann Bronzebeard با ورود به تأسیسات کهن Uldaman و بررسی Discs of Norgannon پی بردند که نژادهای فانی از موجودات ماشینی نظیر Earthen ریشه گرفته‌اند. بررسی‌های بعدی در شهر تایتانی Ulduar و تعامل با آرشیوهایی چون Tribunal of Ages راز اصلی دگرگونی سنگ به پوست و خون را آشکار کرد: پدیده‌ای موسوم به Curse of Flesh که از سوی Old Gods ایجاد شده بود تا زمینه‌ساز رخنه و تسلط آن‌ها شود.",
+    {
+     "t": "note",
+     "x": "با وجود ارزیابی تایتان‌ها درباره منشأ این جهش، گزارش‌های تاریخی نشان می‌دهد تابش انرژی‌های مستقیم Worldsoul نیز تغییرات مستقلی مانند شکل‌گیری thraegar را در میان Earthen رقم زده بود.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "ایستادگی در برابر پاک‌سازی سیاره‌ای و بازتعریف اراده آزاد"
+    },
+    "با نابودی Loken، سیستمی اضطراری برای ارزیابی سلامت جهان فعال شد که حضور نماینده‌ای به نام Algalon the Observer را به همراه داشت. مأموریت او بررسی وضعیت آلودگی و در صورت لزوم آغاز فرایند re-origination و نابودی تمامی حیات سطح سیاره برای حفظ بستر جهان بود. با این حال، نبرد در اعماق Ulduar دیدگاه این ناظر کیهانی را نسبت به اراده و تمایل نژادهای فانی به بقا تغییر داد و در نهایت امکان متوقف کردن پیام پاک‌سازی فراهم شد.",
+    {
+     "t": "h",
+     "x": "شکاف در میان پانتئون و سقوط Sargeras"
+    },
+    "روایت کوئست‌لاین در ادامه به رویارویی‌های کیهانی اعضای Pantheon شامل Aman'Thul، Eonar، Khaz'goroth، Golganneth، Norgannon، Sargeras و Aggramar می‌پردازد. دیدگاه تندروانه Sargeras در مواجهه با خطرات قلمرو Void، به نابودی مستقیم جهان‌های آلوده و در نهایت پایه‌گذاری Burning Legion انجامید.",
+    {
+     "t": "ul",
+     "xs": [
+      "درگیری نخست میان Aggramar و Sargeras بر سر نحوه مقابله با فساد Void در جهان‌های نوپا",
+      "آگاه شدن Sargeras از وجود Worldsoul سیاره Azeroth در پی گفتگوهای پانتئون در نزدیکی دنیای Nihilam",
+      "سقوط کالبد فیزیکی پانتئون و نجات موقت ارواح آن‌ها با تدبیر Norgannon",
+      "تلاش‌های بعدی روی Argus و نجات ارواح زندانی پانتئون در جریان رویدادهای Antorus"
+     ]
+    },
+    "در پایان این مرور روایی، پرسش‌هایی درباره اهداف واقعی تایتان‌ها پیرامون محوریت Worldsoul و میزان هم‌پوشانی چشم‌انداز آن‌ها با خواسته‌های سایر قدرت‌های کیهانی پیش روی همراهان این سفر قرار می‌گیرد."
+   ],
+   "tags_fa": [
+    "پچ 12.1.7",
+    "لور",
+    "تایتان‌ها",
+    "PTR"
+   ],
+   "items": [],
+   "title_en": "The Story of Lorewalking: Titans in Patch 12.1.7",
+   "source_url": "https://www.wowhead.com/news=383483",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383483-the-story-of-lorewalking-titans-in-patch-12-1-7.html",
+   "published_at": "2026-11-01T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383483/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383483/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383680,
+   "slug": "get-a-chef-uniform-and-a-warturkey-mount-in-november-2026-trading-post",
+   "title_fa": "فهرست جوایز Trading Post در ماه نوامبر 2026؛ لباس سرآشپز و مانت بوقلمون جنگی",
+   "lead_fa": "جوایز ماه نوامبر 2026 در Trading Post مشخص شد که شامل دو دست لباس سرآشپز، مانت بوقلمون و آیتم‌های بازگشتی است.",
+   "body_fa": [
+    "شرکت Blizzard برای ماه نوامبر 2026 پیش‌نمایش کاملی از Trading Post منتشر نکرد و تنها به نمایش پاداش امتیازی بسنده کرده بود. اکنون فهرست کامل آیتم‌هایی که بازیکنان می‌توانند در این ماه خریداری کنند در دسترس قرار گرفته است.",
+    {
+     "t": "h",
+     "x": "آیتم‌های جدید این دوره"
+    },
+    "در میان اقلام تازه، مجموعه‌های ظاهری آشپزی و مانت‌های متعددی به چشم می‌خورند که با Trader's Tender قابل خرید هستند:",
+    {
+     "t": "table",
+     "head": [
+      "آیتم",
+      "نوع",
+      "هزینه"
+     ],
+     "rows": [
+      [
+       "[[item:Ensemble: Executive Chef's Uniform]]",
+       "Transmog Set",
+       "700"
+      ],
+      [
+       "[[item:Ensemble: Head Chef's Uniform]]",
+       "Transmog Set",
+       "700"
+      ],
+      [
+       "[[item:Aubergine Warturkey]]",
+       "Mount",
+       "500"
+      ],
+      [
+       "[[item:Hot Motocross Bunmover 4400]]",
+       "Mount",
+       "500"
+      ],
+      [
+       "[[item:Gill'el]]",
+       "Pet",
+       "250"
+      ],
+      [
+       "[[item:Baker's Citrine Bulwark]]",
+       "Shield",
+       "150"
+      ],
+      [
+       "[[item:Baker's Citrine Tray]]",
+       "Back",
+       "150"
+      ],
+      [
+       "[[item:Baker's Enchanted Cookbook]]",
+       "Staff",
+       "150"
+      ],
+      [
+       "[[item:Baker's Fiery Cookbook]]",
+       "Staff",
+       "150"
+      ],
+      [
+       "[[item:Ensemble: Sorcerer's Carrot Garb]]",
+       "Transmog Set",
+       "100"
+      ],
+      [
+       "[[item:Carrot Dunecloth Vest]]",
+       "Chest",
+       "35"
+      ],
+      [
+       "[[item:Rosy Dunecloth Skirt]]",
+       "Legs",
+       "35"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "آیتم‌های بازگشتی"
+    },
+    "چندین آیتم از دوره‌های پیشین نیز مجدداً برای خرید در دسترس قرار گرفته‌اند:",
+    {
+     "t": "table",
+     "head": [
+      "آیتم",
+      "نوع",
+      "هزینه"
+     ],
+     "rows": [
+      [
+       "[[item:Highlands Gobbler]]",
+       "Mount",
+       "500"
+      ],
+      [
+       "[[item:Ensemble: Villager's Country Attire]]",
+       "Transmog Set",
+       "440"
+      ],
+      [
+       "[[item:Ensemble: Villager's Country Collection]]",
+       "Transmog Set",
+       "440"
+      ],
+      [
+       "[[item:Bunch of Orange Carrots]]",
+       "Offhand",
+       "60"
+      ]
+     ]
+    },
+    "بازیکنان می‌توانند در طول این ماه با انجام فعالیت‌های مربوطه، ارز لازم را برای دریافت این جوایز جمع‌آوری کنند."
+   ],
+   "tags_fa": [
+    "Trading Post",
+    "نوامبر 2026",
+    "مانت",
+    "ترنسموگ"
+   ],
+   "items": [],
+   "title_en": "Get a Chef Uniform and a Warturkey Mount in November 2026 Trading Post",
+   "source_url": "https://www.wowhead.com/news=383680",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383680-get-a-chef-uniform-and-a-warturkey-mount-in-november-2026-trading-post.html",
+   "published_at": "2026-11-01T06:03:01Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383680/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383680/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383574,
    "slug": "repeatable-quest-experience-exploit-fixed-for-wow-forever-launch",
@@ -77,6 +326,68 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383662/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383670,
+   "slug": "massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wo",
+   "title_fa": "تغییرات گسترده درخت استعداد دروید و پالادین - تیونینگ کلاس‌ها برای WoW: Forever",
+   "lead_fa": "درویدها و پالادین‌ها تغییرات بسیار بزرگی در درخت استعداد خود دریافت کرده‌اند و چندین کلاس دیگر نیز تیونینگ شده‌اند؛ این تغییرات هاتفیکس پیش از لانچ WoW: Forever در ۴ نوامبر اعمال شده است.",
+   "body_fa": [
+    "این هاتفیکس‌ها روی سرورهای زنده Forever اعمال شده‌اند. این تغییرات هنوز در یادداشت‌های توسعه تأیید نشده‌اند و ممکن است در آینده تغییر کنند.",
+    {
+     "t": "h",
+     "x": "تغییرات دروید"
+    },
+    "چندین استعداد موقعیت خود را در درخت تغییر داده‌اند. برای دیدن جزئیات دقیق می‌توانید از Druid Talent Calculator استفاده کنید. Genesis حالا آسیب و درمان دوره‌ای را ۲/۴/۶/۸/۱۰٪ افزایش می‌دهد (قبلاً ۱/۲/۳/۴/۵٪). Lacerate به عنوان استعداد جدید اضافه شده است. Berserk حذف شده است. Leader of the Pack حالا همه critical strike را افزایش می‌دهد (قبلاً فقط melee و ranged). Primal Bite آسیب ۴۲/۶۲/۷۷ وارد می‌کند (قبلاً ۲۶/۳۸/۵۹) و موقعیت استعداد تغییر کرده است. Shifting Power cooldown به ۸ ثانیه کاهش یافته (قبلاً ۱۶ ثانیه). Bloom به عنوان استعداد جدید اضافه شده است. Naturalist حالا علاوه بر کاهش زمان cast، آسیب همه را ۲/۴/۶/۸/۱۰٪ افزایش می‌دهد (قبلاً ۱/۲/۳/۴/۵٪). Swiftmend حالا نیاز به Regrowth دارد (قبلاً هر spell). Wild Growth حالا زمان cast ۳ ثانیه‌ای دارد.",
+    {
+     "t": "h",
+     "x": "تغییرات هانتر"
+    },
+    "هانترها تغییراتی در درخت Beast Mastery داشته‌اند. Pathfinding به Row ۳ منتقل شده (قبلاً Row ۲).",
+    {
+     "t": "h",
+     "x": "تغییرات میج"
+    },
+    "Arcane Blast حالا ۱۲٪ Int stack می‌کند (قبلاً ۱۵٪)، هزینه mana ۱۰۰٪ افزایش یافته (قبلاً ۱۷۵٪) و مدت buff به ۱۸ ثانیه رسیده (قبلاً ۱۵ ثانیه). Arcane Resilience حالا ۳ رتبه دارد و رتبه سوم armor برابر ۷۵٪ Intellect می‌دهد. Arcane Resilience به Row ۱ منتقل شده (قبلاً Row ۲). Missile Barrage به Row ۲ منتقل شده (قبلاً Row ۱). Arcane Focus از درخت استعداد حذف شده است. Accelerant تغییر نام داده (قبلاً Improved Fireball) و حالا زمان cast Arcane Wrath را هم کاهش می‌دهد. Critical Mass در رتبه ۳ حداکثر ۶٪ crit chance می‌دهد (قبلاً ۱۰٪ در رتبه ۵). Improved Fire Blast به Row ۳ منتقل شده (قبلاً Row ۱). Incineration در رتبه ۵ حداکثر ۱۰٪ crit chance برای Fire Blast، Ice Lance، Arcane Blast و Scorch می‌دهد (قبلاً ۶٪ در رتبه ۳). Arctic Reach حالا برد Ice Lance را هم افزایش می‌دهد. Ice Barrier حالا آسیب Frost را ۱۵٪ افزایش می‌دهد (قبلاً ۳٪). آسیب اضافی در حالت shielded ۵٪ بیشتر است (قبلاً ۳٪). Winter's Chill آسیب Cone of Cold بعدی را ۲۰٪ افزایش می‌دهد (قبلاً ۵٪). Ice Lance حالا ۳۰۰٪ آسیب bonus به هدف‌های frozen وارد می‌کند (قبلاً ۲۰۰٪) اما cooldown ۸ ثانیه‌ای دارد. Precision تغییر نام داده (قبلاً Elemental Precision) و حالا همه hit chance را افزایش می‌دهد (قبلاً فقط برخی spellها).",
+    {
+     "t": "h",
+     "x": "تغییرات پالادین"
+    },
+    "درخت استعداد پالادین تغییرات بسیار گسترده‌ای دیده است. Boundless Light به عنوان استعداد جدید اضافه شده است. Divine Precision حداکثر رتبه به ۲ کاهش یافته و رتبه حداکثر hit chance Holy spells را ۸٪ افزایش می‌دهد (قبلاً ۱۸٪) اما Silence duration را ۲۰٪ کاهش می‌دهد. Holy Power حالا bonus critical strike healing را ۱۰/۲۰/۳۰/۴۰/۵۰٪ افزایش می‌دهد (قبلاً chance). Improved Seals تا رتبه ۵ و ۱۵٪ مقیاس می‌گیرد (قبلاً رتبه ۳ و ۹٪). Light's Vigil دیگر روی دشمن trigger نمی‌شود. Oath of Light به عنوان استعداد جدید اضافه شده است. Reverence حداکثر رتبه به ۲ کاهش یافته (قبلاً ۳) اما mana regeneration در رتبه حداکثر همچنان ۳۰٪ است. Spiritual Focus حالا حداکثر ۵ رتبه دارد (قبلاً ۲) و تا ۷۰٪ chance می‌رسد. Righteous Fury حالا در سطح ۱۰ یاد گرفته می‌شود (قبلاً ۱۶). Holy Shield آسیب ۳۲٪ کاهش یافته، هزینه mana به ۱۰۰ رسیده (قبلاً ۱۵۰) و flag جدید «Take Harmful Spell» اضافه شده است. Improved Righteous Fury آسیب دریافتی را ۳/۶/۹٪ کاهش می‌دهد (قبلاً ۲/۴/۶٪). Iron Creed حداکثر رتبه ۳ کاهش یافته (قبلاً ۵) و threat increase در رتبه حداکثر ۳۰٪ است (قبلاً ۱۵٪) اما damage taken به ۶٪ کاهش یافته (قبلاً ۱۰٪). Sacred Duty دیگر stamina را افزایش نمی‌دهد اما مدت Forbearance را در رتبه حداکثر ۱۰ ثانیه کاهش می‌دهد. Shield Specialization حداکثر رتبه به ۲ کاهش یافته (قبلاً ۳) با همان مقادیر در رتبه حداکثر. Shieldsworn به عنوان استعداد جدید اضافه شده است.",
+    "Stoicism به عنوان استعداد جدید اضافه شده است. Swift Judgement اثر جدیدی دارد. Champion of the Light حالا حداکثر ۵ رتبه دارد (قبلاً ۳) و spell damage در رتبه حداکثر همان است اما cast time Hammer of Wrath را ۱ ثانیه کاهش می‌دهد. Conviction حالا حداکثر ۳ رتبه دارد (قبلاً ۵) و همه spellها را ۶٪ تحت تأثیر قرار می‌دهد. Turn Evil به عنوان توانایی جدید اضافه شده است.",
+    "Two-Handed Weapon Specialization حالا physical damage را افزایش می‌دهد (قبلاً همه damage) و threat را ۲۰٪ در رتبه حداکثر کاهش می‌دهد. Unsealed Wrath تغییر نام و اثر جدید دارد. Vindication دیگر attack power را افزایش نمی‌دهد.",
+    {
+     "t": "h",
+     "x": "تغییرات سایر کلاس‌ها"
+    },
+    "Shadow Word: Death حالا ۳۰٪ backlash damage وارد می‌کند (قبلاً ۱۰٪). Holy Binding به عنوان استعداد جدید برای Holy Priest اضافه شده است. Improved Drains حالا mana drained توسط Drain Mana را افزایش می‌دهد (به جای تأثیر روی Wrack). Revenge حالا در همه رتبه‌ها با ۲۵٪ attack power مقیاس می‌گیرد.",
+    {
+     "t": "note",
+     "x": "این تغییرات روی سرورهای زنده اعمال شده‌اند و ممکن است در آینده تغییر کنند.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "Forever",
+    "تیونینگ کلاس‌ها",
+    "درخت استعداد"
+   ],
+   "items": [],
+   "title_en": "Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383670",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383670-massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wo.html",
+   "published_at": "2026-10-30T23:22:14Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383670/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383670/1.jpg",
      "cap": ""
     }
    ]
@@ -698,6 +1009,61 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383651/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383650,
+   "slug": "blizzard-working-on-top-layering-issues-in-wow-forever",
+   "title_fa": "بررسی مشکلات لیرینگ در WoW: Forever توسط بلیزارد",
+   "lead_fa": "توسعه‌دهندگان در پادکست اخیر WoW: Forever به بررسی چالش‌های لیرینگ در نبردهای بزرگ PvP و جابه‌جایی میان مناطق پرداختند.",
+   "body_fa": [
+    "در جدیدترین قسمت از پادکست WoW: Forever، شرکت Blizzard اعلام کرد در حال کار روی بارزترین مشکلات سیستم Layering است که بازیکنان در دوره آزمایشی Beta با آن‌ها روبه‌رو شده بودند.",
+    {
+     "t": "h",
+     "x": "نبردهای بزرگ PvP و مدیریت لیرها"
+    },
+    "در جریان نسخه بتای WoW: Forever، بازیکنان ظرفیت لیرها را در نبردهای بزرگ جهان‌باز به چالش کشیدند. در حالی که برخی درگیری‌ها با موفقیت همراه بود، در مواردی دیگر گروه‌ها برای قرار دادن تمام افراد در یک لیر مشترک با مشکل مواجه می‌شدند. Shobek، مهمان این هفته پادکست، درباره امکان اعمال تغییراتی برای بهبود این نبردهای گسترده سؤال کرد.",
+    {
+     "t": "quote",
+     "x": "کارهای جالب زیادی وجود دارد که افراد با استفاده از ادان‌ها و ابزارهای دیگر برای سازماندهی انجام می‌دهند. ما این قابلیت‌ها را از نزدیک بررسی می‌کنیم تا ببینیم چه مواردی را واقعاً می‌خواهیم انتخاب کرده و ادغام کنیم. شاید یک تخته وایت‌برد در مقر شرکت باشد که کلمه megaraid روی آن خط‌خطی شده، اما ما به راه‌هایی برای تشخیص خودکار نبردهای PvP در حال وقوع نیز فکر کرده‌ایم تا سرورها کمی گسترش یابند و جریان مبارزه مداوم بماند. اما می‌توانم بگویم وضعیت پایان بتا همان چیزی است که برای لانچ بازی باید انتظار داشته باشید.",
+     "by": "Frank Williams — Principal Software Engineer"
+    },
+    {
+     "t": "h",
+     "x": "جابه‌جایی میان مناطق و ناپدید شدن بازیکنان"
+    },
+    "مشکل رایج‌تر میان بازیکنان، لیرینگ هنگام عبور از مرز مناطق مختلف است؛ برای نمونه هنگامی که بازیکنان Alliance از Hillsbrad Foothills وارد Silverpine Forest می‌شوند، عبور از مرز منطقه ممکن است باعث ناپدید شدن ناگهانی همراهان به دلیل انتقال به لیرهای جدید شود.",
+    {
+     "t": "quote",
+     "x": "یکی از مواردی که می‌توانیم تنظیم کنیم این است که کدام مناطق واقعاً به یکدیگر متصل باشند. به همین دلیل است که وقتی در Durotar مشغول تماشای دوئل‌ها هستید، ناگهان فردی ظاهر می‌شود چون از Orgrimmar بیرون آمده است. برای لانچ، این تنظیم اهمیت دارد چون Durotar بسیار شلوغ خواهد بود در حالی که افراد زیادی در Orgrimmar معطل نخواهند ماند؛ اما بعداً این وضعیت برعکس می‌شود. ما می‌توانیم زمان گروه‌بندی بخش‌ها را با دقت تنظیم کنیم، بنابراین وضعیت در زمان لانچ ممکن است با یک ماه پس از آن بسیار متفاوت باشد.",
+     "by": "Frank Williams — Principal Software Engineer"
+    },
+    {
+     "t": "note",
+     "x": "طبق توضیحات ارائه شده، این تنظیمات لیرینگ در روزهای پایانی بتا و تست استرس نیز اعمال شده بودند و گرچه لیرینگ میان مناطق همچنان دیده خواهد شد، بهینه‌سازی‌های بیشتری در دست توسعه است.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "بلیزارد",
+    "لیرینگ",
+    "PvP"
+   ],
+   "items": [],
+   "title_en": "Blizzard Working on Top Layering Issues in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383650",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383650-blizzard-working-on-top-layering-issues-in-wow-forever.html",
+   "published_at": "2026-10-29T18:12:11Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383650/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383650/1.jpg",
      "cap": ""
     }
    ]
@@ -2713,237 +3079,15 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383520,
-   "slug": "no-mail-spell-power-dungeon-and-quest-armor-in-wow-forever-early-level",
-   "title_fa": "عدم وجود زره Mail Spell Power در مراحل اولیه WoW: Forever",
-   "lead_fa": "بتای World of Warcraft Forever به بازیکنان اجازه داده تا چندین کاراکتر را تا سطح ۳۰ امتحان کنند، اما بررسی‌ها نشان می‌دهد هیچ زره Mail Spell Power از طریق دانجن‌ها و کوئست‌ها در این سطوح ارائه نمی‌شود.",
-   "body_fa": [
-    "بازیکنان در بتای WoW: Forever با کوئست‌ها و دانجن‌های آشنا و جدید روبه‌رو شده‌اند و پاداش‌های آن‌ها را دریافت کرده‌اند.",
-    "با این حال جستجو در پایگاه داده نشان می‌دهد که هیچ قطعه Mail Spell Power از طریق دراپ دانجن‌ها وجود ندارد و تنها دراپ‌های تصادفی Uncommon با پسوندهایی مانند of Magic یا of the Knight یافت می‌شود.",
-    "در بخش پاداش کوئست‌ها نیز تنها دو آیتم ظاهر می‌شود که هر دو عمدتاً Healing هستند: Garrison Cuffs و Silvered Gauntlets.",
-    "این مسئله تنها یک کلاس را در سطوح ۱ تا ۳۰ تحت تأثیر قرار می‌دهد: Paladin.",
-    "در حال حاضر Paladin تنها کلاسی است که هیچ زره متناسبی از طریق دانجن یا کوئست برای ۳۰ سطح اول ندارد.",
-    "اگر Paladin بخواهد ارتقای زره بدون استفاده از Auction House داشته باشد، باید از طریق Crafting و به دست آوردن الگوها از دراپ دانجن‌ها یا Merchant's Favor turn-ins با Azeroth Commerce Authority / Durotar Supply and Logistics اقدام کند.",
-    "هرچند سیستم Crafting جدید برای سطوح اولیه در WoW: Forever بسیار مورد استقبال قرار گرفته، اما جالب است که Paladin تنها کلاسی باشد که برای دریافت ارتقای معادل پاداش‌های کوئست و دانجن مجبور به Crafting شود."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "بتا",
-    "Paladin",
-    "تیونینگ اولیه"
-   ],
-   "items": [],
-   "title_en": "No Mail Spell Power Dungeon and Quest Armor in WoW: Forever Early Levels",
-   "source_url": "https://www.wowhead.com/news=383520",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383520-no-mail-spell-power-dungeon-and-quest-armor-in-wow-forever-early-level.html",
-   "published_at": "2026-10-22T16:00:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383520/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383520/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383537,
-   "slug": "rp-pvp-ruleset-coming-to-wow-forever",
-   "title_fa": "افزوده شدن سرورهای RP-PvP به بازی WoW: Forever",
-   "lead_fa": "شرکت Blizzard تایید کرد که سرورهای دارای قوانین RP-PvP هم‌زمان با لانچ رسمی WoW: Forever در دسترس قرار می‌گیرند و رزرو نام آن‌ها از هفته آینده آغاز می‌شود.",
-   "body_fa": [
-    "شرکت Blizzard رسماً اعلام کرد که مجموعه قوانین RP-PvP را برای زمان لانچ بازی WoW: Forever اضافه خواهد کرد. این تصمیم پس از گفت‌وگوهای قسمت اخیر برنامه WoW: Forever Podcast و بررسی بازخوردهای بازیکنان اتخاذ شده است.",
-    {
-     "t": "quote",
-     "x": "در قسمت اخیر پادکست WoW Forever به بخشی از نگرانی‌های خود درباره افزودن رول‌ست Roleplay-PVP در WoW Forever اشاره کردیم، اما گفتیم که این موضوع همچنان در حال بررسی داخلی است و بازخورد بازیکنان را زیر نظر داریم. طی چند روز گذشته جوانب این موضوع را سنجیدیم و تصمیم گرفتیم آن را اضافه کنیم. ما رول‌ست Roleplay-PVP را برای عرضه در ۴ نوامبر آماده خواهیم کرد. همچنین تلاش می‌کنیم تا بتوانید این رول‌ست را هنگام آغاز دوره رزرو نام در روز سه‌شنبه ۲۷ اکتبر انتخاب کنید. از بازخوردها و نظرات در این مورد بسیار سپاسگزاریم.",
-     "by": "Blizzard"
-    },
-    {
-     "t": "h",
-     "x": "برنامه زمانی رزرو نام و عرضه"
-    },
-    "طبق اعلام تیم سازنده، انتخاب سرور و رزرو نام برای رول‌ست RP-PvP هم‌زمان با شروع دوره رزرو نام‌ها در روز سه‌شنبه ۲۷ اکتبر (October 27) فعال خواهد شد و خود بازی نیز در تاریخ ۴ نوامبر رسماً لانچ می‌شود.",
-    {
-     "t": "note",
-     "x": "دوره رزرو نام‌ها در تاریخ ۲۷ اکتبر کلید می‌خورد و عرضه جهانی بازی در ۴ نوامبر انجام خواهد شد.",
-     "kind": "info"
-    },
-    {
-     "t": "h",
-     "x": "جزئیات پایگاه داده و خبرهای مرتبط"
-    },
-    "این خبر با شناسه 383537 در تاریخ 2026-10-22 به ثبت رسیده است و نظرات بازیکنان تحت نسخه 1.60.1 به ثبت رسیده‌اند. بخش نظرات شامل ۲۰ دیدگاه از ۲۰ نظر ثبت‌شده در صفحه نخست است و کاربرانی نظیر 5RanceRaptor و 12Heavyharper دیدگاه‌های خود را مطرح کرده‌اند. همچنین در خبرهای سایت، عناوینی چون انتشار هاتفیکس‌های ۳۰ اکتبر ۲۰۲۶ (October 30, 2026) در بازه‌های زمانی ۱۵ ساعت و ۱۶ ساعت پیش، آماده‌سازی برای عرضه در ۲۱ ساعت و ۲۲ ساعت قبل، رفع باگ کوئست‌ها در ۲۰ دقیقه پیش و ساخت بیش از ۸ میلیون کاراکتر در بتا به چشم می‌خورد."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "بلیزارد",
-    "اخبار سرورها",
-    "رول پلی"
-   ],
-   "items": [],
-   "title_en": "RP-PvP Ruleset Coming to WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383537",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383537-rp-pvp-ruleset-coming-to-wow-forever.html",
-   "published_at": "2026-10-22T15:33:56Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383537/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383537/1.png",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383525,
-   "slug": "complete-new-sweet-tooth-hallow-s-end-achievement-quickly-using-alts",
-   "title_fa": "تکمیل سریع دستاورد Sweet Tooth هالووین اند با استفاده از آلت‌ها",
-   "lead_fa": "بازیکنان می‌توانند دستاورد جدید Sweet Tooth را با کمک آلت‌ها خیلی سریع به پایان برسانند.",
-   "body_fa": [
-    "هالووین اند ۲۰۲۶ با سه تم محله جدید Felwood، Drustvar و Duskwood همراه است. هر تم به صورت تصادفی هر روز ظاهر می‌شود و کوئست‌های روزانه متفاوتی ارائه می‌دهد.",
-    "دستاورد Sweet Tooth نیازمند تکمیل ۳ کوئست روزانه متفاوت در هر یک از سه تم جدید است. هر روز باید به محله خود بروید و کوئست Sugar Run را پیدا کنید که شما را به پورتال زون تم محله هدایت می‌کند.",
-    "در آنجا کوئست را به Nomi تحویل دهید و از میان سه کوئست روزانه یکی را انتخاب کنید. باید هر یک از این کوئست‌ها را یک بار کامل کنید تا دستاورد به شما اعطا شود.",
-    "با توجه به اینکه هر کاراکتر در روز فقط می‌تواند یکی از کوئست‌های روزانه Nomi را انجام دهد، استفاده از آلت‌ها سرعت کار را بالا می‌برد. اگر سه آلت داشته باشید، هر کدام می‌توانند یک کوئست متفاوت انتخاب کنند و زون مربوطه را کامل کنند تا یکی از دستاوردهای Duskwood Caramel Crafter، Drustvar Choc-O-Drop Designer یا Felwood Fudge Bite Former به دست آید.",
-    "این روش حداقل سه روز زمان می‌برد زیرا باید هر زون را یک بار کامل کنید. بخش سخت آن پیدا کردن محله‌ای با تم درست برای زون‌هایی است که هنوز کامل نکرده‌اید.",
-    "با این حال نیازی به حضور در زون با تم درست برای دریافت کوئست مورد نظر نیست. وقتی Sugar Run را به Nomi تحویل می‌دهید، کوئست‌های روزانه در همه زون‌ها فعال می‌شوند. بنابراین می‌توانید کوئست را بگیرید، از پورتال عبور کنید، آن را تحویل دهید و از انتخاب کوئست جدید خودداری کنید. سپس به زون دلخواه پرواز کنید و دوباره Nomi را پیدا کنید که کوئست‌های روزانه متفاوتی برایتان دارد.",
-    "موقعیت Nomi در Felwood به صورت /way #77 43.7 68.5 و در Duskwood به صورت /way #47 67.25 76.71 است. با ۹ آلت می‌توانید Sweet Tooth را در یک روز کامل کنید."
-   ],
-   "tags_fa": [
-    "هالووین اند",
-    "دستاورد Sweet Tooth",
-    "آلت‌ها",
-    "رویداد فصلی"
-   ],
-   "items": [],
-   "title_en": "Complete New Sweet Tooth Hallow's End Achievement Quickly Using Alts",
-   "source_url": "https://www.wowhead.com/news=383525",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383525-complete-new-sweet-tooth-hallow-s-end-achievement-quickly-using-alts.html",
-   "published_at": "2026-10-22T15:00:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383525/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383525/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383528,
-   "slug": "optimize-tricky-treat-exchange-with-neighborhood-vendors-for-hallow-s-",
-   "title_fa": "بهینه‌سازی تبادل Tricky Treat با فروشندگان Hallow's End",
-   "lead_fa": "رویداد Hallow's End با اضافه شدن مأموریت‌های روزانه جدید، امکان دریافت آب‌نبات‌های ویژه را فراهم کرده که می‌توان آن‌ها را با نرخ‌های متفاوت به Tricky Treat تبدیل کرد.",
-   "body_fa": [
-    "هر روز هر محله یکی از سه تم Duskwood، Drustvar یا Felwood را دریافت می‌کند. با انجام مأموریت‌های روزانه در محله مربوطه، بازیکنان علاوه بر Tricky Treat، آب‌نبات ویژه آن تم را هم به دست می‌آورند: Drustvar Choc-O-Drops برای Drustvar، Duskwood Caramel برای Duskwood و Felwood Fudge Bite برای Felwood.",
-    "این آب‌نبات‌ها را می‌توان نزد فروشندگان مخصوص هر محله به Tricky Treat تبدیل کرد. موقعیت فروشندگان به این شکل است: برای Horde در /way #2351 51.72 54.5 و برای Alliance در /way #2352 53.74 33.67.",
-    "هر محله نرخ تبدیل متفاوتی دارد و این نرخ از ۵ Tricky Treat در برابر ۱ آب‌نبات تا ۵ Tricky Treat در برابر ۵ آب‌نبات متغیر است. بهترین حالت، یافتن محله‌ای است که ۵ Tricky Treat در برابر ۱ آب‌نبات ارائه می‌دهد.",
-    "برای بهره‌برداری حداکثری، بازیکنان می‌توانند با استفاده از LFG یا فهرست دوستان بین محله‌ها جابه‌جا شوند تا نرخ مطلوب را پیدا کنند. این روش امکان دریافت مقدار بسیار زیادی Tricky Treat و تبدیل آن به پاداش‌های مختلف را فراهم می‌آورد.",
-    "اگر امروز نرخ مناسبی پیدا نکردید، فردا با تازه‌سازی فروشندگان دوباره امتحان کنید."
-   ],
-   "tags_fa": [
-    "Hallow's End",
-    "Tricky Treat",
-    "رویداد فصلی",
-    "بهینه‌سازی"
-   ],
-   "items": [],
-   "title_en": "Optimize Tricky Treat Exchange with Neighborhood Vendors for Hallow's End",
-   "source_url": "https://www.wowhead.com/news=383528",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383528-optimize-tricky-treat-exchange-with-neighborhood-vendors-for-hallow-s-.html",
-   "published_at": "2026-10-22T14:15:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383528/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383528/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383532,
-   "slug": "world-of-warcraft-forever-beta-will-return-shortly",
-   "title_fa": "بازگشت WoW Forever Beta در چند روز آینده",
-   "lead_fa": "بلیزارد اعلام کرده که در حال کار بر روی بازگشت WoW Forever Beta است و این سرور به‌زودی دوباره آنلاین خواهد شد.",
-   "body_fa": [
-    "طبق اعلام بلیزارد، پس از بازگشت WoW Forever Beta، این آخرین روزهای آن خواهد بود و سرور به‌طور رسمی در ۲۳ اکتبر ساعت ۱۰:۰۰ AM Pacific time پایان می‌یابد.",
-    "بلیزارد در پیام خود اعلام کرده که هنگام روشن کردن مجدد WoW Forever Beta با مشکل کوچکی مواجه شده‌اند و هم‌اکنون در حال رفع آن هستند.",
-    "تا زمان رفع مشکل، بازیکنان می‌توانند با خروج کامل از Battle.net Desktop App، به‌روزرسانی را به‌صورت دستی فعال کنند تا فرآیند سریع‌تر انجام شود."
-   ],
-   "tags_fa": [
-    "Forever Beta",
-    "بلیزارد",
-    "World of Warcraft"
-   ],
-   "items": [],
-   "title_en": "World of Warcraft: Forever Beta Will Return Shortly",
-   "source_url": "https://www.wowhead.com/news=383532",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383532-world-of-warcraft-forever-beta-will-return-shortly.html",
-   "published_at": "2026-10-22T01:55:07Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383532/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383532/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383685,
-   "title_en": "Planet Azeroth: Episode 2 ft. Bill Bailey",
-   "url": "https://www.wowhead.com/news=383685",
-   "category": "Forever",
-   "published_at": "2026-11-01T18:05:28Z"
-  },
-  {
-   "id": 383483,
-   "title_en": "The Story of Lorewalking: Titans in Patch 12.1.7",
-   "url": "https://www.wowhead.com/news=383483",
-   "category": "PTR",
-   "published_at": "2026-11-01T15:00:00Z"
-  },
-  {
-   "id": 383680,
-   "title_en": "Get a Chef Uniform and a Warturkey Mount in November 2026 Trading Post",
-   "url": "https://www.wowhead.com/news=383680",
-   "category": "Live",
-   "published_at": "2026-11-01T06:03:01Z"
-  },
   {
    "id": 383657,
    "title_en": "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
    "url": "https://www.wowhead.com/news=383657",
    "category": "Forever",
    "published_at": "2026-10-31T18:00:00Z"
-  },
-  {
-   "id": 383670,
-   "title_en": "Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever",
-   "url": "https://www.wowhead.com/news=383670",
-   "category": "Forever",
-   "published_at": "2026-10-30T23:22:14Z"
-  },
-  {
-   "id": 383650,
-   "title_en": "Blizzard Working on Top Layering Issues in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383650",
-   "category": "Forever",
-   "published_at": "2026-10-29T18:12:11Z"
   },
   {
    "id": 383648,
