@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T15:15:57Z",
+ "generated": "2026-11-01T18:23:13Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2903,6 +2903,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383685,
+   "title_en": "Planet Azeroth: Episode 2 ft. Bill Bailey",
+   "url": "https://www.wowhead.com/news=383685",
+   "category": "Forever",
+   "published_at": "2026-11-01T18:05:28Z"
+  },
   {
    "id": 383483,
    "title_en": "The Story of Lorewalking: Titans in Patch 12.1.7",
