@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T06:16:40Z",
+ "generated": "2026-11-01T15:15:57Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2903,6 +2903,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383483,
+   "title_en": "The Story of Lorewalking: Titans in Patch 12.1.7",
+   "url": "https://www.wowhead.com/news=383483",
+   "category": "PTR",
+   "published_at": "2026-11-01T15:00:00Z"
+  },
   {
    "id": 383680,
    "title_en": "Get a Chef Uniform and a Warturkey Mount in November 2026 Trading Post",
