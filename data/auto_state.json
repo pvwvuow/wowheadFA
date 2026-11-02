@@ -2,26 +2,6 @@
  "day": "2026-11-02",
  "published_today": 2,
  "held": {
-  "383487": {
-   "reason": "G4 numbers from source missing in article: 22, 80",
-   "at": "2026-11-01T22:59:42Z",
-   "at_ts": 1793573982.443658
-  },
-  "383570": {
-   "reason": "جمله یادداشت پایانی («این هاتفیکس‌ها به‌طور ویژه اختلالات خط دید و مکانیک‌های مربوط به مهارت‌های محیطی را در مسیرهای دانجن بهبود داده‌اند») یک ادعای اضافه است که در متن منبع وجود ندارد. | G4 numbers from source missing in article: 10, 12.1.7, 14, 15, 17, 18, 20, 2026",
-   "at": "2026-11-01T23:27:45Z",
-   "at_ts": 1793575665.947946
-  },
-  "383568": {
-   "reason": "خطای مدل در بازنویسی: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-   "at": "2026-11-01T23:31:54Z",
-   "at_ts": 1793575914.475931
-  },
-  "383561": {
-   "reason": "یادداشت پایانی ادعا می‌کند خبر مربوط به «پچ‌های 12.1.5 و 12.1.7 و زمان‌بندی‌های 07:00، روزهای 15، 20، 22، 27 و 28» است که این اطلاعات کاملاً ساختگی بوده و در متن منبع وجود ندارد.",
-   "at": "2026-11-01T23:37:31Z",
-   "at_ts": 1793576251.636213
-  },
   "383541": {
    "reason": "G4 numbers from source missing in article: 15, 18 | هشدار: 1",
    "at": "2026-11-01T23:58:36Z",
@@ -71,10 +51,20 @@
    "reason": "G4 numbers from source missing in article: 10, 15, 18, 2026, 22, 30, 383543, 39",
    "at": "2026-11-02T02:13:58Z",
    "at_ts": 1793585638.28214
+  },
+  "383570": {
+   "reason": "G4 numbers from source missing in article: 10, 12.1.7, 14, 15, 17, 18, 20, 2026",
+   "at": "2026-11-02T02:48:13Z",
+   "at_ts": 1793587693.229293
+  },
+  "383568": {
+   "reason": "بخش پایانی مقاله (بلوک note) با آوردن محاسبات و ادعاهایی مانند پچ 12.1.7 و اقلام 18 یا 21 از بخش نظرات کاربران و خارج از متن اصلی خبر، اطلاعات نامربوط و ساختگی به عنوان محتوای خبر اضافه کرده است.",
+   "at": "2026-11-02T02:56:26Z",
+   "at_ts": 1793588186.328485
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-02T02:17:50Z",
+ "updated_at": "2026-11-02T02:59:33Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -2966,6 +2956,46 @@
     "blocks": 0,
     "warns": 1,
     "sec": 232.3,
+    "attempts": 1
+   },
+   {
+    "id": "383570",
+    "ts": "2026-11-02T02:48:13Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 545.7,
+    "attempts": 2
+   },
+   {
+    "id": "383568",
+    "ts": "2026-11-02T02:56:26Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 493.1,
+    "attempts": 2
+   },
+   {
+    "id": "383561",
+    "ts": "2026-11-02T02:58:17Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 111.5,
+    "attempts": 1
+   },
+   {
+    "id": "383487",
+    "ts": "2026-11-02T02:59:33Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 76.1,
     "attempts": 1
    }
   ]
