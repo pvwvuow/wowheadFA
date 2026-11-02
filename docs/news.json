@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T21:16:19Z",
+ "generated": "2026-11-02T21:16:45Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3362,6 +3362,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383696,
+   "title_en": "Xbox UK Confirms WoW: Forever Not Coming to Xbox in November",
+   "url": "https://www.wowhead.com/news=383696",
+   "category": "Forever",
+   "published_at": "2026-11-02T20:38:53Z"
+  },
   {
    "id": 383695,
    "title_en": "Long Maintenance Planned Ahead of WoW: Forever Launch",
