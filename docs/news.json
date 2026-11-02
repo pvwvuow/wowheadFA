@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T07:09:53Z",
+ "generated": "2026-11-02T13:47:02Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1298,6 +1298,83 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383637/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383632,
+   "slug": "new-player-s-starter-guide-for-world-of-warcraft-forever",
+   "title_fa": "راهنمای جامع بلیزارد برای بازیکنان تازه‌وارد در World of Warcraft: Forever",
+   "lead_fa": "بلیزارد راهنمای رسمی جدیدی برای شروع کار بازیکنان در World of Warcraft: Forever منتشر کرد که مراحل اولیه، انتخاب قوانین بازی و اصول ماجراجویی را پوشش می‌دهد.",
+   "body_fa": [
+    "بلیزارد یک راهنمای شروع برای بازیکنان تازه‌وارد در World of Warcraft: Forever منتشر کرده است. این راهنما فرایند نصب بازی، انتخاب قوانین یا همان Ruleset، ساخت نخستین کاراکتر و نکات مهم برای گشت‌وگذار در آزروت را به بازیکنان توضیح می‌دهد.",
+    {
+     "t": "h",
+     "x": "پیش‌نیازها و پیش‌تنظیمات رابط کاربری"
+    },
+    "برای آغاز، بازیکنان به یک حساب کاربری Battle.net نیاز دارند و دسترسی به بازی با داشتن اشتراک فعال World of Warcraft یا Game Time فراهم می‌شود. نسخه بازی باید روی رایانه‌های ویندوز یا مک نصب شود؛ همچنین قابلیت پشتیبانی از دسته‌های بازی به‌صورت نسخه بتا در دسترس است. در نخستین ورود به بازی، صفحه‌ای برای انتخاب سبک تجربه کاربری یا همان Experience Preset پیش روی شما قرار می‌گیرد:",
+    {
+     "t": "ul",
+     "xs": [
+      "حالت Classic: ظاهری سنتی‌تر با مدل‌های استاندارد، غیرفعال بودن Transmog، کیف‌های جداگانه (One-bag خاموش)، غیرفعال بودن نشانه‌های ماموریت روی نقشه و رابط کاربری کلاسیک.",
+      "حالت Enhanced: جلوه‌های به‌روزشده با مدل‌های دارای کیفیت بالا (High Definition)، سیستم یکپارچه کیف‌ها (One-bag روشن)، نمایش نشانه‌ها و نقاط ماموریت، Transmog فعال و چیدمان متمرکز صفحه."
+     ]
+    },
+    {
+     "t": "note",
+     "x": "اگر در انتخاب میان گزینه‌ها مردد هستید، حالت پیش‌فرض پیشنهادی Enhanced است. این تنظیمات اولیه را می‌توانید بعداً از طریق منوی Options در Game Menu تغییر دهید (کد بخش 62).",
+     "kind": "tip"
+    },
+    {
+     "t": "h",
+     "x": "انتخاب Ruleset و ساخت شخصیت"
+    },
+    "پیش از ساخت شخصیت باید یک Ruleset انتخاب کنید که نوع درگیری بازیکن در برابر بازیکن (PvP) و تعاملات را مشخص می‌کند. در زمان لانچ گزینه‌های Normal، PvP، Roleplay و Roleplay-PvP در دسترس هستند؛ در حالی که حالت چالش‌برانگیز Hardcore در آینده اضافه خواهد شد. کاراکترها تنها با هم‌گروهی‌ها در همان سرور و جناح (Alliance یا Horde) امکان بازی مشترک در دانجن‌ها و ریدها را دارند.",
+    "نژاد جدید Skyborne با خرید بسته Heroic Pack یا ارتقاهای بالاتر باز می‌شود و ماجراجویی خود را از منطقه Zephras Isle در بازه لول ۱ تا ۱۲ آغاز می‌کند. اعضای این نژاد در جناح هورد به کلاس Shaman و در جناح الاینس به کلاس Mage دسترسی دارند. همچنین سیستم نام‌گذاری در بازی بر پایه دو نام اصلی و ثانویه است که ترکیب آن در سراسر ریجن منحصر‌به‌فرد خواهد بود.",
+    {
+     "t": "h",
+     "x": "مبارزات، مرگ و بازگشت به زندگی"
+    },
+    "توانایی‌های کاراکتر با فشردن کلید P در Spellbook قابل مشاهده است و می‌توان آن‌ها را درون Action Bar چید. با پیشرفت لول باید به مربی کلاس مراجعه کرد. در صورت مرگ، کاراکتر به نزدیک‌ترین گورستان منتقل می‌شود؛ برای زنده‌شدن می‌توان به سمت جسد رفت یا با Spirit Healer صحبت کرد که گزینه دوم به دوام تجهیزات آسیب زده و اثر منفی Resurrection Sickness اعمال می‌کند.",
+    {
+     "t": "h",
+     "x": "مدیریت آیتم‌ها و مشاغل"
+    },
+    "تجهیزات به‌دست‌آمده از ماموریت‌ها یا دشمنان در پنل کاراکتر (کلید C) مشاهده و تعویض می‌شوند. آیتم‌هایی که رنگ نام آن‌ها خاکستری است ارزش کاربردی ندارند و بدون نگرانی به فروشندگان فروخته می‌شوند. با فشردن کلید K نیز پنجره مشاغل باز می‌شود؛ هر کاراکتر امکان یادگیری دو شغل اصلی (مانند Herbalism، Mining، Skinning برای جمع‌آوری، یا کارهایی چون Alchemy، Blacksmithing، Tailoring و غیره برای ساخت‌وساز) و هر سه شغل ثانویه Cooking، Fishing و First Aid را دارد.",
+    {
+     "t": "h",
+     "x": "پنج توصیه نهایی برای ماجراجویان"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "توضیحات (Tooltip) توانایی‌ها و متن ماموریت‌ها را با دقت مطالعه کنید.",
+      "سنگ بازگشت (Hearthstone) را همراه داشته باشید و با سر زدن به مسئولان پرواز، مسیرهای هوایی را باز کنید.",
+      "تجهیزات خود را تعمیر کرده و آیتم‌های اضافه را برای پس‌انداز بفروشید.",
+      "در ماموریت‌های سخت از دیگر بازیکنان کمک بگیرید.",
+      "اگر از کلاس خود رضایت نداشتید، کلاسی دیگر را امتحان کنید."
+     ]
+    }
+   ],
+   "tags_fa": [
+    "راهنمای بازی",
+    "بلیزارد",
+    "کلاسیک",
+    "آموزش"
+   ],
+   "items": [],
+   "title_en": "New Player’s Starter Guide for World of Warcraft: Forever",
+   "source_url": "https://www.wowhead.com/news=383632",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383632-new-player-s-starter-guide-for-world-of-warcraft-forever.html",
+   "published_at": "2026-10-28T17:05:34Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383632/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383632/1.jpg",
      "cap": ""
     }
    ]
@@ -3187,37 +3264,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383550,
-   "slug": "patch-12-1-7-ptr-development-notes-various-bug-fixes",
-   "title_fa": "یادداشت‌های توسعه PTR پچ ۱۲.۱.۷",
-   "lead_fa": "این هفته یادداشت‌های توسعه PTR پچ ۱۲.۱.۷ منتشر شد و فقط به رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه اشاره دارد.",
-   "body_fa": [
-    "پچ ۱۲.۱.۷ هفته گذشته به همراه PTR پیش‌نمایش خود را دریافت کرد.",
-    "این هفته PTR با رفع باگ‌های مختلف و به‌روزرسانی‌های پشت صحنه به‌روزرسانی شده است.",
-    "یادداشت‌های توسعه این هفته فقط شامل یک خط در این مورد است."
-   ],
-   "tags_fa": [
-    "PTR",
-    "12.1.7",
-    "Midnight"
-   ],
-   "items": [],
-   "title_en": "Patch 12.1.7 PTR Development Notes - Various Bug Fixes",
-   "source_url": "https://www.wowhead.com/news=383550",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383550-patch-12-1-7-ptr-development-notes-various-bug-fixes.html",
-   "published_at": "2026-10-22T23:04:49Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383550/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383550/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3234,13 +3280,6 @@
    "url": "https://www.wowhead.com/news=383648",
    "category": "Forever",
    "published_at": "2026-10-29T16:27:09Z"
-  },
-  {
-   "id": 383632,
-   "title_en": "New Player’s Starter Guide for World of Warcraft: Forever",
-   "url": "https://www.wowhead.com/news=383632",
-   "category": "Forever",
-   "published_at": "2026-10-28T17:05:34Z"
   },
   {
    "id": 383630,
