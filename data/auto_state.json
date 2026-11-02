@@ -19,110 +19,10 @@
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-02T19:47:55Z",
+ "updated_at": "2026-11-02T20:30:12Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383557",
-    "ts": "2026-10-25T20:01:46Z",
-    "path": "fallback",
-    "result": "published",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 138.4,
-    "attempts": 1
-   },
-   {
-    "id": "383523",
-    "ts": "2026-10-25T20:02:07Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 3,
-    "warns": 1,
-    "sec": 20.6,
-    "attempts": 2
-   },
-   {
-    "id": "383529",
-    "ts": "2026-10-25T20:22:37Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 2,
-    "warns": 0,
-    "sec": 9.4,
-    "attempts": 2
-   },
-   {
-    "id": "383529",
-    "ts": "2026-10-25T20:22:49Z",
-    "path": "fallback",
-    "result": "held",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 11.8,
-    "attempts": 1
-   },
-   {
-    "id": "383551",
-    "ts": "2026-10-25T20:23:00Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 1,
-    "warns": 1,
-    "sec": 10.7,
-    "attempts": 2
-   },
-   {
-    "id": "383552",
-    "ts": "2026-10-25T20:23:10Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 3,
-    "warns": 0,
-    "sec": 10.2,
-    "attempts": 2
-   },
-   {
-    "id": "383550",
-    "ts": "2026-10-25T20:43:39Z",
-    "path": "primary",
-    "result": "published",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 5.8,
-    "attempts": 2
-   },
-   {
-    "id": "383546",
-    "ts": "2026-10-25T20:43:55Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 4,
-    "warns": 1,
-    "sec": 15.1,
-    "attempts": 2
-   },
-   {
-    "id": "383546",
-    "ts": "2026-10-25T20:45:48Z",
-    "path": "fallback",
-    "result": "published",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 113.7,
-    "attempts": 1
-   },
-   {
-    "id": "383548",
-    "ts": "2026-10-25T20:46:08Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 2,
-    "warns": 1,
-    "sec": 19.1,
-    "attempts": 2
-   },
    {
     "id": "383542",
     "ts": "2026-10-25T21:06:45Z",
@@ -4021,6 +3921,106 @@
     "blocks": 0,
     "warns": 0,
     "sec": 134.8,
+    "attempts": 1
+   },
+   {
+    "id": "383695",
+    "ts": "2026-11-02T20:10:57Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 69.3,
+    "attempts": 1
+   },
+   {
+    "id": "383570",
+    "ts": "2026-11-02T20:11:51Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 54.3,
+    "attempts": 1
+   },
+   {
+    "id": "383561",
+    "ts": "2026-11-02T20:18:00Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 368.5,
+    "attempts": 1
+   },
+   {
+    "id": "383552",
+    "ts": "2026-11-02T20:19:03Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 63.8,
+    "attempts": 1
+   },
+   {
+    "id": "383543",
+    "ts": "2026-11-02T20:20:44Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 100.2,
+    "attempts": 1
+   },
+   {
+    "id": "383541",
+    "ts": "2026-11-02T20:21:53Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 69.5,
+    "attempts": 1
+   },
+   {
+    "id": "383487",
+    "ts": "2026-11-02T20:22:53Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 60.1,
+    "attempts": 1
+   },
+   {
+    "id": "383521",
+    "ts": "2026-11-02T20:27:58Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 304.5,
+    "attempts": 1
+   },
+   {
+    "id": "383519",
+    "ts": "2026-11-02T20:29:39Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 101.1,
+    "attempts": 1
+   },
+   {
+    "id": "383518",
+    "ts": "2026-11-02T20:30:12Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 32.9,
     "attempts": 1
    }
   ]
