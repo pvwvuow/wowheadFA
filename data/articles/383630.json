@@ -750,9 +750,9 @@
   }
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383630/1.jpg",
- "hold_reason": "«در بخش نظرات کاربران به مواردی مانند Patch 1.60.1، ۱۰٪، ۱۵، ۱۶، ۲۷، ۲۸ و ۸۰۰ اشاره شده است» — منبع هیچ اشاره‌ای به این اعداد و کامنت‌ها در مقاله ندارد و این‌ها از کامنت‌های کاربران استخراج شده‌اند که بخشی از خبر اصلی نیستند. | «اخبار مرتبط دیگری نیز در صفحه وجود دارد که شامل به‌روزرسانی‌های مختلف برای World of Warcraft: Forever می‌شود» — منبع فقط فهرست اخبار مرتبط را نشان می‌دهد و هیچ توصیف یا نت",
- "hold_count": 1,
- "hold_at": "2026-10-28T17:43:04Z",
+ "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
+ "hold_count": 2,
+ "hold_at": "2026-11-02T06:51:50Z",
  "last_rejected": {
   "title_fa": "انتشار قسمت اول مجموعه ویدیویی Planet Azeroth با گویندگی Bill Bailey",
   "lead_fa": "قسمت اول از مجموعه ویدیویی جدید Planet Azeroth در YouTube با راوی‌گری Bill Bailey منتشر شد و موجودات شاخص دنیای وارکرفت را معرفی می‌کند.",

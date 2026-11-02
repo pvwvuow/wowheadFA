@@ -2,46 +2,6 @@
  "day": "2026-11-02",
  "published_today": 2,
  "held": {
-  "383630": {
-   "reason": "G4 numbers from source missing in article: 13, 15, 16, 17, 18, 20, 2026, 22 | هشدار: 1",
-   "at": "2026-11-02T01:23:57Z",
-   "at_ts": 1793582637.176275
-  },
-  "383603": {
-   "reason": "در جدول آیتم‌ها، نام زره‌ها اشتباه نسبت داده شده است؛ منبع Miststalker's Brigandine را Cloth و Galerider's Byrnie را Leather و زره Mail را قبل از Galerider's Byrnie آورده است که در جدول جابه‌جا و اشتباه ذکر شده‌اند. | G3 long English run: H Str Axe\nPlate\nPledgebearer's Cuirass\nChest\nMail\nGalerider's Byrnie\nC... | G5 English token not in source: cuirass",
-   "at": "2026-11-02T01:30:12Z",
-   "at_ts": 1793583012.95475
-  },
-  "383562": {
-   "reason": "بند مربوط به بازخوردهای جامعه شامل اعداد ساختگی و نامربوطی مانند «15، 18، 21، 23» است که اصلاً در منبع یا کامنت‌ها وجود ندارند.",
-   "at": "2026-11-02T02:04:41Z",
-   "at_ts": 1793585081.909049
-  },
-  "383552": {
-   "reason": "G4 numbers from source missing in article: 11, 12, 12.1.0, 12.1.5, 12.1.7, 15, 18, 20",
-   "at": "2026-11-02T02:09:35Z",
-   "at_ts": 1793585375.383853
-  },
-  "383543": {
-   "reason": "G4 numbers from source missing in article: 10, 15, 18, 2026, 22, 30, 383543, 39",
-   "at": "2026-11-02T02:13:58Z",
-   "at_ts": 1793585638.28214
-  },
-  "383570": {
-   "reason": "G4 numbers from source missing in article: 10, 12.1.7, 14, 15, 17, 18, 20, 2026",
-   "at": "2026-11-02T02:48:13Z",
-   "at_ts": 1793587693.229293
-  },
-  "383568": {
-   "reason": "بخش پایانی مقاله (بلوک note) با آوردن محاسبات و ادعاهایی مانند پچ 12.1.7 و اقلام 18 یا 21 از بخش نظرات کاربران و خارج از متن اصلی خبر، اطلاعات نامربوط و ساختگی به عنوان محتوای خبر اضافه کرده است.",
-   "at": "2026-11-02T02:56:26Z",
-   "at_ts": 1793588186.328485
-  },
-  "383561": {
-   "reason": "ادعای «معادل ساعت 07:00 در برخی مناطق زمانی» در متن منبع نیامده و محاسبه زمانی من‌درآوردی است. | جمله یادداشت پایانی درباره «شناسه خبر 383561»، «کلاس تیونینگ پچ 12.1.5»، و ادعای «ارقام بررسی‌شده جامعه نظیر ۲۰، ۲۲، ۲۸ و ۱۵» ساختگی است و بر پایه اعداد و سرفصل‌های سایدبار و پانویس سایت سرهم شده است.",
-   "at": "2026-11-02T03:29:13Z",
-   "at_ts": 1793590153.510915
-  },
   "383632": {
    "reason": "G4 numbers from source missing in article: 62",
    "at": "2026-11-02T04:29:37Z",
@@ -66,10 +26,15 @@
    "reason": "بخش پایانی متن در قالب note با ذکر مواردی چون «ساعت‌های ۹، ۱۲، ۲۱ و ۲۲»، «امتیاز منفی ۵» و «لول‌های ۱۲، ۱۵ و ۱۶» اطلاعات نادرست و ساختگی از متادیتا و کامنت‌های کاربران ساخته است که در محتوای خبر وجود ندارد. | G4 numbers from source missing in article: 29",
    "at": "2026-11-02T05:03:22Z",
    "at_ts": 1793595802.19685
+  },
+  "383630": {
+   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
+   "at": "2026-11-02T06:51:50Z",
+   "at_ts": 1793602310.175178
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-02T05:03:22Z",
+ "updated_at": "2026-11-02T07:09:17Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -3132,6 +3097,96 @@
     "warns": 0,
     "sec": 569.0,
     "attempts": 2
+   },
+   {
+    "id": "383630",
+    "ts": "2026-11-02T06:51:50Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 368.9,
+    "attempts": 2
+   },
+   {
+    "id": "383603",
+    "ts": "2026-11-02T06:53:14Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 84.7,
+    "attempts": 1
+   },
+   {
+    "id": "383562",
+    "ts": "2026-11-02T06:59:16Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 362.0,
+    "attempts": 1
+   },
+   {
+    "id": "383570",
+    "ts": "2026-11-02T07:00:12Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 55.4,
+    "attempts": 1
+   },
+   {
+    "id": "383568",
+    "ts": "2026-11-02T07:01:07Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 55.0,
+    "attempts": 1
+   },
+   {
+    "id": "383561",
+    "ts": "2026-11-02T07:02:17Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 70.6,
+    "attempts": 1
+   },
+   {
+    "id": "383552",
+    "ts": "2026-11-02T07:07:30Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 312.2,
+    "attempts": 1
+   },
+   {
+    "id": "383543",
+    "ts": "2026-11-02T07:08:21Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 51.1,
+    "attempts": 1
+   },
+   {
+    "id": "383518",
+    "ts": "2026-11-02T07:09:17Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 56.0,
+    "attempts": 1
    }
   ]
  }
