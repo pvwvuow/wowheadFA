@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T19:48:23Z",
+ "generated": "2026-11-02T19:48:49Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3341,6 +3341,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383695,
+   "title_en": "Long Maintenance Planned Ahead of WoW: Forever Launch",
+   "url": "https://www.wowhead.com/news=383695",
+   "category": "Forever",
+   "published_at": "2026-11-02T18:25:59Z"
+  },
   {
    "id": 383657,
    "title_en": "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
