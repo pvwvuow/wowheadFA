@@ -2,11 +2,6 @@
  "day": "2026-11-02",
  "published_today": 2,
  "held": {
-  "383632": {
-   "reason": "G4 numbers from source missing in article: 62 | G6 space before punctuation",
-   "at": "2026-11-02T01:17:05Z",
-   "at_ts": 1793582225.883763
-  },
   "383630": {
    "reason": "G4 numbers from source missing in article: 13, 15, 16, 17, 18, 20, 2026, 22 | هشدار: 1",
    "at": "2026-11-02T01:23:57Z",
@@ -46,10 +41,35 @@
    "reason": "ادعای «معادل ساعت 07:00 در برخی مناطق زمانی» در متن منبع نیامده و محاسبه زمانی من‌درآوردی است. | جمله یادداشت پایانی درباره «شناسه خبر 383561»، «کلاس تیونینگ پچ 12.1.5»، و ادعای «ارقام بررسی‌شده جامعه نظیر ۲۰، ۲۲، ۲۸ و ۱۵» ساختگی است و بر پایه اعداد و سرفصل‌های سایدبار و پانویس سایت سرهم شده است.",
    "at": "2026-11-02T03:29:13Z",
    "at_ts": 1793590153.510915
+  },
+  "383632": {
+   "reason": "G4 numbers from source missing in article: 62",
+   "at": "2026-11-02T04:29:37Z",
+   "at_ts": 1793593777.954127
+  },
+  "383541": {
+   "reason": "ادعای «تست‌های ۹ ساعته تا ۱۸ ساعت فعالیت یا تغییرات ۱۵ درصدی لوت» ساختگی است و در متن منبع وجود ندارد. | هشدار: 1",
+   "at": "2026-11-02T04:39:17Z",
+   "at_ts": 1793594357.008848
+  },
+  "383487": {
+   "reason": "در متن مقاله آمده «سلاح لول 31 دارای 31 اسپل پاور است»، در حالی که منبع صراحتاً می‌گوید «A lvl 39 weapon has 31SP» (لول ۳۹ نه ۳۱). | G4 numbers from source missing in article: 100, 11, 22, 31.8, 383487, 40.6, 440, 50",
+   "at": "2026-11-02T04:49:09Z",
+   "at_ts": 1793594949.260871
+  },
+  "383521": {
+   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
+   "at": "2026-11-02T04:53:53Z",
+   "at_ts": 1793595233.192873
+  },
+  "383519": {
+   "reason": "بخش پایانی متن در قالب note با ذکر مواردی چون «ساعت‌های ۹، ۱۲، ۲۱ و ۲۲»، «امتیاز منفی ۵» و «لول‌های ۱۲، ۱۵ و ۱۶» اطلاعات نادرست و ساختگی از متادیتا و کامنت‌های کاربران ساخته است که در محتوای خبر وجود ندارد. | G4 numbers from source missing in article: 29",
+   "at": "2026-11-02T05:03:22Z",
+   "at_ts": 1793595802.19685
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-02T04:00:19Z",
+ "updated_at": "2026-11-02T05:03:22Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -3062,6 +3082,56 @@
     "warns": 0,
     "sec": 50.5,
     "attempts": 1
+   },
+   {
+    "id": "383632",
+    "ts": "2026-11-02T04:29:37Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 476.2,
+    "attempts": 2
+   },
+   {
+    "id": "383541",
+    "ts": "2026-11-02T04:39:17Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 1,
+    "sec": 579.1,
+    "attempts": 2
+   },
+   {
+    "id": "383487",
+    "ts": "2026-11-02T04:49:09Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 592.2,
+    "attempts": 2
+   },
+   {
+    "id": "383521",
+    "ts": "2026-11-02T04:53:53Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 283.9,
+    "attempts": 2
+   },
+   {
+    "id": "383519",
+    "ts": "2026-11-02T05:03:22Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 569.0,
+    "attempts": 2
    }
   ]
  }
