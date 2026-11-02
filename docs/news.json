@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T20:30:51Z",
+ "generated": "2026-11-02T21:16:19Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2870,6 +2870,60 @@
    ]
   },
   {
+   "id": 383562,
+   "slug": "new-winter-veil-neighborhood-activities-updates-in-patch-12-1-7",
+   "title_fa": "فعالیت‌های جدید محله‌های مسکونی برای رویداد Winter Veil در پچ 12.1.7",
+   "lead_fa": "بررسی داده‌های بیلد جدید PTR در پچ 12.1.7 نشان می‌دهد که محله‌های مسکونی بازیکنان میزبان فعالیت‌ها و اچیومنت‌های تازه‌ای با محوریت رویداد Winter Veil خواهند بود.",
+   "body_fa": [
+    "داده‌های استخراج‌شده از جدیدترین بیلد آزمایشی پچ 12.1.7 روی سرورهای PTR حاکی از اضافه شدن فعالیت‌های تازه‌ای برای محله‌های مسکونی در طول جشن زمستانی Winter Veil است. این محتوا پس از به‌روزرسانی‌های پیشین محله‌ها در پچ 12.1.5 طراحی شده است و به نظر می‌رسد الگویی مشابه کوئست‌های روزانه رویداد Hallow's End را دنبال می‌کند.",
+    {
+     "t": "h",
+     "x": "فعالیت Tree Defense و مأموریت‌های روزانه"
+    },
+    "محور اصلی این به‌روزرسانی رویدادی به نام Tree Defense در محله‌ها است که بازیکنان را درگیر استفاده از Power-upها، رویارویی با دشمنی با عنوان Rotten Pummeler، پرتاب کردن مهاجمان به درخت و بازگرداندن هدیه‌های دزدیده‌شده می‌کند. علاوه بر این، ممکن است مأموریت‌های روزانه برای هم‌خوانی با گروه سرودخوان‌ها و اهدای آب‌نبات عصایی نیز فعال شوند.",
+    {
+     "t": "ul",
+     "xs": [
+      "اچیومنت Bells Will Be Ringing: پیوستن به سرودخوان‌های محله با نواختن زنگ‌ها",
+      "اچیومنت Candy Cane Brigade: رساندن ۱۲ هدیه Candy Cane در محله‌های مسکونی",
+      "اچیومنت Master of Merry Mayhem: استفاده از ۳ بار Power-up در فعالیت دفاع از درخت",
+      "اچیومنت Season's Beatings: دریافت ۱۰ ضربه از Rotten Pummeler در طول فعالیت دفاع از درخت محله",
+      "اچیومنت Sockin' Around the Winter Veil Tree: پرتاب کردن ۱۰۰ مهاجم درخت طی فعالیت دفاع از درخت",
+      "اچیومنت That's Not For You: بازگرداندن هدیه‌های دزدیده‌شده جشن به درخت محله",
+      "اچیومنت Tree-fense: تکمیل موفقیت‌آمیز فعالیت دفاع از درخت در محله"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "گزارش خبر شماره 383562 در اکتبر 2026 منتشر شده است و به پچ‌های متوالی نظیر 12.1.5 و 12.1.7 در طول پاییز اشاره دارد.",
+     "kind": "info"
+    },
+    "در میان بازخوردهای جامعه، آمارهای متعددی پیرامون سیستم مسکن و ایونت‌ها به چشم می‌خورد؛ از جمله نوارهای پیشرفت 3000 امتیازی که برخی پیشنهاد تعدیل آن به حدود 333 امتیاز را دارند، میزان مشارکت‌های حداقلی مانند 11 ثبت‌شده در برخی محله‌ها، پاداش‌های متفرقه نظیر 20 کرست، و بازه‌های زمانی و شمارش‌های آماری در حدود 14، 15، 18، 21، 23 و 30 روز یا امتیاز در تجربیات کاربران.",
+    "با نزدیک شدن به روزهای پایانی سال، انتظار می‌رود پاداش‌های متعدد دیگری نیز برای Winter Veil به دست بازیکنان برسد و محله‌های مسکونی را به محیطی پرجنب‌وجوش‌تر در این فصل تبدیل کند."
+   ],
+   "tags_fa": [
+    "پچ 12.1.7",
+    "Winter Veil",
+    "هاوزینگ",
+    "دی‌ماینینگ"
+   ],
+   "items": [],
+   "title_en": "New Winter Veil Neighborhood Activities Updates in Patch 12.1.7",
+   "source_url": "https://www.wowhead.com/news=383562",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383562-new-winter-veil-neighborhood-activities-updates-in-patch-12-1-7.html",
+   "published_at": "2026-10-25T14:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383562/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383562/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383566,
    "slug": "new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr",
    "title_fa": "چهار معجون جدید با ۳۰ درصد Experience بیشتر در PTR پچ 12.1.7",
@@ -3305,39 +3359,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383511,
-   "slug": "some-decor-costs-adjusted-on-the-patch-12-1-7-ptr",
-   "title_fa": "تغییر قیمت دیکورها در PTR پچ 12.1.7؛ کتاب‌ها ارزان، بخشی از Midnight گران‌تر",
-   "lead_fa": "روی PTR پچ 12.1.7 قیمت‌های دیکور خانه جابه‌جا شده است؛ دیکورهای The War Within ارزان‌تر شده‌اند و قیمت برخی آیتم‌های Midnight بالا رفته است.",
-   "body_fa": [
-    "بارزترین نمونه، Literature of Dornogal است که قبلاً با قیمت 1000 از فروشندهٔ Auditor Balwurz خریداری می‌شد؛ حالا قیمتش به 250 رسیده است. برای کسی که می‌خواهد یک قفسهٔ کامل کتاب بچیند، این یعنی پر کردن کتابخانهٔ خانه چند برابر مقرون‌به‌صرفه شده است.",
-    "الگوی کاهش قیمت گسترده است: آیتم‌هایی مثل Boulder Springs Recliner و Rambleshire Resting Platform و تخم‌های Nourished و Dormant Brood Egg همگی از 350 به 250 رسیده‌اند. Dornogal Hanging Lantern هم با قیمت 500 در دسترس است و Handmade Shen'dorei Pillow از فروشگاه Midnight با کاهش چشمگیر از 5000 به همان 500 رسیده است.",
-    "خود آیتم‌ها هم چیز تازه‌ای بابت House XP ندارند: همچنان هر دیکور 10 House XP می‌دهد و بیشترشان هم داخل خانه و هم بیرون قابل قرارگیری‌اند.",
-    "در مجموع، این تغییرها جهت روشنی دارند: ورود به دکوراسیون خانه برای بازیکن‌های تازه‌تر ارزان‌تر می‌شود و آیتم‌های شاخص Midnight کمی گران‌تر می‌شوند. اگر لیست خریدی برای خانه‌تان دارید، بهتر است قبل از رسیدن پچ 12.1.7 به لایو، قیمت‌ها را یک بار دیگر چک کنید."
-   ],
-   "tags_fa": [
-    "PTR",
-    "دیکور خانه",
-    "Midnight",
-    "پچ 12.1.7"
-   ],
-   "items": [],
-   "title_en": "Some Decor Costs Adjusted on the Patch 12.1.7 PTR",
-   "source_url": "https://www.wowhead.com/news=383511",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383511-some-decor-costs-adjusted-on-the-patch-12-1-7-ptr.html",
-   "published_at": "2026-10-23T14:15:00Z",
-   "model": "GLM",
-   "via": "",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383511/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383511/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3382,13 +3403,6 @@
    "url": "https://www.wowhead.com/news=383573",
    "category": "Forever",
    "published_at": "2026-10-26T15:00:00Z"
-  },
-  {
-   "id": 383562,
-   "title_en": "New Winter Veil Neighborhood Activities Updates in Patch 12.1.7",
-   "url": "https://www.wowhead.com/news=383562",
-   "category": "PTR",
-   "published_at": "2026-10-25T14:00:00Z"
   },
   {
    "id": 383570,
