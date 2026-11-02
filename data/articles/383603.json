@@ -169,9 +169,9 @@
   }
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383603/1.jpg",
- "hold_reason": "G5 English token not in source: chest | G5 English token not in source: cuirass | G5 English token not in source: byrnie | fallback هم رد شد: writer error: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experie",
- "hold_count": 1,
- "hold_at": "2026-10-28T00:01:23Z",
+ "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
+ "hold_count": 2,
+ "hold_at": "2026-11-02T17:34:21Z",
  "last_rejected": {
   "title_fa": "دریافت نخستین آیتم Myth 2/6 از دانجن‌های Labyrinths ممکن شد",
   "lead_fa": "پس از گذشت سه ریست هفتگی از در دسترس قرار گرفتن Labyrinth of Kindo'jan، بازیکنان اکنون می‌توانند نخستین قطعه از تجهیزات Myth 2/6 را دریافت کنند.",
