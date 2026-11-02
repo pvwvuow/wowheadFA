@@ -1,27 +1,7 @@
 {
  "day": "2026-11-02",
- "published_today": 0,
+ "published_today": 2,
  "held": {
-  "383562": {
-   "reason": "خطای مدل در بازنویسی: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-   "at": "2026-11-01T22:11:10Z",
-   "at_ts": 1793571070.797218
-  },
-  "383552": {
-   "reason": "G4 numbers from source missing in article: 12, 12.1.0, 12.1.5, 12.1.7, 15, 18, 20, 2026",
-   "at": "2026-11-01T22:25:55Z",
-   "at_ts": 1793571955.560092
-  },
-  "383543": {
-   "reason": "خطای مدل در بازنویسی: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-   "at": "2026-11-01T22:35:30Z",
-   "at_ts": 1793572530.482782
-  },
-  "383530": {
-   "reason": "بخش note نظرات کاربران (کامنت‌ها) و تیترهای مقالات جانبی سایت مانند هاتفیکس ۳۰ اکتبر ۲۰۲۶ و قرارداد NetEase را به عنوان بخشی از رویداد و خبر رسمی ادغام و ادعا کرده است که در متن خبر اصلی وجود ندارد.",
-   "at": "2026-11-01T22:47:16Z",
-   "at_ts": 1793573236.686684
-  },
   "383487": {
    "reason": "G4 numbers from source missing in article: 22, 80",
    "at": "2026-11-01T22:59:42Z",
@@ -76,10 +56,25 @@
    "reason": "در جدول آیتم‌ها، نام زره‌ها اشتباه نسبت داده شده است؛ منبع Miststalker's Brigandine را Cloth و Galerider's Byrnie را Leather و زره Mail را قبل از Galerider's Byrnie آورده است که در جدول جابه‌جا و اشتباه ذکر شده‌اند. | G3 long English run: H Str Axe\nPlate\nPledgebearer's Cuirass\nChest\nMail\nGalerider's Byrnie\nC... | G5 English token not in source: cuirass",
    "at": "2026-11-02T01:30:12Z",
    "at_ts": 1793583012.95475
+  },
+  "383562": {
+   "reason": "بند مربوط به بازخوردهای جامعه شامل اعداد ساختگی و نامربوطی مانند «15، 18، 21، 23» است که اصلاً در منبع یا کامنت‌ها وجود ندارند.",
+   "at": "2026-11-02T02:04:41Z",
+   "at_ts": 1793585081.909049
+  },
+  "383552": {
+   "reason": "G4 numbers from source missing in article: 11, 12, 12.1.0, 12.1.5, 12.1.7, 15, 18, 20",
+   "at": "2026-11-02T02:09:35Z",
+   "at_ts": 1793585375.383853
+  },
+  "383543": {
+   "reason": "G4 numbers from source missing in article: 10, 15, 18, 2026, 22, 30, 383543, 39",
+   "at": "2026-11-02T02:13:58Z",
+   "at_ts": 1793585638.28214
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-02T01:30:12Z",
+ "updated_at": "2026-11-02T02:17:50Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -2922,6 +2917,56 @@
     "warns": 0,
     "sec": 375.8,
     "attempts": 2
+   },
+   {
+    "id": "383689",
+    "ts": "2026-11-02T01:59:37Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 443.5,
+    "attempts": 2
+   },
+   {
+    "id": "383562",
+    "ts": "2026-11-02T02:04:41Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 304.5,
+    "attempts": 2
+   },
+   {
+    "id": "383552",
+    "ts": "2026-11-02T02:09:35Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 293.5,
+    "attempts": 2
+   },
+   {
+    "id": "383543",
+    "ts": "2026-11-02T02:13:58Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 262.9,
+    "attempts": 2
+   },
+   {
+    "id": "383530",
+    "ts": "2026-11-02T02:17:50Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 1,
+    "sec": 232.3,
+    "attempts": 1
    }
   ]
  }

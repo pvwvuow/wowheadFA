@@ -1,8 +1,64 @@
 {
- "generated": "2026-11-02T01:31:23Z",
+ "generated": "2026-11-02T02:18:26Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383689,
+   "slug": "day-of-the-dead-celebrations-now-live",
+   "title_fa": "آغاز رویداد Day of the Dead در ورلد آو وارکرفت",
+   "lead_fa": "رویداد سالانهٔ Day of the Dead برای چند روز کوتاه فعال شده است و بازیکنان می‌توانند به آیتم‌های ترنسموگ، اسباب‌بازی‌ها و اچیومنت‌های ویژهٔ آن دسترسی پیدا کنند.",
+   "body_fa": [
+    "جشن‌های سالانهٔ Day of the Dead هم‌اکنون آغاز شده است و بازیکنان برای چند روز کوتاه فرصت دارند تا جوایز اختصاصی ترنسموگ، اچیومنت‌ها و اسباب‌بازی‌های این رویداد را جمع‌آوری کنند. امسال هیچ محتوای جدیدی به این مناسبت اضافه نشده است، بنابراین افرادی که در سال‌های قبل همهٔ موارد را کامل کرده‌اند، در صورت تمایل می‌توانند از این جشن‌ها صرف‌نظر کنند.",
+    "اگر آیتم‌های ماسک سال گذشته را به دست نیاورده‌اید، می‌توانید به گورستان شهرهای پایتخت بروید و از فروشندهٔ Chapman خرید کنید. همچنین Catrina کوئست کوتاهی برای بزرگداشت مردگان به شما می‌دهد.",
+    {
+     "t": "h",
+     "x": "ماسک‌ها و کلاه‌خودهای رویداد"
+    },
+    "فروشندهٔ رویداد مجموعه‌ای از آیتم‌های پوشیدنی شامل مدل‌های مختلف Crown of the Dead، ماسک‌های Deathmask و همچنین پوشش‌های Remembrance Veil را عرضه می‌کند که بر اساس گل‌های زیر نام‌گذاری شده‌اند:",
+    {
+     "t": "ul",
+     "xs": [
+      "انواع مدل‌های گل Heartblossom شامل کلاه، ماسک و تور",
+      "انواع مدل‌های گل Lotus شامل کلاه، ماسک و تور",
+      "انواع مدل‌های گل Marigold شامل کلاه، ماسک و تور",
+      "انواع مدل‌های گل Orchid شامل کلاه، ماسک و تور",
+      "انواع مدل‌های گل Starflower شامل کلاه، ماسک و تور"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "فرصتی مناسب برای اچیومنت‌های Calavera"
+    },
+    "این روزها بهترین زمان در تمام سال برای دریافت اچیومنت‌های Calavera به شمار می‌رود، چرا که بسیاری از بازیکنان در اطراف فروشندگان حضور دارند و مشغول مبارزه با لباس‌های مخصوص هستند. بیرون از این رویداد، پیدا کردن افراد برای تکمیل این اچیومنت‌ها دشوار است، هرچند تا زمانی که اسباب‌بازی‌های مورد نظر را داشته باشید امکان دریافت آن‌ها همچنان وجود دارد.",
+    {
+     "t": "note",
+     "x": "اگر به دنبال امتیاز اچیومنت آسان هستید، می‌توانید اسباب‌بازی‌های لباس مانند \"Blooming Rose\" Contender's Costume را بر تن کنید و وارد رقابت شوید.",
+     "kind": "tip"
+    }
+   ],
+   "tags_fa": [
+    "رویداد",
+    "Day of the Dead",
+    "اچیومنت",
+    "ترنسموگ"
+   ],
+   "items": [],
+   "title_en": "Day of the Dead Celebrations Now Live",
+   "source_url": "https://www.wowhead.com/news=383689",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383689-day-of-the-dead-celebrations-now-live.html",
+   "published_at": "2026-11-02T00:24:21Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383689/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383689/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383685,
    "slug": "planet-azeroth-episode-2-ft-bill-bailey",
@@ -3162,48 +3218,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383546,
-   "slug": "blizzard-teases-raid-philosophy-and-encounters-for-wow-forever",
-   "title_fa": "جزئیات فلسفه طراحی ریدها و باس‌های WoW: Forever",
-   "lead_fa": "توسعه‌دهندگان بلیزارد در پادکست اخیر خود به بررسی رویکرد طراحی محتوای PvE و میزان سختی ریدها در WoW: Forever پرداختند.",
-   "body_fa": [
-    "مایکل نوتالز (Michael Nuthals)، طراح ارشد انکانترها، در پادکست جدید Blizzard نحوه متعادل‌سازی سختی نبردها و دسترسی‌پذیری آن‌ها را شرح داد. به گفته او، هدف تیم این است که بازیکنان حس راحتی در همراه آوردن دوستانشان داشته باشند؛ فضایی که او آن را به همراهی با تنقلات و نوشیدنی تشبیه می‌کند تا در صورت آمادگی گروه، چالش پشت سر گذاشته شود و پاداش‌هایی به دست آید.",
-    "نوتالز بر اهمیت ایجاد تعادل در پیچیدگی مکانیک‌ها تأکید کرد. تیم توسعه با اتکا به بررسی‌های تیم QA، بازخورد تسترها را دریافت می‌کند تا از مکانیک‌های خسته‌کننده یا اضافه کردن پیچیدگی‌های بیش از حد و چالش افراطی جلوگیری کند. در عین حال، هماهنگی میان اعضای گروه چه از طریق چت صوتی و چه با استفاده از سیستم ping و هشدارهای داخل بازی همچنان برای موفقیت الزامی خواهد بود.",
-    "این طراح ارشد همچنین به چند نمونه از نبردهای مورد علاقه خود در تایر اول ریدهای ۱۰ و ۲۰ نفره اشاره کرد؛ از جمله انکانتری در Barrow Deeps که نیازمند مدیریت یک buff برای افزایش damage در ازای پرداخت هزینه‌ای مشخص است، باسی متشکل از دو عنکبوت، و یک باس crocalisk نامرده در Hyjal Summit که موجود تسخیرکننده آن بیرون می‌آید و جریان نبرد میان این دو فاز در رفت‌وآمد خواهد بود.",
-    "در پایان، نوتالز به محتوای اینستنس آینده اشاره کرد و از سازه‌ای شبیه به خانه یا عمارت نام برد؛ موضوعی که احتمالاً به نسخه بازطراحی‌شده Manor Mistmantle که بازیکنان در منطقه Duskwood پیدا کرده‌اند اشاره دارد."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "رید",
-    "بلیزارد"
-   ],
-   "items": [],
-   "title_en": "Blizzard Teases Raid Philosophy and Encounters for WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383546",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383546-blizzard-teases-raid-philosophy-and-encounters-for-wow-forever.html",
-   "published_at": "2026-10-22T20:38:25Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "grok-4.20-0309-non-reasoning",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383546/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383546/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383689,
-   "title_en": "Day of the Dead Celebrations Now Live",
-   "url": "https://www.wowhead.com/news=383689",
-   "category": "Live",
-   "published_at": "2026-11-02T00:24:21Z"
-  },
   {
    "id": 383657,
    "title_en": "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
@@ -3308,13 +3325,6 @@
    "url": "https://www.wowhead.com/news=383540",
    "category": "Forever",
    "published_at": "2026-10-22T16:21:06Z"
-  },
-  {
-   "id": 383530,
-   "title_en": "Dalaran Recreated at 1:1 Scale for WoW: Forever Celebration in China",
-   "url": "https://www.wowhead.com/news=383530",
-   "category": "Forever",
-   "published_at": "2026-10-22T14:00:00Z"
   },
   {
    "id": 383487,
