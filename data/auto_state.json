@@ -2,21 +2,6 @@
  "day": "2026-11-02",
  "published_today": 2,
  "held": {
-  "383521": {
-   "reason": "G4 numbers from source missing in article: 1.60.1, 10, 12, 16, 20, 2026, 21, 22",
-   "at": "2026-11-02T00:29:17Z",
-   "at_ts": 1793579357.609968
-  },
-  "383519": {
-   "reason": "G4 numbers from source missing in article: 10, 12.1.7, 15, 16, 20, 2026, 21, 22",
-   "at": "2026-11-02T00:39:50Z",
-   "at_ts": 1793579990.988699
-  },
-  "383518": {
-   "reason": "بخش پایانی کادر نکته مواردی از قبیل نظرات کاربران دربارهٔ ۱۰ سنگ، تاریخچهٔ دیدگاه‌ها (۱۲ و ۱۳ روز پیش از میان ۱۵ دیدگاه)، پچ 12.1.7 و اخبار جانبی ۱۸ ساعت پیش را که جزو سایدبار و بخش نظرات صفحه هستند به عنوان فکت‌های متن اصلی خبر مطرح کرده است. | G4 numbers from source missing in article: 16, 20, 2026, 21, 23, 30, 383518, 56 | هشدار: 1",
-   "at": "2026-11-02T00:48:09Z",
-   "at_ts": 1793580489.889885
-  },
   "383632": {
    "reason": "G4 numbers from source missing in article: 62 | G6 space before punctuation",
    "at": "2026-11-02T01:17:05Z",
@@ -64,7 +49,7 @@
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-02T03:30:58Z",
+ "updated_at": "2026-11-02T04:00:19Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -3026,6 +3011,56 @@
     "blocks": 0,
     "warns": 0,
     "sec": 45.3,
+    "attempts": 1
+   },
+   {
+    "id": "383541",
+    "ts": "2026-11-02T03:53:08Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 44.0,
+    "attempts": 1
+   },
+   {
+    "id": "383487",
+    "ts": "2026-11-02T03:57:39Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 271.7,
+    "attempts": 1
+   },
+   {
+    "id": "383521",
+    "ts": "2026-11-02T03:58:29Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 49.9,
+    "attempts": 1
+   },
+   {
+    "id": "383519",
+    "ts": "2026-11-02T03:59:28Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 59.2,
+    "attempts": 1
+   },
+   {
+    "id": "383518",
+    "ts": "2026-11-02T04:00:19Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 50.5,
     "attempts": 1
    }
   ]
