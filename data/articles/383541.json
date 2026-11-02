@@ -780,9 +780,9 @@
   }
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383541/1.jpg",
- "hold_reason": "G4 numbers from source missing in article: 12, 20",
- "hold_count": 1,
- "hold_at": "2026-10-27T22:48:05Z",
+ "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
+ "hold_count": 2,
+ "hold_at": "2026-11-02T14:29:00Z",
  "last_rejected": {
   "title_fa": "آغاز جشن ۲۴ ساعته پایان بتای WoW: Forever با حضور Azuregos و Kazzak",
   "lead_fa": "شرکت Blizzard جشن ۲۴ ساعته پایان دوره بتای WoW: Forever را در چندین منطقه آغاز کرد؛ رویدادی که با باس‌های جهانی و تغییرات موقت همراه است.",
