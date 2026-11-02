@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T23:24:30Z",
+ "generated": "2026-11-02T23:45:41Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3362,6 +3362,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383699,
+   "title_en": "New Druid and Rogue Passive Reduces Energy Cost on A First Strike",
+   "url": "https://www.wowhead.com/news=383699",
+   "category": "Forever",
+   "published_at": "2026-11-02T23:18:08Z"
+  },
   {
    "id": 383696,
    "title_en": "Xbox UK Confirms WoW: Forever Not Coming to Xbox in November",
