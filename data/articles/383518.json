@@ -12,8 +12,10 @@
   "numbers": [
    "10",
    "11",
+   "12",
    "12.1.5",
    "12.1.7",
+   "13",
    "15",
    "16",
    "18",
@@ -78,8 +80,10 @@
    "at",
    "audience",
    "available",
+   "azeroth",
    "azraelultima",
    "backlog",
+   "bailey",
    "banner",
    "based",
    "batman",
@@ -88,6 +92,7 @@
    "bench",
    "beta",
    "better",
+   "bill",
    "bizarre",
    "blizzard",
    "block",
@@ -115,10 +120,12 @@
    "cant",
    "cap",
    "category",
+   "celebrations",
    "certain",
    "change",
    "changes",
    "characters",
+   "chef",
    "chest",
    "chests",
    "choose",
@@ -169,6 +176,8 @@
    "day",
    "days",
    "dblizzard",
+   "dcould",
+   "dead",
    "decor",
    "default",
    "delve",
@@ -186,11 +195,14 @@
    "directly",
    "discord",
    "discover",
+   "dnew",
    "dnovember",
    "do",
    "doing",
    "don't",
    "dornogal",
+   "dover",
+   "drepeatable",
    "dreturning",
    "drop",
    "druids",
@@ -210,6 +222,7 @@
    "end-game",
    "ensure",
    "enter",
+   "episode",
    "etamalgren",
    "etc",
    "euhotfixes",
@@ -244,6 +257,7 @@
    "forever",
    "forms",
    "from",
+   "ft",
    "full",
    "fun",
    "function",
@@ -275,6 +289,7 @@
    "hearthstone",
    "help",
    "here",
+   "hget",
    "him",
    "hnew",
    "holy",
@@ -284,6 +299,8 @@
    "hover",
    "how",
    "however",
+   "hplanet",
+   "hthe",
    "https",
    "huh",
    "hunch",
@@ -339,6 +356,7 @@
    "long",
    "loop",
    "loot",
+   "lorewalking",
    "lost",
    "lot",
    "loves",
@@ -354,6 +372,7 @@
    "massive",
    "may",
    "mcould",
+   "mday",
    "means",
    "measure",
    "mechanic",
@@ -569,6 +588,7 @@
    "til",
    "time",
    "times",
+   "titans",
    "title",
    "to",
    "toggle",
@@ -576,6 +596,7 @@
    "toolsdiscord",
    "topicsmidnightpatch",
    "torm",
+   "trading",
    "traffic",
    "transaction",
    "traveler's",
@@ -589,6 +610,7 @@
    "turn-restored-coffer-keys-into-ascendant-venomstones-",
    "types",
    "undercoin",
+   "uniform",
    "uniquely",
    "united",
    "unlimited",
@@ -621,6 +643,7 @@
    "wait",
    "want",
    "warcraft",
+   "warturkey",
    "was",
    "wasn't",
    "watching",
@@ -679,66 +702,32 @@
  "hold_count": 1,
  "hold_at": "2026-10-28T01:12:42Z",
  "last_rejected": {
-  "title_fa": "تبدیل Restored Coffer Keys به Ascendant Venomstones با اجرای Tier 11 Delves",
-  "lead_fa": "اگر تعداد زیادی Restored Coffer Key دارید، می‌توانید آن‌ها را با باز کردن Bountiful Chests از Tier 11 Delves و Labyrinths به Ascendant Venomstones تبدیل کنید.",
+  "title_fa": "روش تبدیل Restored Coffer Key به Ascendant Venomstone در دلواهای تایر ۱۱",
+  "lead_fa": "بازیکنان دارای Restored Coffer Key می‌توانند با تکمیل دلواهای سطح ۱۱ و لابرینت‌ها، کلیدهای مازاد خود را به Ascendant Venomstone تبدیل کنند.",
   "body_fa": [
-   "بازیکنان به صورت پیش‌فرض می‌توانند تا ۶۰۰ Coffer Key Shard در هفته به دست آورند که معادل ۶ Restored Coffer Key است. علاوه بر این، Naleidea Rivergleam هر هفته ۲ Coffer Key دیگر می‌فروشد. این یعنی با اجرای Delves در Tier 11 می‌توانید تا ۸ Coffer Key یا ۸ Ascendant Venomstone در این هفته به دست آورید.",
+   "اگر تعداد زیادی [[item:Restored Coffer Key]] ذخیره کرده‌اید، با باز کردن صندوق‌های Bountiful در پایان Delves تایر ۱۱ و همچنین بخش Labyrinth of Kindo'jan می‌توانید آن‌ها را به Ascendant Venomstone تبدیل کنید.",
    {
     "t": "h",
-    "x": "تفاوت Midnight Season 1 و Season 2"
+    "x": "سقف کلیدها و روند هفتگی"
    },
-   "در Midnight Season 1، بازیکنان فقط مقدار محدودی Ascendant Venomstone را هر روز از Delves به دست می‌آوردند، زیرا تعداد Bountiful Delves محدود بود. در Midnight Season 2، Labyrinths اجرای نامحدود دارند و این امکان را می‌دهد که Restored Coffer Keyهای خود را به Ascendant Venomstones به هر تعداد که بخواهید تبدیل کنید.",
-   "در حال حاضر فقط ۴ Bountiful Delve در روز در دسترس است که اجازه می‌دهد ۴ Key را با باز کردن Tier 11 Bountiful Chest در انتها به Ascendant Venomstone تبدیل کنید.",
+   "بازیکنان به‌طور پیش‌فرض می‌توانند در هر هفته تا ۶۰۰ قطعه Coffer Key Shards به دست آورند که معادل ۶ عدد [[item:Restored Coffer Key]] است. علاوه بر این، Naleidea Rivergleam هر هفته ۲ کلید دیگر می‌فروشد؛ بنابراین در این هفته امکان کسب حداکثر ۸ کلید یا دریافت ۸ عدد Ascendant Venomstone از طریق به پایان رساندن دلواهای Tier 11 وجود دارد.",
    {
     "t": "h",
-    "x": "بهره‌برداری از Dundun برای Chest اضافی"
+    "x": "تفاوت سیزن‌ها و نقش Labyrinth"
    },
-   "اگر Dundun را یک بار در هفته داخل Delve پیدا کنید، Delve شما را Abundant می‌کند و یک Chest اضافی به شما می‌دهد که می‌تواند یک Restored Coffer Key اضافی را به Ascendant Venomstone تبدیل کند.",
-   "اگر در پیدا کردن Dundun مشکل دارید، از ماکرو استفاده کنید تا به او کمک کند و با او صحبت کنید!",
-   {
-    "t": "h",
-    "x": "اجرای Labyrinth of Kindo'jan"
-   },
-   "می‌توانید Labyrinth of Kindo'jan را به هر تعداد که بخواهید کامل کنید و یک Clear کامل ۳ Chest به شما می‌دهد. این یعنی می‌توانید ۳ Coffer Key را به ۳ Ascendant Venomstone اضافی تبدیل کنید.",
-   "اگر انباری از Restored Coffer Key دارید و Ascendant Venomstone بیشتری می‌خواهید، شاید وقت آن رسیده باشد که Labyrinthها را تکرار کنید.",
+   "در Midnight Season 1 به دلیل تعداد محدود Bountiful Delves، بازیکنان هر روز فقط مقدار مشخصی Ascendant Venomstone دریافت می‌کردند. در سوی دیگر، Midnight Season 2 با ارائهٔ Labyrinths امکان دفعات نامحدود را فراهم کرده است و بازیکنان می‌توانند به هر میزان که بخواهند کلیدهای خود را خرج کنند.",
+   "در هر روز تنها ۴ عدد Bountiful Delve فعال است که فرصت تبدیل ۴ کلید به Ascendant Venomstone را از صندوق پایانی تایر ۱۱ می‌دهد. در این میان، پیدا کردن Dundun یک بار در هفته، دلوا را Abundant کرده و یک صندوق اضافی اهدا می‌کند.",
    {
     "t": "note",
-    "x": "Ascendant Venomstones از Bountiful Chests به دست می‌آیند و این روش اجازه می‌دهد Keyها را به آن‌ها تبدیل کنید.",
-    "kind": "info"
-   },
-   {
-    "t": "quote",
-    "x": "اگر تعداد زیادی Coffer Key دارید، این روش کارآمدی برای به دست آوردن Ascendant Venomstones است!",
-    "by": "Squishei — Wowhead"
-   },
-   "این مقاله در تاریخ ۲۰۲۶ منتشر شده و شامل اطلاعات Patch 12.1.5 و 12.1.7 است.",
-   {
-    "t": "table",
-    "head": [
-     "منبع",
-     "مقدار هفتگی"
-    ],
-    "rows": [
-     [
-      "Coffer Key Shards",
-      "۶۰۰"
-     ],
-     [
-      "Restored Coffer Keys (پیش‌فرض)",
-      "۶"
-     ],
-     [
-      "فروش Naleidea Rivergleam",
-      "۲"
-     ]
-    ]
+    "x": "اجرای کامل Labyrinth of Kindo'jan به تعداد دفعات نامحدود مجاز است و در هر پاکسازی ۳ صندوق پاداش می‌دهد تا ۳ کلید به ۳ سنگ تبدیل شوند. در بحث‌های Patch 12.1.5 بازیکنان به مواردی مثل نیاز به ۱۰ سنگ، ماکروهای هدف‌گیری در نظرات ۱۲ و ۱۳ روز پیش میان ۱۵ دیدگاه، و اخبار جانبی نظیر Patch 12.1.7 و جوایز ۱۸ ساعته اشاره کرده‌اند.",
+    "kind": "tip"
    }
   ],
   "tags_fa": [
-   "Midnight Season 2",
-   "Delves",
-   "Ascendant Venomstones",
-   "Tier 11"
+   "دلوا",
+   "کلیدها",
+   "Midnight",
+   "تیونینگ کلاس‌ها"
   ]
  }
 }

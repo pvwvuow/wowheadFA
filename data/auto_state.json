@@ -1,6 +1,6 @@
 {
- "day": "2026-11-01",
- "published_today": 8,
+ "day": "2026-11-02",
+ "published_today": 0,
  "held": {
   "383632": {
    "reason": "G3 long English run: you choose a Ruleset before you create your character based on the typ... | G3 long English run: with the risk of being attacked by opposing players through much of th... | G3 long English run: Enter a community with naming and behavior rules intended for players ... | هشدار: 1",
@@ -61,10 +61,25 @@
    "reason": "G4 numbers from source missing in article: 15, 18 | هشدار: 1",
    "at": "2026-11-01T23:58:36Z",
    "at_ts": 1793577516.627643
+  },
+  "383521": {
+   "reason": "G4 numbers from source missing in article: 1.60.1, 10, 12, 16, 20, 2026, 21, 22",
+   "at": "2026-11-02T00:29:17Z",
+   "at_ts": 1793579357.609968
+  },
+  "383519": {
+   "reason": "G4 numbers from source missing in article: 10, 12.1.7, 15, 16, 20, 2026, 21, 22",
+   "at": "2026-11-02T00:39:50Z",
+   "at_ts": 1793579990.988699
+  },
+  "383518": {
+   "reason": "بخش پایانی کادر نکته مواردی از قبیل نظرات کاربران دربارهٔ ۱۰ سنگ، تاریخچهٔ دیدگاه‌ها (۱۲ و ۱۳ روز پیش از میان ۱۵ دیدگاه)، پچ 12.1.7 و اخبار جانبی ۱۸ ساعت پیش را که جزو سایدبار و بخش نظرات صفحه هستند به عنوان فکت‌های متن اصلی خبر مطرح کرده است. | G4 numbers from source missing in article: 16, 20, 2026, 21, 23, 30, 383518, 56 | هشدار: 1",
+   "at": "2026-11-02T00:48:09Z",
+   "at_ts": 1793580489.889885
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-01T23:58:36Z",
+ "updated_at": "2026-11-02T00:48:09Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -2846,6 +2861,36 @@
     "blocks": 1,
     "warns": 1,
     "sec": 534.6,
+    "attempts": 2
+   },
+   {
+    "id": "383521",
+    "ts": "2026-11-02T00:29:17Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 555.4,
+    "attempts": 2
+   },
+   {
+    "id": "383519",
+    "ts": "2026-11-02T00:39:50Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 633.4,
+    "attempts": 2
+   },
+   {
+    "id": "383518",
+    "ts": "2026-11-02T00:48:09Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 1,
+    "sec": 498.9,
     "attempts": 2
    }
   ]

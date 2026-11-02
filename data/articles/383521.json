@@ -12,6 +12,7 @@
   "numbers": [
    "1.60.1",
    "10",
+   "12",
    "16",
    "20",
    "2026",
@@ -29,8 +30,10 @@
    "about",
    "according",
    "account",
+   "across",
    "actions",
    "activity",
+   "ad",
    "ad-freemore",
    "add",
    "additional",
@@ -40,11 +43,14 @@
    "ads",
    "ads.keep",
    "adult",
+   "advertiser",
    "advertising",
    "adverts",
+   "advisit",
    "affect",
    "after",
    "aggregated",
+   "ago",
    "agopatch",
    "agree",
    "alert",
@@ -71,6 +77,7 @@
    "azeroth",
    "back",
    "background",
+   "bailey",
    "banner",
    "based",
    "battle.net",
@@ -84,6 +91,7 @@
    "beta",
    "betas",
    "between",
+   "bill",
    "blizzard",
    "block",
    "blue",
@@ -94,6 +102,8 @@
    "bst",
    "build",
    "building",
+   "business",
+   "businesses",
    "but",
    "by",
    "calculatortier",
@@ -121,6 +131,7 @@
    "cohosts",
    "collect",
    "collected",
+   "colorado",
    "coming",
    "comment",
    "communicating",
@@ -129,11 +140,13 @@
    "compensating",
    "confirm",
    "confirmed",
+   "connecticut",
    "conspiracy",
    "consumer",
    "contact",
    "contains",
    "content",
+   "continue",
    "controls",
    "cookie",
    "cookies",
@@ -151,6 +164,7 @@
    "day",
    "days",
    "dblizzard",
+   "dcould",
    "default",
    "definitely",
    "demo",
@@ -161,6 +175,7 @@
    "devastation",
    "deverything",
    "device",
+   "devices",
    "dforced",
    "did",
    "didn't",
@@ -170,8 +185,10 @@
    "discover",
    "do",
    "doing",
+   "dover",
    "download",
    "downtime",
+   "drepeatable",
    "dreturn",
    "drop",
    "druids",
@@ -222,6 +239,7 @@
    "friend",
    "from",
    "frustrating",
+   "ft",
    "fun",
    "function",
    "functioning",
@@ -260,6 +278,7 @@
    "hover",
    "how",
    "however",
+   "hplanet",
    "https",
    "huh",
    "i",
@@ -360,6 +379,7 @@
    "normally",
    "north",
    "not",
+   "notice",
    "notifications",
    "november",
    "now",
@@ -404,6 +424,7 @@
    "personalized",
    "personally",
    "phase",
+   "platform",
    "play",
    "playable",
    "played",
@@ -429,6 +450,7 @@
    "previous",
    "privacy",
    "problem",
+   "processing",
    "profile",
    "prompt",
    "prompting",
@@ -511,6 +533,7 @@
    "squishei",
    "start",
    "starts",
+   "states",
    "stay",
    "still",
    "stops",
@@ -578,6 +601,7 @@
    "types",
    "under",
    "uniquely",
+   "united",
    "until",
    "up",
    "updates",
@@ -591,9 +615,12 @@
    "usprepare",
    "usually",
    "usworld",
+   "utah",
    "valid",
    "version",
    "via",
+   "video",
+   "virginia",
    "visit",
    "visited",
    "visitors",
@@ -603,6 +630,7 @@
    "wanted",
    "warcraft",
    "was",
+   "watching",
    "way",
    "we",
    "we're",
@@ -610,6 +638,7 @@
    "web",
    "webhook",
    "website",
+   "websitego",
    "weekly",
    "weeks",
    "well",
@@ -654,59 +683,26 @@
  "hold_count": 1,
  "hold_at": "2026-10-27T21:55:13Z",
  "last_rejected": {
-  "title_fa": "بتای WoW: Forever برای استرس تست آفلاین می‌شود",
-  "lead_fa": "بلیزارد اعلام کرده که بتای WoW: Forever به‌زودی آفلاین خواهد شد تا برای استرس تست امروز آماده شود.",
+  "title_fa": "خاموش شدن سرورهای بتای WoW Forever برای تست استرس",
+  "lead_fa": "شرکت Blizzard اعلام کرد که بتای WoW Forever به زودی برای آماده‌سازی جهت اجرای آزمون استرس از دسترس خارج می‌شود.",
   "body_fa": [
-   "بتای WoW: Forever ظرف چند دقیقه آینده آفلاین می‌شود. در این منطقه، استرس تست ساعت ۲:۰۰ بعدازظهر به وقت PDT آغاز خواهد شد.",
-   "برای آماده‌سازی، به اپلیکیشن Battle.net مراجعه کنید و Stress Test را در بخش انتخاب نسخه بازی روی صفحه WoW Forever پیدا کنید.",
+   "طبق اعلام رسمی، سرورهای بتای WoW Forever برای آماده‌سازی مرحله تست استرس (Stress Test) به زودی و ظرف چند دقیقه خاموش خواهند شد.",
    {
     "t": "h",
-    "x": "زمان‌بندی استرس تست"
+    "x": "زمان‌بندی و نحوه دسترسی"
    },
-   "استرس تست در زمان‌های متفاوتی برای مناطق مختلف آغاز می‌شود.",
-   {
-    "t": "table",
-    "head": [
-     "منطقه",
-     "زمان شروع"
-    ],
-    "rows": [
-     [
-      "North America",
-      "۲:۰۰ p.m. PDT"
-     ]
-    ]
-   },
+   "در این منطقه، تست استرس راس ساعت 2:00 بعدازظهر به وقت PDT آغاز می‌گردد.",
    {
     "t": "note",
-    "x": "این استرس تست روی نسخه ۱.۶۰.۱ اجرا می‌شود.",
+    "x": "برای آماده‌سازی و ورود به این تست، به برنامه Battle.net بروید و در صفحه بازی WoW Forever گزینه Stress Test را از منوی Game Version انتخاب کنید.",
     "kind": "info"
-   },
-   "World of Warcraft Retail Content Manager",
-   {
-    "t": "quote",
-    "x": "بلیزارد اعلام کرده که بتای WoW: Forever به‌زودی آفلاین خواهد شد تا برای استرس تست امروز آماده شود.",
-    "by": "Blizzard"
-   },
-   "این خبر با شناسه ۳۸۳۵۲۱ در پایگاه داده Wowhead ثبت شده است.",
-   "در ۱۶ ساعت گذشته اخبار متعددی درباره Forever منتشر شده از جمله هاتفیکس‌های ۳۰ اکتبر ۲۰۲۶.",
-   "در ۲۱ و ۲۲ ساعت گذشته نیز اخبار لانچ جهانی Forever در ۴ نوامبر ۲۰۲۶ منتشر شده است.",
-   "در ۲۷ دقیقه گذشته نیز مطلبی درباره تکرار کوئست تجربه و رفع اکسپلویت آن منتشر شده است.",
-   {
-    "t": "ul",
-    "xs": [
-     "بیش از ۸ میلیون کاراکتر در بتای Forever ساخته شده است",
-     "تغییرات بزرگ درخت استعداد درود و پالادین‌ها",
-     "مشکلات لایه‌بندی در حال برطرف شدن است"
-    ]
-   },
-   "بسیاری از بازیکنان در کامنت‌ها از مشکلات ورود به سرورها و صفحه انتخاب ruleset گزارش داده‌اند."
+   }
   ],
   "tags_fa": [
-   "Forever",
-   "استرس تست",
+   "WoW Forever",
+   "Stress Test",
    "بتا",
-   "هاتفیکس"
+   "Blizzard"
   ]
  }
 }

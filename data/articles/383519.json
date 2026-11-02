@@ -41,6 +41,7 @@
    "account",
    "achievement",
    "achievements",
+   "across",
    "actions",
    "activity",
    "ad",
@@ -103,7 +104,9 @@
    "at",
    "availability",
    "available",
+   "azeroth",
    "back",
+   "bailey",
    "banner",
    "based",
    "battle",
@@ -122,6 +125,7 @@
    "beyond",
    "big",
    "biggest",
+   "bill",
    "blindfolds",
    "bliz",
    "blizzard",
@@ -144,6 +148,8 @@
    "build",
    "bunmover",
    "burning",
+   "business",
+   "businesses",
    "but",
    "by",
    "bypassing",
@@ -165,6 +171,7 @@
    "characters",
    "checkpoints",
    "cheese",
+   "chef",
    "chest",
    "choose",
    "chr",
@@ -184,6 +191,7 @@
    "collect",
    "collected",
    "collision",
+   "colorado",
    "combat",
    "coming",
    "comment",
@@ -196,6 +204,7 @@
    "completion",
    "conduit",
    "conduits",
+   "connecticut",
    "conquest",
    "considered",
    "consumer",
@@ -225,10 +234,12 @@
    "d",
    "damage",
    "dang",
+   "data",
    "date",
    "day",
    "days",
    "dblizzard",
+   "dcould",
    "debuff",
    "decor",
    "def",
@@ -242,6 +253,7 @@
    "destroy",
    "devastation",
    "device",
+   "devices",
    "dh",
    "did",
    "didn't",
@@ -252,6 +264,7 @@
    "discover",
    "discovery",
    "dk",
+   "dnew",
    "dnovember",
    "do",
    "dodge",
@@ -261,7 +274,9 @@
    "done",
    "dornogal",
    "double",
+   "dover",
    "draw",
+   "drepeatable",
    "dreturning",
    "drop",
    "druids",
@@ -292,6 +307,7 @@
    "enter",
    "environment",
    "epic",
+   "episode",
    "equipment",
    "equipped",
    "era",
@@ -338,6 +354,7 @@
    "forms",
    "fr",
    "from",
+   "ft",
    "full",
    "fully",
    "fun",
@@ -382,6 +399,7 @@
    "here",
    "heroic",
    "herself",
+   "hget",
    "hibernation",
    "him",
    "his",
@@ -395,6 +413,8 @@
    "how",
    "however",
    "hp",
+   "hplanet",
+   "hthe",
    "https",
    "hunter",
    "i",
@@ -481,6 +501,7 @@
    "longer",
    "loop",
    "loot",
+   "lorewalking",
    "lost",
    "lot",
    "loves",
@@ -545,6 +566,7 @@
    "non-raid",
    "normal",
    "not",
+   "notice",
    "notifications",
    "november",
    "now",
@@ -630,6 +652,7 @@
    "preventing",
    "previous",
    "privacy",
+   "processing",
    "profile",
    "progress",
    "promotes",
@@ -754,6 +777,7 @@
    "st",
    "stacking",
    "stage",
+   "states",
    "stats",
    "stay",
    "still",
@@ -813,6 +837,7 @@
    "through",
    "tier",
    "time",
+   "titans",
    "title",
    "to",
    "today",
@@ -824,6 +849,7 @@
    "torghast",
    "towards",
    "track",
+   "trading",
    "traffic",
    "traveler's",
    "treats",
@@ -844,7 +870,9 @@
    "undergeared",
    "unfair",
    "unfortunately",
+   "uniform",
    "uniquely",
+   "united",
    "unlocked",
    "unplayable",
    "until",
@@ -866,6 +894,7 @@
    "usprepare",
    "usually",
    "usworld",
+   "utah",
    "val",
    "valeera",
    "valeera's",
@@ -878,6 +907,7 @@
    "via",
    "video",
    "videos",
+   "virginia",
    "visit",
    "visited",
    "visitors",
@@ -891,6 +921,7 @@
    "war",
    "warbound",
    "warcraft",
+   "warturkey",
    "was",
    "wasn't",
    "watching",
@@ -957,67 +988,53 @@
  "hold_count": 1,
  "hold_at": "2026-10-28T01:10:35Z",
  "last_rejected": {
-  "title_fa": "قدرت‌های Spirit Conduit دیگر روی Kindo'jan قابل استفاده نیستند - هاتفیکس‌های پچ ۱۲٫۱٫۵",
-  "lead_fa": "بلیزارد امروز هاتفیکس‌هایی منتشر کرده که استفاده از Spirit Conduit Loa powers را در مبارزه با Kindo'jan غیرممکن می‌کند.",
+  "title_fa": "هاتفیکس‌های پچ 12.1.5: ممنوعیت استفاده از قدرت‌های Spirit Conduit در نبرد Kindo'jan",
+  "lead_fa": "در تازه‌ترین به‌روزرسانی‌های سرور لایو، امکان بهره‌گیری از باف‌های Spirit Conduit علیه باس Kindo'jan مسدود شد و سقف توکن‌های PvP برداشته شد.",
   "body_fa": [
-   "این تغییر به استراتژی‌ای پایان می‌دهد که بازیکنان با ذخیره کردن همه Conduitها تا زمان احضار Kindo'jan و سپس فعال کردن همزمان آن‌ها برای وارد کردن آسیب بسیار بالا استفاده می‌کردند.",
-   {
-    "t": "h",
-    "x": "هاتفیکس‌های امروز"
-   },
-   "در میان تغییرات اعمال‌شده امروز موارد زیر به چشم می‌خورد:",
-   {
-    "t": "ul",
-    "xs": [
-     "Ascendant Venomstones در دسترس قرار گرفته‌اند.",
-     "Conquest و Bloody Tokens دیگر سقف ندارند.",
-     "یک سناریوی باگ‌دار دیگر در Labyrinthها رفع شده است.",
-     "Spirit Conduitها دیگر روی Kindo'jan قابل استفاده نیستند."
-    ]
-   },
-   {
-    "t": "h",
-    "x": "تغییرات و رفع باگ‌های گسترده‌تر"
-   },
-   "فهرست کامل هاتفیکس‌های منتشرشده برای World of Warcraft: Midnight، Mists of Pandaria Classic، Season of Discovery، Burning Crusade Classic، WoW Classic Era و Hardcore به شرح زیر است. برخی از این تغییرات بلافاصله اعمال می‌شوند و برخی دیگر ممکن است به ریستارت برنامه‌ریزی‌شده سرورها نیاز داشته باشند.",
-   {
-    "t": "ul",
-    "xs": [
-     "دسترسی به دستاورد Fabled: Let Me Solo Him: Kindo'jan تا نگهداری هفتگی هفته ۲۷ اکتبر تمدید شده است.",
-     "مشکلاتی که گاهی مانع اتمام سناریوی «Fools and Curses» می‌شد رفع شده است.",
-     "مشکل استفاده از Spirit Conduit Loa powers در مبارزه Kindo'jan برطرف شده است.",
-     "Ascendant Venomstones پس از انجام کوئست «Ascending with Venomstones» در دسترس هستند.",
-     "افسون Ancient Hash'ey Battle Art Gloves اکنون روی اقلام Warbound Until Equipped هم اعمال می‌شود.",
-     "اثر Void Eruption روی قطعات زره Kith'ix دیگر هدف‌هایی را که درcombat نیستند نمی‌زند.",
-     "Conquest و Bloody Tokens دیگر سقف ندارند.",
-     "باف Spoils of War اکنون در دسترس است و Conquest را ۵۰٪ و Honor را ۴۰٪ در Battlegroundها و Arenaها افزایش می‌دهد.",
-     "Venomous Equipment Chest اکنون از conquest quartermaster به نام Irissa Bloodstar قابل خرید است.",
-     "furbolgهای مورد نیاز برای کوئست «Not Quite Nalorakk» از hibernation بازگشته‌اند.",
-     "مشکل خرج کردن Nebulous Voidcoreها روی منابع غیرraid که مانع پیشرفت در کوئست آموزشی «A Nebulous Endeavour» می‌شد رفع شده و این هدف در بار بعدی خرج کردن Nebulous Voidcore روی هر منبع bonus roll فصل ۲ تکمیل خواهد شد.",
-     "مشکل غیرقابل حمله شدن Skardyn Behemoth که مانع اتمام «Draw Its Ire» می‌شد برطرف شده است.",
-     "مشکل عدم اتمام کوئست Voidstorm به نام «To Be Changed» رفع شده است."
-    ]
-   },
+   "در هاتفیکس‌های جدید پچ 12.1.5، شرکت Blizzard جلوی یک استراتژی قدرتمند در نبرد با Kindo'jan را گرفت. قابلیت‌های Spirit Conduits که در رنک Renown 6 از مسیر پاداش‌های Labyrinth of Kindo-jan باز می‌شوند، باف‌هایی به مدت ۲ دقیقه به بازیکنان می‌دهند. بسیاری از بازیکنان تا پیش از این، همهٔ این منابع را تا احضار باس دست‌نخورده باقی می‌گذاشتند و سپس با جمع‌آوری هم‌زمان آن‌ها، دمیج بسیار سنگینی به Kindo'jan وارد می‌کردند که طبق تغییرات اعمال‌شده، این روند دیگر امکان‌پذیر نیست.",
    {
     "t": "note",
-    "x": "این هاتفیکس‌ها برای پچ ۱۲٫۱٫۵ منتشر شده‌اند و برخی از مشکلات همچنان ممکن است به پچ سمت کلاینت نیاز داشته باشند.",
+    "x": "فرصت ثبت اچیومنت Fabled: Let Me Solo Him: Kindo'jan تا زمان نگهداری هفتگی در هفتهٔ ۲۷ اکتبر تمدید شده است.",
     "kind": "info"
    },
    {
     "t": "h",
-    "x": "تمدید دستاورد Fabled"
+    "x": "تغییرات کلیدی هاتفیکس"
    },
-   "دسترسی به دستاورد Fabled: Let Me Solo Him: Kindo'jan تا نگهداری هفتگی هفته ۲۷ اکتبر تمدید شده است. این یعنی بازیکنان هنوز فرصت دارند آن را کسب کنند.",
-   "علاوه بر این، هاتفیکس‌های دیگری برای محتوای ۱۲٫۱٫۷ نیز در حال اعمال شدن هستند و برخی رفع باگ‌ها در هفته‌های ۱۵، ۱۶، ۲۰، ۲۱ و ۲۲ اکتبر ۲۰۲۶ منتشر شده بودند.",
-   "این تغییرات بخشی از به‌روزرسانی‌های مداوم بلیزارد برای World of Warcraft: Midnight به شمار می‌روند.",
-   "در حال حاضر برخی بازیکنان گزارش داده‌اند که Spirit Conduitها در اتاق‌های معمولی هم به درستی کار نمی‌کنند، ولی این موضوع هنوز به صورت رسمی تأیید نشده است."
+   {
+    "t": "ul",
+    "xs": [
+     "ممنوعیت استفاده از قدرت‌های Spirit Conduit Loa در طول نبرد Kindo'jan.",
+     "برطرف شدن مشکلی که در برخی مواقع مانع از تکمیل سناریوی Fools and Curses می‌شد.",
+     "در دسترس قرار گرفتن Ascendant Venomstones پس از انجام کوئست Ascending with Venomstones.",
+     "امکان اعمال اینچنت دستکش Ancient Hash'ey Battle Art روی آیتم‌های Warbound Until Equipped.",
+     "اصلاح افکت Void Eruption در ست زره Kith'ix تا به اهدافی که خارج از مبارزه هستند آسیب نزند."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "تغییرات PvP و جوایز"
+   },
+   "سقف منابع Conquest و Bloody Tokens به طور کامل برداشته شده است. علاوه بر این، باف Spoils of War فعال شده که دریافت Conquest را ۵۰٪ و دریافت Honor را ۴۰٪ در بتل‌گراندها و آرناها افزایش می‌دهد. همچنین فروشندهٔ Conquest به نام Irissa Bloodstar اکنون آیتم Venomous Equipment Chest را به فروش می‌رساند.",
+   {
+    "t": "h",
+    "x": "اصلاحات مأموریت‌ها و رول بونوس"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "بازگشت فرولبولت‌های مورد نیاز مأموریت Not Quite Nalorakk از خواب زمستانی.",
+     "رفع ایراد Skardyn Behemoth که در مواردی غیرقابل‌حمله می‌شد و مانع اتمام مأموریت Draw Its Ire بود.",
+     "اصلاح باگ مأموریت Voidstorm با عنوان To Be Changed.",
+     "رفع باگ مأموریت A Nebulous Endeavour؛ خرج کردن Nebulous Voidcores روی هر منبع بونوس رول در Season 2 از این پس در انجام این مأموریت آموزشی محاسبه می‌شود."
+    ]
+   }
   ],
   "tags_fa": [
    "هاتفیکس",
-   "۱۲٫۱٫۵",
    "Midnight",
-   "Kindo'jan",
-   "Spirit Conduit"
+   "PvP",
+   "پچ 12.1.5"
   ]
  }
 }
