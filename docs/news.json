@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T15:05:24Z",
+ "generated": "2026-11-02T15:51:48Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2997,6 +2997,114 @@
    ]
   },
   {
+   "id": 383568,
+   "slug": "subtlety-rogue-nerfs-and-feral-druid-buffs-class-tuning-incoming-with-",
+   "title_fa": "تغییرات بالانس کلاس‌ها در ریست هفتگی: نرف Subtlety Rogue و تقویت Feral Druid",
+   "lead_fa": "بلیزارد تنظیمات جدیدی را برای کلاس‌های مختلف معرفی کرده است که هم‌زمان با نگهداری هفتگی در ۲۷ اکتبر اعمال خواهند شد.",
+   "body_fa": [
+    "طبق اعلام رسمی بلیزارد، موج جدیدی از تغییرات بالانس کلاس‌ها در دست انتشار است که تضعیف Subtlety Rogue و باف Feral Druid را در بر دارد. این تنظیمات در تاریخ ۲۷ اکتبر اعمال می‌شوند.",
+    {
+     "t": "h",
+     "x": "تغییرات بخش PvE کلاس‌ها"
+    },
+    "در بخش PvE، کلاس Feral Druid شاهد افزایش ۵٪ بر تمامی دمیج‌های واردشده (All damage done) خواهد بود که مبارزات PvP را شامل نمی‌شود.",
+    {
+     "t": "quote",
+     "x": "این تغییرات با هدف کمک به Restoration Druid در مواجهه با برست دمیج دانجن‌ها طراحی شده‌اند، زیرا آن‌ها از سایر هیلرها عقب‌تر هستند. عملکرد آن‌ها در ریدها مناسب است، بنابراین ما تلنت‌ها و توانایی‌هایی را هدف قرار داده‌ایم که در هیل یک گروه ۵ نفره محبوب‌تر هستند.",
+     "by": "توسعه‌دهندگان بلیزارد"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "میزان هیل Verdancy به میزان ۶۰٪ افزایش می‌یابد (روی PvP بی‌اثر است).",
+      "میزان هیل Regrowth به میزان ۱۰٪ افزایش می‌یابد (روی PvP بی‌اثر است).",
+      "تلنت Improved Swiftmend هیل توانایی Swiftmend را ۴۰٪ افزایش می‌دهد (قبلاً ۳۰٪ بود، روی PvP بی‌اثر است).",
+      "تلنت Trick Shots میزان ریکوشه دمیج Aimed Shot و Rapid Fire را به ۸۵٪ می‌رساند (قبلاً ۷۵٪ بود).",
+      "دمیج Explosive Shot به مقدار ۱۰٪ افزایش پیدا می‌کند.",
+      "دمیج Unstable Affliction به میزان ۲۰٪ افزایش می‌یابد (روی PvP بی‌اثر است).",
+      "دمیج Rain of Fire به میزان ۲۰٪ افزایش می‌یابد."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "تغییرات Subtlety Rogue"
+    },
+    {
+     "t": "quote",
+     "x": "بافی که Subtlety به عنوان جبران خسارت هم‌زمان با تغییرات پچ 12.1.5 دریافت کرده بود فراتر از انتظارات رفت، بنابراین بخش قابل‌توجهی از آن باف را بازمی‌گردانیم. علاوه بر این، تغییرات پچ بیش از Deathstalker به نفع Trickster تمام شد، بنابراین Trickster یک نرف کوچک‌تر اضافی نیز دریافت می‌کند.",
+     "by": "توسعه‌دهندگان بلیزارد"
+    },
+    "بر همین اساس، تلنت Hero Talent مربوط به Trickster یعنی Fazed، اکنون دمیج را ۵٪ افزایش می‌دهد (که قبلاً ۷٪ بود).",
+    {
+     "t": "h",
+     "x": "تنظیمات بالانس PvP"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "دمیج Vampiric Strike مربوط به San’layn در مبارزات PvP به میزان ۲۰٪ کاهش می‌یابد.",
+      "دمیج Collapsing Star در PvP به میزان ۲۰٪ افزایش می‌یابد.",
+      "تلنت Chronal Dynamo از Chronowarden هیل و دمیج Living Flame غیر اینستنت را در PvP به میزان ۸۰٪ افزایش می‌دهد (قبلاً ۵۰٪ بود).",
+      "تلنت Reverberations از Chronowarden سبب می‌شود Verdant Embrace در طول ۸ ثانیه در PvP معادل ۸۰٪ هیل اضافه ایجاد کند (قبلاً ۴۰٪ بود).",
+      "دمیج Kill Shot در PvP به میزان ۴۰٪ زیاد می‌شود.",
+      "شانس فعال‌سازی Deathblow توسط Aimed Shot در PvP به ۲۵٪ می‌رسد.",
+      "دمیج Black Arrow از Dark Ranger در PvP معادل ۴۰٪ افزایش می‌یابد.",
+      "تمامی دمیج Fire Mage در PvP به میزان ۵٪ کاهش می‌یابد.",
+      "دمیج Meteor ناشی از Isothermic Core در Frostfire در PvP به میزان ۲۰٪ بیشتر می‌شود.",
+      "دمیج Pyroblast ناشی از Duality در Frostfire در PvP به مقدار ۲۰٪ بالا می‌رود."
+     ]
+    },
+    {
+     "t": "note",
+     "x": "این خبر با شناسه 383568 در تاریخ 2026-10-23 منتشر شده است و مباحثی پیرامون ضریب‌های محاسباتی مانند 1.14، 1.0488، باف 14 درصدی، نرف 12 درصدی، تغییرات 4.88 درصدی و ارجاعاتی مانند پچ 12.1.7 و اقلامی چون 18 یا 21 پیرامون آن شکل گرفته است.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "تیونینگ کلاس‌ها",
+    "PvP",
+    "PvE"
+   ],
+   "items": [
+    {
+     "item": {
+      "name": "Assassination",
+      "rows": [
+       [
+        "Deathstalker",
+        "Deathstalker’s Mark damage increased by 20% in PvP combat."
+       ],
+       [
+        "Deathstalker",
+        "Hunt Them Down damage increased by 20% in PvP combat."
+       ],
+       [
+        "Deathstalker",
+        "Darkest Night now increases the damage of the next Eviscerate by 15% in PvP combat (was 8%)."
+       ]
+      ],
+      "spec": [],
+      "quality": ""
+     }
+    }
+   ],
+   "title_en": "Subtlety Rogue Nerfs and Feral Druid Buffs - Class Tuning Incoming with Weekly Reset",
+   "source_url": "https://www.wowhead.com/news=383568",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383568-subtlety-rogue-nerfs-and-feral-druid-buffs-class-tuning-incoming-with-.html",
+   "published_at": "2026-10-23T22:54:15Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383568/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383568/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383554,
    "slug": "world-bosses-legendaries-and-a-scourge-invasion-the-wow-forever-beta-i",
    "title_fa": "پایان بتای WoW: Forever با باس‌های جهانی، Legendaryها و حمله Scourge",
@@ -3230,40 +3338,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383551,
-   "slug": "four-new-titles-available-from-talebound-in-patch-12-1-7",
-   "title_fa": "چهار عنوان جدید از Talebound در پچ ۱۲.۱.۷",
-   "lead_fa": "با ورود حالت بازی Talebound در پچ ۱۲.۱.۷، چهار عنوان تازه برای بازیکنان در نظر گرفته شده که با تکمیل دستاوردها به دست می‌آیند.",
-   "body_fa": [
-    "Talebound یک حالت مستقل roguelite است که در پچ ۱۲.۱.۷ اضافه می‌شود. بازیکنان یکی از سه کلاس را انتخاب کرده و ماجراجویی خود را از شهر Quillgrave آغاز می‌کنند.",
-    "در Quillgrave با شخصیت Storyteller روبه‌رو خواهید شد که داستان‌ها را روایت می‌کند.",
-    "سه عنوان با تکمیل Mythic difficulty برای هر یک از سه کلاس به دست می‌آیند: Mythic: The Inquisitor's Final Confrontation، Mythic: The Slayer's Final Confrontation و Mythic: The Witch's Final Confrontation.",
-    "عنوان چهارم نیز با تکمیل Stories to Share و تمام داستان‌های Storyteller کسب می‌شود.",
-    "اطلاعات دقیقی از Talebound در دسترس نیست زیرا هنوز روی PTR پچ ۱۲.۱.۷ تست نشده و سختی Mythic difficulty تا زمان تست یا انتشار مشخص نخواهد بود."
-   ],
-   "tags_fa": [
-    "Talebound",
-    "۱۲.۱.۷",
-    "عنوان جدید",
-    "PTR"
-   ],
-   "items": [],
-   "title_en": "Four New Titles Available from Talebound in Patch 12.1.7",
-   "source_url": "https://www.wowhead.com/news=383551",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383551-four-new-titles-available-from-talebound-in-patch-12-1-7.html",
-   "published_at": "2026-10-23T13:00:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383551/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383551/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3315,13 +3389,6 @@
    "url": "https://www.wowhead.com/news=383570",
    "category": "Live",
    "published_at": "2026-10-24T00:23:57Z"
-  },
-  {
-   "id": 383568,
-   "title_en": "Subtlety Rogue Nerfs and Feral Druid Buffs - Class Tuning Incoming with Weekly Reset",
-   "url": "https://www.wowhead.com/news=383568",
-   "category": "Live",
-   "published_at": "2026-10-23T22:54:15Z"
   },
   {
    "id": 383561,

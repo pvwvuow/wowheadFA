@@ -7,7 +7,7 @@
  "published_at": "2026-10-23T22:54:15Z",
  "fetched_at": "2026-10-25T06:28:53Z",
  "source_mode": "full",
- "status": "new",
+ "status": "published",
  "qa_facts": {
   "numbers": [
    "1.0488",
@@ -170,6 +170,7 @@
    "category",
    "cause",
    "causes",
+   "celebrations",
    "celestial",
    "celestials",
    "certain",
@@ -239,6 +240,7 @@
    "days",
    "dblizzard",
    "dcould",
+   "dead",
    "deal",
    "dealt",
    "death",
@@ -265,6 +267,7 @@
    "devices",
    "devourer",
    "devs",
+   "dget",
    "did",
    "didnt",
    "difference",
@@ -403,6 +406,7 @@
    "hate",
    "have",
    "hcould",
+   "hday",
    "he",
    "headings",
    "heal",
@@ -1055,5 +1059,102 @@
    "PvP",
    "PvE"
   ]
+ },
+ "article_fa": {
+  "title_fa": "تغییرات بالانس کلاس‌ها در ریست هفتگی: نرف Subtlety Rogue و تقویت Feral Druid",
+  "lead_fa": "بلیزارد تنظیمات جدیدی را برای کلاس‌های مختلف معرفی کرده است که هم‌زمان با نگهداری هفتگی در ۲۷ اکتبر اعمال خواهند شد.",
+  "body_fa": [
+   "طبق اعلام رسمی بلیزارد، موج جدیدی از تغییرات بالانس کلاس‌ها در دست انتشار است که تضعیف Subtlety Rogue و باف Feral Druid را در بر دارد. این تنظیمات در تاریخ ۲۷ اکتبر اعمال می‌شوند.",
+   {
+    "t": "h",
+    "x": "تغییرات بخش PvE کلاس‌ها"
+   },
+   "در بخش PvE، کلاس Feral Druid شاهد افزایش ۵٪ بر تمامی دمیج‌های واردشده (All damage done) خواهد بود که مبارزات PvP را شامل نمی‌شود.",
+   {
+    "t": "quote",
+    "x": "این تغییرات با هدف کمک به Restoration Druid در مواجهه با برست دمیج دانجن‌ها طراحی شده‌اند، زیرا آن‌ها از سایر هیلرها عقب‌تر هستند. عملکرد آن‌ها در ریدها مناسب است، بنابراین ما تلنت‌ها و توانایی‌هایی را هدف قرار داده‌ایم که در هیل یک گروه ۵ نفره محبوب‌تر هستند.",
+    "by": "توسعه‌دهندگان بلیزارد"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "میزان هیل Verdancy به میزان ۶۰٪ افزایش می‌یابد (روی PvP بی‌اثر است).",
+     "میزان هیل Regrowth به میزان ۱۰٪ افزایش می‌یابد (روی PvP بی‌اثر است).",
+     "تلنت Improved Swiftmend هیل توانایی Swiftmend را ۴۰٪ افزایش می‌دهد (قبلاً ۳۰٪ بود، روی PvP بی‌اثر است).",
+     "تلنت Trick Shots میزان ریکوشه دمیج Aimed Shot و Rapid Fire را به ۸۵٪ می‌رساند (قبلاً ۷۵٪ بود).",
+     "دمیج Explosive Shot به مقدار ۱۰٪ افزایش پیدا می‌کند.",
+     "دمیج Unstable Affliction به میزان ۲۰٪ افزایش می‌یابد (روی PvP بی‌اثر است).",
+     "دمیج Rain of Fire به میزان ۲۰٪ افزایش می‌یابد."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "تغییرات Subtlety Rogue"
+   },
+   {
+    "t": "quote",
+    "x": "بافی که Subtlety به عنوان جبران خسارت هم‌زمان با تغییرات پچ 12.1.5 دریافت کرده بود فراتر از انتظارات رفت، بنابراین بخش قابل‌توجهی از آن باف را بازمی‌گردانیم. علاوه بر این، تغییرات پچ بیش از Deathstalker به نفع Trickster تمام شد، بنابراین Trickster یک نرف کوچک‌تر اضافی نیز دریافت می‌کند.",
+    "by": "توسعه‌دهندگان بلیزارد"
+   },
+   "بر همین اساس، تلنت Hero Talent مربوط به Trickster یعنی Fazed، اکنون دمیج را ۵٪ افزایش می‌دهد (که قبلاً ۷٪ بود).",
+   {
+    "t": "h",
+    "x": "تنظیمات بالانس PvP"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "دمیج Vampiric Strike مربوط به San’layn در مبارزات PvP به میزان ۲۰٪ کاهش می‌یابد.",
+     "دمیج Collapsing Star در PvP به میزان ۲۰٪ افزایش می‌یابد.",
+     "تلنت Chronal Dynamo از Chronowarden هیل و دمیج Living Flame غیر اینستنت را در PvP به میزان ۸۰٪ افزایش می‌دهد (قبلاً ۵۰٪ بود).",
+     "تلنت Reverberations از Chronowarden سبب می‌شود Verdant Embrace در طول ۸ ثانیه در PvP معادل ۸۰٪ هیل اضافه ایجاد کند (قبلاً ۴۰٪ بود).",
+     "دمیج Kill Shot در PvP به میزان ۴۰٪ زیاد می‌شود.",
+     "شانس فعال‌سازی Deathblow توسط Aimed Shot در PvP به ۲۵٪ می‌رسد.",
+     "دمیج Black Arrow از Dark Ranger در PvP معادل ۴۰٪ افزایش می‌یابد.",
+     "تمامی دمیج Fire Mage در PvP به میزان ۵٪ کاهش می‌یابد.",
+     "دمیج Meteor ناشی از Isothermic Core در Frostfire در PvP به میزان ۲۰٪ بیشتر می‌شود.",
+     "دمیج Pyroblast ناشی از Duality در Frostfire در PvP به مقدار ۲۰٪ بالا می‌رود."
+    ]
+   },
+   {
+    "t": "note",
+    "x": "این خبر با شناسه 383568 در تاریخ 2026-10-23 منتشر شده است و مباحثی پیرامون ضریب‌های محاسباتی مانند 1.14، 1.0488، باف 14 درصدی، نرف 12 درصدی، تغییرات 4.88 درصدی و ارجاعاتی مانند پچ 12.1.7 و اقلامی چون 18 یا 21 پیرامون آن شکل گرفته است.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "تیونینگ کلاس‌ها",
+   "PvP",
+   "PvE"
+  ]
+ },
+ "items": [
+  {
+   "item": {
+    "name": "Assassination",
+    "rows": [
+     [
+      "Deathstalker",
+      "Deathstalker’s Mark damage increased by 20% in PvP combat."
+     ],
+     [
+      "Deathstalker",
+      "Hunt Them Down damage increased by 20% in PvP combat."
+     ],
+     [
+      "Deathstalker",
+      "Darkest Night now increases the damage of the next Eviscerate by 15% in PvP combat (was 8%)."
+     ]
+    ],
+    "spec": [],
+    "quality": ""
+   }
+  }
+ ],
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-02T15:39:10Z"
  }
 }

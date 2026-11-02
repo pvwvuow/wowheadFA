@@ -1,15 +1,25 @@
 {
  "day": "2026-11-02",
- "published_today": 3,
+ "published_today": 4,
  "held": {
   "383541": {
    "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
    "at": "2026-11-02T14:29:00Z",
    "at_ts": 1793629740.628455
+  },
+  "383521": {
+   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
+   "at": "2026-11-02T15:47:01Z",
+   "at_ts": 1793634421.741093
+  },
+  "383518": {
+   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
+   "at": "2026-11-02T15:51:23Z",
+   "at_ts": 1793634683.099142
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-02T15:04:48Z",
+ "updated_at": "2026-11-02T15:51:23Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -3552,6 +3562,126 @@
     "warns": 0,
     "sec": 59.2,
     "attempts": 1
+   },
+   {
+    "id": "383630",
+    "ts": "2026-11-02T15:32:15Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 336.3,
+    "attempts": 1
+   },
+   {
+    "id": "383603",
+    "ts": "2026-11-02T15:33:08Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 52.9,
+    "attempts": 1
+   },
+   {
+    "id": "383562",
+    "ts": "2026-11-02T15:34:02Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 54.4,
+    "attempts": 1
+   },
+   {
+    "id": "383570",
+    "ts": "2026-11-02T15:34:46Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 44.3,
+    "attempts": 1
+   },
+   {
+    "id": "383568",
+    "ts": "2026-11-02T15:39:10Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 264.2,
+    "attempts": 0
+   },
+   {
+    "id": "383561",
+    "ts": "2026-11-02T15:40:09Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 58.7,
+    "attempts": 1
+   },
+   {
+    "id": "383552",
+    "ts": "2026-11-02T15:40:53Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 43.7,
+    "attempts": 1
+   },
+   {
+    "id": "383543",
+    "ts": "2026-11-02T15:41:26Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 32.9,
+    "attempts": 1
+   },
+   {
+    "id": "383487",
+    "ts": "2026-11-02T15:42:10Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 44.0,
+    "attempts": 1
+   },
+   {
+    "id": "383521",
+    "ts": "2026-11-02T15:47:01Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 291.5,
+    "attempts": 2
+   },
+   {
+    "id": "383519",
+    "ts": "2026-11-02T15:47:44Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 42.9,
+    "attempts": 1
+   },
+   {
+    "id": "383518",
+    "ts": "2026-11-02T15:51:23Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 218.4,
+    "attempts": 2
    }
   ]
  }
