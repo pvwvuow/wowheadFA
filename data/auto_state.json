@@ -1,167 +1,12 @@
 {
  "day": "2026-11-03",
  "published_today": 3,
- "held": {
-  "383702": {
-   "reason": "خطای مدل در بازنویسی: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-   "at": "2026-11-03T09:31:57Z",
-   "at_ts": 1793698317.114277
-  }
- },
- "ingest_fails": {
-  "383630": 1,
-  "383570": 1,
-  "383561": 1,
-  "383543": 1,
-  "383541": 1,
-  "383487": 1,
-  "383519": 1,
-  "383518": 1
- },
- "updated_at": "2026-11-03T12:02:59Z",
+ "held": {},
+ "ingest_fails": {},
+ "updated_at": "2026-11-03T13:19:06Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383669",
-    "ts": "2026-10-31T13:26:35Z",
-    "path": "primary",
-    "result": "published",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 31.4,
-    "attempts": 1
-   },
-   {
-    "id": "383666",
-    "ts": "2026-10-31T13:27:24Z",
-    "path": "primary",
-    "result": "published",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 48.9,
-    "attempts": 2
-   },
-   {
-    "id": "383607",
-    "ts": "2026-10-31T13:49:50Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 2,
-    "warns": 1,
-    "sec": 77.5,
-    "attempts": 2
-   },
-   {
-    "id": "383607",
-    "ts": "2026-10-31T13:53:52Z",
-    "path": "fallback",
-    "result": "published",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 241.7,
-    "attempts": 1
-   },
-   {
-    "id": "383599",
-    "ts": "2026-10-31T13:54:29Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 3,
-    "warns": 0,
-    "sec": 37.1,
-    "attempts": 2
-   },
-   {
-    "id": "383598",
-    "ts": "2026-10-31T13:55:17Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 1,
-    "warns": 0,
-    "sec": 48.2,
-    "attempts": 2
-   },
-   {
-    "id": "383664",
-    "ts": "2026-10-31T15:13:52Z",
-    "path": "primary",
-    "result": "published",
-    "blocks": 0,
-    "warns": 2,
-    "sec": 78.4,
-    "attempts": 2
-   },
-   {
-    "id": "383652",
-    "ts": "2026-10-31T15:14:45Z",
-    "path": "primary",
-    "result": "published",
-    "blocks": 0,
-    "warns": 2,
-    "sec": 53.5,
-    "attempts": 0
-   },
-   {
-    "id": "383482",
-    "ts": "2026-10-31T15:16:34Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 1,
-    "warns": 1,
-    "sec": 109.1,
-    "attempts": 2
-   },
-   {
-    "id": "383482",
-    "ts": "2026-10-31T15:16:56Z",
-    "path": "fallback",
-    "result": "published",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 21.7,
-    "attempts": 1
-   },
-   {
-    "id": "383653",
-    "ts": "2026-10-31T15:18:33Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 1,
-    "warns": 1,
-    "sec": 96.5,
-    "attempts": 2
-   },
-   {
-    "id": "383651",
-    "ts": "2026-10-31T15:19:43Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 2,
-    "warns": 1,
-    "sec": 70.4,
-    "attempts": 2
-   },
-   {
-    "id": "383662",
-    "ts": "2026-10-31T16:16:33Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 2,
-    "warns": 1,
-    "sec": 73.1,
-    "attempts": 2
-   },
-   {
-    "id": "383662",
-    "ts": "2026-10-31T16:16:44Z",
-    "path": "fallback",
-    "result": "held",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 11.4,
-    "attempts": 1
-   },
    {
     "id": "383650",
     "ts": "2026-10-31T16:17:40Z",
@@ -4021,6 +3866,146 @@
     "warns": 0,
     "sec": 50.3,
     "attempts": 0
+   },
+   {
+    "id": "383704",
+    "ts": "2026-11-03T13:00:17Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 48.9,
+    "attempts": 1
+   },
+   {
+    "id": "383702",
+    "ts": "2026-11-03T13:01:11Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 53.4,
+    "attempts": 1
+   },
+   {
+    "id": "383698",
+    "ts": "2026-11-03T13:01:42Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 31.2,
+    "attempts": 1
+   },
+   {
+    "id": "383695",
+    "ts": "2026-11-03T13:02:23Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 40.9,
+    "attempts": 1
+   },
+   {
+    "id": "383630",
+    "ts": "2026-11-03T13:03:22Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 59.0,
+    "attempts": 1
+   },
+   {
+    "id": "383603",
+    "ts": "2026-11-03T13:03:51Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 29.5,
+    "attempts": 1
+   },
+   {
+    "id": "383570",
+    "ts": "2026-11-03T13:04:33Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 42.0,
+    "attempts": 1
+   },
+   {
+    "id": "383561",
+    "ts": "2026-11-03T13:05:16Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 42.5,
+    "attempts": 1
+   },
+   {
+    "id": "383552",
+    "ts": "2026-11-03T13:10:37Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 321.0,
+    "attempts": 1
+   },
+   {
+    "id": "383543",
+    "ts": "2026-11-03T13:16:27Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 349.6,
+    "attempts": 1
+   },
+   {
+    "id": "383541",
+    "ts": "2026-11-03T13:17:10Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 43.5,
+    "attempts": 1
+   },
+   {
+    "id": "383487",
+    "ts": "2026-11-03T13:17:53Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 43.1,
+    "attempts": 1
+   },
+   {
+    "id": "383519",
+    "ts": "2026-11-03T13:18:23Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 30.3,
+    "attempts": 1
+   },
+   {
+    "id": "383518",
+    "ts": "2026-11-03T13:19:06Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 43.0,
+    "attempts": 1
    }
   ]
  }
