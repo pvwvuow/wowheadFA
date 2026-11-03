@@ -920,9 +920,9 @@
   }
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383552/1.jpg",
- "hold_reason": "«جدول تغییرات به این شکل است: Non-Crafted از Myth Item Level ۳۴۰ به ۳۴۱.» — منبع جدول کامل‌تری دارد که هر دو نوع Non-Crafted و Crafted را نشان می‌دهد؛ مقاله فقط یک سطر را آورده و آن را به عنوان «جدول تغییرات» معرفی کرده که ناقص و گمراه‌کننده است. | G4 numbers from source missing  | fallback هم رد شد: «قطعات Crafted با دریافت ۶ پله افزایش به Item level ۳۳۷ می‌رسند» — منبع می‌گوید crafted pi",
- "hold_count": 1,
- "hold_at": "2026-10-27T20:09:42Z",
+ "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
+ "hold_count": 2,
+ "hold_at": "2026-11-03T03:41:28Z",
  "last_rejected": {
   "title_fa": "تغییر سطح آیتم تجهیزات ارتقایافته با Ascended Venomstone",
   "lead_fa": "هاتفیکس جدیدی مقادیر Item Level تجهیزات ارتقایافته توسط Ascendant Venomstone را برای آیتم‌های ساختنی و غیرساختنی اصلاح کرد.",
