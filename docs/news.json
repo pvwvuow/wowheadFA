@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T03:52:38Z",
+ "generated": "2026-11-03T04:55:24Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3381,6 +3381,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383704,
+   "title_en": "WoW: Forever Official Development Notes and Class Tuning",
+   "url": "https://www.wowhead.com/news=383704",
+   "category": "Forever",
+   "published_at": "2026-11-03T03:51:28Z"
+  },
   {
    "id": 383702,
    "title_en": "Hunter Class Buffs on WoW: Forever",
