@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T02:42:47Z",
+ "generated": "2026-11-03T02:43:22Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3381,6 +3381,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383702,
+   "title_en": "Hunter Class Buffs on WoW: Forever",
+   "url": "https://www.wowhead.com/news=383702",
+   "category": "Forever",
+   "published_at": "2026-11-03T01:33:01Z"
+  },
   {
    "id": 383698,
    "title_en": "Planet Azeroth with Bill Bailey: Plaguelands, Winterspring, and More",
