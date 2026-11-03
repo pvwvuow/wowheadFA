@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T19:02:14Z",
+ "generated": "2026-11-03T20:05:26Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3381,6 +3381,27 @@
   }
  ],
  "queue": [
+  {
+   "id": 383714,
+   "title_en": "Wowhead's Talent Calculator for WoW: Forever Updated for Launch Class Changes",
+   "url": "https://www.wowhead.com/news=383714",
+   "category": "Forever",
+   "published_at": "2026-11-03T20:00:54Z"
+  },
+  {
+   "id": 383716,
+   "title_en": "Tier Pieces Require Quest Chain That Requires Group Content in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383716",
+   "category": "Forever",
+   "published_at": "2026-11-03T19:30:50Z"
+  },
+  {
+   "id": 383713,
+   "title_en": "D&D: World of Warcraft Early Access Grants Pet, Mount, Decor, and Toy",
+   "url": "https://www.wowhead.com/news=383713",
+   "category": "WoW",
+   "published_at": "2026-11-03T18:56:09Z"
+  },
   {
    "id": 383712,
    "title_en": "What's New and What's the Same in WoW: Forever",
