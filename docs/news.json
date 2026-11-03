@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T00:50:39Z",
+ "generated": "2026-11-03T00:51:05Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3381,6 +3381,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383698,
+   "title_en": "Planet Azeroth with Bill Bailey: Plaguelands, Winterspring, and More",
+   "url": "https://www.wowhead.com/news=383698",
+   "category": "Forever",
+   "published_at": "2026-11-03T00:05:25Z"
+  },
   {
    "id": 383695,
    "title_en": "Long Maintenance Planned Ahead of WoW: Forever Launch",
