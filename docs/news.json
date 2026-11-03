@@ -1,8 +1,95 @@
 {
- "generated": "2026-11-02T23:56:24Z",
+ "generated": "2026-11-03T00:50:39Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383699,
+   "slug": "new-druid-and-rogue-passive-reduces-energy-cost-on-a-first-strike",
+   "title_fa": "افزوده شدن پسیو جدید Poised برای Druid و Rogue در سرورهای لایو WoW: Forever",
+   "lead_fa": "پسیو جدیدی به نام Poised برای دو کلاس Druid و Rogue در سرورهای لایو WoW: Forever داده‌کاوی شده است که هزینه مصرف Energy را در ضربه آغازین کاهش می‌دهد.",
+   "body_fa": [
+    "طبق داده‌های به‌دست‌آمده از سرورهای لایو WoW: Forever، پسیو تازه‌ای با هدف کاهش هزینه منابع در نخستین ضربه برای کلاس‌های Druid و Rogue فعال شده است. این تغییرات در قالب هاتفیکس روی سرورهای زنده اعمال شده‌اند و در هیچ‌یادداشت رسمی توسعه‌دهندگان به ثبت نرسیده‌اند، بنابراین امکان تغییر آن‌ها پیش از عرضه رسمی وجود دارد.",
+    {
+     "t": "h",
+     "x": "جزئیات پسیو جدید Poised"
+    },
+    "داده‌کاوی‌ها نشان می‌دهد دو اسپل جدید روی سرورها اعمال شده که باعث افزایش Burst Damage در ضربات آغازین (Opener) این دو کلاس می‌شود. قابلیت پسیو Poised هزینه اسپل‌های نیازمند Energy را در شرایطی که بازیکن خارج از مبارزه باشد و نوار انرژی او پر باشد، کاهش می‌دهد.",
+    {
+     "t": "ul",
+     "xs": [
+      "سطح ۱۸ برای Rogue: افزوده شدن پسیو جدید Poised",
+      "سطح ۳۲ برای Druid: افزوده شدن پسیو جدید Poised"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "این ویژگی می‌تواند برای ارتقای سطح (Leveling) یا حضور در دانجن‌ها که بازیکنان مکرراً از مبارزه خارج می‌شوند، و همچنین برای ضربات آغازین در دوئل‌ها و World PvP کاربردی باشد.",
+     "kind": "tip"
+    }
+   ],
+   "tags_fa": [
+    "داده‌کاوی",
+    "هاتفیکس",
+    "WoW Forever",
+    "کلاس‌ها"
+   ],
+   "items": [],
+   "title_en": "New Druid and Rogue Passive Reduces Energy Cost on A First Strike",
+   "source_url": "https://www.wowhead.com/news=383699",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383699-new-druid-and-rogue-passive-reduces-energy-cost-on-a-first-strike.html",
+   "published_at": "2026-11-02T23:18:08Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383699/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383699/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383696,
+   "slug": "xbox-uk-confirms-wow-forever-not-coming-to-xbox-in-november",
+   "title_fa": "تأیید Xbox UK: بازی WoW: Forever در ماه نوامبر برای ایکس‌باکس منتشر نمی‌شود",
+   "lead_fa": "شعبهٔ بریتانیای ایکس‌باکس پس از انتشار و سپس حذف پستی در شبکه‌های اجتماعی، رسماً اعلام کرد که WoW: Forever برای کنسول ایکس‌باکس عرضه نخواهد شد.",
+   "body_fa": [
+    "بخش Xbox UK اخیراً در شبکه‌های اجتماعی خود پستی منتشر کرده بود که نشان می‌داد WoW: Forever در ماه نوامبر به کنسول Xbox می‌آید. این پست اکنون حذف شده و آن‌ها تأیید کرده‌اند که این عنوان روی این کنسول در دسترس نخواهد بود.",
+    {
+     "t": "h",
+     "x": "ماجرای پست حذف‌شده در شبکه‌های اجتماعی"
+    },
+    "ماجرا از پستی در شبکه‌های اجتماعی این بخش آغاز شد که فهرستی از بازی‌های اضافه شونده به Xbox در ماه نوامبر را معرفی می‌کرد. این پست که تصویر آن در Reddit و X ثبت شده بود، تصویری از WoW: Forever را نیز در میان عناوین داشت. به دنبال شکل‌گیری گمانه‌زنی‌ها پیرامون عرضهٔ این بازی روی کنسول، پست مذکور حذف و نسخه‌ای جایگزین شد که نامی از این عنوان در آن نبود.",
+    {
+     "t": "note",
+     "x": "طبق اعلام Xbox UK، بازی WoW: Forever در دسترس کنسول Xbox نیست و تنها از طریق Battle.net روی پلتفرم‌های PC و Mac قابل دسترسی خواهد بود.",
+     "kind": "info"
+    },
+    "اگرچه WoW: Forever دارای قابلیت پشتیبانی از گیم‌پد است، اما این شفاف‌سازی رسمی برای حال حاضر به فرضیه‌های مربوط به آمدن WoW به کنسول‌ها پایان می‌دهد."
+   ],
+   "tags_fa": [
+    "ایکس‌باکس",
+    "اخبار کنسول",
+    "Battle.net"
+   ],
+   "items": [],
+   "title_en": "Xbox UK Confirms WoW: Forever Not Coming to Xbox in November",
+   "source_url": "https://www.wowhead.com/news=383696",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383696-xbox-uk-confirms-wow-forever-not-coming-to-xbox-in-november.html",
+   "published_at": "2026-11-02T20:38:53Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383696/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383696/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383689,
    "slug": "day-of-the-dead-celebrations-now-live",
@@ -3291,91 +3378,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383523,
-   "slug": "dalaran-updated-ahead-of-the-beta-s-end-in-wow-forever",
-   "title_fa": "به‌روزرسانی دالاران پیش از پایان بتای WoW: Forever",
-   "lead_fa": "در آخرین بیلد بتای World of Warcraft: Forever، شهر دالاران مانع دفاعی خود را پایین آورده و حالا بازیکنان Alliance می‌توانند آزادانه وارد آن شوند. این شهر که نخستین بار در Wrath of the Lich King معرفی شد، تغییرات قابل توجهی دریافت کرده است.",
-   "body_fa": [
-    "در این به‌روزرسانی، نگهبانان شهر ارتقا یافته‌اند. Arcane Sentries حالا به شکل بارزتری در نقاط مختلف شهر حضور دارند و به Level 55 Elite تبدیل شده‌اند.",
-    "Kirin Tor Guards به بازیکنان کمک می‌کنند تا مکان‌های مورد نظر خود مانند مهمانخانه، مربیان حرفه‌ها و transmogrifier را پیدا کنند. علاوه بر مربیان حرفه‌ها، مربیان کلاس نیز در شهر حضور دارند که شامل Druid و Mage trainer می‌شود.",
-    "منطقه Underbelly حالا میزبان battlemasters است که بازیکنان می‌توانند از طریق آن‌ها برای تمام battlegroundها، از جمله Darkspear Islands جدید، صف ببندند. «Baroness» Llana که قبلاً Arena Organizer در Wrath of the Lich King بود، حالا به‌عنوان Alterac Valley Battlemaster فعالیت می‌کند.",
-    "بازیکنان Alliance می‌توانند کوئست جدیدی به نام Past Due را در دالاران دریافت کنند. این کوئست توسط Magus Olvek ارائه می‌شود و بازیکنان را ملزم می‌کند تا Arcanist Doan، باس نهایی Scarlet Monastery Library را شکست دهند و غنایم او را جمع‌آوری کنند. کسانی که World of Warcraft TCG را می‌شناسند، احتمالاً این NPC را به خاطر می‌آورند.",
-    "در کنار NPCهای جدید و چهره‌های آشنا از نسخه‌های قبلی، یکی از تغییرات مهم حذف پورتال دالاران از Stormwind City برای High Order Skyborne است. پورتال از دالاران به Stormwind همچنان وجود دارد، اما پورتال بازگشت به دالاران حذف شده است. Theresa Wolf در Silver Enclave در حال تلاش برای احضار چیزی است که ممکن است بعداً به پورتال تبدیل شود.",
-    "با نزدیک شدن به پایان بتا، بازیکنان باید فعلاً با دالاران خداحافظی کنند. شهر در زمان لانچ رسمی WoW: Forever در ۴ نوامبر ممکن است تغییرات بیشتری دریافت کند."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "دالاران",
-    "بتا",
-    "به‌روزرسانی"
-   ],
-   "items": [],
-   "title_en": "Dalaran Updated Ahead of the Beta's End in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383523",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383523-dalaran-updated-ahead-of-the-beta-s-end-in-wow-forever.html",
-   "published_at": "2026-10-23T16:00:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383523/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383523/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383529,
-   "slug": "bind-to-account-mythic-gear-chests-now-available",
-   "title_fa": "جعبه‌های Amani Equipment Chest برای ارسال به کاراکترهای دیگر حساب در دسترس است",
-   "lead_fa": "با ریست هفتگی اخیر، حالا می‌توانید جعبه Amani Equipment Chest را از Agmera بخرید و آن را برای کاراکترهای دیگر حساب خود ارسال کنید.",
-   "body_fa": [
-    "این جعبه در موقعیت /way #2393 42.15 58.72 قرار دارد و با پرداخت 750 Voidlight Marl قابل خرید است.",
-    "هر جعبه حاوی یک قطعه gear با Item Level 292 (Champion 1/6) از dungeonهای Season 2 است.",
-    "این روش منبع مناسبی برای gearing کاراکترهای تازه‌است، به‌ویژه اگر Voidlight Marl اضافی داشته باشید.",
-    "توجه کنید که این جعبه‌ها bad luck protection ندارند، بنابراین باز کردن چندین جعبه ممکن است چندین قطعه از همان slot را به شما بدهد.",
-    "کاراکترهای تازه حالا به صورت پیش‌فرض 5 Catalyst Charge دارند و این جعبه راه خوبی برای به دست آوردن tier slot pieces به منظور رسیدن فوری به 4-set و unlock Midnight Season 2: Catalyst Unbound است."
-   ],
-   "tags_fa": [
-    "Mythic+",
-    "Midnight",
-    "Season 2"
-   ],
-   "items": [],
-   "title_en": "Bind to Account Mythic+ Gear Chests Now Available",
-   "source_url": "https://www.wowhead.com/news=383529",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383529-bind-to-account-mythic-gear-chests-now-available.html",
-   "published_at": "2026-10-23T15:00:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383529/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383529/1.png",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383699,
-   "title_en": "New Druid and Rogue Passive Reduces Energy Cost on A First Strike",
-   "url": "https://www.wowhead.com/news=383699",
-   "category": "Forever",
-   "published_at": "2026-11-02T23:18:08Z"
-  },
-  {
-   "id": 383696,
-   "title_en": "Xbox UK Confirms WoW: Forever Not Coming to Xbox in November",
-   "url": "https://www.wowhead.com/news=383696",
-   "category": "Forever",
-   "published_at": "2026-11-02T20:38:53Z"
-  },
   {
    "id": 383695,
    "title_en": "Long Maintenance Planned Ahead of WoW: Forever Launch",
@@ -3473,13 +3478,6 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383521,
-   "title_en": "WoW: Forever Beta Going Offline for Stress Test",
-   "url": "https://www.wowhead.com/news=383521",
-   "category": "Forever",
-   "published_at": "2026-10-21T16:31:31Z"
   },
   {
    "id": 383519,

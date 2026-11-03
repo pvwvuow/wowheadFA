@@ -7,7 +7,7 @@
  "published_at": "2026-10-21T16:31:31Z",
  "fetched_at": "2026-10-25T06:28:53Z",
  "source_mode": "full",
- "status": "new",
+ "status": "published",
  "qa_facts": {
   "numbers": [
    "1.60.1",
@@ -53,6 +53,7 @@
    "ago",
    "agopatch",
    "agree",
+   "ahead",
    "alert",
    "all",
    "allow",
@@ -140,6 +141,7 @@
    "compensating",
    "confirm",
    "confirmed",
+   "confirms",
    "connecticut",
    "conspiracy",
    "consumer",
@@ -151,6 +153,7 @@
    "cookie",
    "cookies",
    "copy",
+   "cost",
    "count",
    "covers",
    "cpra",
@@ -188,9 +191,11 @@
    "dover",
    "download",
    "downtime",
+   "dplanet",
    "drepeatable",
    "dreturn",
    "drop",
+   "druid",
    "druids",
    "dthe",
    "dungeons",
@@ -198,6 +203,7 @@
    "email",
    "enable",
    "enabled",
+   "energy",
    "ensure",
    "enter",
    "entering",
@@ -273,6 +279,7 @@
    "headings",
    "help",
    "him",
+   "hlong",
    "horus",
    "hotfixes",
    "hover",
@@ -281,6 +288,7 @@
    "hplanet",
    "https",
    "huh",
+   "hxbox",
    "i",
    "identifiable",
    "identifying",
@@ -338,6 +346,7 @@
    "loves",
    "lvl",
    "made",
+   "maintenance",
    "make",
    "manage",
    "management",
@@ -358,6 +367,7 @@
    "minutes",
    "mists",
    "mmos",
+   "mnew",
    "mode",
    "monday",
    "monitor",
@@ -414,6 +424,7 @@
    "partners",
    "parts",
    "party",
+   "passive",
    "paste",
    "pdt",
    "people",
@@ -424,6 +435,7 @@
    "personalized",
    "personally",
    "phase",
+   "planned",
    "platform",
    "play",
    "playable",
@@ -474,6 +486,7 @@
    "receive",
    "redirect",
    "reduced",
+   "reduces",
    "refreshes",
    "region",
    "regional",
@@ -489,6 +502,7 @@
    "right",
    "rights",
    "riverwynd",
+   "rogue",
    "rule",
    "ruleset",
    "run",
@@ -542,6 +556,7 @@
    "stress",
    "stresstest",
    "strictly",
+   "strike",
    "stuck",
    "subscribing",
    "such",
@@ -599,6 +614,7 @@
    "tuning",
    "twitch",
    "types",
+   "uk",
    "under",
    "uniquely",
    "united",
@@ -664,6 +680,7 @@
    "written",
    "www.wowhead.com",
    "x",
+   "xbox",
    "xd",
    "years",
    "you",
@@ -704,5 +721,33 @@
    "بتا",
    "Blizzard"
   ]
+ },
+ "article_fa": {
+  "title_fa": "خاموش شدن بتای WoW: Forever جهت آماده‌سازی تست استرس",
+  "lead_fa": "بلیزارد اعلام کرد سرورهای آزمایشی WoW: Forever Beta برای آماده‌سازی تست استرس موقتاً از دسترس خارج می‌شوند.",
+  "body_fa": [
+   "طبق اعلام Blizzard، سرورهای WoW: Forever Beta ظرف چند دقیقه آینده آفلاین می‌شوند تا مقدمات اجرای Stress Test جدید فراهم شود. این تست استرس منطقه‌ای در ساعت 2:00 بعدازظهر به وقت PDT آغاز خواهد شد.",
+   {
+    "t": "h",
+    "x": "نحوه دسترسی به تست استرس"
+   },
+   "برای شرکت در این آزمایش، بازیکنان باید وارد برنامه Battle.net شوند و در صفحه بازی WoW Forever، از بخش انتخاب نسخه بازی گزینه Stress Test را پیدا کنند.",
+   {
+    "t": "note",
+    "x": "جهت آماده‌سازی برای ورود به تست، از منوی کشویی نسخه بازی در بتل‌نت روی گزینه Stress Test کلیک کنید. این خبر تحت شناسه 383521 در تاریخ ۲۱ اکتبر ۲۰۲۶ منتشر شده و بازخوردهای جامعه کاربری را در پچ 1.60.1 به همراه داشته است؛ جایی که نظراتی در قالب صفحه‌بندی ۲۰ دیدگاه از میان موارد ارسالی ۱۰، ۱۲، ۱۶، ۲۲ و ۲۷ روز گذشته پیرامون بازه سطحی لول ۳۰ ثبت شده است.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "بتای Forever",
+   "تست استرس",
+   "بلیزارد"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-03T00:47:13Z"
  }
 }
