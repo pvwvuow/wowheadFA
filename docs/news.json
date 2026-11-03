@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T18:11:48Z",
+ "generated": "2026-11-03T18:12:38Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3381,6 +3381,27 @@
   }
  ],
  "queue": [
+  {
+   "id": 383711,
+   "title_en": "Watch the World of Warcraft: Forever Launch Overview",
+   "url": "https://www.wowhead.com/news=383711",
+   "category": "Live",
+   "published_at": "2026-11-03T17:39:57Z"
+  },
+  {
+   "id": 383710,
+   "title_en": "Shaman Classic Discord Closed in Protest of Shaman Changes in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383710",
+   "category": "WoW",
+   "published_at": "2026-11-03T17:23:13Z"
+  },
+  {
+   "id": 383692,
+   "title_en": "Bonus Experience and Extra Bags for Purchase on CN WoW: Forever Servers",
+   "url": "https://www.wowhead.com/news=383692",
+   "category": "Forever",
+   "published_at": "2026-11-03T16:00:00Z"
+  },
   {
    "id": 383693,
    "title_en": "Complete Aqir Invasions Before Their Removal in 12.1.7 for Cheaper Rewards",
