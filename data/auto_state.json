@@ -2,16 +2,6 @@
  "day": "2026-11-03",
  "published_today": 3,
  "held": {
-  "383570": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
-   "at": "2026-11-02T22:28:38Z",
-   "at_ts": 1793658518.585883
-  },
-  "383543": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
-   "at": "2026-11-02T22:35:16Z",
-   "at_ts": 1793658916.640711
-  },
   "383630": {
    "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
    "at": "2026-11-03T00:33:24Z",
@@ -21,113 +11,23 @@
    "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
    "at": "2026-11-03T01:15:21Z",
    "at_ts": 1793668521.821676
+  },
+  "383698": {
+   "reason": "G7 body: plain paragraphs must be >=40 chars",
+   "at": "2026-11-03T01:54:59Z",
+   "at_ts": 1793670899.934699
+  },
+  "383603": {
+   "reason": "در جدول آیتم‌ها نوع زره اشتباه نسبت داده شده و آیتم اضافی ساختگی درج شده است: طبق منبع Pledgebearer's Cuirass برای Mail، آیتم Galerider's Byrnie برای Leather و Miststalker's Brigandine برای Cloth است، در حالی که در جدول این موارد جابه‌جا شده و ردیف ساختگی «نسخه پارچه‌ای» اضافه شده است. | G5 English token not in source: brigandine | G5 English token not in source: cuirass",
+   "at": "2026-11-03T01:59:27Z",
+   "at_ts": 1793671167.224349
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-03T01:25:48Z",
+ "updated_at": "2026-11-03T02:14:01Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383487",
-    "ts": "2026-10-27T21:53:22Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 40.5,
-    "attempts": 0
-   },
-   {
-    "id": "383521",
-    "ts": "2026-10-27T21:55:13Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 1,
-    "warns": 0,
-    "sec": 111.4,
-    "attempts": 2
-   },
-   {
-    "id": "383519",
-    "ts": "2026-10-27T21:56:13Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 60.1,
-    "attempts": 0
-   },
-   {
-    "id": "383518",
-    "ts": "2026-10-27T21:56:40Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 26.4,
-    "attempts": 0
-   },
-   {
-    "id": "383616",
-    "ts": "2026-10-27T22:44:58Z",
-    "path": "primary",
-    "result": "published",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 52.2,
-    "attempts": 1
-   },
-   {
-    "id": "383543",
-    "ts": "2026-10-27T22:46:05Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 4,
-    "warns": 2,
-    "sec": 66.8,
-    "attempts": 2
-   },
-   {
-    "id": "383543",
-    "ts": "2026-10-27T22:47:19Z",
-    "path": "fallback",
-    "result": "held",
-    "blocks": 2,
-    "warns": 0,
-    "sec": 74.3,
-    "attempts": 1
-   },
-   {
-    "id": "383541",
-    "ts": "2026-10-27T22:48:05Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 1,
-    "warns": 0,
-    "sec": 45.4,
-    "attempts": 2
-   },
-   {
-    "id": "383603",
-    "ts": "2026-10-28T00:01:23Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 5,
-    "warns": 0,
-    "sec": 40.4,
-    "attempts": 2
-   },
-   {
-    "id": "383603",
-    "ts": "2026-10-28T00:01:32Z",
-    "path": "fallback",
-    "result": "held",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 8.8,
-    "attempts": 1
-   },
    {
     "id": "383538",
     "ts": "2026-10-28T00:02:01Z",
@@ -4026,6 +3926,106 @@
     "blocks": 0,
     "warns": 0,
     "sec": 50.2,
+    "attempts": 1
+   },
+   {
+    "id": "383698",
+    "ts": "2026-11-03T01:54:59Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 467.6,
+    "attempts": 2
+   },
+   {
+    "id": "383603",
+    "ts": "2026-11-03T01:59:27Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 0,
+    "sec": 267.3,
+    "attempts": 2
+   },
+   {
+    "id": "383570",
+    "ts": "2026-11-03T02:07:44Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 497.4,
+    "attempts": 1
+   },
+   {
+    "id": "383561",
+    "ts": "2026-11-03T02:08:41Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 57.1,
+    "attempts": 1
+   },
+   {
+    "id": "383552",
+    "ts": "2026-11-03T02:09:29Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 48.2,
+    "attempts": 1
+   },
+   {
+    "id": "383543",
+    "ts": "2026-11-03T02:10:27Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 57.3,
+    "attempts": 1
+   },
+   {
+    "id": "383541",
+    "ts": "2026-11-03T02:11:25Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 58.1,
+    "attempts": 1
+   },
+   {
+    "id": "383487",
+    "ts": "2026-11-03T02:12:22Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 57.3,
+    "attempts": 1
+   },
+   {
+    "id": "383519",
+    "ts": "2026-11-03T02:13:24Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 61.8,
+    "attempts": 1
+   },
+   {
+    "id": "383518",
+    "ts": "2026-11-03T02:14:01Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 36.8,
     "attempts": 1
    }
   ]

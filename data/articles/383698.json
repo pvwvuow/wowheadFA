@@ -79,5 +79,28 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383698/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383698/1.jpg",
+ "last_rejected": {
+  "title_fa": "انتشار قسمت سوم مستند Planet Azeroth با صدای Bill Bailey",
+  "lead_fa": "سومین قسمت از مجموعه ویدیویی Planet Azeroth با گویندگی Bill Bailey منتشر شد و به شگفتی‌ها و تضادهای طبیعت Azeroth می‌پردازد.",
+  "body_fa": [
+   "قسمت سوم مستند Planet Azeroth رسماً به نمایش درآمده است و نقاط مختلف و متضاد جهان Azeroth را زیر ذره‌بین قرار می‌دهد؛ از بلندی‌ها و پستی‌ها گرفته تا گرما، سرما و البته حضور Murlocها.",
+   {
+    "t": "h",
+    "x": "سفر به مناطق سردسیر و آلوده"
+   },
+   "در این قسمت موجودات ساکن در مناطق Plaguelands و Winterspring و چندین نقطه دیگر به تصویر کشیده شده‌اند و Bill Bailey بار دیگر با روایت خاص خود، دنیای حیات وحش Azeroth را شرح می‌دهد.",
+   {
+    "t": "quote",
+    "x": "منتظر چه چیزی هستید؟",
+    "by": "Bill Bailey"
+   },
+   "جامعه بازیکنان برای تجربه کامل این ماجراجویی دیگر نیازی به انتظار طولانی ندارند، چرا که تنها حدود ۴۸ ساعت تا انتشار Forever زمان باقی مانده است."
+  ],
+  "tags_fa": [
+   "Planet Azeroth",
+   "ویدیو",
+   "Forever"
+  ]
+ }
 }
