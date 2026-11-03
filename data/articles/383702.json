@@ -163,5 +163,8 @@
    "Forever",
    "تیونینگ کلاس‌ها"
   ]
- }
+ },
+ "hold_reason": "خطای مدل در بازنویسی: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+ "hold_count": 1,
+ "hold_at": "2026-11-03T09:31:57Z"
 }
