@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T22:36:32Z",
+ "generated": "2026-11-03T22:37:29Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3381,6 +3381,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383723,
+   "title_en": "Blizzard Addresses Trading Post Reward Mount Issues - Fixes Ready Ahead of Maintenance",
+   "url": "https://www.wowhead.com/news=383723",
+   "category": "Live",
+   "published_at": "2026-11-03T21:43:41Z"
+  },
   {
    "id": 383720,
    "title_en": "You Can Play WoW: Forever on a Gamepad",
