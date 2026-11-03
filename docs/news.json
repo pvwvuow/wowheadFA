@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T21:02:30Z",
+ "generated": "2026-11-03T21:03:42Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3381,6 +3381,27 @@
   }
  ],
  "queue": [
+  {
+   "id": 383720,
+   "title_en": "You Can Play WoW: Forever on a Gamepad",
+   "url": "https://www.wowhead.com/news=383720",
+   "category": "Forever",
+   "published_at": "2026-11-03T20:22:18Z"
+  },
+  {
+   "id": 383714,
+   "title_en": "Wowhead's Talent Calculator for WoW: Forever Updated for Launch Class Changes",
+   "url": "https://www.wowhead.com/news=383714",
+   "category": "Forever",
+   "published_at": "2026-11-03T20:00:54Z"
+  },
+  {
+   "id": 383716,
+   "title_en": "Tier Pieces Require Quest Chain That Requires Group Content in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383716",
+   "category": "Forever",
+   "published_at": "2026-11-03T19:30:50Z"
+  },
   {
    "id": 383713,
    "title_en": "D&D: World of Warcraft Early Access Grants Pet, Mount, Decor, and Toy",
