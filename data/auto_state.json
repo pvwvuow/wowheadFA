@@ -2,21 +2,6 @@
  "day": "2026-11-03",
  "published_today": 3,
  "held": {
-  "383695": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
-   "at": "2026-11-03T01:15:21Z",
-   "at_ts": 1793668521.821676
-  },
-  "383698": {
-   "reason": "G7 body: plain paragraphs must be >=40 chars",
-   "at": "2026-11-03T01:54:59Z",
-   "at_ts": 1793670899.934699
-  },
-  "383603": {
-   "reason": "در جدول آیتم‌ها نوع زره اشتباه نسبت داده شده و آیتم اضافی ساختگی درج شده است: طبق منبع Pledgebearer's Cuirass برای Mail، آیتم Galerider's Byrnie برای Leather و Miststalker's Brigandine برای Cloth است، در حالی که در جدول این موارد جابه‌جا شده و ردیف ساختگی «نسخه پارچه‌ای» اضافه شده است. | G5 English token not in source: brigandine | G5 English token not in source: cuirass",
-   "at": "2026-11-03T01:59:27Z",
-   "at_ts": 1793671167.224349
-  },
   "383702": {
    "reason": "G6 space before punctuation",
    "at": "2026-11-03T03:31:05Z",
@@ -29,130 +14,10 @@
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-03T04:33:05Z",
+ "updated_at": "2026-11-03T05:41:14Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383635",
-    "ts": "2026-10-29T15:39:28Z",
-    "path": "fallback",
-    "result": "held",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 48.2,
-    "attempts": 1
-   },
-   {
-    "id": "383640",
-    "ts": "2026-10-29T17:03:06Z",
-    "path": "primary",
-    "result": "published",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 49.8,
-    "attempts": 2
-   },
-   {
-    "id": "383651",
-    "ts": "2026-10-29T19:07:41Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 4,
-    "warns": 0,
-    "sec": 54.6,
-    "attempts": 2
-   },
-   {
-    "id": "383651",
-    "ts": "2026-10-29T19:12:41Z",
-    "path": "fallback",
-    "result": "held",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 300.1,
-    "attempts": 1
-   },
-   {
-    "id": "383650",
-    "ts": "2026-10-29T19:13:33Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 1,
-    "warns": 0,
-    "sec": 51.3,
-    "attempts": 2
-   },
-   {
-    "id": "383649",
-    "ts": "2026-10-29T20:37:17Z",
-    "path": "primary",
-    "result": "published",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 47.2,
-    "attempts": 1
-   },
-   {
-    "id": "383653",
-    "ts": "2026-10-29T20:38:08Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 2,
-    "warns": 3,
-    "sec": 50.3,
-    "attempts": 2
-   },
-   {
-    "id": "383653",
-    "ts": "2026-10-29T20:41:02Z",
-    "path": "fallback",
-    "result": "held",
-    "blocks": 2,
-    "warns": 0,
-    "sec": 173.8,
-    "attempts": 1
-   },
-   {
-    "id": "383656",
-    "ts": "2026-10-29T22:05:22Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 3,
-    "warns": 2,
-    "sec": 64.7,
-    "attempts": 2
-   },
-   {
-    "id": "383656",
-    "ts": "2026-10-29T22:09:44Z",
-    "path": "fallback",
-    "result": "held",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 260.8,
-    "attempts": 1
-   },
-   {
-    "id": "383659",
-    "ts": "2026-10-30T01:07:27Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 8,
-    "warns": 0,
-    "sec": 56.7,
-    "attempts": 2
-   },
-   {
-    "id": "383659",
-    "ts": "2026-10-30T01:09:14Z",
-    "path": "fallback",
-    "result": "held",
-    "blocks": 6,
-    "warns": 2,
-    "sec": 106.9,
-    "attempts": 1
-   },
    {
     "id": "383660",
     "ts": "2026-10-30T01:09:57Z",
@@ -4031,6 +3896,126 @@
     "blocks": 0,
     "warns": 0,
     "sec": 43.0,
+    "attempts": 1
+   },
+   {
+    "id": "383704",
+    "ts": "2026-11-03T05:29:49Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 229.7,
+    "attempts": 1
+   },
+   {
+    "id": "383698",
+    "ts": "2026-11-03T05:31:13Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 84.4,
+    "attempts": 1
+   },
+   {
+    "id": "383695",
+    "ts": "2026-11-03T05:32:05Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 51.3,
+    "attempts": 1
+   },
+   {
+    "id": "383630",
+    "ts": "2026-11-03T05:33:23Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 78.4,
+    "attempts": 1
+   },
+   {
+    "id": "383603",
+    "ts": "2026-11-03T05:34:30Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 66.7,
+    "attempts": 1
+   },
+   {
+    "id": "383570",
+    "ts": "2026-11-03T05:35:26Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 56.6,
+    "attempts": 1
+   },
+   {
+    "id": "383561",
+    "ts": "2026-11-03T05:36:24Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 57.9,
+    "attempts": 1
+   },
+   {
+    "id": "383543",
+    "ts": "2026-11-03T05:37:38Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 73.6,
+    "attempts": 1
+   },
+   {
+    "id": "383541",
+    "ts": "2026-11-03T05:38:40Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 62.2,
+    "attempts": 1
+   },
+   {
+    "id": "383487",
+    "ts": "2026-11-03T05:39:52Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 71.5,
+    "attempts": 1
+   },
+   {
+    "id": "383519",
+    "ts": "2026-11-03T05:40:33Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 41.7,
+    "attempts": 1
+   },
+   {
+    "id": "383518",
+    "ts": "2026-11-03T05:41:14Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 40.3,
     "attempts": 1
    }
   ]
