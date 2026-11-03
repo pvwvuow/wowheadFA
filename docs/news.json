@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T16:08:04Z",
+ "generated": "2026-11-03T16:08:47Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3381,6 +3381,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383693,
+   "title_en": "Complete Aqir Invasions Before Their Removal in 12.1.7 for Cheaper Rewards",
+   "url": "https://www.wowhead.com/news=383693",
+   "category": "Live",
+   "published_at": "2026-11-03T15:00:00Z"
+  },
   {
    "id": 383704,
    "title_en": "WoW: Forever Official Development Notes and Class Tuning",
