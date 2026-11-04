@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T21:20:43Z",
+ "generated": "2026-11-04T21:21:34Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3407,6 +3407,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383742,
+   "title_en": "Twitch Teasing \"Major Reveal\" on Warcraft Twitch Stream",
+   "url": "https://www.wowhead.com/news=383742",
+   "category": "Forever",
+   "published_at": "2026-11-04T20:22:35Z"
+  },
   {
    "id": 383741,
    "title_en": "WoW: Forever Development Notes Updated - UI and Accessibility Updates",
