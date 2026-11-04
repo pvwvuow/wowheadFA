@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T15:45:29Z",
+ "generated": "2026-11-04T17:07:01Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3407,6 +3407,27 @@
   }
  ],
  "queue": [
+  {
+   "id": 383725,
+   "title_en": "Did Blizzard Tease Future WoW: Forever Class and Race Combinations?",
+   "url": "https://www.wowhead.com/news=383725",
+   "category": "Forever",
+   "published_at": "2026-11-04T17:00:00Z"
+  },
+  {
+   "id": 383735,
+   "title_en": "Warcraft Twitch Channel 3D Printing and Building Mysterious Object",
+   "url": "https://www.wowhead.com/news=383735",
+   "category": "Forever",
+   "published_at": "2026-11-04T16:49:41Z"
+  },
+  {
+   "id": 383727,
+   "title_en": "Every Guide You'll Need for Launch: the WoW: Forever Guide Compendium",
+   "url": "https://www.wowhead.com/news=383727",
+   "category": "Forever",
+   "published_at": "2026-11-04T16:00:00Z"
+  },
   {
    "id": 383722,
    "title_en": "Wowhead's Forever Tools Now Live and Updated for Launch",
