@@ -102,7 +102,7 @@
   ],
   "chars": 792
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383724/1.jpg",
@@ -112,5 +112,26 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383724/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
  "hold_count": 3,
- "hold_at": "2026-11-04T13:00:29Z"
+ "hold_at": "2026-11-04T13:00:29Z",
+ "article_fa": {
+  "title_fa": "بازگشایی سرور دیسکورد Classic Shaman پس از حدود ۱۳ ساعت",
+  "lead_fa": "سرور دیسکورد Classic Shaman پس از نزدیک به ۱۳ ساعت تعطیلی موقت دوباره بازگشایی شد و بازیکنان می‌توانند در کانال‌های آن به گفتگو بپردازند.",
+  "body_fa": [
+   "سرور دیسکورد Classic Shaman پس از حدود ۱۳ ساعت بار دیگر بازگشایی شد و امکان ارسال پیام در کانال‌های آن برای تمام بازیکنان فراهم شده است. این سرور حوالی ساعت ۱:۳۷ بامداد به وقت PST بسته شده بود و بازیکنان اجازه ارسال پیام در هیچ‌یک از کانال‌ها را نداشتند.",
+   "علت این تصمیم، «نحوه رویکرد توسعه‌دهندگان به تمامی Specهای Shaman در WoW Forever» عنوان شده بود و گردانندگان آن فهرستی از مشکلات طراحی را مطرح کرده بودند که به عقیده آن‌ها با طراحی پایه و حس کلاس Shaman در تضاد بود.",
+   "در ساعت ۲:۲۸ بعدازظهر به وقت PST، این سرور فعالیت خود را از سر گرفت تا بازیکنان بتوانند برای عرضه WoW: Forever آماده شوند. گردانندگان در پیامی اعلام کردند درهای سرور دوباره باز است و قصد جدی برای بستن دیسکورد هنگام عرضه این نسخه نداشته‌اند.",
+   "نسخه WoW: Forever در فاصله کمی بیش از ۲۴ ساعت دیگر آغاز به کار می‌کند، در حالی که از زمان انتشار یادداشت‌های توسعه در روز گذشته، هیچ تغییرات تیونینگی برای آن فهرست نشده است."
+  ],
+  "tags_fa": [
+   "کلاس Shaman",
+   "دیسکورد",
+   "جامعه بازیکنان",
+   "WoW Forever"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-04T16:13:42Z"
+ }
 }
