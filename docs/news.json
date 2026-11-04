@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T21:21:34Z",
+ "generated": "2026-11-04T22:50:25Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3408,6 +3408,27 @@
  ],
  "queue": [
   {
+   "id": 383748,
+   "title_en": "Secret Twitch Drop Awarded Pouch of Violet Dust Toy to Live Stream Viewers in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383748",
+   "category": "Forever",
+   "published_at": "2026-11-04T22:18:26Z"
+  },
+  {
+   "id": 383747,
+   "title_en": "Taldramir, the Whispering Wood Revealed as WoW: Forever Legendary",
+   "url": "https://www.wowhead.com/news=383747",
+   "category": "Forever",
+   "published_at": "2026-11-04T22:05:13Z"
+  },
+  {
+   "id": 383744,
+   "title_en": "The Questie Addon is Back in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383744",
+   "category": "Forever",
+   "published_at": "2026-11-04T21:30:48Z"
+  },
+  {
    "id": 383742,
    "title_en": "Twitch Teasing \"Major Reveal\" on Warcraft Twitch Stream",
    "url": "https://www.wowhead.com/news=383742",
@@ -3665,13 +3686,6 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
