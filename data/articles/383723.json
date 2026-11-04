@@ -88,12 +88,57 @@
   ],
   "chars": 785
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383723/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383723/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383723/1.jpg",
+ "article_fa": {
+  "title_fa": "برطرف شدن مشکلات مانت جدید Trading Post پیش از نگهداری هفتگی",
+  "lead_fa": "بلیزارد اعلام کرد که برای رفع ایرادات مانت Hot Motocross Bunmover 4600 پیش از موعد نگهداری هفتهٔ آینده در حال آماده‌سازی اصلاحات است.",
+  "body_fa": [
+   "شرکت Blizzard به مشکلات مانت جدید Trading Post یعنی Hot Motocross Bunmover 4600 که پیش‌تر به عنوان پاداش ماه نوامبر 2026 معرفی شده بود، واکنش نشان داد.",
+   {
+    "t": "h",
+    "x": "مشکلات گزارش‌شده توسط بازیکنان"
+   },
+   "با در دسترس قرار گرفتن این مانت، بازیکنان متوجه چند ایراد اساسی در آن شدند:",
+   {
+    "t": "ul",
+    "xs": [
+     "نچرخیدن چرخ‌ها هنگام حرکت مانت",
+     "مشکلات تداخل گرافیکی (Clipping) با مانت",
+     "معلق ماندن برخی از نژادهای کاراکتر در هوا"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "پاسخ رسمی بلیزارد"
+   },
+   {
+    "t": "quote",
+    "x": "تیم ما به‌سختی در حال کار برای رفع مشکلات مانت‌های جدید Hot Motocross Bunmover است. انتظار داریم اصلاحات پیش از موعد نگهداری هفتهٔ آینده آماده شوند. از گزارش‌های شما سپاسگزاریم!",
+    "by": "Blizzard"
+   },
+   {
+    "t": "note",
+    "x": "طبق اعلام سازندگان، این اصلاحات پیش از اعمال Maintenance هفتگی آماده و عرضه خواهند شد.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "Trading Post",
+   "مانت",
+   "Blizzard",
+   "هاتفیکس"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-04T05:33:38Z"
+ }
 }
