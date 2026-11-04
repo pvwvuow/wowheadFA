@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T20:11:52Z",
+ "generated": "2026-11-04T20:12:52Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3407,6 +3407,27 @@
   }
  ],
  "queue": [
+  {
+   "id": 383741,
+   "title_en": "WoW: Forever Development Notes Updated - UI and Accessibility Updates",
+   "url": "https://www.wowhead.com/news=383741",
+   "category": "Forever",
+   "published_at": "2026-11-04T19:38:53Z"
+  },
+  {
+   "id": 383740,
+   "title_en": "New Alliance and Horde Twitch Chat Badges for Subs to WoW Streamers",
+   "url": "https://www.wowhead.com/news=383740",
+   "category": "WoW",
+   "published_at": "2026-11-04T19:12:22Z"
+  },
+  {
+   "id": 383738,
+   "title_en": "New Nvidia Drivers for World of Warcraft: Forever",
+   "url": "https://www.wowhead.com/news=383738",
+   "category": "Forever",
+   "published_at": "2026-11-04T18:58:48Z"
+  },
   {
    "id": 383736,
    "title_en": "Introducing The Forever Files: Wowhead's Forever Newsletter",
