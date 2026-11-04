@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T14:58:04Z",
+ "generated": "2026-11-04T16:06:55Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3407,6 +3407,20 @@
   }
  ],
  "queue": [
+  {
+   "id": 383727,
+   "title_en": "Every Guide You'll Need for Launch: the WoW: Forever Guide Compendium",
+   "url": "https://www.wowhead.com/news=383727",
+   "category": "Forever",
+   "published_at": "2026-11-04T16:00:00Z"
+  },
+  {
+   "id": 383722,
+   "title_en": "Wowhead's Forever Tools Now Live and Updated for Launch",
+   "url": "https://www.wowhead.com/news=383722",
+   "category": "Forever",
+   "published_at": "2026-11-04T15:00:00Z"
+  },
   {
    "id": 383728,
    "title_en": "When Does WoW: Forever Launch Globally?",
