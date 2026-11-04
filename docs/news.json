@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T14:57:25Z",
+ "generated": "2026-11-04T14:58:04Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3407,6 +3407,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383728,
+   "title_en": "When Does WoW: Forever Launch Globally?",
+   "url": "https://www.wowhead.com/news=383728",
+   "category": "Forever",
+   "published_at": "2026-11-04T14:00:00Z"
+  },
   {
    "id": 383724,
    "title_en": "Classic Shaman Discord Open Again After 13 Hours",
