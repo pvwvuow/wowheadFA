@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T19:25:17Z",
+ "generated": "2026-11-04T19:26:09Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3407,6 +3407,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383736,
+   "title_en": "Introducing The Forever Files: Wowhead's Forever Newsletter",
+   "url": "https://www.wowhead.com/news=383736",
+   "category": "Wowhead",
+   "published_at": "2026-11-04T17:55:14Z"
+  },
   {
    "id": 383725,
    "title_en": "Did Blizzard Tease Future WoW: Forever Class and Race Combinations?",
