@@ -1,8 +1,41 @@
 {
- "generated": "2026-11-04T14:58:04Z",
+ "generated": "2026-11-04T16:44:23Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383724,
+   "slug": "classic-shaman-discord-open-again-after-13-hours",
+   "title_fa": "بازگشایی سرور دیسکورد Classic Shaman پس از حدود ۱۳ ساعت",
+   "lead_fa": "سرور دیسکورد Classic Shaman پس از نزدیک به ۱۳ ساعت تعطیلی موقت دوباره بازگشایی شد و بازیکنان می‌توانند در کانال‌های آن به گفتگو بپردازند.",
+   "body_fa": [
+    "سرور دیسکورد Classic Shaman پس از حدود ۱۳ ساعت بار دیگر بازگشایی شد و امکان ارسال پیام در کانال‌های آن برای تمام بازیکنان فراهم شده است. این سرور حوالی ساعت ۱:۳۷ بامداد به وقت PST بسته شده بود و بازیکنان اجازه ارسال پیام در هیچ‌یک از کانال‌ها را نداشتند.",
+    "علت این تصمیم، «نحوه رویکرد توسعه‌دهندگان به تمامی Specهای Shaman در WoW Forever» عنوان شده بود و گردانندگان آن فهرستی از مشکلات طراحی را مطرح کرده بودند که به عقیده آن‌ها با طراحی پایه و حس کلاس Shaman در تضاد بود.",
+    "در ساعت ۲:۲۸ بعدازظهر به وقت PST، این سرور فعالیت خود را از سر گرفت تا بازیکنان بتوانند برای عرضه WoW: Forever آماده شوند. گردانندگان در پیامی اعلام کردند درهای سرور دوباره باز است و قصد جدی برای بستن دیسکورد هنگام عرضه این نسخه نداشته‌اند.",
+    "نسخه WoW: Forever در فاصله کمی بیش از ۲۴ ساعت دیگر آغاز به کار می‌کند، در حالی که از زمان انتشار یادداشت‌های توسعه در روز گذشته، هیچ تغییرات تیونینگی برای آن فهرست نشده است."
+   ],
+   "tags_fa": [
+    "کلاس Shaman",
+    "دیسکورد",
+    "جامعه بازیکنان",
+    "WoW Forever"
+   ],
+   "items": [],
+   "title_en": "Classic Shaman Discord Open Again After 13 Hours",
+   "source_url": "https://www.wowhead.com/news=383724",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383724-classic-shaman-discord-open-again-after-13-hours.html",
+   "published_at": "2026-11-03T22:32:58Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383724/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383724/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383723,
    "slug": "blizzard-addresses-trading-post-reward-mount-issues-fixes-ready-ahead-",
@@ -3371,39 +3404,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383558,
-   "slug": "watch-the-world-of-warcraft-midnight-motion-comic-singularity",
-   "title_fa": "تماشای موشن‌کامیک Midnight با عنوان Singularity",
-   "lead_fa": "بلیزارد موشن‌کامیک جدیدی از سری Midnight به نام Singularity را منتشر کرده که توسط Yuri Lowenthal به عنوان Arator Windrunner خوانده شده است.",
-   "body_fa": [
-    "این ویدیو شش دقیقه‌ای شامل خوانش کمیک Singularity نوشتهٔ Robert Brooks توسط Yuri Lowenthal است.",
-    "داستان بر حول Arator Windrunner می‌چرخد که با کمک مربی‌اش Umbric به عمق Void سفر می‌کند تا سرنخی از سرنوشت والدین گمشده‌اش بیابد.",
-    "او باید با Void روبه‌رو شود بدون آنکه خود را به آن تسلیم کند.",
-    "Letters توسط AndWorld Design انجام شده و نسخهٔ PDF کمیک نیز قابل دانلود است.",
-    "Yuri Lowenthal صداپیشهٔ Arator Windrunner است."
-   ],
-   "tags_fa": [
-    "Midnight",
-    "موشن‌کامیک",
-    "Singularity"
-   ],
-   "items": [],
-   "title_en": "Watch the World of Warcraft: Midnight Motion Comic, “Singularity”",
-   "source_url": "https://www.wowhead.com/news=383558",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383558-watch-the-world-of-warcraft-midnight-motion-comic-singularity.html",
-   "published_at": "2026-10-23T17:08:34Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-grok",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383558/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383558/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3413,13 +3413,6 @@
    "url": "https://www.wowhead.com/news=383728",
    "category": "Forever",
    "published_at": "2026-11-04T14:00:00Z"
-  },
-  {
-   "id": 383724,
-   "title_en": "Classic Shaman Discord Open Again After 13 Hours",
-   "url": "https://www.wowhead.com/news=383724",
-   "category": "Forever",
-   "published_at": "2026-11-03T22:32:58Z"
   },
   {
    "id": 383720,
