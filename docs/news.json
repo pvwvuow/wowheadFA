@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T15:15:03Z",
+ "generated": "2026-11-05T15:16:08Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3408,6 +3408,13 @@
  ],
  "queue": [
   {
+   "id": 383754,
+   "title_en": "Earn 700 Discord Orbs with New WoW: Forever Quest",
+   "url": "https://www.wowhead.com/news=383754",
+   "category": "Forever",
+   "published_at": "2026-11-05T14:00:00Z"
+  },
+  {
    "id": 383758,
    "title_en": "Temporary Portals Replace Boats and Zeppelins Due to Bugs",
    "url": "https://www.wowhead.com/news=383758",
@@ -3679,13 +3686,6 @@
    "url": "https://www.wowhead.com/news=383561",
    "category": "WoW",
    "published_at": "2026-10-23T17:25:01Z"
-  },
-  {
-   "id": 383547,
-   "title_en": "Who is WoW: Forever Meant For? Blizzard Discusses on Forever Podcast",
-   "url": "https://www.wowhead.com/news=383547",
-   "category": "Forever",
-   "published_at": "2026-10-23T14:00:00Z"
   }
  ]
 }
