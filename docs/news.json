@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T20:03:48Z",
+ "generated": "2026-11-05T21:26:06Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3408,6 +3408,13 @@
  ],
  "queue": [
   {
+   "id": 383771,
+   "title_en": "Blizzard Investigating Issues with Certain Escort Quests in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383771",
+   "category": "Forever",
+   "published_at": "2026-11-05T20:23:47Z"
+  },
+  {
    "id": 383769,
    "title_en": "New Prerequisites Required for Ruins of Lordaeron Dungeon Quests in WoW: Forever",
    "url": "https://www.wowhead.com/news=383769",
@@ -3679,13 +3686,6 @@
    "url": "https://www.wowhead.com/news=383695",
    "category": "Forever",
    "published_at": "2026-11-02T18:25:59Z"
-  },
-  {
-   "id": 383657,
-   "title_en": "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
-   "url": "https://www.wowhead.com/news=383657",
-   "category": "Forever",
-   "published_at": "2026-10-31T18:00:00Z"
   }
  ]
 }
