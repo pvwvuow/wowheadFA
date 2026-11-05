@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T23:41:20Z",
+ "generated": "2026-11-05T00:55:06Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3408,6 +3408,27 @@
  ],
  "queue": [
   {
+   "id": 383750,
+   "title_en": "Official Warcraft Twitch Stream Showing Heat Map of Level Ups",
+   "url": "https://www.wowhead.com/news=383750",
+   "category": "Forever",
+   "published_at": "2026-11-05T00:51:34Z"
+  },
+  {
+   "id": 383751,
+   "title_en": "Obtain the Pouch of Violet Dust Toy - Increases Camp Benefits by 1 Hour",
+   "url": "https://www.wowhead.com/news=383751",
+   "category": "Forever",
+   "published_at": "2026-11-05T00:32:54Z"
+  },
+  {
+   "id": 383749,
+   "title_en": "World of Warcraft: Forever is Now Live",
+   "url": "https://www.wowhead.com/news=383749",
+   "category": "Forever",
+   "published_at": "2026-11-04T23:01:38Z"
+  },
+  {
    "id": 383748,
    "title_en": "Secret Twitch Drop Awarded Pouch of Violet Dust Toy to Live Stream Viewers in WoW: Forever",
    "url": "https://www.wowhead.com/news=383748",
@@ -3665,27 +3686,6 @@
    "url": "https://www.wowhead.com/news=383541",
    "category": "Forever",
    "published_at": "2026-10-22T17:13:00Z"
-  },
-  {
-   "id": 383540,
-   "title_en": "The WoW: Forever Podcast Episode 5 Now Available - The End of Beta Special!",
-   "url": "https://www.wowhead.com/news=383540",
-   "category": "Forever",
-   "published_at": "2026-10-22T16:21:06Z"
-  },
-  {
-   "id": 383487,
-   "title_en": "The Current State of Protection Paladins in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383487",
-   "category": "Forever",
-   "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
