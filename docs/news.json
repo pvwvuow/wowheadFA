@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T15:37:59Z",
+ "generated": "2026-11-05T16:31:05Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3408,6 +3408,13 @@
  ],
  "queue": [
   {
+   "id": 383745,
+   "title_en": "McDonald's Canada Offering WoW Game Time for Reward Points",
+   "url": "https://www.wowhead.com/news=383745",
+   "category": "WoW",
+   "published_at": "2026-11-05T16:00:00Z"
+  },
+  {
    "id": 383746,
    "title_en": "Mythic Venomous Abyss Caches Replaced by Open World Gear in Talebound Rewards",
    "url": "https://www.wowhead.com/news=383746",
@@ -3679,13 +3686,6 @@
    "url": "https://www.wowhead.com/news=383573",
    "category": "Forever",
    "published_at": "2026-10-26T15:00:00Z"
-  },
-  {
-   "id": 383570,
-   "title_en": "Den of Nalorakk and Murder Row Bug Fixes - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383570",
-   "category": "Live",
-   "published_at": "2026-10-24T00:23:57Z"
   }
  ]
 }
