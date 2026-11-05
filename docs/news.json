@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T00:56:21Z",
+ "generated": "2026-11-05T01:47:28Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3408,6 +3408,13 @@
  ],
  "queue": [
   {
+   "id": 383753,
+   "title_en": "The Great Outdoors Quest Bugged and How to Complete",
+   "url": "https://www.wowhead.com/news=383753",
+   "category": "Forever",
+   "published_at": "2026-11-05T01:04:04Z"
+  },
+  {
    "id": 383750,
    "title_en": "Official Warcraft Twitch Stream Showing Heat Map of Level Ups",
    "url": "https://www.wowhead.com/news=383750",
@@ -3679,13 +3686,6 @@
    "url": "https://www.wowhead.com/news=383543",
    "category": "Forever",
    "published_at": "2026-10-22T18:15:43Z"
-  },
-  {
-   "id": 383541,
-   "title_en": "The WoW: Forever End of Beta Celebration Has Begun ft. Azuregos and Kazzak",
-   "url": "https://www.wowhead.com/news=383541",
-   "category": "Forever",
-   "published_at": "2026-10-22T17:13:00Z"
   }
  ]
 }
