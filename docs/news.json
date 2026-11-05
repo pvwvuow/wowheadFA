@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T15:16:08Z",
+ "generated": "2026-11-05T15:37:59Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3408,6 +3408,13 @@
  ],
  "queue": [
   {
+   "id": 383746,
+   "title_en": "Mythic Venomous Abyss Caches Replaced by Open World Gear in Talebound Rewards",
+   "url": "https://www.wowhead.com/news=383746",
+   "category": "PTR",
+   "published_at": "2026-11-05T15:00:00Z"
+  },
+  {
    "id": 383754,
    "title_en": "Earn 700 Discord Orbs with New WoW: Forever Quest",
    "url": "https://www.wowhead.com/news=383754",
@@ -3679,13 +3686,6 @@
    "url": "https://www.wowhead.com/news=383570",
    "category": "Live",
    "published_at": "2026-10-24T00:23:57Z"
-  },
-  {
-   "id": 383561,
-   "title_en": "This Week's WoW Recap - WoW: Forever, Hallow's End, Fall Savings",
-   "url": "https://www.wowhead.com/news=383561",
-   "category": "WoW",
-   "published_at": "2026-10-23T17:25:01Z"
   }
  ]
 }
