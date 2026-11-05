@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T19:41:52Z",
+ "generated": "2026-11-05T20:03:48Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3408,6 +3408,13 @@
  ],
  "queue": [
   {
+   "id": 383769,
+   "title_en": "New Prerequisites Required for Ruins of Lordaeron Dungeon Quests in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383769",
+   "category": "Forever",
+   "published_at": "2026-11-05T18:51:44Z"
+  },
+  {
    "id": 383691,
    "title_en": "The Weekly Reset with Taliesin and Evitel: Forever Forever? Talebound and More",
    "url": "https://www.wowhead.com/news=383691",
@@ -3679,13 +3686,6 @@
    "url": "https://www.wowhead.com/news=383657",
    "category": "Forever",
    "published_at": "2026-10-31T18:00:00Z"
-  },
-  {
-   "id": 383648,
-   "title_en": "The WoW: Forever Podcast Episode 6 Now Available - Tech and Community Building",
-   "url": "https://www.wowhead.com/news=383648",
-   "category": "Forever",
-   "published_at": "2026-10-29T16:27:09Z"
   }
  ]
 }
