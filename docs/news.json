@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T21:14:36Z",
+ "generated": "2026-11-06T22:36:57Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2933,6 +2933,13 @@
  ],
  "queue": [
   {
+   "id": 383790,
+   "title_en": "Upcoming Pet Changes in WoW: Forever - Upcoming Class Tuning for November 10th",
+   "url": "https://www.wowhead.com/news=383790",
+   "category": "Forever",
+   "published_at": "2026-11-06T21:13:27Z"
+  },
+  {
    "id": 383787,
    "title_en": "Raid Rewards and PvP Balance - Crix Interview on WoW: Forever",
    "url": "https://www.wowhead.com/news=383787",
@@ -3204,13 +3211,6 @@
    "url": "https://www.wowhead.com/news=383716",
    "category": "Forever",
    "published_at": "2026-11-03T19:30:50Z"
-  },
-  {
-   "id": 383713,
-   "title_en": "D&D: World of Warcraft Early Access Grants Pet, Mount, Decor, and Toy",
-   "url": "https://www.wowhead.com/news=383713",
-   "category": "WoW",
-   "published_at": "2026-11-03T18:56:09Z"
   }
  ]
 }
