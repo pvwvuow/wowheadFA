@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T01:02:09Z",
+ "generated": "2026-11-06T01:03:10Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3377,6 +3377,20 @@
  ],
  "queue": [
   {
+   "id": 383774,
+   "title_en": "Minimum Deposit of 1 Silver Required to List Items on Auction House in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383774",
+   "category": "Forever",
+   "published_at": "2026-11-05T23:29:31Z"
+  },
+  {
+   "id": 383773,
+   "title_en": "Mythic Twin Fangs Nerf for The Venomous Abyss Raid",
+   "url": "https://www.wowhead.com/news=383773",
+   "category": "Live",
+   "published_at": "2026-11-05T22:48:36Z"
+  },
+  {
    "id": 383769,
    "title_en": "New Prerequisites Required for Ruins of Lordaeron Dungeon Quests in WoW: Forever",
    "url": "https://www.wowhead.com/news=383769",
@@ -3641,20 +3655,6 @@
    "url": "https://www.wowhead.com/news=383657",
    "category": "Forever",
    "published_at": "2026-10-31T18:00:00Z"
-  },
-  {
-   "id": 383648,
-   "title_en": "The WoW: Forever Podcast Episode 6 Now Available - Tech and Community Building",
-   "url": "https://www.wowhead.com/news=383648",
-   "category": "Forever",
-   "published_at": "2026-10-29T16:27:09Z"
-  },
-  {
-   "id": 383630,
-   "title_en": "Planet Azeroth: Episode 1 ft. Bill Bailey",
-   "url": "https://www.wowhead.com/news=383630",
-   "category": "Forever",
-   "published_at": "2026-10-28T16:38:15Z"
   }
  ]
 }
