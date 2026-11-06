@@ -223,5 +223,105 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383769/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383769/1.jpg",
+ "last_rejected": {
+  "title_fa": "پیش‌نیازهای جدید کوئست‌های دانجن Ruins of Lordaeron در WoW: Forever",
+  "lead_fa": "دو کوئست فکشن Horde برای دانجن Ruins of Lordaeron روی سرورهای لایو دارای زنجیره‌کوئست‌های پیش‌نیاز شدند.",
+  "body_fa": [
+   "کوئست‌های دانجن در WoW: Forever منبع بسیار خوبی برای کسب تجربه هستند، زیرا میزان Experience دریافتی از کشتن موجودات دانجن کاهش یافته و در مقابل، Experience حاصل از کوئست‌های دانجن افزایش داشته است. دانجن Ruins of Lordaeron دومین دانجنی است که بازیکنان Horde معمولاً به سراغ آن می‌روند، اما روی سرورهای لایو تغییری در دریافت کوئست‌های آن اعمال شده است.",
+   "در حالی که بازیکنان Alliance برای دریافت کوئست‌های خود نیازی به پیش‌نیاز ندارند، دو کوئست The Wrath of Rath'mael و The New Plague برای Horde که قبلاً در Beta بلافاصله در دسترس بودند، اکنون نیازمند تکمیل زنجیره‌کوئست هستند.",
+   {
+    "t": "h",
+    "x": "پیش‌نیاز کوئست The Wrath of Rath'mael"
+   },
+   "کوئست The Wrath of Rath'mael دیگر بلافاصله از Deathguard Kristof قابل دریافت نیست. بازیکنان باید ابتدا یک زنجیره‌کوئست لول ۱۳ را تکمیل کنند که با کوئست Rear Guard Patrol نزد Deathguard Linnea در Tirisfal Glades در مختصات 65.4 60.2 آغاز می‌شود. این مراحل شامل موارد زیر است:",
+   {
+    "t": "ul",
+    "xs": [
+     "شکست دادن ۸ موجود از نوع Bleeding Horror و Wandering Spirit در کوئست Rear Guard Patrol",
+     "شکست دادن ماب الیت Riptear با لول 13 در ادامهٔ کوئست Rear Guard Patrol"
+    ]
+   },
+   "پس از اتمام این مراحل، کوئست The Wrath of Rath'mael در دسترس قرار می‌گیرد.",
+   {
+    "t": "h",
+    "x": "پیش‌نیاز کوئست The New Plague"
+   },
+   "کوئست The New Plague نیز دیگر فوراً از Theodore Griffs دریافت نمی‌شود. بازیکنان باید یک زنجیره‌کوئست طولانی سه‌بخشی را پشت سر بگذارند که بین دو منطقهٔ Tirisfal Glades و Silverpine Forest جریان دارد و شامل رفت‌وآمد فراوان و آیتم‌هایی با شانس دراپ پایین است:",
+   {
+    "t": "ul",
+    "xs": [
+     "جمع‌آوری ۶ آیتم با دراپ‌ریت پایین از خرس‌ها و عنکبوت‌ها و سپس تحویل آن‌ها در Undercity در کوئست A Recipe For Death",
+     "بازگشت به Silverpine Forest و لوت کردن یک کتاب در بخش جنوبی نقشه در منطقه‌ای الیت با زمان کست ۵ ثانیه در کوئست A Recipe For Death",
+     "لوت کردن تعداد زیادی آیتم با شانس دراپ پایین از موجودات لول ۱۸ در نزدیکی دریاچه در ادامهٔ A Recipe For Death"
+    ]
+   },
+   "با به پایان رساندن این مراحل، کوئست The New Plague نزد Theodore Griffs در Undercity در مختصات 46.6 71.8 در دسترس خواهد بود.",
+   {
+    "t": "h",
+    "x": "فهرست کوئست‌های دانجن Ruins of Lordaeron"
+   },
+   {
+    "t": "table",
+    "head": [
+     "نام کوئست",
+     "لول",
+     "محل و نحوه شروع"
+    ],
+    "rows": [
+     [
+      "The Wrath of Rath'mael",
+      "15",
+      "پیش‌نیاز Rear Guard Patrol در Tirisfal Glades از Deathguard Linnea در 65.6 60.2"
+     ],
+     [
+      "A Frightened Request",
+      "15",
+      "منطقه Silverpine Forest در The Sepulcher از Tabitha Heartweaver در 44.6 42.8"
+     ],
+     [
+      "Light's Justice",
+      "15",
+      "منطقه Undercity در The Apothecarium از Morbin Lightbane در 57.8 89.8"
+     ],
+     [
+      "The New Plague",
+      "15",
+      "پیش‌نیاز A Recipe For Death در Silverpine Forest از Apothecary Renferrel در 42.8 40.8"
+     ],
+     [
+      "Unending Torment",
+      "16",
+      "آیتم لوت‌شده از The Baron در The Ruins of Lordaeron بخش King's Alley"
+     ],
+     [
+      "Crest of Lordaeron (کوئست مخفی)",
+      "14",
+      "آیتم قابل تعامل با چندین نقطه اسپاون در The Ruins of Lordaeron"
+     ],
+     [
+      "Abominable Creatures",
+      "16",
+      "ورودی دانجن The Ruins of Lordaeron از Captain Truman"
+     ],
+     [
+      "Bloodied Insignia",
+      "16",
+      "دراپ از ماب‌های Undead در دانجن The Ruins of Lordaeron"
+     ],
+     [
+      "Remember That I Love You",
+      "15",
+      "آیتم قابل تعامل واقع در The Ruins of Lordaeron نزدیک Rath'mael"
+     ]
+    ]
+   }
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "دانجن",
+   "Horde",
+   "Ruins of Lordaeron"
+  ]
+ }
 }
