@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T23:29:50Z",
+ "generated": "2026-11-06T23:30:58Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2951,6 +2951,13 @@
  ],
  "queue": [
   {
+   "id": 383790,
+   "title_en": "Upcoming Pet Changes in WoW: Forever - Upcoming Class Tuning for November 10th",
+   "url": "https://www.wowhead.com/news=383790",
+   "category": "Forever",
+   "published_at": "2026-11-06T21:13:27Z"
+  },
+  {
    "id": 383787,
    "title_en": "Raid Rewards and PvP Balance - Crix Interview on WoW: Forever",
    "url": "https://www.wowhead.com/news=383787",
@@ -3222,13 +3229,6 @@
    "url": "https://www.wowhead.com/news=383712",
    "category": "Forever",
    "published_at": "2026-11-03T18:01:37Z"
-  },
-  {
-   "id": 383711,
-   "title_en": "Watch the World of Warcraft: Forever Launch Overview",
-   "url": "https://www.wowhead.com/news=383711",
-   "category": "Forever",
-   "published_at": "2026-11-03T17:39:57Z"
   }
  ]
 }
