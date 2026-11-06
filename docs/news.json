@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T21:26:06Z",
+ "generated": "2026-11-06T00:09:27Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3408,6 +3408,20 @@
  ],
  "queue": [
   {
+   "id": 383774,
+   "title_en": "Minimum Deposit of 1 Silver Required to List Items on Auction House in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383774",
+   "category": "Forever",
+   "published_at": "2026-11-05T23:29:31Z"
+  },
+  {
+   "id": 383773,
+   "title_en": "Mythic Twin Fangs Nerf for The Venomous Abyss Raid",
+   "url": "https://www.wowhead.com/news=383773",
+   "category": "Live",
+   "published_at": "2026-11-05T22:48:36Z"
+  },
+  {
    "id": 383771,
    "title_en": "Blizzard Investigating Issues with Certain Escort Quests in WoW: Forever",
    "url": "https://www.wowhead.com/news=383771",
@@ -3672,20 +3686,6 @@
    "url": "https://www.wowhead.com/news=383702",
    "category": "Forever",
    "published_at": "2026-11-03T01:33:01Z"
-  },
-  {
-   "id": 383698,
-   "title_en": "Planet Azeroth with Bill Bailey: Plaguelands, Winterspring, and More",
-   "url": "https://www.wowhead.com/news=383698",
-   "category": "Forever",
-   "published_at": "2026-11-03T00:05:25Z"
-  },
-  {
-   "id": 383695,
-   "title_en": "Long Maintenance Planned Ahead of WoW: Forever Launch",
-   "url": "https://www.wowhead.com/news=383695",
-   "category": "Forever",
-   "published_at": "2026-11-02T18:25:59Z"
   }
  ]
 }
