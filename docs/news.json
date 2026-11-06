@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T03:19:20Z",
+ "generated": "2026-11-06T04:55:05Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3377,6 +3377,20 @@
  ],
  "queue": [
   {
+   "id": 383778,
+   "title_en": "Various NPC Fixes and Deathstalker Erland Spawn Rate - WoW: Forever Hotfixes",
+   "url": "https://www.wowhead.com/news=383778",
+   "category": "Forever",
+   "published_at": "2026-11-06T02:36:06Z"
+  },
+  {
+   "id": 383777,
+   "title_en": "Renamed Tortollan NPCs and Venomous Abyss Tuning - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383777",
+   "category": "Live",
+   "published_at": "2026-11-06T02:16:07Z"
+  },
+  {
    "id": 383776,
    "title_en": "Massive Nerfs to The Venomous Abyss Raid - Large Nerfs to Ula'tek on Every Difficulty",
    "url": "https://www.wowhead.com/news=383776",
@@ -3641,20 +3655,6 @@
    "url": "https://www.wowhead.com/news=383704",
    "category": "Forever",
    "published_at": "2026-11-03T03:51:28Z"
-  },
-  {
-   "id": 383702,
-   "title_en": "Hunter Class Buffs on WoW: Forever",
-   "url": "https://www.wowhead.com/news=383702",
-   "category": "Forever",
-   "published_at": "2026-11-03T01:33:01Z"
-  },
-  {
-   "id": 383698,
-   "title_en": "Planet Azeroth with Bill Bailey: Plaguelands, Winterspring, and More",
-   "url": "https://www.wowhead.com/news=383698",
-   "category": "Forever",
-   "published_at": "2026-11-03T00:05:25Z"
   }
  ]
 }
