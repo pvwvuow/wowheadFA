@@ -59,12 +59,48 @@
   ],
   "chars": 416
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383754/1.png",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383754/1.png"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383754/1.png",
+ "article_fa": {
+  "title_fa": "دریافت ۷۰۰ پاداش Discord Orbs با ماموریت جدید WoW: Forever",
+  "lead_fa": "با انجام ماموریت جدید دیسکورد و ۱۵ دقیقه تجربه بازی WoW: Forever، می‌توانید ۷۰۰ عدد Discord Orbs دریافت کنید.",
+  "body_fa": [
+   "یک کوئست تازه در پلتفرم دیسکورد در دسترس قرار گرفته است که از بازیکنان می‌خواهد به مدت ۱۵ دقیقه به تجربه WoW: Forever بپردازند تا ۷۰۰ عدد Discord Orbs به عنوان پاداش دریافت کنند.",
+   {
+    "t": "note",
+    "x": "کاربرانی که اشتراک Nitro دارند، به جای ۷۰۰ عدد، مقدار ۸۴۰ عدد Discord Orbs دریافت خواهند کرد.",
+    "kind": "info"
+   },
+   {
+    "t": "h",
+    "x": "مراحل دریافت پاداش"
+   },
+   {
+    "t": "ol",
+    "xs": [
+     "به بخش Direct Messages در دیسکورد بروید.",
+     "وارد قسمت Quests شوید و گزینه World of Warcraft Play Quest را انتخاب کنید.",
+     "پس از قبول ماموریت، بازی را به مدت ۱۵ دقیقه اجرا و تجربه کنید.",
+     "در نهایت پاداش Discord Orbs خود را تحویل بگیرید."
+    ]
+   },
+   "امتیازهای Discord Orbs برای خرید آیتم‌های تزئینی و ظاهری از فروشگاه دیسکورد (Discord shop) قابل استفاده هستند."
+  ],
+  "tags_fa": [
+   "دیسکورد",
+   "WoW Forever",
+   "پاداش"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-06T00:36:01Z"
+ }
 }
