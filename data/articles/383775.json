@@ -103,12 +103,56 @@
   ],
   "chars": 1185
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383775/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383775/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383775/1.jpg",
+ "article_fa": {
+  "title_fa": "تضعیف گسترده انکانتر Coiled Altar در درجه سختی Mythic",
+  "lead_fa": "شرکت Blizzard با انتشار یادداشت‌های رسمی، تغییرات کاهشی قابل‌توجهی را روی نبرد Coiled Altar به‌ویژه در درجه سختی Mythic اعمال کرد.",
+  "body_fa": [
+   "شرکت Blizzard بار دیگر درجه سختی انکانتر Coiled Altar در حالت Mythic را به شکل چشمگیری کاهش داده و بخش زیادی از دشواری این باس فایت را برداشته است.",
+   {
+    "t": "h",
+    "x": "جزئیات تغییرات فاز اول و دوم"
+   },
+   "در جریان نبرد، تغییرات متعددی روی میزان آسیب توانایی‌ها و زمان‌بندی مکانیک‌ها اعمال شده است:",
+   {
+    "t": "ul",
+    "xs": [
+     "کاهش ۱۵٪ آسیب Venom Rupture در درجه سختی Mythic",
+     "کاهش ۲۰٪ آسیب دوره‌ای (Periodic damage) و آسیب Axegrinder در حالت Mythic",
+     "افزایش فرصت مکانیک Fading برای برداشتن روح‌ها به ۱۲ ثانیه (پیش‌تر ۱۰ ثانیه بود)",
+     "کاهش ۲۰٪ آسیب Gloombomb در حالت Mythic",
+     "کاهش ۶۰٪ آسیب Malevolent Resonance",
+     "حضور تنها یک Soulcoiler در هر بار اجرای Spiritcrackle"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "یادداشت‌های رسمی سازندگان"
+   },
+   "طبق متن رسمی منتشرشده، سرعت حرکت Axegrinder در تمام درجه‌های سختی ۲۰٪ کاهش یافته است. همچنین قطعات Gravebound Soul Fragments در درجه سختی Mythic پیش از ناپدید شدن، ۲ ثانیه بیشتر دوام می‌آورند و تعداد Spiteful Soulcoilers احضارشده از Spiritcackle در این درجه سختی از ۲ عدد به ۱ عدد کاهش پیدا کرده است.",
+   {
+    "t": "quote",
+    "x": "با این تغییر، احضار Soulcoilerها اکنون مشابه نحوه اسپاون آن‌ها در درجه سختی Heroic خواهد بود.",
+    "by": "تیم توسعه‌دهندگان Blizzard"
+   }
+  ],
+  "tags_fa": [
+   "تغییرات کلس‌ها و رید",
+   "راید",
+   "هاتفیکس",
+   "Mythic"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-06T10:16:41Z"
+ }
 }

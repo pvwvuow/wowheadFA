@@ -144,7 +144,7 @@
   ],
   "chars": 1635
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383778/1.jpg",
@@ -154,5 +154,69 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383778/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
  "hold_count": 1,
- "hold_at": "2026-11-06T06:05:11Z"
+ "hold_at": "2026-11-06T06:05:11Z",
+ "article_fa": {
+  "title_fa": "انتشار نخستین هاتفیکس‌های WoW: Forever همراه با بهبود سرعت اسپاون Deathstalker Erland",
+  "lead_fa": "اولین مجموعه از هاتفیکس‌های بازی WoW: Forever منتشر شد که در آن مواردی از جمله سرعت اسپاون ان‌پی‌سی‌ها و مربیان کلاس‌ها اصلاح شده است.",
+  "body_fa": [
+   "نخستین بستهٔ به‌روزرسانی زنده (Hotfix) برای عنوان WoW: Forever با هدف برطرف‌سازی باگ‌های مربوط به ان‌پی‌سی‌ها، آیتم‌ها، کوئست‌ها و بخش PvP اعمال شد. از نکات مهم این تغییرات، افزایش محسوس سرعت ریسپاون برخی ان‌پی‌سی‌های مورد نیاز برای مأموریت‌ها است.",
+   {
+    "t": "h",
+    "x": "دشمنان و NPCها"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "منطقهٔ Durotar: برطرف شدن مشکل کندی غیرعادی در ریسپاون Yarrog Baneshadow (مربوط به مأموریت Burning Blade Medallion).",
+     "منطقهٔ Zephras Isle: ان‌پی‌سی سوم آموزش دروید یعنی Lotheluum Starbreeze اکنون طبق انتظار آموزش‌های لازم را به Druidها ارائه می‌دهد.",
+     "منطقهٔ Dustwallow Marsh: رفع اشکال سرعت ریسپاون بیش از حد سریع برخی از murlocها.",
+     "منطقهٔ Swamp of Sorrows: برطرف شدن مشکلی که در برخی مواقع مانع اسپاون شدن Pelluk می‌شد."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "آیتم‌ها"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "فروشندگان لوازم تجاری (trade supply) در Zephras Isle اکنون کیف‌های apprentice tradeskill را برای فروش عرضه می‌کنند.",
+     "قیمت فروش [[item:Mild Spices]] به وندورها کاهش یافت و از ۲ مس به ۱ مس (copper) تغییر کرد."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "بخش PvP و مکانیک‌ها"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "رفع مشکلی که اجازه می‌داد Plainsrunning در فاز آماده‌سازی میدان‌های نبرد (Battlegrounds) به صورت انباشته (stack) درآید.",
+     "توانایی Plainsrunning دیگر انباشته نمی‌شود و در صورت حمل پرچم در بتل‌گراند، لایه‌های آن لغو خواهد شد."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "کوئست‌ها"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "اصلاح متن اشتباه در کوئست The Sisterhood of Elune.",
+     "افزایش چشمگیر سرعت ریسپاون Deathstalker Erland برای انجام کوئست Escorting Erland."
+    ]
+   },
+   "این فهرست با اعمال به‌روزرسانی‌های تکمیلی و هاتفیکس‌های جدیدتر برای بازی به‌روز خواهد شد."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "WoW Forever",
+   "تغییرات کلس"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-06T10:04:03Z"
+ }
 }

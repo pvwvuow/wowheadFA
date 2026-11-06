@@ -120,5 +120,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383773/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383773/1.jpg",
+ "hold_reason": "خطای مدل در بازنویسی: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+ "hold_count": 1,
+ "hold_at": "2026-11-06T10:25:33Z"
 }

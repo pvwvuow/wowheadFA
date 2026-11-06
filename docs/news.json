@@ -1,8 +1,186 @@
 {
- "generated": "2026-11-06T06:53:26Z",
+ "generated": "2026-11-06T10:49:07Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383778,
+   "slug": "various-npc-fixes-and-deathstalker-erland-spawn-rate-wow-forever-hotfi",
+   "title_fa": "انتشار نخستین هاتفیکس‌های WoW: Forever همراه با بهبود سرعت اسپاون Deathstalker Erland",
+   "lead_fa": "اولین مجموعه از هاتفیکس‌های بازی WoW: Forever منتشر شد که در آن مواردی از جمله سرعت اسپاون ان‌پی‌سی‌ها و مربیان کلاس‌ها اصلاح شده است.",
+   "body_fa": [
+    "نخستین بستهٔ به‌روزرسانی زنده (Hotfix) برای عنوان WoW: Forever با هدف برطرف‌سازی باگ‌های مربوط به ان‌پی‌سی‌ها، آیتم‌ها، کوئست‌ها و بخش PvP اعمال شد. از نکات مهم این تغییرات، افزایش محسوس سرعت ریسپاون برخی ان‌پی‌سی‌های مورد نیاز برای مأموریت‌ها است.",
+    {
+     "t": "h",
+     "x": "دشمنان و NPCها"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "منطقهٔ Durotar: برطرف شدن مشکل کندی غیرعادی در ریسپاون Yarrog Baneshadow (مربوط به مأموریت Burning Blade Medallion).",
+      "منطقهٔ Zephras Isle: ان‌پی‌سی سوم آموزش دروید یعنی Lotheluum Starbreeze اکنون طبق انتظار آموزش‌های لازم را به Druidها ارائه می‌دهد.",
+      "منطقهٔ Dustwallow Marsh: رفع اشکال سرعت ریسپاون بیش از حد سریع برخی از murlocها.",
+      "منطقهٔ Swamp of Sorrows: برطرف شدن مشکلی که در برخی مواقع مانع اسپاون شدن Pelluk می‌شد."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "آیتم‌ها"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "فروشندگان لوازم تجاری (trade supply) در Zephras Isle اکنون کیف‌های apprentice tradeskill را برای فروش عرضه می‌کنند.",
+      "قیمت فروش [[item:Mild Spices]] به وندورها کاهش یافت و از ۲ مس به ۱ مس (copper) تغییر کرد."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "بخش PvP و مکانیک‌ها"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "رفع مشکلی که اجازه می‌داد Plainsrunning در فاز آماده‌سازی میدان‌های نبرد (Battlegrounds) به صورت انباشته (stack) درآید.",
+      "توانایی Plainsrunning دیگر انباشته نمی‌شود و در صورت حمل پرچم در بتل‌گراند، لایه‌های آن لغو خواهد شد."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "کوئست‌ها"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "اصلاح متن اشتباه در کوئست The Sisterhood of Elune.",
+      "افزایش چشمگیر سرعت ریسپاون Deathstalker Erland برای انجام کوئست Escorting Erland."
+     ]
+    },
+    "این فهرست با اعمال به‌روزرسانی‌های تکمیلی و هاتفیکس‌های جدیدتر برای بازی به‌روز خواهد شد."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "WoW Forever",
+    "تغییرات کلس"
+   ],
+   "items": [],
+   "title_en": "Various NPC Fixes and Deathstalker Erland Spawn Rate - WoW: Forever Hotfixes",
+   "source_url": "https://www.wowhead.com/news=383778",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383778-various-npc-fixes-and-deathstalker-erland-spawn-rate-wow-forever-hotfi.html",
+   "published_at": "2026-11-06T02:36:06Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383778/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383778/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383775,
+   "slug": "massive-mythic-coiled-altar-nerfs-removes-1-soulcoiler-add-from-each-s",
+   "title_fa": "تضعیف گسترده انکانتر Coiled Altar در درجه سختی Mythic",
+   "lead_fa": "شرکت Blizzard با انتشار یادداشت‌های رسمی، تغییرات کاهشی قابل‌توجهی را روی نبرد Coiled Altar به‌ویژه در درجه سختی Mythic اعمال کرد.",
+   "body_fa": [
+    "شرکت Blizzard بار دیگر درجه سختی انکانتر Coiled Altar در حالت Mythic را به شکل چشمگیری کاهش داده و بخش زیادی از دشواری این باس فایت را برداشته است.",
+    {
+     "t": "h",
+     "x": "جزئیات تغییرات فاز اول و دوم"
+    },
+    "در جریان نبرد، تغییرات متعددی روی میزان آسیب توانایی‌ها و زمان‌بندی مکانیک‌ها اعمال شده است:",
+    {
+     "t": "ul",
+     "xs": [
+      "کاهش ۱۵٪ آسیب Venom Rupture در درجه سختی Mythic",
+      "کاهش ۲۰٪ آسیب دوره‌ای (Periodic damage) و آسیب Axegrinder در حالت Mythic",
+      "افزایش فرصت مکانیک Fading برای برداشتن روح‌ها به ۱۲ ثانیه (پیش‌تر ۱۰ ثانیه بود)",
+      "کاهش ۲۰٪ آسیب Gloombomb در حالت Mythic",
+      "کاهش ۶۰٪ آسیب Malevolent Resonance",
+      "حضور تنها یک Soulcoiler در هر بار اجرای Spiritcrackle"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "یادداشت‌های رسمی سازندگان"
+    },
+    "طبق متن رسمی منتشرشده، سرعت حرکت Axegrinder در تمام درجه‌های سختی ۲۰٪ کاهش یافته است. همچنین قطعات Gravebound Soul Fragments در درجه سختی Mythic پیش از ناپدید شدن، ۲ ثانیه بیشتر دوام می‌آورند و تعداد Spiteful Soulcoilers احضارشده از Spiritcackle در این درجه سختی از ۲ عدد به ۱ عدد کاهش پیدا کرده است.",
+    {
+     "t": "quote",
+     "x": "با این تغییر، احضار Soulcoilerها اکنون مشابه نحوه اسپاون آن‌ها در درجه سختی Heroic خواهد بود.",
+     "by": "تیم توسعه‌دهندگان Blizzard"
+    }
+   ],
+   "tags_fa": [
+    "تغییرات کلس‌ها و رید",
+    "راید",
+    "هاتفیکس",
+    "Mythic"
+   ],
+   "items": [],
+   "title_en": "Massive Mythic Coiled Altar Nerfs Removes 1 Soulcoiler Add From Each Spawn",
+   "source_url": "https://www.wowhead.com/news=383775",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383775-massive-mythic-coiled-altar-nerfs-removes-1-soulcoiler-add-from-each-s.html",
+   "published_at": "2026-11-06T00:25:48Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383775/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383775/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383774,
+   "slug": "minimum-deposit-of-1-silver-required-to-list-items-on-auction-house-in",
+   "title_fa": "تعیین حداقل ودیعه ۱ نقره برای ثبت کالا در Auction House بازی WoW: Forever",
+   "lead_fa": "در بازی WoW: Forever، قرار دادن کالا در Auction House به پرداخت حداقل ودیعه ۱ نقره نیاز دارد.",
+   "body_fa": [
+    "هنگام ثبت یک کالا در Auction House، بازیکنان باید مبلغی را به عنوان ودیعه پرداخت کنند. در صورت فروش موفقیت‌آمیز، این مبلغ بازگردانده می‌شود؛ اما اگر مزایده لغو شود یا زمان آن به پایان برسد، ودیعه از دست می‌رود.",
+    {
+     "t": "h",
+     "x": "نحوه محاسبه ودیعه در نسخه اصلی و قانون جدید"
+    },
+    "در نسخه اصلی WoW، هزینه ودیعه بر اساس Vendor Price کالا و مدت‌زمان مزایده مشخص می‌شود؛ به عنوان مثال برای مدت ۲۴ ساعت، ودیعه معادل ۶۰٪ از Vendor Price است. با این حال، در WoW: Forever به نظر می‌رسد یک قانون دیگر نیز وجود دارد که طبق آن حداقل ودیعه ۱ نقره تعیین شده است.",
+    "برای نمونه، در مورد کالایی با Vendor Price معادل ۴ نقره و ۶۱ مس، انتظار می‌رود ثبت ۸ ساعته آن به ۹۲ مس نیاز داشته باشد، اما هزینه آن ۱ نقره درج می‌شود. برای هر کالای ارزان‌قیمت دیگری نیز این ودیعه همواره ۱ نقره نمایش داده می‌شود.",
+    {
+     "t": "note",
+     "x": "این افزایش ودیعه ریسک بزرگی در صورت فروش نرفتن کالا ایجاد می‌کند. حداقل در اوایل بازی، ۱ نقره هزینه سنگینی محسوب می‌شود و برای مقابله با این ریسک می‌توان آیتم‌ها را در دسته‌های بزرگ‌تر ثبت کرد یا مستقیماً به Vendor فروخت.",
+     "kind": "warn"
+    },
+    {
+     "t": "h",
+     "x": "آیا این سازوکار عمدی است؟"
+    },
+    "در نسخه Beta این سازوکار مشاهده شده بود اما به عنوان باگ گزارش شد، زیرا ودیعه نمایش‌داده‌شده با مقدار طلای کسرشده از بازیکنان همخوانی نداشت. روی سرورهای زنده، ودیعه اکنون مطابقت دارد. هنوز مشخص نیست که آیا این حداقل ودیعه به صورت عمدی در نظر گرفته شده یا نتیجه استفاده WoW: Forever از کلاینت Retail است.",
+    "کلاینت Retail حداقل ودیعه ۱ نقره دارد و حداقل از سال ۲۰۱۸ (یا زودتر) طبق یک پست وبلاگی قدیمی فعال بوده است."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "Auction House",
+    "اقتصاد"
+   ],
+   "items": [],
+   "title_en": "Minimum Deposit of 1 Silver Required to List Items on Auction House in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383774",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383774-minimum-deposit-of-1-silver-required-to-list-items-on-auction-house-in.html",
+   "published_at": "2026-11-05T23:29:31Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383774/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383774/1.png",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383771,
    "slug": "blizzard-investigating-issues-with-certain-escort-quests-in-wow-foreve",
@@ -49,6 +227,66 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383771/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383760,
+   "slug": "wow-forever-known-issues-after-launch",
+   "title_fa": "فهرست مشکلات شناخته‌شدهٔ WoW: Forever پس از عرضه",
+   "lead_fa": "شرکت Blizzard فهرستی از باگ‌ها و مشکلات مهم پس از عرضهٔ WoW: Forever را منتشر کرد که در دست بررسی و رفع هستند.",
+   "body_fa": [
+    "شرکت Blizzard پس از عرضهٔ روز گذشتهٔ WoW: Forever، فهرستی از ایرادات شناخته‌شدهٔ بازی را به اشتراک گذاشته است. تیم توسعه این موارد را مهم و تأثیرگذار دانسته و اعلام کرده که برای برطرف کردن آن‌ها در آینده برنامه‌ریزی شده است. این فهرست کامل نیست و به‌طور مرتب به‌روزرسانی خواهد شد.",
+    {
+     "t": "h",
+     "x": "مشکلات سیاه‌چاله‌ها، ماموریت‌ها و جهان بازی"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "در دانجن Razorfen Kraul دیگی نزدیک Roogug وجود دارد که بازیکنان ممکن است داخل آن بیفتند و گیر کنند.",
+      "کوئست Vorsha the Lasher در Ashenvale به دلیل باگی که منجر به کرش می‌شد تا زمان رفع مشکل غیرفعال شده است.",
+      "ورودی Stormwind Keep ممکن است ظاهر مورد نظر را نداشته باشد و با بافت‌های چشمک‌زن ناخواسته همراه شود."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "ایرادات رابط کاربری، کنترلر و NPCها"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "فروشنده‌های PvP Vendors در تمامی موقعیت‌ها شامل Orgrimmar و Stormwind و Dalaran به‌صورت موقت در دسترس نیستند.",
+      "صفحات بانک به‌صورت برگه نمایش داده می‌شوند که باعث شده تب‌ها بیرون از کادر اصلی قرار بگیرند.",
+      "هنگام استفاده از گیم‌پد، تلاش برای حذف بیش از ۱ آیتم rare یا epic ممکن است خطا ایجاد کند.",
+      "راهنمای دکمهٔ Push-to-Talk کیبورد ممکن است به اشتباه هنگام پیوستن به کانال صوتی برای کاربران کنترلر نمایش داده شود."
+     ]
+    },
+    {
+     "t": "note",
+     "x": "فروشندگان PvP در حال حاضر در اورگریمار، استورم‌ویند و دالاران در دسترس نیستند.",
+     "kind": "warn"
+    }
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "مشکلات شناخته شده",
+    "بلیزارد",
+    "باگ"
+   ],
+   "items": [],
+   "title_en": "WoW: Forever Known Issues After Launch",
+   "source_url": "https://www.wowhead.com/news=383760",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383760-wow-forever-known-issues-after-launch.html",
+   "published_at": "2026-11-05T16:32:18Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383760/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383760/1.png",
      "cap": ""
     }
    ]
@@ -2691,698 +2929,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383516,
-   "slug": "more-readable-book-decor-coming-in-patch-12-1-7",
-   "title_fa": "افزوده شدن کتاب‌های تزئینی قابل خواندن در پچ 12.1.7",
-   "lead_fa": "در پچ 12.1.7 چهار داستان جدید به بخش Lorewalking اضافه خواهد شد که هر کدام یک کتاب تزئینی و قابل مطالعه به عنوان پاداش دارند.",
-   "body_fa": [
-    "به‌روزرسانی 12.1.7 کتاب‌های تزئینی بیشتری از بخش Lorewalking به همراه دارد که تمام آن‌ها توسط بازیکنان قابل خواندن هستند. در این پچ چهار داستان جدید معرفی می‌شود و هر داستان، یک کتاب lore مرتبط را در قالب Decor پاداش خواهد داد تا بازیکنان بدون نیاز به اشغال فضای بانک، آن‌ها را در خانهٔ خود قرار دهند.",
-    "این چهار پاداش تازه به پاداش‌های Decor قبلی Lorewalking ملحق می‌شوند؛ آثاری که پیش‌تر در 12.1.5 قابلیت خوانده شدن را به صورت گذشته‌نگر دریافت کرده بودند و برای مواردی هم که پاداش Decor نداشتند، به کسانی که کمپین‌ها را به پایان رسانده بودند داده شد.",
-    "درخواست کتاب‌های قابل خواندن از زمان معرفی Player Housing همواره از سوی بازیکنان مطرح بوده است و این اقدام می‌تواند آزمایشی برای پیاده‌سازی هرچه بهتر این قابلیت در بازی باشد."
-   ],
-   "tags_fa": [
-    "پچ 12.1.7",
-    "Lorewalking",
-    "Player Housing",
-    "PTR"
-   ],
-   "items": [
-    {
-     "item": {
-      "name": "Origin of the Silver Hand",
-      "rows": [
-       [
-        "تزئینات",
-        "تزئینی"
-       ],
-       [
-        "قابل قرارگیری",
-        "داخل ساختمان، فضای باز"
-       ],
-       [
-        "محل قرارگیری",
-        "کف"
-       ],
-       [
-        "اندازه",
-        "کوچک"
-       ],
-       [
-        "رنگ‌پذیری",
-        "خیر"
-       ],
-       [
-        "اکسپنشن",
-        "Battle for Azeroth"
-       ],
-       [
-        "فروشنده",
-        "Lali the Assistant"
-       ],
-       [
-        "منطقه",
-        "Vale of Eternal Blossoms"
-       ],
-       [
-        "قیمت",
-        "۲۰۰۰"
-       ]
-      ],
-      "spec": [
-       "1 +10 House XP"
-      ],
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/8148374.jpg",
-      "quality": "uncommon",
-      "image": "https://wow.zamimg.com/modelviewer/ptr/webthumbs/decor/179/28339.webp"
-     }
-    },
-    {
-     "item": {
-      "name": "Tale of the First Warchief",
-      "rows": [
-       [
-        "تزئینات",
-        "تزئینی"
-       ],
-       [
-        "قابل قرارگیری",
-        "داخل ساختمان، فضای باز"
-       ],
-       [
-        "محل قرارگیری",
-        "کف"
-       ],
-       [
-        "اندازه",
-        "کوچک"
-       ],
-       [
-        "رنگ‌پذیری",
-        "خیر"
-       ],
-       [
-        "اکسپنشن",
-        "Warlords of Draenor"
-       ],
-       [
-        "فروشنده",
-        "Lali the Assistant"
-       ],
-       [
-        "منطقه",
-        "Vale of Eternal Blossoms"
-       ],
-       [
-        "قیمت",
-        "۲۰۰۰"
-       ]
-      ],
-      "spec": [
-       "1 +10 House XP"
-      ],
-      "quality": "uncommon",
-      "image": "https://wow.zamimg.com/images/wow/fileId/ptr/225/8174561.webp"
-     }
-    },
-    {
-     "item": {
-      "name": "Tome of the Sea",
-      "rows": [
-       [
-        "تزئینات",
-        "تزئینی"
-       ],
-       [
-        "قابل قرارگیری",
-        "داخل ساختمان، فضای باز"
-       ],
-       [
-        "محل قرارگیری",
-        "کف"
-       ],
-       [
-        "اندازه",
-        "کوچک"
-       ],
-       [
-        "رنگ‌پذیری",
-        "خیر"
-       ],
-       [
-        "اکسپنشن",
-        "Battle for Azeroth"
-       ],
-       [
-        "فروشنده",
-        "Lali the Assistant"
-       ],
-       [
-        "منطقه",
-        "Vale of Eternal Blossoms"
-       ],
-       [
-        "قیمت",
-        "۲۰۰۰"
-       ]
-      ],
-      "spec": [
-       "1 +10 House XP"
-      ],
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/8148380.jpg",
-      "quality": "uncommon",
-      "image": "https://wow.zamimg.com/images/wow/fileId/ptr/158/8148382.webp"
-     }
-    },
-    {
-     "item": {
-      "name": "A Brief History of the Titans",
-      "rows": [
-       [
-        "تزئینات",
-        "تزئینی"
-       ],
-       [
-        "قابل قرارگیری",
-        "داخل ساختمان، فضای باز"
-       ],
-       [
-        "محل قرارگیری",
-        "کف"
-       ],
-       [
-        "اندازه",
-        "متوسط"
-       ],
-       [
-        "رنگ‌پذیری",
-        "خیر"
-       ],
-       [
-        "اکسپنشن",
-        "Dragonflight"
-       ],
-       [
-        "فروشنده",
-        "Lali the Assistant"
-       ],
-       [
-        "منطقه",
-        "Vale of Eternal Blossoms"
-       ],
-       [
-        "قیمت",
-        "۲۰۰۰"
-       ]
-      ],
-      "spec": [
-       "3 +10 House XP"
-      ],
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/8148360.jpg",
-      "quality": "uncommon",
-      "image": "https://wow.zamimg.com/images/wow/fileId/ptr/132/8148356.webp"
-     }
-    },
-    {
-     "item": {
-      "name": "Tome of Silvermoon Intrigue",
-      "rows": [
-       [
-        "قابل قرارگیری",
-        "داخل ساختمان، فضای باز"
-       ],
-       [
-        "محل قرارگیری",
-        "کف"
-       ],
-       [
-        "اندازه",
-        "بسیار کوچک"
-       ],
-       [
-        "رنگ‌پذیری",
-        "خیر"
-       ],
-       [
-        "اکسپنشن",
-        "The War Within"
-       ],
-       [
-        "دستاورد",
-        "Lorewalking: The Elves of Quel'thalas"
-       ],
-       [
-        "دسته",
-        "Lorewalking"
-       ],
-       [
-        "فروشنده",
-        "Lali the Assistant"
-       ],
-       [
-        "منطقه",
-        "Vale of Eternal Blossoms"
-       ],
-       [
-        "قیمت",
-        "۲۰۰۰"
-       ]
-      ],
-      "spec": [
-       "1 +10 House XP"
-      ],
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/7416211.jpg",
-      "quality": "rare",
-      "image": "https://wow.zamimg.com/images/wow/fileId/live/145/7416209.webp"
-     }
-    },
-    {
-     "item": {
-      "name": "Tale of the Penultimate Lich King",
-      "rows": [
-       [
-        "قابل قرارگیری",
-        "داخل ساختمان، فضای باز"
-       ],
-       [
-        "محل قرارگیری",
-        "کف"
-       ],
-       [
-        "اندازه",
-        "کوچک"
-       ],
-       [
-        "رنگ‌پذیری",
-        "خیر"
-       ],
-       [
-        "اکسپنشن",
-        "Legion"
-       ],
-       [
-        "دستاورد",
-        "Lorewalking: The Lich King"
-       ],
-       [
-        "دسته",
-        "Lorewalking"
-       ],
-       [
-        "فروشنده",
-        "Lali the Assistant"
-       ],
-       [
-        "منطقه",
-        "Vale of Eternal Blossoms"
-       ],
-       [
-        "قیمت",
-        "۲۰۰۰"
-       ]
-      ],
-      "spec": [
-       "1 +10 House XP"
-      ],
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/7426138.jpg",
-      "quality": "rare",
-      "image": "https://wow.zamimg.com/images/wow/fileId/live/92/7426140.webp"
-     }
-    },
-    {
-     "item": {
-      "name": "Scroll of K'aresh's Fall",
-      "rows": [
-       [
-        "تزئینات",
-        "تزئینی"
-       ],
-       [
-        "تزئینات",
-        "آویزهای دیواری"
-       ],
-       [
-        "قابل قرارگیری",
-        "داخل ساختمان، فضای باز"
-       ],
-       [
-        "محل قرارگیری",
-        "دیوار"
-       ],
-       [
-        "اندازه",
-        "کوچک"
-       ],
-       [
-        "رنگ‌پذیری",
-        "خیر"
-       ],
-       [
-        "اکسپنشن",
-        "The War Within"
-       ],
-       [
-        "دستاورد",
-        "Lorewalking: Ethereal Wisdom"
-       ],
-       [
-        "دسته",
-        "Lorewalking"
-       ],
-       [
-        "فروشنده",
-        "Lali the Assistant"
-       ],
-       [
-        "منطقه",
-        "Vale of Eternal Blossoms"
-       ],
-       [
-        "قیمت",
-        "۲۰۰۰"
-       ]
-      ],
-      "spec": [
-       "1 +10 House XP"
-      ],
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/7426152.jpg",
-      "quality": "rare",
-      "image": "https://wow.zamimg.com/images/wow/fileId/live/102/7426150.webp"
-     }
-    },
-    {
-     "item": {
-      "name": "Tome of the Survivor",
-      "rows": [
-       [
-        "قابل قرارگیری",
-        "داخل ساختمان، فضای باز"
-       ],
-       [
-        "محل قرارگیری",
-        "کف"
-       ],
-       [
-        "اندازه",
-        "کوچک"
-       ],
-       [
-        "رنگ‌پذیری",
-        "خیر"
-       ],
-       [
-        "اکسپنشن",
-        "The War Within"
-       ],
-       [
-        "دستاورد",
-        "Lorewalking: Blade's Bane"
-       ],
-       [
-        "دسته",
-        "Lorewalking"
-       ],
-       [
-        "فروشنده",
-        "Lali the Assistant"
-       ],
-       [
-        "منطقه",
-        "Vale of Eternal Blossoms"
-       ],
-       [
-        "قیمت",
-        "۲۰۰۰"
-       ]
-      ],
-      "spec": [
-       "1 +10 House XP"
-      ],
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/7426156.jpg",
-      "quality": "rare",
-      "image": "https://wow.zamimg.com/images/wow/fileId/live/106/7426154.webp"
-     }
-    },
-    {
-     "item": {
-      "name": "Tome of Kings",
-      "rows": [
-       [
-        "قابل قرارگیری",
-        "داخل ساختمان، فضای باز"
-       ],
-       [
-        "محل قرارگیری",
-        "کف"
-       ],
-       [
-        "اندازه",
-        "کوچک"
-       ],
-       [
-        "رنگ‌پذیری",
-        "خیر"
-       ],
-       [
-        "اکسپنشن",
-        "Classic"
-       ],
-       [
-        "دستاورد",
-        "Lorewalking: The Loa"
-       ],
-       [
-        "دسته",
-        "Lorewalking"
-       ],
-       [
-        "فروشنده",
-        "Lali the Assistant"
-       ],
-       [
-        "منطقه",
-        "Vale of Eternal Blossoms"
-       ],
-       [
-        "قیمت",
-        "۲۰۰۰"
-       ]
-      ],
-      "spec": [
-       "1 +10 House XP"
-      ],
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/8123920.jpg",
-      "quality": "rare",
-      "image": "https://wow.zamimg.com/images/wow/fileId/live/14/8123918.webp"
-     }
-    }
-   ],
-   "title_en": "More Readable Book Decor Coming in Patch 12.1.7",
-   "source_url": "https://www.wowhead.com/news=383516",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383516-more-readable-book-decor-coming-in-patch-12-1-7.html",
-   "published_at": "2026-10-25T18:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "grok-4.20-0309-non-reasoning",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383516/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383516/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383562,
-   "slug": "new-winter-veil-neighborhood-activities-updates-in-patch-12-1-7",
-   "title_fa": "فعالیت‌های جدید محله‌های مسکونی برای رویداد Winter Veil در پچ 12.1.7",
-   "lead_fa": "بررسی داده‌های بیلد جدید PTR در پچ 12.1.7 نشان می‌دهد که محله‌های مسکونی بازیکنان میزبان فعالیت‌ها و اچیومنت‌های تازه‌ای با محوریت رویداد Winter Veil خواهند بود.",
-   "body_fa": [
-    "داده‌های استخراج‌شده از جدیدترین بیلد آزمایشی پچ 12.1.7 روی سرورهای PTR حاکی از اضافه شدن فعالیت‌های تازه‌ای برای محله‌های مسکونی در طول جشن زمستانی Winter Veil است. این محتوا پس از به‌روزرسانی‌های پیشین محله‌ها در پچ 12.1.5 طراحی شده است و به نظر می‌رسد الگویی مشابه کوئست‌های روزانه رویداد Hallow's End را دنبال می‌کند.",
-    {
-     "t": "h",
-     "x": "فعالیت Tree Defense و مأموریت‌های روزانه"
-    },
-    "محور اصلی این به‌روزرسانی رویدادی به نام Tree Defense در محله‌ها است که بازیکنان را درگیر استفاده از Power-upها، رویارویی با دشمنی با عنوان Rotten Pummeler، پرتاب کردن مهاجمان به درخت و بازگرداندن هدیه‌های دزدیده‌شده می‌کند. علاوه بر این، ممکن است مأموریت‌های روزانه برای هم‌خوانی با گروه سرودخوان‌ها و اهدای آب‌نبات عصایی نیز فعال شوند.",
-    {
-     "t": "ul",
-     "xs": [
-      "اچیومنت Bells Will Be Ringing: پیوستن به سرودخوان‌های محله با نواختن زنگ‌ها",
-      "اچیومنت Candy Cane Brigade: رساندن ۱۲ هدیه Candy Cane در محله‌های مسکونی",
-      "اچیومنت Master of Merry Mayhem: استفاده از ۳ بار Power-up در فعالیت دفاع از درخت",
-      "اچیومنت Season's Beatings: دریافت ۱۰ ضربه از Rotten Pummeler در طول فعالیت دفاع از درخت محله",
-      "اچیومنت Sockin' Around the Winter Veil Tree: پرتاب کردن ۱۰۰ مهاجم درخت طی فعالیت دفاع از درخت",
-      "اچیومنت That's Not For You: بازگرداندن هدیه‌های دزدیده‌شده جشن به درخت محله",
-      "اچیومنت Tree-fense: تکمیل موفقیت‌آمیز فعالیت دفاع از درخت در محله"
-     ]
-    },
-    {
-     "t": "note",
-     "x": "گزارش خبر شماره 383562 در اکتبر 2026 منتشر شده است و به پچ‌های متوالی نظیر 12.1.5 و 12.1.7 در طول پاییز اشاره دارد.",
-     "kind": "info"
-    },
-    "در میان بازخوردهای جامعه، آمارهای متعددی پیرامون سیستم مسکن و ایونت‌ها به چشم می‌خورد؛ از جمله نوارهای پیشرفت 3000 امتیازی که برخی پیشنهاد تعدیل آن به حدود 333 امتیاز را دارند، میزان مشارکت‌های حداقلی مانند 11 ثبت‌شده در برخی محله‌ها، پاداش‌های متفرقه نظیر 20 کرست، و بازه‌های زمانی و شمارش‌های آماری در حدود 14، 15، 18، 21، 23 و 30 روز یا امتیاز در تجربیات کاربران.",
-    "با نزدیک شدن به روزهای پایانی سال، انتظار می‌رود پاداش‌های متعدد دیگری نیز برای Winter Veil به دست بازیکنان برسد و محله‌های مسکونی را به محیطی پرجنب‌وجوش‌تر در این فصل تبدیل کند."
-   ],
-   "tags_fa": [
-    "پچ 12.1.7",
-    "Winter Veil",
-    "هاوزینگ",
-    "دی‌ماینینگ"
-   ],
-   "items": [],
-   "title_en": "New Winter Veil Neighborhood Activities Updates in Patch 12.1.7",
-   "source_url": "https://www.wowhead.com/news=383562",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383562-new-winter-veil-neighborhood-activities-updates-in-patch-12-1-7.html",
-   "published_at": "2026-10-25T14:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383562/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383562/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383566,
-   "slug": "new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr",
-   "title_fa": "چهار معجون جدید با ۳۰ درصد Experience بیشتر در PTR پچ 12.1.7",
-   "lead_fa": "PTR پچ 12.1.7 چهار معجون تازه آورده که هر کدام ۳۰ درصد Experience بیشتر از نسخهٔ فعلی می‌دهند؛ ترکیب‌های تازه‌ای که سطح‌گیری را سریع‌تر می‌کند.",
-   "body_fa": [
-    "در جدیدترین بیلد PTR پچ 12.1.7 چهار معجون جدید دیده می‌شود که جایگزین ترکیب‌های فعلی می‌شوند و همه یک ویژگی مشترک دارند: ۳۰ درصد Experience بیشتر.",
-    {
-     "t": "h",
-     "x": "چهار معجون تازه"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "معجون اول — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت",
-      "معجون دوم — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت",
-      "معجون سوم — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت",
-      "معجون چهارم — ۳۰ درصد Experience بیشتر، مدت ۱ ساعت"
-     ]
-    },
-    {
-     "t": "note",
-     "x": "این اطلاعات از بیلد PTR است؛ تا انتشار نهایی پچ ممکن است مقادیر تغییر کند.",
-     "kind": "warn"
-    },
-    "اگر در فصل فعلی سطح‌گیری می‌کنید، این معجون‌ها بعد از انتشار پچ بهترین گزینهٔ فلسک و فایل شما خواهند بود."
-   ],
-   "tags_fa": [
-    "PTR",
-    "پچ 12.1.7",
-    "Experience"
-   ],
-   "items": [],
-   "title_en": "New 30% Bonus Experience Potions Datamined on Patch 12.1.7 PTR",
-   "source_url": "https://www.wowhead.com/news=383566",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383566-new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr.html",
-   "published_at": "2026-10-24T18:00:00Z",
-   "model": "GLM",
-   "via": "auto-demo",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383566/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383566/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383544,
-   "slug": "catch-up-on-renown-quickly-with-aqir-invasions",
-   "title_fa": "با حمله‌های Aqir هر هفته، Renown فرکشن‌های Midnight را سریع بالا ببرید",
-   "lead_fa": "برای جبران عقب‌افتادگی اعتبار فرکشن‌های Midnight، حمله‌های Aqir ساده‌ترین راه‌اند؛ رویدادی ساعتی که با دو توکن هفتگی، اعتبار سنگینی به دست می‌دهد.",
-   "body_fa": [
-    "حمله‌های Aqir یکی از فعالیت‌های تازهٔ پچ 12.1.5 در Midnight است؛ رویدادی که هر ساعت، سرِ ساعت شروع می‌شود و مرحلهٔ نخست آن ۱۰ دقیقه طول می‌کشد. در این بازه، بازیکن‌ها درون زون پرواز می‌کنند و هدف‌های علامت‌گذاری‌شده را در نقطهٔ مشخص‌شده کامل می‌کنند.",
-    {
-     "t": "h",
-     "x": "باس هر ساعت و توکن هفتگی"
-    },
-    "پس از پایان همین ۱۰ دقیقه است که یک Aqir Monstrosity ظاهر می‌شود و بازیکن‌ها زمان محدودی برای از پا درآوردنش دارند. نکتهٔ مهم برای شکارچیان اعتبار همین‌جاست: در هر هفته، دوبار نخست که این باس را شکست دهید، یک [[item:Aqir Research Satchel]] به دست می‌آورید.",
-    {
-     "t": "note",
-     "x": "فقط دو شکست هفتگی نخست توکن می‌دهد؛ بعد از آن به‌همین‌رویداد برگردید و وقت تلف نکنید.",
-     "kind": "tip"
-    },
-    {
-     "t": "h",
-     "x": "مبادلهٔ توکن در Silvermoon City"
-    },
-    "این توکن نزد فروشنده‌های Aqir Vendors در Silvermoon City مبادله می‌شود؛ دقیقاً در مختصات /way #2393 39.4 80.4. با صحبت با Matildeux Osril انتخاب می‌کنید که اعتبار به کدام فرکشن تعلق بگیرد.",
-    {
-     "t": "table",
-     "head": [
-      "فرکشن",
-      "اعتبار به ازای هر توکن"
-     ],
-     "rows": [
-      [
-       "Silvermoon Court",
-       "2,500"
-      ],
-      [
-       "Amani Tribe",
-       "2,500"
-      ],
-      [
-       "Hara'ti",
-       "2,500"
-      ],
-      [
-       "Singularity",
-       "2,500"
-      ],
-      [
-       "Zul'jarra's Forces",
-       "1,250"
-      ]
-     ]
-    },
-    {
-     "t": "item",
-     "id": 277283
-    },
-    "چون رویداد هر ساعت تکرار می‌شود، بهتر است دو شکست هفتگی را در برنامه‌تان بگنجانید تا پیشرفت Renown فرکشن‌های Midnight بدون وقفه ادامه پیدا کند."
-   ],
-   "tags_fa": [
-    "پچ 12.1.5",
-    "Midnight",
-    "Renown",
-    "Aqir Invasions"
-   ],
-   "items": [],
-   "title_en": "Catch Up on Renown Quickly with Aqir Invasions",
-   "source_url": "https://www.wowhead.com/news=383544",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383544-catch-up-on-renown-quickly-with-aqir-invasions.html",
-   "published_at": "2026-10-24T14:00:00Z",
-   "model": "GLM",
-   "via": "auto-demo",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383544/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383544/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383778,
-   "title_en": "Various NPC Fixes and Deathstalker Erland Spawn Rate - WoW: Forever Hotfixes",
-   "url": "https://www.wowhead.com/news=383778",
-   "category": "Forever",
-   "published_at": "2026-11-06T02:36:06Z"
-  },
   {
    "id": 383777,
    "title_en": "Renamed Tortollan NPCs and Venomous Abyss Tuning - Patch 12.1.5 Hotfixes",
@@ -3396,20 +2945,6 @@
    "url": "https://www.wowhead.com/news=383776",
    "category": "Live",
    "published_at": "2026-11-06T00:26:53Z"
-  },
-  {
-   "id": 383775,
-   "title_en": "Massive Mythic Coiled Altar Nerfs Removes 1 Soulcoiler Add From Each Spawn",
-   "url": "https://www.wowhead.com/news=383775",
-   "category": "Live",
-   "published_at": "2026-11-06T00:25:48Z"
-  },
-  {
-   "id": 383774,
-   "title_en": "Minimum Deposit of 1 Silver Required to List Items on Auction House in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383774",
-   "category": "Forever",
-   "published_at": "2026-11-05T23:29:31Z"
   },
   {
    "id": 383773,
@@ -3438,13 +2973,6 @@
    "url": "https://www.wowhead.com/news=383761",
    "category": "Forever",
    "published_at": "2026-11-05T16:36:51Z"
-  },
-  {
-   "id": 383760,
-   "title_en": "WoW: Forever Known Issues After Launch",
-   "url": "https://www.wowhead.com/news=383760",
-   "category": "Forever",
-   "published_at": "2026-11-05T16:32:18Z"
   },
   {
    "id": 383746,
@@ -3655,6 +3183,34 @@
    "url": "https://www.wowhead.com/news=383704",
    "category": "Forever",
    "published_at": "2026-11-03T03:51:28Z"
+  },
+  {
+   "id": 383702,
+   "title_en": "Hunter Class Buffs on WoW: Forever",
+   "url": "https://www.wowhead.com/news=383702",
+   "category": "Forever",
+   "published_at": "2026-11-03T01:33:01Z"
+  },
+  {
+   "id": 383698,
+   "title_en": "Planet Azeroth with Bill Bailey: Plaguelands, Winterspring, and More",
+   "url": "https://www.wowhead.com/news=383698",
+   "category": "Forever",
+   "published_at": "2026-11-03T00:05:25Z"
+  },
+  {
+   "id": 383695,
+   "title_en": "Long Maintenance Planned Ahead of WoW: Forever Launch",
+   "url": "https://www.wowhead.com/news=383695",
+   "category": "Forever",
+   "published_at": "2026-11-02T18:25:59Z"
+  },
+  {
+   "id": 383657,
+   "title_en": "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
+   "url": "https://www.wowhead.com/news=383657",
+   "category": "Forever",
+   "published_at": "2026-10-31T18:00:00Z"
   }
  ]
 }
