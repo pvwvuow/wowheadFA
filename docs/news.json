@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T13:20:58Z",
+ "generated": "2026-11-06T15:03:31Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2933,6 +2933,20 @@
  ],
  "queue": [
   {
+   "id": 383770,
+   "title_en": "Four New Key Art Pieces for WoW: Forever Launch",
+   "url": "https://www.wowhead.com/news=383770",
+   "category": "Forever",
+   "published_at": "2026-11-06T15:00:00Z"
+  },
+  {
+   "id": 383768,
+   "title_en": "Every Quest for Dungeons up to Level 20 in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383768",
+   "category": "Forever",
+   "published_at": "2026-11-06T14:00:00Z"
+  },
+  {
    "id": 383777,
    "title_en": "Renamed Tortollan NPCs and Venomous Abyss Tuning - Patch 12.1.5 Hotfixes",
    "url": "https://www.wowhead.com/news=383777",
@@ -3197,20 +3211,6 @@
    "url": "https://www.wowhead.com/news=383698",
    "category": "Forever",
    "published_at": "2026-11-03T00:05:25Z"
-  },
-  {
-   "id": 383695,
-   "title_en": "Long Maintenance Planned Ahead of WoW: Forever Launch",
-   "url": "https://www.wowhead.com/news=383695",
-   "category": "Forever",
-   "published_at": "2026-11-02T18:25:59Z"
-  },
-  {
-   "id": 383657,
-   "title_en": "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
-   "url": "https://www.wowhead.com/news=383657",
-   "category": "Forever",
-   "published_at": "2026-10-31T18:00:00Z"
   }
  ]
 }
