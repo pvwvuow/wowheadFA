@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T21:26:06Z",
+ "generated": "2026-11-06T01:24:56Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3408,6 +3408,34 @@
  ],
  "queue": [
   {
+   "id": 383776,
+   "title_en": "Massive Nerfs to The Venomous Abyss Raid - Large Nerfs to Ula'tek on Every Difficulty",
+   "url": "https://www.wowhead.com/news=383776",
+   "category": "Live",
+   "published_at": "2026-11-06T00:26:53Z"
+  },
+  {
+   "id": 383775,
+   "title_en": "Massive Mythic Coiled Altar Nerfs Removes 1 Soulcoiler Add From Each Spawn",
+   "url": "https://www.wowhead.com/news=383775",
+   "category": "Live",
+   "published_at": "2026-11-06T00:25:48Z"
+  },
+  {
+   "id": 383774,
+   "title_en": "Minimum Deposit of 1 Silver Required to List Items on Auction House in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383774",
+   "category": "Forever",
+   "published_at": "2026-11-05T23:29:31Z"
+  },
+  {
+   "id": 383773,
+   "title_en": "Mythic Twin Fangs Nerf for The Venomous Abyss Raid",
+   "url": "https://www.wowhead.com/news=383773",
+   "category": "Live",
+   "published_at": "2026-11-05T22:48:36Z"
+  },
+  {
    "id": 383771,
    "title_en": "Blizzard Investigating Issues with Certain Escort Quests in WoW: Forever",
    "url": "https://www.wowhead.com/news=383771",
@@ -3658,34 +3686,6 @@
    "url": "https://www.wowhead.com/news=383693",
    "category": "Live",
    "published_at": "2026-11-03T15:00:00Z"
-  },
-  {
-   "id": 383704,
-   "title_en": "WoW: Forever Official Development Notes and Class Tuning",
-   "url": "https://www.wowhead.com/news=383704",
-   "category": "Forever",
-   "published_at": "2026-11-03T03:51:28Z"
-  },
-  {
-   "id": 383702,
-   "title_en": "Hunter Class Buffs on WoW: Forever",
-   "url": "https://www.wowhead.com/news=383702",
-   "category": "Forever",
-   "published_at": "2026-11-03T01:33:01Z"
-  },
-  {
-   "id": 383698,
-   "title_en": "Planet Azeroth with Bill Bailey: Plaguelands, Winterspring, and More",
-   "url": "https://www.wowhead.com/news=383698",
-   "category": "Forever",
-   "published_at": "2026-11-03T00:05:25Z"
-  },
-  {
-   "id": 383695,
-   "title_en": "Long Maintenance Planned Ahead of WoW: Forever Launch",
-   "url": "https://www.wowhead.com/news=383695",
-   "category": "Forever",
-   "published_at": "2026-11-02T18:25:59Z"
   }
  ]
 }
