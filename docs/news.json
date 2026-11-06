@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T19:42:32Z",
+ "generated": "2026-11-06T21:13:16Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2933,6 +2933,27 @@
  ],
  "queue": [
   {
+   "id": 383787,
+   "title_en": "Raid Rewards and PvP Balance - Crix Interview on WoW: Forever",
+   "url": "https://www.wowhead.com/news=383787",
+   "category": "Forever",
+   "published_at": "2026-11-06T20:52:14Z"
+  },
+  {
+   "id": 383789,
+   "title_en": "Blizzard Fixing Issues Causing Duplicates of NPCs and Mobs",
+   "url": "https://www.wowhead.com/news=383789",
+   "category": "Forever",
+   "published_at": "2026-11-06T20:11:48Z"
+  },
+  {
+   "id": 383786,
+   "title_en": "Minimum Deposit on AH Being Reduced to 1 Copper Soon in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383786",
+   "category": "Forever",
+   "published_at": "2026-11-06T19:08:08Z"
+  },
+  {
    "id": 383785,
    "title_en": "Shaman Talents Revisited Early Next Year - Blizzard Addresses Shaman Classic Discord Shutdown in WoW: Forever",
    "url": "https://www.wowhead.com/news=383785",
@@ -3190,27 +3211,6 @@
    "url": "https://www.wowhead.com/news=383713",
    "category": "WoW",
    "published_at": "2026-11-03T18:56:09Z"
-  },
-  {
-   "id": 383712,
-   "title_en": "What's New and What's the Same in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383712",
-   "category": "Forever",
-   "published_at": "2026-11-03T18:01:37Z"
-  },
-  {
-   "id": 383711,
-   "title_en": "Watch the World of Warcraft: Forever Launch Overview",
-   "url": "https://www.wowhead.com/news=383711",
-   "category": "Forever",
-   "published_at": "2026-11-03T17:39:57Z"
-  },
-  {
-   "id": 383710,
-   "title_en": "Shaman Classic Discord Closed in Protest of Shaman Changes in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383710",
-   "category": "WoW",
-   "published_at": "2026-11-03T17:23:13Z"
   }
  ]
 }
