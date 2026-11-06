@@ -1,8 +1,155 @@
 {
- "generated": "2026-11-06T01:24:56Z",
+ "generated": "2026-11-06T01:26:05Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383771,
+   "slug": "blizzard-investigating-issues-with-certain-escort-quests-in-wow-foreve",
+   "title_fa": "بررسی مشکلات برخی کوئست‌های اسکورت و آندد پالادین در WoW: Forever توسط بلیزارد",
+   "lead_fa": "تیم پشتیبانی Blizzard در حال بررسی باگ‌های گزارش‌شده در چندین کوئست اسکورت و یکی از ماموریت‌های آغازین Undead Paladin در WoW: Forever است.",
+   "body_fa": [
+    "تیم BlizzardCS با ثبت دیدگاه در صفحات کوئست‌های سایت Wowhead، اعلام کرده است که از وجود اشکال در برخی ماموریت‌ها آگاهی دارد و در حال بررسی این موارد است.",
+    {
+     "t": "h",
+     "x": "اشکال در کوئست‌های اسکورت"
+    },
+    "دیدگاه‌های تیم پشتیبانی برای سه ماموریت اسکورت Freedom to Ruul و Free From the Hold و The Defias Brotherhood ثبت شده است. این ماموریت‌ها در صورت کشته شدن اهداف یا ناپدید شدن آن‌ها فوراً با شکست روبه‌رو می‌شوند.",
+    {
+     "t": "quote",
+     "x": "ما مطلع هستیم که Ruul، Gilthares Firebough یا Defias Traitor ممکن است هنگام حرکت در نزدیکی یا از مرزهای منطقه و محیط ناپدید شوند و باعث شکست کوئست گردند. ما هم‌اکنون در حال بررسی این مشکل هستیم.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "h",
+     "x": "مشکل ماموریت Rediscovering the Light برای Undead Paladin"
+    },
+    "یکی از کوئست‌های اولیه کلاس Undead Paladin به نام Rediscovering the Light است که در آن بازیکنان باید دوباره نحوه استفاده از Holy Light را فرا بگیرند. در برخی موارد، هیل کردن NPCها پیشرفتی در رسیدن به هدف ماموریت ایجاد نمی‌کند و Blizzard از این مشکل نیز باخبر است.",
+    {
+     "t": "quote",
+     "x": "ما می‌دانیم که هیل کردن Injured Deathguards ممکن است پیشرفتی در ماموریت ثبت نکند و در حال حاضر مشغول بررسی این موضوع هستیم.",
+     "by": "Blizzard"
+    }
+   ],
+   "tags_fa": [
+    "کوئست",
+    "باگ",
+    "WoW Forever",
+    "پشتیبانی بلیزارد"
+   ],
+   "items": [],
+   "title_en": "Blizzard Investigating Issues with Certain Escort Quests in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383771",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383771-blizzard-investigating-issues-with-certain-escort-quests-in-wow-foreve.html",
+   "published_at": "2026-11-05T20:23:47Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383771/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383771/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383745,
+   "slug": "mcdonald-s-canada-offering-wow-game-time-for-reward-points",
+   "title_fa": "همکاری جدید McDonald's در کانادا با جوایز و Game Time برای WoW",
+   "lead_fa": "کاربران در کانادا می‌توانند با استفاده از امتیازهای اپلیکیشن McDonald's تا تاریخ ۲۳ نوامبر، پاداش‌های مختلف از جمله زمان بازی WoW دریافت کنند.",
+   "body_fa": [
+    "همکاری میان McDonald's و Xbox ادامه دارد و این بار در دسترس کاربران کانادایی قرار گرفته است. این طرح پیش از این در ایرلند و بریتانیا، و سپس در استرالیا در دسترس بود و اکنون بازیکنان در کانادا می‌توانند امتیازهای بخش پاداش اپلیکیشن McDonald's را برای دریافت آیتم‌های WoW خرج کنند.",
+    {
+     "t": "h",
+     "x": "هزینه و فهرست جوایز"
+    },
+    "تمام این پاداش‌ها تا ۲۳ نوامبر در دسترس هستند و هزینهٔ دریافت هر کدام ۲٬۰۰۰ امتیاز پاداش است. گزینه‌های قابل دریافت به این ترتیب هستند:",
+    {
+     "t": "ul",
+     "xs": [
+      "۱۴ روز Game Time",
+      "[[item:Red Hot Portable Bakery]]",
+      "[[item:Lil' Ragnaros]]"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "این سومین باری است که [[item:Red Hot Portable Bakery]] در دسترس قرار می‌گیرد که هر بار در یک منطقه متفاوت بوده است. بر اساس دوره‌های قبلی این رویداد، کدها محدود به منطقه جغرافیایی خاصی نیستند و می‌توانید کد را از یک دوست دریافت کنید.",
+     "kind": "tip"
+    },
+    "اگر علاقه‌ای به آیتم‌های جمع‌آوری برای نسخه Retail ندارید، گزینه ۱۴ روز Game Time برای تمام نسخه‌های بازی از جمله Forever قابل استفاده خواهد بود."
+   ],
+   "tags_fa": [
+    "همکاری تجاری",
+    "Game Time",
+    "پت",
+    "اسباب بازی"
+   ],
+   "items": [],
+   "title_en": "McDonald's Canada Offering WoW Game Time for Reward Points",
+   "source_url": "https://www.wowhead.com/news=383745",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383745-mcdonald-s-canada-offering-wow-game-time-for-reward-points.html",
+   "published_at": "2026-11-05T16:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383745/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383745/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383754,
+   "slug": "earn-700-discord-orbs-with-new-wow-forever-quest",
+   "title_fa": "دریافت ۷۰۰ پاداش Discord Orbs با ماموریت جدید WoW: Forever",
+   "lead_fa": "با انجام ماموریت جدید دیسکورد و ۱۵ دقیقه تجربه بازی WoW: Forever، می‌توانید ۷۰۰ عدد Discord Orbs دریافت کنید.",
+   "body_fa": [
+    "یک کوئست تازه در پلتفرم دیسکورد در دسترس قرار گرفته است که از بازیکنان می‌خواهد به مدت ۱۵ دقیقه به تجربه WoW: Forever بپردازند تا ۷۰۰ عدد Discord Orbs به عنوان پاداش دریافت کنند.",
+    {
+     "t": "note",
+     "x": "کاربرانی که اشتراک Nitro دارند، به جای ۷۰۰ عدد، مقدار ۸۴۰ عدد Discord Orbs دریافت خواهند کرد.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "مراحل دریافت پاداش"
+    },
+    {
+     "t": "ol",
+     "xs": [
+      "به بخش Direct Messages در دیسکورد بروید.",
+      "وارد قسمت Quests شوید و گزینه World of Warcraft Play Quest را انتخاب کنید.",
+      "پس از قبول ماموریت، بازی را به مدت ۱۵ دقیقه اجرا و تجربه کنید.",
+      "در نهایت پاداش Discord Orbs خود را تحویل بگیرید."
+     ]
+    },
+    "امتیازهای Discord Orbs برای خرید آیتم‌های تزئینی و ظاهری از فروشگاه دیسکورد (Discord shop) قابل استفاده هستند."
+   ],
+   "tags_fa": [
+    "دیسکورد",
+    "WoW Forever",
+    "پاداش"
+   ],
+   "items": [],
+   "title_en": "Earn 700 Discord Orbs with New WoW: Forever Quest",
+   "source_url": "https://www.wowhead.com/news=383754",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383754-earn-700-discord-orbs-with-new-wow-forever-quest.html",
+   "published_at": "2026-11-05T14:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383754/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383754/1.png",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383724,
    "slug": "classic-shaman-discord-open-again-after-13-hours",
@@ -3226,184 +3373,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383568,
-   "slug": "subtlety-rogue-nerfs-and-feral-druid-buffs-class-tuning-incoming-with-",
-   "title_fa": "تغییرات بالانس کلاس‌ها در ریست هفتگی: نرف Subtlety Rogue و تقویت Feral Druid",
-   "lead_fa": "بلیزارد تنظیمات جدیدی را برای کلاس‌های مختلف معرفی کرده است که هم‌زمان با نگهداری هفتگی در ۲۷ اکتبر اعمال خواهند شد.",
-   "body_fa": [
-    "طبق اعلام رسمی بلیزارد، موج جدیدی از تغییرات بالانس کلاس‌ها در دست انتشار است که تضعیف Subtlety Rogue و باف Feral Druid را در بر دارد. این تنظیمات در تاریخ ۲۷ اکتبر اعمال می‌شوند.",
-    {
-     "t": "h",
-     "x": "تغییرات بخش PvE کلاس‌ها"
-    },
-    "در بخش PvE، کلاس Feral Druid شاهد افزایش ۵٪ بر تمامی دمیج‌های واردشده (All damage done) خواهد بود که مبارزات PvP را شامل نمی‌شود.",
-    {
-     "t": "quote",
-     "x": "این تغییرات با هدف کمک به Restoration Druid در مواجهه با برست دمیج دانجن‌ها طراحی شده‌اند، زیرا آن‌ها از سایر هیلرها عقب‌تر هستند. عملکرد آن‌ها در ریدها مناسب است، بنابراین ما تلنت‌ها و توانایی‌هایی را هدف قرار داده‌ایم که در هیل یک گروه ۵ نفره محبوب‌تر هستند.",
-     "by": "توسعه‌دهندگان بلیزارد"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "میزان هیل Verdancy به میزان ۶۰٪ افزایش می‌یابد (روی PvP بی‌اثر است).",
-      "میزان هیل Regrowth به میزان ۱۰٪ افزایش می‌یابد (روی PvP بی‌اثر است).",
-      "تلنت Improved Swiftmend هیل توانایی Swiftmend را ۴۰٪ افزایش می‌دهد (قبلاً ۳۰٪ بود، روی PvP بی‌اثر است).",
-      "تلنت Trick Shots میزان ریکوشه دمیج Aimed Shot و Rapid Fire را به ۸۵٪ می‌رساند (قبلاً ۷۵٪ بود).",
-      "دمیج Explosive Shot به مقدار ۱۰٪ افزایش پیدا می‌کند.",
-      "دمیج Unstable Affliction به میزان ۲۰٪ افزایش می‌یابد (روی PvP بی‌اثر است).",
-      "دمیج Rain of Fire به میزان ۲۰٪ افزایش می‌یابد."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "تغییرات Subtlety Rogue"
-    },
-    {
-     "t": "quote",
-     "x": "بافی که Subtlety به عنوان جبران خسارت هم‌زمان با تغییرات پچ 12.1.5 دریافت کرده بود فراتر از انتظارات رفت، بنابراین بخش قابل‌توجهی از آن باف را بازمی‌گردانیم. علاوه بر این، تغییرات پچ بیش از Deathstalker به نفع Trickster تمام شد، بنابراین Trickster یک نرف کوچک‌تر اضافی نیز دریافت می‌کند.",
-     "by": "توسعه‌دهندگان بلیزارد"
-    },
-    "بر همین اساس، تلنت Hero Talent مربوط به Trickster یعنی Fazed، اکنون دمیج را ۵٪ افزایش می‌دهد (که قبلاً ۷٪ بود).",
-    {
-     "t": "h",
-     "x": "تنظیمات بالانس PvP"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "دمیج Vampiric Strike مربوط به San’layn در مبارزات PvP به میزان ۲۰٪ کاهش می‌یابد.",
-      "دمیج Collapsing Star در PvP به میزان ۲۰٪ افزایش می‌یابد.",
-      "تلنت Chronal Dynamo از Chronowarden هیل و دمیج Living Flame غیر اینستنت را در PvP به میزان ۸۰٪ افزایش می‌دهد (قبلاً ۵۰٪ بود).",
-      "تلنت Reverberations از Chronowarden سبب می‌شود Verdant Embrace در طول ۸ ثانیه در PvP معادل ۸۰٪ هیل اضافه ایجاد کند (قبلاً ۴۰٪ بود).",
-      "دمیج Kill Shot در PvP به میزان ۴۰٪ زیاد می‌شود.",
-      "شانس فعال‌سازی Deathblow توسط Aimed Shot در PvP به ۲۵٪ می‌رسد.",
-      "دمیج Black Arrow از Dark Ranger در PvP معادل ۴۰٪ افزایش می‌یابد.",
-      "تمامی دمیج Fire Mage در PvP به میزان ۵٪ کاهش می‌یابد.",
-      "دمیج Meteor ناشی از Isothermic Core در Frostfire در PvP به میزان ۲۰٪ بیشتر می‌شود.",
-      "دمیج Pyroblast ناشی از Duality در Frostfire در PvP به مقدار ۲۰٪ بالا می‌رود."
-     ]
-    },
-    {
-     "t": "note",
-     "x": "این خبر با شناسه 383568 در تاریخ 2026-10-23 منتشر شده است و مباحثی پیرامون ضریب‌های محاسباتی مانند 1.14، 1.0488، باف 14 درصدی، نرف 12 درصدی، تغییرات 4.88 درصدی و ارجاعاتی مانند پچ 12.1.7 و اقلامی چون 18 یا 21 پیرامون آن شکل گرفته است.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "تیونینگ کلاس‌ها",
-    "PvP",
-    "PvE"
-   ],
-   "items": [
-    {
-     "item": {
-      "name": "Assassination",
-      "rows": [
-       [
-        "Deathstalker",
-        "Deathstalker’s Mark damage increased by 20% in PvP combat."
-       ],
-       [
-        "Deathstalker",
-        "Hunt Them Down damage increased by 20% in PvP combat."
-       ],
-       [
-        "Deathstalker",
-        "Darkest Night now increases the damage of the next Eviscerate by 15% in PvP combat (was 8%)."
-       ]
-      ],
-      "spec": [],
-      "quality": ""
-     }
-    }
-   ],
-   "title_en": "Subtlety Rogue Nerfs and Feral Druid Buffs - Class Tuning Incoming with Weekly Reset",
-   "source_url": "https://www.wowhead.com/news=383568",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383568-subtlety-rogue-nerfs-and-feral-druid-buffs-class-tuning-incoming-with-.html",
-   "published_at": "2026-10-23T22:54:15Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383568/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383568/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383554,
-   "slug": "world-bosses-legendaries-and-a-scourge-invasion-the-wow-forever-beta-i",
-   "title_fa": "پایان بتای WoW: Forever با باس‌های جهانی، Legendaryها و حمله Scourge",
-   "lead_fa": "در ساعات آخر بتای WoW: Forever، بلیزارد با رویدادهای شاد و آشوب‌آمیز در سراسر جهان بازیکنان را بدرقه کرد.",
-   "body_fa": [
-    "بازیکنان ابتدا NPC جدیدی را در مقابل شهرهای اصلی یافتند که اقلام مصرفی ویژه‌ای مانند آتش‌بازی، طوماری برای افزایش سرعت اطرافیان و معجونی که تجربه کسب‌شده را ۲۰۰٪ افزایش می‌داد عرضه می‌کرد.",
-    "علاوه بر این، World Bossهایی در مناطق شروع بازی ظاهر شدند که شامل Azuregos، \"Super\" Hogger، Voracious، Thunderaan و Lord Kazzak بودند.",
-    "شکست این World Bossها Legendaryهای آشنا و قدرتمندی مانند Sulfuras, Hand of Ragnaros و Thunderfury, Blessed Blade of the Windseeker را به بازیکنان می‌داد.",
-    "در کنار این موارد، بازیکنان امکان فارم کامل ست Tier 1 کلاسیک و سلاح‌های Molten Core را از دشمنان موجود در تمام مناطق شروع بازی داشتند.",
-    "اما این‌ها کافی نبود و بلیزارد جعبه‌های آلوده مربوط به رویداد Scourge در Wrath of the Lich King سال ۲۰۰۸ را دوباره منتشر کرد تا plague Scourge را در سراسر Azeroth پخش کند.",
-    "بتای WoW: Forever با موفقیت چشمگیری همراه بود و بازیکنان مشتاقانه منتظر بازگشت به Azeroth در تاریخ November 4th هستند."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "World Boss",
-    "Scourge Invasion",
-    "Legendary"
-   ],
-   "items": [],
-   "title_en": "World Bosses, Legendaries, and a Scourge Invasion - The WoW: Forever Beta is Over",
-   "source_url": "https://www.wowhead.com/news=383554",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383554-world-bosses-legendaries-and-a-scourge-invasion-the-wow-forever-beta-i.html",
-   "published_at": "2026-10-23T20:13:11Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383554/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383554/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383560,
-   "slug": "blizzard-thanks-players-for-testing-the-wow-forever-beta",
-   "title_fa": "بلیتزر از بازیکنان بتای WoW Forever قدردانی کرد",
-   "lead_fa": "بلیتزر با انتشار پیامی از بازیکنان برای شرکت در بتای WoW Forever تشکر کرده و جزئیاتی از مراحل پیش از انتشار در ۴ نوامبر را اعلام کرد.",
-   "body_fa": [
-    "بتای WoW Forever اکنون به طور رسمی به پایان رسیده است و بلیتزر از همه کسانی که طی پنج هفته گذشته در تست بازی، جمع‌آوری داده، گزارش باگ و ارائه بازخورد شرکت کردند قدردانی کرده است.",
-    "تیم اکنون بر رفع مسائل اولویت‌دار و بهبود سرویس بازی تمرکز خواهد کرد تا برای launch day on November 4 آماده باشد.",
-    "بلیتزر اعلام کرده که سرویس Name Reservation در ۲۷ اکتبر فعال می‌شود و به بازیکنان فرصت می‌دهد تا ruleset مورد نظر خود را انتخاب کنند و نام مناسب شخصیت‌شان را رزرو کنند.",
-    "در ادامه، تیم به فعالیت خود با WoW Forever Podcast خواهد پرداخت و توصیه کرده که علاقه‌مندان قسمت‌های منتشرشده را دنبال کنند.",
-    "پادکست شامل پنج قسمت است: Episode 1 - Unpacking Beta Launch ft. @Xaryu، Episode 2 - Speed Running Classes ft. @sodapoppin، Episode 3 - Dive Into Dungeons With Devs ft. @Hammerdancegaming، Episode 4 - The PvP Episode ft. @TipsOutBaby & @Savixirl و Episode 5 - End of Beta Special.",
-    "بلیتزر بار دیگر از جامعه‌ای که در طول بتا شکل گرفته تشکر کرده و ابراز امیدواری کرده که بازیکنان را در ۴ نوامبر ملاقات کند."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "بتا",
-    "پادکست",
-    "Name Reservation"
-   ],
-   "items": [],
-   "title_en": "Blizzard Thanks Players for Testing the WoW Forever Beta",
-   "source_url": "https://www.wowhead.com/news=383560",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383560-blizzard-thanks-players-for-testing-the-wow-forever-beta.html",
-   "published_at": "2026-10-23T17:12:50Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383560/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383560/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3436,13 +3405,6 @@
    "published_at": "2026-11-05T22:48:36Z"
   },
   {
-   "id": 383771,
-   "title_en": "Blizzard Investigating Issues with Certain Escort Quests in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383771",
-   "category": "Forever",
-   "published_at": "2026-11-05T20:23:47Z"
-  },
-  {
    "id": 383769,
    "title_en": "New Prerequisites Required for Ruins of Lordaeron Dungeon Quests in WoW: Forever",
    "url": "https://www.wowhead.com/news=383769",
@@ -3471,25 +3433,11 @@
    "published_at": "2026-11-05T16:32:18Z"
   },
   {
-   "id": 383745,
-   "title_en": "McDonald's Canada Offering WoW Game Time for Reward Points",
-   "url": "https://www.wowhead.com/news=383745",
-   "category": "WoW",
-   "published_at": "2026-11-05T16:00:00Z"
-  },
-  {
    "id": 383746,
    "title_en": "Mythic Venomous Abyss Caches Replaced by Open World Gear in Talebound Rewards",
    "url": "https://www.wowhead.com/news=383746",
    "category": "PTR",
    "published_at": "2026-11-05T15:00:00Z"
-  },
-  {
-   "id": 383754,
-   "title_en": "Earn 700 Discord Orbs with New WoW: Forever Quest",
-   "url": "https://www.wowhead.com/news=383754",
-   "category": "Forever",
-   "published_at": "2026-11-05T14:00:00Z"
   },
   {
    "id": 383758,
@@ -3686,6 +3634,27 @@
    "url": "https://www.wowhead.com/news=383693",
    "category": "Live",
    "published_at": "2026-11-03T15:00:00Z"
+  },
+  {
+   "id": 383704,
+   "title_en": "WoW: Forever Official Development Notes and Class Tuning",
+   "url": "https://www.wowhead.com/news=383704",
+   "category": "Forever",
+   "published_at": "2026-11-03T03:51:28Z"
+  },
+  {
+   "id": 383702,
+   "title_en": "Hunter Class Buffs on WoW: Forever",
+   "url": "https://www.wowhead.com/news=383702",
+   "category": "Forever",
+   "published_at": "2026-11-03T01:33:01Z"
+  },
+  {
+   "id": 383698,
+   "title_en": "Planet Azeroth with Bill Bailey: Plaguelands, Winterspring, and More",
+   "url": "https://www.wowhead.com/news=383698",
+   "category": "Forever",
+   "published_at": "2026-11-03T00:05:25Z"
   }
  ]
 }
