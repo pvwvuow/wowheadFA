@@ -105,12 +105,50 @@
   ],
   "chars": 1025
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383771/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383771/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383771/1.jpg",
+ "article_fa": {
+  "title_fa": "بررسی مشکلات برخی کوئست‌های اسکورت و آندد پالادین در WoW: Forever توسط بلیزارد",
+  "lead_fa": "تیم پشتیبانی Blizzard در حال بررسی باگ‌های گزارش‌شده در چندین کوئست اسکورت و یکی از ماموریت‌های آغازین Undead Paladin در WoW: Forever است.",
+  "body_fa": [
+   "تیم BlizzardCS با ثبت دیدگاه در صفحات کوئست‌های سایت Wowhead، اعلام کرده است که از وجود اشکال در برخی ماموریت‌ها آگاهی دارد و در حال بررسی این موارد است.",
+   {
+    "t": "h",
+    "x": "اشکال در کوئست‌های اسکورت"
+   },
+   "دیدگاه‌های تیم پشتیبانی برای سه ماموریت اسکورت Freedom to Ruul و Free From the Hold و The Defias Brotherhood ثبت شده است. این ماموریت‌ها در صورت کشته شدن اهداف یا ناپدید شدن آن‌ها فوراً با شکست روبه‌رو می‌شوند.",
+   {
+    "t": "quote",
+    "x": "ما مطلع هستیم که Ruul، Gilthares Firebough یا Defias Traitor ممکن است هنگام حرکت در نزدیکی یا از مرزهای منطقه و محیط ناپدید شوند و باعث شکست کوئست گردند. ما هم‌اکنون در حال بررسی این مشکل هستیم.",
+    "by": "Blizzard"
+   },
+   {
+    "t": "h",
+    "x": "مشکل ماموریت Rediscovering the Light برای Undead Paladin"
+   },
+   "یکی از کوئست‌های اولیه کلاس Undead Paladin به نام Rediscovering the Light است که در آن بازیکنان باید دوباره نحوه استفاده از Holy Light را فرا بگیرند. در برخی موارد، هیل کردن NPCها پیشرفتی در رسیدن به هدف ماموریت ایجاد نمی‌کند و Blizzard از این مشکل نیز باخبر است.",
+   {
+    "t": "quote",
+    "x": "ما می‌دانیم که هیل کردن Injured Deathguards ممکن است پیشرفتی در ماموریت ثبت نکند و در حال حاضر مشغول بررسی این موضوع هستیم.",
+    "by": "Blizzard"
+   }
+  ],
+  "tags_fa": [
+   "کوئست",
+   "باگ",
+   "WoW Forever",
+   "پشتیبانی بلیزارد"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-06T00:12:44Z"
+ }
 }
