@@ -1,8 +1,94 @@
 {
- "generated": "2026-11-06T21:14:36Z",
+ "generated": "2026-11-06T23:29:50Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383789,
+   "slug": "blizzard-fixing-issues-causing-duplicates-of-npcs-and-mobs",
+   "title_fa": "تلاش Blizzard برای رفع باگ تکثیر NPCها و ماب‌ها در لایه‌ها",
+   "lead_fa": "Blizzard در حال رسیدگی به مشکلی است که برای مدت کوتاهی باعث تکثیر چندبارهٔ NPCها و ماب‌ها در هر Layer شده بود.",
+   "body_fa": [
+    "به‌دنبال بروز یک نقص فنی کوتاه، ماب‌ها و NPCها در هر Layer چندین نسخهٔ تکراری از خود ایجاد کردند؛ مسئله‌ای که باعث شد برخی مناطق بسیار خطرناک شوند یا چندین نمونهٔ هم‌شکل از یک NPC کنار هم قرار بگیرند.",
+    "بلیزارد با ارسال پیامی درون سرور اعلام کرد که در حال برطرف کردن این موضوع است و به طنز از این اتفاق به‌عنوان یک اختلال کوچک یاد کرد.",
+    {
+     "t": "quote",
+     "x": "درود! یک اختلال جزئی در جهان‌های موازی رخ داده بود. ما در حال حاضر مشغول رفع این اختلال در تمامی مناطق هستیم.",
+     "by": "Blizzard"
+    },
+    "روند برطرف کردن این مشکل و بازگرداندن وضعیت مناطق به حالت عادی همچنان در جریان است."
+   ],
+   "tags_fa": [
+    "بلیزارد",
+    "باگ",
+    "سرور"
+   ],
+   "items": [],
+   "title_en": "Blizzard Fixing Issues Causing Duplicates of NPCs and Mobs",
+   "source_url": "https://www.wowhead.com/news=383789",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383789-blizzard-fixing-issues-causing-duplicates-of-npcs-and-mobs.html",
+   "published_at": "2026-11-06T20:11:48Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383789/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383789/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383786,
+   "slug": "minimum-deposit-on-ah-being-reduced-to-1-copper-soon-in-wow-forever",
+   "title_fa": "کاهش حداقل دیپازیت در Auction House نسخه WoW: Forever به ۱ مس",
+   "lead_fa": "حداقل مبلغ دیپازیت برای ثبت کالا در Auction House بازی WoW: Forever به‌زودی از ۱ نقره به ۱ مس کاهش خواهد یافت.",
+   "body_fa": [
+    "در زمان راه‌اندازی WoW: Forever، حداقل دیپازیت تعیین‌شده برای قرار دادن آیتم‌ها در Auction House به ۱ Silver افزایش یافته بود. این موضوع در شرایط اقتصاد اولیه بازی، ریسک بالایی برای بازیکنان ایجاد می‌کرد؛ زیرا از دست دادن ۱ Silver در صورت فروش نرفتن کالا، به‌ویژه در زمان کمبود پول، هزینه‌ها را به‌سرعت بالا می‌برد.",
+    {
+     "t": "h",
+     "x": "اظهارات Kris Zierhut درباره تغییر دیپازیت"
+    },
+    "در گفت‌وگویی با Crix، آقای Kris Zierhut به موضوع نحوه مدیریت اختلاف‌نظرهای داخلی پرداخت و در پایان صحبت‌هایش به تغییر حداقل دیپازیت اشاره کرد.",
+    {
+     "t": "quote",
+     "x": "شاید حداقل قیمت برای دیپازیت در Auction House باید ۱ Copper باشد نه ۱ Silver. امروز پیش‌تر درباره این موضوع صحبت می‌کردیم و پس از گفت‌وگوی بیشتر با افراد، بله، ما در حال بازگرداندن حداقل دیپازیت به یک مس هستیم. این تغییر خواهد آمد؛ هنوز نه، اما در راه است.",
+     "by": "Kris Zierhut"
+    },
+    {
+     "t": "h",
+     "x": "نحوه کارکرد فرمول دیپازیت"
+    },
+    "زمانی که بازیکنان آیتمی را در Auction House فهرست می‌کنند، پرداخت دیپازیت الزامی است. این هزینه در صورت فروش موفقیت‌آمیز کالا به بازیکن بازگردانده می‌شود، اما اگر مزایده لغو شود یا زمان آن به پایان برسد، مبلغ از دست می‌رود.",
+    "با اعمال این تغییر، بازیکنان دیگر هنگام ثبت آیتم‌ها در Auction House با ریسک قابل‌توجهی روبه‌رو نخواهند بود و انتظار می‌رود ساختار دیپازیت به فرمول WoW: Classic بازگردد که بر اساس مدت‌زمان مزایده و Vendor Price آیتم محاسبه می‌شود.",
+    {
+     "t": "note",
+     "x": "این به‌روزرسانی هنوز فعال نشده اما طبق تأیید رسمی، به‌زودی اعمال خواهد شد.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "Auction House",
+    "اقتصاد بازی"
+   ],
+   "items": [],
+   "title_en": "Minimum Deposit on AH Being Reduced to 1 Copper Soon in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383786",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383786-minimum-deposit-on-ah-being-reduced-to-1-copper-soon-in-wow-forever.html",
+   "published_at": "2026-11-06T19:08:08Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383786/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383786/1.png",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383778,
    "slug": "various-npc-fixes-and-deathstalker-erland-spawn-rate-wow-forever-hotfi",
@@ -2861,74 +2947,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383565,
-   "slug": "new-talebound-toy-allows-companion-pets-to-fly-on-an-enchanted-book",
-   "title_fa": "اسباب‌بازی Hexed Tiny Tome از حالت Talebound در پچ ۱۲.۱.۷",
-   "lead_fa": "در بیلد جدید PTR پچ ۱۲.۱.۷، اسباب‌بازی Hexed Tiny Tome استخراج شده که از Talebound، حالت Roguelite تازه، به دست می‌آید.",
-   "body_fa": [
-    "این توی بسیار شبیه به Magical Saucer موجود است که اجازه می‌دهد پت همراه شما روی یک دیسک دنبالتان کند.",
-    "با این اسباب‌بازی، پت همراه شما روی یک کتاب پرنده دنبالتان خواهد کرد؛ کتابی که شبیه به mount Shadowbound Storybook است که از همان حالت بازی به دست می‌آید.",
-    "وقتی این توی در پچ ۱۲.۱.۷ منتشر شود، Narcissa's Mirror را فراموش نکنید.",
-    "این توی به شما اجازه می‌دهد مدل پت خود را تغییر دهید تا یک نسخه کوچک از خودتان روی کتاب جادویی پرنده دنبالتان کند."
-   ],
-   "tags_fa": [
-    "PTR",
-    "۱۲.۱.۷",
-    "Talebound",
-    "اسباب‌بازی"
-   ],
-   "items": [],
-   "title_en": "New Talebound Toy Allows Companion Pets to Fly on an Enchanted Book",
-   "source_url": "https://www.wowhead.com/news=383565",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383565-new-talebound-toy-allows-companion-pets-to-fly-on-an-enchanted-book.html",
-   "published_at": "2026-10-26T14:00:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383565/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383565/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383571,
-   "slug": "the-wow-forever-beta-pvp-tournament-results-winners-statistics",
-   "title_fa": "نتایج تورنمنت PvP WoW Forever Beta",
-   "lead_fa": "تورنمنت Forever Open با میزبانی Tipsoutbaby در بتای WoW Forever برگزار شد و Warlockguy به عنوان قهرمان اصلی معرفی گردید.",
-   "body_fa": [
-    "در طول بتای WoW Forever، Tipsoutbaby که قبلاً یوتیوبر WoW بود، تورنمنت Forever Open را میزبانی کرد. این رویداد یک تورنمنت آزاد بود که هر کسی در جامعه با دسترسی به بتا می‌توانست ثبت‌نام کند.",
-    "شرکت‌کنندگان سه هفته فرصت داشتند تا کاراکتر سطح ۳۰ خود را آماده کنند و برای جایزه رقابت کنند.",
-    "در طول رقابت، برخی کلاس‌ها در سطح ۳۰ عملکرد بهتری نسبت به بقیه داشتند. Warlock با نرخ برد ۷۹٪ بر competition مسلط بود، در حالی که Mage و Warrior با نرخ‌های برد ۲۵٪ و ۲۷٪ در پایین‌ترین جایگاه قرار گرفتند.",
-    "Warlockها واقعاً در این تورنمنت سلطه داشتند، زیرا برنده نهایی Warlockguy یک Warlock بود. علاوه بر این، کلاس نفر دوم نیز Warlock بود.",
-    "در طول تورنمنت، استراتژی‌ها و تکنیک‌های جالب و منحصربه‌فردی به کار گرفته شد. بازیکنان از ترینک‌هایی مانند Transformative Cocoon و Goblin Mortar استفاده کردند؛ هرچند Goblin Mortar بیشتر از اینکه کمک کند، ظاهراً علیه کاربر عمل می‌کرد.",
-    "پس از پایان تورنمنت، آشوب ادامه یافت. Blizzard منطقه‌ای ویژه و جداگانه از Mount Hyjal را فقط برای فینالیست‌ها اختصاص داد. پس از آن نه تنها Tauren Chieftains اجرا کردند، بلکه Blizzard با سورپرایز Azuregos ظاهر شد.",
-    "در نهایت این تورنمنت لحظات به‌یادماندنی بسیاری خلق کرد. اگرچه همه چیز کاملاً بدون مشکل پیش نرفت، شرکت‌کنندگان تجربه را سال‌ها به خاطر خواهند سپرد؛ به‌ویژه قهرمان اصلی Forever Open یعنی Warlockguy."
-   ],
-   "tags_fa": [
-    "Forever Beta",
-    "تورنمنت PvP",
-    "Warlockguy"
-   ],
-   "items": [],
-   "title_en": "The WoW: Forever Beta PvP Tournament: Results, Winners, Statistics",
-   "source_url": "https://www.wowhead.com/news=383571",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383571-the-wow-forever-beta-pvp-tournament-results-winners-statistics.html",
-   "published_at": "2026-10-26T13:00:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383571/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383571/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -2938,20 +2956,6 @@
    "url": "https://www.wowhead.com/news=383787",
    "category": "Forever",
    "published_at": "2026-11-06T20:52:14Z"
-  },
-  {
-   "id": 383789,
-   "title_en": "Blizzard Fixing Issues Causing Duplicates of NPCs and Mobs",
-   "url": "https://www.wowhead.com/news=383789",
-   "category": "Forever",
-   "published_at": "2026-11-06T20:11:48Z"
-  },
-  {
-   "id": 383786,
-   "title_en": "Minimum Deposit on AH Being Reduced to 1 Copper Soon in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383786",
-   "category": "Forever",
-   "published_at": "2026-11-06T19:08:08Z"
   },
   {
    "id": 383785,
@@ -3211,6 +3215,20 @@
    "url": "https://www.wowhead.com/news=383713",
    "category": "WoW",
    "published_at": "2026-11-03T18:56:09Z"
+  },
+  {
+   "id": 383712,
+   "title_en": "What's New and What's the Same in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383712",
+   "category": "Forever",
+   "published_at": "2026-11-03T18:01:37Z"
+  },
+  {
+   "id": 383711,
+   "title_en": "Watch the World of Warcraft: Forever Launch Overview",
+   "url": "https://www.wowhead.com/news=383711",
+   "category": "Forever",
+   "published_at": "2026-11-03T17:39:57Z"
   }
  ]
 }
