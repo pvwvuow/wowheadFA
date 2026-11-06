@@ -850,8 +850,8 @@
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383543/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
- "hold_count": 3,
- "hold_at": "2026-11-02T22:35:16Z",
+ "hold_count": 4,
+ "hold_at": "2026-11-06T03:14:04Z",
  "last_rejected": {
   "title_fa": "مکانیک‌های جدید برای رید Molten Core در بازی WoW: Forever تأیید شد",
   "lead_fa": "توسعه‌دهندگان بلیزارد تأیید کردند که رید قدیمی Molten Core در بازی WoW: Forever دستخوش بازطراحی شده و مکانیک‌های تازه‌ای برای بازیکنان خواهد داشت.",
