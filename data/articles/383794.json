@@ -394,5 +394,51 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383794/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383794/1.jpg",
+ "last_rejected": {
+  "title_fa": "هاتفیکس‌های ۶ نوامبر WoW: Forever منتشر شد",
+  "lead_fa": "بلیزارد به‌روزرسانی جدیدی برای سرورهای WoW: Forever منتشر کرد که شامل اصلاحات متعددی برای کلاس‌ها، دانجن‌ها و کوئست‌ها است.",
+  "body_fa": [
+   "در هاتفیکس ۶ نوامبر ۲۰۲۶ برای بازی World of Warcraft: Forever، تغییرات گسترده‌ای در بخش‌های مختلف از جمله مکانیک‌های کلاس‌ها، عملکرد دانجن‌ها و مأموریت‌های بازی اعمال شده است.",
+   {
+    "t": "h",
+    "x": "تغییرات کلاس‌ها و رابط کاربری"
+   },
+   "بخش Cooldown Manager اکنون مدت‌زمان اسپل‌های Crowd Control را در تمام شرایط، حتی هنگام اعمال Diminishing Returns یا کاهش‌های ناشی از مکانیک‌ها (مانند کاهش زمان Stun نژاد Orc)، به درستی نمایش می‌دهد. همچنین باگ تلنت Quick and the Dead رفع شده است.",
+   {
+    "t": "ul",
+    "xs": [
+     "کلاس Druid: اسپل Bloom اکنون هدف را به شکل صحیح Heal می‌کند و توضیحات Bear Form، Ravage و Swiftmend اصلاح شده است.",
+     "کلاس Mage: اسپل نامعتبر Research حذف شده و تنها پس از کوئست مربوطه اسپل Study در دسترس است؛ همچنین مدت‌زمان Arcane Blast به ۱۸ ثانیه اصلاح شد.",
+     "کلاس Rogue: برای اسپل Shank در تولتیپ رنک‌های ۱ و ۲ تفکیک شده و با تلنت Boot Knife تعداد Combo Points به درستی درج می‌شود.",
+     "کلاس Warlock: میزان Health پایه Voidwalker در تمامی لول‌ها حدود ۴۰ واحد افزایش یافته و تلنت Soul Siphon دیگر به اشتباه آسیب Wrack را بالا نمی‌برد.",
+     "کلاس Warrior: تولتیپ Reckless Swings اکنون فعال‌سازی Gore Drinker را نشان می‌دهد."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "دانجن‌ها، دانل‌ها و ان‌پی‌سی‌ها"
+   },
+   "در دانجن Maraudon، روح Zaetar's Spirit پس از شکست دادن Princess Theradras به درستی ظاهر می‌شود. همچنین مشکل خروج اشتباه از مبارزه (Disengage) برای موجودات Blackmaw Hold و The Drowned City برطرف شده و پورتال ورود به The Drowned City بدون اشکال کار می‌کند.",
+   "در بخش محیطی و NPCها نیز نرخ اسپاون Troggها در Grol'bolar Quarry در منطقه Dun Morogh متعادل شده و لوت Ridgeshade Lurkers در Durotar و Krek the Noxious در Riverglades اصلاح گشته است. مصونیت در برابر Nature Damage برای برخی گیاهان Teldrassil نیز برطرف شد.",
+   {
+    "t": "h",
+    "x": "تغییرات حرفه‌ها، آیتم‌ها و نژادها"
+   },
+   "برای حرفه Leatherworking، سطح مهارت مورد نیاز Tanning Rack از ۱۴۰ به ۱۲۵ کاهش یافته تا مانع ساخت پترن‌های لول ۱۲۵ نباشد؛ به همین دلیل امتیاز مهارت حاصل از آن نیز ۱۵ پوینت کمتر شده است. آیتم [[item:Searing Dagger]] نیز اکنون فقط با اسپل‌هایی فعال می‌شود که مؤلفه آسیب دارند.",
+   "در بخش نژادی، برای Night Elf مشکل دسترسی Druidها در حالت نژادی به Ravage و Pounce رفع شده است. همچنین خطای بهره‌مندی بیش از حد پت‌های Warlock نژاد Orc از ابیلیتی نژادی Command اصلاح گردید.",
+   {
+    "t": "h",
+    "x": "کوئست‌ها و بهبودهای بصری"
+   },
+   "چندین کوئست از جمله Vorsha the Lasher، The Sleeper Has Awakened و Rediscovering the Light اصلاح شده‌اند. آیتم Damp Note اکنون شانس دراپ بیشتری دارد و Abominable Head از دانجن Ruins of Lordaeron برای هورد کوئست Unending Torment را در لول ۱۵ ارائه می‌دهد.",
+   "در نهایت، دید بازیکنان دیگر و تارگت‌های آن‌ها در فواصل نسبتاً دور ارتقا یافته و مشکل تاریکی بیش از حد Barbershop در منطقه Thunder Bluff برطرف شده است."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "Forever",
+   "کلاس‌ها",
+   "دانجن"
+  ]
+ }
 }

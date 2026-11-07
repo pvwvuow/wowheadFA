@@ -134,12 +134,75 @@
   ],
   "chars": 2140
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383795/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383795/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383795/1.jpg",
+ "article_fa": {
+  "title_fa": "هاتفیکس‌های رید The Venomous Abyss در پچ 12.1.5 اعمال شد",
+  "lead_fa": "شرکت Blizzard با انتشار مجموعه‌ای از هاتفیکس‌ها برای پچ 12.1.5، تغییرات و تضعیف‌های متعددی را روی باس‌های رید The Venomous Abyss فعال کرد.",
+  "body_fa": [
+   "در به‌روزرسانی اخیر Blizzard برای پچ 12.1.5 به تاریخ ۶ نوامبر ۲۰۲۶، هاتفیکس‌های جدیدی برای دانجن‌ها و ریدها به صورت زنده درون بازی قرار گرفته‌اند که تمرکز اصلی آن‌ها روی کاهش سختی و تنظیم مقیاس باس‌های رید The Venomous Abyss است.",
+   {
+    "t": "h",
+    "x": "تغییرات باس Vashnik, the Malignant"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "کاهش ۳۷٪ دمیج توانایی Malignance در درجه سختی Mythic.",
+     "کاهش مدت‌زمان اثر دمیج دوره‌ای (DoT) توانایی Malignance به ۱۶ ثانیه در درجه سختی Mythic."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "تغییرات سلامت و مکانیزم‌های Ula’tek"
+   },
+   "میزان سلامت پایه و مقیاس‌پذیری (health scaling) باس و دشمنان همراه او در درجه‌های سختی Raid Finder، Normal و Heroic تنظیم شده است تا گروه‌های کوچک‌تر وضعیت بهتری داشته باشند و سلامت آن‌ها برای گروه‌های بزرگ‌تر افزایش نیابد. این تغییرات علاوه بر خود Ula’tek، روی Blightscale Rawling، Blightscale Viper، Blightscale Shrieker و Weakened Doomscale اعمال شده است.",
+   {
+    "t": "ul",
+    "xs": [
+     "کاهش ۱۵٪ سلامت خود Ula’tek در درجه سختی Heroic.",
+     "کاهش ۶۱٪ دمیج Unchecked Rage در تمام درجه‌های سختی.",
+     "کاهش ۳۲٪ دمیج برخورد (impact damage) توانایی Caustic Waves در درجه‌های سختی Heroic و Mythic.",
+     "کاهش دمیج دوره‌ای Caustic Waves به میزان ۷۵٪ در Normal، ۶۱٪ در Heroic و ۸۹٪ در Mythic.",
+     "کاهش دمیج Malice به میزان ۶۳٪ در درجه‌های سختی Normal و Heroic، و ۴۵٪ در درجه سختی Mythic.",
+     "کاهش دمیج Virulent Spit به میزان ۴۶٪ در Raid Finder، ۳۳٪ در Normal و Heroic، و ۳۶٪ در Mythic.",
+     "کاهش دمیج Falling Debris به میزان ۴۶٪ در Raid Finder، ۳۳٪ در Normal و Heroic، و ۷۷٪ در Mythic.",
+     "کاهش ۵۳٪ دمیج برخورد و ۲۵٪ دمیج دوره‌ای Viscous Echoes در تمام درجه‌های سختی."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "سایر اصلاحات مبارزه Ula’tek"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "کاهش تعداد تخم‌های احضارشده با Call of the Serpent در درجه‌های سختی Normal و Heroic.",
+     "کاهش تعداد اهداف انتخابی Serpent’s Bite در تمام درجه‌های سختی.",
+     "کاهش تعداد اهداف انتخابی Grasping Fangs در درجه‌های سختی Normal و Heroic.",
+     "حذف ۲ تخم از هر سمت در طول Phase 2 و کاهش مجموع آن‌ها به ۸ تخم در هر سمت در درجه سختی Heroic.",
+     "عدم تولید Caustic Waves اضافی توسط Spectral Tails در هنگام پرتاب امواج روی پلتفرم‌ها در طول Phase 3 درجه سختی Heroic.",
+     "کاهش ۳۳٪ دمیج اولیه و ۸۴٪ دمیج دوره‌ای Noxious Splash در درجه سختی Mythic.",
+     "کاهش مدت‌زمان اثر Putrid Membrane به 20 ثانیه (از ۳۰ ثانیه) در درجه سختی Mythic."
+    ]
+   }
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "پچ 12.1.5",
+   "The Venomous Abyss",
+   "رید"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-07T09:43:09Z"
+ }
 }

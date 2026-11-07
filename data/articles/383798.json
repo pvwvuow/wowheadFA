@@ -60,12 +60,42 @@
   ],
   "chars": 480
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383798/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383798/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383798/1.jpg",
+ "article_fa": {
+  "title_fa": "رکوردشکنی تاریخی WoW: Forever با بزرگ‌ترین عرضه در تاریخ بازی",
+  "lead_fa": "شرکت Blizzard با انتشار پیامی اعلام کرد که عرضه WoW: Forever به بزرگ‌ترین لانچ تاریخ این بازی تبدیل شده است.",
+  "body_fa": [
+   "شرکت Blizzard اعلام کرد که WoW: Forever با ثبت رکوردی تاریخی، عنوان بزرگ‌ترین لانچ را در تمام دوران این بازی به دست آورده است.",
+   "این توسعه‌دهنده در شبکه اجتماعی X (توییتر سابق) با تشکر از بازیکنان، به دو دستاورد و نقطه عطف بزرگ مربوط به عرضه WoW: Forever اشاره کرد.",
+   {
+    "t": "ul",
+    "xs": [
+     "بزرگ‌ترین لانچ در تاریخ WoW از نظر اوج بازیکنان هم‌زمان (peak concurrent players)",
+     "بالاترین تعداد بازیکنان بازگشته (returning players) در تاریخ WoW"
+    ]
+   },
+   {
+    "t": "quote",
+    "x": "به همه تبریک می‌گوییم، شما تاریخ‌ساز شدید! WoW: Forever به بزرگ‌ترین لانچ در تاریخ WoW از نظر اوج بازیکنان هم‌زمان و بالاترین تعداد بازیکنان بازگشته در تاریخ WoW دست یافته است. تمام این‌ها به خاطر شما بازیکنان است. از طرف همه ما، متشکریم!",
+    "by": "Blizzard"
+   }
+  ],
+  "tags_fa": [
+   "WoW: Forever",
+   "بلیزارد",
+   "رکورد"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-07T09:33:54Z"
+ }
 }

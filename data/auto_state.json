@@ -1,7 +1,18 @@
 {
  "day": "2026-11-07",
- "published_today": 6,
- "held": {},
+ "published_today": 9,
+ "held": {
+  "383794": {
+   "reason": "G5 English token not in source: abominable",
+   "at": "2026-11-07T09:51:26Z",
+   "at_ts": 1794045086.361383
+  },
+  "383772": {
+   "reason": "G4 numbers from source missing in article: 68 | هشدار: 1",
+   "at": "2026-11-07T09:58:03Z",
+   "at_ts": 1794045483.627759
+  }
+ },
  "ingest_fails": {
   "383735": 2,
   "383747": 1,
@@ -35,60 +46,10 @@
   "383519": 1,
   "383518": 1
  },
- "updated_at": "2026-11-07T05:26:00Z",
+ "updated_at": "2026-11-07T09:58:03Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383714",
-    "ts": "2026-11-06T02:53:45Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 50.3,
-    "attempts": 1
-   },
-   {
-    "id": "383716",
-    "ts": "2026-11-06T02:55:04Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 79.2,
-    "attempts": 1
-   },
-   {
-    "id": "383713",
-    "ts": "2026-11-06T02:55:53Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 49.2,
-    "attempts": 1
-   },
-   {
-    "id": "383712",
-    "ts": "2026-11-06T02:56:55Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 61.9,
-    "attempts": 1
-   },
-   {
-    "id": "383711",
-    "ts": "2026-11-06T02:57:47Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 51.7,
-    "attempts": 1
-   },
    {
     "id": "383710",
     "ts": "2026-11-06T02:58:45Z",
@@ -4038,6 +3999,56 @@
     "warns": 0,
     "sec": 59.9,
     "attempts": 0
+   },
+   {
+    "id": "383798",
+    "ts": "2026-11-07T09:33:54Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 130.1,
+    "attempts": 1
+   },
+   {
+    "id": "383797",
+    "ts": "2026-11-07T09:40:45Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 411.0,
+    "attempts": 1
+   },
+   {
+    "id": "383795",
+    "ts": "2026-11-07T09:43:09Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 144.2,
+    "attempts": 1
+   },
+   {
+    "id": "383794",
+    "ts": "2026-11-07T09:51:26Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 496.7,
+    "attempts": 2
+   },
+   {
+    "id": "383772",
+    "ts": "2026-11-07T09:58:03Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 1,
+    "sec": 397.3,
+    "attempts": 2
    }
   ]
  }

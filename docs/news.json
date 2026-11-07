@@ -1,8 +1,180 @@
 {
- "generated": "2026-11-07T05:28:58Z",
+ "generated": "2026-11-07T09:59:32Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383798,
+   "slug": "wow-forever-makes-history-with-biggest-launch-ever",
+   "title_fa": "رکوردشکنی تاریخی WoW: Forever با بزرگ‌ترین عرضه در تاریخ بازی",
+   "lead_fa": "شرکت Blizzard با انتشار پیامی اعلام کرد که عرضه WoW: Forever به بزرگ‌ترین لانچ تاریخ این بازی تبدیل شده است.",
+   "body_fa": [
+    "شرکت Blizzard اعلام کرد که WoW: Forever با ثبت رکوردی تاریخی، عنوان بزرگ‌ترین لانچ را در تمام دوران این بازی به دست آورده است.",
+    "این توسعه‌دهنده در شبکه اجتماعی X (توییتر سابق) با تشکر از بازیکنان، به دو دستاورد و نقطه عطف بزرگ مربوط به عرضه WoW: Forever اشاره کرد.",
+    {
+     "t": "ul",
+     "xs": [
+      "بزرگ‌ترین لانچ در تاریخ WoW از نظر اوج بازیکنان هم‌زمان (peak concurrent players)",
+      "بالاترین تعداد بازیکنان بازگشته (returning players) در تاریخ WoW"
+     ]
+    },
+    {
+     "t": "quote",
+     "x": "به همه تبریک می‌گوییم، شما تاریخ‌ساز شدید! WoW: Forever به بزرگ‌ترین لانچ در تاریخ WoW از نظر اوج بازیکنان هم‌زمان و بالاترین تعداد بازیکنان بازگشته در تاریخ WoW دست یافته است. تمام این‌ها به خاطر شما بازیکنان است. از طرف همه ما، متشکریم!",
+     "by": "Blizzard"
+    }
+   ],
+   "tags_fa": [
+    "WoW: Forever",
+    "بلیزارد",
+    "رکورد"
+   ],
+   "items": [],
+   "title_en": "WoW: Forever Makes History with Biggest Launch Ever!",
+   "source_url": "https://www.wowhead.com/news=383798",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383798-wow-forever-makes-history-with-biggest-launch-ever.html",
+   "published_at": "2026-11-07T04:18:40Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383798/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383798/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383797,
+   "slug": "world-first-level-60s-in-wow-forever-in-less-than-three-days",
+   "title_fa": "ثبت اولین لول ۶۰ جهان در WoW: Forever طی کمتر از سه روز",
+   "lead_fa": "یک گروه پنج‌نفره موفق شد پس از نزدیک به ۵۲ ساعت تلاش هماهنگ، عنوان World First لول ۶۰ را در سرور WoW: Forever به نام خود ثبت کند.",
+   "body_fa": [
+    "عنوان اولین لول ۶۰ جهان در سرور WoW: Forever به طور هم‌زمان توسط یک گروه پنج‌نفره به دست آمد. این ماراتن سرعتی در کمتر از سه روز و پس از نزدیک به ۵۲ ساعت تلاش مداوم به پایان رسید.",
+    {
+     "t": "h",
+     "x": "اعضای تیم رکورددار"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "Jokerd Prime",
+      "Burning Speed",
+      "Cloud Bells",
+      "Lmgd Mmr",
+      "Vitochie Gofast"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "استراتژی و همگام‌سازی Experience"
+    },
+    "این گروه پنج‌نفره با روش پول کردن دسته‌های عظیم از mobها و سپس نابود کردن سریع آن‌ها با آسیب AoE، بیشترین بهره‌وری را در دریافت Experience ثبت کردند. در این شیوه، Paladin گروه وظیفه جمع‌آوری همه دشمنان را بر عهده داشت و سپس Mageها با استفاده از Arcane Explosion آن‌ها را از بین می‌بردند.",
+    "اعضای این تیم دقت بسیار زیادی به خرج دادند تا میزان دریافت Experience تا جای ممکن میان همه همگام باشد. همان‌طور که Jokerd در استریم خود توضیح داد، حتی یک امتیاز Experience می‌توانست باعث عقب افتادن یک بازیکن از سایرین شود.",
+    {
+     "t": "note",
+     "x": "چهار درصد پایانی لول ۵۹ سخت‌ترین مرحله این مسیر بود و برای همگام نگه داشتن بازیکنان، محاسبات دقیق و گسترده‌ای انجام گرفت تا مشخص شود چه زمانی و کدام mobها کشته شوند.",
+     "kind": "info"
+    },
+    "به گفته Jokerd، او پس از استراحت اعضای تیم احتمالاً طی روز آینده در استریم خود تمام تدارکات و برنامه‌ریزی‌های این دستاورد را با جزئیات بررسی خواهد کرد."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "World First",
+    "لولینگ"
+   ],
+   "items": [],
+   "title_en": "World First Level 60s in WoW: Forever in Less Than Three Days",
+   "source_url": "https://www.wowhead.com/news=383797",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383797-world-first-level-60s-in-wow-forever-in-less-than-three-days.html",
+   "published_at": "2026-11-07T03:11:19Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383797/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383797/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383795,
+   "slug": "venomous-abyss-raid-hotfixes-now-live-patch-12-1-5-hotfixes-for-novemb",
+   "title_fa": "هاتفیکس‌های رید The Venomous Abyss در پچ 12.1.5 اعمال شد",
+   "lead_fa": "شرکت Blizzard با انتشار مجموعه‌ای از هاتفیکس‌ها برای پچ 12.1.5، تغییرات و تضعیف‌های متعددی را روی باس‌های رید The Venomous Abyss فعال کرد.",
+   "body_fa": [
+    "در به‌روزرسانی اخیر Blizzard برای پچ 12.1.5 به تاریخ ۶ نوامبر ۲۰۲۶، هاتفیکس‌های جدیدی برای دانجن‌ها و ریدها به صورت زنده درون بازی قرار گرفته‌اند که تمرکز اصلی آن‌ها روی کاهش سختی و تنظیم مقیاس باس‌های رید The Venomous Abyss است.",
+    {
+     "t": "h",
+     "x": "تغییرات باس Vashnik, the Malignant"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "کاهش ۳۷٪ دمیج توانایی Malignance در درجه سختی Mythic.",
+      "کاهش مدت‌زمان اثر دمیج دوره‌ای (DoT) توانایی Malignance به ۱۶ ثانیه در درجه سختی Mythic."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "تغییرات سلامت و مکانیزم‌های Ula’tek"
+    },
+    "میزان سلامت پایه و مقیاس‌پذیری (health scaling) باس و دشمنان همراه او در درجه‌های سختی Raid Finder، Normal و Heroic تنظیم شده است تا گروه‌های کوچک‌تر وضعیت بهتری داشته باشند و سلامت آن‌ها برای گروه‌های بزرگ‌تر افزایش نیابد. این تغییرات علاوه بر خود Ula’tek، روی Blightscale Rawling، Blightscale Viper، Blightscale Shrieker و Weakened Doomscale اعمال شده است.",
+    {
+     "t": "ul",
+     "xs": [
+      "کاهش ۱۵٪ سلامت خود Ula’tek در درجه سختی Heroic.",
+      "کاهش ۶۱٪ دمیج Unchecked Rage در تمام درجه‌های سختی.",
+      "کاهش ۳۲٪ دمیج برخورد (impact damage) توانایی Caustic Waves در درجه‌های سختی Heroic و Mythic.",
+      "کاهش دمیج دوره‌ای Caustic Waves به میزان ۷۵٪ در Normal، ۶۱٪ در Heroic و ۸۹٪ در Mythic.",
+      "کاهش دمیج Malice به میزان ۶۳٪ در درجه‌های سختی Normal و Heroic، و ۴۵٪ در درجه سختی Mythic.",
+      "کاهش دمیج Virulent Spit به میزان ۴۶٪ در Raid Finder، ۳۳٪ در Normal و Heroic، و ۳۶٪ در Mythic.",
+      "کاهش دمیج Falling Debris به میزان ۴۶٪ در Raid Finder، ۳۳٪ در Normal و Heroic، و ۷۷٪ در Mythic.",
+      "کاهش ۵۳٪ دمیج برخورد و ۲۵٪ دمیج دوره‌ای Viscous Echoes در تمام درجه‌های سختی."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "سایر اصلاحات مبارزه Ula’tek"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "کاهش تعداد تخم‌های احضارشده با Call of the Serpent در درجه‌های سختی Normal و Heroic.",
+      "کاهش تعداد اهداف انتخابی Serpent’s Bite در تمام درجه‌های سختی.",
+      "کاهش تعداد اهداف انتخابی Grasping Fangs در درجه‌های سختی Normal و Heroic.",
+      "حذف ۲ تخم از هر سمت در طول Phase 2 و کاهش مجموع آن‌ها به ۸ تخم در هر سمت در درجه سختی Heroic.",
+      "عدم تولید Caustic Waves اضافی توسط Spectral Tails در هنگام پرتاب امواج روی پلتفرم‌ها در طول Phase 3 درجه سختی Heroic.",
+      "کاهش ۳۳٪ دمیج اولیه و ۸۴٪ دمیج دوره‌ای Noxious Splash در درجه سختی Mythic.",
+      "کاهش مدت‌زمان اثر Putrid Membrane به 20 ثانیه (از ۳۰ ثانیه) در درجه سختی Mythic."
+     ]
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "پچ 12.1.5",
+    "The Venomous Abyss",
+    "رید"
+   ],
+   "items": [],
+   "title_en": "Venomous Abyss Raid Hotfixes Now Live - Patch 12.1.5 Hotfixes for November 6",
+   "source_url": "https://www.wowhead.com/news=383795",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383795-venomous-abyss-raid-hotfixes-now-live-patch-12-1-5-hotfixes-for-novemb.html",
+   "published_at": "2026-11-07T01:22:17Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383795/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383795/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383790,
    "slug": "upcoming-pet-changes-in-wow-forever-upcoming-class-tuning-for-november",
@@ -2927,141 +3099,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383605,
-   "slug": "world-of-warcraft-forever-amv-warpath",
-   "title_fa": "انتشار AMV جدید WARPATH برای WoW: Forever",
-   "lead_fa": "بلیزارد با انتشار AMV تازه‌ای به نام WARPATH، لانچ WoW: Forever را که قرار است در ۴ نوامبر انجام شود، برجسته کرده است.",
-   "body_fa": [
-    "این AMV جدید روی کانال یوتیوب Warcraft قرار گرفته و تم‌های Alliance، Horde و War را به نمایش می‌گذارد.",
-    "بازیکنان می‌توانند از ۴ نوامبر با داشتن WoW Subscription یا game time، به همراه دوستان خود به جنگل‌های وحشی World of Warcraft: Forever قدم بگذارند.",
-    "این ویدیو در همکاری با Brunch Studio ساخته شده است.",
-    "در این AMV آثاری از Poppy، Amy Lee و Courtney LaPlante به گوش می‌رسد که تحت لیسانس Virgin Music Group منتشر شده‌اند."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "AMV",
-    "WARPATH",
-    "Blizzard"
-   ],
-   "items": [],
-   "title_en": "World of Warcraft: Forever AMV - WARPATH",
-   "source_url": "https://www.wowhead.com/news=383605",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383605-world-of-warcraft-forever-amv-warpath.html",
-   "published_at": "2026-10-27T17:13:12Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383605/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383605/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383602,
-   "slug": "more-racial-ability-tuning-on-wow-forever",
-   "title_fa": "تنظیمات جدید توانایی نژادی در WoW: Forever",
-   "lead_fa": "بلزارد تنظیمات بیشتری برای توانایی‌های نژادی در WoW: Forever اعمال کرده که اورک‌ها، آندد و اسکایبورن را تحت تأثیر قرار می‌دهد.",
-   "body_fa": [
-    "در به‌روزرسانی دیروز، تغییراتی برای توانایی‌های نژادی و تالنت‌ها اضافه شده است.",
-    {
-     "t": "ul",
-     "xs": [
-      "کول‌داون Orc Blood Fury به ۲ دقیقه کاهش یافته است (از ۳ دقیقه)",
-      "مدت زمان Troll Berserking به ۱۵ ثانیه افزایش یافته است (از ۱۰ ثانیه)",
-      "کول‌داون داخلی Undead Touch of the Grave به ۱۵ ثانیه کاهش یافته است (از ۲۵ ثانیه)"
-     ]
-    },
-    "همچنین برای Skyborne اعلام شده که Charged پس از مرگ باقی می‌ماند و هنگام ورود به رید حذف می‌شود.",
-    "Attuned نیز پس از مرگ باقی می‌ماند و هنگام ورود به رید حذف می‌شود.",
-    {
-     "t": "note",
-     "x": "ویرایش شماره ۱ در ساعت ۱۰:۰۰ صبح اضافه شده و تغییر Troll Berserking را شامل می‌شود.",
-     "kind": "info"
-    },
-    "این تغییرات در ادامه تنظیمات قبلی نژادی اعمال شده است."
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "WoW Forever",
-    "تنظیم نژادی"
-   ],
-   "items": [],
-   "title_en": "More Racial Ability Tuning on WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383602",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383602-more-racial-ability-tuning-on-wow-forever.html",
-   "published_at": "2026-10-27T15:47:39Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383602/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383602/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383512,
-   "slug": "new-theatre-themed-decor-takes-the-stage-in-patch-12-1-7",
-   "title_fa": "دکوراسیون تئاتری جدید در پچ ۱۲.۱.۷ وارد می‌شود",
-   "lead_fa": "با انتشار پچ ۱۲.۱.۷، دکوراسیون‌های جدید با تم تئاتر به خانه‌های بازیکنان اضافه خواهد شد.",
-   "body_fa": [
-    "بازیکنان می‌توانند از پرده‌های جدید و پس‌زمینه‌های صحنه برای تزئین خانه‌های خود استفاده کنند.",
-    "تعدادی پرده جدید در فروشگاه‌های محله‌های Player Housing عرضه می‌شود و به نظر می‌رسد از رنگ‌دهی پشتیبانی کنند.",
-    "پس‌زمینه‌های صحنه مستقیماً از Opera Event در Karazhan گرفته شده‌اند و احتمالاً به یکی از المان‌های اصلی طراحی تبدیل خواهند شد.",
-    "این آیتم‌ها احتمالاً به فهرست جوایز Burning Crusade Timewalking اضافه می‌شوند، بنابراین آماده فارم Timewarped Badge باشید."
-   ],
-   "tags_fa": [
-    "۱۲.۱.۷",
-    "Player Housing",
-    "دکوراسیون",
-    "Karazhan"
-   ],
-   "items": [],
-   "title_en": "New Theatre-Themed Decor Takes the Stage in Patch 12.1.7",
-   "source_url": "https://www.wowhead.com/news=383512",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383512-new-theatre-themed-decor-takes-the-stage-in-patch-12-1-7.html",
-   "published_at": "2026-10-27T15:00:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383512/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383512/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383798,
-   "title_en": "WoW: Forever Makes History with Biggest Launch Ever!",
-   "url": "https://www.wowhead.com/news=383798",
-   "category": "Forever",
-   "published_at": "2026-11-07T04:18:40Z"
-  },
-  {
-   "id": 383797,
-   "title_en": "World First Level 60s in WoW: Forever in Less Than Three Days",
-   "url": "https://www.wowhead.com/news=383797",
-   "category": "Forever",
-   "published_at": "2026-11-07T03:11:19Z"
-  },
-  {
-   "id": 383795,
-   "title_en": "Venomous Abyss Raid Hotfixes Now Live - Patch 12.1.5 Hotfixes for November 6",
-   "url": "https://www.wowhead.com/news=383795",
-   "category": "Live",
-   "published_at": "2026-11-07T01:22:17Z"
-  },
   {
    "id": 383794,
    "title_en": "Many Class, Dungeon and Quest Fixes - WoW: Forever Hotfixes for November 6th",
@@ -3320,6 +3360,27 @@
    "url": "https://www.wowhead.com/news=383692",
    "category": "Forever",
    "published_at": "2026-11-03T16:00:00Z"
+  },
+  {
+   "id": 383693,
+   "title_en": "Complete Aqir Invasions Before Their Removal in 12.1.7 for Cheaper Rewards",
+   "url": "https://www.wowhead.com/news=383693",
+   "category": "Live",
+   "published_at": "2026-11-03T15:00:00Z"
+  },
+  {
+   "id": 383704,
+   "title_en": "WoW: Forever Official Development Notes and Class Tuning",
+   "url": "https://www.wowhead.com/news=383704",
+   "category": "Forever",
+   "published_at": "2026-11-03T03:51:28Z"
+  },
+  {
+   "id": 383702,
+   "title_en": "Hunter Class Buffs on WoW: Forever",
+   "url": "https://www.wowhead.com/news=383702",
+   "category": "Forever",
+   "published_at": "2026-11-03T01:33:01Z"
   }
  ]
 }
