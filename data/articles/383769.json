@@ -216,7 +216,7 @@
   ],
   "chars": 2941
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383769/1.jpg",
@@ -323,5 +323,104 @@
    "Horde",
    "Ruins of Lordaeron"
   ]
+ },
+ "article_fa": {
+  "title_fa": "پیش‌نیازهای جدید کوئست‌های دانجن Ruins of Lordaeron در سرورهای لایو WoW: Forever",
+  "lead_fa": "در سرورهای لایو WoW: Forever دریافت دو کوئست فکشن Horde برای دانجن Ruins of Lordaeron نیازمند انجام زنجیره‌کوئست‌های پیش‌نیاز شده است.",
+  "body_fa": [
+   "در WoW: Forever کوئست‌های دانجن منبع بسیار مناسبی برای کسب Experience به شمار می‌روند؛ چرا که میزان Experience حاصل از کشتن ماب‌های دانجن کاهش یافته و در مقابل، میزان دریافت آن از طریق کوئست‌ها تقویت شده است. دانجن Ruins of Lordaeron دومین دانجنی است که بازیکنان Horde معمولاً تجربه می‌کنند، اما در سرورهای لایو تغییری رخ داده و دریافت دو مورد از کوئست‌های این فکشن بر خلاف سرور بتا که مستقیماً در دسترس بودند، اکنون به تکمیل پیش‌نیاز نیاز دارد. این در حالی است که بازیکنان Alliance برای گرفتن کوئست‌های خود با پیش‌نیازی روبرو نیستند.",
+   {
+    "t": "h",
+    "x": "جزئیات پیش‌نیاز کوئست‌های The Wrath of Rath'mael و The New Plague"
+   },
+   "کوئست The Wrath of Rath'mael دیگر بلافاصله از سوی Deathguard Kristof ارائه نمی‌شود. در عوض، بازیکنان باید یک زنجیره‌کوئست لول 13 را به پایان برسانند که با کوئست Rear Guard Patrol نزد Deathguard Linnea در Tirisfal Glades با مختصات 65.4 60.2 آغاز می‌شود:",
+   {
+    "t": "ul",
+    "xs": [
+     "بخش اول Rear Guard Patrol: شکست دادن ۸ عدد از Bleeding Horror و Wandering Spirit.",
+     "بخش دوم Rear Guard Patrol: شکست دادن ماب Elite لول 13 به نام Riptear."
+    ]
+   },
+   "پس از پایان این مراحل، کوئست The Wrath of Rath'mael در دسترس قرار خواهد گرفت. همچنین کوئست The New Plague دیگر بلافاصله توسط Theodore Griffs تحویل داده نمی‌شود و بازیکنان نیازمند تکمیل یک زنجیره‌کوئست طولانی سه مرحله‌ای شامل رفت‌وآمدهای متعدد و آیتم‌هایی با شانس دراپ پایین در Tirisfal Glades و Silverpine Forest هستند:",
+   {
+    "t": "ul",
+    "xs": [
+     "مرحلهٔ اول A Recipe For Death: جمع‌آوری ۶ آیتم با دراپ‌ریت پایین از خرس‌ها و عنکبوت‌ها و تحویل دادن آن‌ها در Undercity.",
+     "مرحلهٔ دوم A Recipe For Death: بازگشت به Silverpine Forest و لوت کردن یک کتاب از جنوب نقشه در منطقه‌ای Elite با کست‌تایم ۵ ثانیه.",
+     "مرحلهٔ سوم A Recipe For Death: لوت کردن چندین آیتم با دراپ‌ریت پایین از موجودات لول 18 نزدیک دریاچه."
+    ]
+   },
+   "پس از تکمیل این مسیر، کوئست The New Plague نزد Theodore Griffs در Undercity با مختصات 46.6 71.8 قابل دریافت خواهد بود.",
+   {
+    "t": "h",
+    "x": "فهرست کامل کوئست‌های دانجن Ruins of Lordaeron"
+   },
+   {
+    "t": "table",
+    "head": [
+     "نام کوئست",
+     "لول",
+     "محل شروع / نحوه دریافت"
+    ],
+    "rows": [
+     [
+      "The Wrath of Rath'mael",
+      "15",
+      "پیش‌نیاز Tirisfal Glades با Rear Guard Patrol از Deathguard Linnea در مختصات 65.6 60.2"
+     ],
+     [
+      "A Frightened Request",
+      "15",
+      "منطقهٔ Silverpine Forest، در The Sepulcher از Tabitha Heartweaver در مختصات 44.6 42.8"
+     ],
+     [
+      "Light's Justice",
+      "15",
+      "منطقهٔ Undercity، در The Apothecarium از Morbin Lightbane در مختصات 57.8 89.8"
+     ],
+     [
+      "The New Plague",
+      "15",
+      "پیش‌نیاز Silverpine Forest با A Recipe For Death از Apothecary Renferrel در مختصات 42.8 40.8"
+     ],
+     [
+      "Unending Torment",
+      "16",
+      "آیتم لوت‌شده در The Ruins of Lordaeron، منطقه King's Alley از The Baron"
+     ],
+     [
+      "کوئست مخفی Crest of Lordaeron/Crest of Lordaeron",
+      "14/",
+      "آیتم تعاملی با چندین نقطهٔ اسپاون در The Ruins of Lordaeron"
+     ],
+     [
+      "Abominable Creatures",
+      "16",
+      "ورودی دانجن The Ruins of Lordaeron از Captain Truman"
+     ],
+     [
+      "Bloodied Insignia",
+      "16",
+      "دراپ از ماب‌های Undead در دانجن The Ruins of Lordaeron"
+     ],
+     [
+      "Remember That I Love You",
+      "15",
+      "آیتم تعاملی در The Ruins of Lordaeron واقع در کنار Rath'mael"
+     ]
+    ]
+   }
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "Ruins of Lordaeron",
+   "کوئست",
+   "دانجن"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-07T14:56:39Z"
  }
 }
