@@ -139,7 +139,7 @@
   ],
   "chars": 1666
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383746/1.jpg",
@@ -149,5 +149,64 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383746/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 1,
- "hold_at": "2026-11-07T00:09:23Z"
+ "hold_at": "2026-11-07T00:09:23Z",
+ "article_fa": {
+  "title_fa": "تغییر لوت صندوق‌های Talebound در پچ 12.1.7",
+  "lead_fa": "پاداش صندوق‌های تجهیزات در حالت Talebound به‌روزرسانی شده و لوت رید Venomous Abyss جای خود را به آیتم‌های Vaults of Atal'Utek داده است.",
+  "body_fa": [
+   "در داده‌کاوی‌های هفته گذشته از پاداش‌های حالت آینده Talebound در پچ 12.1.7، در کنار پاداش‌های ظاهری و آیتم‌های Collection، پاداش‌های قدرتی بازیکنان مانند [[item:Venomstone Cache]]، [[item:Nebulous Voidcache]] و انواع Crest نیز مشخص شده بود.",
+   "در این میان، حضور آیتم [[item:Cache of Mythic Treasures]] بحث‌های فراوانی به راه انداخت؛ چرا که این صندوق لوت سطح Mythic از رید Venomous Abyss را اهدا می‌کرد.",
+   {
+    "t": "h",
+    "x": "نگرانی بازیکنان و تغییرات جدید"
+   },
+   "بازیکنان دیدگاه‌های متفاوتی درباره پاداش‌های قبلی داشتند:",
+   {
+    "t": "ul",
+    "xs": [
+     "برخی نگران بودند که بازیکنان بدون ورود به رید در سطح Mythic بتوانند لوت آن را به دست آورند.",
+     "برخی نگران بودند که عده‌ای از بازیکنان آیتم‌های Best-in-Slot سطح Myth 9/6 از دو باس پایانی را دریافت کنند و دیگران آیتم‌های نامناسب به دست آورند.",
+     "برخی دیگر با توجه به اینکه این پچ آخرین پچ فصل است، با این سیستم مشکلی نداشتند."
+    ]
+   },
+   "به نظر می‌رسد این بازخوردها شنیده شده است؛ زیرا متن Tooltip صندوق‌های تجهیزات Talebound تغییر کرده و اکنون به جای رید Venomous Abyss، به تجهیزات رید Vaults of Atal'Utek اشاره دارند.",
+   {
+    "t": "table",
+    "head": [
+     "صندوق پاداش",
+     "لوت جدید"
+    ],
+    "rows": [
+     [
+      "Cache of Champion Treasures",
+      "لوت Normal از رید Vaults of Atal'Utek"
+     ],
+     [
+      "Cache of Heroic Treasures",
+      "لوت Heroic از رید Vaults of Atal'Utek"
+     ],
+     [
+      "Cache of Mythic Treasures",
+      "لوت Mythic از رید Vaults of Atal'Utek"
+     ]
+    ]
+   },
+   {
+    "t": "note",
+    "x": "این تغییر بخش زیادی از آیتم‌های BiS بخش پایانی بازی را از فهرست پاداش‌ها حذف می‌کند؛ بنابراین بازیکنان دیگر بابت دریافت لوت BiS سطح Myth 9/6 توسط دیگران نگران نخواهند بود، هرچند با ورود فراوان لوت Myth در این فصل، ممکن است تمایل کمتری برای دریافت این صندوق‌ها باقی بماند.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "PTR",
+   "پچ 12.1.7",
+   "Talebound",
+   "لوت رید"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-07T17:47:12Z"
+ }
 }

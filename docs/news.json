@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T17:21:02Z",
+ "generated": "2026-11-07T18:21:27Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1236,6 +1236,77 @@
    ]
   },
   {
+   "id": 383746,
+   "slug": "mythic-venomous-abyss-caches-replaced-by-open-world-gear-in-talebound-",
+   "title_fa": "تغییر لوت صندوق‌های Talebound در پچ 12.1.7",
+   "lead_fa": "پاداش صندوق‌های تجهیزات در حالت Talebound به‌روزرسانی شده و لوت رید Venomous Abyss جای خود را به آیتم‌های Vaults of Atal'Utek داده است.",
+   "body_fa": [
+    "در داده‌کاوی‌های هفته گذشته از پاداش‌های حالت آینده Talebound در پچ 12.1.7، در کنار پاداش‌های ظاهری و آیتم‌های Collection، پاداش‌های قدرتی بازیکنان مانند [[item:Venomstone Cache]]، [[item:Nebulous Voidcache]] و انواع Crest نیز مشخص شده بود.",
+    "در این میان، حضور آیتم [[item:Cache of Mythic Treasures]] بحث‌های فراوانی به راه انداخت؛ چرا که این صندوق لوت سطح Mythic از رید Venomous Abyss را اهدا می‌کرد.",
+    {
+     "t": "h",
+     "x": "نگرانی بازیکنان و تغییرات جدید"
+    },
+    "بازیکنان دیدگاه‌های متفاوتی درباره پاداش‌های قبلی داشتند:",
+    {
+     "t": "ul",
+     "xs": [
+      "برخی نگران بودند که بازیکنان بدون ورود به رید در سطح Mythic بتوانند لوت آن را به دست آورند.",
+      "برخی نگران بودند که عده‌ای از بازیکنان آیتم‌های Best-in-Slot سطح Myth 9/6 از دو باس پایانی را دریافت کنند و دیگران آیتم‌های نامناسب به دست آورند.",
+      "برخی دیگر با توجه به اینکه این پچ آخرین پچ فصل است، با این سیستم مشکلی نداشتند."
+     ]
+    },
+    "به نظر می‌رسد این بازخوردها شنیده شده است؛ زیرا متن Tooltip صندوق‌های تجهیزات Talebound تغییر کرده و اکنون به جای رید Venomous Abyss، به تجهیزات رید Vaults of Atal'Utek اشاره دارند.",
+    {
+     "t": "table",
+     "head": [
+      "صندوق پاداش",
+      "لوت جدید"
+     ],
+     "rows": [
+      [
+       "Cache of Champion Treasures",
+       "لوت Normal از رید Vaults of Atal'Utek"
+      ],
+      [
+       "Cache of Heroic Treasures",
+       "لوت Heroic از رید Vaults of Atal'Utek"
+      ],
+      [
+       "Cache of Mythic Treasures",
+       "لوت Mythic از رید Vaults of Atal'Utek"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "x": "این تغییر بخش زیادی از آیتم‌های BiS بخش پایانی بازی را از فهرست پاداش‌ها حذف می‌کند؛ بنابراین بازیکنان دیگر بابت دریافت لوت BiS سطح Myth 9/6 توسط دیگران نگران نخواهند بود، هرچند با ورود فراوان لوت Myth در این فصل، ممکن است تمایل کمتری برای دریافت این صندوق‌ها باقی بماند.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "PTR",
+    "پچ 12.1.7",
+    "Talebound",
+    "لوت رید"
+   ],
+   "items": [],
+   "title_en": "Mythic Venomous Abyss Caches Replaced by Open World Gear in Talebound Rewards",
+   "source_url": "https://www.wowhead.com/news=383746",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383746-mythic-venomous-abyss-caches-replaced-by-open-world-gear-in-talebound-.html",
+   "published_at": "2026-11-05T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383746/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383746/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383754,
    "slug": "earn-700-discord-orbs-with-new-wow-forever-quest",
    "title_fa": "دریافت ۷۰۰ پاداش Discord Orbs با ماموریت جدید WoW: Forever",
@@ -1331,6 +1402,140 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383753/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383747,
+   "slug": "taldramir-the-whispering-wood-revealed-as-wow-forever-legendary",
+   "title_fa": "رونمایی از سلاح لجندری Taldramir, the Whispering Wood برای WoW: Forever",
+   "lead_fa": "شرکت Blizzard با نهایی شدن بیلد جدید، از اسلحه ۲-Handed و لجندری Taldramir, the Whispering Wood برای عنوان WoW: Forever پرده برداشت.",
+   "body_fa": [
+    "پس از گمانه‌زنی‌های متعدد بازیکنان، شرکت Blizzard سرانجام تأیید کرد که اشارات قبلی این شرکت مربوط به معرفی یک سلاح لجندری جدید برای سرورهای WoW: Forever بوده است. با پایان مراحل ساخت بیلد بازی، این آیتم تازه با نام [[item:Taldramir, the Whispering Wood]] به‌صورت رسمی به نمایش درآمد.",
+    {
+     "t": "h",
+     "x": "جزئیات سلاح لجندری جدید"
+    },
+    "این اسلحه جدید یک عصای دو دست (2-Handed Legendary staff) است که تم و جلوه کاملاً مشخصی از کلاس Druid در طراحی آن دیده می‌شود. همچنین بازیکنان می‌توانند تصویر این سلاح را در آرت اصلی Skyborne Key مشاهده کنند.",
+    {
+     "t": "note",
+     "x": "شرکت Blizzard هنوز هیچ‌گونه اطلاعات تکمیلی درباره محدودیت‌های کلاسی برای تجهیز این سلاح یا افکت‌ها و ویژگی‌های مبارزه‌ای آن منتشر نکرده است.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "رویدادها و اخبار روز پیرامون نسخه Forever"
+    },
+    "معرفی این سلاح لجندری هم‌زمان با مجموعه‌ای از اخبار و به‌روزرسانی‌های جدید برای WoW: Forever منتشر شده است که فهرست مهم‌ترین رویدادهای پیرامون آن به شرح زیر است:",
+    {
+     "t": "ul",
+     "xs": [
+      "رسیدن نخستین بازیکنان به لول 60 در WoW: Forever ظرف کمتر از سه روز (14h)",
+      "ثبت رکورد بزرگ‌ترین عرضه تاریخ با شروع به کار WoW: Forever ظرف 13 ساعت اخیر (13h)",
+      "اعمال هاتفیکس‌های متعدد مربوط به کوئست‌ها، دانجن‌ها و کلاس‌ها در تاریخ ۶ نوامبر 2026 (16h)",
+      "اعلام اعمال تغییرات تیونینگ برای رید The Venomous Abyss ظرف 17 ساعت گذشته (17h)",
+      "برنامه‌ریزی برای اعمال تغییرات پت‌ها و تیونینگ کلاسی در تاریخ 10 نوامبر (20h)"
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      "موضوع گزارش",
+      "شناسه / زمان انتشار",
+      "نسخه پچ"
+     ],
+     "rows": [
+      [
+       "شماره خبر مرجع معرفی آیتم",
+       "383747",
+       "-"
+      ],
+      [
+       "ثبت نخستین لول مکس سرور",
+       "Level 60",
+       "-"
+      ],
+      [
+       "بررسی بازخورد شمن در پچ جاری",
+       "2026",
+       "Patch 1.60.1"
+      ],
+      [
+       "تعداد کل دیدگاه‌های اولیه در پورتال",
+       "20 از 20",
+       "-"
+      ]
+     ]
+    },
+    "با توجه به تم ظاهری Druid روی عصای Taldramir, the Whispering Wood، جامعه بازیکنان مشتاقانه منتظر انتشار جزئیات کامل‌تر درباره استات‌ها و قابلیت‌های کاربردی این سلاح هستند."
+   ],
+   "tags_fa": [
+    "لجندری",
+    "WoW Forever",
+    "بلیزارد",
+    "Druid"
+   ],
+   "items": [],
+   "title_en": "Taldramir, the Whispering Wood Revealed as WoW: Forever Legendary",
+   "source_url": "https://www.wowhead.com/news=383747",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383747-taldramir-the-whispering-wood-revealed-as-wow-forever-legendary.html",
+   "published_at": "2026-11-04T22:05:13Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383747/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383747/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383744,
+   "slug": "the-questie-addon-is-back-in-wow-forever",
+   "title_fa": "بازگشت ادآن محبوب Questie در World of Warcraft: Forever",
+   "lead_fa": "با نزدیک شدن به زمان عرضه World of Warcraft: Forever، ادآن شناخته‌شده Questie برای تسهیل ماجراجویی و مأموریت‌ها در دسترس بازیکنان قرار گرفته است.",
+   "body_fa": [
+    "با آغاز به کار World of Warcraft: Forever، بخش عمده‌ای از زمان بازیکنان صرف Leveling شخصیت‌ها در Azeroth تغییریافته خواهد شد. در این میان، برخی ترجیح می‌دهند از راهنماهای پیشرفت استفاده کنند و برخی دیگر بدون هیچ ابزار کمکی به سراغ تجربه بازی می‌روند. ادآن Questie گزینه‌ای مناسب برای بازیکنانی است که به دنبال تعادلی میان این دو حالت هستند.",
+    "بازیکنانی که از سال ۲۰۱۹ نسخه Classic را تجربه کرده‌اند، نام Questie را به خوبی می‌شناسند؛ زیرا نسخه پایه بازی فاقد نشانگرهای مأموریتی بود که در Wrath of the Lich King اضافه شدند. در Forever، بازی به صورت پیش‌فرض شامل چنین نشانگرهایی است، اما Questie قابلیت‌های بهبود کیفیت تجربه کاربری را به آن اضافه می‌کند.",
+    {
+     "t": "h",
+     "x": "قابلیت‌های شاخص ادآن"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "نمایش نشانگر مأموریت‌ها روی نقشه برای مواردی که هنوز دریافت نکرده‌اید تا مأموریتی از قلم نیفتد",
+      "نمایش نقاط داده اضافی برای Quest Dropها روی نقشه",
+      "اعلام تکمیل مأموریت‌ها به اعضای Party"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "در نسخه Beta برخی از مأموریت‌ها به درستی توسط سیستم داخلی بازی رهگیری نمی‌شدند و احتمال جا افتادن آن‌ها حتی در چند بار بازی متوالی وجود داشت؛ به همین دلیل Questie می‌تواند برای تجربه کامل محتوا مفید باشد.",
+     "kind": "info"
+    },
+    "این ادآن از طریق وب‌سایت CurseForge یا برنامه‌های مختلف مدیریت ادآن قابل دریافت است."
+   ],
+   "tags_fa": [
+    "ادآن",
+    "World of Warcraft: Forever",
+    "Questie"
+   ],
+   "items": [],
+   "title_en": "The Questie Addon is Back in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383744",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383744-the-questie-addon-is-back-in-wow-forever.html",
+   "published_at": "2026-11-04T21:30:48Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383744/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383744/1.jpg",
      "cap": ""
     }
    ]
@@ -3099,104 +3304,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383616,
-   "slug": "blizzard-takes-action-against-rmt-on-retail-wow-gold-transactions-shou",
-   "title_fa": "بلزارد علیه معاملات RMT در WoW Retail اقدام کرد",
-   "lead_fa": "بلزارد دور جدیدی از اقدامات تنبیهی را علیه حساب‌هایی که در خرید طلای واقعی از شخص ثالث (RMT) دخیل بوده‌اند انجام داده است.",
-   "body_fa": [
-    "طبق اعلام بلزارد، برخی از حساب‌های مورد اقدام، طلای غیرمجاز را خریداری کرده و فروشنده آن را به بازیکن دیگری که خدماتی مانند raid carry ارائه می‌داد تحویل داده است.",
-    "بلزارد یادآوری کرده که طلای دریافتی از یک بازیکن واسطه، احتمال بسیار بالایی دارد که بخشی از یک معامله RMT باشد.",
-    "برای جلوگیری از تعلیق حساب و حذف طلای غیرمجاز، بازیکنان باید همیشه طلای مربوط به خرید carry یا فعالیت‌های مشابه را مستقیماً از خریدار به ارائه‌دهنده سرویس منتقل کنند.",
-    "گیلدهایی که carry ارائه می‌دهند و طلای دریافتی‌شان از طریق یک واسطه به دستشان می‌رسد، در معرض خطر حذف آن طلا توسط بلزارد قرار دارند.",
-    "بلزارد تأکید کرده که معاملات طلایی باید مستقیماً بین خریدار و فروشنده انجام شود."
-   ],
-   "tags_fa": [
-    "RMT",
-    "بلزارد",
-    "WoW Retail",
-    "اقدامات تنبیهی"
-   ],
-   "items": [],
-   "title_en": "Blizzard Takes Action Against RMT on Retail WoW - Gold Transactions Should Be Direct",
-   "source_url": "https://www.wowhead.com/news=383616",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383616-blizzard-takes-action-against-rmt-on-retail-wow-gold-transactions-shou.html",
-   "published_at": "2026-10-27T21:54:48Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383616/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383616/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383614,
-   "slug": "players-upset-latest-housing-bundles-breaks-stated-philosophy-on-heart",
-   "title_fa": "اعتراض بازیکنان به عرضه باندل هوسینگ Grimtide در فروشگاه بتل‌نت",
-   "lead_fa": "افزوده شدن باندل جدید هوسینگ Grimtide به فروشگاه Battle.net در ازای Hearthsteel، واکنش اعتراضی گروهی از بازیکنان را به دنبال داشته است.",
-   "body_fa": [
-    "باندل جدید Grimtide برای بخش Housing به فروشگاه Battle.net اضافه شده و خرید آن با ارز پولی Hearthsteel امکان‌پذیر است. نسبت تبدیل این ارز ۱۰۰ Hearthsteel به ازای یک دلار آمریکا است و به تنهایی ۲۵ دلار آمریکا هزینه دارد. دکوراسیون و ساختمان این مجموعه حال‌وهوای Kul Tiran دارند و برخی آیتم‌های آن مانند لنگر یا شاخک، نشانه‌های دریایی دارند یا فضایی مشابه Waycrest Manor در Drustvar ایجاد می‌کنند. نمای بیرونی خانه طوری به نظر می‌رسد که احتمالاً با Boralus همخوانی دارد و داخل آن موجودی شاخک‌دار شبیه به کراکن دیده می‌شود.",
-    "معترضان بر این باورند که این موضوع با اصول راهنمای Blizzard که در پستی در تاریخ ۶ نوامبر ۲۰۲۵ منتشر شده بود، در تناقض به نظر می‌رسد. در آن اصول آمده بود آیتم‌های مربوط به تخیلات بنیادین نژاد یا کلاس بازیکنان و مواردی که پیش‌تر در Azeroth حضور داشته‌اند در فروشگاه فروخته نخواهند شد. این در حالی است که این خانه برای جامعهٔ بازیکنان بسیار شبیه به یک خانهٔ متعلق به نژاد Kul Tiran به نظر می‌رسد و این ناراحتی پس از باگ‌های رخ‌داده در راه‌اندازی اخیر Patch 12.1.5 مطرح شده است.",
-    "این احتمال نیز مطرح است که شاید خانه قرار بوده به Talebound مرتبط باشد نه Kul Tiran، هرچند جامعهٔ بازیکنان چنین برداشتی از آن دارد. انتشار Talebound بیش از یک ماه دیگر پیش‌بینی شده و تست نخست آن این جمعه خواهد بود. پیش از این تنها نمای بیرونی فروخته‌شده در فروشگاه، Cozy Treehouse Retreat Bundle با تم بهار بود که برای ۲ نمای بیرونی و مقادیر زیادی دکوراسیون ۷۵ دلار یا فقط برای نماهای بیرونی ۴۰ دلار قیمت داشت که قیمت هر نما حدود ۲۰ دلار در می‌آمد و ارزان‌تر از گزینهٔ جدید ۲۵ دلاری بود."
-   ],
-   "tags_fa": [
-    "هوسینگ",
-    "بتل نت",
-    "World of Warcraft"
-   ],
-   "items": [],
-   "title_en": "Players Upset Latest Housing Bundles Breaks Stated Philosophy on Hearthsteel",
-   "source_url": "https://www.wowhead.com/news=383614",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383614-players-upset-latest-housing-bundles-breaks-stated-philosophy-on-heart.html",
-   "published_at": "2026-10-27T21:16:46Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "grok-4.20-0309-non-reasoning",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383614/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383614/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383612,
-   "slug": "blizzard-announces-name-reservation-issue-for-oceanic-players-in-wow-f",
-   "title_fa": "مشکل رزرو نام برای بازیکنان اقیانوسیه در سرورهای استرالیایی",
-   "lead_fa": "بلیزارد از وجود باگی خبر داده که رزرو نام را برای بازیکنان منطقه اقیانوسیه هنگام اتصال به سرورهای استرالیایی تحت تأثیر قرار می‌دهد.",
-   "body_fa": [
-    "بازیکنان اقیانوسیه که به سرورهای استرالیایی متصل می‌شوند باید ابتدا کاراکترهای خود را روی قوانین Roleplay یا Roleplay-PvP بسازند.",
-    "اگر ابتدا کاراکتر روی قوانین Normal یا PvP ساخته شود، گزینه‌های Roleplay و Roleplay-PvP برای کاراکترهای بعدی در دسترس نخواهد بود.",
-    "این مشکل فقط برای بازیکنان منطقه Oceanic که به سرورهای استرالیایی وصل می‌شوند وجود دارد.",
-    "بلیزارد اعلام کرده که روی رفع فوری این باگ کار می‌کند."
-   ],
-   "tags_fa": [
-    "Forever",
-    "مشکل نام",
-    "اقیانوسیه",
-    "سرورهای استرالیایی"
-   ],
-   "items": [],
-   "title_en": "Blizzard Announces Name Reservation Issue for Oceanic Players in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383612",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383612-blizzard-announces-name-reservation-issue-for-oceanic-players-in-wow-f.html",
-   "published_at": "2026-10-27T20:05:03Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383612/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383612/1.png",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3250,13 +3357,6 @@
    "published_at": "2026-11-05T17:00:00Z"
   },
   {
-   "id": 383746,
-   "title_en": "Mythic Venomous Abyss Caches Replaced by Open World Gear in Talebound Rewards",
-   "url": "https://www.wowhead.com/news=383746",
-   "category": "PTR",
-   "published_at": "2026-11-05T15:00:00Z"
-  },
-  {
    "id": 383758,
    "title_en": "Temporary Portals Replace Boats and Zeppelins Due to Bugs",
    "url": "https://www.wowhead.com/news=383758",
@@ -3297,20 +3397,6 @@
    "url": "https://www.wowhead.com/news=383748",
    "category": "Forever",
    "published_at": "2026-11-04T22:18:26Z"
-  },
-  {
-   "id": 383747,
-   "title_en": "Taldramir, the Whispering Wood Revealed as WoW: Forever Legendary",
-   "url": "https://www.wowhead.com/news=383747",
-   "category": "Forever",
-   "published_at": "2026-11-04T22:05:13Z"
-  },
-  {
-   "id": 383744,
-   "title_en": "The Questie Addon is Back in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383744",
-   "category": "Forever",
-   "published_at": "2026-11-04T21:30:48Z"
   },
   {
    "id": 383742,
@@ -3479,6 +3565,27 @@
    "url": "https://www.wowhead.com/news=383657",
    "category": "Forever",
    "published_at": "2026-10-31T18:00:00Z"
+  },
+  {
+   "id": 383648,
+   "title_en": "The WoW: Forever Podcast Episode 6 Now Available - Tech and Community Building",
+   "url": "https://www.wowhead.com/news=383648",
+   "category": "Forever",
+   "published_at": "2026-10-29T16:27:09Z"
+  },
+  {
+   "id": 383630,
+   "title_en": "Planet Azeroth: Episode 1 ft. Bill Bailey",
+   "url": "https://www.wowhead.com/news=383630",
+   "category": "Forever",
+   "published_at": "2026-10-28T16:38:15Z"
+  },
+  {
+   "id": 383603,
+   "title_en": "Myth 2/6 Piece of Loot Now Available from Labyrinths",
+   "url": "https://www.wowhead.com/news=383603",
+   "category": "Live",
+   "published_at": "2026-10-27T22:58:35Z"
   }
  ]
 }
