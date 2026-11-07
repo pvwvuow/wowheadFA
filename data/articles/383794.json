@@ -394,5 +394,58 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383794/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383794/1.jpg",
+ "last_rejected": {
+  "title_fa": "هاتفیکس‌های ۶ نوامبر WoW: Forever برای کلاس‌ها، دانجن‌ها و کوئست‌ها",
+  "lead_fa": "بلیزارد مجموعه‌ای از هاتفیکس‌های جدید را برای سرورهای WoW: Forever منتشر کرد که شامل اصلاحات متعددی برای کلاس‌ها، دانجن‌ها، کوئست‌ها و سیستم‌های بازی می‌شود.",
+  "body_fa": [
+   "به‌روزرسانی‌های جدیدی در قالب هاتفیکس برای سرورهای WoW: Forever اعمال شده است که طیف گسترده‌ای از باگ‌ها و مشکلات عملکردی را در بخش‌های مختلف بازی برطرف می‌کند.",
+   {
+    "t": "h",
+    "x": "تغییرات کلاس‌ها و سیستم‌های مبارزه"
+   },
+   "در بخش رابط کاربری و مکانیک‌های مبارزه، Cooldown Manager اکنون مدت‌زمان اسپل‌های Crowd Control را در تمام شرایط، حتی در صورت اعمال Diminishing Returns یا کاهش‌های ناشی از مکانیک‌های نژادی به‌درستی نشان می‌دهد. همچنین تلنت Quick and the Dead Legacy که در مواردی درست کار نمی‌کرد اصلاح شده است.",
+   {
+    "t": "ul",
+    "xs": [
+     "در کلاس Druid اسپل Bloom اکنون هدف را هیل می‌کند و ایرادات توضیحات Bear Form، اسپل Ravage و Swiftmend اصلاح شده است.",
+     "در کلاس Mage باگ یادگیری اسپل Research و حذف آن پس از خروج برطرف شد و مدت‌زمان Arcane Blast به‌درستی به ۱۸ ثانیه اصلاح شد.",
+     "در کلاس Rogue توضیحات رنک ۱ و ۲ توانایی Shank و نمایش Combo Points در زمان انتخاب تلنت Boot Knife اصلاح گردید.",
+     "برای Warlock میزان Base Health پت Voidwalker حدود ۴۰ واحد در تمام لول‌ها افزایش یافت و باگ تلنت Soul Siphon با اسپل Wrack رفع شد.",
+     "در Warrior توضیحات Reckless Swings به‌روزرسانی شد تا فعال‌سازی Gore Drinker را قید کند."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "تغییرات نژادها و آیتم‌ها"
+   },
+   "باگی که به Druidهای نژاد Night Elf در حالت Shadowmeld اجازه دسترسی به Ravage و Pounce می‌داد اصلاح شد. همچنین اثرگذاری بیش از حد ابیلیتی نژادی Command اورک‌ها روی برخی اسپل‌های پت‌های Warlock برطرف گردید. در بخش تجهیزات نیز [[item:Searing Dagger]] اکنون فقط با اسپل‌هایی فعال می‌شود که مؤلفهٔ خسارت‌زننده دارند.",
+   {
+    "t": "h",
+    "x": "شغل‌ها و دانجن‌ها"
+   },
+   "در شغل Leatherworking پیش‌نیاز اسکیل Tanning Rack به ۱۲۵ کاهش یافته است (پیش‌تر ۱۴۰ بود) تا مانع ساخت پترن‌های لول ۱۲۵ نشود؛ به همین دلیل مقدار اسکیل دریافتی آن نیز ۱۵ پوینت کاهش پیدا کرد. در دانجن‌ها مشکل اسپاون Zaetar's Spirit پس از شکست Princess Theradras در Maraudon، ایراد Disengage برخی موجودات در Blackmaw Hold و The Drowned City و عملکرد پورتال ورودی The Drowned City اصلاح شدند.",
+   {
+    "t": "h",
+    "x": "کوئست‌ها و دنیای بازی"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "اصلاح رفتارهای نامناسب در کوئست‌های Vorsha the Lasher و The Sleeper Has Awakened به همراه دادن آیتم Horn of Awakening به بازیکنان.",
+     "لغو خودکار کوئست Rough Wolf Pelts در صورت حذف اسکیل Skinning.",
+     "رفع مشکلات کوئست‌های Rediscovering the Light و Ammo for Rumbleshot و اشتراک آیتم‌های کوئستی در Riverglades.",
+     "افزایش شانس دراپ Damp Note و در دسترس قرار گرفتن کوئست Unending Torment در لول ۱۵ برای هورد (پیش‌تر لول ۱۶ بود).",
+     "اصلاح نرخ اسپاون و لوت تروگ‌های Grol'bolar Quarry، کریچرهای Ridgeshade Lurkers، Krek the Noxious، Pelluk و اصلاح ایمنی موجودات Teldrassil به دمیج نیچر."
+    ]
+   },
+   "دید سایر بازیکنان و هدف‌های آن‌ها از فواصل دور ارتقا یافته و روشنایی فضای Barbershop در شهر Thunder Bluff نیز تنظیم شده است."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "WoW Forever",
+   "کلاس‌ها",
+   "کوئست"
+  ]
+ }
 }
