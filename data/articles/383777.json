@@ -192,5 +192,61 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383777/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383777/1.jpg",
+ "last_rejected": {
+  "title_fa": "تغییر نام NPCهای Tortollan و تیونینگ دانجن The Venomous Abyss",
+  "lead_fa": "بلیزارد در قالب هاتفیکس‌های جدید، نام برخی NPCهای Tortollan را تغییر داد و تغییرات متعددی را روی دانجن The Venomous Abyss و دِلو Shadowguard Point اعمال کرد.",
+  "body_fa": [
+   "بلیزارد مجموعه‌ای از هاتفیکس‌ها را منتشر کرده است که بر اساس آن، نام برخی از NPCهای نژاد Tortollan به‌روزرسانی شده است. در انکانتر Lost Explorers واقع در The Venomous Abyss، نام این شخصیت‌ها اکنون شامل Epu (قبلاً Iku)، Nema (قبلاً Nama) و Gebbo است. این تغییرات مشکلاتی را در World of Warcraft: Midnight، Mists of Pandaria Classic، Season of Discovery، Burning Crusade Classic، WoW Classic Era و Hardcore هدف قرار داده‌اند که بخشی از آن‌ها بلافاصله و بخشی پس از ری‌استارت Realmها اعمال می‌شوند.",
+   {
+    "t": "h",
+    "x": "موجودات و ان‌پی‌سی‌ها"
+   },
+   "نام چندین ان‌پی‌سی Tortollan به‌روزرسانی شده است.",
+   {
+    "t": "h",
+    "x": "دلوها (Delves)"
+   },
+   "در Delve با نام Shadowguard Point و در حالت «Basilisk Blitz»، مشکلی برطرف شده که در آن خروج از دِلو هنگام جابه‌جایی میان Waygateها می‌توانست ظاهر بازیکن را تغییر دهد و او را در برابر نیروهای دوست به وضعیت Hostile دربیاورد.",
+   {
+    "t": "h",
+    "x": "دانجن The Venomous Abyss"
+   },
+   "تغییرات قابل‌توجهی برای بخش‌های مختلف دانجن The Venomous Abyss اعمال شده است:",
+   {
+    "t": "ul",
+    "xs": [
+     "در بخش Entombed Sentinels، بیشینه اندازه (Scale) حوضچه‌های Blood Venom در درجه‌های سختی Heroic و Mythic کاهش یافت. همچنین مدت‌زمان ماندگاری حوضچه‌های Blood Venom در درجه سختی Mythic به ۲ دقیقه کاهش یافت (قبلاً ۵ دقیقه بود).",
+     "در مبارزه Twin Fangs، میزان Damage توانایی Visceral Burst در درجه سختی Mythic به میزان ۴۰٪ کاهش یافت."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "بخش The Coiled Altar"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "سرعت جابه‌جایی Axegrinder در تمامی درجه‌های سختی به میزان 20% کاهش یافت.",
+     "میزان Damage واردشده توسط Axegrinder در درجه سختی Mythic به میزان 20% کاهش یافت.",
+     "میزان Damage ناشی از Gloombomb در درجه سختی Mythic به میزان 20% کاهش یافت.",
+     "میزان Damage توانایی Venom Rupture در درجه سختی Mythic به میزان ۱۵٪ کاهش پیدا کرد.",
+     "میزان Damage اسپل Malevolent Resonance به میزان ۶۰٪ کاهش یافت.",
+     "مدت‌زمان بقای Gravebound Soul Fragments در درجه سختی Mythic قبل از ناپدید شدن، ۲ ثانیه افزایش یافت.",
+     "تعداد Spiteful Soulcoilerهایی که از اسپل Spiritcackle در درجه سختی Mythic ظاهر می‌شوند، به ۱ عدد کاهش یافت (قبلاً ۲ عدد بود)."
+    ]
+   },
+   {
+    "t": "quote",
+    "x": "با این تغییر، ظاهر شدن Soulcoilerها مشابه نحوه اسپاون شدن آن‌ها در درجه سختی Heroic خواهد بود.",
+    "by": "یادداشت سازندگان (Developers' notes)"
+   }
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "دانجن",
+   "Midnight",
+   "تیونینگ"
+  ]
+ }
 }
