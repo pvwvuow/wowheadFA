@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T20:20:35Z",
+ "generated": "2026-11-07T20:21:54Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3277,6 +3277,13 @@
  ],
  "queue": [
   {
+   "id": 383796,
+   "title_en": "GMs Appeared In-Person to Celebrate the Launch of WoW: Forever",
+   "url": "https://www.wowhead.com/news=383796",
+   "category": "Forever",
+   "published_at": "2026-11-07T19:00:00Z"
+  },
+  {
    "id": 383781,
    "title_en": "Black Market Auction House, Global Raid Launch, Quest Helpers - MrGM Interview on WoW: Forever",
    "url": "https://www.wowhead.com/news=383781",
@@ -3548,13 +3555,6 @@
    "url": "https://www.wowhead.com/news=383603",
    "category": "Live",
    "published_at": "2026-10-27T22:58:35Z"
-  },
-  {
-   "id": 383573,
-   "title_en": "Blizzard Hints The WoW: Forever Podcast Will Continue",
-   "url": "https://www.wowhead.com/news=383573",
-   "category": "Forever",
-   "published_at": "2026-10-26T15:00:00Z"
   }
  ]
 }
