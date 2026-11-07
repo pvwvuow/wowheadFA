@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T03:14:06Z",
+ "generated": "2026-11-07T04:36:16Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3026,6 +3026,13 @@
  ],
  "queue": [
   {
+   "id": 383798,
+   "title_en": "WoW: Forever Makes History with Biggest Launch Ever!",
+   "url": "https://www.wowhead.com/news=383798",
+   "category": "Forever",
+   "published_at": "2026-11-07T04:18:40Z"
+  },
+  {
    "id": 383797,
    "title_en": "World First Level 60s in WoW: Forever in Less Than Three Days",
    "url": "https://www.wowhead.com/news=383797",
@@ -3297,13 +3304,6 @@
    "url": "https://www.wowhead.com/news=383710",
    "category": "WoW",
    "published_at": "2026-11-03T17:23:13Z"
-  },
-  {
-   "id": 383692,
-   "title_en": "Bonus Experience and Extra Bags for Purchase on CN WoW: Forever Servers",
-   "url": "https://www.wowhead.com/news=383692",
-   "category": "Forever",
-   "published_at": "2026-11-03T16:00:00Z"
   }
  ]
 }
