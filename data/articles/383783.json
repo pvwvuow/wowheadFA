@@ -144,12 +144,106 @@
   ],
   "chars": 2252
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383783/1.png",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383783/1.png"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383783/1.png",
+ "article_fa": {
+  "title_fa": "کاهش سختی انکانتر Ula'tek در تمام درجه‌های سختی با هاتفیکس جدید",
+  "lead_fa": "با اعمال هاتفیکس‌های جدید، نبرد با باس Ula'tek در تمامی درجه‌های سختی رید با کاهش چشمگیر دمیج مکانیک‌ها و تغییر در مقیاس سلامت انمی‌ها تضعیف شد.",
+  "body_fa": [
+   "انکانتر Ula'tek رسماً هدف هاتفیکس قرار گرفته و این باس در تمامی درجه‌های سختی نرف شده است. در کنار یادداشت‌های رسمی، داده‌کاوی‌های انجام‌شده جزئیات دقیق‌تری از تغییرات مکانیک‌ها را مشخص کرده است.",
+   {
+    "t": "h",
+    "x": "یافته‌های حاصل از داده‌کاوی"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "تعداد بازیکنان لازم برای جذب مکانیک Serpent's Bite در تمام سختی‌ها از ۳ نفر به ۲ بازیکن کاهش یافته است.",
+     "تعداد بازیکنان هدف توانایی Grasping Fangs روی دو درجه سختی Normal و Heroic از ۳ نفر به ۲ بازیکن کاهش یافت."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "تنظیمات سلامت و مکانیک‌های Ula'tek"
+   },
+   "میزان سلامت پایه و روند مقیاس‌پذیری سلامت (Health Scaling) برای گروه‌های کوچک‌تر در درجه‌های سختی Raid Finder و Normal و Heroic برای چندین انمی تنظیم شده است تا با افزایش جمعیت رید، مقدار سلامت بیش از حد بالا نرود. انمی‌های مشمول این تغییر عبارتند از: Ula'tek، Blightsclae Rawling، Blightscale Viper، Blightscale Shrieker و Weakened Doomscale. علاوه بر این، میزان سلامت خود Ula'tek روی درجه سختی Heroic به‌میزان ۱۵٪ کاهش پیدا کرده است.",
+   {
+    "t": "table",
+    "head": [
+     "توانایی یا مکانیک",
+     "درجه سختی",
+     "تغییرات اعمال‌شده"
+    ],
+    "rows": [
+     [
+      "Unchecked Rage",
+      "تمام سختی‌ها",
+      "دمیج ۶۱٪ کاهش یافت"
+     ],
+     [
+      "Caustic Waves (ایمپکت)",
+      "Heroic و Mythic",
+      "دمیج ۱۷٪ کاهش یافت"
+     ],
+     [
+      "Caustic Waves (دمیج DoT)",
+      "Normal / Heroic / Mythic",
+      "کاهش ۷۵٪ روی Normal، کاهش ۶۱٪ روی Heroic و ۸۹٪ روی Mythic"
+     ],
+     [
+      "Malice",
+      "Normal و Heroic / Mythic",
+      "کاهش دمیج ۶۳٪ روی Normal و Heroic و ۴۵٪ روی Mythic"
+     ],
+     [
+      "Virulent Spit",
+      "RF / Normal و Heroic / Mythic",
+      "کاهش ۴۶٪ در RF، کاهش ۳۳٪ در Normal و Heroic، کاهش ۳۶٪ در Mythic"
+     ],
+     [
+      "Falling Debris",
+      "RF / Normal و Heroic / Mythic",
+      "کاهش ۴۶٪ در RF، کاهش ۳۳٪ در Normal و Heroic، کاهش ۳۶٪ در Mythic"
+     ],
+     [
+      "Viscous Echoes",
+      "تمام سختی‌ها",
+      "کاهش دمیج اولیه ۵۳٪ و کاهش DoT به‌میزان ۲۵٪"
+     ]
+    ]
+   },
+   {
+    "t": "h",
+    "x": "تغییرات فازها و درجه سختی Mythic"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "کاهش تعداد تخم‌های احضارشده با توانایی Call of the Serpent در دو درجه سختی Normal و Heroic.",
+     "حذف ۲ تخم از هر طرف در فاز دوم سختی Heroic که مجموع را به ۸ تخم در هر سمت می‌رساند.",
+     "در فاز سوم سختی Heroic، قابلیت Caustic Waves دیگر موج‌های اضافی از Spectral Tails هنگام فرستادن دیواره‌های موج تولید نمی‌کند.",
+     "روی درجه سختی Mythic، دمیج اولیه Noxious Splash به‌میزان ۳۳٪ و DoT آن ۸۴٪ کاهش یافته است.",
+     "مدت زمان اثر Putrid Membrane روی Mythic از ۳۰ ثانیه به ۲۰ ثانیه کاهش پیدا کرد."
+    ]
+   },
+   "این تغییرات تضعیفی در حال حاضر به‌صورت زنده روی سرورها فعال هستند."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "رید",
+   "نرف",
+   "Ula'tek"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-07T01:28:11Z"
+ }
 }

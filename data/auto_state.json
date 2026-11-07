@@ -1,6 +1,6 @@
 {
- "day": "2026-11-06",
- "published_today": 9,
+ "day": "2026-11-07",
+ "published_today": 5,
  "held": {
   "383787": {
    "reason": "G6 space before punctuation",
@@ -19,60 +19,10 @@
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-06T23:28:39Z",
+ "updated_at": "2026-11-07T01:39:11Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383754",
-    "ts": "2026-11-05T19:00:07Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 47.6,
-    "attempts": 1
-   },
-   {
-    "id": "383758",
-    "ts": "2026-11-05T19:01:09Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 62.6,
-    "attempts": 1
-   },
-   {
-    "id": "383757",
-    "ts": "2026-11-05T19:01:40Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 30.5,
-    "attempts": 1
-   },
-   {
-    "id": "383753",
-    "ts": "2026-11-05T19:02:29Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 49.1,
-    "attempts": 1
-   },
-   {
-    "id": "383750",
-    "ts": "2026-11-05T19:03:13Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 44.6,
-    "attempts": 1
-   },
    {
     "id": "383751",
     "ts": "2026-11-05T19:06:34Z",
@@ -4022,6 +3972,56 @@
     "warns": 0,
     "sec": 267.0,
     "attempts": 2
+   },
+   {
+    "id": "383790",
+    "ts": "2026-11-07T01:13:11Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 335.9,
+    "attempts": 1
+   },
+   {
+    "id": "383784",
+    "ts": "2026-11-07T01:15:54Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 162.4,
+    "attempts": 1
+   },
+   {
+    "id": "383783",
+    "ts": "2026-11-07T01:28:11Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 736.7,
+    "attempts": 1
+   },
+   {
+    "id": "383782",
+    "ts": "2026-11-07T01:33:29Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 318.8,
+    "attempts": 1
+   },
+   {
+    "id": "383770",
+    "ts": "2026-11-07T01:39:11Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 342.1,
+    "attempts": 1
    }
   ]
  }

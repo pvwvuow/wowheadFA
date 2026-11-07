@@ -66,12 +66,42 @@
   ],
   "chars": 572
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383770/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383770/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383770/1.jpg",
+ "article_fa": {
+  "title_fa": "انتشار چهار تصویر هنری کلیدی به مناسبت عرضه WoW: Forever",
+  "lead_fa": "بلیزارد هم‌زمان با لانچ WoW: Forever از چهار آرت‌ورک کلیدی جدید رونمایی کرد که ویژگی‌های برجسته این بازی را به نمایش می‌گذارند.",
+  "body_fa": [
+   "شرکت Blizzard به مناسبت آغاز به کار WoW: Forever چهار تصویر هنری اصلی (Key Art) تازه منتشر کرده است. هر یک از این تصاویر به معرفی یکی از امکانات و محتواهای مهم این عنوان می‌پردازند.",
+   {
+    "t": "h",
+    "x": "ویژگی‌های برجسته‌شده در تصاویر هنری جدید"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "سیستم Campfire: قابلیت کمپینگ یک سیستم کاملاً جدید در WoW: Forever است که بازیکنان را تشویق می‌کند سرعت بازی را کاهش دهند، با دیگران دور آتش معاشرت کنند و Buff دریافت نمایند.",
+     "ترکیب Dwarf Shaman: ترکیب جدید نژاد و کلاس که در این بازی در دسترس قرار می‌گیرد.",
+     "ترکیب Forsaken Paladin: یکی دیگر از ترکیب‌های جدید نژاد و کلاس برای بازیکنان.",
+     "تصویر Skyborne: آرت‌ورک مربوط به لانچ Skyborne که آیتم لجندری Taldramir, the Whispering Wood را نشان می‌دهد."
+    ]
+   }
+  ],
+  "tags_fa": [
+   "آرت‌ورک",
+   "WoW Forever",
+   "بلیزارد"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-07T01:39:11Z"
+ }
 }

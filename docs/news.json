@@ -1,8 +1,59 @@
 {
- "generated": "2026-11-06T23:30:58Z",
+ "generated": "2026-11-07T01:40:36Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383790,
+   "slug": "upcoming-pet-changes-in-wow-forever-upcoming-class-tuning-for-november",
+   "title_fa": "برنامه تغییرات پت‌ها و تیونینگ کلاس‌ها در WoW: Forever برای ۱۰ نوامبر",
+   "lead_fa": "توسعه‌دهندگان WoW: Forever اولین سری تنظیمات تعادل کلاس‌ها را برای سه‌شنبه ۱۰ نوامبر برنامه‌ریزی کرده‌اند که شامل تغییرات پت‌های Hunter و Warlock و بازنگری در اولویت استت‌های Enhancement Shaman می‌شود.",
+   "body_fa": [
+    "هم‌زمان با لول‌آپ بازیکنان در سراسر جهان در سرورهای WoW: Forever، سازندگان بازی چند مشکل اساسی در کلاس‌ها را شناسایی کرده‌اند که نیازمند اصلاحات فوری است. طبق اعلام تیم توسعه، برنامه‌ریزی شده است تا در روز سه‌شنبه ۱۰ نوامبر یک سری هاتفیکس برای رفع این موارد منتشر شود.",
+    {
+     "t": "h",
+     "x": "افزایش دوام پت‌های تانک Hunter و Warlock"
+    },
+    "بر اساس مشاهدات توسعه‌دهندگان، پت‌های Hunter و همچنین Voidwalker مربوط به Warlock به اندازه مورد انتظار در نقش تانک دوام نمی‌آورند. هدف تیم این است که کارایی این پت‌ها تا حدودی مشابه Classic Era باشد و برای رسیدن به این هدف، استت‌های آن‌ها در صورت نیاز تعدیل خواهد شد.",
+    {
+     "t": "h",
+     "x": "تغییرات گیم‌پلی Affliction Warlock"
+    },
+    "گزارش‌های دریافتی نشان می‌دهد چنل کردن مداوم توانایی Wrack نسبت به استفاده هم‌زمان از جادوهای Damage-over-time نظیر Siphon Life، Corruption و Bane of Agony برتری دارد. سازندگان قصد دارند شرایطی ایجاد کنند که کست کردن این جادوها در کنار Wrack همیشه ارزشمند باشد، بدون اینکه روی کل خروجی Damage این تخصص تأثیر منفی بگذارد.",
+    {
+     "t": "h",
+     "x": "تغییر اولویت استت برای Enhancement Shaman"
+    },
+    "در حال حاضر بازیکنان Enhancement Shaman متوجه شده‌اند که Intellect و Spellpower نسبت به Strength و Attack Power استت‌های برتری هستند. برنامه توسعه‌دهندگان این است که Strength همواره قوی‌ترین استت آن‌ها باشد تا این تخصص به سراغ آیتم‌های مخصوص Mageها و Warlockها نرود. در حالت ایده‌آل، بهترین آیتم‌های Enhancement باید دارای Strength یا Attack Power به همراه مقداری Intellect یا Spell Power باشند.",
+    {
+     "t": "note",
+     "x": "بازیکنان Enhancement Shaman که در حال لول‌آپ هستند، از این پس باید به دنبال جمع‌آوری تجهیزات دارای Strength و Attack Power باشند.",
+     "kind": "tip"
+    },
+    "تیم توسعه ممکن است در طول آخر هفته مشکلات جدیدی را شناسایی کند و اعلام کرده است که تغییرات بالانس کلاس‌ها را سه‌شنبه و در صورت لزوم در سه‌شنبه‌های آینده اعمال خواهد کرد."
+   ],
+   "tags_fa": [
+    "تیونینگ کلاس‌ها",
+    "WoW Forever",
+    "هاتفیکس",
+    "شمن"
+   ],
+   "items": [],
+   "title_en": "Upcoming Pet Changes in WoW: Forever - Upcoming Class Tuning for November 10th",
+   "source_url": "https://www.wowhead.com/news=383790",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383790-upcoming-pet-changes-in-wow-forever-upcoming-class-tuning-for-november.html",
+   "published_at": "2026-11-06T21:13:27Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383790/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383790/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383789,
    "slug": "blizzard-fixing-issues-causing-duplicates-of-npcs-and-mobs",
@@ -85,6 +136,265 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383786/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383784,
+   "slug": "the-adventure-begins-in-wow-forever-stay-connected-with-discord-and-ta",
+   "title_fa": "مرور هفتگی WoW Weekly: آغاز World of Warcraft: Forever، ادغام دیسکورد و سلاح لجندری جدید",
+   "lead_fa": "شرکت Blizzard در شماره جدید وبلاگ WoW Weekly به راه‌اندازی World of Warcraft: Forever، هماهنگی با Discord و معرفی سلاح لجندری جدید پرداخته است.",
+   "body_fa": [
+    "شماره جدید وبلاگ رسمی WoW Weekly منتشر شده است و به مرور آغاز به کار نسخه دائمی World of Warcraft: Forever در کنار نسخه‌های مدرن و Classic، قابلیت‌های ارتباطی جدید و تغییرات گیم‌پلی می‌پردازد.",
+    {
+     "t": "h",
+     "x": "آغاز به کار World of Warcraft: Forever و پشتیبانی از گیم‌پد"
+    },
+    "در این نسخه، دنیای Azeroth با رویکردی جدید بازطراحی شده است تا بازیکنان جدید و قدیمی بتوانند با سرعت دلخواه خود در آن به کاوش بپردازند. همچنین سازندگان کنترل بازی با گیم‌پد را بهبود بخشیده‌اند و مواردی چون هدف‌گیری، استفاده از اسپل‌ها، لوت کردن و جابه‌جایی در منوها را با حفظ ساختار آشنای پیشین برای دسته‌ها بهینه‌سازی کرده‌اند.",
+    {
+     "t": "h",
+     "x": "اتصال دیسکورد و آینه‌سازی چت گیلد"
+    },
+    "امکان اتصال حساب‌های Discord و بازتاب چت‌های درون‌برنامه‌ای فراهم شده است. بازیکنان در هر دو نسخه modern World of Warcraft و World of Warcraft: Forever می‌توانند با اتصال حساب خود، پیام‌ها را میان Discord و کانال guild chat ردوبدل کنند تا برای هماهنگی ریدها، عضوگیری PvP و گفتگو نیازی به حضور مستقیم در بازی نباشد.",
+    {
+     "t": "h",
+     "x": "دریافت توی Pouch of Violet Dust از توییچ"
+    },
+    "با تماشای استریم‌های واجد شرایط در پلتفرم Twitch.tv، بازیکنان می‌توانند توی موقت [[item:Pouch of Violet Dust]] را به دست آورند که جلوه آتش کمپ‌ها را تغییر می‌دهد.",
+    {
+     "t": "note",
+     "x": "این آیتم فقط در WoW: Forever قابل استفاده بوده و صرفاً تا پایان رویداد WoW: Forever Launch Celebration در دسترس است؛ پس از آن، توی از کلکسیون بازیکنان حذف خواهد شد.",
+     "kind": "warn"
+    },
+    {
+     "t": "table",
+     "head": [
+      "رویداد",
+      "زمان آغاز (PST)",
+      "زمان پایان (PST)"
+     ],
+     "rows": [
+      [
+       "توییچ دراپ Pouch of Violet Dust",
+       "۴ نوامبر ساعت 4:30 pm",
+       "۱۲ نوامبر ساعت 4:30 pm"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "اولین سلاح لجندری: Taldramir"
+    },
+    "در بخش دیگری از این گزارش، ساخت اولین سلاح لجندری این نسخه با نام Taldramir, the Whispering Wood به نمایش گذاشته شده است که با همکاری Wētā ساخته شده و در اختیار بازیکنان قرار می‌گیرد."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "دیسکورد",
+    "توییچ دراپ",
+    "اخبار بیلیزارد"
+   ],
+   "items": [],
+   "title_en": "The Adventure Begins in WoW: Forever, Stay Connected with Discord, and Taldramir Takes Shape in WoW Weekly",
+   "source_url": "https://www.wowhead.com/news=383784",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383784-the-adventure-begins-in-wow-forever-stay-connected-with-discord-and-ta.html",
+   "published_at": "2026-11-06T18:31:23Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383784/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383784/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383783,
+   "slug": "ula-tek-nerfed-on-all-difficulties-hotfixes-now-live",
+   "title_fa": "کاهش سختی انکانتر Ula'tek در تمام درجه‌های سختی با هاتفیکس جدید",
+   "lead_fa": "با اعمال هاتفیکس‌های جدید، نبرد با باس Ula'tek در تمامی درجه‌های سختی رید با کاهش چشمگیر دمیج مکانیک‌ها و تغییر در مقیاس سلامت انمی‌ها تضعیف شد.",
+   "body_fa": [
+    "انکانتر Ula'tek رسماً هدف هاتفیکس قرار گرفته و این باس در تمامی درجه‌های سختی نرف شده است. در کنار یادداشت‌های رسمی، داده‌کاوی‌های انجام‌شده جزئیات دقیق‌تری از تغییرات مکانیک‌ها را مشخص کرده است.",
+    {
+     "t": "h",
+     "x": "یافته‌های حاصل از داده‌کاوی"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "تعداد بازیکنان لازم برای جذب مکانیک Serpent's Bite در تمام سختی‌ها از ۳ نفر به ۲ بازیکن کاهش یافته است.",
+      "تعداد بازیکنان هدف توانایی Grasping Fangs روی دو درجه سختی Normal و Heroic از ۳ نفر به ۲ بازیکن کاهش یافت."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "تنظیمات سلامت و مکانیک‌های Ula'tek"
+    },
+    "میزان سلامت پایه و روند مقیاس‌پذیری سلامت (Health Scaling) برای گروه‌های کوچک‌تر در درجه‌های سختی Raid Finder و Normal و Heroic برای چندین انمی تنظیم شده است تا با افزایش جمعیت رید، مقدار سلامت بیش از حد بالا نرود. انمی‌های مشمول این تغییر عبارتند از: Ula'tek، Blightsclae Rawling، Blightscale Viper، Blightscale Shrieker و Weakened Doomscale. علاوه بر این، میزان سلامت خود Ula'tek روی درجه سختی Heroic به‌میزان ۱۵٪ کاهش پیدا کرده است.",
+    {
+     "t": "table",
+     "head": [
+      "توانایی یا مکانیک",
+      "درجه سختی",
+      "تغییرات اعمال‌شده"
+     ],
+     "rows": [
+      [
+       "Unchecked Rage",
+       "تمام سختی‌ها",
+       "دمیج ۶۱٪ کاهش یافت"
+      ],
+      [
+       "Caustic Waves (ایمپکت)",
+       "Heroic و Mythic",
+       "دمیج ۱۷٪ کاهش یافت"
+      ],
+      [
+       "Caustic Waves (دمیج DoT)",
+       "Normal / Heroic / Mythic",
+       "کاهش ۷۵٪ روی Normal، کاهش ۶۱٪ روی Heroic و ۸۹٪ روی Mythic"
+      ],
+      [
+       "Malice",
+       "Normal و Heroic / Mythic",
+       "کاهش دمیج ۶۳٪ روی Normal و Heroic و ۴۵٪ روی Mythic"
+      ],
+      [
+       "Virulent Spit",
+       "RF / Normal و Heroic / Mythic",
+       "کاهش ۴۶٪ در RF، کاهش ۳۳٪ در Normal و Heroic، کاهش ۳۶٪ در Mythic"
+      ],
+      [
+       "Falling Debris",
+       "RF / Normal و Heroic / Mythic",
+       "کاهش ۴۶٪ در RF، کاهش ۳۳٪ در Normal و Heroic، کاهش ۳۶٪ در Mythic"
+      ],
+      [
+       "Viscous Echoes",
+       "تمام سختی‌ها",
+       "کاهش دمیج اولیه ۵۳٪ و کاهش DoT به‌میزان ۲۵٪"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "تغییرات فازها و درجه سختی Mythic"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "کاهش تعداد تخم‌های احضارشده با توانایی Call of the Serpent در دو درجه سختی Normal و Heroic.",
+      "حذف ۲ تخم از هر طرف در فاز دوم سختی Heroic که مجموع را به ۸ تخم در هر سمت می‌رساند.",
+      "در فاز سوم سختی Heroic، قابلیت Caustic Waves دیگر موج‌های اضافی از Spectral Tails هنگام فرستادن دیواره‌های موج تولید نمی‌کند.",
+      "روی درجه سختی Mythic، دمیج اولیه Noxious Splash به‌میزان ۳۳٪ و DoT آن ۸۴٪ کاهش یافته است.",
+      "مدت زمان اثر Putrid Membrane روی Mythic از ۳۰ ثانیه به ۲۰ ثانیه کاهش پیدا کرد."
+     ]
+    },
+    "این تغییرات تضعیفی در حال حاضر به‌صورت زنده روی سرورها فعال هستند."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "رید",
+    "نرف",
+    "Ula'tek"
+   ],
+   "items": [],
+   "title_en": "Ula'tek Nerfed on All Difficulties - Hotfixes Now Live",
+   "source_url": "https://www.wowhead.com/news=383783",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383783-ula-tek-nerfed-on-all-difficulties-hotfixes-now-live.html",
+   "published_at": "2026-11-06T18:17:07Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383783/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383783/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383782,
+   "slug": "major-qol-update-to-popular-alliance-quest-in-wow-forever",
+   "title_fa": "بهبودهای مهم برای کوئست معروف The Attack در WoW: Forever",
+   "lead_fa": "کوئست محبوب گروه Alliance یعنی The Attack! در بازی WoW: Forever دستخوش تغییرات کیفی مهمی شده تا زمان انتظار و مشکلات بازیکنان کاهش یابد.",
+   "body_fa": [
+    "کوئست نمادین بخش Alliance با نام The Attack! در WoW: Forever تغییرات کیفی (QoL) قابل‌توجهی دریافت کرده است که تکمیل آن را بسیار ساده‌تر و بدون معطلی‌های طولانی پیشین می‌کند.",
+    {
+     "t": "h",
+     "x": "تغییرات روند شروع و اشتراک‌گذاری کوئست"
+    },
+    "پیش از WoW: Forever، زمانی که بازیکنی این کوئست را آغاز می‌کرد رویداد مربوط به آن فوراً فعال می‌شد و تنها افراد نزدیک در Party همان شخص می‌توانستند کوئست را بپذیرند. در نسخهٔ Classic، هر فردی که قصد انجام این کوئست را داشت باید تا پایان کامل رویداد توسط گروه قبلی منتظر می‌ماند؛ مسئله‌ای که اغلب به ایجاد صف‌ها و انتظار طولانی منتهی می‌شد.",
+    "اکنون در WoW: Forever پس از شروع کوئست یک گزینهٔ گفت‌وگوی اضافه وجود دارد تا مطمئن شوید همه اعضای Party آماده هستند. علاوه بر این، بازیکنان حتی در زمان جریان داشتن رویداد نیز می‌توانند کوئست را تحویل بگیرند یا آن را به اشتراک بگذارند.",
+    {
+     "t": "note",
+     "x": "گروه‌ها در صورت داشتن جای خالی می‌توانند افراد بیشتری را حین اجرای رویداد اضافه کنند و بازیکنان دیگر نیز می‌توانند وسط رویداد این کوئست را دریافت نمایند.",
+     "kind": "info"
+    },
+    "با اعمال این تغییرات، بازیکنان فکشن Alliance حین فرایند Leveling خود دیگر برای رسیدن به آیتم [[item:Seal of Wrynn]] نیازی به تحمل زمان‌های انتظار طولانی و طاقت‌فرسا نخواهند داشت."
+   ],
+   "tags_fa": [
+    "Forever",
+    "Alliance",
+    "کوئست"
+   ],
+   "items": [],
+   "title_en": "Major QoL Update to Popular Alliance Quest in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383782",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383782-major-qol-update-to-popular-alliance-quest-in-wow-forever.html",
+   "published_at": "2026-11-06T17:30:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383782/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383782/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383770,
+   "slug": "four-new-key-art-pieces-for-wow-forever-launch",
+   "title_fa": "انتشار چهار تصویر هنری کلیدی به مناسبت عرضه WoW: Forever",
+   "lead_fa": "بلیزارد هم‌زمان با لانچ WoW: Forever از چهار آرت‌ورک کلیدی جدید رونمایی کرد که ویژگی‌های برجسته این بازی را به نمایش می‌گذارند.",
+   "body_fa": [
+    "شرکت Blizzard به مناسبت آغاز به کار WoW: Forever چهار تصویر هنری اصلی (Key Art) تازه منتشر کرده است. هر یک از این تصاویر به معرفی یکی از امکانات و محتواهای مهم این عنوان می‌پردازند.",
+    {
+     "t": "h",
+     "x": "ویژگی‌های برجسته‌شده در تصاویر هنری جدید"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "سیستم Campfire: قابلیت کمپینگ یک سیستم کاملاً جدید در WoW: Forever است که بازیکنان را تشویق می‌کند سرعت بازی را کاهش دهند، با دیگران دور آتش معاشرت کنند و Buff دریافت نمایند.",
+      "ترکیب Dwarf Shaman: ترکیب جدید نژاد و کلاس که در این بازی در دسترس قرار می‌گیرد.",
+      "ترکیب Forsaken Paladin: یکی دیگر از ترکیب‌های جدید نژاد و کلاس برای بازیکنان.",
+      "تصویر Skyborne: آرت‌ورک مربوط به لانچ Skyborne که آیتم لجندری Taldramir, the Whispering Wood را نشان می‌دهد."
+     ]
+    }
+   ],
+   "tags_fa": [
+    "آرت‌ورک",
+    "WoW Forever",
+    "بلیزارد"
+   ],
+   "items": [],
+   "title_en": "Four New Key Art Pieces for WoW: Forever Launch",
+   "source_url": "https://www.wowhead.com/news=383770",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383770-four-new-key-art-pieces-for-wow-forever-launch.html",
+   "published_at": "2026-11-06T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383770/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383770/1.jpg",
      "cap": ""
     }
    ]
@@ -2704,259 +3014,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383598,
-   "slug": "new-grimtide-housing-exterior-and-decor-datamined",
-   "title_fa": "دیتاماین خانه و دکور جدید Grimtide",
-   "lead_fa": "آیتم‌های جدید خانه‌سازی روی سرورهای زنده رمزگشایی شده‌اند و دیتاماین‌ها یک نمای خارجی جدید Grimtide Manse و چندین دکور مرتبط را نشان می‌دهند.",
-   "body_fa": [
-    "در به‌روزرسانی اخیر سرورهای زنده، یک نمای خارجی جدید برای خانه‌ها دیتاماین شده است: Spirited Grimtide Manse.",
-    "داخل این خانه دارای تم ترسناک است که شامل یک موجود شاخک‌دار شناور بر فراز سالن بزرگ می‌شود.",
-    "این نمای خارجی با سه فیکسچر جدید همراه است.",
-    {
-     "t": "h",
-     "x": "دکورهای جدید Grimtide"
-    },
-    "چندین مدل دکور خانه‌سازی جدید نیز رمزگشایی شده‌اند که همه آن‌ها تم Grimtide دارند.",
-    {
-     "t": "table",
-     "head": [
-      "نام",
-      "نوع",
-      "مکان قرارگیری",
-      "اندازه"
-     ],
-     "rows": [
-      [
-       "Grimtide Coffee Table",
-       "Furnishings - Tables and Desks",
-       "Indoors, Outdoors",
-       "Medium"
-      ],
-      [
-       "Grimtide Dining Chair",
-       "Furnishings - Seating",
-       "Indoors, Outdoors",
-       "Medium"
-      ],
-      [
-       "Grimtide Floor Hatch",
-       "Accents - Floor",
-       "Indoors, Outdoors",
-       "Medium"
-      ],
-      [
-       "Grimtide Rug",
-       "Accents - Floor",
-       "Indoors, Outdoors",
-       "Large"
-      ],
-      [
-       "Small Grimtide Rug",
-       "Accents - Floor",
-       "Indoors, Outdoors",
-       "Medium"
-      ],
-      [
-       "Grimtide Side Table",
-       "Furnishings - Tables and Desks",
-       "Indoors, Outdoors",
-       "Small"
-      ],
-      [
-       "Grimtide Display Anchor",
-       "Misc Accents",
-       "Indoors, Outdoors",
-       "Large"
-      ],
-      [
-       "Grimtide Enchanted Candles",
-       "Misc Lighting",
-       "Indoors, Outdoors",
-       "Tiny"
-      ]
-     ]
-    },
-    {
-     "t": "note",
-     "x": "همه این آیتم‌ها Shop Item هستند و در گسترش Midnight عرضه می‌شوند.",
-     "kind": "info"
-    },
-    "این تغییرات در خبر شماره ۳۸۳۵۹۸ منتشر شده است.",
-    "انتشار این آیتم‌ها در ۲۶ اکتبر اعلام شده است."
-   ],
-   "tags_fa": [
-    "خانه سازی",
-    "Grimtide",
-    "دکور",
-    "Midnight"
-   ],
-   "items": [],
-   "title_en": "New Grimtide Housing Exterior and Decor Datamined",
-   "source_url": "https://www.wowhead.com/news=383598",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383598-new-grimtide-housing-exterior-and-decor-datamined.html",
-   "published_at": "2026-10-26T23:24:18Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383598/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383598/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383597,
-   "slug": "racial-ability-tuning-pass-for-wow-forever",
-   "title_fa": "تنظیم نهایی توانایی‌های نژادی برای WoW: Forever",
-   "lead_fa": "بلیزارد تنظیمات نهایی توانایی‌های نژادی و ویژگی‌های غیرفعال را برای عرضه WoW: Forever اعلام کرد. این تغییرات بر اساس بازخورد بازیکنان انجام شده و بر حفظ هویت نژادی تمرکز دارد.",
-   "body_fa": [
-    "با نزدیک شدن به عرضه WoW: Forever، توسعه‌دهندگان به بازخوردهای دریافت‌شده درباره توانایی‌های نژادی توجه کرده‌اند. برخی بازیکنان ویژگی‌های جدید را بیش از حد عمومی می‌دانند و برخی دیگر نگران برتری بیش از حد تعدادی از آن‌ها هستند.",
-    "در این تنظیم نهایی، اولویت با هویت نژادی بوده و بنابراین برخی نژادها به طور طبیعی در نقش‌های رزمی خاص کمی مؤثرتر خواهند بود. در مواردی که توانایی‌های متمرکز بر نقش یا کلاس با ویژگی‌های عمومی جایگزین شده بودند، این تغییرات بازگردانده می‌شوند.",
-    "استثنا در این زمینه، توانایی‌های تخصص سلاح مانند Sword Specialization انسان‌ها یا Axe Specialization اورک‌ها است. این ویژگی‌ها هرچند فانتزی قوی دارند، اما در بلندمدت باعث می‌شوند جداول غنایم raid و dungeon بر اساس «سلاح‌های مورد نیاز» ارزیابی شوند که سالم نیست.",
-    "در کنار این موارد، تنظیماتی روی برخی bonuses غیرفعال باقی‌مانده اعمال شده تا تعادل حفظ شود و انتخاب بازیکنان محدود نشود. تغییرات برای Human شامل این موارد است: Ruthless حالا critical chance را ۱٪ افزایش می‌دهد (قبلاً ۲٪) و Human Spirit حالا Spirit را ۱۰٪ افزایش می‌دهد (قبلاً ۵٪).",
-    "برای Dwarf، Earth Fury با ۲٪ افزایش critical strike damage و healing حذف شد و Artisan’s Precision اضافه گردید که hit chance با spells و attacks را ۱٪ افزایش می‌دهد.",
-    "در Tauren، Plainsrunning حالا ۲٪ movement speed به ازای هر stack می‌دهد (قبلاً ۱٪) و حداکثر افزایش به ۶۰٪ می‌رسد (قبلاً ۳۰٪). این توانایی دیگر mounted movement speed را افزایش نمی‌دهد و Endurance فقط ۵٪ افزایش Health ارائه می‌کند. برای Orc، Savage با ۱٪ افزایش critical strike chance حذف شد و Command دوباره اضافه گردید که damage حیوانات خانگی Warlock و Hunter را ۵٪ افزایش می‌دهد.",
-    "در Skyborne، bonus Haste به ۲٪ کاهش یافت (قبلاً ۳٪). Read Leyline حالا Mana و Health regeneration را ۵۰٪ افزایش می‌دهد (قبلاً ۱۰۰٪) با مدت ۱۵ ثانیه و نمی‌تواند همزمان با Innervate فعال باشد. استفاده از آن در Ley Line حالت Attuned را برای ۱ ساعت اعطا می‌کند که regeneration را به ۱۰۰٪ می‌رساند و حتی پس از مرگ باقی می‌ماند.",
-    "Skysight حالا ۱۵٪ افزایش movement speed می‌دهد (قبلاً ۱۰٪) با مدت ۱۵ ثانیه. استفاده از آن در elemental convergence حالت Charged را برای ۱ ساعت اعطا می‌کند که movement speed را ۳۰٪ افزایش می‌دهد و حتی پس از مرگ باقی می‌ماند."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "تنظیم نژادی",
-    "هاتفیکس",
-    "تغییرات نژادی"
-   ],
-   "items": [],
-   "title_en": "Racial Ability Tuning Pass for WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383597",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383597-racial-ability-tuning-pass-for-wow-forever.html",
-   "published_at": "2026-10-26T20:38:14Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383597/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383597/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383595,
-   "slug": "meet-the-devs-at-wow-forever-poster-signing-limited-tickets-available-",
-   "title_fa": "امضای پوستر WoW: Forever با حضور دولوپرها در ۲ نوامبر",
-   "lead_fa": "بلیزارد رویداد WoW: Forever Poster Signing را برای ۲ نوامبر ۲۰۲۶ در Irvine Improv برگزار می‌کند و بلیت‌های رایگان آن از فردا در دسترس قرار می‌گیرد.",
-   "body_fa": [
-    "بلیزارد اعلام کرده که علاقه‌مندان می‌توانند در رویداد WoW: Forever Poster Signing دولوپرهای بازی را ملاقات کنند و همزمان با انتشار نزدیک WoW: Forever جشن بگیرند.",
-    "این رویداد در تاریخ ۲ نوامبر ۲۰۲۶ در Irvine Improv برگزار می‌شود. تعداد بلیت‌ها محدود است و حضور بدون بلیت امکان‌پذیر نخواهد بود.",
-    "بلیت‌های رایگان از سه‌شنبه ۲۷ اکتبر ساعت ۱۲:۰۰ به وقت PDT از طریق TIXR در دسترس قرار می‌گیرد. هر شرکت‌کننده باید بلیت خود را از قبل رزرو کند و QR کد معتبر داشته باشد.",
-    "شرکت‌کنندگان تشویق می‌شوند که در بازه زمانی مشخص‌شده زودتر حاضر شوند. ورود فقط با اسکن QR کد در چادر چک‌این خارج از محل برگزاری امکان‌پذیر است.",
-    "محل برگزاری Irvine Improv از امکانات ADA برخوردار است. برای اطلاعات بیشتر می‌توانید به صفحه رویداد مراجعه کنید. این جشن قرار است شلوغ و هیجان‌انگیز باشد."
-   ],
-   "tags_fa": [
-    "WoW: Forever",
-    "رویداد بلیزارد",
-    "امضای پوستر",
-    "Irvine Improv"
-   ],
-   "items": [],
-   "title_en": "Meet the Devs at WoW: Forever Poster Signing - Limited Tickets Available Now",
-   "source_url": "https://www.wowhead.com/news=383595",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383595-meet-the-devs-at-wow-forever-poster-signing-limited-tickets-available-.html",
-   "published_at": "2026-10-26T19:09:41Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383595/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383595/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383592,
-   "slug": "test-talebound-on-the-patch-12-1-7-ptr-this-friday",
-   "title_fa": "تست Talebound در PTR پچ ۱۲.۱.۷ این جمعه",
-   "lead_fa": "بلزارد تست Talebound را در PTR پچ ۱۲.۱.۷ روز جمعه برگزار می‌کند. برای شرکت در این تست نیازی به اشتراک نیست.",
-   "body_fa": [
-    "Talebound جدیدترین حالت مستقل بازی WoW است که در پچ ۱۲.۱.۷ عرضه می‌شود و گیم‌پلی Roguelite دارد. بازیکنان وارد دنیای Talebound شده و در داستان‌های Mysterious Storyteller به عنوان یکی از سه کلاس جدید شرکت می‌کنند.",
-    "در این دمو می‌توانید بخش Red Hollow Introduction را تجربه کنید. سه داستان ترسناک در سه سطح دشواری Normal، Veteran و Heroic در دسترس خواهد بود و هر سه کلاس Slayer، Inquisitor و Witch قابل بازی هستند.",
-    "زمان تست از ۳۰ اکتبر تا ۱ نوامبر است. سه داستان قابل بازی عبارتند از Darkhaven، Greenthistle Wood و Greywake's Expedition.",
-    "در Darkhaven با Konrad von Sonnesheim (Lord Marshal) و Alexandre Dozsenc (Blood Bishop) روبه‌رو می‌شوید؛ شهری که تنها بازمانده از طاعون ویرانگر است. Greenthistle Wood میزبان دو روستای Shady Hollow و Riverton و پر از جادوگر، غول و موجودات وحشی است. Greywake's Expedition داستان جزیره‌ای را روایت می‌کند که Zzyg'th (Hadal Tyrant) و Chathoa (Herald from Beyond) آن را به ویرانی کشانده‌اند.",
-    "تمام کلاس‌ها قابلیت double jump، dodge و guard دارند و حرکت و دفاع در مرکز گیم‌پلی قرار گرفته است. کلاس Slayer با شمشیر، شاتگان و توانایی‌هایی مانند Slash، Explosive Shot، Minefield، Shrapnel Round، Throwing Knives و Silver Bolt دشمنان را شکار می‌کند.",
-    "کلاس Inquisitor با توانایی‌های Purify، Condemn، Denounce، Light’s Wrath، Rapture و Radiant Burst بر پایه نور و آتش عمل می‌کند. کلاس Witch نیز با Brewing Storm، Bubbling Cauldron، Feline Communion، Winter Spiders، Moonlight Ravens و Thorns از جادوی تاریک، رعد و برق، سم و موجودات استفاده می‌کند.",
-    "مانند همیشه در تست‌های PTR، ممکن است تغییراتی اعمال شود. تعدادی از talents هنوز در حال توسعه هستند. در دمو شرکت کنید، ویژگی‌ها را امتحان کنید و نظرات خود را به اشتراک بگذارید."
-   ],
-   "tags_fa": [
-    "PTR",
-    "Talebound",
-    "۱۲.۱.۷",
-    "تست بلیزارد"
-   ],
-   "items": [],
-   "title_en": "Test Talebound on the Patch 12.1.7 PTR This Friday!",
-   "source_url": "https://www.wowhead.com/news=383592",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383592-test-talebound-on-the-patch-12-1-7-ptr-this-friday.html",
-   "published_at": "2026-10-26T18:01:31Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383592/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383592/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383589,
-   "slug": "watch-the-wow-forever-short-story-unbowed",
-   "title_fa": "داستان کوتاه WoW: Forever با عنوان Unbowed منتشر شد",
-   "lead_fa": "داستان کوتاه جدید World of Warcraft: Forever به نام Unbowed بر زندگی Cormack، عضو سابق Scarlet Crusader تمرکز دارد که اکنون به عنوان Forsaken زندگی می‌کند و با وجود مرده بودنش دست‌وپنجه نرم می‌کند.",
-   "body_fa": [
-    "Cormack که در زمان حیاتش عضو Scarlet Crusader بود، حالا به شکل Forsaken احضار شده و نمی‌تواند با وجود مرده‌اش کنار بیاید.",
-    "او با گذشته خود و باورهایی که روزگار او را شکل داده بود روبه‌رو می‌شود و در نهایت این پرسش برایش پیش می‌آید که آیا یک Forsaken هنوز می‌تواند به Light خدمت کند.",
-    "داستان «Unbowed» با روایت ویژه کنار آتش توسط Jesse Burch در نقش Cormack ارائه شده است.",
-    "این داستان کوتاه توسط Sean Copeland نوشته شده و نسخه PDF آن نیز قابل دانلود است.",
-    "برای خواندن داستان‌های بیشتر و دنبال کردن اخبار World of Warcraft می‌توانید به worldofwarcraft.blizzard.com/news مراجعه کنید."
-   ],
-   "tags_fa": [
-    "Forever",
-    "داستان کوتاه",
-    "Unbowed"
-   ],
-   "items": [],
-   "title_en": "Watch the WoW: Forever Short Story, “Unbowed”",
-   "source_url": "https://www.wowhead.com/news=383589",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383589-watch-the-wow-forever-short-story-unbowed.html",
-   "published_at": "2026-10-26T17:07:09Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383589/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383589/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383790,
-   "title_en": "Upcoming Pet Changes in WoW: Forever - Upcoming Class Tuning for November 10th",
-   "url": "https://www.wowhead.com/news=383790",
-   "category": "Forever",
-   "published_at": "2026-11-06T21:13:27Z"
-  },
   {
    "id": 383787,
    "title_en": "Raid Rewards and PvP Balance - Crix Interview on WoW: Forever",
@@ -2972,39 +3032,11 @@
    "published_at": "2026-11-06T18:34:57Z"
   },
   {
-   "id": 383784,
-   "title_en": "The Adventure Begins in WoW: Forever, Stay Connected with Discord, and Taldramir Takes Shape in WoW Weekly",
-   "url": "https://www.wowhead.com/news=383784",
-   "category": "WoW",
-   "published_at": "2026-11-06T18:31:23Z"
-  },
-  {
-   "id": 383783,
-   "title_en": "Ula'tek Nerfed on All Difficulties - Hotfixes Now Live",
-   "url": "https://www.wowhead.com/news=383783",
-   "category": "Live",
-   "published_at": "2026-11-06T18:17:07Z"
-  },
-  {
-   "id": 383782,
-   "title_en": "Major QoL Update to Popular Alliance Quest in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383782",
-   "category": "Forever",
-   "published_at": "2026-11-06T17:30:00Z"
-  },
-  {
    "id": 383772,
    "title_en": "New Battle.net Icons for WoW: Forever",
    "url": "https://www.wowhead.com/news=383772",
    "category": "Forever",
    "published_at": "2026-11-06T16:00:00Z"
-  },
-  {
-   "id": 383770,
-   "title_en": "Four New Key Art Pieces for WoW: Forever Launch",
-   "url": "https://www.wowhead.com/news=383770",
-   "category": "Forever",
-   "published_at": "2026-11-06T15:00:00Z"
   },
   {
    "id": 383768,
@@ -3229,6 +3261,41 @@
    "url": "https://www.wowhead.com/news=383712",
    "category": "Forever",
    "published_at": "2026-11-03T18:01:37Z"
+  },
+  {
+   "id": 383711,
+   "title_en": "Watch the World of Warcraft: Forever Launch Overview",
+   "url": "https://www.wowhead.com/news=383711",
+   "category": "Forever",
+   "published_at": "2026-11-03T17:39:57Z"
+  },
+  {
+   "id": 383710,
+   "title_en": "Shaman Classic Discord Closed in Protest of Shaman Changes in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383710",
+   "category": "WoW",
+   "published_at": "2026-11-03T17:23:13Z"
+  },
+  {
+   "id": 383692,
+   "title_en": "Bonus Experience and Extra Bags for Purchase on CN WoW: Forever Servers",
+   "url": "https://www.wowhead.com/news=383692",
+   "category": "Forever",
+   "published_at": "2026-11-03T16:00:00Z"
+  },
+  {
+   "id": 383693,
+   "title_en": "Complete Aqir Invasions Before Their Removal in 12.1.7 for Cheaper Rewards",
+   "url": "https://www.wowhead.com/news=383693",
+   "category": "Live",
+   "published_at": "2026-11-03T15:00:00Z"
+  },
+  {
+   "id": 383704,
+   "title_en": "WoW: Forever Official Development Notes and Class Tuning",
+   "url": "https://www.wowhead.com/news=383704",
+   "category": "Forever",
+   "published_at": "2026-11-03T03:51:28Z"
   }
  ]
 }
