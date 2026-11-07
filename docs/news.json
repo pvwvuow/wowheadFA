@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T03:14:06Z",
+ "generated": "2026-11-07T05:27:29Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -198,6 +198,57 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383786/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383785,
+   "slug": "shaman-talents-revisited-early-next-year-blizzard-addresses-shaman-cla",
+   "title_fa": "بررسی مجدد تلنت‌های Shaman در اوایل سال آینده میلادی",
+   "lead_fa": "بلیزارد در واکنش به بسته شدن دیسکورد Shaman Classic اعلام کرد که تلنت‌های این کلاس را در اوایل سال آینده بازنگری خواهد کرد.",
+   "body_fa": [
+    "پیش از عرضه WoW: Forever، سرور دیسکورد Shaman Classic در اعتراض به نحوه برخورد تیم توسعه با تمام تخصص‌های Shaman در WoW Forever بسته شد. در پی این ماجرا، Kris Zierhut در مصاحبه‌ای با Crix به این تصمیم واکنش نشان داد و دیدگاه‌های خود را درباره وضعیت کنونی این کلاس و برنامه‌های آینده مطرح کرد.",
+    {
+     "t": "quote",
+     "x": "فکر می‌کنم برخی از مشکلات آن‌ها منطقی است و برخی دیگر فقط به این خاطر است که از نداشتن Improved Ghost Wolf عصبانی هستند.",
+     "by": "Blizzard — Kris Zierhut"
+    },
+    {
+     "t": "h",
+     "x": "وضعیت تخصص‌های Enhancement و Elemental"
+    },
+    "تیم توسعه به طور ویژه تخصص Enhancement را زیر نظر دارد؛ زیرا شرایط به سمتی پیش رفته که بازیکنان بیش از حد به تجهیزات دارای Spell Power تمایل پیدا کرده‌اند.",
+    "در مورد تخصص Elemental نیز نظارت نزدیکی وجود دارد. به گفته زایرهوت، او تصمیم لحظه آخری گرفت چرا که شنیده بود بازیکنان به Lava Burst تمایلی ندارند و خواهان Chain Lightning قوی‌تری بودند، هرچند اعتراف می‌کند این موضوع شاید به کار بیشتری نیاز داشت.",
+    {
+     "t": "quote",
+     "x": "اگر در اوایل سال آینده میلادی کمی به تلنت‌های Shaman بازگردیم تعجب نخواهم کرد. این اتفاق زودتر از آن موعد نخواهد افتاد و در قالب یک پچ خواهد بود.",
+     "by": "Blizzard — Kris Zierhut"
+    },
+    {
+     "t": "note",
+     "x": "طبق اعلام تیم سازنده، با دریافت داده‌های مربوط به رید، تیونینگ‌هایی اعمال خواهد شد، اما بررسی تلنت‌های Shaman و Druid در اوایل سال آینده انجام می‌شود.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "کلاس Shaman",
+    "کلاس Druid",
+    "مصاحبه",
+    "WoW Forever"
+   ],
+   "items": [],
+   "title_en": "Shaman Talents Revisited Early Next Year - Blizzard Addresses Shaman Classic Discord Shutdown in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383785",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383785-shaman-talents-revisited-early-next-year-blizzard-addresses-shaman-cla.html",
+   "published_at": "2026-11-06T18:34:57Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383785/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383785/1.jpg",
      "cap": ""
     }
    ]
@@ -2987,41 +3038,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383591,
-   "slug": "ellesmereui-adds-fellowship-inspired-nameplate-kick-tracker",
-   "title_fa": "نام‌پلیت EllesmereUI حالا ترکر Interrupt Fellowship را دارد",
-   "lead_fa": "افزونه محبوب EllesmereUI ویژگی جدیدی دریافت کرده که ترکر Interrupt را مستقیماً روی نام‌پلیت نمایش می‌دهد و الهام‌گرفته از Fellowship است.",
-   "body_fa": [
-    "EllesmereUI یکی از افزونه‌های پرطرفدار World of Warcraft است که امکان شخصی‌سازی بخش‌های مختلف رابط کاربری را فراهم می‌کند. این افزونه ماژول‌های متعددی از جمله Cooldown Manager و چت‌فریم بازطراحی‌شده دارد و بازیکنان می‌توانند هر تعداد از آن‌ها را که بخواهند فعال کنند.",
-    "جدیدترین قابلیت اضافه‌شده به EllesmereUI، نام‌پلیت Kick Tracker است که Interruptهای بازیکنان را در کنار نام‌پلیت نمایش می‌دهد. وقتی بازیکنی با موفقیت یک Cast را Interrupt کند، جعبه‌ای در کنار نام‌پلیت موجود ظاهر می‌شود که توانایی استفاده‌شده و زمان باقی‌مانده تا Cooldown بعدی را نشان می‌دهد.",
-    "اگر چندین بازیکن یک Mob را Kick کنند، نام‌پلیت چندین Interrupt را به‌صورت کنار هم نمایش می‌دهد. وقتی Cooldown یکی از Interruptها تمام شود، به‌طور خودکار کنار نام‌پلیت حرکت می‌کند تا مشخص شود نوبت کیست که بعدی را Kick کند.",
-    "این ماژول امکان نمایش Cooldown Kick خودتان را پیش از اولین Interrupt هم دارد؛ این قابلیت با پیگیری Focus Kick Marker اختصاصی کار می‌کند و برای گروه‌های سازمان‌یافته بسیار مفید است.",
-    "EllesmereUI همچنان گزینه ترکینگ استاندارد Interrupt را هم ارائه می‌دهد برای کسانی که جعبه ساده‌تر را ترجیح می‌دهند. نکته مهم این است که این سیستم فقط پس از Interruptهای موفق کار می‌کند؛ این محدودیت مربوط به EllesmereUI نیست و به محدودیت‌های فعلی افزونه‌ها در World of Warcraft برمی‌گردد.",
-    "طبق اظهارات Blizzard، احتمالاً محدودیت‌های بیشتری برای Interrupt Trackerها در آینده اعمال خواهد شد."
-   ],
-   "tags_fa": [
-    "EllesmereUI",
-    "نام‌پلیت",
-    "Interrupt Tracker",
-    "Addon"
-   ],
-   "items": [],
-   "title_en": "EllesmereUI Adds Fellowship-Inspired Nameplate Kick Tracker",
-   "source_url": "https://www.wowhead.com/news=383591",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383591-ellesmereui-adds-fellowship-inspired-nameplate-kick-tracker.html",
-   "published_at": "2026-10-27T14:00:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383591/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383591/1.png",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3045,13 +3061,6 @@
    "url": "https://www.wowhead.com/news=383794",
    "category": "Forever",
    "published_at": "2026-11-07T01:07:50Z"
-  },
-  {
-   "id": 383785,
-   "title_en": "Shaman Talents Revisited Early Next Year - Blizzard Addresses Shaman Classic Discord Shutdown in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383785",
-   "category": "Forever",
-   "published_at": "2026-11-06T18:34:57Z"
   },
   {
    "id": 383772,
@@ -3304,6 +3313,13 @@
    "url": "https://www.wowhead.com/news=383692",
    "category": "Forever",
    "published_at": "2026-11-03T16:00:00Z"
+  },
+  {
+   "id": 383693,
+   "title_en": "Complete Aqir Invasions Before Their Removal in 12.1.7 for Cheaper Rewards",
+   "url": "https://www.wowhead.com/news=383693",
+   "category": "Live",
+   "published_at": "2026-11-03T15:00:00Z"
   }
  ]
 }
