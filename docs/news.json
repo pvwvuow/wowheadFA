@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T16:21:17Z",
+ "generated": "2026-11-07T16:22:36Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3201,6 +3201,13 @@
  ],
  "queue": [
   {
+   "id": 383781,
+   "title_en": "Black Market Auction House, Global Raid Launch, Quest Helpers - MrGM Interview on WoW: Forever",
+   "url": "https://www.wowhead.com/news=383781",
+   "category": "Forever",
+   "published_at": "2026-11-07T15:00:00Z"
+  },
+  {
    "id": 383772,
    "title_en": "New Battle.net Icons for WoW: Forever",
    "url": "https://www.wowhead.com/news=383772",
@@ -3472,13 +3479,6 @@
    "url": "https://www.wowhead.com/news=383657",
    "category": "Forever",
    "published_at": "2026-10-31T18:00:00Z"
-  },
-  {
-   "id": 383648,
-   "title_en": "The WoW: Forever Podcast Episode 6 Now Available - Tech and Community Building",
-   "url": "https://www.wowhead.com/news=383648",
-   "category": "Forever",
-   "published_at": "2026-10-29T16:27:09Z"
   }
  ]
 }
