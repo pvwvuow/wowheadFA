@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T01:40:36Z",
+ "generated": "2026-11-07T01:42:01Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -50,6 +50,68 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383790/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383787,
+   "slug": "raid-rewards-and-pvp-balance-crix-interview-on-wow-forever",
+   "title_fa": "مصاحبه تیم توسعه WoW: Forever درباره پاداش ریدها و تعادل PvP",
+   "lead_fa": "توسعه‌دهندگان WoW: Forever در گفت‌وگو با Crix از ساختار ست‌های رید، تغییرات کلاس‌ها و نحوه برقراری تعادل در مبارزات PvP گفتند.",
+   "body_fa": [
+    "در جریان مصاحبه اخیر Crix با Kris Zierhut و Tim Jones درباره پروژه WoW: Forever، جزئیات متعددی از برنامه‌های تیم توسعه برای ریدها، تعادل کلاس‌ها و سیستم‌های PvP مطرح شد.",
+    {
+     "t": "h",
+     "x": "پاداش‌ها و ساختار ریدها"
+    },
+    "قطعات Tier 1 Set میان هر ۳ رید تقسیم شده است و برای تکمیل کامل آن باید به هر سه رید بروید؛ با این حال اگر تنها در ریدهای 10 نفره شرکت کنید، بخش زیادی از جوایز را دریافت خواهید کرد. همچنین سطح آیتم‌ها (Item Level) در تمام درجه‌های سختی یکسان خواهد بود.",
+    "توسعه‌دهندگان اشاره کرده‌اند که اندازه رید سختی خود انکانترها را تغییر نمی‌دهد، بلکه سازمان‌دهی آن را برای لیدرها دشوارتر می‌کند؛ بنابراین اختصاص لوت بهتر به گروه‌های بزرگ‌تر منطقی نیست. برای حل معضل Class Stacking در گروه‌های 10 نفره، توتم‌های باف Shaman اکنون روی کل رید اثر می‌گذارند، مدت‌زمان تمام باف‌های رید به یک ساعت رسیده و تعداد Blessingهای موردنیاز نیز کاهش یافته است.",
+    {
+     "t": "h",
+     "x": "تغییرات کلاس‌های Shaman و Warlock"
+    },
+    "تیم توسعه وضعیت Enhancement Shaman را زیر نظر دارد تا بازیکنان بیش از حد به سمت آیتم‌های Spell Power کشیده نشوند و مانند Ret Paladinها ترکیبی از اسپل پاور، Strength و Intellect بپوشند، نه رداهای پارچه‌ای. در شاخه Elemental نیز تغییرات اعمال‌شده روی Lava Burst و Chain Lightning به زمان پخت بیشتری نیاز داشته است. بازنگری تلنت‌های Shaman و Druid برای اوایل سال آینده میلادی در دستور کار قرار دارد، هرچند پس از دریافت داده‌های رید تنظیمات زودهنگام اعمال خواهد شد.",
+    "میزان سلامت پت‌های Hunter و Warlock کاهش یافته است. در مقایسه با نسخه 1.15، اکنون اسکیلینگ متصل به استیت‌های بازیکن وجود دارد و آمار پت همگام با قوی‌تر شدن هیرو بالا می‌رود. با این وجود سلامت پت Voidwalker به دلیل گزارش‌ها بررسی خواهد شد و احتمال تنظیم توانایی Wrack برای وارلاک‌ها نیز مطرح است.",
+    {
+     "t": "h",
+     "x": "سختی ریدها و آپدیت‌های آینده"
+    },
+    {
+     "t": "quote",
+     "x": "طراحی Season of Discovery گامی بیش از حد بزرگ به سمت پیچیدگی انکانترهای مدرن بود. ما به دنبال پیچیدگی‌هایی در سطح Naxxramas در نسخه Era یا Season of Mastery هستیم.",
+     "by": "Blizzard — Kris Zierhut"
+    },
+    "نقشه راه شامل دو به‌روزرسانی محتوایی بزرگ با فاصله حدود چهار ماه از یکدیگر است که هرکدام یک رید 10 نفره و یک رید 20 نفره به همراه کوئست‌های جدید دارند. در ریدهای آینده مانند Barrow Deeps سه ورودی مختلف وجود دارد که بازیکنان پس از کشتن باس اول باید هر سه بال را پاکسازی کنند تا به بخش پایانی دسترسی یابند.",
+    {
+     "t": "h",
+     "x": "تعادل و تجهیزات در PvP"
+    },
+    "تمرکز اصلی تعادل بر محور بتل‌گراندها است تا نیازی به یکسان‌سازی کلاس‌ها برای نبردهای تک‌به‌تک نباشد. برای نمونه، تلنت ۳۱ امتیازی Frost Mage که آسیب فراست را بالا می‌برد قابل دیسپل خواهد بود تا در PvP ابزار مقابله داشته باشد.",
+    {
+     "t": "note",
+     "x": "آیتم‌های Honor به آسانی قابل دسترسی هستند، اما برای به دست آوردن گیرهای رنک بالاتر باید قطعات Honor را تحویل دهید و ارتقا دهید.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "مصاحبه",
+    "WoW Forever",
+    "رید",
+    "PvP"
+   ],
+   "items": [],
+   "title_en": "Raid Rewards and PvP Balance - Crix Interview on WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383787",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383787-raid-rewards-and-pvp-balance-crix-interview-on-wow-forever.html",
+   "published_at": "2026-11-06T20:52:14Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383787/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383787/1.jpg",
      "cap": ""
     }
    ]
@@ -2960,70 +3022,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383599,
-   "slug": "more-labyrinth-class-bug-fixes-patch-12-1-5-hotfixes-for-october-26th",
-   "title_fa": "رفع باگ‌های جدید برای کلاس‌ها و Labyrinth در هاتفیکس‌های ۲۶ اکتبر",
-   "lead_fa": "بلیزارد در هاتفیکس‌های ۲۶ اکتبر ۲۰۲۶ مجموعه‌ای از باگ‌های مربوط به کلاس‌ها، سناریوهای Labyrinth و رویداد Hallow's End را برطرف کرد.",
-   "body_fa": [
-    "شرکت Blizzard برای تاریخ ۲۶ اکتبر ۲۰۲۶ هاتفیکس‌های جدیدی منتشر کرده است که بخش عمدهٔ آن به برطرف کردن ایرادات فنی کلاس‌ها و سناریوهای Labyrinth اختصاص دارد.",
-    {
-     "t": "h",
-     "x": "تغییرات و رفع ایرادات کلاس‌ها"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "کلاس Shaman تخصص Enhancement: مشکلی که باعث می‌شد در صورت قرار داشتن Ula’tek به عنوان هدف اصلی، توانایی Voltaic Blaze به هدف‌های ثانویه اصابت نکند برطرف شد.",
-      "کلاس Warlock تخصص Affliction: مشکلی که در برخی مواقع مانع نمایش درست Summon Darkglare توسط Cooldown Manager می‌شد اصلاح گردید.",
-      "بخش Player versus Player برای کلاس Paladin تخصص Holy: باگی که هنگام اجرای Blessing of Protection باعث قرار گرفتن Cleanse در وضعیت Cooldown به دلیل Spreading the Word می‌شد رفع شد."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "تغییرات Labyrinth و رویداد Hallow's End"
-    },
-    "در رویداد Hallow's End و بخش Neighborhoods، از این پس با تصاحب Shade of Seabreaker Skoloth تنها یک صندوق ظاهر خواهد شد.",
-    {
-     "t": "ul",
-     "xs": [
-      "در سناریوی The Wandering، مشکلی که به دلیل ورود و خروج بازیکنان دیگر از محدودهٔ اتصال ارواح باعث توقف لحظه‌ای حرکت Remnant می‌شد حل شد.",
-      "در سناریوی Containment Breach، روشن کردن مجدد یک منقل Flame of Jan’alai دیگر دو بار برای هدف Flames Relit محاسبه نمی‌شود.",
-      "مشکلی که گاهی اوقات باعث تکمیل مکرر هدف امتیازی Come to Your Senses در خارج از سناریوی Encroaching Darkness می‌شد برطرف گردید."
-     ]
-    }
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "Labyrinth",
-    "تغییرات کلاس‌ها"
-   ],
-   "items": [],
-   "title_en": "More Labyrinth & Class Bug Fixes - Patch 12.1.5 Hotfixes for October 26th",
-   "source_url": "https://www.wowhead.com/news=383599",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383599-more-labyrinth-class-bug-fixes-patch-12-1-5-hotfixes-for-october-26th.html",
-   "published_at": "2026-10-27T03:22:27Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383599/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383599/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383787,
-   "title_en": "Raid Rewards and PvP Balance - Crix Interview on WoW: Forever",
-   "url": "https://www.wowhead.com/news=383787",
-   "category": "Forever",
-   "published_at": "2026-11-06T20:52:14Z"
-  },
   {
    "id": 383785,
    "title_en": "Shaman Talents Revisited Early Next Year - Blizzard Addresses Shaman Classic Discord Shutdown in WoW: Forever",
@@ -3296,6 +3297,13 @@
    "url": "https://www.wowhead.com/news=383704",
    "category": "Forever",
    "published_at": "2026-11-03T03:51:28Z"
+  },
+  {
+   "id": 383702,
+   "title_en": "Hunter Class Buffs on WoW: Forever",
+   "url": "https://www.wowhead.com/news=383702",
+   "category": "Forever",
+   "published_at": "2026-11-03T01:33:01Z"
   }
  ]
 }
