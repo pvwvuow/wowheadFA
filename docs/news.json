@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T01:42:01Z",
+ "generated": "2026-11-07T02:04:04Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3026,6 +3026,20 @@
  ],
  "queue": [
   {
+   "id": 383795,
+   "title_en": "Venomous Abyss Raid Hotfixes Now Live - Patch 12.1.5 Hotfixes for November 6",
+   "url": "https://www.wowhead.com/news=383795",
+   "category": "Live",
+   "published_at": "2026-11-07T01:22:17Z"
+  },
+  {
+   "id": 383794,
+   "title_en": "Many Class, Dungeon and Quest Fixes - WoW: Forever Hotfixes for November 6th",
+   "url": "https://www.wowhead.com/news=383794",
+   "category": "Forever",
+   "published_at": "2026-11-07T01:07:50Z"
+  },
+  {
    "id": 383785,
    "title_en": "Shaman Talents Revisited Early Next Year - Blizzard Addresses Shaman Classic Discord Shutdown in WoW: Forever",
    "url": "https://www.wowhead.com/news=383785",
@@ -3290,20 +3304,6 @@
    "url": "https://www.wowhead.com/news=383693",
    "category": "Live",
    "published_at": "2026-11-03T15:00:00Z"
-  },
-  {
-   "id": 383704,
-   "title_en": "WoW: Forever Official Development Notes and Class Tuning",
-   "url": "https://www.wowhead.com/news=383704",
-   "category": "Forever",
-   "published_at": "2026-11-03T03:51:28Z"
-  },
-  {
-   "id": 383702,
-   "title_en": "Hunter Class Buffs on WoW: Forever",
-   "url": "https://www.wowhead.com/news=383702",
-   "category": "Forever",
-   "published_at": "2026-11-03T01:33:01Z"
   }
  ]
 }
