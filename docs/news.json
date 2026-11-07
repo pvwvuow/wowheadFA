@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T05:27:29Z",
+ "generated": "2026-11-07T05:28:58Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3042,6 +3042,13 @@
  ],
  "queue": [
   {
+   "id": 383798,
+   "title_en": "WoW: Forever Makes History with Biggest Launch Ever!",
+   "url": "https://www.wowhead.com/news=383798",
+   "category": "Forever",
+   "published_at": "2026-11-07T04:18:40Z"
+  },
+  {
    "id": 383797,
    "title_en": "World First Level 60s in WoW: Forever in Less Than Three Days",
    "url": "https://www.wowhead.com/news=383797",
@@ -3313,13 +3320,6 @@
    "url": "https://www.wowhead.com/news=383692",
    "category": "Forever",
    "published_at": "2026-11-03T16:00:00Z"
-  },
-  {
-   "id": 383693,
-   "title_en": "Complete Aqir Invasions Before Their Removal in 12.1.7 for Cheaper Rewards",
-   "url": "https://www.wowhead.com/news=383693",
-   "category": "Live",
-   "published_at": "2026-11-03T15:00:00Z"
   }
  ]
 }
