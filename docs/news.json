@@ -1,8 +1,93 @@
 {
- "generated": "2026-11-07T21:32:06Z",
+ "generated": "2026-11-07T22:44:34Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383803,
+   "slug": "quests-give-no-gold-at-level-60-in-wow-forever-intentional-change-acco",
+   "title_fa": "حذف پاداش Gold از کوئست‌ها در لول 60 سرورهای WoW: Forever",
+   "lead_fa": "کوئست‌ها در لول 60 سرور WoW: Forever پاداش Gold نمی‌دهند و طبق ادعای Jokerd، این موضوع یک تغییر عمدی از سوی سازندگان است.",
+   "body_fa": [
+    "بازیکن Jokerd که روز گذشته موفق شد به World First لول 60 در سرور WoW: Forever دست پیدا کند، متوجه شده است که کوئست‌ها در بالاترین لول هیچ پاداش Gold اعطا نمی‌کنند.",
+    "در سرورهای Era معمولاً کوئست‌ها در لول نهایی به‌جای Experience، مقدار مشخصی Gold اضافی به بازیکنان می‌دهند؛ اما به نظر می‌رسد این روند در WoW: Forever دستخوش تغییر شده است.",
+    "به گفته Jokerd، او با یکی از توسعه‌دهندگان WoW پیام ردوبدل کرده و او پاسخ داده که این تصمیم عمدی بوده است. همچنین اشاره شده که ممکن است در عوض، یک کوئست Weekly وجود داشته باشد که مقدار تصادفی Gold ارائه دهد.",
+    {
+     "t": "note",
+     "x": "شرکت Blizzard هنوز به‌صورت رسمی درباره این سازوکار یا تغییرات آن بیانیه‌ای صادر نکرده است.",
+     "kind": "info"
+    },
+    "تغییرات اخیر از قبیل اصلاح کارمزد ثبت آیتم‌ها در Auction House و افزودن فروشندگان BMAH که سقفی غیررسمی برای قیمت برخی Reagentها تعیین می‌کنند، نشان می‌دهد Blizzard در پی کنترل اقتصاد بازی است. با این حال تا زمانی که بازیکنان بیشتری به لول 60 نرسند و محتوای Endgame را تجربه نکنند، تأثیر دقیق این ساختار بر گردش اقتصادی مشخص نخواهد شد."
+   ],
+   "tags_fa": [
+    "اقتصاد بازی",
+    "کوئست",
+    "WoW: Forever"
+   ],
+   "items": [],
+   "title_en": "Quests Give No Gold at Level 60 in WoW: Forever - \"Intentional Change\" According to Jokerd",
+   "source_url": "https://www.wowhead.com/news=383803",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383803-quests-give-no-gold-at-level-60-in-wow-forever-intentional-change-acco.html",
+   "published_at": "2026-11-07T20:19:50Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383803/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383803/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383796,
+   "slug": "gms-appeared-in-person-to-celebrate-the-launch-of-wow-forever",
+   "title_fa": "حضور شخصیت‌های GM در بازی به مناسبت عرضه WoW: Forever",
+   "lead_fa": "شخصیت‌های GM پس از سال‌ها برای جشن گرفتن عرضه WoW: Forever مستقیماً در دنیای بازی حاضر شدند و با بازیکنان تعامل داشتند.",
+   "body_fa": [
+    "برای نخستین بار پس از سال‌ها، بازیکنان توانستند شخصیت‌های GM را به صورت زنده در دنیای بازی مشاهده کنند. تعداد زیادی از آن‌ها هم‌زمان با آغاز رسمی WoW: Forever در مناطق مختلف حاضر شدند تا این رویداد را جشن بگیرند.",
+    {
+     "t": "h",
+     "x": "محل حضور و جزئیات جالب درباره GMها"
+    },
+    "بر اساس گزارش‌ها، دیشب حداقل دو بار حضور این شخصیت‌ها در Thunder Bluff به تأیید رسید و دست‌کم در یک منطقه متعلق به Alliance نیز دیده شدند. این اتفاق نشان می‌دهد که Blizzard نیز مانند جامعه بازیکنان برای این عرضه هیجان‌زده است.",
+    {
+     "t": "ul",
+     "xs": [
+      "نام خانوادگی تمامی این شخصیت‌ها Snowstorm بود که ادای احترامی کنایه‌آمیز به شرکت Blizzard به شمار می‌رود.",
+      "تمام شخصیت‌های حاضر برای بازیکنان جوک تعریف می‌کردند.",
+      "حداقل دو رویت تأییدشده در Thunder Bluff و دست‌کم یک مورد در مناطق Alliance ثبت شد."
+     ]
+    },
+    "آخرین باری که شخصیت‌های GM در تعداد بالا داخل دنیای بازی دیده شده بودند، به زمان عرضه Classic Anniversary بازمی‌گردد و از آن زمان تاکنون چنین رخدادی فوق‌العاده نادر یا حتی ناموجود بوده است. در دوران Vanilla معمول بود که یک GM برای پاسخ به تیکت یا شوخی با بازیکنان در محیط بازی حاضر شود، اما این روال با گذشت زمان تقریباً به طور کامل متوقف شد.",
+    {
+     "t": "note",
+     "x": "هنوز مشخص نیست که آیا این حضور یک رویداد یک‌باره بوده یا اینکه در نسخه Forever بیش از نسخه‌های پیشین Classic شاهد حضور شخصیت‌های GM خواهیم بود.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "بازی WoW Forever",
+    "حضور GM",
+    "جامعه بازیکنان"
+   ],
+   "items": [],
+   "title_en": "GMs Appeared In-Person to Celebrate the Launch of WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383796",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383796-gms-appeared-in-person-to-celebrate-the-launch-of-wow-forever.html",
+   "published_at": "2026-11-07T19:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383796/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383796/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383798,
    "slug": "wow-forever-makes-history-with-biggest-launch-ever",
@@ -3174,122 +3259,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383619,
-   "slug": "warlords-of-draenor-timewalking-week-now-live",
-   "title_fa": "هفته تایم‌واکینگ Warlords of Draenor اکنون فعال است",
-   "lead_fa": "هفته تایم‌واکینگ Warlords of Draenor اکنون برای این هفته فعال شده است و بازیکنان می‌توانند با اجرای دانجن‌ها، Timewarped Badge به دست آورند.",
-   "body_fa": [
-    "تایم‌واکینگ Warlords of Draenor شامل شش دانجن است که بازیکنان می‌توانند آن‌ها را اجرا کنند تا Gear و Timewarped Badge کسب نمایند.",
-    {
-     "t": "ul",
-     "xs": [
-      "Auchindoun: 5 Timewarped Badge",
-      "Bloodmaul Slag Mines: 5 Timewarped Badge",
-      "The Everbloom: 5 Timewarped Badge required bosses, 5 Timewarped Badge full run",
-      "Grimrail Depot: 5 Timewarped Badge",
-      "Shadowmoon Burial Grounds: 5 Timewarped Badge",
-      "Skyreach: 5 Timewarped Badge"
-     ]
-    },
-    "در پایان دانجن اول، آیتمی لوت می‌شود که ۵۰۰ Timewarped Badge اعطا می‌کند. این آیتم را می‌توان به Tempra و Kronnus تحویل داد.",
-    {
-     "t": "table",
-     "head": [
-      "مکان",
-      "مختصات"
-     ],
-     "rows": [
-      [
-       "#622",
-       "37.2 72.6"
-      ],
-      [
-       "#624",
-       "42.8 54.6"
-      ]
-     ]
-    },
-    "سه مونت با استفاده از Timewarped Badge قابل خرید هستند.",
-    {
-     "t": "note",
-     "x": "برای فهرست کامل پاداش‌ها، راهنمای Warlords of Draenor Timewalking را بررسی کنید.",
-     "kind": "info"
-    },
-    "این رویداد فرصت مناسبی برای کسب Gear و جمع‌آوری Badges است."
-   ],
-   "tags_fa": [
-    "تایم‌واکینگ",
-    "Warlords of Draenor",
-    "دانجن"
-   ],
-   "items": [],
-   "title_en": "Warlords of Draenor Timewalking Week Now Live",
-   "source_url": "https://www.wowhead.com/news=383619",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383619-warlords-of-draenor-timewalking-week-now-live.html",
-   "published_at": "2026-10-28T14:00:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383619/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383619/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383618,
-   "slug": "name-reservations-included-overly-restrictive-name-check-but-fix-incom",
-   "title_fa": "نام‌های رزرو شده در WoW: Forever با محدودیت بیش از حد مواجه بودند",
-   "lead_fa": "بلیزارد اعلام کرد که بررسی نام در رزروهای امروز WoW: Forever بیش از حد محدودکننده بوده و رفع این مشکل با ریستارت سرورها انجام می‌شود.",
-   "body_fa": [
-    "در WoW: Forever تیم در حال کار روی لیست نام‌های محدودشده است. این لیست برای بررسی نام‌هایی به کار می‌رود که غیر توهین‌آمیز هستند اما به دلایل فنی یا به خاطر شخصیت‌های مهم لور Warcraft محدود شده‌اند.",
-    "امروز مشخص شد که باگی در این فرآیند وجود دارد که باعث شده بازی در برخی نام‌ها بیش از حد سخت‌گیرانه عمل کند.",
-    "برای مثال، نام‌هایی که حاوی «c-o-n» هستند به اشتباه محدود می‌شدند.",
-    "با ریستارت بعدی سرورها در هر منطقه، این رفع باگ اعمال خواهد شد.",
-    "پس از اعمال رفع باگ، اگر قبلاً برای نامی که فکر می‌کنید باید مجاز باشد پیام «That name is restricted» دریافت کرده‌اید، می‌توانید دوباره امتحان کنید."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "نام رزرو",
-    "رفع باگ",
-    "نام محدود"
-   ],
-   "items": [],
-   "title_en": "Name Reservations Included Overly Restrictive Name Check But Fix Incoming",
-   "source_url": "https://www.wowhead.com/news=383618",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383618-name-reservations-included-overly-restrictive-name-check-but-fix-incom.html",
-   "published_at": "2026-10-28T01:30:05Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383618/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383618/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383803,
-   "title_en": "Quests Give No Gold at Level 60 in WoW: Forever - \"Intentional Change\" According to Jokerd",
-   "url": "https://www.wowhead.com/news=383803",
-   "category": "Forever",
-   "published_at": "2026-11-07T20:19:50Z"
-  },
-  {
-   "id": 383796,
-   "title_en": "GMs Appeared In-Person to Celebrate the Launch of WoW: Forever",
-   "url": "https://www.wowhead.com/news=383796",
-   "category": "Forever",
-   "published_at": "2026-11-07T19:00:00Z"
-  },
   {
    "id": 383781,
    "title_en": "Black Market Auction House, Global Raid Launch, Quest Helpers - MrGM Interview on WoW: Forever",
@@ -3555,6 +3527,20 @@
    "url": "https://www.wowhead.com/news=383630",
    "category": "Forever",
    "published_at": "2026-10-28T16:38:15Z"
+  },
+  {
+   "id": 383603,
+   "title_en": "Myth 2/6 Piece of Loot Now Available from Labyrinths",
+   "url": "https://www.wowhead.com/news=383603",
+   "category": "Live",
+   "published_at": "2026-10-27T22:58:35Z"
+  },
+  {
+   "id": 383573,
+   "title_en": "Blizzard Hints The WoW: Forever Podcast Will Continue",
+   "url": "https://www.wowhead.com/news=383573",
+   "category": "Forever",
+   "published_at": "2026-10-26T15:00:00Z"
   }
  ]
 }
