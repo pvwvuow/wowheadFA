@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T18:21:27Z",
+ "generated": "2026-11-07T19:47:41Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3308,6 +3308,13 @@
  ],
  "queue": [
   {
+   "id": 383796,
+   "title_en": "GMs Appeared In-Person to Celebrate the Launch of WoW: Forever",
+   "url": "https://www.wowhead.com/news=383796",
+   "category": "Forever",
+   "published_at": "2026-11-07T19:00:00Z"
+  },
+  {
    "id": 383781,
    "title_en": "Black Market Auction House, Global Raid Launch, Quest Helpers - MrGM Interview on WoW: Forever",
    "url": "https://www.wowhead.com/news=383781",
@@ -3579,13 +3586,6 @@
    "url": "https://www.wowhead.com/news=383630",
    "category": "Forever",
    "published_at": "2026-10-28T16:38:15Z"
-  },
-  {
-   "id": 383603,
-   "title_en": "Myth 2/6 Piece of Loot Now Available from Labyrinths",
-   "url": "https://www.wowhead.com/news=383603",
-   "category": "Live",
-   "published_at": "2026-10-27T22:58:35Z"
   }
  ]
 }
