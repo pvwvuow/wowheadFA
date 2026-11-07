@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T02:52:28Z",
+ "generated": "2026-11-07T03:14:06Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3026,6 +3026,13 @@
  ],
  "queue": [
   {
+   "id": 383797,
+   "title_en": "World First Level 60s in WoW: Forever in Less Than Three Days",
+   "url": "https://www.wowhead.com/news=383797",
+   "category": "Forever",
+   "published_at": "2026-11-07T03:11:19Z"
+  },
+  {
    "id": 383795,
    "title_en": "Venomous Abyss Raid Hotfixes Now Live - Patch 12.1.5 Hotfixes for November 6",
    "url": "https://www.wowhead.com/news=383795",
@@ -3297,13 +3304,6 @@
    "url": "https://www.wowhead.com/news=383692",
    "category": "Forever",
    "published_at": "2026-11-03T16:00:00Z"
-  },
-  {
-   "id": 383693,
-   "title_en": "Complete Aqir Invasions Before Their Removal in 12.1.7 for Cheaper Rewards",
-   "url": "https://www.wowhead.com/news=383693",
-   "category": "Live",
-   "published_at": "2026-11-03T15:00:00Z"
   }
  ]
 }
