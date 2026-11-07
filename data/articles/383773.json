@@ -123,5 +123,35 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383773/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 2,
- "hold_at": "2026-11-07T17:03:41Z"
+ "hold_at": "2026-11-07T17:03:41Z",
+ "last_rejected": {
+  "title_fa": "کاهش سختی نبرد Twin Fangs در درجه سختی Mythic",
+  "lead_fa": "چند روز پس از ریست هفتگی، نبرد Twin Fangs روی سرورهای زنده تضعیف شد و جریمه از دست دادن اینتراپت کاهش یافت.",
+  "body_fa": [
+   "چند روز پس از ریست هفتگی، هات‌فیکس‌های تازه‌ای روی سرورهای زنده اعمال شد که سختی نبرد Twin Fangs را در درجه سختی Mythic کاهش می‌دهد. این تغییرات مشخصاً جریمهٔ از دست دادن یک اینتراپت روی اددهای Broodlings of Ithraz را سبک‌تر کرده است.",
+   "پیش از این، متوقف نکردن کست تقریباً همیشه به مرگ کل گروه ختم می‌شد؛ هرچند با قوی‌تر شدن بازیکنان از طریق تجهیزات و باف افزایشی رید، هیل کردن یک استک از این DoT ممکن شده بود. با اعمال ۴۰٪ نرف مستقیم روی آسیب اولیه و آسیب دوره‌ای، جبران یک کست ازدست‌رفته اکنون کاملاً قابل هیل کردن است.",
+   {
+    "t": "h",
+    "x": "جزئیات تغییرات توانایی Visceral Burst"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "کاهش ۴۰٪ در میزان آسیب توانایی Visceral Burst",
+     "آسیب اولیه اکنون ۳۷۵k است",
+     "آسیب افزوده برابر با ۱۲۵k در هر ثانیه به مدت ۶ ثانیه"
+    ]
+   },
+   {
+    "t": "note",
+    "x": "این اددها تا زمانی که با موفقیت اینتراپت نشوند به کست کردن متوالی ادامه می‌دهند؛ بنابراین در صورت از دست رفتن کست اول، قطعاً باید کست دوم را اینتراپت کنید.",
+    "kind": "warn"
+   }
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "Mythic",
+   "رید"
+  ]
+ }
 }

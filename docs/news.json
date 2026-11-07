@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T22:44:34Z",
+ "generated": "2026-11-07T23:58:23Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -84,6 +84,82 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383796/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383781,
+   "slug": "black-market-auction-house-global-raid-launch-quest-helpers-mrgm-inter",
+   "title_fa": "جزئیات مصاحبه جدید سازندگان درباره WoW: Forever، از سیستم‌های مدرن تا ریدها",
+   "lead_fa": "در گفت‌وگوی تازه سازندگان WoW: Forever، جزئیاتی پیرامون زمان عرضه ریدها، اضافه شدن قابلیت‌های راهنمای کوئست، اقتصاد بازی و Black Market Auction House به اشتراک گذاشته شد.",
+   "body_fa": [
+    "در یک مصاحبه جدید با حضور Kris Zierhut و Josh Greenfield، ابعاد مختلفی از ساختار گیم‌پلی، خطوط داستانی و ویژگی‌های اقتصادی در بازی مورد بحث قرار گرفت. اقتصاد و سیستم Black Market Auction House",
+    "توسعه‌دهندگان اشاره کردند که در یک بازی MMO، بازیکنان حکم دستگاه‌های چاپ پول متحرک را دارند و برای جلوگیری از تورم در طول زمان، باید راه‌هایی برای خرج کردن گلد وجود داشته باشد. سیستم Black Market Auction House برای عرضه اقلامی در نظر گرفته شده که بازیکنان حاضر به صرف طلا برای آن‌ها هستند.",
+    {
+     "t": "ul",
+     "xs": [
+      "عرضه اقلام در زمان انتشار به شکل محتاطانه خواهد بود و تنها شامل چند Mount و Pet می‌شود.",
+      "اقلامی مانند تکه‌های Dungeon Set برای تکمیل ماموریت Lord Valthalak Laid to Rest و کلاه Gandling در این بخش قرار می‌گیرند.",
+      "فروشنده مجزایی برای منابع کمیاب مانند Black Lotus ایجاد شده تا سقفی برای قیمت‌ها تعیین کند.",
+      "آیتم Rivendare's Deathcharger دیگر در BMAH حضور ندارد و NPCهای این بخش نیز ارجاعی به Madam Goya هستند."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "زمان‌بندی و درجه سختی ریدها"
+    },
+    "طبق اعلام انجام‌شده، عرضه جهانی ریدها در تاریخ ۹ دسامبر خواهد بود. سازندگان ترجیح می‌دهند پیچیدگی باس‌ها تا سطح ادان‌های پیشرفته بالا نرود و ایده یک بازی به نسبت ساده با امکان آماده‌سازی بالا و در عین حال تنبیه‌کننده را حفظ کنند.",
+    {
+     "t": "quote",
+     "x": "مبارزات آن‌قدر طولانی خواهند بود که بتوانید از کول‌داون‌های خود چندین بار استفاده کنید. مبارزات ۴۵ ثانیه‌ای در ریدها نخواهیم داشت. سطح سختی به اندازه ریدهای Mythic در Retail نیست، اما از آنچه بازیکنان در Classic عادت دارند طولانی‌تر است.",
+     "by": "Blizzard"
+    },
+    "سختی مبارزات به طور کلی در حد باس‌های Naxxramas هدف‌گذاری شده است (سخت‌تر از Molten Core، اما نه به اندازه Four Horsemen). دانجن Barrow Deeps نیز فضایی بیشتر شبیه Karazhan دارد تا UBRS، و بازیکنان پس از چند هفته یا ماه قادر خواهند بود آن را با گروه‌های Pug بروند.",
+    {
+     "t": "h",
+     "x": "نقشه‌ها و ساختار محیطی"
+    },
+    "تیم بازی تاکید کرد که برنامه‌ای برای اضافه کردن مانت‌های پرنده به این بازی وجود ندارد؛ با این حال، طراحی محیط‌ها و نقشه‌ها به گونه‌ای انجام می‌شود که گویی امکان پرواز وجود دارد تا خلأهای خالی در دنیای بازی به چشم نخورد. همچنین منطقه Gilneas در حال حاضر نسخه Cataclysm است اما پس از رفتن بازیکنان به آنجا برنامه‌های زیادی برایش در نظر گرفته شده است.",
+    {
+     "t": "h",
+     "x": "قابلیت‌های مدرن و راهنمای کوئست‌ها"
+    },
+    "به منظور کاهش وابستگی به ادان‌هایی مثل Questie، راهنماهای سبک‌تری برای کوئست‌ها در رابط کاربری تعبیه شده است. سازندگان خطوط قرمز مشخصی را برای محتوایی که نباید افزوده شود تعیین کرده‌اند:",
+    {
+     "t": "ul",
+     "xs": [
+      "عدم افزودن Flying Mounts",
+      "عدم وجود Rated Arenas",
+      "نبود Shared Mob Tagging",
+      "حذف نشانگرهای جهت‌یابی مسیر موجود در Retail به دلیل عمودی نبودن زیاد محیط‌های Classic"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "هر باس شانس کمی برای دراپ آیتم‌های Chase با آیتم‌لول بالاتر خواهد داشت و علاوه بر مواردی مانند Dragonspine Trophy، یک Staff افسانه‌ای (Legendary) جدید نیز رونمایی شده است.",
+     "kind": "info"
+    },
+    "تیم بازی همچنین اطلاعات آیتم‌ها را رمزگذاری کرده تا تا پیش از پیدا شدن توسط بازیکنان ارسال نشود. برای اهداف پایداری سرورها یک PTR عمومی وجود خواهد داشت، اما احتمالاً ریدها روی آن تست نخواهند شد تا هیجان کشف دسته‌بندی کلاس‌ها و لوت دست‌نخورده باقی بماند."
+   ],
+   "tags_fa": [
+    "مصاحبه",
+    "WoW Forever",
+    "رید",
+    "BMAH"
+   ],
+   "items": [],
+   "title_en": "Black Market Auction House, Global Raid Launch, Quest Helpers - MrGM Interview on WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383781",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383781-black-market-auction-house-global-raid-launch-quest-helpers-mrgm-inter.html",
+   "published_at": "2026-11-07T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383781/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383781/1.jpg",
      "cap": ""
     }
    ]
@@ -791,6 +867,46 @@
    ]
   },
   {
+   "id": 383772,
+   "slug": "new-battle-net-icons-for-wow-forever",
+   "title_fa": "آیکون‌های جدید WoW: Forever به لانچر Battle.net اضافه شدند",
+   "lead_fa": "مجموعه‌ای از آیکون‌های جدید نمایه برگرفته از WoW: Forever به بخش شخصی‌سازی حساب کاربری در لانچر Battle.net راه پیدا کرده است.",
+   "body_fa": [
+    "در لانچر Battle.net گزینه‌های تازه‌ای برای تصویر پروفایل کاربران قرار گرفته است که مستقیماً به آرت‌ها و کاراکترهای WoW: Forever مربوط می‌شوند.",
+    {
+     "t": "h",
+     "x": "آیکون‌های جدید و نحوه انتخاب آن‌ها"
+    },
+    "بازیکنان می‌توانند با کلیک روی آیکون فعلی خود در لانچر، فهرست تصاویر را بر اساس بازی‌ها فیلتر کرده و گزینه‌های مرتبط با WoW: Forever را برگزینند.",
+    "در مجموع ۴ آیکون جدید در دسترس قرار دارد که شخصیت‌های Undead Paladin و Dwarf Shaman و همچنین کاراکتر Skyborne از Key art این عنوان را به نمایش می‌گذارند.",
+    {
+     "t": "note",
+     "x": "این موارد در تاریخ 2026-11-06 (ساعت 10:00:00-06:00) تحت شناسه پست 383772 منتشر شدند و در بخش نظرات پچ 1.60.1 و در میان 11 دیدگاه ثبت‌شده، بازیکنان به مواردی مثل آیکون Skyborne اشاره کرده‌اند. در حواشی اخبار این بازه، هاتفیکس‌های 6 November و تغییرات تاریخ 10 نوامبر و گزارش‌های 12، 13، 15، 16، 17، 18، 19، 20، 21، 22 و 26 ساعت قبل در کنار ویدیو 91 و سطح 60 با کد 68 ثبت شده بودند.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "Battle.net",
+    "WoW Forever",
+    "آیکون پروفایل"
+   ],
+   "items": [],
+   "title_en": "New Battle.net Icons for WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383772",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383772-new-battle-net-icons-for-wow-forever.html",
+   "published_at": "2026-11-06T16:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383772/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383772/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383770,
    "slug": "four-new-key-art-pieces-for-wow-forever-launch",
    "title_fa": "انتشار چهار تصویر هنری کلیدی به مناسبت عرضه WoW: Forever",
@@ -904,6 +1020,79 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383778/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383777,
+   "slug": "renamed-tortollan-npcs-and-venomous-abyss-tuning-patch-12-1-5-hotfixes",
+   "title_fa": "تغییر نام NPCهای Tortollan و تیونینگ دانجن The Venomous Abyss",
+   "lead_fa": "بلیزارد در قالب هاتفیکس‌های جدید، نام برخی NPCهای Tortollan را تغییر داد و تغییرات متعددی را روی دانجن The Venomous Abyss و دِلو Shadowguard Point اعمال کرد.",
+   "body_fa": [
+    "بلیزارد مجموعه‌ای از هاتفیکس‌ها را منتشر کرده است که بر اساس آن، نام برخی از NPCهای نژاد Tortollan به‌روزرسانی شده است. در انکانتر Lost Explorers واقع در The Venomous Abyss، نام این شخصیت‌ها اکنون شامل Epu (قبلاً Iku)، Nema (قبلاً Nama) و Gebbo است. این تغییرات مشکلاتی را در World of Warcraft: Midnight، Mists of Pandaria Classic، Season of Discovery، Burning Crusade Classic، WoW Classic Era و Hardcore هدف قرار داده‌اند که بخشی از آن‌ها بلافاصله و بخشی پس از ری‌استارت Realmها اعمال می‌شوند.",
+    {
+     "t": "h",
+     "x": "موجودات و ان‌پی‌سی‌ها"
+    },
+    "نام چندین ان‌پی‌سی Tortollan به‌روزرسانی شده است.",
+    {
+     "t": "h",
+     "x": "دلوها (Delves)"
+    },
+    "در Delve با نام Shadowguard Point و در حالت «Basilisk Blitz»، مشکلی برطرف شده که در آن خروج از دِلو هنگام جابه‌جایی میان Waygateها می‌توانست ظاهر بازیکن را تغییر دهد و او را در برابر نیروهای دوست به وضعیت Hostile دربیاورد.",
+    {
+     "t": "h",
+     "x": "دانجن The Venomous Abyss"
+    },
+    "تغییرات قابل‌توجهی برای بخش‌های مختلف دانجن The Venomous Abyss اعمال شده است:",
+    {
+     "t": "ul",
+     "xs": [
+      "در بخش Entombed Sentinels، بیشینه اندازه (Scale) حوضچه‌های Blood Venom در درجه‌های سختی Heroic و Mythic کاهش یافت. همچنین مدت‌زمان ماندگاری حوضچه‌های Blood Venom در درجه سختی Mythic به ۲ دقیقه کاهش یافت (قبلاً ۵ دقیقه بود).",
+      "در مبارزه Twin Fangs، میزان Damage توانایی Visceral Burst در درجه سختی Mythic به میزان ۴۰٪ کاهش یافت."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "بخش The Coiled Altar"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "سرعت جابه‌جایی Axegrinder در تمامی درجه‌های سختی به میزان 20% کاهش یافت.",
+      "میزان Damage واردشده توسط Axegrinder در درجه سختی Mythic به میزان 20% کاهش یافت.",
+      "میزان Damage ناشی از Gloombomb در درجه سختی Mythic به میزان 20% کاهش یافت.",
+      "میزان Damage توانایی Venom Rupture در درجه سختی Mythic به میزان ۱۵٪ کاهش پیدا کرد.",
+      "میزان Damage اسپل Malevolent Resonance به میزان ۶۰٪ کاهش یافت.",
+      "مدت‌زمان بقای Gravebound Soul Fragments در درجه سختی Mythic قبل از ناپدید شدن، ۲ ثانیه افزایش یافت.",
+      "تعداد Spiteful Soulcoilerهایی که از اسپل Spiritcackle در درجه سختی Mythic ظاهر می‌شوند، به ۱ عدد کاهش یافت (قبلاً ۲ عدد بود)."
+     ]
+    },
+    {
+     "t": "quote",
+     "x": "با این تغییر، ظاهر شدن Soulcoilerها مشابه نحوه اسپاون شدن آن‌ها در درجه سختی Heroic خواهد بود.",
+     "by": "یادداشت سازندگان (Developers' notes)"
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "دانجن",
+    "Midnight",
+    "تیونینگ"
+   ],
+   "items": [],
+   "title_en": "Renamed Tortollan NPCs and Venomous Abyss Tuning - Patch 12.1.5 Hotfixes",
+   "source_url": "https://www.wowhead.com/news=383777",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383777-renamed-tortollan-npcs-and-venomous-abyss-tuning-patch-12-1-5-hotfixes.html",
+   "published_at": "2026-11-06T02:16:07Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383777/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383777/1.jpg",
      "cap": ""
     }
    ]
@@ -3116,179 +3305,15 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383637,
-   "slug": "retail-team-discussing-lighting-and-water-improvements-from-wow-foreve",
-   "title_fa": "تیم Retail در حال بررسی بهبودهای نورپردازی و آب از WoW: Forever",
-   "lead_fa": "کریس زیرهات در مصاحبه با IGN تأیید کرد که تیم Retail WoW درباره بهبودهای نورپردازی و آب معرفی‌شده در WoW: Forever بحث می‌کند.",
-   "body_fa": [
-    "WoW: Forever که در BlizzCon 2026 معرفی شد، شامل بهبودهای گرافیکی متعددی در زمینه سایه‌ها، نورپردازی و آب است.",
-    "از آنجا که این عنوان بر پایه کلاینت مدرن WoW ساخته شده، بسیاری از بازیکنان پرسیده بودند آیا این تغییرات فقط برای Forever خواهد بود یا به نسخه Retail هم می‌رسد.",
-    "کریس زیرهات در پاسخ به سؤال IGN گفت: «فکر می‌کنم اینجا اول ساخته شدند.» او تأکید کرد که این ویژگی‌ها انحصاری Forever نیستند.",
-    "به گفته او، بهبودهای بهتر آب و نورپردازی برای Retail هم در راه است و تیم Retail درباره اجرای آن‌ها صحبت می‌کند، هرچند زمان دقیق آن مشخص نیست.",
-    "بسیاری از بازیکنان از شنیدن این خبر که نسخه مدرن WoW نیز قرار است این بهبودهای گرافیکی را دریافت کند، خوشحال خواهند شد."
-   ],
-   "tags_fa": [
-    "WoW: Forever",
-    "بهبود گرافیکی",
-    "Retail",
-    "نورپردازی"
-   ],
-   "items": [],
-   "title_en": "Retail Team Discussing Lighting and Water Improvements from WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383637",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383637-retail-team-discussing-lighting-and-water-improvements-from-wow-foreve.html",
-   "published_at": "2026-10-28T19:30:38Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383637/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383637/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383632,
-   "slug": "new-player-s-starter-guide-for-world-of-warcraft-forever",
-   "title_fa": "راهنمای جامع بلیزارد برای بازیکنان تازه‌وارد در World of Warcraft: Forever",
-   "lead_fa": "بلیزارد راهنمای رسمی جدیدی برای شروع کار بازیکنان در World of Warcraft: Forever منتشر کرد که مراحل اولیه، انتخاب قوانین بازی و اصول ماجراجویی را پوشش می‌دهد.",
-   "body_fa": [
-    "بلیزارد یک راهنمای شروع برای بازیکنان تازه‌وارد در World of Warcraft: Forever منتشر کرده است. این راهنما فرایند نصب بازی، انتخاب قوانین یا همان Ruleset، ساخت نخستین کاراکتر و نکات مهم برای گشت‌وگذار در آزروت را به بازیکنان توضیح می‌دهد.",
-    {
-     "t": "h",
-     "x": "پیش‌نیازها و پیش‌تنظیمات رابط کاربری"
-    },
-    "برای آغاز، بازیکنان به یک حساب کاربری Battle.net نیاز دارند و دسترسی به بازی با داشتن اشتراک فعال World of Warcraft یا Game Time فراهم می‌شود. نسخه بازی باید روی رایانه‌های ویندوز یا مک نصب شود؛ همچنین قابلیت پشتیبانی از دسته‌های بازی به‌صورت نسخه بتا در دسترس است. در نخستین ورود به بازی، صفحه‌ای برای انتخاب سبک تجربه کاربری یا همان Experience Preset پیش روی شما قرار می‌گیرد:",
-    {
-     "t": "ul",
-     "xs": [
-      "حالت Classic: ظاهری سنتی‌تر با مدل‌های استاندارد، غیرفعال بودن Transmog، کیف‌های جداگانه (One-bag خاموش)، غیرفعال بودن نشانه‌های ماموریت روی نقشه و رابط کاربری کلاسیک.",
-      "حالت Enhanced: جلوه‌های به‌روزشده با مدل‌های دارای کیفیت بالا (High Definition)، سیستم یکپارچه کیف‌ها (One-bag روشن)، نمایش نشانه‌ها و نقاط ماموریت، Transmog فعال و چیدمان متمرکز صفحه."
-     ]
-    },
-    {
-     "t": "note",
-     "x": "اگر در انتخاب میان گزینه‌ها مردد هستید، حالت پیش‌فرض پیشنهادی Enhanced است. این تنظیمات اولیه را می‌توانید بعداً از طریق منوی Options در Game Menu تغییر دهید (کد بخش 62).",
-     "kind": "tip"
-    },
-    {
-     "t": "h",
-     "x": "انتخاب Ruleset و ساخت شخصیت"
-    },
-    "پیش از ساخت شخصیت باید یک Ruleset انتخاب کنید که نوع درگیری بازیکن در برابر بازیکن (PvP) و تعاملات را مشخص می‌کند. در زمان لانچ گزینه‌های Normal، PvP، Roleplay و Roleplay-PvP در دسترس هستند؛ در حالی که حالت چالش‌برانگیز Hardcore در آینده اضافه خواهد شد. کاراکترها تنها با هم‌گروهی‌ها در همان سرور و جناح (Alliance یا Horde) امکان بازی مشترک در دانجن‌ها و ریدها را دارند.",
-    "نژاد جدید Skyborne با خرید بسته Heroic Pack یا ارتقاهای بالاتر باز می‌شود و ماجراجویی خود را از منطقه Zephras Isle در بازه لول ۱ تا ۱۲ آغاز می‌کند. اعضای این نژاد در جناح هورد به کلاس Shaman و در جناح الاینس به کلاس Mage دسترسی دارند. همچنین سیستم نام‌گذاری در بازی بر پایه دو نام اصلی و ثانویه است که ترکیب آن در سراسر ریجن منحصر‌به‌فرد خواهد بود.",
-    {
-     "t": "h",
-     "x": "مبارزات، مرگ و بازگشت به زندگی"
-    },
-    "توانایی‌های کاراکتر با فشردن کلید P در Spellbook قابل مشاهده است و می‌توان آن‌ها را درون Action Bar چید. با پیشرفت لول باید به مربی کلاس مراجعه کرد. در صورت مرگ، کاراکتر به نزدیک‌ترین گورستان منتقل می‌شود؛ برای زنده‌شدن می‌توان به سمت جسد رفت یا با Spirit Healer صحبت کرد که گزینه دوم به دوام تجهیزات آسیب زده و اثر منفی Resurrection Sickness اعمال می‌کند.",
-    {
-     "t": "h",
-     "x": "مدیریت آیتم‌ها و مشاغل"
-    },
-    "تجهیزات به‌دست‌آمده از ماموریت‌ها یا دشمنان در پنل کاراکتر (کلید C) مشاهده و تعویض می‌شوند. آیتم‌هایی که رنگ نام آن‌ها خاکستری است ارزش کاربردی ندارند و بدون نگرانی به فروشندگان فروخته می‌شوند. با فشردن کلید K نیز پنجره مشاغل باز می‌شود؛ هر کاراکتر امکان یادگیری دو شغل اصلی (مانند Herbalism، Mining، Skinning برای جمع‌آوری، یا کارهایی چون Alchemy، Blacksmithing، Tailoring و غیره برای ساخت‌وساز) و هر سه شغل ثانویه Cooking، Fishing و First Aid را دارد.",
-    {
-     "t": "h",
-     "x": "پنج توصیه نهایی برای ماجراجویان"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "توضیحات (Tooltip) توانایی‌ها و متن ماموریت‌ها را با دقت مطالعه کنید.",
-      "سنگ بازگشت (Hearthstone) را همراه داشته باشید و با سر زدن به مسئولان پرواز، مسیرهای هوایی را باز کنید.",
-      "تجهیزات خود را تعمیر کرده و آیتم‌های اضافه را برای پس‌انداز بفروشید.",
-      "در ماموریت‌های سخت از دیگر بازیکنان کمک بگیرید.",
-      "اگر از کلاس خود رضایت نداشتید، کلاسی دیگر را امتحان کنید."
-     ]
-    }
-   ],
-   "tags_fa": [
-    "راهنمای بازی",
-    "بلیزارد",
-    "کلاسیک",
-    "آموزش"
-   ],
-   "items": [],
-   "title_en": "New Player’s Starter Guide for World of Warcraft: Forever",
-   "source_url": "https://www.wowhead.com/news=383632",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383632-new-player-s-starter-guide-for-world-of-warcraft-forever.html",
-   "published_at": "2026-10-28T17:05:34Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383632/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383632/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383593,
-   "slug": "new-cabin-themed-shop-decor-discovered-in-patch-12-1-7",
-   "title_fa": "دکوراسیون جدید با تم کلبه در PTR نسخه ۱۲.۱.۷ کشف شد",
-   "lead_fa": "دکوراسیون جدیدی که از فروشگاه بازی می‌آید در PTR نسخه ۱۲.۱.۷ پیدا شده و تم زمستانی و دنج کلبه را دارد.",
-   "body_fa": [
-    "این مجموعه دکوراسیون cozy cabin-themed به نظر می‌رسد برای رویداد تعطیلات آماده شده باشد ولی در حال حاضر هیچ نشانه‌ای از تم‌های خارجی همراه آن وجود ندارد.",
-    "بازیکنان احتمالاً بیشتر از همه به بخش string lights علاقه‌مند خواهند شد.",
-    "این نوع چراغ‌ها در زندگی واقعی هم برای تزیین خانه بسیار محبوب هستند و به همین دلیل ممکن است در طراحی خانه‌های درون بازی هم به قطعات پراستفاده تبدیل شوند."
-   ],
-   "tags_fa": [
-    "PTR",
-    "دکوراسیون",
-    "۱۲.۱.۷",
-    "کلبه"
-   ],
-   "items": [],
-   "title_en": "New Cabin-Themed Shop Decor Discovered in Patch 12.1.7",
-   "source_url": "https://www.wowhead.com/news=383593",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383593-new-cabin-themed-shop-decor-discovered-in-patch-12-1-7.html",
-   "published_at": "2026-10-28T15:00:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383593/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383593/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383781,
-   "title_en": "Black Market Auction House, Global Raid Launch, Quest Helpers - MrGM Interview on WoW: Forever",
-   "url": "https://www.wowhead.com/news=383781",
-   "category": "Forever",
-   "published_at": "2026-11-07T15:00:00Z"
-  },
-  {
-   "id": 383772,
-   "title_en": "New Battle.net Icons for WoW: Forever",
-   "url": "https://www.wowhead.com/news=383772",
-   "category": "Forever",
-   "published_at": "2026-11-06T16:00:00Z"
-  },
   {
    "id": 383768,
    "title_en": "Every Quest for Dungeons up to Level 20 in WoW: Forever",
    "url": "https://www.wowhead.com/news=383768",
    "category": "Forever",
    "published_at": "2026-11-06T14:00:00Z"
-  },
-  {
-   "id": 383777,
-   "title_en": "Renamed Tortollan NPCs and Venomous Abyss Tuning - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383777",
-   "category": "Live",
-   "published_at": "2026-11-06T02:16:07Z"
   },
   {
    "id": 383776,
@@ -3541,6 +3566,27 @@
    "url": "https://www.wowhead.com/news=383573",
    "category": "Forever",
    "published_at": "2026-10-26T15:00:00Z"
+  },
+  {
+   "id": 383570,
+   "title_en": "Den of Nalorakk and Murder Row Bug Fixes - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383570",
+   "category": "Live",
+   "published_at": "2026-10-24T00:23:57Z"
+  },
+  {
+   "id": 383561,
+   "title_en": "This Week's WoW Recap - WoW: Forever, Hallow's End, Fall Savings",
+   "url": "https://www.wowhead.com/news=383561",
+   "category": "WoW",
+   "published_at": "2026-10-23T17:25:01Z"
+  },
+  {
+   "id": 383547,
+   "title_en": "Who is WoW: Forever Meant For? Blizzard Discusses on Forever Podcast",
+   "url": "https://www.wowhead.com/news=383547",
+   "category": "Forever",
+   "published_at": "2026-10-23T14:00:00Z"
   }
  ]
 }

@@ -385,5 +385,96 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383768/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 2,
- "hold_at": "2026-11-07T18:56:24Z"
+ "hold_at": "2026-11-07T18:56:24Z",
+ "last_rejected": {
+  "title_fa": "راهنمای تمام کوئست‌های دانجن تا لول ۲۰ در سرور WoW: Forever",
+  "lead_fa": "در سرور WoW: Forever میزان XP دریافتی از کشتن ماب‌ها در دانجن کاهش یافته و در عوض پاداش کوئست‌های دانجن به میزان قابل توجهی بیشتر شده است. به همین دلیل جمع‌آوری مأموریت‌های هر دانجن برای لول‌آپ الزامی است.",
+  "body_fa": [
+   "دانجن‌ها منبع فوق‌العاده‌ای برای کسب تجربه هستند، اما تنها در صورتی که کوئست‌های مربوط به آن‌ها را در اختیار داشته باشید. در سرور WoW: Forever، میزان Experience پایه حاصل از کشتن ماب‌ها نرف شده و در مقابل، Experience حاصل از تکمیل دانجن کوئست‌ها با باف همراه بوده است. اگر بدون مأموریت وارد دانجن شوید، بخش اعظم تجربه ممکن را از دست خواهید داد. بسیاری از این مأموریت‌ها قابلیت Share درون پارتی دارند.",
+   {
+    "t": "h",
+    "x": "دانجن Ragefire Chasm"
+   },
+   "درجه سختی این دانجن به ترتیب Hard: Level 9 و Medium: Level 12 و At Level: Level 14 و Easy: Level 19 مشخص شده است.",
+   {
+    "t": "ul",
+    "xs": [
+     "کوئست Slaying the Beast در لول 9 از Neeru Fireblade در Orgrimmar, The Drag مختصات /way 49 50",
+     "کوئست The Power to Destroy... در لول 9 از Varimathras در Undercity, Royal Quarter مختصات /way 56 92",
+     "کوئست Testing an Enemy's Strength در لول 9 از Rahauro در Thunder Bluff, Elder Rise مختصات /way 70 30",
+     "کوئست Searching for the Lost Satchel در لول 9 از Rahauro در Thunder Bluff, Elder Rise مختصات /way 70 30",
+     "کوئست Returning the Lost Satchel در لول 9 که آیتم دراپ Grimtotem Satchel از Maur Grimtotem داخل دانجن است",
+     "زنجیره Hidden Enemies در لول 9 از Thrall در Orgrimmar, Valley of Wisdom مختصات /way 31 37 که نیازمند تکمیل ۳ کوئست پیش‌نیاز است"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "دانجن The Hall of Thanes"
+   },
+   "سطوح سختی به صورت Hard: Level 11 و Medium: Level 13 و At Level: Level 14 و Easy: Level 19 رده‌بندی شده است.",
+   {
+    "t": "ul",
+    "xs": [
+     "کوئست Important Heirlooms در لول 10 از Thom Filch در Ironforge, Old Ironforge مختصات /way 32.6 44.6",
+     "کوئست The Restless Dead در لول 10 از Afadra Dunwall در Ironforge, Old Ironforge مختصات /way 64.8 58.4",
+     "کوئست Old Ironforge Incursion در لول 9 از Earthseer Farsen در Dun Morogh, Gol'Golar Quarry مختصات /way 64.8 58.4 همراه با پیش‌نیاز آیتم Underground Map از Dark Iron Map",
+     "کوئست The Treaty of Understanding در لول 9 از طریق Interactable Item در The Hall of Thanes واقع در Reliquary of Kings درون Vault",
+     "کوئست An Ancient Grudge در لول 10 از Ghostly Attendant در Anvilmar's Rest درون The Hall of Thanes"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "دانجن The Ruins of Lordaeron"
+   },
+   "سختی این دانجن شامل Hard: Level 15 و Medium: Level 17 و At Level: Level 18 و Easy: Level 24 است.",
+   {
+    "t": "ul",
+    "xs": [
+     "کوئست The Wrath of Rath'mael در لول 15 از Rear Guard Patrol Deathguard Linnea در Tirisfal Glades مختصات /way 65.6 60.2",
+     "کوئست A Frightened Request در لول 15 از Tabitha Heartweaver در Silverpine Forest, The Sepulcher مختصات /way 44.6 42.8",
+     "کوئست Light's Justice در لول 15 از Morbin Lightbane در Undercity, The Apothecarium مختصات /way 57.8 89.8",
+     "کوئست The New Plague در لول 15 با پیش‌نیاز A Recipe For Death از Apothecary Renferrel در Silverpine Forest مختصات /way 42.8 40.8",
+     "کوئست Unending Torment در لول 16 از لوت The Baron در King's Alley دانجن",
+     "کوئست مخفی Secret Quest: Crest of Lordaeron/Crest of Lordaeron در لول 14 از طریق Interactable Item در نقاط مختلف دانجن",
+     "کوئست Abominable Creatures در لول 16 از Captain Truman در ورودی دانجن",
+     "کوئست Bloodied Insignia در لول 16 که دراپ ماب‌های Undead در دانجن است",
+     "کوئست Remember That I Love You در لول 15 از طریق Interactable Item در نزدیکی Rath'mael"
+    ]
+   },
+   "دانجن Wailing Caverns سطوح این دانجن شامل Hard: Level 15 و Medium: Level 17 و At Level: Level 19 و Easy: Level 24 است.",
+   {
+    "t": "ul",
+    "xs": [
+     "کوئست Serpentbloom در لول 14 از Apothecary Zamah در Thunder Bluff, Pools of Vision مختصات /way 34 21",
+     "کوئست Smart Drinks در لول 13 از Mebok Mizzyrix در The Barrens, Ratchet مختصات /way 62 37 با پیش‌نیاز کوئست Raptor Horns از همان NPC",
+     "کوئست Trouble at the Docks در لول 14 از Crane Operator Bigglefuzz در The Barrens, Ratchet مختصات /way 63 37",
+     "کوئست Deviate Hides در لول 13 از Nalpak بالای ورودی دانجن مختصات /way 46 35",
+     "کوئست Deviate Eradication در لول 15 از Ebru بالای ورودی دانجن مختصات /way 46 35",
+     "کوئست The Glowing Shard در لول 10 به عنوان دراپ Mutanus the Devourer درون دانجن",
+     "کوئست Leaders of the Fang در لول 15 از Nara Wildmane در Thunder Bluff, Elder Rise مختصات /way 45 23 با پیش‌نیاز تکمیل ۵ کوئست که با The Forgotten Pools از Tonga Runetotem در Crossroads آغاز می‌شود"
+    ]
+   },
+   "دانجن The Deadmines سختی این دانجن شامل Hard: Level 14 و Medium: Level 17 و At Level: Level 19 و Easy: Level 24 است.",
+   {
+    "t": "ul",
+    "xs": [
+     "کوئست Collecting Memories در لول 14 از Wilder Thistlenettle در Stormwind, Dwarven District مختصات /way 65 21",
+     "کوئست Oh Brother... در لول 15 از Wilder Thistlenettle در مختصات /way 65 21",
+     "کوئست Underground Assault در لول 15 از Shoni the Shilent در مختصات /way 55 13",
+     "کوئست The Unsent Letter در لول 16 دراپ از Edwin VanCleef که پیش‌نیاز The Stockade Riots است",
+     "کوئست Red Silk Bandanas در لول 14 از Scout Riell در Westfall, Sentinel Hill مختصات /way 56 47 با پیش‌نیاز ۶ کوئست از Gryan Stoutmantle",
+     "کوئست The Defias Brotherhood در لول 14 از Gryan Stoutmantle در مختصات /way 56 47 با همان پیش‌نیازها",
+     "کوئست Destruction in Deadmines در لول 14 انتهای زنجیره‌ای که با Testing the Wells از Alba Fairmoon در مختصات /way 52.6 53.2 آغاز می‌شود",
+     "کوئست مخصوص Paladin به نام The Test of Righteousness در لول 20 از Jordan Stilwell در دروازه ورودی Ironforge مختصات /way 52 36 با پیش‌نیاز زنجیره Tome of Valor بر اساس نژاد",
+     "کوئست معادل هورد برای Paladin به نام A Moon-Kissed Blade در لول 20 از Lumina Windsinger در دخمه Silverpine Forest مختصات /way 43 40 که از Bandarion Keep در Tirisfal Glades شروع می‌شود"
+    ]
+   }
+  ],
+  "tags_fa": [
+   "دانجن",
+   "لول آپ",
+   "Forever",
+   "راهنما"
+  ]
+ }
 }
