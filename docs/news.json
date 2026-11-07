@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T18:21:27Z",
+ "generated": "2026-11-07T20:20:35Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1082,6 +1082,56 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383769/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383691,
+   "slug": "the-weekly-reset-with-taliesin-and-evitel-forever-forever-talebound-an",
+   "title_fa": "برنامه The Weekly Reset با موضوع WoW: Forever و Talebound",
+   "lead_fa": "در قسمت جدید برنامه The Weekly Reset، موضوعاتی چون عرضه WoW: Forever، تفاوت‌های آن با نسخه Retail و جزئیات Talebound بررسی شده است.",
+   "body_fa": [
+    "در قسمت اخیر برنامه The Weekly Reset، تالیسین و اویتل (Taliesin and Evitel) به بررسی اخبار جدید و مباحث مرتبط با بازی پرداخته‌اند. محور اصلی این برنامه بررسی شرایط WoW: Forever، مسیر پیش‌روی آن و نحوه تمایز آن با نسخه Retail است.",
+    "عنوان World of Warcraft Forever در همین هفته منتشر می‌شود و در این برنامه درباره چشم‌انداز بازی در ۱ سال، ۵ سال یا ۱۰ سال آینده، سیستم پیشرفت افقی (horizontal progression)، اکسپنشن‌ها و نژادهای قابل بازی بحث شده است. همچنین اشاره کوتاهی به Midnight و Talebound نیز صورت گرفت.",
+    {
+     "t": "h",
+     "x": "موضوعات مطرح‌شده در این قسمت"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "برنامه Planet Azeroth: قسمت اول با حضور Bill Bailey",
+      "برنامه Planet Azeroth: قسمت دوم با حضور Bill Bailey",
+      "قسمت ششم پادکست The WoW: Forever Podcast که هم‌اکنون در دسترس است",
+      "محدودیت‌های سخت‌گیرانه در سیستم رزرو نام (Name Reservations) و تأیید رفع این مشکل در آینده نزدیک",
+      "پاداش‌های قدرت کاراکتر در بخش End-Game مربوط به Talebound",
+      "پیش‌نمایش Decor برای پچ 12.1.7"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "مخاطبان می‌توانند از طریق توییچ برای استریم‌های روزهای کاری، یوتیوب، توییتر، وب‌سایت اختصاصی و صفحه پاتریون، برنامه‌های Taliesin and Evitel را دنبال کنند.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "The Weekly Reset",
+    "Talebound",
+    "پچ 12.1.7"
+   ],
+   "items": [],
+   "title_en": "The Weekly Reset with Taliesin and Evitel: Forever Forever? Talebound and More",
+   "source_url": "https://www.wowhead.com/news=383691",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383691-the-weekly-reset-with-taliesin-and-evitel-forever-forever-talebound-an.html",
+   "published_at": "2026-11-05T17:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383691/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383691/1.jpg",
      "cap": ""
     }
    ]
@@ -3223,87 +3273,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383617,
-   "slug": "class-tuning-and-bug-fixes-patch-12-1-5-hotfixes-for-october-27th",
-   "title_fa": "تیونینگ کلاس‌ها و رفع باگ‌ها - هاتفیکس‌های ۱۲.۱.۵ در ۲۷ اکتبر",
-   "lead_fa": "بلزارد امروز هاتفیکس‌هایی منتشر کرده که شامل تغییرات تیونینگ کلاس‌ها و رفع مشکلی است که باعث می‌شد سناریوهای Labyrinth اعتبار Great Vault را اعطا نکنند.",
-   "body_fa": [
-    "این هاتفیکس‌ها در تاریخ ۲۷ اکتبر ۲۰۲۶ اعمال می‌شوند و تمرکز اصلی روی تنظیم عملکرد کلاس‌ها در PvE و PvP است. تغییرات کلاس‌ها در PvE درخت Feral دروئید: تمام آسیب واردشده ۵٪ افزایش می‌یابد. این تغییر PvP را تحت تأثیر قرار نمی‌دهد. درخت Restoration دروئید: طبق یادداشت توسعه‌دهندگان، این تغییرات برای کمک به Druid Restoration در مقابله با آسیب انفجاری در دانجن‌ها طراحی شده‌اند، زیرا نسبت به سایر هیلرها عقب هستند. عملکرد آن‌ها در رید خوب است، بنابراین استعدادها و توانایی‌هایی هدف قرار گرفته‌اند که در گروه ۵ نفره بیشتر استفاده می‌شوند.",
-    {
-     "t": "ul",
-     "xs": [
-      "Verdancy healing ۶۰٪ افزایش می‌یابد. PvP را تحت تأثیر قرار نمی‌دهد.",
-      "Regrowth healing ۱۰٪ افزایش می‌یابد. PvP را تحت تأثیر قرار نمی‌دهد.",
-      "Improved Swiftmend افزایش healing Swiftmend را به ۴۰٪ (از ۳۰٪) می‌رساند. PvP را تحت تأثیر قرار نمی‌دهد."
-     ]
-    },
-    "شکارچی Marksmanship: طبق یادداشت توسعه‌دهندگان، این تغییرات برای بهبود آسیب منطقه‌ای Marksmanship Hunters طراحی شده‌اند. Trick Shots اکنون آسیب ricochet از Aimed Shot و Rapid Fire را ۸۵٪ (از ۷۵٪) افزایش می‌دهد. Explosive Shot damage ۱۰٪ افزایش می‌یابد. Volley damage ۱۰٪ افزایش می‌یابد.",
-    "Mage Fire: تمام آسیب واردشده ۵٪ افزایش می‌یابد. این تغییر PvP را تحت تأثیر قرار نمی‌دهد. Monk Mistweaver: مشکلی رفع شد که باعث می‌شد talent Mistline گاهی lowest health target را به درستی heal نکند. علاوه بر این، تغییرات پچ به Trickster بیشتر از Deathstalker سود رسانده، بنابراین Trickster nerf کوچک‌تری دریافت می‌کند.",
-    {
-     "t": "ul",
-     "xs": [
-      "تمام ability damage ۸٪ کاهش می‌یابد.",
-      "Trickster: Fazed اکنون damage را ۵٪ (از ۷٪) افزایش می‌دهد."
-     ]
-    },
-    "Warlock Affliction: Unstable Affliction damage ۲۰٪ افزایش می‌یابد. PvP را تحت تأثیر قرار نمی‌دهد. Warlock Destruction: Rain of Fire damage ۲۰٪ افزایش می‌یابد. تغییرات آیتم‌ها و محتوا مشکل رفع شد که باعث می‌شد tabardها مجموعه زره Rexxar را مخفی کنند. مشکل Labyrinth رفع شد که باعث می‌شد برخی سناریوها اعتبار Great Vault اعطا نکنند. تغییرات PvP Death Knight Unholy: طبق یادداشت توسعه‌دهندگان، تنظیمات قبلی San’layn viability آن را افزایش داد اما تأثیر Vampiric Strike بیشتر از حد مطلوب بوده است. San’layn: Vampiric Strike damage در PvP ۲۰٪ کاهش می‌یابد. Demon Hunter: Devourer Collapsing Star damage در PvP ۲۰٪ افزایش می‌یابد. Evoker Preservation:",
-    {
-     "t": "ul",
-     "xs": [
-      "Chronowarden: Chronal Dynamo افزایش healing و damage Living Flame را به ۸۰٪ (از ۵۰٪) در PvP می‌رساند وقتی instant cast نیست.",
-      "Chronowarden: Reverberations اکنون Verdant Embrace را باعث heal اضافی ۸۰٪ طی ۸ ثانیه در PvP می‌کند (از ۴۰٪)."
-     ]
-    },
-    "Hunter Marksmanship: Kill Shot damage در PvP ۴۰٪ افزایش می‌یابد. Deathblow’s chance فعال‌سازی توسط Aimed Shot به ۲۵٪ در PvP افزایش می‌یابد. Dark Ranger: Black Arrow damage در PvP ۴۰٪ افزایش می‌یابد. Mage Fire: طبق یادداشت توسعه‌دهندگان، Fire Mage همچنان overperform می‌کند، بنابراین overall damage آن کاهش می‌یابد. تمام damage در PvP ۵٪ کاهش می‌یابد. Mage Frost: طبق یادداشت توسعه‌دهندگان، Frostfire گزینه رقابتی برای Frost Mages در این فصل نبوده، بنابراین برخی جنبه‌های burst damage آن افزایش می‌یابد.",
-    {
-     "t": "ul",
-     "xs": [
-      "Frostfire: Isothermic Core’s Meteor damage در PvP ۲۰٪ افزایش می‌یابد.",
-      "Frostfire: Duality’s Pyroblast damage در PvP ۲۰٪ افزایش می‌یابد."
-     ]
-    },
-    "Monk Mistweaver: طبق یادداشت توسعه‌دهندگان، Conduit of the Celestials گزینه رقابتی برای Mistweavers در این فصل نبوده، بنابراین consistent و burst healing آن افزایش می‌یابد.",
-    {
-     "t": "ul",
-     "xs": [
-      "Conduit of the Celestials: Celestial Conduit healing در PvP ۳۵٪ افزایش می‌یابد.",
-      "Conduit of the Celestials: Strength of the Black Ox absorb در PvP ۲۵٪ افزایش می‌یابد."
-     ]
-    },
-    "Paladin Holy: طبق یادداشت توسعه‌دهندگان، throughput Holy Paladin underperforming بوده و mana cost Holy Light کاهش می‌یابد تا casted healing تشویق شود. تمام healing در PvP ۵٪ افزایش می‌یابد. Divine Favor اکنون mana cost Holy Light را ۵۰٪ (از ۳۰٪) در PvP کاهش می‌دهد. Priest Holy: طبق یادداشت توسعه‌دهندگان، این تغییرات برای بهبود بیشتر viability Archon در PvP با افزایش healing گروهی Prayer of Healing و قدرت proc effects طراحی شده‌اند. Prayerful Litany اکنون primary target Prayer of Healing را ۷۵٪ بیشتر (از ۱۲۵٪) در PvP heal می‌کند. Prayer of Healing healing ۳۰٪ افزایش می‌یابد. Archon: Resonant Energy اکنون healing done را ۴٪ به ازای هر stack (از ۲٪) در PvP افزایش می‌دهد. Archon: Empowered Surges اکنون healing spells تحت تأثیر Surge of Light را ۱۰٪ (از ۵٪) در PvP افزایش می‌دهد. Archon: Realized Potential اکنون Flash Heal healing را ۲۵٪ (از ۲۰٪) در PvP افزایش می‌دهد. Rogue Assassination:",
-    {
-     "t": "ul",
-     "xs": [
-      "Deathstalker: Deathstalker’s Mark damage در PvP ۲۰٪ افزایش می‌یابد.",
-      "Deathstalker: Hunt Them Down damage در PvP ۲۰٪ افزایش می‌یابد.",
-      "Deathstalker: Darkest Night اکنون damage Eviscerate بعدی را ۱۵٪ (از ۸٪) در PvP افزایش می‌دهد."
-     ]
-    },
-    "Shaman Restoration: Healing Stream Totem و Stormstream Totem healing در PvP ۲۰٪ افزایش می‌یابد."
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "۱۲.۱.۵",
-    "تیونینگ کلاس",
-    "PvP"
-   ],
-   "items": [],
-   "title_en": "Class Tuning and Bug Fixes - Patch 12.1.5 Hotfixes for October 27th",
-   "source_url": "https://www.wowhead.com/news=383617",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383617-class-tuning-and-bug-fixes-patch-12-1-5-hotfixes-for-october-27th.html",
-   "published_at": "2026-10-28T01:08:50Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383617/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383617/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3348,13 +3317,6 @@
    "url": "https://www.wowhead.com/news=383773",
    "category": "Live",
    "published_at": "2026-11-05T22:48:36Z"
-  },
-  {
-   "id": 383691,
-   "title_en": "The Weekly Reset with Taliesin and Evitel: Forever Forever? Talebound and More",
-   "url": "https://www.wowhead.com/news=383691",
-   "category": "WoW",
-   "published_at": "2026-11-05T17:00:00Z"
   },
   {
    "id": 383758,
@@ -3586,6 +3548,13 @@
    "url": "https://www.wowhead.com/news=383603",
    "category": "Live",
    "published_at": "2026-10-27T22:58:35Z"
+  },
+  {
+   "id": 383573,
+   "title_en": "Blizzard Hints The WoW: Forever Podcast Will Continue",
+   "url": "https://www.wowhead.com/news=383573",
+   "category": "Forever",
+   "published_at": "2026-10-26T15:00:00Z"
   }
  ]
 }

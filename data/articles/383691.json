@@ -143,12 +143,50 @@
   ],
   "chars": 1132
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383691/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383691/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383691/1.jpg",
+ "article_fa": {
+  "title_fa": "برنامه The Weekly Reset با موضوع WoW: Forever و Talebound",
+  "lead_fa": "در قسمت جدید برنامه The Weekly Reset، موضوعاتی چون عرضه WoW: Forever، تفاوت‌های آن با نسخه Retail و جزئیات Talebound بررسی شده است.",
+  "body_fa": [
+   "در قسمت اخیر برنامه The Weekly Reset، تالیسین و اویتل (Taliesin and Evitel) به بررسی اخبار جدید و مباحث مرتبط با بازی پرداخته‌اند. محور اصلی این برنامه بررسی شرایط WoW: Forever، مسیر پیش‌روی آن و نحوه تمایز آن با نسخه Retail است.",
+   "عنوان World of Warcraft Forever در همین هفته منتشر می‌شود و در این برنامه درباره چشم‌انداز بازی در ۱ سال، ۵ سال یا ۱۰ سال آینده، سیستم پیشرفت افقی (horizontal progression)، اکسپنشن‌ها و نژادهای قابل بازی بحث شده است. همچنین اشاره کوتاهی به Midnight و Talebound نیز صورت گرفت.",
+   {
+    "t": "h",
+    "x": "موضوعات مطرح‌شده در این قسمت"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "برنامه Planet Azeroth: قسمت اول با حضور Bill Bailey",
+     "برنامه Planet Azeroth: قسمت دوم با حضور Bill Bailey",
+     "قسمت ششم پادکست The WoW: Forever Podcast که هم‌اکنون در دسترس است",
+     "محدودیت‌های سخت‌گیرانه در سیستم رزرو نام (Name Reservations) و تأیید رفع این مشکل در آینده نزدیک",
+     "پاداش‌های قدرت کاراکتر در بخش End-Game مربوط به Talebound",
+     "پیش‌نمایش Decor برای پچ 12.1.7"
+    ]
+   },
+   {
+    "t": "note",
+    "x": "مخاطبان می‌توانند از طریق توییچ برای استریم‌های روزهای کاری، یوتیوب، توییتر، وب‌سایت اختصاصی و صفحه پاتریون، برنامه‌های Taliesin and Evitel را دنبال کنند.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "The Weekly Reset",
+   "Talebound",
+   "پچ 12.1.7"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-07T20:07:59Z"
+ }
 }
