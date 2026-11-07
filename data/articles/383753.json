@@ -85,12 +85,52 @@
   ],
   "chars": 671
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383753/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383753/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383753/1.jpg",
+ "article_fa": {
+  "title_fa": "رفع باگ کوئست The Great Outdoors و نحوه تکمیل آن",
+  "lead_fa": "کوئست آموزشی The Great Outdoors برای سیستم کمپینگ دارای باگی جزئی است، اما راهکار ساده‌ای برای تکمیل سریع آن وجود دارد.",
+  "body_fa": [
+   "بازی WoW: Forever به سیستم جدید کمپینگ مجهز شده است و یکی از نخستین کوئست‌های مناطق ابتدایی، The Great Outdoors نام دارد. این کوئست در واقع یک مأموریت آموزشی برای یادگیری نحوه استفاده و بهره‌مندی از امکانات کمپینگ به شمار می‌رود.",
+   {
+    "t": "h",
+    "x": "اهداف کوئست"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "نشستن کنار آتش (Sit near the campfire)",
+     "دریافت بف Boosted Rest"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "روش حل مشکل ثبت هدف اول"
+   },
+   "هدف مربوط به نشستن در کنار آتش یعنی Sit near the campfire اندکی باگ دارد و معمولاً هنگام استفاده عادی از دستور sit/ ثبت نمی‌شود.",
+   {
+    "t": "note",
+    "x": "اگر در حالی که کاراکتر شما قبلاً نشسته است بار دیگر از دستور sit/ استفاده کنید، این هدف به‌درستی تکمیل می‌شود.",
+    "kind": "tip"
+   },
+   "پس از این مرحله، با سپری کردن و صبر کردن به مدت یک دقیقه کامل، یک بف کوچک Rested XP به کاراکتر تعلق خواهد گرفت."
+  ],
+  "tags_fa": [
+   "کوئست",
+   "باگ",
+   "WoW Forever",
+   "راهنما"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-07T15:34:34Z"
+ }
 }

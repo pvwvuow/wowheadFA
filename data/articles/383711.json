@@ -67,5 +67,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383711/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383711/1.jpg",
+ "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
+ "hold_count": 1,
+ "hold_at": "2026-11-07T15:59:46Z"
 }

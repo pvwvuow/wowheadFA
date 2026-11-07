@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T15:02:29Z",
+ "generated": "2026-11-07T16:21:17Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1279,6 +1279,58 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383754/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383753,
+   "slug": "the-great-outdoors-quest-bugged-and-how-to-complete",
+   "title_fa": "رفع باگ کوئست The Great Outdoors و نحوه تکمیل آن",
+   "lead_fa": "کوئست آموزشی The Great Outdoors برای سیستم کمپینگ دارای باگی جزئی است، اما راهکار ساده‌ای برای تکمیل سریع آن وجود دارد.",
+   "body_fa": [
+    "بازی WoW: Forever به سیستم جدید کمپینگ مجهز شده است و یکی از نخستین کوئست‌های مناطق ابتدایی، The Great Outdoors نام دارد. این کوئست در واقع یک مأموریت آموزشی برای یادگیری نحوه استفاده و بهره‌مندی از امکانات کمپینگ به شمار می‌رود.",
+    {
+     "t": "h",
+     "x": "اهداف کوئست"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "نشستن کنار آتش (Sit near the campfire)",
+      "دریافت بف Boosted Rest"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "روش حل مشکل ثبت هدف اول"
+    },
+    "هدف مربوط به نشستن در کنار آتش یعنی Sit near the campfire اندکی باگ دارد و معمولاً هنگام استفاده عادی از دستور sit/ ثبت نمی‌شود.",
+    {
+     "t": "note",
+     "x": "اگر در حالی که کاراکتر شما قبلاً نشسته است بار دیگر از دستور sit/ استفاده کنید، این هدف به‌درستی تکمیل می‌شود.",
+     "kind": "tip"
+    },
+    "پس از این مرحله، با سپری کردن و صبر کردن به مدت یک دقیقه کامل، یک بف کوچک Rested XP به کاراکتر تعلق خواهد گرفت."
+   ],
+   "tags_fa": [
+    "کوئست",
+    "باگ",
+    "WoW Forever",
+    "راهنما"
+   ],
+   "items": [],
+   "title_en": "The Great Outdoors Quest Bugged and How to Complete",
+   "source_url": "https://www.wowhead.com/news=383753",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383753-the-great-outdoors-quest-bugged-and-how-to-complete.html",
+   "published_at": "2026-11-05T01:04:04Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383753/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383753/1.jpg",
      "cap": ""
     }
    ]
@@ -3145,40 +3197,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383610,
-   "slug": "join-the-wow-portal-room-for-your-next-adventure-in-wow-forever",
-   "title_fa": "اتاق پورتال WoW، نقطهٔ شروع ماجراجویی‌های جدید شما",
-   "lead_fa": "بلیزارد با انتشار بلاگ جدیدی، بازیکنان را به پیوستن به اتاق پورتال WoW دعوت کرده است. این سرور رسمی دیسکورد World of Warcraft فضایی فراگیر برای ارتباط بازیکنان در تمام مراحل سفرشان در WoW: Forever فراهم می‌کند.",
-   "body_fa": [
-    "آذروث همیشه بیش از یک محل بازی بوده و توسط افرادی که در مسیر با آن‌ها آشنا می‌شویم شکل گرفته است. اتاق پورتال WoW نقطهٔ آغازین برای ایجاد این ارتباط‌ها به شمار می‌رود؛ چه به دنبال هم‌صحبتی آشنا باشید و چه دایرهٔ جدیدی از ماجراجویان.",
-    "اتاق پورتال WoW آمادهٔ استقبال از بازیکنان World of Warcraft: Forever است و به آن‌ها کمک می‌کند تا دوستی‌ها، داستان‌ها و ماجراجویی‌های مشترک را گسترش دهند. این فضا در کنار بازیکنان در هر مرحله از مسیرشان، ارتباط پایدار را به گفت‌وگوهای تازه، گروه‌ها و اجتماعات تبدیل می‌کند.",
-    "اتاق پورتال WoW سرور رسمی دیسکورد World of Warcraft است که بازیکنان و سفیران جامعه را در یک مرکز فراگیر گرد هم می‌آورد. چه تازه‌کار باشید، چه بازگشتی به بازی داشته باشید، چه سال‌ها تجربه انباشته کرده باشید یا به دنبال گروه جدیدی برای فصل بعدی‌تان باشید، این اتاق می‌تواند شما را به مسیر درست هدایت کند.",
-    "اتاق پورتال مانند هر پورتالی، دروازه‌ای است و نه مقصد نهایی. سفیران WoW بازیکنان باتجربه‌ای هستند که جوامع دیسکورد خود را در اتاق پورتال WoW نمایندگی می‌کنند. آن‌ها به بازیکنان با هر پیشینه و سطح تجربه کمک می‌کنند تا فضاهای مناسب و خوش‌آمدگویی پیدا کنند که با نحوهٔ لذت‌بردن‌شان از Warcraft هم‌خوانی داشته باشد؛ از انجام محتوا در کنار هم گرفته تا تبادل داستان‌ها، یادگیری از دیگران یا حفظ ارتباط با جهان و جامعهٔ آن.",
-    "اگر آماده‌اید تا هم‌گروهان خود را پیدا کنید، همین حالا به اتاق پورتال WoW بپیوندید."
-   ],
-   "tags_fa": [
-    "WoW Portal Room",
-    "WoW: Forever",
-    "سفیران WoW",
-    "جامعه"
-   ],
-   "items": [],
-   "title_en": "Join the WoW Portal Room for Your Next Adventure in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383610",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383610-join-the-wow-portal-room-for-your-next-adventure-in-wow-forever.html",
-   "published_at": "2026-10-27T19:08:56Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383610/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383610/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3244,13 +3262,6 @@
    "url": "https://www.wowhead.com/news=383757",
    "category": "Forever",
    "published_at": "2026-11-05T06:41:36Z"
-  },
-  {
-   "id": 383753,
-   "title_en": "The Great Outdoors Quest Bugged and How to Complete",
-   "url": "https://www.wowhead.com/news=383753",
-   "category": "Forever",
-   "published_at": "2026-11-05T01:04:04Z"
   },
   {
    "id": 383750,
@@ -3461,6 +3472,13 @@
    "url": "https://www.wowhead.com/news=383657",
    "category": "Forever",
    "published_at": "2026-10-31T18:00:00Z"
+  },
+  {
+   "id": 383648,
+   "title_en": "The WoW: Forever Podcast Episode 6 Now Available - Tech and Community Building",
+   "url": "https://www.wowhead.com/news=383648",
+   "category": "Forever",
+   "published_at": "2026-10-29T16:27:09Z"
   }
  ]
 }
