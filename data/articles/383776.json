@@ -221,7 +221,7 @@
   ],
   "chars": 3943
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383776/1.jpg",
@@ -231,5 +231,74 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383776/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 1,
- "hold_at": "2026-11-07T20:01:14Z"
+ "hold_at": "2026-11-07T20:01:14Z",
+ "article_fa": {
+  "title_fa": "کاهش چشمگیر سختی باس‌های رید The Venomous Abyss و تغییرات گسترده Ula'tek",
+  "lead_fa": "بلیزارد مجموعه‌ای از تغییرات و تضعیف‌های سنگین را برای باس‌های رید The Venomous Abyss از جمله Ula'tek و Vashnik اعمال می‌کند که بخشی از آن‌ها هم‌اکنون فعال شده‌اند.",
+  "body_fa": [
+   "بلیزارد در حال اعمال تغییرات کاهشی و تضعیف‌های گسترده روی انکانترهای رید The Venomous Abyss است. این تغییرات لزوماً تا ریست هفتگی به تعویق نمی‌افتند و برخی از آن‌ها هم‌اکنون به شکل زنده در بازی در دسترس هستند و سایر موارد نیز ظرف چند روز آینده اضافه می‌شوند.",
+   {
+    "t": "h",
+    "x": "تغییرات Entombed Sentinels و Vashnik"
+   },
+   "در مبارزه با Entombed Sentinels حداکثر ابعاد حوضچه‌های Blood Venom در درجه‌های Heroic و Mythic کاهش یافته و مدت‌زمان ماندگاری این حوضچه‌ها در Mythic از ۵ دقیقه به ۲ دقیقه رسیده است.",
+   "در باس Vashnik, the Malignant و در درجه سختی Mythic، آسیب Malignance به میزان ۳۷٪ و مدت اثر DoT آن به ۱۶ ثانیه کاهش یافته است. همچنین در باس Twin Fangs آسیب Visceral Burst در درجه Mythic به میزان ۴۰٪ کمتر شده است.",
+   {
+    "t": "h",
+    "x": "انکانتر The Coiled Altar"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "کاهش ۲۰٪ سرعت حرکت Axegrinder در تمام درجه‌های سختی",
+     "کاهش ۲۰٪ آسیب Axegrinder و Gloombomb در درجه Mythic",
+     "کاهش ۱۵٪ آسیب Venom Rupture در درجه Mythic",
+     "کاهش ۶۰٪ آسیب Malevolent Resonance",
+     "افزایش ماندگاری Gravebound Soul Fragments به میزان ۲ ثانیه اضافه قبل از محو شدن در Mythic",
+     "کاهش تعداد Spiteful Soulcoilers حاصل از Spiritcackle از ۲ به ۱ در درجه Mythic"
+    ]
+   },
+   {
+    "t": "quote",
+    "x": "با این تغییر، اسپاون Soulcoilers اکنون مشابه نحوه اسپاون آن‌ها در درجه سختی Heroic خواهد بود.",
+    "by": "Blizzard"
+   },
+   {
+    "t": "h",
+    "x": "تغییرات مقیاس‌پذیری و تضعیف باس Ula'tek"
+   },
+   "میزان سلامت پایه‌ای و مقیاس‌پذیری سلامت دشمنان در درجه‌های Raid Finder، Normal و Heroic برای هماهنگی بهتر با تعداد نفرات کمتر رید در انکانتر Ula'tek تنظیم شده است. موجودات تحت تأثیر شامل Ula'tek، Blightscale Rawling، Blightscale Viper، Blightscale Shrieker و Weakened Doomscale هستند. سلامت خود Ula'tek در درجه Heroic به میزان ۱۵٪ کاهش یافته است.",
+   {
+    "t": "ul",
+    "xs": [
+     "کاهش ۶۱٪ آسیب Unchecked Rage در تمام درجه‌های سختی",
+     "کاهش ۱۷٪ آسیب اولیه Caustic Waves در Heroic و Mythic (آسیب اولیه به 761k در برابر 917k قبلی رسید)",
+     "کاهش آسیب DoT توانایی Caustic Waves به میزان ۷۵٪ در Normal، به میزان ۶۱٪ در Heroic و ۸۹٪ در Mythic (میزان آسیب دوره‌ای به 59k در برابر 540k قبلی رسید)",
+     "کاهش آسیب Malice به میزان ۶۳٪ در Normal و Heroic، و ۴۵٪ در Mythic",
+     "کاهش آسیب Virulent Spit به میزان ۴۶٪ در Raid Finder، ۳۳٪ در Normal و Heroic، و ۳۶٪ در Mythic (میزان آسیب عددی 587k در برابر 918k)",
+     "کاهش آسیب Falling Debris به میزان ۴۶٪ در Raid Finder، ۳۳٪ در Normal و Heroic، و ۳۶٪ در Mythic (میزان آسیب عددی 1.6M در برابر 2.5M)",
+     "کاهش ۵۳٪ آسیب اولیه و ۲۵٪ آسیب DoT توانایی Viscous Echoes در همه درجه‌ها",
+     "کاهش تعداد تخم‌های احضارشده با Call of the Serpent در Normal و Heroic",
+     "کاهش تعداد اهداف انتخابی توسط Serpent's Bite در تمام درجه‌ها و Grasping Fangs در Normal و Heroic",
+     "حذف ۲ تخم از هر طرف در فاز دوم و رساندن مجموع به ۸ تخم در هر سمت در درجه Heroic"
+    ]
+   },
+   {
+    "t": "note",
+    "x": "این تنظیمات علاوه بر کاهش صدمات، شامل کاهش تعداد تخم‌ها در فاز آخر، کمتر شدن نیاز به سوک‌های قرمز و کاهش اتصالات در فاز ۲ است.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "رید",
+   "The Venomous Abyss",
+   "Ula'tek"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-08T02:31:23Z"
+ }
 }

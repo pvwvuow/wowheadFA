@@ -1,42 +1,7 @@
 {
- "day": "2026-11-07",
- "published_today": 21,
+ "day": "2026-11-08",
+ "published_today": 5,
  "held": {
-  "383758": {
-   "reason": "بازبین پاسخ معتبر نداد: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-07T20:57:07Z",
-   "at_ts": 1794085027.460573
-  },
-  "383757": {
-   "reason": "بازبین پاسخ معتبر نداد: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-07T21:00:11Z",
-   "at_ts": 1794085211.776884
-  },
-  "383727": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-07T21:11:05Z",
-   "at_ts": 1794085865.134231
-  },
-  "383728": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-07T21:14:03Z",
-   "at_ts": 1794086043.345745
-  },
-  "383704": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-07T21:29:26Z",
-   "at_ts": 1794086966.039298
-  },
-  "383720": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-07T22:24:42Z",
-   "at_ts": 1794090282.054846
-  },
-  "383487": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-07T22:42:00Z",
-   "at_ts": 1794091320.578018
-  },
   "383768": {
    "reason": "G1 Persian ratio 43% < 45% | G5 English token not in source: raptor",
    "at": "2026-11-07T23:38:39Z",
@@ -48,71 +13,13 @@
    "at_ts": 1794095825.267065
   }
  },
- "ingest_fails": {},
- "updated_at": "2026-11-07T23:57:05Z",
+ "ingest_fails": {
+  "383750": 1
+ },
+ "updated_at": "2026-11-08T02:41:12Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383693",
-    "ts": "2026-11-06T16:53:04Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 37.9,
-    "attempts": 1
-   },
-   {
-    "id": "383704",
-    "ts": "2026-11-06T16:53:54Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 50.2,
-    "attempts": 1
-   },
-   {
-    "id": "383702",
-    "ts": "2026-11-06T16:54:15Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 20.9,
-    "attempts": 1
-   },
-   {
-    "id": "383698",
-    "ts": "2026-11-06T16:55:11Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 55.9,
-    "attempts": 1
-   },
-   {
-    "id": "383695",
-    "ts": "2026-11-06T16:55:59Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 48.3,
-    "attempts": 1
-   },
-   {
-    "id": "383630",
-    "ts": "2026-11-06T16:56:56Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 57.0,
-    "attempts": 1
-   },
    {
     "id": "383603",
     "ts": "2026-11-06T16:57:48Z",
@@ -4052,6 +3959,66 @@
     "warns": 0,
     "sec": 763.4,
     "attempts": 2
+   },
+   {
+    "id": "383776",
+    "ts": "2026-11-08T02:31:23Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 249.8,
+    "attempts": 1
+   },
+   {
+    "id": "383758",
+    "ts": "2026-11-08T02:33:32Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 129.0,
+    "attempts": 0
+   },
+   {
+    "id": "383757",
+    "ts": "2026-11-08T02:35:42Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 129.4,
+    "attempts": 0
+   },
+   {
+    "id": "383750",
+    "ts": "2026-11-08T02:37:00Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 78.7,
+    "attempts": 0
+   },
+   {
+    "id": "383751",
+    "ts": "2026-11-08T02:39:13Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 132.2,
+    "attempts": 1
+   },
+   {
+    "id": "383749",
+    "ts": "2026-11-08T02:41:12Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 119.0,
+    "attempts": 0
    }
   ]
  }
