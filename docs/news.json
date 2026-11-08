@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T04:32:59Z",
+ "generated": "2026-11-08T04:34:21Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1276,6 +1276,53 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383774/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383773,
+   "slug": "mythic-twin-fangs-nerf-for-the-venomous-abyss-raid",
+   "title_fa": "کاهش سختی نبرد Twin Fangs در درجه سختی Mythic",
+   "lead_fa": "چند روز پس از ریست هفتگی، نبرد Twin Fangs روی سرورهای زنده تضعیف شد و جریمه از دست دادن اینتراپت کاهش یافت.",
+   "body_fa": [
+    "چند روز پس از ریست هفتگی، هات‌فیکس‌های تازه‌ای روی سرورهای زنده اعمال شد که سختی نبرد Twin Fangs را در درجه سختی Mythic کاهش می‌دهد. این تغییرات مشخصاً جریمهٔ از دست دادن یک اینتراپت روی اددهای Broodlings of Ithraz را سبک‌تر کرده است.",
+    "پیش از این، متوقف نکردن کست تقریباً همیشه به مرگ کل گروه ختم می‌شد؛ هرچند با قوی‌تر شدن بازیکنان از طریق تجهیزات و باف افزایشی رید، هیل کردن یک استک از این DoT ممکن شده بود. با اعمال ۴۰٪ نرف مستقیم روی آسیب اولیه و آسیب دوره‌ای، جبران یک کست ازدست‌رفته اکنون کاملاً قابل هیل کردن است.",
+    {
+     "t": "h",
+     "x": "جزئیات تغییرات توانایی Visceral Burst"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "کاهش ۴۰٪ در میزان آسیب توانایی Visceral Burst",
+      "آسیب اولیه اکنون ۳۷۵k است",
+      "آسیب افزوده برابر با ۱۲۵k در هر ثانیه به مدت ۶ ثانیه"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "این اددها تا زمانی که با موفقیت اینتراپت نشوند به کست کردن متوالی ادامه می‌دهند؛ بنابراین در صورت از دست رفتن کست اول، قطعاً باید کست دوم را اینتراپت کنید.",
+     "kind": "warn"
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "Mythic",
+    "رید"
+   ],
+   "items": [],
+   "title_en": "Mythic Twin Fangs Nerf for The Venomous Abyss Raid",
+   "source_url": "https://www.wowhead.com/news=383773",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383773-mythic-twin-fangs-nerf-for-the-venomous-abyss-raid.html",
+   "published_at": "2026-11-05T22:48:36Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383773/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383773/1.jpg",
      "cap": ""
     }
    ]
@@ -3318,69 +3365,22 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383651,
-   "slug": "patch-12-1-7-ptr-development-notes-talebound-demo-available-tomorrow",
-   "title_fa": "یادداشت‌های توسعه PTR پچ ۱۲٫۱٫۷ — دمو Talebound فردا در دسترس قرار می‌گیرد",
-   "lead_fa": "بلزارد یادداشت‌های توسعه PTR برای پچ ۱۲٫۱٫۷ را منتشر کرده و به بازیکنان یادآوری کرده که دمو Talebound فردا در دسترس خواهد بود.",
-   "body_fa": [
-    "PTR نسخه ۱۲٫۱٫۷ به‌روزرسانی شده و همزمان با در دسترس قرار گرفتن دمو Talebound برای تست آماده می‌شود.",
-    "Talebound این آخر هفته قابل تست خواهد بود.",
-    {
-     "t": "h",
-     "x": "زمان‌بندی Talebound"
-    },
-    "Talebound از ۳۰ اکتبر ساعت ۱۰:۰۰ صبح به وقت PDT تا ۲ نوامبر ساعت ۱۰:۰۰ صبح به وقت PDT در دسترس خواهد بود.",
-    {
-     "t": "h",
-     "x": "Tales Take a Dark Turn in Talebound"
-    },
-    "Talebound یک حالت PvE اکشن RPG جدید است که در آن بازیکنان وارد دنیای macabre داستان‌های تاریک یک Storyteller مرموز می‌شوند. می‌توانید به صورت solo یا همراه دوستانتان از میان داستان‌های ترسناک عبور کنید، با دشمنان و باس‌های ترسناک مبارزه کنید، پازل‌های پیچیده حل کنید، گنج و relics کشف کنید و Bound Silver به دست آورید تا پاداش‌های cosmetic دریافت کنید.",
-    "جزئیات بیشتر درباره دمو Talebound را می‌توانید در مقاله رسمی بلزارد با شماره ۲۴۳۱۳۱۰۷ پیدا کنید.",
-    {
-     "t": "note",
-     "x": "این دمو فقط برای تست در این آخر هفته در دسترس است و زمان آن دقیقاً از ۳۰ اکتبر ساعت ۱۰:۰۰ صبح PDT آغاز می‌شود.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "PTR",
-    "۱۲٫۱٫۷",
-    "Talebound",
-    "دمو"
-   ],
-   "items": [],
-   "title_en": "Patch 12.1.7 PTR Development Notes - Talebound Demo Available Tomorrow",
-   "source_url": "https://www.wowhead.com/news=383651",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383651-patch-12-1-7-ptr-development-notes-talebound-demo-available-tomorrow.html",
-   "published_at": "2026-10-29T18:41:51Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383651/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383651/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
+  {
+   "id": 383805,
+   "title_en": "Layering Issues in Thousand Needles Harpy Cave Result in Quest Competition Issues",
+   "url": "https://www.wowhead.com/news=383805",
+   "category": "Forever",
+   "published_at": "2026-11-08T03:11:52Z"
+  },
   {
    "id": 383768,
    "title_en": "Every Quest for Dungeons up to Level 20 in WoW: Forever",
    "url": "https://www.wowhead.com/news=383768",
    "category": "Forever",
    "published_at": "2026-11-06T14:00:00Z"
-  },
-  {
-   "id": 383773,
-   "title_en": "Mythic Twin Fangs Nerf for The Venomous Abyss Raid",
-   "url": "https://www.wowhead.com/news=383773",
-   "category": "Live",
-   "published_at": "2026-11-05T22:48:36Z"
   },
   {
    "id": 383750,
