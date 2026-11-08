@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T03:36:51Z",
+ "generated": "2026-11-08T03:38:12Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1100,101 +1100,67 @@
   {
    "id": 383776,
    "slug": "massive-nerfs-to-the-venomous-abyss-raid-large-nerfs-to-ula-tek-on-eve",
-   "title_fa": "تضعیف گسترده باس‌های رید The Venomous Abyss و تغییرات بزرگ Ula'tek",
-   "lead_fa": "بلیزارد مجموعه‌ای از تضعیف‌های سنگین را برای باس‌های رید The Venomous Abyss از جمله Ula'tek و Vashnik اعمال می‌کند که بخشی از آن‌ها هم‌اکنون فعال شده‌اند.",
+   "title_fa": "کاهش چشمگیر سختی باس‌های رید The Venomous Abyss و تغییرات گسترده Ula'tek",
+   "lead_fa": "بلیزارد مجموعه‌ای از تغییرات و تضعیف‌های سنگین را برای باس‌های رید The Venomous Abyss از جمله Ula'tek و Vashnik اعمال می‌کند که بخشی از آن‌ها هم‌اکنون فعال شده‌اند.",
    "body_fa": [
-    "تیم توسعه‌دهنده اعلام کرده است که طی چند روز آینده تغییرات متعددی را روی انکانترهای رید The Venomous Abyss پیاده‌سازی می‌کند. نکته مهم این است که این تغییرات منتظر ریست هفتگی نمانده‌اند و برخی از آن‌ها در حال حاضر درون بازی فعال هستند.",
-    {
-     "t": "note",
-     "x": "این نرف‌ها به ریست هفتگی موکول نشده‌اند و بخش قابل‌توجهی از آن‌ها در حال حاضر روی سرورهای لایو فعال است.",
-     "kind": "info"
-    },
+    "بلیزارد در حال اعمال تغییرات کاهشی و تضعیف‌های گسترده روی انکانترهای رید The Venomous Abyss است. این تغییرات لزوماً تا ریست هفتگی به تعویق نمی‌افتند و برخی از آن‌ها هم‌اکنون به شکل زنده در بازی در دسترس هستند و سایر موارد نیز ظرف چند روز آینده اضافه می‌شوند.",
     {
      "t": "h",
-     "x": "تغییرات Entombed Sentinels و Vashnik و Twin Fangs"
+     "x": "تغییرات Entombed Sentinels و Vashnik"
+    },
+    "در مبارزه با Entombed Sentinels حداکثر ابعاد حوضچه‌های Blood Venom در درجه‌های Heroic و Mythic کاهش یافته و مدت‌زمان ماندگاری این حوضچه‌ها در Mythic از ۵ دقیقه به ۲ دقیقه رسیده است.",
+    "در باس Vashnik, the Malignant و در درجه سختی Mythic، آسیب Malignance به میزان ۳۷٪ و مدت اثر DoT آن به ۱۶ ثانیه کاهش یافته است. همچنین در باس Twin Fangs آسیب Visceral Burst در درجه Mythic به میزان ۴۰٪ کمتر شده است.",
+    {
+     "t": "h",
+     "x": "انکانتر The Coiled Altar"
     },
     {
      "t": "ul",
      "xs": [
-      "در انکانتر Entombed Sentinels حداکثر ابعاد حوضچه‌های Blood Venom در درجه‌های Heroic و Mythic کاهش یافته و مدت‌زمان ماندگاری آن در درجه سختی Mythic از ۵ دقیقه به ۲ دقیقه رسیده است.",
-      "در مبارزه Vashnik, the Malignant آسیب توانایی Malignance در درجه Mythic معادل ۳۷٪ کاهش یافته و مدت‌زمان اثر آسیب پیوسته (DoT) آن به ۱۶ ثانیه کاهش یافته است.",
-      "در باس Twin Fangs میزان آسیب Visceral Burst در درجه Mythic به میزان ۴۰٪ کاهش یافته است."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "تغییرات مبارزه The Coiled Altar"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "سرعت حرکت Axegrinder در تمامی درجه‌های سختی ۲۰٪ و میزان آسیب آن در Mythic معادل ۲۰٪ کم شده است.",
-      "میزان آسیب Gloombomb در درجه سختی Mythic معادل ۲۰٪ و آسیب Venom Rupture به میزان ۱۵٪ کاهش یافته است.",
-      "آسیب توانایی Malevolent Resonance به میزان ۶۰٪ کاهش یافت.",
-      "تکه‌های Gravebound Soul Fragments در درجه Mythic قبل از ناپدید شدن ۲ ثانیه بیشتر دوام می‌آورند.",
-      "تعداد Spiteful Soulcoilers احضار شده از Spiritcackle در درجه سختی Mythic از ۲ به ۱ عدد کاهش یافت."
+      "کاهش ۲۰٪ سرعت حرکت Axegrinder در تمام درجه‌های سختی",
+      "کاهش ۲۰٪ آسیب Axegrinder و Gloombomb در درجه Mythic",
+      "کاهش ۱۵٪ آسیب Venom Rupture در درجه Mythic",
+      "کاهش ۶۰٪ آسیب Malevolent Resonance",
+      "افزایش ماندگاری Gravebound Soul Fragments به میزان ۲ ثانیه اضافه قبل از محو شدن در Mythic",
+      "کاهش تعداد Spiteful Soulcoilers حاصل از Spiritcackle از ۲ به ۱ در درجه Mythic"
      ]
     },
     {
      "t": "quote",
-     "x": "با این تغییر، احضار Soulcoilers اکنون مشابه نحوه احضار آن‌ها در درجه سختی Heroic عمل خواهد کرد.",
-     "by": "توسعه‌دهندگان بلیزارد"
+     "x": "با این تغییر، اسپاون Soulcoilers اکنون مشابه نحوه اسپاون آن‌ها در درجه سختی Heroic خواهد بود.",
+     "by": "Blizzard"
     },
     {
      "t": "h",
-     "x": "تضعیف همه‌جانبه Ula’tek"
+     "x": "تغییرات مقیاس‌پذیری و تضعیف باس Ula'tek"
     },
-    "تنظیمات مقیاس‌پذیری سلامت (Health Scaling) برای باس Ula’tek و اددهای Blightscale Rawling و Blightscale Viper و Blightscale Shrieker و Weakened Doomscale در درجات Raid Finder و Normal و Heroic بازنگری شده است تا شرایط برای گروه‌های کوچک‌تر رید بهبود یابد. همچنین میزان پایه سلامت آن‌ها در این درجات کاهش یافته است تا سلامت آن‌ها با افزایش تعداد بازیکنان بی‌رویه بالا نرود.",
-    "سلامت خود Ula’tek در درجه Heroic معادل ۱۵٪ کاهش یافته و آسیب Unchecked Rage در تمامی درجه‌های سختی ۶۱٪ کمتر شده است.",
+    "میزان سلامت پایه‌ای و مقیاس‌پذیری سلامت دشمنان در درجه‌های Raid Finder، Normal و Heroic برای هماهنگی بهتر با تعداد نفرات کمتر رید در انکانتر Ula'tek تنظیم شده است. موجودات تحت تأثیر شامل Ula'tek، Blightscale Rawling، Blightscale Viper، Blightscale Shrieker و Weakened Doomscale هستند. سلامت خود Ula'tek در درجه Heroic به میزان ۱۵٪ کاهش یافته است.",
     {
-     "t": "table",
-     "head": [
-      "توانایی",
-      "درجه سختی",
-      "درصد کاهش آسیب"
-     ],
-     "rows": [
-      [
-       "Caustic Waves (ضربه مستقیم)",
-       "Heroic و Mythic",
-       "۱۷٪"
-      ],
-      [
-       "Caustic Waves (آسیب پیوسته)",
-       "Normal: ۷۵٪ | Heroic: ۶۱٪ | Mythic: ۸۹٪",
-       "۷۵٪ / ۶۱٪ / ۸۹٪"
-      ],
-      [
-       "Malice",
-       "Normal و Heroic: ۶۳٪ | Mythic: ۴۵٪",
-       "۶۳٪ / ۴۵٪"
-      ],
-      [
-       "Virulent Spit",
-       "Raid Finder: ۴۶٪ | Normal و Heroic: ۳۳٪ | Mythic: ۳۶٪",
-       "۴۶٪ / ۳۳٪ / ۳۶٪"
-      ],
-      [
-       "Falling Debris",
-       "Raid Finder: ۴۶٪ | Normal و Heroic: ۳۳٪ | Mythic: ۳۶٪",
-       "۴۶٪ / ۳۳٪ / ۳۶٪"
-      ],
-      [
-       "Viscous Echoes",
-       "تمام درجات (ضربه اولیه ۵۳٪ / پیوسته ۲۵٪)",
-       "۵۳٪ / ۲۵٪"
-      ]
+     "t": "ul",
+     "xs": [
+      "کاهش ۶۱٪ آسیب Unchecked Rage در تمام درجه‌های سختی",
+      "کاهش ۱۷٪ آسیب اولیه Caustic Waves در Heroic و Mythic (آسیب اولیه به 761k در برابر 917k قبلی رسید)",
+      "کاهش آسیب DoT توانایی Caustic Waves به میزان ۷۵٪ در Normal، به میزان ۶۱٪ در Heroic و ۸۹٪ در Mythic (میزان آسیب دوره‌ای به 59k در برابر 540k قبلی رسید)",
+      "کاهش آسیب Malice به میزان ۶۳٪ در Normal و Heroic، و ۴۵٪ در Mythic",
+      "کاهش آسیب Virulent Spit به میزان ۴۶٪ در Raid Finder، ۳۳٪ در Normal و Heroic، و ۳۶٪ در Mythic (میزان آسیب عددی 587k در برابر 918k)",
+      "کاهش آسیب Falling Debris به میزان ۴۶٪ در Raid Finder، ۳۳٪ در Normal و Heroic، و ۳۶٪ در Mythic (میزان آسیب عددی 1.6M در برابر 2.5M)",
+      "کاهش ۵۳٪ آسیب اولیه و ۲۵٪ آسیب DoT توانایی Viscous Echoes در همه درجه‌ها",
+      "کاهش تعداد تخم‌های احضارشده با Call of the Serpent در Normal و Heroic",
+      "کاهش تعداد اهداف انتخابی توسط Serpent's Bite در تمام درجه‌ها و Grasping Fangs در Normal و Heroic",
+      "حذف ۲ تخم از هر طرف در فاز دوم و رساندن مجموع به ۸ تخم در هر سمت در درجه Heroic"
      ]
     },
-    "در بخش مکانیک‌های مبارزه Ula’tek، تعداد تخم‌های احضار شده با Call of the Serpent در Normal و Heroic و تعداد اهداف انتخابی Serpent’s Bite در تمامی درجات کاهش یافته است. همچنین Grasping Fangs در Normal و Heroic اهداف کمتری را انتخاب می‌کند.",
-    "در فاز دوم در درجه Heroic تعداد ۲ تخم از هر طرف حذف شده و مجموع به ۸ تخم در هر سمت رسیده است. افزون بر این، در فاز سوم درجه Heroic باس Ula’tek هنگام فرستادن دیوارهای موجی به سمت پلتفرم‌ها دیگر امواج Caustic Waves اضافی از Spectral Tails ایجاد نمی‌کند.",
-    "در درجه سختی Mythic آسیب مستقیم Noxious Splash معادل ۳۳٪ و آسیب پیوسته آن ۸۴٪ کاهش یافته است (ضربه اولیه به ۵۰۰ هزار و آسیب پیوسته به ۸۷ هزار رسیده است). همچنین مدت‌زمان Putrid Membrane از ۳۰ ثانیه به ۲۰ ثانیه کاهش یافته است. طبق آمار مقادیر اولیه، آسیب ضربه Falling Debris از ۲.۵ میلیون به ۱.۶ میلیون تغییر کرده است."
+    {
+     "t": "note",
+     "x": "این تنظیمات علاوه بر کاهش صدمات، شامل کاهش تعداد تخم‌ها در فاز آخر، کمتر شدن نیاز به سوک‌های قرمز و کاهش اتصالات در فاز ۲ است.",
+     "kind": "info"
+    }
    ],
    "tags_fa": [
     "هاتفیکس",
     "رید",
-    "تغییرات کلس‌ها و رید",
-    "The Venomous Abyss"
+    "The Venomous Abyss",
+    "Ula'tek"
    ],
    "items": [],
    "title_en": "Massive Nerfs to The Venomous Abyss Raid - Large Nerfs to Ula'tek on Every Difficulty",
@@ -1967,6 +1933,105 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383753/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383751,
+   "slug": "obtain-the-pouch-of-violet-dust-toy-increases-camp-benefits-by-1-hour",
+   "title_fa": "دریافت اسباب‌بازی Pouch of Violet Dust از طریق Twitch Drops در WoW: Forever",
+   "lead_fa": "بازیکنان می‌توانند با تماشای استریم‌های منتخب World of Warcraft اسباب‌بازی موقت Pouch of Violet Dust را دریافت کنند که مدت مزایای Camp را به ۲ ساعت افزایش می‌دهد.",
+   "body_fa": [
+    "با آغاز کمپین جدید Twitch Drops، امکان دریافت اسباب‌بازی [[item:Pouch of Violet Dust]] برای بازیکنان فراهم شده است. این آیتم به عنوان بخشی از رویداد جشن آغاز به‌کار WoW: Forever در دسترس قرار گرفته و در بازی‌های World of Warcraft Classic یا نسخه مدرن فعال نیست.",
+    {
+     "t": "h",
+     "x": "ویژگی‌ها و کاربرد Pouch of Violet Dust"
+    },
+    "این اسباب‌بازی رنگ campfire را به بنفش تغییر می‌دهد و مدت‌زمان تمام مزایای کمپ را ۱ ساعت افزایش می‌دهد تا در مجموع به ۲ ساعت برسد. این اثر پس از فعال‌سازی با سایر بازیکنانی که در همان کمپ در حال استراحت هستند نیز به اشتراک گذاشته می‌شود.",
+    {
+     "t": "note",
+     "x": "این آیتم موقت فقط تا اوایل دسامبر در جریان رویداد جشن در دسترس است و پس از آن از مجموعه بازیکنان حذف خواهد شد.",
+     "kind": "warn"
+    },
+    {
+     "t": "h",
+     "x": "زمان‌بندی و شرایط دریافت"
+    },
+    "برای کسب این پاداش، باید ۴ ساعت از محتوای استریم‌های واجد شرایط World of Warcraft را در توییچ تماشا کنید. بازه زمانی این رویداد از ۴ نوامبر ساعت 4:30 pm PST تا ۱۲ نوامبر ساعت 4:30 pm PST تعیین شده است.",
+    {
+     "t": "ul",
+     "xs": [
+      "تماشای ۴ ساعت استریم واجد شرایط در توییچ در بازه ۴ تا ۱۲ نوامبر ساعت 4:30 pm PST",
+      "اتصال حساب Battle.net به توییچ یا یوتیوب",
+      "نیاز به اشتراک فعال یا زمان بازی World of Warcraft",
+      "عدم امکان استفاده در نسخه‌های مدرن یا کلاسیک"
+     ]
+    }
+   ],
+   "tags_fa": [
+    "توییچ دراپ",
+    "WoW Forever",
+    "اسباب‌بازی"
+   ],
+   "items": [],
+   "title_en": "Obtain the Pouch of Violet Dust Toy - Increases Camp Benefits by 1 Hour",
+   "source_url": "https://www.wowhead.com/news=383751",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383751-obtain-the-pouch-of-violet-dust-toy-increases-camp-benefits-by-1-hour.html",
+   "published_at": "2026-11-05T00:32:54Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383751/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383751/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383749,
+   "slug": "world-of-warcraft-forever-is-now-live",
+   "title_fa": "بازی World of Warcraft: Forever به صورت رسمی آغاز به کار کرد",
+   "lead_fa": "بازی World of Warcraft: Forever در تمامی ریجن‌ها در دسترس قرار گرفت و وضعیت صف‌های ورود نیز گزارش شده است.",
+   "body_fa": [
+    "بازی World of Warcraft: Forever اکنون به شکل رسمی در تمامی ریجن‌ها آغاز شده است و بازیکنان می‌توانند نسخهٔ بازطراحی‌شدهٔ Azeroth را با مناطق، کوئست‌ها، شغل‌ها و کلاس‌های جدید تجربه کنند.",
+    {
+     "t": "note",
+     "x": "اگر در صفحه‌ای قرار دارید که بخش Gameplay Rulesets را در وضعیت غیرقابل‌دسترس (unavailable) نشان می‌دهد، باید دوباره در صف قرار بگیرید (requeue).",
+     "kind": "warn"
+    },
+    {
+     "t": "h",
+     "x": "وضعیت صف‌های ورود به سرور"
+    },
+    "گزارش وضعیت صف‌های ورود در ساعات اولیهٔ انتشار به شرح زیر اعلام شده است:",
+    {
+     "t": "ul",
+     "xs": [
+      "ساعت 3:10 PST: زمان انتظار در صف برای بیشتر بازیکنان حدود ۵ تا ۱۰ دقیقه اعلام شده و گزارش‌های بسیاری از قرار گرفتن در جایگاه‌های 1500 تا 4000 در صف خبر داده‌اند. با این حال، پس از عبور از صف، بسیاری با خطای در دسترس نبودن rulesetها مواجه شده‌اند.",
+      "ساعت 4:15 PST: زمان صف‌ها در حدود 10 دقیقه ثابت مانده است و سرورها پایداری بسیار بالایی دارند و عرضهٔ بازی تاکنون بسیار روان بوده است."
+     ]
+    }
+   ],
+   "tags_fa": [
+    "World of Warcraft",
+    "Forever",
+    "صف سرور"
+   ],
+   "items": [],
+   "title_en": "World of Warcraft: Forever is Now Live",
+   "source_url": "https://www.wowhead.com/news=383749",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383749-world-of-warcraft-forever-is-now-live.html",
+   "published_at": "2026-11-04T23:01:38Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383749/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383749/1.png",
      "cap": ""
     }
    ]
@@ -3300,108 +3365,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383651,
-   "slug": "patch-12-1-7-ptr-development-notes-talebound-demo-available-tomorrow",
-   "title_fa": "یادداشت‌های توسعه PTR پچ ۱۲٫۱٫۷ — دمو Talebound فردا در دسترس قرار می‌گیرد",
-   "lead_fa": "بلزارد یادداشت‌های توسعه PTR برای پچ ۱۲٫۱٫۷ را منتشر کرده و به بازیکنان یادآوری کرده که دمو Talebound فردا در دسترس خواهد بود.",
-   "body_fa": [
-    "PTR نسخه ۱۲٫۱٫۷ به‌روزرسانی شده و همزمان با در دسترس قرار گرفتن دمو Talebound برای تست آماده می‌شود.",
-    "Talebound این آخر هفته قابل تست خواهد بود.",
-    {
-     "t": "h",
-     "x": "زمان‌بندی Talebound"
-    },
-    "Talebound از ۳۰ اکتبر ساعت ۱۰:۰۰ صبح به وقت PDT تا ۲ نوامبر ساعت ۱۰:۰۰ صبح به وقت PDT در دسترس خواهد بود.",
-    {
-     "t": "h",
-     "x": "Tales Take a Dark Turn in Talebound"
-    },
-    "Talebound یک حالت PvE اکشن RPG جدید است که در آن بازیکنان وارد دنیای macabre داستان‌های تاریک یک Storyteller مرموز می‌شوند. می‌توانید به صورت solo یا همراه دوستانتان از میان داستان‌های ترسناک عبور کنید، با دشمنان و باس‌های ترسناک مبارزه کنید، پازل‌های پیچیده حل کنید، گنج و relics کشف کنید و Bound Silver به دست آورید تا پاداش‌های cosmetic دریافت کنید.",
-    "جزئیات بیشتر درباره دمو Talebound را می‌توانید در مقاله رسمی بلزارد با شماره ۲۴۳۱۳۱۰۷ پیدا کنید.",
-    {
-     "t": "note",
-     "x": "این دمو فقط برای تست در این آخر هفته در دسترس است و زمان آن دقیقاً از ۳۰ اکتبر ساعت ۱۰:۰۰ صبح PDT آغاز می‌شود.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "PTR",
-    "۱۲٫۱٫۷",
-    "Talebound",
-    "دمو"
-   ],
-   "items": [],
-   "title_en": "Patch 12.1.7 PTR Development Notes - Talebound Demo Available Tomorrow",
-   "source_url": "https://www.wowhead.com/news=383651",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383651-patch-12-1-7-ptr-development-notes-talebound-demo-available-tomorrow.html",
-   "published_at": "2026-10-29T18:41:51Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383651/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383651/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383650,
-   "slug": "blizzard-working-on-top-layering-issues-in-wow-forever",
-   "title_fa": "بررسی مشکلات لیرینگ در WoW: Forever توسط بلیزارد",
-   "lead_fa": "توسعه‌دهندگان در پادکست اخیر WoW: Forever به بررسی چالش‌های لیرینگ در نبردهای بزرگ PvP و جابه‌جایی میان مناطق پرداختند.",
-   "body_fa": [
-    "در جدیدترین قسمت از پادکست WoW: Forever، شرکت Blizzard اعلام کرد در حال کار روی بارزترین مشکلات سیستم Layering است که بازیکنان در دوره آزمایشی Beta با آن‌ها روبه‌رو شده بودند.",
-    {
-     "t": "h",
-     "x": "نبردهای بزرگ PvP و مدیریت لیرها"
-    },
-    "در جریان نسخه بتای WoW: Forever، بازیکنان ظرفیت لیرها را در نبردهای بزرگ جهان‌باز به چالش کشیدند. در حالی که برخی درگیری‌ها با موفقیت همراه بود، در مواردی دیگر گروه‌ها برای قرار دادن تمام افراد در یک لیر مشترک با مشکل مواجه می‌شدند. Shobek، مهمان این هفته پادکست، درباره امکان اعمال تغییراتی برای بهبود این نبردهای گسترده سؤال کرد.",
-    {
-     "t": "quote",
-     "x": "کارهای جالب زیادی وجود دارد که افراد با استفاده از ادان‌ها و ابزارهای دیگر برای سازماندهی انجام می‌دهند. ما این قابلیت‌ها را از نزدیک بررسی می‌کنیم تا ببینیم چه مواردی را واقعاً می‌خواهیم انتخاب کرده و ادغام کنیم. شاید یک تخته وایت‌برد در مقر شرکت باشد که کلمه megaraid روی آن خط‌خطی شده، اما ما به راه‌هایی برای تشخیص خودکار نبردهای PvP در حال وقوع نیز فکر کرده‌ایم تا سرورها کمی گسترش یابند و جریان مبارزه مداوم بماند. اما می‌توانم بگویم وضعیت پایان بتا همان چیزی است که برای لانچ بازی باید انتظار داشته باشید.",
-     "by": "Frank Williams — Principal Software Engineer"
-    },
-    {
-     "t": "h",
-     "x": "جابه‌جایی میان مناطق و ناپدید شدن بازیکنان"
-    },
-    "مشکل رایج‌تر میان بازیکنان، لیرینگ هنگام عبور از مرز مناطق مختلف است؛ برای نمونه هنگامی که بازیکنان Alliance از Hillsbrad Foothills وارد Silverpine Forest می‌شوند، عبور از مرز منطقه ممکن است باعث ناپدید شدن ناگهانی همراهان به دلیل انتقال به لیرهای جدید شود.",
-    {
-     "t": "quote",
-     "x": "یکی از مواردی که می‌توانیم تنظیم کنیم این است که کدام مناطق واقعاً به یکدیگر متصل باشند. به همین دلیل است که وقتی در Durotar مشغول تماشای دوئل‌ها هستید، ناگهان فردی ظاهر می‌شود چون از Orgrimmar بیرون آمده است. برای لانچ، این تنظیم اهمیت دارد چون Durotar بسیار شلوغ خواهد بود در حالی که افراد زیادی در Orgrimmar معطل نخواهند ماند؛ اما بعداً این وضعیت برعکس می‌شود. ما می‌توانیم زمان گروه‌بندی بخش‌ها را با دقت تنظیم کنیم، بنابراین وضعیت در زمان لانچ ممکن است با یک ماه پس از آن بسیار متفاوت باشد.",
-     "by": "Frank Williams — Principal Software Engineer"
-    },
-    {
-     "t": "note",
-     "x": "طبق توضیحات ارائه شده، این تنظیمات لیرینگ در روزهای پایانی بتا و تست استرس نیز اعمال شده بودند و گرچه لیرینگ میان مناطق همچنان دیده خواهد شد، بهینه‌سازی‌های بیشتری در دست توسعه است.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "بلیزارد",
-    "لیرینگ",
-    "PvP"
-   ],
-   "items": [],
-   "title_en": "Blizzard Working on Top Layering Issues in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383650",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383650-blizzard-working-on-top-layering-issues-in-wow-forever.html",
-   "published_at": "2026-10-29T18:12:11Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383650/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383650/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3418,20 +3381,6 @@
    "url": "https://www.wowhead.com/news=383750",
    "category": "Forever",
    "published_at": "2026-11-05T00:51:34Z"
-  },
-  {
-   "id": 383751,
-   "title_en": "Obtain the Pouch of Violet Dust Toy - Increases Camp Benefits by 1 Hour",
-   "url": "https://www.wowhead.com/news=383751",
-   "category": "Forever",
-   "published_at": "2026-11-05T00:32:54Z"
-  },
-  {
-   "id": 383749,
-   "title_en": "World of Warcraft: Forever is Now Live",
-   "url": "https://www.wowhead.com/news=383749",
-   "category": "Forever",
-   "published_at": "2026-11-04T23:01:38Z"
   },
   {
    "id": 383748,
@@ -3684,6 +3633,20 @@
    "url": "https://www.wowhead.com/news=383540",
    "category": "Forever",
    "published_at": "2026-10-22T16:21:06Z"
+  },
+  {
+   "id": 383487,
+   "title_en": "The Current State of Protection Paladins in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383487",
+   "category": "Forever",
+   "published_at": "2026-10-21T19:06:30Z"
+  },
+  {
+   "id": 383519,
+   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383519",
+   "category": "Live",
+   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
