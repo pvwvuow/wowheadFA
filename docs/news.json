@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T07:13:16Z",
+ "generated": "2026-11-08T09:46:34Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2092,6 +2092,46 @@
    ]
   },
   {
+   "id": 383748,
+   "slug": "secret-twitch-drop-awarded-pouch-of-violet-dust-toy-to-live-stream-vie",
+   "title_fa": "دریافت اسباب‌بازی مخفی Pouch of Violet Dust از طریق Twitch Drops",
+   "lead_fa": "بینندگان پخش زندهٔ ساخت آیتم لجندری در توییچ موفق به دریافت اسباب‌بازی Pouch of Violet Dust از طریق یک دراپ مخفی شدند.",
+   "body_fa": [
+    "بازیکنانی که استریم Legendary crafting را در Twitch تماشا می‌کردند، یک Twitch Drop غیرمنتظره دریافت کرده‌اند که پاداش آن اسباب‌بازی [[item:Pouch of Violet Dust]] است. اگر این استریم را تماشا کرده‌اید، می‌توانید به بخش دراپ‌های حساب کاربری خود بروید و این جایزه را Claim کنید.",
+    {
+     "t": "h",
+     "x": "شرایط دریافت و زمان‌بندی"
+    },
+    "در لحظات پایانی استریم و هنگام رونمایی از Taldramir, the Whispering Wood، روند تکمیل این دراپ برای بازیکنان به پایان رسید. با این حال معیارهای دقیق برای به دست آوردن آن هنوز نامشخص است؛ بسیاری از بازیکنان اعلام کردند که این آیتم را در پایان استریم Legendary Crafting به دست آورده‌اند، در حالی که برخی دیگر گزارش داده‌اند که با تماشای هر استریمر فعال در بخش WoW در همان بازهٔ زمانی موفق به دریافت آن شده‌اند.",
+    {
+     "t": "note",
+     "x": "در صفحهٔ مربوط به این دراپ، زمان پایان رویداد روز چهارشنبه، ۴ نوامبر در ساعت 1:59 PM PST / 4:59 PM EST ثبت شده است.",
+     "kind": "info"
+    },
+    "با توجه به این‌که زمان ذکرشده اکنون سپری شده است، به نظر می‌رسد این Twitch Drop دیگر در دسترس نیست و صرفاً به بازیکنانی داده شده که هنگام پخش زندهٔ رونمایی از آیتم لجندری مشغول تماشای استریم‌های WoW بوده‌اند. همچنین به دلیل مشخص نبودن پیش‌نیازهای دقیق، هنوز معلوم نیست که آیا تماشای کانال رسمی Warcraft در Twitch یا هر کانال دیگری می‌تواند مجدداً این Toy را در اختیار بازیکنان بگذارد یا خیر."
+   ],
+   "tags_fa": [
+    "توییچ دراپ",
+    "اسباب بازی",
+    "استریم"
+   ],
+   "items": [],
+   "title_en": "Secret Twitch Drop Awarded Pouch of Violet Dust Toy to Live Stream Viewers in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383748",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383748-secret-twitch-drop-awarded-pouch-of-violet-dust-toy-to-live-stream-vie.html",
+   "published_at": "2026-11-04T22:18:26Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383748/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383748/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383747,
    "slug": "taldramir-the-whispering-wood-revealed-as-wow-forever-legendary",
    "title_fa": "رونمایی از سلاح لجندری Taldramir, the Whispering Wood برای WoW: Forever",
@@ -3329,45 +3369,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383658,
-   "slug": "talebound-awards-two-pieces-of-mythic-venomous-abyss-loot",
-   "title_fa": "دو آیتم افسانه‌ای از رید Venomous Abyss به عنوان جایزه در Talebound",
-   "lead_fa": "با تکمیف دو دستاورد جدید در Talebound، بازی‌کنندگان می‌توانند دو آیتم افسانه‌ای از رید Mythic Venomous Abyss را دریافت کنند.",
-   "body_fa": [
-    "بازی‌کنندگان با تکمیف دو دستاورد جدید در Talebound، دو آیتم از لوت رید Mythic Venomous Abyss را به عنوان جایزه دریافت خواهند کرد.",
-    {
-     "t": "h",
-     "x": "اطلاعات بیشتر"
-    },
-    "این‌ها پاداش‌های استخراج شده از داده‌ها در بیلد PTR نسخه ۱۲.۱.۷ هستند. ما در حال گزارش پاداش‌های فعلی دستاوردها بر اساس استخراج داده‌ها هستیم و معتقدیم این موضوع شایستهٔ برجسته شدن است. این تغییرات به عنوان پاداش‌ها تأیید نشده‌اند و ممکن است قبل از عرضه تغییر کنند.",
-    "Talebound یک حالت بازی جدید و مستقل است که در نسخه ۱۲.۱.۷ عرضه می‌شود. بازی‌کنندگان در یک ماجراجویی جدید rogue-lite به عنوان یکی از سه کلاس: The Slayer، The Inquisitor یا The Witch شرکت خواهند کرد. شرکت در Talebound به بازی‌کنندگان پاداش‌های زیادی می‌دهد و در آخرین بیلد PTR نسخه ۱۲.۱.۷، ما دستاوردها و پاداش‌های جدید را استخراج کرده‌ایم!",
-    "دو مورد از این دستاوردها Confronting a Mythic Tale و Mythic: The Comprehensive Final Confrontation هستند که به نظر می‌رسد پاداش‌های پایان بازی محسوب می‌شوند. هر دو دستاورد نیاز دارند که بازی‌کنندگان آن‌ها را در سطح دشواری Mythic تکمیل کنند و از آنجایی که این یک بازی Roguelite است، بازی‌کنندگان احتمالاً آپگرید بسیاری از سیستم‌های مختلف خواهند داشت تا توانایی کافی برای مقابله با آن را داشته باشند. این دو دستاورد پاداش بسیار منحصر به فردی دارند: [[item:Cache of Mythic Treasures]].",
-    "این به این معنی است که بازی‌کنندگان می‌توانند لوت رید Mythic Venomous Abyss را بدون ورود به رید Mythic دریافت کنند. ما از زمان Warlords of Draenor و میز مأموریت، چنین کش‌هایی را ندیده‌ایم، جایی که بازی‌کنندگان می‌توانستند یک کش Mythic از مأموریت‌های همراه خود دریافت کنند پس از شکست دادن ۱۵ باس کلیک Heroic.",
-    "هنوز مشخص نیست که این آیتم‌ها می‌توانند آیتم‌های Mythic ۹/۶ از ریدهای Mythic Coiled Altar و Ula'tek را بدهند، اما اگر بتوانند، بسیاری از بازی‌کنندگان امیدوارند که در باز کردن این کش خوششان بیاید. تست Talebound فردا آغاز می‌شود و باید ببینیم که تکمیف سطح دشواری Mythic برای دریافت این پاداش‌ها چقدر دشوار خواهد بود."
-   ],
-   "tags_fa": [
-    "Talebound",
-    "PTR",
-    "Venomous Abyss",
-    "Mythic"
-   ],
-   "items": [],
-   "title_en": "Talebound Awards Two Pieces of Mythic Venomous Abyss Loot",
-   "source_url": "https://www.wowhead.com/news=383658",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383658-talebound-awards-two-pieces-of-mythic-venomous-abyss-loot.html",
-   "published_at": "2026-10-29T22:39:33Z",
-   "model": "GLM",
-   "via": "auto-glm",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383658/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383658/1.png",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3384,13 +3385,6 @@
    "url": "https://www.wowhead.com/news=383750",
    "category": "Forever",
    "published_at": "2026-11-05T00:51:34Z"
-  },
-  {
-   "id": 383748,
-   "title_en": "Secret Twitch Drop Awarded Pouch of Violet Dust Toy to Live Stream Viewers in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383748",
-   "category": "Forever",
-   "published_at": "2026-11-04T22:18:26Z"
   },
   {
    "id": 383742,
