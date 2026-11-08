@@ -1,8 +1,63 @@
 {
- "generated": "2026-11-08T06:17:21Z",
+ "generated": "2026-11-08T07:13:16Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383805,
+   "slug": "layering-issues-in-thousand-needles-harpy-cave-result-in-quest-competi",
+   "title_fa": "مشکلات Layering در غار هارپی‌های Thousand Needles و رقابت شدید برای کوئست‌ها",
+   "lead_fa": "اختلال در سیستم Layering در غار Roguefeather Den واقع در Thousand Needles باعث ازدحام بیش از حد بازیکنان و رقابت سنگین بر سر ماب‌های کوئست شده است.",
+   "body_fa": [
+    "در منطقهٔ Thousand Needles، غاری پر از هارپی به نام Roguefeather Den وجود دارد که چندین کوئست بازیکنان را به درون آن هدایت می‌کند. با این حال، به نظر می‌رسد سیستم Layering درون این غار دچار اختلال شده و تعداد بسیار زیادی از بازیکنان را در فضایی کوچک گرد هم آورده است.",
+    {
+     "t": "h",
+     "x": "کوئست‌های تحت تأثیر در Roguefeather Den"
+    },
+    "این منطقه میزبان مجموعه‌ای از ماب‌ها و کوئست‌ها است که تکمیل آن‌ها به دلیل رقابت شدید بازیکنان با مشکل مواجه شده است:",
+    {
+     "t": "ul",
+     "xs": [
+      "Test of Endurance",
+      "Stop the Screeching",
+      "Stolen Freewind Supplies"
+     ]
+    },
+    "این ازدحام موجب شده رقابت بسیار سنگینی برای تگ کردن ماب‌های اهداف کوئست ایجاد شود. به طور خاص، ماب‌های Grenka Bloodscreech و Screeching Windcaller زمان ریسپاون نادرتر و طولانی‌تری دارند و به دلیل همین اختلالات لیرینگ، اتمام کوئست‌های مربوط به آن‌ها ممکن است زمان زیادی ببرد.",
+    {
+     "t": "h",
+     "x": "نشانه‌های ادغام ناقص لیرها"
+    },
+    "درون این غار پدیده‌های عجیبی مشاهده می‌شود؛ از جمله این‌که بازیکنان دیگر در حال حمله به اهدافی دیده می‌شوند در حالی که خود هدف برای شما قابل مشاهده نیست. علاوه بر این، افکت سایلنس محیطی (AoE silence) هارپی‌هایی که در لیرهای دیگر قرار دارند به شما اصابت می‌کند، بدون این‌که چیزی در لیر خودتان ببینید. این وضعیت نشان می‌دهد که لیرها تنها به صورت ناقص ادغام شده‌اند.",
+    "از زمان عرضهٔ WoW: Forever باگ‌های عجیبی در سیستم لیرینگ گزارش شده است؛ در روز اول بازیکنان از خلوت بودن بیش از حد مناطق شکایت داشتند، اما در حال حاضر گزارش‌ها از شلوغی بیش از حد و لزوم رقابت برای ریسپاون ماب‌های کوئست حکایت دارد. به بازیکنانی که این ماب‌ها را در دست دارند پیشنهاد می‌شود انجام آن‌ها را به بعد یا پس از رفع این ایرادات موکول کنند.",
+    {
+     "t": "note",
+     "x": "در کوئست Test of Endurance باگ دیگری نیز وجود دارد؛ اگر پس از لوت کردن claw هدف کوئست شما به‌روزرسانی نشد، برای ثبت آن باید یک بار relog کنید.",
+     "kind": "warn"
+    }
+   ],
+   "tags_fa": [
+    "باگ",
+    "WoW Forever",
+    "لیرینگ",
+    "Thousand Needles"
+   ],
+   "items": [],
+   "title_en": "Layering Issues in Thousand Needles Harpy Cave Result in Quest Competition Issues",
+   "source_url": "https://www.wowhead.com/news=383805",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383805-layering-issues-in-thousand-needles-harpy-cave-result-in-quest-competi.html",
+   "published_at": "2026-11-08T03:11:52Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383805/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383805/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383803,
    "slug": "quests-give-no-gold-at-level-60-in-wow-forever-intentional-change-acco",
@@ -2171,6 +2226,45 @@
    ]
   },
   {
+   "id": 383740,
+   "slug": "new-alliance-and-horde-twitch-chat-badges-for-subs-to-wow-streamers",
+   "title_fa": "نشان‌های چت توییچ برای Alliance و Horde با ساب به استریمرهای WoW",
+   "lead_fa": "هم‌زمان با آغاز نوامبر، بینندگان توییچ می‌توانند با ساب یا هدیه دادن ساب به استریمرهای World of Warcraft، نشان‌های جدید Alliance و Horde را برای چت دریافت کنند.",
+   "body_fa": [
+    "با راه‌اندازی World of Warcraft: Forever در تاریخ ۴ نوامبر ۲۰۲۶ (بر اساس خبر شمارهٔ 383740 در دورهٔ Patch 12.1.5)، نشان‌های چت جدیدی برای نمایش Faction Pride در پلتفرم Twitch در دسترس قرار گرفته است.",
+    {
+     "t": "h",
+     "x": "نحوهٔ دریافت و مهلت رویداد"
+    },
+    "بینندگان می‌توانند در طول ماه November با ساب زدن یا هدیه دادن ساب (gift a sub) به استریمر محبوب خود در بازی WoW این نشان‌ها را آزاد کنند. فرصت دریافت این پاداش تا پایان ماه و نیمه‌شب ۳۰ نوامبر (11/30) تعیین شده است.",
+    {
+     "t": "note",
+     "x": "این رویداد هم‌زمان با لانچ WoW Forever فعال شده و برای ثبت آن باید تا انتهای ۳۰ نوامبر اقدام کنید. نظرات پیرامون استریم از سال 2019 تاکنون و در میان ۱۳ دیدگاه ثبت‌شده کاربران نیز بازتاب داشته و در کنار اخباری نظیر تغییرات کوئست‌های لول 60 و تیونینگ ۱۰ نوامبر مطرح شده است.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "توییچ",
+    "World of Warcraft",
+    "پاداش"
+   ],
+   "items": [],
+   "title_en": "New Alliance and Horde Twitch Chat Badges for Subs to WoW Streamers",
+   "source_url": "https://www.wowhead.com/news=383740",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383740-new-alliance-and-horde-twitch-chat-badges-for-subs-to-wow-streamers.html",
+   "published_at": "2026-11-04T19:12:22Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383740/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383740/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383724,
    "slug": "classic-shaman-discord-open-again-after-13-hours",
    "title_fa": "بازگشایی سرور دیسکورد Classic Shaman پس از حدود ۱۳ ساعت",
@@ -3274,134 +3368,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383656,
-   "slug": "everything-you-need-to-know-for-wow-forever-s-global-launch",
-   "title_fa": "لانچ جهانی WoW: Forever در ۴ نوامبر؛ همه‌چیز که باید بدانید",
-   "lead_fa": "Blizzard همه‌چیزهایی را که پیش از لانچ جهانی WoW: Forever در ۴ نوامبر ساعت ۱۵:۰۰ به وقت PDT لازم است بدانید، یک‌جا جمع‌بندی کرده است؛ از مناطق جدید و نژاد Skyborne تا سیستم Legacy و قوانین بازی.",
-   "body_fa": [
-    "کمتر از یک هفته دیگر، در تاریخ ۴ نوامبر ساعت ۱۵:۰۰ به وقت PDT، WoW: Forever به‌صورت جهانی راه‌اندازی می‌شود. Blizzard در یک پست رسمی فهرست کاملی از آنچه باید بدانید داده است: مناطق جدید، نژاد تازهٔ Skyborne، پیش‌تنظیم‌های تجربه، قوانین بازی، سیستم کمپ، سیستم Legacy و برنامهٔ دانژون‌ها و ریدها. داستان بازی پس از رویدادهای Warcraft III Reforged: Forsaken Kingdom و پیش از Molten Core می‌گذرد و سفر ماجراجویان تا سطح ۶۰ ادامه دارد.",
-    {
-     "t": "h",
-     "x": "مناطق جدید و بازآفرینی‌شده"
-    },
-    "WoW: Forever پادشاهی‌های Eastern Kingdoms و Kalimdor را با مناطق جدید و بازآفرینی‌شده گسترش می‌دهد و بیش از ۱۰۰۰ کوئست جدید در مسیر سطح ۱ تا ۶۰ اضافه می‌کند. در Mount Hyjal پیامدهای شکست Archimonde را می‌بینید و از Darkwhisper Gorge می‌گذرید. در Shen'dralas رازی دیرینه میان Mulgore و Desolace به ماجرایی متصل به Shen'dralar، Eldre'Thalas، Dire Maul و قبایل سانتور تبدیل می‌شود. The Riverglades مرز خشنِ رودخانه‌ها و مسیرهای تجاری است با بیش از ۱۵۰ کوئست جدید در بازهٔ میانهٔ سطح ۳۰ تا میانهٔ ۴۰، و Zephras Isle تجربهٔ شروع عنصری سطوح ۱ تا ۱۲ است که زیبایی‌شناسی کلاسیک Warcraft را با معماری الهام‌گرفته از Skywall ترکیب می‌کند.",
-    {
-     "t": "h",
-     "x": "Skyborne و ترکیب‌های جدید نژاد و کلاس"
-    },
-    "Skyborne (همان shen'dorei یا مردمان پنهان) نژاد قابل‌بازی جدید بازی است که سفرش از Zephras Isle شروع می‌شود؛ در لحظهٔ ساخت شخصیت انتخاب می‌کنید Horde باشید یا Alliance. نسخهٔ Horde یعنی Windshapers که Shaman می‌شوند و نسخهٔ Alliance یعنی High-Order Skyborne که Mage می‌شوند. در کنار آن، ترکیب‌های تازه‌ای مثل Orc Mage، Troll Warlock، Undead Paladin، Human Hunter، Gnome Priest و Dwarf Shaman هم در دسترس خواهند بود.",
-    {
-     "t": "h",
-     "x": "انتخاب پیش‌تنظیم تجربه"
-    },
-    {
-     "t": "table",
-     "head": [
-      "پیش‌تنظیم",
-      "تنظیمات شروع"
-     ],
-     "rows": [
-      [
-       "Classic",
-       "مدل‌های Standard Definition؛ علائم و نقاط کوئست خاموش؛ One-bag خاموش؛ Transmog خاموش؛ چرخش دوربین با کیبورد؛ چیدمان کلاسیک رابط کاربری"
-      ],
-      [
-       "Enhanced",
-       "مدل‌های High Definition؛ علائم و نقاط کوئست روشن؛ One-bag روشن؛ Transmog روشن؛ حرکت استریف با کیبورد؛ رابط کاربری متمرکز"
-      ]
-     ]
-    },
-    "اگر مطمئن نیستید کدام را انتخاب کنید، با Enhanced شروع کنید؛ این پیش‌تنظیم فقط یک نقطهٔ شروع است و می‌توانید بعداً زیر Game Menu > Options تنظیماتش را عوض کنید. در ساخت هر شخصیت جدید هم بین مدل‌های HD و SD یکی را برمی‌گزینید؛ این انتخاب فقط ظاهر را تغییر می‌دهد، نه توانایی‌ها و پیشرفت را.",
-    {
-     "t": "h",
-     "x": "انتخاب Ruleset به‌جای رلم"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "Normal: تمرکز روی ماجراجویی و مبارزه با هیولاها؛ جنگ با بازیکنان دیگر فقط در صورت تمایل خودتان.",
-      "PvP: تقریباً همیشه در معرض حملهٔ بازیکنان مخالف هستید.",
-      "Roleplay: قوانین سخت‌گیرانهٔ نام‌گذاری و رفتار برای بازیکنانی که می‌خواهند در نقش یک شخصیت در دنیای فانتزی غرق شوند.",
-      "Roleplay PvP: همان قوانین نقش‌آفرینی، این بار در دنیایی متمرکز بر مبارزهٔ بازیکن در برابر بازیکن."
-     ]
-    },
-    "در WoW: Forever به‌جای انتخاب «رلم درست»، نوع تجربه‌ای را انتخاب می‌کنید که می‌خواهید در آن قدم بگذارید و هر Ruleset یک اکوسیستم بزرگ بازیکن است. برای چالش نهایی، Ruleset Hardcore با مرگی که عواقب ماندگار دارد مدتی بعد از لانچ اضافه می‌شود. نام شخصیت‌ها هم ساختار دونامی تازه‌ای دارد؛ دو بخش نام، یک نام کامل یکتا در سطح منطقه می‌سازند.",
-    {
-     "t": "h",
-     "x": "کمپ اشتراکی و سیستم Legacy"
-    },
-    "سیستم Camping آتشِ پایهٔ حرفهٔ Cooking را به یک کمپ اشتراکی تبدیل می‌کند؛ بازیکنان نزدیک به هم می‌توانند تا سه Camp Feature ساخته‌شده با حرفه به کمپ اضافه کنند و برای بهره‌بردن از باف‌های آن — که با باف‌های کلاسیکِ متناظر ناسازگارند — دست‌کم ۱ دقیقه در کمپ بنشینید یا ساخت بزنید. سیستم Legacy هم یک سیستم پیشرفت افقی همگانی روی حساب است با سه بخش Legacy Challenges، Legacy Perks و Legacy Rewards؛ ساختن آلت شرط بهره‌بردن از آن نیست و همهٔ مزایا روی یک شخصیت هم باز می‌شوند.",
-    "در لانچ ۹ دانژون پنج‌نفرهٔ جدید برای سطوح ۱۳ تا ۶۰ راه می‌افتد و در ۹ دسامبر بازیکنان سطح ۶۰ با سه رید Barrow Deeps، Hyjal Summit و Onyxia's Lair آزمایش می‌شوند. در PvP، نبرد Battle for the Darkspear Islands در سواحل Dustwallow Marsh یک جنگ ۱۵ در برابر ۱۵ میان Darkspear Raiders و Theramore Expeditionary Force است. WoW: Forever در ۴ نوامبر ساعت ۱۵:۰۰ به وقت PDT رسماً جهانی می‌شود."
-   ],
-   "tags_fa": [
-    "WoW: Forever",
-    "لانچ جهانی",
-    "Skyborne",
-    "Legacy System"
-   ],
-   "items": [],
-   "title_en": "Everything You Need to Know for WoW: Forever's Global Launch",
-   "source_url": "https://www.wowhead.com/news=383656",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383656-everything-you-need-to-know-for-wow-forever-s-global-launch.html",
-   "published_at": "2026-10-29T21:09:39Z",
-   "model": "GLM",
-   "via": "auto-glm",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383656/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383656/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383649,
-   "slug": "forced-world-refreshes-will-be-significantly-reduced-for-wow-forever",
-   "title_fa": "کاهش چشمگیر رفرش‌های اجباری لایه‌ها در WoW: Forever",
-   "lead_fa": "در WoW: Forever هنگام لانچ، جوین کردن گروه دیگر به‌صورت خودکار بازی‌کننده را فاز نمی‌کند و رفرش‌های اجباری لایه به مراتب کمتر رخ خواهد داد.",
-   "body_fa": [
-    "فرانک ویلیامز، مهندس ارشد نرم‌افزار، در قسمت ششم پادکست WoW: Forever درباره فناوری جدید layering صحبت کرد. چون در این نسخه دیگر Realm وجود ندارد، سیستم به‌گونه‌ای طراحی شده که بازیکنان را در بخشی از جهان قرار می‌دهد که فکر می‌کند جامعه آن‌ها آنجا حضور دارد؛ چه بازیکنانی که ممکن است بشناسید یا گیلدهای متحد و دشمن.",
-    "هدف اصلی ایجاد ثبات و تعامل‌های تکراری است تا هنگام لولینگ افراد یکسان را ببینید و احتمال تشکیل گروه برای دانجن یا جوین گیلد بیشتر شود.",
-    "در بتا بسیاری از بازیکنان متوجه پاپ‌آپ جدیدی شدند که هنگام زمان‌بندی لایه شدن نمایش داده می‌شد. در ابتدای بتا این اتفاق بسیار زیاد رخ می‌داد چون الگوریتم‌ها بیش از حد تهاجمی عمل می‌کردند و تلاش می‌کردند همه را با جامعه‌شان هم‌گروه کنند.",
-    "با گذشت زمان و تنظیمات انجام‌شده، تعداد جابه‌جایی‌ها به شکل محسوسی کاهش یافت. پس از دو هفته اول و فاین‌تیونینگ، تیم متوجه شد سیستم بدون نیاز به اجبار جامعه را حفظ می‌کند.",
-    "در لانچ فلسفه پاپ‌آپ تغییر می‌کند: به‌طور کلی بازیکنان جابه‌جا نخواهند شد و این اعلان در ظرفیت محدودتر و با لحن دوستانه‌تری ظاهر می‌شود. وقتی گروهی جوین می‌کنید، فقط پاپ‌آپ نمایش داده می‌شود و انتقال خودکار انجام نمی‌گیرد.",
-    "این تغییر به‌ویژه برای حالت Hardcore اهمیت دارد تا بازیکنان در میانه مبارزه یا داخل غار به‌طور ناگهانی به نقطه‌ای منتقل نشوند که Elite در کنارشان باشد. بازیکنان حالا یک بازه زمانی برای تصمیم‌گیری درباره تغییر لایه خواهند داشت.",
-    "در مقابل بتا و نسخه Retail که جوین گروه باعث فاز شدن خودکار می‌شود، در WoW: Forever این اتفاق رخ نمی‌دهد و انتخاب با خود بازی‌کننده است. سیستم جدید لایه‌بندی انتظار می‌رود تعامل‌های تکراری با بازیکنان و گیلدها را افزایش دهد و تجربه‌ای شبیه جریان Classic ارائه کند."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "Layering",
-    "پادکست",
-    "لانچ"
-   ],
-   "items": [],
-   "title_en": "Forced World Refreshes Will Be Significantly Reduced for WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383649",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383649-forced-world-refreshes-will-be-significantly-reduced-for-wow-forever.html",
-   "published_at": "2026-10-29T19:44:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383649/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383649/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383805,
-   "title_en": "Layering Issues in Thousand Needles Harpy Cave Result in Quest Competition Issues",
-   "url": "https://www.wowhead.com/news=383805",
-   "category": "Forever",
-   "published_at": "2026-11-08T03:11:52Z"
-  },
   {
    "id": 383768,
    "title_en": "Every Quest for Dungeons up to Level 20 in WoW: Forever",
@@ -3436,13 +3405,6 @@
    "url": "https://www.wowhead.com/news=383741",
    "category": "Forever",
    "published_at": "2026-11-04T19:38:53Z"
-  },
-  {
-   "id": 383740,
-   "title_en": "New Alliance and Horde Twitch Chat Badges for Subs to WoW Streamers",
-   "url": "https://www.wowhead.com/news=383740",
-   "category": "WoW",
-   "published_at": "2026-11-04T19:12:22Z"
   },
   {
    "id": 383738,
@@ -3674,6 +3636,13 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }

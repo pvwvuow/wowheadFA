@@ -1,27 +1,7 @@
 {
  "day": "2026-11-08",
- "published_today": 5,
+ "published_today": 7,
  "held": {
-  "383742": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-08T03:13:06Z",
-   "at_ts": 1794107586.698841
-  },
-  "383735": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-08T03:18:38Z",
-   "at_ts": 1794107918.213054
-  },
-  "383722": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-08T03:21:47Z",
-   "at_ts": 1794108107.73401
-  },
-  "383695": {
-   "reason": "بازبین پاسخ معتبر نداد: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-08T03:35:31Z",
-   "at_ts": 1794108931.508405
-  },
   "383748": {
    "reason": "بازبین پاسخ معتبر نداد: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
    "at": "2026-11-08T05:01:52Z",
@@ -56,73 +36,30 @@
    "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
    "at": "2026-11-08T06:08:31Z",
    "at_ts": 1794118111.153476
+  },
+  "383768": {
+   "reason": "G5 English token not in source: raptor",
+   "at": "2026-11-08T06:47:38Z",
+   "at_ts": 1794120458.132322
+  },
+  "383741": {
+   "reason": "در بخش note ادعا شده «حضور حضوری GMها در ۱۱ نوامبر» رخ داده است، در حالی که در سایدبار منبع «11h» یعنی ۱۱ ساعت پیش بوده و تاریخ ۱۱ نوامبر نیست.",
+   "at": "2026-11-08T06:56:22Z",
+   "at_ts": 1794120982.25797
+  },
+  "383736": {
+   "reason": "G4 numbers from source missing in article: 10, 11, 12, 12.1.5, 20, 2026, 23, 383736",
+   "at": "2026-11-08T07:11:53Z",
+   "at_ts": 1794121913.373619
   }
  },
- "ingest_fails": {},
- "updated_at": "2026-11-08T06:16:08Z",
+ "ingest_fails": {
+  "383742": 1
+ },
+ "updated_at": "2026-11-08T07:11:53Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383749",
-    "ts": "2026-11-07T02:19:11Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 47.6,
-    "attempts": 1
-   },
-   {
-    "id": "383748",
-    "ts": "2026-11-07T02:19:50Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 39.0,
-    "attempts": 1
-   },
-   {
-    "id": "383747",
-    "ts": "2026-11-07T02:20:57Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 66.9,
-    "attempts": 1
-   },
-   {
-    "id": "383744",
-    "ts": "2026-11-07T02:21:25Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 28.6,
-    "attempts": 1
-   },
-   {
-    "id": "383742",
-    "ts": "2026-11-07T02:22:15Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 49.2,
-    "attempts": 1
-   },
-   {
-    "id": "383741",
-    "ts": "2026-11-07T02:23:02Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 47.5,
-    "attempts": 1
-   },
    {
     "id": "383740",
     "ts": "2026-11-07T02:23:58Z",
@@ -4062,6 +3999,66 @@
     "warns": 0,
     "sec": 48.1,
     "attempts": 1
+   },
+   {
+    "id": "383805",
+    "ts": "2026-11-08T06:41:21Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 190.3,
+    "attempts": 1
+   },
+   {
+    "id": "383768",
+    "ts": "2026-11-08T06:47:38Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 376.7,
+    "attempts": 2
+   },
+   {
+    "id": "383742",
+    "ts": "2026-11-08T06:48:44Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 66.6,
+    "attempts": 0
+   },
+   {
+    "id": "383741",
+    "ts": "2026-11-08T06:56:22Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 457.5,
+    "attempts": 2
+   },
+   {
+    "id": "383740",
+    "ts": "2026-11-08T07:03:24Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 1,
+    "sec": 421.8,
+    "attempts": 2
+   },
+   {
+    "id": "383736",
+    "ts": "2026-11-08T07:11:53Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 509.3,
+    "attempts": 2
    }
   ]
  }
