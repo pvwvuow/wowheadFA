@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T20:17:43Z",
+ "generated": "2026-11-08T21:40:42Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3373,6 +3373,13 @@
  ],
  "queue": [
   {
+   "id": 383808,
+   "title_en": "Blizzard Buffs Dungeon Enemy Experience Gains",
+   "url": "https://www.wowhead.com/news=383808",
+   "category": "Forever",
+   "published_at": "2026-11-08T19:52:00Z"
+  },
+  {
    "id": 383792,
    "title_en": "Everything About WoW: Forever Raids - Joardee Interview on WoW: Forever",
    "url": "https://www.wowhead.com/news=383792",
@@ -3644,13 +3651,6 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
