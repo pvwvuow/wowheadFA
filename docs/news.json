@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T09:46:34Z",
+ "generated": "2026-11-08T15:31:34Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3372,6 +3372,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383802,
+   "title_en": "The Darkmoon Faire is Coming To Elwynn Forest First in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383802",
+   "category": "Forever",
+   "published_at": "2026-11-08T15:00:00Z"
+  },
   {
    "id": 383768,
    "title_en": "Every Quest for Dungeons up to Level 20 in WoW: Forever",
