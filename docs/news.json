@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T02:43:53Z",
+ "generated": "2026-11-08T04:00:12Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3369,6 +3369,13 @@
  ],
  "queue": [
   {
+   "id": 383805,
+   "title_en": "Layering Issues in Thousand Needles Harpy Cave Result in Quest Competition Issues",
+   "url": "https://www.wowhead.com/news=383805",
+   "category": "Forever",
+   "published_at": "2026-11-08T03:11:52Z"
+  },
+  {
    "id": 383768,
    "title_en": "Every Quest for Dungeons up to Level 20 in WoW: Forever",
    "url": "https://www.wowhead.com/news=383768",
@@ -3640,13 +3647,6 @@
    "url": "https://www.wowhead.com/news=383540",
    "category": "Forever",
    "published_at": "2026-10-22T16:21:06Z"
-  },
-  {
-   "id": 383487,
-   "title_en": "The Current State of Protection Paladins in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383487",
-   "category": "Forever",
-   "published_at": "2026-10-21T19:06:30Z"
   }
  ]
 }
