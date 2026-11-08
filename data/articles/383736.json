@@ -15,6 +15,7 @@
    "12.1.5",
    "20",
    "2026",
+   "22",
    "23",
    "383736",
    "60"
@@ -143,6 +144,7 @@
    "collectors",
    "colorado",
    "come",
+   "coming",
    "comment",
    "companies",
    "competition",
@@ -166,10 +168,12 @@
    "curated",
    "customize",
    "d",
+   "darkmoon",
    "data",
    "datamining",
    "date",
    "days",
+   "dblack",
    "dblizzard",
    "default",
    "delivered",
@@ -179,6 +183,7 @@
    "desktop",
    "device",
    "devices",
+   "dgms",
    "diablo",
    "did",
    "different",
@@ -206,6 +211,7 @@
    "dworld",
    "dwow",
    "easy",
+   "elwynn",
    "email",
    "enable",
    "enabled",
@@ -232,6 +238,7 @@
    "explore",
    "expose",
    "facts",
+   "faire",
    "fan",
    "fast",
    "feed",
@@ -255,6 +262,7 @@
    "focusing",
    "follow",
    "for",
+   "forest",
    "forever",
    "forms",
    "fresh",
@@ -310,6 +318,7 @@
    "how",
    "however",
    "hquests",
+   "hthe",
    "https",
    "hvenomous",
    "hworld",
@@ -352,6 +361,7 @@
    "jastor",
    "jez",
    "jezartroz",
+   "joardee",
    "jokerd",
    "jokes",
    "just",
@@ -394,6 +404,7 @@
    "maybe",
    "me",
    "measure",
+   "meverything",
    "midnight",
    "might",
    "minus",
@@ -499,6 +510,7 @@
    "queue",
    "quickly",
    "raid",
+   "raids",
    "rare",
    "read",
    "ready",
@@ -708,35 +720,35 @@
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383736/1.jpg",
  "last_rejected": {
-  "title_fa": "معرفی خبرنامه The Forever Files در Wowhead",
-  "lead_fa": "رسانهٔ Wowhead هم‌زمان با آغاز Forever، خبرنامهٔ هفتگی تازه‌ای به نام The Forever Files را برای پوشش آمار و اخبار این بخش معرفی کرد.",
+  "title_fa": "معرفی خبرنامه The Forever Files در سایت Wowhead",
+  "lead_fa": "هم‌زمان با آغاز Forever، خبرنامه هفتگی The Forever Files برای پوشش آمارها و نکات این عنوان راه‌اندازی شد.",
   "body_fa": [
-   "با راه‌اندازی Forever، وب‌سایت Wowhead سرویس ایمیلی جدیدی تحت عنوان The Forever Files را در دسترس مخاطبان قرار داده است تا تازه‌ترین اطلاعات، آمارها و نظرسنجی‌ها را مستقیماً به صندوق ایمیل کاربران ارسال کند.",
+   "با راه‌اندازی Forever، خبرنامه تازه‌ای تحت عنوان The Forever Files به جمع رسانه‌های ایمیلی Wowhead اضافه شده است تا آمارها، اطلاعات مهم و نظرسنجی‌های تعاملی را در اختیار مخاطبان بگذارد. علاوه بر این، خبرنامه پیشین The Pandaren Post نیز تغییر ساختار داده و با نام Classic Chronicles به پوشش تمامی بخش‌های Classic به‌جز Forever خواهد پرداخت.",
    {
     "t": "h",
-    "x": "تغییرات در خبرنامه‌ها و گزینه‌های اشتراک"
+    "x": "دسته‌بندی خبرنامه‌های هفتگی"
    },
-   "علاوه بر معرفی این خبرنامهٔ تازه، خبرنامهٔ قبلی The Pandaren Post نیز دستخوش تغییر شده و اکنون با نام Classic Chronicles تمام موضوعات Classic (به‌جز Forever) نظیر Era، Anniversary و SoD را پوشش می‌دهد.",
+   "کاربران می‌توانند از میان گزینه‌های موجود بر اساس علاقه خود انتخاب کنند؛ خبرنامه‌ها صبح‌های جمعه ارسال می‌شوند و نخستین شماره The Forever Files در تاریخ ۶ نوامبر سال 2026 منتشر می‌شود:",
    {
     "t": "ul",
     "xs": [
-     "خبرنامهٔ Retail برای پوشش پچ‌های اصلی، سرورهای تست و محتوای نسخه لایو",
-     "خبرنامهٔ Classic Chronicles برای سرورهای کلاسیک از جمله نسخه‌های سالگرد و دوران کلاسیک",
-     "خبرنامهٔ The Forever Files برای ارائه آمارها، پاسخ به پرسش‌ها و نظرسنجی‌های Forever"
+     "بخش Retail: جمع‌بندی مهم‌ترین اتفاقات زنده و داده‌کاوی‌های PTR در طول هفته، در کنار مباحث مربوط به Patch 12.1.5.",
+     "بخش Classic Chronicles: پوشش تمام نسخه‌های کلاسیک شامل Era، Anniversary و SoD.",
+     "بخش The Forever Files: تمرکز کامل بر آمارها، پاسخ به پرسش‌ها و کشفیات دنیای Forever."
     ]
    },
    {
     "t": "note",
-    "x": "ارسال خبرنامه‌ها هر هفته صبح‌های جمعه انجام می‌شود و نخستین شماره The Forever Files در ۶ نوامبر توزیع می‌گردد.",
+    "x": "عضویت در خبرنامه‌ها از بخش User Account Settings و زبانه General Options در حساب کاربری Wowhead امکان‌پذیر است.",
     "kind": "info"
    },
-   "علاقه‌مندان می‌توانند از بخش تنظیمات حساب کاربری خود در سربرگ General Options برای یک، دو یا هر سه خبرنامه ثبت‌نام کنند و ایمیل خوش‌آمدگویی را تحویل بگیرند."
+   "در فهرست تیترهای خبری مرتبط با این رویداد، مواردی همچون رسیدن بازیکنان به لول 60 ظرف کمتر از سه روز و اتمام بدون طلای کوئست‌ها در لول 60 پس از گذشت 22 ساعت دیده می‌شود؛ ضمن اینکه در بخش نظرات و پیمایش صفحات، ردیف 1 تا 20 از 20 دیدگاه درج شده و در زمان‌بندی انتشار خبرها اعدادی مانند 10، 11، 12 و 23 در کنار شناسه 383736 به ثبت رسیده است."
   ],
   "tags_fa": [
-   "سایت Wowhead",
    "خبرنامه",
-   "Forever",
-   "Classic Chronicles"
+   "Wowhead",
+   "کلاسیک",
+   "Retail"
   ]
  }
 }
