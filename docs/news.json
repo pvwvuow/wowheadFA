@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T15:31:34Z",
+ "generated": "2026-11-08T19:35:33Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3372,6 +3372,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383792,
+   "title_en": "Everything About WoW: Forever Raids - Joardee Interview on WoW: Forever",
+   "url": "https://www.wowhead.com/news=383792",
+   "category": "Forever",
+   "published_at": "2026-11-08T19:00:00Z"
+  },
   {
    "id": 383802,
    "title_en": "The Darkmoon Faire is Coming To Elwynn Forest First in WoW: Forever",
