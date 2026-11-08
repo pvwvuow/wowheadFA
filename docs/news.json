@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T02:06:21Z",
+ "generated": "2026-11-08T03:36:51Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1310,6 +1310,53 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383774/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383773,
+   "slug": "mythic-twin-fangs-nerf-for-the-venomous-abyss-raid",
+   "title_fa": "کاهش سختی نبرد Twin Fangs در درجه سختی Mythic",
+   "lead_fa": "چند روز پس از ریست هفتگی، نبرد Twin Fangs روی سرورهای زنده تضعیف شد و جریمه از دست دادن اینتراپت کاهش یافت.",
+   "body_fa": [
+    "چند روز پس از ریست هفتگی، هات‌فیکس‌های تازه‌ای روی سرورهای زنده اعمال شد که سختی نبرد Twin Fangs را در درجه سختی Mythic کاهش می‌دهد. این تغییرات مشخصاً جریمهٔ از دست دادن یک اینتراپت روی اددهای Broodlings of Ithraz را سبک‌تر کرده است.",
+    "پیش از این، متوقف نکردن کست تقریباً همیشه به مرگ کل گروه ختم می‌شد؛ هرچند با قوی‌تر شدن بازیکنان از طریق تجهیزات و باف افزایشی رید، هیل کردن یک استک از این DoT ممکن شده بود. با اعمال ۴۰٪ نرف مستقیم روی آسیب اولیه و آسیب دوره‌ای، جبران یک کست ازدست‌رفته اکنون کاملاً قابل هیل کردن است.",
+    {
+     "t": "h",
+     "x": "جزئیات تغییرات توانایی Visceral Burst"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "کاهش ۴۰٪ در میزان آسیب توانایی Visceral Burst",
+      "آسیب اولیه اکنون ۳۷۵k است",
+      "آسیب افزوده برابر با ۱۲۵k در هر ثانیه به مدت ۶ ثانیه"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "این اددها تا زمانی که با موفقیت اینتراپت نشوند به کست کردن متوالی ادامه می‌دهند؛ بنابراین در صورت از دست رفتن کست اول، قطعاً باید کست دوم را اینتراپت کنید.",
+     "kind": "warn"
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "Mythic",
+    "رید"
+   ],
+   "items": [],
+   "title_en": "Mythic Twin Fangs Nerf for The Venomous Abyss Raid",
+   "source_url": "https://www.wowhead.com/news=383773",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383773-mythic-twin-fangs-nerf-for-the-venomous-abyss-raid.html",
+   "published_at": "2026-11-05T22:48:36Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383773/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383773/1.jpg",
      "cap": ""
     }
    ]
@@ -3355,39 +3402,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383640,
-   "slug": "wow-forever-is-aiming-for-a-4-month-patch-cadence",
-   "title_fa": "WoW: Forever با چرخهٔ ۴ ماههٔ پچ پیش می‌رود",
-   "lead_fa": "کریس زیرهات، طراح ارشد بازی، در مصاحبه با IGN اعلام کرد که تیم در حال برنامه‌ریزی برای انتشار پچ‌های WoW: Forever هر ۴ ماه یا ۱۷ هفته یک‌بار است.",
-   "body_fa": [
-    "IGN در مصاحبه‌ای با بلیزارد دربارهٔ cadence پچ‌های WoW: Forever سؤال کرد. کریس زیرهات توضیح داد که در طول Classic آزمایش‌های زیادی روی cadence پچ انجام شده است.",
-    "او اشاره کرد که در SoD پچ‌ها هر هشت تا ده هفته منتشر می‌شد که بیش از حد سریع به نظر می‌رسید. به اعتقاد تیم، cadence مناسب حدوداً یک پچ هر ۴ ماه یا ۱۷ هفته است.",
-    "زیرهات افزود که بین پچ‌های اصلی، محتوایی که به تدریج باز می‌شود نیز در نظر گرفته شده است. بنابراین ممکن است دو یا سه ماه پس از شروع یا حتی یک ماه بعد مواردی آنلاک شود.",
-    "با توجه به تمرکز روی داستان‌های کوچک‌تر و محلی، ۴ ماه زمان توسعهٔ مناسبی به حساب می‌آید. فصل‌های PvP نیز با همین چرخه هماهنگ خواهند بود و ۴ ماه طول می‌کشند.",
-    "پچ‌ها با تمام محتوا در زمان انتشار لانچ نمی‌شوند؛ بلکه موارد مختلف طی ۴ ماه به تدریج آنلاک می‌شوند تا طول عمر بیشتری داشته باشند."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "پچ کدنس",
-    "کریس زیرهات"
-   ],
-   "items": [],
-   "title_en": "WoW: Forever is Aiming for a 4-Month Patch Cadence",
-   "source_url": "https://www.wowhead.com/news=383640",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383640-wow-forever-is-aiming-for-a-4-month-patch-cadence.html",
-   "published_at": "2026-10-29T16:00:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383640/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383640/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3397,13 +3411,6 @@
    "url": "https://www.wowhead.com/news=383768",
    "category": "Forever",
    "published_at": "2026-11-06T14:00:00Z"
-  },
-  {
-   "id": 383773,
-   "title_en": "Mythic Twin Fangs Nerf for The Venomous Abyss Raid",
-   "url": "https://www.wowhead.com/news=383773",
-   "category": "Live",
-   "published_at": "2026-11-05T22:48:36Z"
   },
   {
    "id": 383750,
@@ -3670,6 +3677,13 @@
    "url": "https://www.wowhead.com/news=383541",
    "category": "Forever",
    "published_at": "2026-10-22T17:13:00Z"
+  },
+  {
+   "id": 383540,
+   "title_en": "The WoW: Forever Podcast Episode 5 Now Available - The End of Beta Special!",
+   "url": "https://www.wowhead.com/news=383540",
+   "category": "Forever",
+   "published_at": "2026-10-22T16:21:06Z"
   }
  ]
 }
