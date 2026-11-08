@@ -135,5 +135,28 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383748/1.png",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 1,
- "hold_at": "2026-11-07T17:20:06Z"
+ "hold_at": "2026-11-07T17:20:06Z",
+ "last_rejected": {
+  "title_fa": "دریافت اسباب‌بازی مخفی Pouch of Violet Dust از طریق Twitch Drops",
+  "lead_fa": "بینندگان پخش زندهٔ ساخت آیتم لجندری در توییچ موفق به دریافت اسباب‌بازی Pouch of Violet Dust از طریق یک دراپ مخفی شدند.",
+  "body_fa": [
+   "بازیکنانی که استریم Legendary crafting را در Twitch تماشا می‌کردند، یک Twitch Drop غیرمنتظره دریافت کرده‌اند که پاداش آن اسباب‌بازی [[item:Pouch of Violet Dust]] است. اگر این استریم را تماشا کرده‌اید، می‌توانید به بخش دراپ‌های حساب کاربری خود بروید و این جایزه را Claim کنید.",
+   {
+    "t": "h",
+    "x": "شرایط دریافت و زمان‌بندی"
+   },
+   "در لحظات پایانی استریم و هنگام رونمایی از Taldramir, the Whispering Wood، روند تکمیل این دراپ برای بازیکنان به پایان رسید. با این حال معیارهای دقیق برای به دست آوردن آن هنوز نامشخص است؛ بسیاری از بازیکنان اعلام کردند که این آیتم را در پایان استریم Legendary Crafting به دست آورده‌اند، در حالی که برخی دیگر گزارش داده‌اند که با تماشای هر استریمر فعال در بخش WoW در همان بازهٔ زمانی موفق به دریافت آن شده‌اند.",
+   {
+    "t": "note",
+    "x": "در صفحهٔ مربوط به این دراپ، زمان پایان رویداد روز چهارشنبه، ۴ نوامبر در ساعت 1:59 PM PST / 4:59 PM EST ثبت شده است.",
+    "kind": "info"
+   },
+   "با توجه به این‌که زمان ذکرشده اکنون سپری شده است، به نظر می‌رسد این Twitch Drop دیگر در دسترس نیست و صرفاً به بازیکنانی داده شده که هنگام پخش زندهٔ رونمایی از آیتم لجندری مشغول تماشای استریم‌های WoW بوده‌اند. همچنین به دلیل مشخص نبودن پیش‌نیازهای دقیق، هنوز معلوم نیست که آیا تماشای کانال رسمی Warcraft در Twitch یا هر کانال دیگری می‌تواند مجدداً این Toy را در اختیار بازیکنان بگذارد یا خیر."
+  ],
+  "tags_fa": [
+   "توییچ دراپ",
+   "اسباب بازی",
+   "استریم"
+  ]
+ }
 }

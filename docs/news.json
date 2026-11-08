@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T03:38:12Z",
+ "generated": "2026-11-08T05:28:20Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2261,6 +2261,91 @@
    ]
   },
   {
+   "id": 383710,
+   "slug": "shaman-classic-discord-closed-in-protest-of-shaman-changes-in-wow-fore",
+   "title_fa": "تعطیلی دیسکورد Shaman Classic در اعتراض به تغییرات این کلاس در WoW: Forever",
+   "lead_fa": "سرور دیسکورد Shaman Classic در اقدامی اعتراضی علیه رویکرد سازندگان نسبت به طراحی این کلاس در WoW: Forever، تمام کانال‌های خود را به حالت فقط-خواندنی درآورد.",
+   "body_fa": [
+    "سرور دیسکورد Shaman Classic با نزدیک به ۸۰ هزار عضو، که مرجع راهنماها، تلنت‌ها و گفت‌وگو درباره نسخه‌های مختلف بازی شامل Classic، MoP، SoD و اکنون WoW: Forever محسوب می‌شود، صبح امروز در اعتراض به تغییرات کلاسی بسته شد و تمامی بخش‌های آن در حالت Read-only قرار گرفت.",
+    {
+     "t": "quote",
+     "x": "ما کل سرور Shaman Classic را به‌صورت فوری قفل می‌کنیم. دلیل این اقدام تند، رویکرد توسعه‌دهندگان نسبت به تمامی اسپک‌های Shaman در WoW Forever است. بازخورد جامعه کاملاً نادیده گرفته شده و هویت و حس داستانی کلاس در حال نابودی است. با این کار قصد داریم به آن‌ها پیام دهیم و نشان دهیم جامعه از رویکرد نسبت به کلاس محبوبمان راضی نیست. هویت اسپک‌ها و حس داستانی کلاس ما را پس بدهید!",
+     "by": "اعلامیه اولیه سرور دیسکورد Shaman Classic"
+    },
+    "با اینکه این اعتراض به‌خاطر WoW: Forever انجام شده است، قفل‌شدن سرور حتی کانال‌های مربوط به Classic-era، MoP و SoD را نیز دربرگرفته است.",
+    {
+     "t": "note",
+     "x": "این نخستین تعطیلی اعتراضی در جامعه بازی نیست؛ در آگوست ۲۰۲۵ نیز کانال‌های مربوط به Ret Paladin در دیسکورد ریتل پالادین به‌دلیل وضعیت عملکردشان در رید بسته شده بود که البته کمتر از ۲۴ ساعت طول کشید.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "بیانیه تکمیلی و محورهای اصلی اعتراض"
+    },
+    "مدیران سرور در ساعت ۹:۳۳ به وقت PST توضیحاتی تکمیلی منتشر کردند و تأکید داشتند که این اقدام باج‌خواهی نیست، بلکه تلاشی برای شنیده‌شدن پس از هفته‌ها ارسال بازخورد بی‌نتیجه است و سرور در هر صورت بازگشایی خواهد شد. آن‌ها تأکید کردند که مشکل اصلی بر سر میزان آسیب‌رسانی یا اصطلاحاً Throughput نیست، بلکه به طراحی بنیادین و حس گیم‌پلی کلاس مربوط است.",
+    {
+     "t": "ul",
+     "xs": [
+      "انتخاب‌نشدن Windfury Weapon به‌عنوان ایمبیوی اصلی رید و آسیب به حس داستانی سلاح‌های دورستی (2-Handed Enhance)",
+      "برتری تجهیزات Spell Power و Intellect نسبت به گیر فیزیکی یا هیبرید، به‌ویژه در ترکیب با Maelstrom Weapon و Flametongue Weapon",
+      "تأثیر منفی ملاحظات PvP بر طراحی کلی شمن، مانند جابه‌جایی Improved Ghost Wolf که به ضرر Elemental تمام شده است",
+      "حذف Lava Burst و باقی ماندن Chain Lightning با هزینه مانای بالا برای هدف تکی که روتیشن Elemental را دو دکمه‌ای کرده است",
+      "بدون کاربرد و تعامل ماندن Flame Shock در کیت توانایی‌ها صرفاً به‌عنوان یک DoT ساده",
+      "مشکلات شدید مانای Elemental و مصرف شارژهای Water Shield هنگام رخداد ضربات کریتیکال",
+      "تغییرات Totemic Projection و از دست رفتن قابلیت پرتاب توتم‌ها از راه دور",
+      "تغییر Riptide و حذف هیل اولیه (Upfront healing) که آن را به یک کپی ضعیف از Renew یا Rejuvenation تبدیل کرده است"
+     ]
+    },
+    "جامعه شمن اعلام کرده است همپوشانی حاصل از استیت‌های اسپل‌پاور باعث تداخل در هویت Elemental و Enhancement شده و بالانس یکی بدون تضعیف دیگری را تقریباً غیرممکن ساخته است.",
+    {
+     "t": "table",
+     "head": [
+      "شناسه خبر و کدها",
+      "اطلاعات ثبت‌شده"
+     ],
+     "rows": [
+      [
+       "شماره خبر در Wowhead",
+       "383710"
+      ],
+      [
+       "پچ مربوط به نظرات",
+       "Patch 12.1.5"
+      ],
+      [
+       "تاریخ و زمان ثبت",
+       "2026-11-03T11:23:13-06:00"
+      ],
+      [
+       "موارد ثبت‌شده در بازخوردها",
+       "10، 11، 12، 14، 20، 50، 60، 100 و 2004"
+      ]
+     ]
+    }
+   ],
+   "tags_fa": [
+    "دیسکورد Shaman",
+    "WoW Forever",
+    "تغییرات شمن",
+    "جامعه بازی"
+   ],
+   "items": [],
+   "title_en": "Shaman Classic Discord Closed in Protest of Shaman Changes in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383710",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383710-shaman-classic-discord-closed-in-protest-of-shaman-changes-in-wow-fore.html",
+   "published_at": "2026-11-03T17:23:13Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383710/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383710/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383699,
    "slug": "new-druid-and-rogue-passive-reduces-energy-cost-on-a-first-strike",
    "title_fa": "افزوده شدن پسیو جدید Poised برای Druid و Rogue در سرورهای لایو WoW: Forever",
@@ -3307,64 +3392,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383653,
-   "slug": "return-to-azeroth-recap-for-world-of-warcraft-forever",
-   "title_fa": "بازگشت به آزراث در World of Warcraft: Forever",
-   "lead_fa": "بلیزارد با انتشار خلاصه‌ای، بازیکنان را برای بازگشت به آزراث در ۴ نوامبر در World of Warcraft: Forever آماده می‌کند.",
-   "body_fa": [
-    "World of Warcraft: Forever سفری تازه در جهانی بازسازی‌شده آغاز می‌کند که شامل مناطق جدید، کوئست‌ها، دانجن‌ها، سیستم‌ها و گزینه‌های شخصیت است و در عین حال پایه‌های اصلی بازی را حفظ می‌کند. این تجربه از دوره اولیه «Year 1» نسخهٔ اورجینال World of Warcraft الهام گرفته شده است؛ زمانی پیش از آنکه Kazzak Dark Portal را بازگشایی کند و پیش از سفرهایی که Northrend را شامل می‌شد.",
-    {
-     "t": "h",
-     "x": "مناطق و دانجن‌های تازه"
-    },
-    "بیش از ۱۰۰۰ کوئست جدید در طول مسیر سطح ۱ تا ۶۰ اضافه شده است. مناطق تازه شامل Mount Hyjal، Shen’dralas، the Riverglades و Zephras Isle هستند. ۹ دانجن جدید پنج‌نفره در سطوح ۱۳ تا ۶۰ در Eastern Kingdoms و Kalimdor قرار دارند. دانجن‌های Eastern Kingdoms عبارتند از Hall of Thanes، Ruins of Lordaeron، Excavation Site، City of Dalaran، The Drowned City و Krol’dok Stronghold. دانجن‌های Kalimdor نیز Alcaz Prison، Blackmaw Hold و Shaper’s Terrace هستند.",
-    {
-     "t": "h",
-     "x": "ترکیب‌های جدید نژاد و کلاس"
-    },
-    "ترکیب‌های تازه‌ای که در نسخهٔ اورجینال وجود نداشتند اکنون در دسترس هستند:\nAlliance: Human Hunter، Dwarf Shaman و Gnome Priest.\nHorde: Orc Mage، Troll Warlock و Undead Paladin. نژاد Skyborne به هر دو فکشن Alliance و Horde تعلق می‌گیرد و با توانایی‌های نژادی متفاوت آغاز می‌شود. این نژاد در منطقهٔ شروع Zephras Isle سطح ۱ تا ۱۲ قرار دارد و می‌تواند Druid، Hunter، Rogue و Warrior باشد. Skyborneهای Alliance-aligned می‌توانند Mage نیز انتخاب کنند و Skyborneهای Horde-aligned می‌توانند Shaman باشند. دسترسی به Skyborne نیازمند خرید Heroic Pack یا ارتقاهای بالاتر است.",
-    {
-     "t": "h",
-     "x": "سیستم Legacy و پیشرفت PvP"
-    },
-    "Legacy System یک سیستم پیشرفت افقی حساب‌محور است که بر کاوش همهٔ محتوای بازی تمرکز دارد و الزامی برای لول‌آپ کاراکترهای آلت وجود ندارد. همهٔ مزایا را می‌توان روی یک کاراکتر باز کرد. سیستم PvP بازطراحی‌شده شامل کسب Honor و Rank points از طریق battlegroundها، PvP quests، weekly seasonal tasks و فعالیت‌های دیگر است. هفته‌های تعطیل battleground پاداش بیشتری می‌دهد.",
-    "Darkspear Islands یک battleground جدید ۱۵ در برابر ۱۵ در ساحل Dustwallow Marsh برای سطوح ۳۰ تا ۶۰ است. تیم‌ها با کنترل چهار capture point و تصاحب پرچم مرکزی امتیاز کسب می‌کنند و اولین تیمی که به ۲۰۰۰ امتیاز برسد برنده می‌شود. شهرت با Darkspear Raiders یا Theramore Expeditionary Force برای دریافت پاداش‌های فکشن قابل کسب است.",
-    {
-     "t": "h",
-     "x": "انتخاب تجربهٔ دلخواه"
-    },
-    "در اولین ورود به بازی، باید Experience Preset را انتخاب کنید:\nClassic: مدل‌های Standard Definition، Quest points of interest خاموش، One-bag خاموش، Transmog خاموش، UI کلاسیک.\nEnhanced: مدل‌های High Definition، Quest points of interest روشن، One-bag روشن، Transmog روشن، UI متمرکز. هر کاراکتر جدید می‌تواند بین مدل‌های HD و SD انتخاب کند که تنها بر ظاهر تأثیر می‌گذارد. این انتخاب بعداً از طریق Options Menu یا Barbershop قابل تغییر است.",
-    "هر شخصیت دارای نام دوبخشی است که ترکیب کامل آن باید در منطقه منحصربه‌فرد باشد. نام دوم می‌تواند برای نشان دادن خانواده، مکان، عنوان یا ارتباط بین کاراکترها استفاده شود. می‌توانید نمایش نام دوم را در Nameplates مخفی کنید.",
-    {
-     "t": "h",
-     "x": "Rulesetها و نصب بازی"
-    },
-    "به جای انتخاب از لیست طولانی ریلم‌ها، Ruleset انتخاب می‌شود:\nNormal، PvP، Roleplay، Roleplay-PvP و Hardcore (که بعداً اضافه می‌شود). پیش از نصب، سیستم‌عامل و درایورهای گرافیک را به‌روزرسانی کنید و سیستم مورد نیاز رسمی را بررسی نمایید. اگر نمی‌توانید وارد شوید، از ابزارهای بازیابی حساب بلیزارد استفاده کنید.",
-    "برای شروع، Battle.net desktop app را دانلود کنید، WoW: Forever را انتخاب نمایید و نصب را آغاز کنید. دسترسی به بازی نیازمند World of Warcraft subscription یا Game Time فعال است. ارتقای Skyborne Heroic Pack یا بالاتر برای دسترسی به نژاد Skyborne لازم است. دوستان خود را جمع کنید، کاراکتر و Ruleset مناسب را برگزینید و سفرتان را در World of Warcraft: Forever آغاز کنید."
-   ],
-   "tags_fa": [
-    "World of Warcraft: Forever",
-    "بازگشت به آزراث",
-    "سیستم Legacy",
-    "Darkspear Islands"
-   ],
-   "items": [],
-   "title_en": "Return to Azeroth Recap for World of Warcraft: Forever",
-   "source_url": "https://www.wowhead.com/news=383653",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383653-return-to-azeroth-recap-for-world-of-warcraft-forever.html",
-   "published_at": "2026-10-29T19:13:59Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383653/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383653/1.png",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3500,13 +3527,6 @@
    "url": "https://www.wowhead.com/news=383711",
    "category": "Forever",
    "published_at": "2026-11-03T17:39:57Z"
-  },
-  {
-   "id": 383710,
-   "title_en": "Shaman Classic Discord Closed in Protest of Shaman Changes in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383710",
-   "category": "WoW",
-   "published_at": "2026-11-03T17:23:13Z"
   },
   {
    "id": 383692,
@@ -3647,6 +3667,13 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
