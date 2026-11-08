@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T23:59:41Z",
+ "generated": "2026-11-08T02:05:12Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1098,6 +1098,121 @@
    ]
   },
   {
+   "id": 383776,
+   "slug": "massive-nerfs-to-the-venomous-abyss-raid-large-nerfs-to-ula-tek-on-eve",
+   "title_fa": "تضعیف گسترده باس‌های رید The Venomous Abyss و تغییرات بزرگ Ula'tek",
+   "lead_fa": "بلیزارد مجموعه‌ای از تضعیف‌های سنگین را برای باس‌های رید The Venomous Abyss از جمله Ula'tek و Vashnik اعمال می‌کند که بخشی از آن‌ها هم‌اکنون فعال شده‌اند.",
+   "body_fa": [
+    "تیم توسعه‌دهنده اعلام کرده است که طی چند روز آینده تغییرات متعددی را روی انکانترهای رید The Venomous Abyss پیاده‌سازی می‌کند. نکته مهم این است که این تغییرات منتظر ریست هفتگی نمانده‌اند و برخی از آن‌ها در حال حاضر درون بازی فعال هستند.",
+    {
+     "t": "note",
+     "x": "این نرف‌ها به ریست هفتگی موکول نشده‌اند و بخش قابل‌توجهی از آن‌ها در حال حاضر روی سرورهای لایو فعال است.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "تغییرات Entombed Sentinels و Vashnik و Twin Fangs"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "در انکانتر Entombed Sentinels حداکثر ابعاد حوضچه‌های Blood Venom در درجه‌های Heroic و Mythic کاهش یافته و مدت‌زمان ماندگاری آن در درجه سختی Mythic از ۵ دقیقه به ۲ دقیقه رسیده است.",
+      "در مبارزه Vashnik, the Malignant آسیب توانایی Malignance در درجه Mythic معادل ۳۷٪ کاهش یافته و مدت‌زمان اثر آسیب پیوسته (DoT) آن به ۱۶ ثانیه کاهش یافته است.",
+      "در باس Twin Fangs میزان آسیب Visceral Burst در درجه Mythic به میزان ۴۰٪ کاهش یافته است."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "تغییرات مبارزه The Coiled Altar"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "سرعت حرکت Axegrinder در تمامی درجه‌های سختی ۲۰٪ و میزان آسیب آن در Mythic معادل ۲۰٪ کم شده است.",
+      "میزان آسیب Gloombomb در درجه سختی Mythic معادل ۲۰٪ و آسیب Venom Rupture به میزان ۱۵٪ کاهش یافته است.",
+      "آسیب توانایی Malevolent Resonance به میزان ۶۰٪ کاهش یافت.",
+      "تکه‌های Gravebound Soul Fragments در درجه Mythic قبل از ناپدید شدن ۲ ثانیه بیشتر دوام می‌آورند.",
+      "تعداد Spiteful Soulcoilers احضار شده از Spiritcackle در درجه سختی Mythic از ۲ به ۱ عدد کاهش یافت."
+     ]
+    },
+    {
+     "t": "quote",
+     "x": "با این تغییر، احضار Soulcoilers اکنون مشابه نحوه احضار آن‌ها در درجه سختی Heroic عمل خواهد کرد.",
+     "by": "توسعه‌دهندگان بلیزارد"
+    },
+    {
+     "t": "h",
+     "x": "تضعیف همه‌جانبه Ula’tek"
+    },
+    "تنظیمات مقیاس‌پذیری سلامت (Health Scaling) برای باس Ula’tek و اددهای Blightscale Rawling و Blightscale Viper و Blightscale Shrieker و Weakened Doomscale در درجات Raid Finder و Normal و Heroic بازنگری شده است تا شرایط برای گروه‌های کوچک‌تر رید بهبود یابد. همچنین میزان پایه سلامت آن‌ها در این درجات کاهش یافته است تا سلامت آن‌ها با افزایش تعداد بازیکنان بی‌رویه بالا نرود.",
+    "سلامت خود Ula’tek در درجه Heroic معادل ۱۵٪ کاهش یافته و آسیب Unchecked Rage در تمامی درجه‌های سختی ۶۱٪ کمتر شده است.",
+    {
+     "t": "table",
+     "head": [
+      "توانایی",
+      "درجه سختی",
+      "درصد کاهش آسیب"
+     ],
+     "rows": [
+      [
+       "Caustic Waves (ضربه مستقیم)",
+       "Heroic و Mythic",
+       "۱۷٪"
+      ],
+      [
+       "Caustic Waves (آسیب پیوسته)",
+       "Normal: ۷۵٪ | Heroic: ۶۱٪ | Mythic: ۸۹٪",
+       "۷۵٪ / ۶۱٪ / ۸۹٪"
+      ],
+      [
+       "Malice",
+       "Normal و Heroic: ۶۳٪ | Mythic: ۴۵٪",
+       "۶۳٪ / ۴۵٪"
+      ],
+      [
+       "Virulent Spit",
+       "Raid Finder: ۴۶٪ | Normal و Heroic: ۳۳٪ | Mythic: ۳۶٪",
+       "۴۶٪ / ۳۳٪ / ۳۶٪"
+      ],
+      [
+       "Falling Debris",
+       "Raid Finder: ۴۶٪ | Normal و Heroic: ۳۳٪ | Mythic: ۳۶٪",
+       "۴۶٪ / ۳۳٪ / ۳۶٪"
+      ],
+      [
+       "Viscous Echoes",
+       "تمام درجات (ضربه اولیه ۵۳٪ / پیوسته ۲۵٪)",
+       "۵۳٪ / ۲۵٪"
+      ]
+     ]
+    },
+    "در بخش مکانیک‌های مبارزه Ula’tek، تعداد تخم‌های احضار شده با Call of the Serpent در Normal و Heroic و تعداد اهداف انتخابی Serpent’s Bite در تمامی درجات کاهش یافته است. همچنین Grasping Fangs در Normal و Heroic اهداف کمتری را انتخاب می‌کند.",
+    "در فاز دوم در درجه Heroic تعداد ۲ تخم از هر طرف حذف شده و مجموع به ۸ تخم در هر سمت رسیده است. افزون بر این، در فاز سوم درجه Heroic باس Ula’tek هنگام فرستادن دیوارهای موجی به سمت پلتفرم‌ها دیگر امواج Caustic Waves اضافی از Spectral Tails ایجاد نمی‌کند.",
+    "در درجه سختی Mythic آسیب مستقیم Noxious Splash معادل ۳۳٪ و آسیب پیوسته آن ۸۴٪ کاهش یافته است (ضربه اولیه به ۵۰۰ هزار و آسیب پیوسته به ۸۷ هزار رسیده است). همچنین مدت‌زمان Putrid Membrane از ۳۰ ثانیه به ۲۰ ثانیه کاهش یافته است. طبق آمار مقادیر اولیه، آسیب ضربه Falling Debris از ۲.۵ میلیون به ۱.۶ میلیون تغییر کرده است."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "رید",
+    "تغییرات کلس‌ها و رید",
+    "The Venomous Abyss"
+   ],
+   "items": [],
+   "title_en": "Massive Nerfs to The Venomous Abyss Raid - Large Nerfs to Ula'tek on Every Difficulty",
+   "source_url": "https://www.wowhead.com/news=383776",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383776-massive-nerfs-to-the-venomous-abyss-raid-large-nerfs-to-ula-tek-on-eve.html",
+   "published_at": "2026-11-06T00:26:53Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383776/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383776/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383775,
    "slug": "massive-mythic-coiled-altar-nerfs-removes-1-soulcoiler-add-from-each-s",
    "title_fa": "تضعیف گسترده انکانتر Coiled Altar در درجه سختی Mythic",
@@ -1674,6 +1789,85 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383754/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383758,
+   "slug": "temporary-portals-replace-boats-and-zeppelins-due-to-bugs",
+   "title_fa": "جایگزینی موقت قایق‌ها و زپلین‌ها با پرتال‌ها به دلیل بروز باگ",
+   "lead_fa": "شرکت Blizzard اعلام کرد به دلیل بروز باگ و ناپدید شدن وسایل نقلیه، پرتال‌هایی موقت را جایگزین برخی قایق‌ها و زپلین‌ها کرده است.",
+   "body_fa": [
+    "در پی بروز اختلال در سیستم حمل‌ونقل بازی، برخی از قایق‌ها و زپلین‌ها برای مدت زمانی طولانی در گرداب گم می‌شدند. برای جلوگیری از سردرگمی بازیکنان، راه‌حلی موقت از سوی سازندگان به کار گرفته شده است.",
+    {
+     "t": "quote",
+     "x": "ما از وجود مشکلاتی در بخش حمل‌ونقل، مانند گم شدن قایق‌ها و زپلین‌ها برای مدت طولانی در گرداب باخبریم. به‌عنوان یک راه‌حل موقت، پرتال‌هایی را در نزدیکی بیشتر اسکله‌ها یا داخل برج‌های زپلین ایجاد کرده‌ایم تا در صورت بروز مشکل برای قایق، به شما در جابه‌جایی میان قاره‌ها کمک کنند. یک اصلاح اساسی صبح اعمال خواهد شد و پس از اطمینان از عملکرد صحیح آن، این پرتال‌ها را حذف خواهیم کرد.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "note",
+     "x": "این پرتال‌ها تنها تا زمان انتشار و تایید رفع مشکل اصلی در صبح پابرجا خواهند بود و پس از آن برداشته می‌شوند.",
+     "kind": "info"
+    },
+    "بازیکنان می‌توانند تا زمان اعمال این به‌روزرسانی، برای تردد بین قاره‌ها از پرتال‌های ایجادشده در نزدیکی اسکله‌ها یا برج‌های زپلین استفاده کنند."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "بلیزارد",
+    "باگ"
+   ],
+   "items": [],
+   "title_en": "Temporary Portals Replace Boats and Zeppelins Due to Bugs",
+   "source_url": "https://www.wowhead.com/news=383758",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383758-temporary-portals-replace-boats-and-zeppelins-due-to-bugs.html",
+   "published_at": "2026-11-05T06:45:40Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383758/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383758/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383757,
+   "slug": "blizzard-aware-of-population-issues-in-certain-areas",
+   "title_fa": "بررسی مشکل خلوت بودن بیش از حد برخی مناطق توسط Blizzard",
+   "lead_fa": "شرکت Blizzard اعلام کرد از خلوت بودن غیرعادی برخی مناطق بازی باخبر است و فردا با اعمال تغییراتی این مشکل را برطرف می‌کند.",
+   "body_fa": [
+    "طبق اعلام Blizzard، سازندگان بازی متوجه شده‌اند که برخی از مناطق آن‌طور که باید احساس شلوغی و پویایی ندارند و جمعیت آن‌ها کمتر از حد انتظار به نظر می‌رسد.",
+    {
+     "t": "quote",
+     "x": "فقط می‌خواستیم اعلام کنیم که از برخی مشکلات مربوط به حس خلوت بودن بیش از حدِ بعضی مناطق آگاه هستیم. فردا برخی اعداد و ارقام را تغییر خواهیم داد تا فضا کمی زنده‌تر و پویاتر احساس شود. بابت بازخوردهایتان در این باره متشکریم!",
+     "by": "Blizzard"
+    },
+    {
+     "t": "note",
+     "x": "تغییرات عددی مربوط به پویایی مناطق قرار است فردا اعمال شود تا جریان حضور بازیکنان در این بخش‌ها بهبود یابد.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "بلیزارد",
+    "هاتفیکس",
+    "اخبار بازی"
+   ],
+   "items": [],
+   "title_en": "Blizzard Aware of Population Issues in Certain Areas",
+   "source_url": "https://www.wowhead.com/news=383757",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383757-blizzard-aware-of-population-issues-in-certain-areas.html",
+   "published_at": "2026-11-05T06:41:36Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383757/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383757/1.jpg",
      "cap": ""
     }
    ]
@@ -3194,117 +3388,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383635,
-   "slug": "patch-cadence-future-locations-respeccing-ign-interview-on-wow-forever",
-   "title_fa": "مصاحبه آی‌جی‌ان با بلیزارد درباره ووو: فوراور؛ از cadence به‌روزرسانی تا مکان‌های آینده",
-   "lead_fa": "تیم بلیزارد در مصاحبه با آی‌جی‌ان درباره ووو: فوراور به بحث در مورد cadence به‌روزرسانی، مکان‌های آینده، respeccing و موضوعات دیگر پرداخته است.",
-   "body_fa": [
-    "آی‌جی‌ان با Kris Zierhut طراح ارشد بازی و Tim Jones طراح ارشد کلاسیک مصاحبه کرده است. این مصاحبه درباره ووو: فوراور به بررسی تفاوت آن با ووو کلاسیک، ستون‌های اصلی طراحی، بهبودهای گرافیکی، cadence انتشار و مکان‌های آینده پرداخته است.",
-    "{'t': 'h', 'x': 'تفاوت ووو: فوراور با ووو کلاسیک'}",
-    "ووو کلاسیک شبیه به یک موزه است که سال‌ها با تغییرات بسیار کم حفظ شده تا کسانی که می‌خواهند تجربه اصلی را ببینند بتوانند آن را حفظ کنند. ووو: فوراور نسخه‌ای است که اگر هرگز به Outland نرفته بودند و به توسعه جهان ادامه می‌دادند چه می‌شد؛ مانند افزودن کوئست‌های جدید یا Professions.",
-    "هنگام انتخاب تغییرات از ووو: کلاسیک، تیم به چهار ستون اصلی خود نگاه می‌کند. مهم‌ترین آن احتمالاً «the world is the main character» است. سفر باید به اندازه مقصد مهم باشد و جهان باید پر از محتوا به نظر برسد، چه در کدام zone باشید. آن‌ها از تجربه Hardcore الهام گرفته‌اند که در آن هر zone پر از بازیکنان بود زیرا مرگ باعث reroll می‌شد.",
-    "برای «approachable and familiar» پایه کلاسیک را قابل دسترس می‌دانند و با دقت به عناصری مانند SD models پرداخته‌اند. رابط کاربری مدرن استفاده می‌شود اما همچنان حس کلاسیک را حفظ کرده و کپی از رابط کاربری retail نیست. همچنین تلاش شده بازی را «unsolving» کنند تا مسیر leveling و انتخاب Professions کاملاً مشخص نباشد.",
-    "{'t': 'h', 'x': 'بهبودهای Lightning و Shadow و موتور بازی'}",
-    "بازیکنان ووو سال ۲۰۰۴ را بهتر از آنچه واقعاً بود به یاد می‌آورند، بنابراین تیم می‌خواهد Azeroth را همان‌طور که به یاد می‌آورند ارائه دهد نه همان‌طور که بود. هدف جذب بازیکنان جدید و نسل بعدی است که به گرافیک با fidelity بالا عادت دارند. موتور ووو spaghetti code نیست و این توصیف ناعادلانه است. Kris Zierhut شنیده که توسعه‌دهندگان دیگر موتور ووو را می‌خواهند. توسعه‌دهندگان طی ۲۵ سال گذشته برای بهبود نرخ فریم، پاسخ‌دهی سرور و موارد دیگر تلاش کرده‌اند.",
-    "{'t': 'h', 'x': 'cadence انتشار و انواع محتوا'}",
-    "تیم در طول کلاسیک cadence انتشار را آزمایش کرده است. دوره بدون محتوای جدید به مدت شش تا هشت هفته بد به نظر می‌رسد. در SoD از برنامه هشت تا ده هفته‌ای استفاده شد که خیلی سریع بود. cadence مناسب را حدود یک بار هر ۴ ماه یا ۳ بار در سال می‌دانند. این مزیت داستان‌های کوچک و محلی است که نیازی به ۶ ماه برای داستان بزرگ ندارد. محتوای کافی برای دوره ۴ ماهه وجود دارد و برنامه‌ریزی برای محتوای بینابینی هم شده است.",
-    "سه نوع محتوا وجود دارد. اول مسیر شناخته‌شده مانند Molten Core، Blackwing Lair و AQ است که ووو: فوراور به آن‌ها می‌رود اما timeline را کشیده‌تر کرده‌اند. دوم مکان‌هایی مانند Riverglades که جدید به نظر می‌رسند اما حس تعلق دارند و dungeonها و raidهای آینده هم در این دسته قرار می‌گیرند. سوم مکان‌های متفاوت مانند Skyborne و Zephras Isle. Dark Portal، Northrend و Pandaria وجود دارند و می‌توان ماجراجویی‌های کوچک مانند dungeon یا کوئست در آن‌ها داشت اما همیشه به Eastern Kingdoms و Kalimdor برمی‌گردید. این کار به زودی انجام نمی‌شود.",
-    "{'t': 'h', 'x': 'respeccing، griefing و مکان\\u200cهای دیگر'}",
-    "Dual spec از زمان launch در دسترس است و سومین spec برای آینده رد نشده. تغییر talents روی هوا مورد نظر نیست زیرا انتظار تغییر برای هر encounter ایجاد می‌کند که approachable و familiar نیست. درباره آسان‌تر کردن تغییر talent specs هنگام نیاز صحبت شده است. griefing بخشی از بازی است و وظیفه تیم ایجاد بازی است که تعاملات اجتماعی مثبت را ترویج کند. از pro-social design مانند camping system یا elite zone quests استفاده می‌شود. چهار اندازه گروه ۵، ۱۰، ۲۰ و ۴۰ وجود دارد تا بازیکنان برای تکمیل اعداد به شبکه اجتماعی مثبت خود تکیه کنند.",
-    "Hyjal در ووو: فوراور متفاوت به نظر می‌رسد زیرا flying وجود ندارد و بازیکنان از زمین آن را می‌بینند. اشاره‌هایی به Mount Hyjal raid وجود خواهد داشت. تیم می‌خواهد به Emerald Dream، Grim Batol به عنوان مکانی برای کاوش مانند Blackrock Mountain، بخش‌های کاوش‌نشده Caverns of Time، داستان Gilneas پیش از نابودی در Cataclysm و Silvermoon در آینده برود اما فعلاً روی نقاط دیگر تمرکز دارد زیرا Silvermoon در retail مورد توجه است.",
-    "Skyborne Elves محبوب‌ترین نژادها هستند. نژادهای وانیلا باعث عدم تعادل جمعیت می‌شوند زیرا بسیاری نمی‌خواهند «a monster» باشند. downtime وجود خواهد داشت که بتوانید هر دو بازی را بازی کنید. retail روی max-level gameplay متمرکز است که به صورت burst می‌آید، بنابراین در فواصل آن می‌توانید ووو: فوراور را بازی کنید. در حال حاضر برنامه‌ای برای player housing وجود ندارد. تیم می‌داند در آینده تعداد raid و dungeon زیاد می‌شود و هنوز راه‌حل آن را نمی‌دانند اما فعلاً روی انتشار بازی تمرکز دارند."
-   ],
-   "tags_fa": [
-    "Forever",
-    "مصاحبه",
-    "cadence",
-    "respeccing"
-   ],
-   "items": [],
-   "title_en": "Patch Cadence, Future Locations, Respeccing - IGN Interview on WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383635",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383635-patch-cadence-future-locations-respeccing-ign-interview-on-wow-forever.html",
-   "published_at": "2026-10-29T15:00:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383635/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383635/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383634,
-   "slug": "after-2-weeks-over-200k-players-have-defeated-tier-11-kindo-jan-solo",
-   "title_fa": "پس از دو هفته بیش از ۲۰۰ هزار بازی‌کننده Tier 11 Kindo'jan را به صورت تک‌نفره شکست دادند",
-   "lead_fa": "هال آف فیم Delve اکنون بسته شده و بیش از ۲۰۰ هزار بازی‌کننده Tier 11 Kindo'jan را به صورت تک‌نفره شکست داده و دستاورد Let Me Solo Him! را کسب کرده‌اند.",
-   "body_fa": [
-    "برای اولین بار بلیزارد دستاورد Nemesis boss achievement را به مدت یک هفته کامل تمدید کرد و به بازیکنان فرصت داد تا Fabled Let Me Solo Him: Kindo'jan را برای یک هفته اضافی کسب کنند.",
-    "در پایان هفته گذشته بیش از ۱۵۰ هزار بازی‌کننده Tier 11 Kindo'jan را به صورت تک‌نفره شکست داده بودند و در طول هفته اضافی ۵۰ هزار بازی‌کننده دیگر این دستاورد را کسب کردند.",
-    "هر دو ریست هفتگی NA و EU اکنون انجام شده و آمار نهایی به ترتیب ۹۲٬۳۰۵ برای NA و ۱۱۳٬۲۰۱ برای EU ثبت شده است.",
-    "تبریک به همه کسانی که Kindo'jan را شکست دادند!"
-   ],
-   "tags_fa": [
-    "Delve",
-    "Kindo'jan",
-    "Let Me Solo Him"
-   ],
-   "items": [],
-   "title_en": "After 2 Weeks, Over 200k Players Have Defeated Tier 11 Kindo'jan Solo",
-   "source_url": "https://www.wowhead.com/news=383634",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383634-after-2-weeks-over-200k-players-have-defeated-tier-11-kindo-jan-solo.html",
-   "published_at": "2026-10-29T14:00:00Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383634/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383634/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383641,
-   "slug": "new-class-and-item-tuning-on-wow-forever-hunter-changes",
-   "title_fa": "تغییرات تیونینگ هانتر و اکسیر Wisdom در WoW: Forever",
-   "lead_fa": "با آغاز رزرو نام‌ها در WoW: Forever، تعدادی هات‌فکس برای کلاس Hunter و یک potion Alchemy روی سرورهای زنده اعمال شده است.",
-   "body_fa": [
-    "این تغییرات هنوز در یادداشت‌های توسعه تأیید نشده‌اند و ممکن است داده‌های موقتی باشند یا در آینده تغییر کنند.",
-    "به نظر می‌رسد Hunters در سرورهای زنده nerf شده‌اند. Aspect of the Hawk در رتبه‌های مختلف کاهش یافته است:",
-    "Rank 1 از 22 به 15، Rank 2 از 35 به 22، Rank 3 از 50 به 30، Rank 4 از 78 به 38 و Rank 5 از 90 به 47.",
-    "raid buff هانترها یعنی Trueshot Aura نیز nerf شده است:",
-    "Rank 1 از 30 به 15، Rank 2 از 40 به 22، Rank 3 از 50 به 30 و Rank 4 از 75 به 40.",
-    "در بخش Consumables، Elixir of Wisdom که نیاز به سطح Alchemy 90 دارد و recipe آن از vendor خریداری می‌شود، کاهش قدرت و مدت‌زمان دیده است.",
-    "این potion اکنون Intellect را 3 (بود 6) برای 30 دقیقه (بود 1 ساعت) افزایش می‌دهد."
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "WoW Forever",
-    "تیونینگ هانتر",
-    "Alchemy"
-   ],
-   "items": [],
-   "title_en": "New Class and Item Tuning on WoW: Forever - Hunter Changes",
-   "source_url": "https://www.wowhead.com/news=383641",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383641-new-class-and-item-tuning-on-wow-forever-hunter-changes.html",
-   "published_at": "2026-10-28T21:17:17Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383641/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383641/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3316,32 +3399,11 @@
    "published_at": "2026-11-06T14:00:00Z"
   },
   {
-   "id": 383776,
-   "title_en": "Massive Nerfs to The Venomous Abyss Raid - Large Nerfs to Ula'tek on Every Difficulty",
-   "url": "https://www.wowhead.com/news=383776",
-   "category": "Live",
-   "published_at": "2026-11-06T00:26:53Z"
-  },
-  {
    "id": 383773,
    "title_en": "Mythic Twin Fangs Nerf for The Venomous Abyss Raid",
    "url": "https://www.wowhead.com/news=383773",
    "category": "Live",
    "published_at": "2026-11-05T22:48:36Z"
-  },
-  {
-   "id": 383758,
-   "title_en": "Temporary Portals Replace Boats and Zeppelins Due to Bugs",
-   "url": "https://www.wowhead.com/news=383758",
-   "category": "Forever",
-   "published_at": "2026-11-05T06:45:40Z"
-  },
-  {
-   "id": 383757,
-   "title_en": "Blizzard Aware of Population Issues in Certain Areas",
-   "url": "https://www.wowhead.com/news=383757",
-   "category": "Forever",
-   "published_at": "2026-11-05T06:41:36Z"
   },
   {
    "id": 383750,
@@ -3587,6 +3649,27 @@
    "url": "https://www.wowhead.com/news=383547",
    "category": "Forever",
    "published_at": "2026-10-23T14:00:00Z"
+  },
+  {
+   "id": 383552,
+   "title_en": "Item Level Changes for Ascended Venomforged Gear",
+   "url": "https://www.wowhead.com/news=383552",
+   "category": "Live",
+   "published_at": "2026-10-23T02:19:48Z"
+  },
+  {
+   "id": 383543,
+   "title_en": "Blizzard Confirms Molten Core Will Have New Mechanics in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383543",
+   "category": "Forever",
+   "published_at": "2026-10-22T18:15:43Z"
+  },
+  {
+   "id": 383541,
+   "title_en": "The WoW: Forever End of Beta Celebration Has Begun ft. Azuregos and Kazzak",
+   "url": "https://www.wowhead.com/news=383541",
+   "category": "Forever",
+   "published_at": "2026-10-22T17:13:00Z"
   }
  ]
 }

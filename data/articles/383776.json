@@ -221,7 +221,7 @@
   ],
   "chars": 3943
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383776/1.jpg",
@@ -231,5 +231,108 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383776/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 1,
- "hold_at": "2026-11-07T20:01:14Z"
+ "hold_at": "2026-11-07T20:01:14Z",
+ "article_fa": {
+  "title_fa": "تضعیف گسترده باس‌های رید The Venomous Abyss و تغییرات بزرگ Ula'tek",
+  "lead_fa": "بلیزارد مجموعه‌ای از تضعیف‌های سنگین را برای باس‌های رید The Venomous Abyss از جمله Ula'tek و Vashnik اعمال می‌کند که بخشی از آن‌ها هم‌اکنون فعال شده‌اند.",
+  "body_fa": [
+   "تیم توسعه‌دهنده اعلام کرده است که طی چند روز آینده تغییرات متعددی را روی انکانترهای رید The Venomous Abyss پیاده‌سازی می‌کند. نکته مهم این است که این تغییرات منتظر ریست هفتگی نمانده‌اند و برخی از آن‌ها در حال حاضر درون بازی فعال هستند.",
+   {
+    "t": "note",
+    "x": "این نرف‌ها به ریست هفتگی موکول نشده‌اند و بخش قابل‌توجهی از آن‌ها در حال حاضر روی سرورهای لایو فعال است.",
+    "kind": "info"
+   },
+   {
+    "t": "h",
+    "x": "تغییرات Entombed Sentinels و Vashnik و Twin Fangs"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "در انکانتر Entombed Sentinels حداکثر ابعاد حوضچه‌های Blood Venom در درجه‌های Heroic و Mythic کاهش یافته و مدت‌زمان ماندگاری آن در درجه سختی Mythic از ۵ دقیقه به ۲ دقیقه رسیده است.",
+     "در مبارزه Vashnik, the Malignant آسیب توانایی Malignance در درجه Mythic معادل ۳۷٪ کاهش یافته و مدت‌زمان اثر آسیب پیوسته (DoT) آن به ۱۶ ثانیه کاهش یافته است.",
+     "در باس Twin Fangs میزان آسیب Visceral Burst در درجه Mythic به میزان ۴۰٪ کاهش یافته است."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "تغییرات مبارزه The Coiled Altar"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "سرعت حرکت Axegrinder در تمامی درجه‌های سختی ۲۰٪ و میزان آسیب آن در Mythic معادل ۲۰٪ کم شده است.",
+     "میزان آسیب Gloombomb در درجه سختی Mythic معادل ۲۰٪ و آسیب Venom Rupture به میزان ۱۵٪ کاهش یافته است.",
+     "آسیب توانایی Malevolent Resonance به میزان ۶۰٪ کاهش یافت.",
+     "تکه‌های Gravebound Soul Fragments در درجه Mythic قبل از ناپدید شدن ۲ ثانیه بیشتر دوام می‌آورند.",
+     "تعداد Spiteful Soulcoilers احضار شده از Spiritcackle در درجه سختی Mythic از ۲ به ۱ عدد کاهش یافت."
+    ]
+   },
+   {
+    "t": "quote",
+    "x": "با این تغییر، احضار Soulcoilers اکنون مشابه نحوه احضار آن‌ها در درجه سختی Heroic عمل خواهد کرد.",
+    "by": "توسعه‌دهندگان بلیزارد"
+   },
+   {
+    "t": "h",
+    "x": "تضعیف همه‌جانبه Ula’tek"
+   },
+   "تنظیمات مقیاس‌پذیری سلامت (Health Scaling) برای باس Ula’tek و اددهای Blightscale Rawling و Blightscale Viper و Blightscale Shrieker و Weakened Doomscale در درجات Raid Finder و Normal و Heroic بازنگری شده است تا شرایط برای گروه‌های کوچک‌تر رید بهبود یابد. همچنین میزان پایه سلامت آن‌ها در این درجات کاهش یافته است تا سلامت آن‌ها با افزایش تعداد بازیکنان بی‌رویه بالا نرود.",
+   "سلامت خود Ula’tek در درجه Heroic معادل ۱۵٪ کاهش یافته و آسیب Unchecked Rage در تمامی درجه‌های سختی ۶۱٪ کمتر شده است.",
+   {
+    "t": "table",
+    "head": [
+     "توانایی",
+     "درجه سختی",
+     "درصد کاهش آسیب"
+    ],
+    "rows": [
+     [
+      "Caustic Waves (ضربه مستقیم)",
+      "Heroic و Mythic",
+      "۱۷٪"
+     ],
+     [
+      "Caustic Waves (آسیب پیوسته)",
+      "Normal: ۷۵٪ | Heroic: ۶۱٪ | Mythic: ۸۹٪",
+      "۷۵٪ / ۶۱٪ / ۸۹٪"
+     ],
+     [
+      "Malice",
+      "Normal و Heroic: ۶۳٪ | Mythic: ۴۵٪",
+      "۶۳٪ / ۴۵٪"
+     ],
+     [
+      "Virulent Spit",
+      "Raid Finder: ۴۶٪ | Normal و Heroic: ۳۳٪ | Mythic: ۳۶٪",
+      "۴۶٪ / ۳۳٪ / ۳۶٪"
+     ],
+     [
+      "Falling Debris",
+      "Raid Finder: ۴۶٪ | Normal و Heroic: ۳۳٪ | Mythic: ۳۶٪",
+      "۴۶٪ / ۳۳٪ / ۳۶٪"
+     ],
+     [
+      "Viscous Echoes",
+      "تمام درجات (ضربه اولیه ۵۳٪ / پیوسته ۲۵٪)",
+      "۵۳٪ / ۲۵٪"
+     ]
+    ]
+   },
+   "در بخش مکانیک‌های مبارزه Ula’tek، تعداد تخم‌های احضار شده با Call of the Serpent در Normal و Heroic و تعداد اهداف انتخابی Serpent’s Bite در تمامی درجات کاهش یافته است. همچنین Grasping Fangs در Normal و Heroic اهداف کمتری را انتخاب می‌کند.",
+   "در فاز دوم در درجه Heroic تعداد ۲ تخم از هر طرف حذف شده و مجموع به ۸ تخم در هر سمت رسیده است. افزون بر این، در فاز سوم درجه Heroic باس Ula’tek هنگام فرستادن دیوارهای موجی به سمت پلتفرم‌ها دیگر امواج Caustic Waves اضافی از Spectral Tails ایجاد نمی‌کند.",
+   "در درجه سختی Mythic آسیب مستقیم Noxious Splash معادل ۳۳٪ و آسیب پیوسته آن ۸۴٪ کاهش یافته است (ضربه اولیه به ۵۰۰ هزار و آسیب پیوسته به ۸۷ هزار رسیده است). همچنین مدت‌زمان Putrid Membrane از ۳۰ ثانیه به ۲۰ ثانیه کاهش یافته است. طبق آمار مقادیر اولیه، آسیب ضربه Falling Debris از ۲.۵ میلیون به ۱.۶ میلیون تغییر کرده است."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "رید",
+   "تغییرات کلس‌ها و رید",
+   "The Venomous Abyss"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-08T01:46:01Z"
+ }
 }
