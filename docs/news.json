@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T03:38:12Z",
+ "generated": "2026-11-08T04:56:16Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3369,6 +3369,13 @@
  ],
  "queue": [
   {
+   "id": 383805,
+   "title_en": "Layering Issues in Thousand Needles Harpy Cave Result in Quest Competition Issues",
+   "url": "https://www.wowhead.com/news=383805",
+   "category": "Forever",
+   "published_at": "2026-11-08T03:11:52Z"
+  },
+  {
    "id": 383768,
    "title_en": "Every Quest for Dungeons up to Level 20 in WoW: Forever",
    "url": "https://www.wowhead.com/news=383768",
@@ -3640,13 +3647,6 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
