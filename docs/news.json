@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T05:28:20Z",
+ "generated": "2026-11-08T05:29:41Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3396,6 +3396,13 @@
  ],
  "queue": [
   {
+   "id": 383805,
+   "title_en": "Layering Issues in Thousand Needles Harpy Cave Result in Quest Competition Issues",
+   "url": "https://www.wowhead.com/news=383805",
+   "category": "Forever",
+   "published_at": "2026-11-08T03:11:52Z"
+  },
+  {
    "id": 383768,
    "title_en": "Every Quest for Dungeons up to Level 20 in WoW: Forever",
    "url": "https://www.wowhead.com/news=383768",
@@ -3667,13 +3674,6 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
