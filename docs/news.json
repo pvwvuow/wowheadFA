@@ -1,8 +1,89 @@
 {
- "generated": "2026-11-08T23:19:20Z",
+ "generated": "2026-11-09T01:09:53Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383808,
+   "slug": "blizzard-buffs-dungeon-enemy-experience-gains",
+   "title_fa": "افزایش ۵۰ درصدی تجربه دریافتی از کشتن موجودات در دانجن‌ها",
+   "lead_fa": "بلیزارد در یک هاتفیکس تازه، میزان Experience دریافتی از موجودات درون دانجن‌ها را ۵۰٪ افزایش داد.",
+   "body_fa": [
+    "با انتشار یک هاتفیکس جدید، میزان Experience حاصل از کشتن موجودات داخل دانجن‌ها به مقدار ۵۰٪ افزایش یافته است.",
+    "پیش از این و پس از اعمال تغییراتی که در آن Experience کوئست‌های دانجن افزایش و در مقابل، میزان دریافت آن از موجودات (mobs) کاهش یافته بود، بسیاری از بازیکنان روش یک‌بار رفتن به دانجن را در پیش گرفته بودند. از آنجا که بخش عمده تجربه از خود کوئست‌ها به دست می‌آمد، بازیکنان احساس می‌کردند تکرار دوباره دانجن ارزش وقت گذاشتن ندارد. با اعمال این تغییر، رفتن دوباره به دانجن برای کمک به دوستان حس بهتری خواهد داشت.",
+    {
+     "t": "quote",
+     "x": "امروز حدود ساعت 11:05 PST، ما هاتفیکسی را اعمال کردیم که تجربه حاصل از کشتن در دانجن‌ها را ۵۰٪ افزایش داد، تا بازگشت و رفتن دوباره به دانجن‌ها حس بهتری داشته باشد. دانجن‌گردی خوش بگذرد و با آرزوی موفقیت برای آن Deviate Hides!",
+     "by": "Blizzard"
+    },
+    {
+     "t": "note",
+     "x": "این هاتفیکس مستقیماً برای برطرف کردن حس بی‌ارزش بودن تکرار دانجن‌ها پس از اتمام کوئست‌ها طراحی شده است.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "دانجن",
+    "Blizzard"
+   ],
+   "items": [],
+   "title_en": "Blizzard Buffs Dungeon Enemy Experience Gains",
+   "source_url": "https://www.wowhead.com/news=383808",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383808-blizzard-buffs-dungeon-enemy-experience-gains.html",
+   "published_at": "2026-11-08T19:52:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383808/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383808/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383802,
+   "slug": "the-darkmoon-faire-is-coming-to-elwynn-forest-first-in-wow-forever",
+   "title_fa": "برگزاری نخستین رویداد Darkmoon Faire در Elwynn Forest برای سرور WoW Forever",
+   "lead_fa": "رویداد Darkmoon Faire برای نخستین بار در WoW Forever به منطقه Elwynn Forest می‌آید و به مدت یک هفته فعال خواهد بود.",
+   "body_fa": [
+    "رویداد نمادین Darkmoon Faire نخستین توقف خود را در WoW Forever در منطقه Elwynn Forest تجربه خواهد کرد و این موضوع مزیت میزبانی اولیه را در اختیار فکشن Alliance قرار می‌دهد. بازیکنان حاضر در منطقه می‌توانند مراحل برپایی این رویداد را مشاهده کنند.",
+    "تقویم درون بازی مشخص کرده است که این رویداد از روز دوشنبه آغاز می‌شود و برای مدت یک هفته ادامه خواهد داشت.",
+    {
+     "t": "h",
+     "x": "سرگرمی‌ها، جوایز و وضعیت ورلد باف"
+    },
+    "این کارناوال شامل مینی‌گیم‌های سرگرم‌کننده، فارم اعتبار و آیتم‌های کمیاب است. با این حال، یکی از اهداف اصلی بازیکنان در Classic WoW دریافت باف محیطی Sayge's Dark Fortune of Damage بود که افزایشی معادل ۱۰٪ در میزان آسیب واردشده به مدت ۲ ساعت فراهم می‌کرد.",
+    {
+     "t": "note",
+     "x": "ورلد باف‌ها در سرور Forever همانند گذشته عمل نمی‌کنند؛ این باف‌ها در ریدها مجاز نخواهند بود، اما همچنان در محیط باز جهان بازی فعال هستند.",
+     "kind": "info"
+    },
+    "با توجه به اینکه این رویداد نخستین تجربه Darkmoon Faire در این سرور محسوب می‌شود، هنوز مشخص نیست که آیا شگفتی‌ها یا ویژگی‌های جدیدی به آن افزوده شده است یا خیر و باید تا زمان فعال‌سازی کامل رویداد منتظر ماند."
+   ],
+   "tags_fa": [
+    "رویداد",
+    "Forever",
+    "ورلد باف"
+   ],
+   "items": [],
+   "title_en": "The Darkmoon Faire is Coming To Elwynn Forest First in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383802",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383802-the-darkmoon-faire-is-coming-to-elwynn-forest-first-in-wow-forever.html",
+   "published_at": "2026-11-08T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383802/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383802/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383805,
    "slug": "layering-issues-in-thousand-needles-harpy-cave-result-in-quest-competi",
@@ -3263,135 +3344,15 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383659,
-   "slug": "talebound-end-game-player-power-rewards-venomstones-bonus-rolls-experi",
-   "title_fa": "پاداش‌های قدرت اندگیم Talebound: وینوم‌استون، کش‌های Mythic و معجون‌های Experience",
-   "lead_fa": "Talebound فقط داستان و پازل نیست؛ با پچ 12.1.7 به منبع جدی قدرت پلیر تبدیل می‌شود — از وینوم‌استون و کش‌های تجهیزات Heroic و Mythic تا معجون‌های Experience، هارت‌استون جدید و کمپسایت اختصاصی.",
-   "body_fa": [
-    "در آخرین بیلد PTR پچ 12.1.7 دستاورد‌های تازه‌ای برای Talebound اضافه شده که پاداش‌شان قدرت پلیر در بازی اصلی Retail است؛ بخشی از این پاداش‌ها قبلاً دیتاماین شده بود و حالا منبعشان رسمی و شفاف شده است.",
-    {
-     "t": "img",
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383659/1.jpg",
-     "cap": "پاداش‌های اندگیم Talebound در پچ 12.1.7"
-    },
-    {
-     "t": "h",
-     "x": "خرید از Travelling Raven در Silvermoon City"
-    },
-    "بیشتر این پاداش‌ها از Travelling Raven خریداری می‌شوند؛ رونی که در Silvermoon City ایستاده است. همین که با او صحبت کنید، دستاورد Tapping at the Trader's Door هم نصیبتان می‌شود.",
-    {
-     "t": "h",
-     "x": "وینوم‌استون و کش‌های تجهیزات"
-    },
-    "اگر هنوز وینوم‌استون‌های موردنیاز کاراکترهایتان جمع نشده، چهار دستاورد جداگانه هر کدام ۱۰ وینوم‌استون از [[item:288965]] می‌دهند؛ نسخه‌های Heroic، Mythic و Veteran دستاورد The Final Confrontation's Conclusion.",
-    {
-     "t": "ul",
-     "xs": [
-      "سه دستاورد از Talebound یک [[item:288961]] پاداش می‌دهند.",
-      "هشت دستاورد تجهیزات Venomous Abyss می‌دهند: یک کش Normal، پنج کش Heroic ([[item:288987]]) و دو کش Mythic ([[item:288983]])؛ کش Champion هم [[item:288984]] است.",
-      "بونوس کرست‌ها هم فراموش نشود: ۲۰ Champion Crest از [[item:288979]]، ۴۰ Hero Crest از [[item:288978]] و ۴۰ Myth Crest از [[item:288976]] به دست می‌آید."
-     ]
-    },
-    {
-     "t": "note",
-     "kind": "tip",
-     "x": "چهار دستاورد وینوم‌استون روی چهار داستان مختلف سوارند؛ با تموم‌کردن هر داستان روی یک آلت دیگر، عملاً ۱۰ وینوم‌استون اضافه هر بار جمع می‌کنید."
-    },
-    {
-     "t": "h",
-     "x": "جمع‌کردنی‌ها: هارت‌استون، اسباب‌بازی و کمپسایت"
-    },
-    "در کنار قدرت پلیر، آیتم‌های کلکسیونی هم دارند: هارت‌استون جدید [[item:288912]] با دستاورد The Tale Complete می‌آید و اسباب‌بازی The Fate of Quillgrave پاداش دستاورد The Final Confrontation است؛ به‌علاوه یک Campsite کاملاً جدید. اسباب‌بازی [[item:288899]] هم که قبلاً گزارشش را خوانده‌اید، از همین‌جاست.",
-    {
-     "t": "h",
-     "x": "چهار معجون ۱۰٪ Experience"
-    },
-    "هر وقت پازل‌های یک داستان را کامل حل کنید، یک معجون ۱۰ درصد Experience دو ساعته می‌گیرید. چهار داستان یعنی چهار معجون: [[item:288971]]، [[item:288972]]، [[item:288970]] و [[item:288957]].",
-    {
-     "t": "h",
-     "x": "مواد پروفیشن و پریزم مارل"
-    },
-    "دو دستاورد هم جعبهٔ مواد پروفیشن می‌دهند: [[item:288973]] پاداش The Arcanist's Account Complete و [[item:288974]] پاداش The Outfitter's Story Complete. سه دستاورد دیگر هم [[item:288966]] می‌دهند که جمعاً ۷ عدد می‌شود."
-   ],
-   "tags_fa": [
-    "Talebound",
-    "PTR",
-    "پچ 12.1.7",
-    "Player Power"
-   ],
-   "items": [],
-   "title_en": "Talebound End-Game Player Power Rewards - Venomstones, Bonus Rolls, Experience Potions",
-   "source_url": "https://www.wowhead.com/news=383659",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383659-talebound-end-game-player-power-rewards-venomstones-bonus-rolls-experi.html",
-   "published_at": "2026-10-29T23:51:03Z",
-   "model": "GLM",
-   "via": "auto-glm",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383659/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383659/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383660,
-   "slug": "two-new-housing-exterior-customizations-discovered-on-12-1-7-ptr",
-   "title_fa": "کشف دو سفارشی‌سازی جدید نما برای خانه‌ها در PTR 12.1.7",
-   "lead_fa": "در آخرین بیلد PTR پچ 12.1.7 دو آیتم برای یادگیری گزینه‌های جدید سفارشی‌سازی نما کشف شده است.",
-   "body_fa": [
-    "این دو آیتم در حال حاضر هیچ منبعی ندارند و ظاهر آن‌ها رمزنگاری شده است، بنابراین نمی‌توانیم ببینیم چگونه به نظر می‌رسند.",
-    "با این حال به نظر می‌رسد این دو نما با دکور cabin cozy که در بیلد قبلی 12.1.7 استخراج شده بود مرتبط باشند.",
-    "آن دکور منبع In-Game shop دارد و بازیکنان به شدت خواستار کسب این سفارشی‌سازی‌های جدید درون بازی هستند.",
-    "امکان دارد Cozy و Icy cabins نیز به یک پک فروشگاه آینده مربوط باشند، اما به همان اندازه محتمل است که از همان فروشندگان محله‌ای که Autumnal Westfall Barn Facade Plans و Springtime Westfall Barn Facade Plans را عرضه می‌کنند در دسترس قرار بگیرند."
-   ],
-   "tags_fa": [
-    "12.1.7",
-    "PTR",
-    "Housing",
-    "Customizations"
-   ],
-   "items": [],
-   "title_en": "Two New Housing Exterior Customizations Discovered on 12.1.7 PTR",
-   "source_url": "https://www.wowhead.com/news=383660",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383660-two-new-housing-exterior-customizations-discovered-on-12-1-7-ptr.html",
-   "published_at": "2026-10-29T23:07:55Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383660/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383660/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383808,
-   "title_en": "Blizzard Buffs Dungeon Enemy Experience Gains",
-   "url": "https://www.wowhead.com/news=383808",
-   "category": "Forever",
-   "published_at": "2026-11-08T19:52:00Z"
-  },
   {
    "id": 383792,
    "title_en": "Everything About WoW: Forever Raids - Joardee Interview on WoW: Forever",
    "url": "https://www.wowhead.com/news=383792",
    "category": "Forever",
    "published_at": "2026-11-08T19:00:00Z"
-  },
-  {
-   "id": 383802,
-   "title_en": "The Darkmoon Faire is Coming To Elwynn Forest First in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383802",
-   "category": "Forever",
-   "published_at": "2026-11-08T15:00:00Z"
   },
   {
    "id": 383768,
@@ -3651,6 +3612,13 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
