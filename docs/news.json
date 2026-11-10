@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T04:00:03Z",
+ "generated": "2026-11-10T04:01:23Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3334,6 +3334,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383817,
+   "title_en": "Blizzard Made Character Creation on Higher Population Faction Increasingly Difficult",
+   "url": "https://www.wowhead.com/news=383817",
+   "category": "Forever",
+   "published_at": "2026-11-10T02:08:11Z"
+  },
   {
    "id": 383768,
    "title_en": "Every Quest for Dungeons up to Level 20 in WoW: Forever",
