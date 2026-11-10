@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T19:07:48Z",
+ "generated": "2026-11-10T20:52:37Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3335,6 +3335,20 @@
  ],
  "queue": [
   {
+   "id": 383826,
+   "title_en": "Warlock and Hunter Class Tuning Now Live in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383826",
+   "category": "Forever",
+   "published_at": "2026-11-10T20:16:31Z"
+  },
+  {
+   "id": 383824,
+   "title_en": "Enhancement Shaman Class Weapon Hotfixed on WoW: Forever",
+   "url": "https://www.wowhead.com/news=383824",
+   "category": "Forever",
+   "published_at": "2026-11-10T19:12:35Z"
+  },
+  {
    "id": 383145,
    "title_en": "Secret Hunt in WoW: Forever with the Night Watchman's Torch",
    "url": "https://www.wowhead.com/news=383145",
@@ -3599,20 +3613,6 @@
    "url": "https://www.wowhead.com/news=383541",
    "category": "Forever",
    "published_at": "2026-10-22T17:13:00Z"
-  },
-  {
-   "id": 383540,
-   "title_en": "The WoW: Forever Podcast Episode 5 Now Available - The End of Beta Special!",
-   "url": "https://www.wowhead.com/news=383540",
-   "category": "Forever",
-   "published_at": "2026-10-22T16:21:06Z"
-  },
-  {
-   "id": 383487,
-   "title_en": "The Current State of Protection Paladins in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383487",
-   "category": "Forever",
-   "published_at": "2026-10-21T19:06:30Z"
   }
  ]
 }
