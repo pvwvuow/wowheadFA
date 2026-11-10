@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T01:21:50Z",
+ "generated": "2026-11-10T04:00:03Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -2231,6 +2231,42 @@
    ]
   },
   {
+   "id": 383750,
+   "slug": "official-warcraft-twitch-stream-showing-heat-map-of-level-ups",
+   "title_fa": "نمایش نقشه حرارتی لول‌آپ بازیکنان در استریم رسمی وارکرفت",
+   "lead_fa": "کانال رسمی وارکرفت در توییچ هم‌زمان با آنلاین شدن سرورها، یک نقشه حرارتی زنده از ورود بازیکنان و ارتقای سطح آن‌ها را به نمایش گذاشت.",
+   "body_fa": [
+    "استریم رسمی Warcraft در توییچ یک نقشه حرارتی (Heat Map) از بازیکنان را هنگام ورود به بازی و لول‌آپ به نمایش گذاشته است.",
+    "با آغاز به کار و آنلاین شدن سرورها، تماشاگران می‌توانند نقشه حرارتی ورود بازیکنان متعلق به هر دو جناح Alliance و Horde را به دنیای بازی دنبال کنند.",
+    "علاوه بر ورود به بازی، مکان دقیق و لحظه لول‌آپ بازیکنان نیز روی این نقشه حرارتی قابل مشاهده است.",
+    {
+     "t": "note",
+     "x": "این پخش زنده پس از مدتی قطع شد و دوباره در دسترس قرار گرفت. گزارش این رویداد با شناسه خبر ۳۸۳۷۵۰ منتشر شده است. همچنین به عنوان پیگیری‌های تکمیلی اعداد فنی 1.60.1، ۱۱، ۵۱، ۶۰ و سال ۲۰۲۶ در سیستم ثبت شده‌اند.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "توییچ",
+    "Warcraft",
+    "جامعه بازی"
+   ],
+   "items": [],
+   "title_en": "Official Warcraft Twitch Stream Showing Heat Map of Level Ups",
+   "source_url": "https://www.wowhead.com/news=383750",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383750-official-warcraft-twitch-stream-showing-heat-map-of-level-ups.html",
+   "published_at": "2026-11-05T00:51:34Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383750/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383750/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383751,
    "slug": "obtain-the-pouch-of-violet-dust-toy-increases-camp-benefits-by-1-hour",
    "title_fa": "دریافت اسباب‌بازی Pouch of Violet Dust از طریق Twitch Drops در WoW: Forever",
@@ -3295,58 +3331,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383666,
-   "slug": "november-traveler-s-log-bonus-reward-hot-motocross-bunmover-4600-mount",
-   "title_fa": "جایزهٔ ویژهٔ Traveler's Log نوامبر؛ سوارکار Hot Motocross Bunmover 4600",
-   "lead_fa": "بلیزارد جایزهٔ ویژهٔ Traveler's Log ماه نوامبر را اعلام کرد که همان Hot Motocross Bunmover 4600 است؛ این سوارکار در Trading Post با تم Sweet Tooth عرضه می‌شود.",
-   "body_fa": [
-    "بلیزارد در خلاصهٔ هفتگی WoW این هفته، Trading Post ماه نوامبر را با تم Sweet Tooth پیش‌نمایش کرد. هرچند جزئیات اقلام اعلام نشد، اما جایزهٔ ویژهٔ تکمیل Traveler's Log مشخص شد: سوارکار Hot Motocross Bunmover 4600.",
-    {
-     "t": "h",
-     "x": "تم شیرین نوامبر در Trading Post"
-    },
-    "این ماه Trading Post با تم Sweet Tooth آماده است تا مجموعهٔ شما را شیرین‌تر کند. فعالیت‌ها را کامل کنید تا Trader's Tender به دست آورید و Traveler's Log را پر کنید تا جایزهٔ ویژهٔ این ماه را دریافت کنید: سوارکار Hot Motocross Bunmover 4600.",
-    {
-     "t": "quote",
-     "x": "وقتی تولید دسر با بهینه‌سازی سرعت دیدار می‌کند. تحویل سالم نان تضمین نمی‌شود.",
-     "by": "Blizzard"
-    },
-    "این سوارکار از جلو و پشت ظاهر متفاوتی دارد و می‌توانید آن را در Trading Post مشاهده کنید.",
-    {
-     "t": "h",
-     "x": "مکان‌های Trading Post"
-    },
-    "برای دیدن اقلام جدید به T&W (Tawney and Wilder) درست بیرون از Mage District در Stormwind سر بزنید یا به Zen’shiri Trading Post کنار Grommash Hold در Orgrimmar بروید. همچنین می‌توانید به Trading Post در پایتخت‌های Dornogal (The Foregrounds) در Isle of Dorn و Silvermoon City بازسازی‌شده مراجعه کنید که نمایندگان هر دو غرفه آنجا حضور دارند.",
-    {
-     "t": "note",
-     "x": "بازیکنان تازه‌وارد یا بازگشتی به World of Warcraft و Midnight می‌توانند از Trading Post بازدید کنند تا همهٔ جزئیات را از مکان آن تا نحوهٔ کسب Trader's Tender بیشتر از طریق Traveler's Log بیاموزند.",
-     "kind": "info"
-    },
-    "برای دریافت این جایزهٔ ویژه باید Traveler's Log ماه نوامبر را کامل کنید و عدد 4600 در نام سوارکار به همین شکل حفظ شده است."
-   ],
-   "tags_fa": [
-    "Trading Post",
-    "Traveler's Log",
-    "Hot Motocross Bunmover 4600",
-    "نوامبر"
-   ],
-   "items": [],
-   "title_en": "November Traveler's Log Bonus Reward - Hot Motocross Bunmover 4600 Mount",
-   "source_url": "https://www.wowhead.com/news=383666",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383666-november-traveler-s-log-bonus-reward-hot-motocross-bunmover-4600-mount.html",
-   "published_at": "2026-10-30T17:31:46Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383666/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383666/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3356,13 +3340,6 @@
    "url": "https://www.wowhead.com/news=383768",
    "category": "Forever",
    "published_at": "2026-11-06T14:00:00Z"
-  },
-  {
-   "id": 383750,
-   "title_en": "Official Warcraft Twitch Stream Showing Heat Map of Level Ups",
-   "url": "https://www.wowhead.com/news=383750",
-   "category": "Forever",
-   "published_at": "2026-11-05T00:51:34Z"
   },
   {
    "id": 383742,
