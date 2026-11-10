@@ -5,7 +5,7 @@
  "title_en": "Enhancement Shaman Class Weapon Hotfixed on WoW: Forever",
  "category": "Forever",
  "published_at": "2026-11-10T19:12:35Z",
- "fetched_at": "2026-11-10T19:28:09Z",
+ "fetched_at": "2026-11-10T20:50:43Z",
  "source_mode": "full",
  "qa_facts": {
   "numbers": [
@@ -16,10 +16,10 @@
    "12",
    "16",
    "19:04",
-   "2.3",
-   "2.6",
    "2026",
-   "280604"
+   "280604",
+   "3.2",
+   "3.6"
   ],
   "entities": [
    "ability",
@@ -110,5 +110,12 @@
   ],
   "chars": 1104
  },
- "status": "new"
+ "status": "new",
+ "images": [
+  {
+   "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383824/1.jpg",
+   "cap": ""
+  }
+ ],
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383824/1.jpg"
 }
