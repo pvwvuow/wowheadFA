@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T04:01:23Z",
+ "generated": "2026-11-10T05:20:57Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3334,6 +3334,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383819,
+   "title_en": "Drowned City Nerfs & Reduced Population in Zones - WoW: Forever Hotfixes for November 9th",
+   "url": "https://www.wowhead.com/news=383819",
+   "category": "Forever",
+   "published_at": "2026-11-10T04:30:43Z"
+  },
   {
    "id": 383817,
    "title_en": "Blizzard Made Character Creation on Higher Population Faction Increasingly Difficult",
