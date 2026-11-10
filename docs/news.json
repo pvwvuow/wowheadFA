@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T07:35:18Z",
+ "generated": "2026-11-10T16:04:40Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3335,6 +3335,27 @@
  ],
  "queue": [
   {
+   "id": 383145,
+   "title_en": "Secret Hunt in WoW: Forever with the Night Watchman's Torch",
+   "url": "https://www.wowhead.com/news=383145",
+   "category": "Forever",
+   "published_at": "2026-11-10T16:00:00Z"
+  },
+  {
+   "id": 383814,
+   "title_en": "Every Quest for Level 20 to 30 Dungeons in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383814",
+   "category": "Forever",
+   "published_at": "2026-11-10T15:00:00Z"
+  },
+  {
+   "id": 383813,
+   "title_en": "New \"Dawn Waker\" Secret Found in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383813",
+   "category": "Forever",
+   "published_at": "2026-11-10T14:00:00Z"
+  },
+  {
    "id": 383819,
    "title_en": "Drowned City Nerfs & Reduced Population in Zones - WoW: Forever Hotfixes for November 9th",
    "url": "https://www.wowhead.com/news=383819",
@@ -3592,20 +3613,6 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
