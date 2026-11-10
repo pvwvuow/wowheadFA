@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T07:35:18Z",
+ "generated": "2026-11-10T14:41:18Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3334,6 +3334,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383813,
+   "title_en": "New \"Dawn Waker\" Secret Found in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383813",
+   "category": "Forever",
+   "published_at": "2026-11-10T14:00:00Z"
+  },
   {
    "id": 383819,
    "title_en": "Drowned City Nerfs & Reduced Population in Zones - WoW: Forever Hotfixes for November 9th",
