@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T20:53:58Z",
+ "generated": "2026-11-10T23:22:42Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3335,6 +3335,27 @@
  ],
  "queue": [
   {
+   "id": 383832,
+   "title_en": "Blizzard Adding Gold to Many Quests Near Max Level in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383832",
+   "category": "Forever",
+   "published_at": "2026-11-10T21:58:16Z"
+  },
+  {
+   "id": 383831,
+   "title_en": "Dungeon Experience in WoW: Forever is Now 60% of Classic Era - Blizzard Happy with Dungeon Level Speeds",
+   "url": "https://www.wowhead.com/news=383831",
+   "category": "Forever",
+   "published_at": "2026-11-10T21:52:03Z"
+  },
+  {
+   "id": 383828,
+   "title_en": "Vendor Price Changes on WoW: Forever - Iron Grenade Shuffle Dead",
+   "url": "https://www.wowhead.com/news=383828",
+   "category": "Forever",
+   "published_at": "2026-11-10T21:05:09Z"
+  },
+  {
    "id": 383826,
    "title_en": "Warlock and Hunter Class Tuning Now Live in WoW: Forever",
    "url": "https://www.wowhead.com/news=383826",
@@ -3592,27 +3613,6 @@
    "url": "https://www.wowhead.com/news=383547",
    "category": "Forever",
    "published_at": "2026-10-23T14:00:00Z"
-  },
-  {
-   "id": 383552,
-   "title_en": "Item Level Changes for Ascended Venomforged Gear",
-   "url": "https://www.wowhead.com/news=383552",
-   "category": "Live",
-   "published_at": "2026-10-23T02:19:48Z"
-  },
-  {
-   "id": 383543,
-   "title_en": "Blizzard Confirms Molten Core Will Have New Mechanics in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383543",
-   "category": "Forever",
-   "published_at": "2026-10-22T18:15:43Z"
-  },
-  {
-   "id": 383541,
-   "title_en": "The WoW: Forever End of Beta Celebration Has Begun ft. Azuregos and Kazzak",
-   "url": "https://www.wowhead.com/news=383541",
-   "category": "Forever",
-   "published_at": "2026-10-22T17:13:00Z"
   }
  ]
 }
