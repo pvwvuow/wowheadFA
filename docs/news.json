@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T19:07:48Z",
+ "generated": "2026-11-10T19:29:51Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3335,6 +3335,13 @@
  ],
  "queue": [
   {
+   "id": 383824,
+   "title_en": "Enhancement Shaman Class Weapon Hotfixed on WoW: Forever",
+   "url": "https://www.wowhead.com/news=383824",
+   "category": "Forever",
+   "published_at": "2026-11-10T19:12:35Z"
+  },
+  {
    "id": 383145,
    "title_en": "Secret Hunt in WoW: Forever with the Night Watchman's Torch",
    "url": "https://www.wowhead.com/news=383145",
@@ -3606,13 +3613,6 @@
    "url": "https://www.wowhead.com/news=383540",
    "category": "Forever",
    "published_at": "2026-10-22T16:21:06Z"
-  },
-  {
-   "id": 383487,
-   "title_en": "The Current State of Protection Paladins in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383487",
-   "category": "Forever",
-   "published_at": "2026-10-21T19:06:30Z"
   }
  ]
 }
