@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T23:53:27Z",
+ "generated": "2026-11-11T02:59:30Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3335,6 +3335,13 @@
  ],
  "queue": [
   {
+   "id": 383833,
+   "title_en": "Blizzard Addressing Missing Shaman Totems Due to Monday's Server Issue in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383833",
+   "category": "Forever",
+   "published_at": "2026-11-11T01:13:27Z"
+  },
+  {
    "id": 383832,
    "title_en": "Blizzard Adding Gold to Many Quests Near Max Level in WoW: Forever",
    "url": "https://www.wowhead.com/news=383832",
@@ -3606,13 +3613,6 @@
    "url": "https://www.wowhead.com/news=383561",
    "category": "WoW",
    "published_at": "2026-10-23T17:25:01Z"
-  },
-  {
-   "id": 383547,
-   "title_en": "Who is WoW: Forever Meant For? Blizzard Discusses on Forever Podcast",
-   "url": "https://www.wowhead.com/news=383547",
-   "category": "Forever",
-   "published_at": "2026-10-23T14:00:00Z"
   }
  ]
 }
