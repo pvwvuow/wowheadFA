@@ -1,6 +1,6 @@
 {
  "day": "2026-11-11",
- "published_today": 14,
+ "published_today": 16,
  "held": {
   "383824": {
    "reason": "عبارت «WoW: Forever» در تیتر و برچسب‌ها در متن منبع وجود ندارد و ساختهٔ نویسنده است. | اعداد «2.6 و 2.3» در عبارت «با ثبت دیتای بیلد در مقادیر 2.6 و 2.3» در منبع وجود ندارند و اضافه شده‌اند. | G4 numbers from source missing in article: 280604",
@@ -31,75 +31,30 @@
    "reason": "خطای مدل در بازنویسی: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
    "at": "2026-11-11T10:04:27Z",
    "at_ts": 1794391467.435951
+  },
+  "383720": {
+   "reason": "G4 numbers from source missing in article: 1.60.1, 10, 12, 14, 15, 18, 20, 2026 | G6 space before punctuation",
+   "at": "2026-11-11T10:33:37Z",
+   "at_ts": 1794393217.009446
+  },
+  "383716": {
+   "reason": "پاراگراف آخر مقاله تیترهای سایدبار/اخبار مرتبط سایت را با متن خبر ترکیب کرده و ادعا می‌کند «در پایگاه داده و بحث‌های ثبت‌شده مرتبط با شناسه خبر ۳۸۳۷۱۶... به تغییرات گلد و دانجن‌ها اشاره شده است»، در حالی که این موارد پیوندهای ناوبری سایت هستند و ارتباطی به محتوای خبر توکن‌های Tier ندارند.",
+   "at": "2026-11-11T10:36:39Z",
+   "at_ts": 1794393399.420232
+  },
+  "383713": {
+   "reason": "G4 numbers from source missing in article: 10, 12, 12.1.5, 18, 20, 2026, 30, 3500",
+   "at": "2026-11-11T10:38:21Z",
+   "at_ts": 1794393501.747707
   }
  },
  "ingest_fails": {
-  "383735": 2
+  "383735": 3
  },
- "updated_at": "2026-11-11T10:06:54Z",
+ "updated_at": "2026-11-11T10:38:21Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383603",
-    "ts": "2026-11-08T09:24:48Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 29.1,
-    "attempts": 0
-   },
-   {
-    "id": "383570",
-    "ts": "2026-11-08T09:25:20Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 33.0,
-    "attempts": 0
-   },
-   {
-    "id": "383561",
-    "ts": "2026-11-08T09:26:03Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 42.3,
-    "attempts": 0
-   },
-   {
-    "id": "383552",
-    "ts": "2026-11-08T09:41:01Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 2,
-    "warns": 0,
-    "sec": 898.7,
-    "attempts": 2
-   },
-   {
-    "id": "383543",
-    "ts": "2026-11-08T09:41:27Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 25.7,
-    "attempts": 0
-   },
-   {
-    "id": "383541",
-    "ts": "2026-11-08T09:42:17Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 50.2,
-    "attempts": 0
-   },
    {
     "id": "383487",
     "ts": "2026-11-08T09:43:14Z",
@@ -4038,6 +3993,66 @@
     "blocks": 0,
     "warns": 0,
     "sec": 86.6,
+    "attempts": 2
+   },
+   {
+    "id": "383735",
+    "ts": "2026-11-11T10:30:22Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 72.4,
+    "attempts": 0
+   },
+   {
+    "id": "383728",
+    "ts": "2026-11-11T10:32:14Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 1,
+    "sec": 112.3,
+    "attempts": 1
+   },
+   {
+    "id": "383720",
+    "ts": "2026-11-11T10:33:37Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 82.2,
+    "attempts": 2
+   },
+   {
+    "id": "383714",
+    "ts": "2026-11-11T10:35:23Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 1,
+    "sec": 106.6,
+    "attempts": 2
+   },
+   {
+    "id": "383716",
+    "ts": "2026-11-11T10:36:39Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 75.8,
+    "attempts": 2
+   },
+   {
+    "id": "383713",
+    "ts": "2026-11-11T10:38:21Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 102.3,
     "attempts": 2
    }
   ]
