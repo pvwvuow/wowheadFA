@@ -317,7 +317,7 @@
   ],
   "chars": 4410
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383814/1.jpg",
@@ -325,92 +325,73 @@
   }
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383814/1.jpg",
- "last_rejected": {
-  "title_fa": "فهرست کامل کوئست‌های دانجن‌های لول ۲۰ تا ۳۰ در سرور WoW: Forever",
-  "lead_fa": "در سرور WoW: Forever کوئست‌های دانجن به دلیل تفاوت دریافت تجربه اهمیت بالایی دارند و برای دانجن‌های بازه لول ۲۰ تا ۳۰ ماموریت‌های مشخصی در نظر گرفته شده است.",
+ "article_fa": {
+  "title_fa": "راهنمای کوئست‌های دانجن‌های لول ۲۰ تا ۳۰ در WoW: Forever",
+  "lead_fa": "در سرور WoW: Forever با وجود افزایش ۵۰ درصدی تجربهٔ دانجن‌ها، کوئست‌ها همچنان مهم‌ترین ابزار برای لول‌آپ سریع در دانجن‌های بازهٔ لول ۲۰ تا ۳۰ محسوب می‌شوند.",
   "body_fa": [
-   "با وجود این‌که میزان تجربه دریافتی از کشتن موجودات در دانجن‌ها ۵۰٪ افزایش یافته است، اما کشتن ماب‌ها همچنان حدود ۴۰٪ کمتر از نسخه Era تجربه می‌دهد. به همین دلیل انجام دادن کامل کوئست‌ها همچنان مهم‌ترین روش برای کسب بیشترین تجربه ممکن در هنگام پاکسازی دانجن‌ها به شمار می‌رود.",
-   "این راهنما شامل تمامی ماموریت‌های موجود برای دانجن‌های محدوده لول ۲۰ تا ۳۰ شامل Shadowfang Keep، Blackfathom Deeps، The Stockades و Excavation Site: Wetlands است. دانجن Shadowfang Keep درجه سختی این دانجن برای لول ۱۸ به صورت Hard، برای لول ۲۱ به صورت Medium، برای لول ۲۳ به صورت At Level و برای لول ۲۸ به صورت Easy دسته‌بندی شده است. ماموریت‌های این دانجن به شرح زیر هستند:",
+   "با اینکه تجربهٔ دریافتی از کشتن موجودات در دانجن‌ها ۵۰٪ افزایش یافته است، اما کشتن ماب‌ها در این نسخه همچنان حدود ۴۰٪ تجربهٔ کمتری نسبت به نسخهٔ Era می‌دهد. به همین دلیل، دریافت کوئست‌های هر دانجن نقشی کلیدی برای رسیدن به بیشترین بازدهی تجربه هنگام دانجن‌زدن دارد. در این راهنما مکان تمام کوئست‌های دانجن‌های محدودهٔ لول ۲۰ تا ۳۰ معرفی شده است.",
+   {
+    "t": "note",
+    "x": "دانجن Shadowfang Keep در لول ۱۸ سخت، لول ۲۱ متوسط، لول ۲۳ هم‌سطح و در لول ۲۸ آسان است. کوئست‌های آن شامل The Book of Ur برای لول ۱۶ از Undercity در مختصات 53 54 نزد Keeper Bel'dugur، کوئست Deathstalkers in Shadowfang برای لول ۱۸ از Silverpine Forest در مختصات 43 41 نزد High Executor Hadrec، و کوئست Arugal Must Die برای لول ۱۸ از Sepulcher در مختصات 44 39 نزد Dalar Dawnweaver است. همچنین کوئست The Orb of Soran'ruk برای لول ۲۰ اختصاصی Warlock از The Barrens نزد Doan Karhan در مختصات 49 57، و کوئست The Test of Righteousness برای لول ۲۰ اختصاصی Paladin از Ironforge نزد Jordan Stilwell در مختصات 52 36 پس از زنجیرهٔ Tome of Valor شروع می‌شوند.",
+    "kind": "info"
+   },
+   {
+    "t": "h",
+    "x": "کوئست‌های دانجن Blackfathom Deeps"
+   },
+   "دانجن Blackfathom Deeps برای لول ۲۱ سخت، لول ۲۳ متوسط، لول ۲۵ مناسب و لول ۳۰ آسان ارزیابی می‌شود. مأموریت‌های هر دو جناح به شرح زیر است:",
    {
     "t": "ul",
     "xs": [
-     "کوئست The Book of Ur: نیازمند لول ۱۶، شروع از Undercity در بخش Apothecarium توسط Keeper Bel'dugur در مختصات 53 54.",
-     "کوئست Deathstalkers in Shadowfang: نیازمند لول ۱۸، شروع از Silverpine Forest در منطقه Sepulcher توسط High Executor Hadrec در مختصات 43 41.",
-     "کوئست Arugal Must Die: نیازمند لول ۱۸، شروع از Silverpine Forest در منطقه Sepulcher توسط Dalar Dawnweaver در مختصات 44 39.",
-     "کوئست The Orb of Soran'ruk: نیازمند لول ۲۰، مخصوص کلاس Warlock، شروع از The Barrens در نزدیکی Camp Taurajo توسط Doan Karhan در مختصات 49 57.",
-     "کوئست The Test of Righteousness: نیازمند لول ۲۰ و پیش‌نیاز، مخصوص کلاس Paladin، شروع از Ironforge داخل Gates توسط Jordan Stilwell در مختصات 52 36 (آغاز با زنجیره‌کوئست Tome of Valor بسته به نژاد)."
+     "کوئست‌های هورد: The Essence of Aku'Mai در لول ۱۷ از Ashenvale مختصات 11 34 نزد Je'neu Sancrea، مأموریت Blackfathom Villainy در لول ۱۸ داخل دانجن از Argent Guard Thaelrid، مأموریت Amongst the Ruins در لول ۲۱ از Zoram'gar Outpost مختصات 11 34، مأموریت Baron Aquanis در لول ۲۱ از آیتم Strange Water Globe، کوئست Allegiance to the Old Gods در لول ۱۷ با دراپ آیتم Damp Note از Blackfathom Tide Priestess، و کوئست The Orb of Soran'ruk در لول ۲۰ نزد Doan Karhan مختصات 49 57.",
+     "کوئست‌های آلیانس: Knowledge in the Deeps در لول ۱۰ از Forlorn Cave در Ironforge مختصات 50 5 نزد Gerrig Bonegrip، مأموریت Researching the Corruption در لول ۱۸ از Darkshore مختصات 38 43 نزد Gershala Nightwhisper، مأموریت Twilight Falls در لول ۲۰ از Darnassas مختصات 55 24 نزد Argent Guard Manados، مأموریت In Search of Thaelrid در لول ۱۸ از Craftsman's Terrace مختصات 55 24 نزد Dawnwatcher Shaedlass، مأموریت Blackfathom Villainy در لول ۱۸، و مأموریت‌های کلاسی The Orb of Soran'ruk برای لول ۲۰ و The Test of Righteousness برای لول ۲۰ در مختصات 52 36."
     ]
    },
    {
     "t": "h",
-    "x": "دانجن Blackfathom Deeps"
+    "x": "کوئست‌های دانجن The Stockades"
    },
-   "درجه سختی Blackfathom Deeps برای لول ۲۱ معادل Hard، برای لول ۲۳ معادل Medium، برای لول ۲۵ معادل At Level و برای لول ۳۰ معادل Easy است. ماموریت‌های فکشن Horde به شرح زیر است:",
+   "این دانجن در لول ۲۲ سخت، لول ۲۴ متوسط، لول ۲۶ هم‌سطح و در لول ۳۰ آسان است و مأموریت‌های آن شامل موارد زیر هستند:",
    {
     "t": "ul",
     "xs": [
-     "کوئست The Essence of Aku'Mai: نیازمند لول ۱۷، شروع از Ashenvale در پایگاه Zoram'gar Outpost توسط Je'neu Sancrea در مختصات 11 34.",
-     "کوئست Blackfathom Villainy: نیازمند لول ۱۸، شروع از داخل Blackfathom Deeps در بخش Alcove جنوب غربی Ghamoo-ra توسط Argent Guard Thaelrid.",
-     "کوئست Amongst the Ruins: نیازمند لول ۲۱، شروع از Ashenvale در Zoram'gar Outpost توسط Je'neu Sancrea در مختصات 11 34 (با برداشتن Fathom Core موجودی به نام Baron Aquanis احضار می‌شود که برای ماموریت بعدی لازم است).",
-     "کوئست Baron Aquanis: نیازمند لول ۲۱، شروع با دراپ آیتم Strange Water Globe از موجود Baron Aquanis.",
-     "کوئست Allegiance to the Old Gods: نیازمند لول ۱۷، شروع با دراپ آیتم Damp Note با شانس پایین از Blackfathom Tide Priestess در بیرون دانجن."
-    ]
-   },
-   "ماموریت‌های فکشن Alliance در این دانجن نیز شامل موارد زیر است:",
-   {
-    "t": "ul",
-    "xs": [
-     "کوئست Knowledge in the Deeps: نیازمند لول ۱۰، شروع از Ironforge در غار Forlorn Cave توسط Gerrig Bonegrip در مختصات 50 5.",
-     "کوئست Researching the Corruption: نیازمند لول ۱۸، شروع از Darkshore در Auberdine توسط Gershala Nightwhisper در مختصات 38 43.",
-     "کوئست Twilight Falls: نیازمند لول ۲۰، شروع از Darnassas در Craftsman' Terrace توسط Argent Guard Manados در مختصات 55 24.",
-     "کوئست In Search of Thaelrid: نیازمند لول ۱۸ و پیش‌نیاز ماموریت Blackfathom Villainy، شروع از Darnassas در Craftsman' Terrace توسط Dawnwatcher Shaedlass در مختصات 55 24.",
-     "کوئست Blackfathom Villainy: نیازمند لول ۱۸ و پیش‌نیاز، شروع از Argent Guard Thaelrid در داخل دانجن پس از آغاز زنجیره با In Search of Thaelrid.",
-     "ماموریت‌های The Orb of Soran'ruk برای وارلاک‌ها و The Test of Righteousness برای پالادین‌ها نیز در این دانجن جریان دارند."
+     "مأموریت Quell the Uprising برای لول ۲۲ از Stormwind بیرون دانجن مختصات 41 58 نزد Warden Thelwater.",
+     "مأموریت The Color of Blood برای لول ۲۲ از Nikova Raskol در Old Town.",
+     "مأموریت Crime and Punishment برای لول ۲۲ از Duskwood در Darkshire مختصات 42 47 نزد Councilman Millstipe.",
+     "مأموریت What Comes Around... برای لول ۲۲ از Redridge Mountains در Lakeshire مختصات 26 46 نزد Guard Berton.",
+     "مأموریت The Fury Runs Deep برای لول ۲۵ با پیش‌نیاز The Dark Iron War از Wetlands در Dun Modr مختصات 49 18 نزد Motley Garmason.",
+     "مأموریت The Stockade Riots برای لول ۱۶ از Warden Thelwater در مختصات 41 58 با شروع از خط کوئست The Unsent Letter از Deadmines."
     ]
    },
    {
     "t": "h",
-    "x": "دانجن The Stockades"
+    "x": "کوئست‌های Excavation Site: Wetlands"
    },
-   "سختی The Stockades برای لول ۲۲ به عنوان Hard، برای لول ۲۴ به عنوان Medium، برای لول ۲۶ به عنوان At Level و برای لول ۳۰ به عنوان Easy مشخص شده است. تمامی ماموریت‌های این دانجن شامل موارد زیر است:",
+   "دانجن Excavation Site: Wetlands در لول ۲۴ سخت، لول ۲۷ متوسط، لول ۲۹ هم‌سطح و لول ۳۱ آسان تعیین شده است. تمام مأموریت‌های این بخش نیازمند لول ۲۴ هستند:",
    {
     "t": "ul",
     "xs": [
-     "کوئست Quell the Uprising: نیازمند لول ۲۲، شروع از خارج دانجن در Stormwind توسط Warden Thelwater در مختصات 41 58.",
-     "کوئست The Color of Blood: نیازمند لول ۲۲، شروع از Old Town در نزدیکی دانجن توسط Nikova Raskol که در حال گشت‌زنی است.",
-     "کوئست Crime and Punishment: نیازمند لول ۲۲، شروع از Duskwood در Darkshire توسط Councilman Millstipe در مختصات 42 47.",
-     "کوئست What Comes Around...: نیازمند لول ۲۲، شروع از Redridge Mountains در Lakeshire توسط Guard Berton در مختصات 26 46.",
-     "کوئست The Fury Runs Deep: نیازمند لول ۲۵ و دارای پیش‌نیاز، شروع از Wetlands در Dun Modr توسط Motley Garmason در مختصات 49 18 (نیازمند تکمیل The Dark Iron War).",
-     "کوئست The Stockade Riots: نیازمند لول ۱۶ و دارای پیش‌نیاز، شروع از خارج دانجن توسط Warden Thelwater در مختصات 41 58 (نیازمند زنجیره آغازین The Unsent Letter از دانجن Deadmines)."
-    ]
-   },
-   {
-    "t": "h",
-    "x": "دانجن Excavation Site: Wetlands"
-   },
-   "سختی این دانجن برای لول ۲۴ در حالت Hard، برای لول ۲۷ در حالت Medium، برای لول ۲۹ در حالت At Level و برای لول ۳۱ در حالت Easy قرار دارد. ماموریت‌های آن عبارتند از:",
-   {
-    "t": "ul",
-    "xs": [
-     "کوئست Highland Hides: نیازمند لول ۲۴ و پیش‌نیاز، شروع از Wetlands در Menethil Harbor توسط James Halloran در مختصات 8 55 (نیاز به تکمیل قبلی Daily Delivery).",
-     "کوئست Songblade Search: نیازمند لول ۲۴، شروع از Redridge Mountains توسط Dorin Songblade در مختصات 25.6 46.6.",
-     "کوئست Horrors in the Highland: نیازمند لول ۲۴، شروع از Wetlands توسط Rethiel the Greenwarden در مختصات 56.2 40.6.",
-     "کوئست Lost in the Thicket Things: نیازمند لول ۲۴ و پیش‌نیاز، آغاز با ماموریت Seeking Caitlin در منطقه Ashenvale از Llana در مختصات 35.0 48.6.",
-     "کوئست Heartwoven: نیازمند لول ۲۴ و ماموریت بعدی Lost in the Thicket Things.",
-     "کوئست Lost Relic Carry: نیازمند لول ۲۴ و پیش‌نیاز، با لوت کردن Titan Relic از داخل دانجن.",
-     "کوئست Prehistoric Prism: نیازمند لول ۲۴ و ادامه ماموریت Lost Relic Carry.",
-     "کوئست Changing Tastes: نیازمند لول ۲۴، شروع از Orgrimmar توسط Borstan در مختصات 57 33.",
-     "کوئست Elder Knowledge: نیازمند لول ۲۴ و پیش‌نیاز، با لوت کردن Titan Relic از درون دانجن.",
-     "کوئست Earthen Echo: نیازمند لول ۲۴ و ماموریت بعدی Elder Knowledge.",
-     "کوئست Open the Maw: نیازمند لول ۲۴ و پیش‌نیاز، آغاز با ماموریت Dragonmaw Rumors از Zaruk در Arathi Highlands در مختصات 74 36."
+     "کوئست Highland Hides از James Halloran در Menethil Harbor مختصات 8 55 پس از تکمیل Daily Delivery.",
+     "کوئست Songblade Search در Redridge Mountains از Dorin Songblade مختصات 25.6 46.6.",
+     "کوئست Horrors in the Highland از Wetlands نزد Rethiel the Greenwarden مختصات 56.2 40.6.",
+     "کوئست Lost in the Thicket Things با شروع از Seeking Caitlin در Ashenvale نزد Llana مختصات 35.0 48.6 و ادامهٔ آن به نام Heartwoven.",
+     "کوئست‌های Lost Relic Carry و Prehistoric Prism با لوت Titan Relic از درون دانجن.",
+     "کوئست Changing Tastes از Orgimmar نزد Borstan مختصات 57 33.",
+     "کوئست‌های Elder Knowledge و Earthen Echo با لوت Titan Relic داخل دانجن.",
+     "کوئست Open the Maw با شروع از Dragonmaw Rumors نزد Zaruk در Arathi Highlands مختصات 74 36."
     ]
    }
   ],
   "tags_fa": [
-   "WoW Forever",
    "دانجن",
-   "لول آپ",
-   "راهنمای کوئست"
+   "لول‌آپ",
+   "راهنما",
+   "Forever"
   ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-11T05:41:12Z"
  }
 }
