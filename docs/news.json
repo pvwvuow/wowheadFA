@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T03:33:14Z",
+ "generated": "2026-11-11T03:34:25Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3351,6 +3351,13 @@
  ],
  "queue": [
   {
+   "id": 383833,
+   "title_en": "Blizzard Addressing Missing Shaman Totems Due to Monday's Server Issue in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383833",
+   "category": "Forever",
+   "published_at": "2026-11-11T01:13:27Z"
+  },
+  {
    "id": 383824,
    "title_en": "Enhancement Shaman Class Weapon Hotfixed on WoW: Forever",
    "url": "https://www.wowhead.com/news=383824",
@@ -3622,13 +3629,6 @@
    "url": "https://www.wowhead.com/news=383541",
    "category": "Forever",
    "published_at": "2026-10-22T17:13:00Z"
-  },
-  {
-   "id": 383540,
-   "title_en": "The WoW: Forever Podcast Episode 5 Now Available - The End of Beta Special!",
-   "url": "https://www.wowhead.com/news=383540",
-   "category": "Forever",
-   "published_at": "2026-10-22T16:21:06Z"
   }
  ]
 }
