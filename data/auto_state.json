@@ -1,6 +1,6 @@
 {
  "day": "2026-11-11",
- "published_today": 12,
+ "published_today": 14,
  "held": {
   "383824": {
    "reason": "عبارت «WoW: Forever» در تیتر و برچسب‌ها در متن منبع وجود ندارد و ساختهٔ نویسنده است. | اعداد «2.6 و 2.3» در عبارت «با ثبت دیتای بیلد در مقادیر 2.6 و 2.3» در منبع وجود ندارند و اضافه شده‌اند. | G4 numbers from source missing in article: 280604",
@@ -16,79 +16,30 @@
    "reason": "جمله «این جزئیات در قالب خبر شماره 383741 پوشش داده شده‌اند» و بخش note که شامل «شناسه‌های فنی 1.60.1، 10، 11، 20، 2026، 29 و 60» است، به‌طور کامل ساختگی بوده و در متن منبع وجود ندارد.",
    "at": "2026-11-11T09:27:27Z",
    "at_ts": 1794389247.53247
+  },
+  "383738": {
+   "reason": "بخش پایانی مقاله تیترهای سایدبار و اخبار نامربوط صفحه (مانند XP دانجن‌ها، هات‌فیکس‌های ۱۰ نوامبر و Night Watchman's Torch) را به عنوان جزئیات خبر درایور انویدیا بافته و ادعاهای نامرتبط اضافه کرده است.",
+   "at": "2026-11-11T09:59:12Z",
+   "at_ts": 1794391152.466347
+  },
+  "383736": {
+   "reason": "G4 numbers from source missing in article: 22, 23 | G5 English token not in source: warlock",
+   "at": "2026-11-11T10:01:45Z",
+   "at_ts": 1794391305.015138
+  },
+  "383725": {
+   "reason": "خطای مدل در بازنویسی: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+   "at": "2026-11-11T10:04:27Z",
+   "at_ts": 1794391467.435951
   }
  },
  "ingest_fails": {
-  "383742": 1,
-  "383738": 1,
-  "383736": 1,
-  "383725": 1,
-  "383735": 1
+  "383735": 2
  },
- "updated_at": "2026-11-11T09:33:47Z",
+ "updated_at": "2026-11-11T10:06:54Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383692",
-    "ts": "2026-11-08T09:20:28Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 30.9,
-    "attempts": 0
-   },
-   {
-    "id": "383693",
-    "ts": "2026-11-08T09:21:42Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 74.0,
-    "attempts": 0
-   },
-   {
-    "id": "383704",
-    "ts": "2026-11-08T09:22:30Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 47.6,
-    "attempts": 0
-   },
-   {
-    "id": "383702",
-    "ts": "2026-11-08T09:23:10Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 40.2,
-    "attempts": 0
-   },
-   {
-    "id": "383695",
-    "ts": "2026-11-08T09:23:47Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 36.5,
-    "attempts": 0
-   },
-   {
-    "id": "383630",
-    "ts": "2026-11-08T09:24:18Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 31.5,
-    "attempts": 0
-   },
    {
     "id": "383603",
     "ts": "2026-11-08T09:24:48Z",
@@ -4027,6 +3978,66 @@
     "blocks": 0,
     "warns": 0,
     "sec": 141.7,
+    "attempts": 2
+   },
+   {
+    "id": "383742",
+    "ts": "2026-11-11T09:56:56Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 1,
+    "sec": 60.7,
+    "attempts": 1
+   },
+   {
+    "id": "383738",
+    "ts": "2026-11-11T09:59:12Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 136.0,
+    "attempts": 2
+   },
+   {
+    "id": "383736",
+    "ts": "2026-11-11T10:01:45Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 152.5,
+    "attempts": 2
+   },
+   {
+    "id": "383725",
+    "ts": "2026-11-11T10:04:27Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 162.4,
+    "attempts": 2
+   },
+   {
+    "id": "383735",
+    "ts": "2026-11-11T10:05:27Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 60.3,
+    "attempts": 0
+   },
+   {
+    "id": "383722",
+    "ts": "2026-11-11T10:06:54Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 86.6,
     "attempts": 2
    }
   ]
