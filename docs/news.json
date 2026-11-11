@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T06:15:03Z",
+ "generated": "2026-11-11T09:34:59Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -97,6 +97,42 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383837/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383833,
+   "slug": "blizzard-addressing-missing-shaman-totems-due-to-monday-s-server-issue",
+   "title_fa": "رفع مشکل ناپدید شدن توتم‌های Shaman در WoW: Forever",
+   "lead_fa": "بلیزارد با انتشار یک اصلاحیه، مشکل ناپدید شدن توتم‌های کلاس Shaman را که بر اثر اختلال سرورها رخ داده بود برطرف کرد.",
+   "body_fa": [
+    "روز دوشنبه در حدود ساعت ۱ بعدازظهر به وقت PST، سرورهای WoW دچار مشکل شدند و برای انجام تعمیرات اضطراری از دسترس خارج گردیدند. در جریان این اتفاق، بازیکنان مشکلاتی از جمله ناپدید شدن توتم‌های Shaman مانند Fire Totem را گزارش کردند.",
+    "بلیزارد اعلام کرده که این مشکل را برطرف ساخته و اصلاحیه مربوطه برای تمامی ریجن‌ها اعمال شده است. بازیکنانی که به دلیل کراش سرور توتم خود را از دست داده بودند، باید آن را دوباره در کیف‌های خود دریافت کنند.",
+    {
+     "t": "note",
+     "x": "بازیکنان Shaman که با این مشکل روبه‌رو شده‌اند و در حال حاضر داخل بازی هستند، باید مطمئن شوند که کیف آن‌ها فضای خالی دارد و سپس برای دریافت توتم‌ها یک بار از بازی خارج شده و دوباره وارد شوند.",
+     "kind": "tip"
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "WoW Forever",
+    "Shaman",
+    "بلیزارد"
+   ],
+   "items": [],
+   "title_en": "Blizzard Addressing Missing Shaman Totems Due to Monday's Server Issue in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383833",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383833-blizzard-addressing-missing-shaman-totems-due-to-monday-s-server-issue.html",
+   "published_at": "2026-11-11T01:13:27Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383833/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383833/1.jpg",
      "cap": ""
     }
    ]
@@ -3196,6 +3232,79 @@
    ]
   },
   {
+   "id": 383727,
+   "slug": "every-guide-you-ll-need-for-launch-the-wow-forever-guide-compendium",
+   "title_fa": "مجموعه راهنماهای عرضه WoW: Forever منتشر شد",
+   "lead_fa": "سرورهای WoW: Forever در ساعت ۳ بعدازظهر PST راه‌اندازی می‌شوند و مجموعه‌ای کامل از راهنماهای کلاس‌ها، دانجن‌ها و سیستم‌های تازه در دسترس بازیکنان قرار گرفته است.",
+   "body_fa": [
+    "سرور WoW: Forever در تاریخ ۴ نوامبر ۲۰۲۶ آغاز به کار می‌کند و ماجراجویی بازیکنان پس از پشت سر گذاشتن صف‌های ورود به Azeroth رسماً کلید می‌خورد. محتوای این نسخه فراتر از یک کپی ساده از سرورهای Anniversary است و تغییرات گسترده‌ای از دوره آزمایشی بتا تا سطح ۳۰ مشاهده شده بود که اکنون با آغاز عرضه بسط پیدا می‌کند.",
+    {
+     "t": "h",
+     "x": "انتخاب کلاس و ابزارهای بیلدهای بازی"
+    },
+    "برای انتخاب کلاس مناسب، ابزارهای Talent Calculator و Class Changes در دسترس هستند تا مقایسه بیلد کنونی با بیلدهای قبلی Forever و Anniversary امکان‌پذیر باشد. همچنین بر اساس داده‌های بتا، فهرست‌های رتبه‌بندی Tier Lists برای نقش‌های Tank، Healer و DPS آماده شده‌اند که تا رسیدن بازیکنان به سطح ۶۰ به‌روزرسانی خواهند شد.",
+    {
+     "t": "h",
+     "x": "سیستم‌های جدید و مسیر ارتقای حرفه‌ها"
+    },
+    "چندین سیستم تازه در بدو عرضه فعال هستند که شامل مواردی مثل Camping، Legacy Points و شخصی‌سازی UI می‌شوند. علاوه بر این، ابزار Forever Profession Leveling Tool برای آموزش و رساندن تمامی حرفه‌ها تا سطح ۳۰۰ طراحی شده است که شاخه‌های زیر را در بر می‌گیرد:",
+    {
+     "t": "ul",
+     "xs": [
+      "Alchemy",
+      "Blacksmithing",
+      "Enchanting",
+      "Engineering",
+      "Leatherworking",
+      "Tailoring",
+      "Cooking",
+      "First Aid"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "دانجن‌های کلاسیک و دانجن‌های جدید"
+    },
+    "پیش از آغاز ریدها، دانجن‌ها بخش اصلی پیشرفت را تشکیل می‌دهند. در بازه سطوح ۲۰ تا ۳۰ دانجن‌های آشنا و مکان‌های تازه‌ای وجود دارند. سیاهچاله‌هایی نظیر City of Dalaran که دسترسی به آن برای فکشن Alliance ساده‌تر است اما فکشن Horde هم می‌تواند مسیر Attune آن را طی کند و باس مخفی آن نیازمند آیتمی از SFK است. علاوه بر دانجن‌های بازه ۲۰ تا ۳۰، چندین دانجن جدید هنوز توسط بازیکنان بررسی نشده‌اند:",
+    {
+     "t": "ul",
+     "xs": [
+      "The Drowned City",
+      "Krol'dok Stronghold",
+      "Alcaz Prison",
+      "Shaper's Terrace",
+      "Blackmaw Hold"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "گزارش خبر شماره ۳۸۳۷۲۷ به عرضه اولیه سرور مربوط است، در حالی که در تاریخ ۱۰ نوامبر ۲۰۲۶ (همچنین ۱۱ نوامبر در گزارش‌های منطقه‌ای) هاتفیکس‌های متعددی برای تیونینگ کلاس‌ها و دانجن‌ها منتشر شدند.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "راهنما",
+    "کلاس‌ها",
+    "دانجن"
+   ],
+   "items": [],
+   "title_en": "Every Guide You'll Need for Launch: the WoW: Forever Guide Compendium",
+   "source_url": "https://www.wowhead.com/news=383727",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383727-every-guide-you-ll-need-for-launch-the-wow-forever-guide-compendium.html",
+   "published_at": "2026-11-04T16:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383727/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383727/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383724,
    "slug": "classic-shaman-discord-open-again-after-13-hours",
    "title_fa": "بازگشایی سرور دیسکورد Classic Shaman پس از حدود ۱۳ ساعت",
@@ -3227,158 +3336,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383723,
-   "slug": "blizzard-addresses-trading-post-reward-mount-issues-fixes-ready-ahead-",
-   "title_fa": "برطرف شدن مشکلات مانت جدید Trading Post پیش از نگهداری هفتگی",
-   "lead_fa": "بلیزارد اعلام کرد که برای رفع ایرادات مانت Hot Motocross Bunmover 4600 پیش از موعد نگهداری هفتهٔ آینده در حال آماده‌سازی اصلاحات است.",
-   "body_fa": [
-    "شرکت Blizzard به مشکلات مانت جدید Trading Post یعنی Hot Motocross Bunmover 4600 که پیش‌تر به عنوان پاداش ماه نوامبر 2026 معرفی شده بود، واکنش نشان داد.",
-    {
-     "t": "h",
-     "x": "مشکلات گزارش‌شده توسط بازیکنان"
-    },
-    "با در دسترس قرار گرفتن این مانت، بازیکنان متوجه چند ایراد اساسی در آن شدند:",
-    {
-     "t": "ul",
-     "xs": [
-      "نچرخیدن چرخ‌ها هنگام حرکت مانت",
-      "مشکلات تداخل گرافیکی (Clipping) با مانت",
-      "معلق ماندن برخی از نژادهای کاراکتر در هوا"
-     ]
-    },
-    {
-     "t": "h",
-     "x": "پاسخ رسمی بلیزارد"
-    },
-    {
-     "t": "quote",
-     "x": "تیم ما به‌سختی در حال کار برای رفع مشکلات مانت‌های جدید Hot Motocross Bunmover است. انتظار داریم اصلاحات پیش از موعد نگهداری هفتهٔ آینده آماده شوند. از گزارش‌های شما سپاسگزاریم!",
-     "by": "Blizzard"
-    },
-    {
-     "t": "note",
-     "x": "طبق اعلام سازندگان، این اصلاحات پیش از اعمال Maintenance هفتگی آماده و عرضه خواهند شد.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "Trading Post",
-    "مانت",
-    "Blizzard",
-    "هاتفیکس"
-   ],
-   "items": [],
-   "title_en": "Blizzard Addresses Trading Post Reward Mount Issues - Fixes Ready Ahead of Maintenance",
-   "source_url": "https://www.wowhead.com/news=383723",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383723-blizzard-addresses-trading-post-reward-mount-issues-fixes-ready-ahead-.html",
-   "published_at": "2026-11-03T21:43:41Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383723/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383723/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383710,
-   "slug": "shaman-classic-discord-closed-in-protest-of-shaman-changes-in-wow-fore",
-   "title_fa": "تعطیلی دیسکورد Shaman Classic در اعتراض به تغییرات این کلاس در WoW: Forever",
-   "lead_fa": "سرور دیسکورد Shaman Classic در اقدامی اعتراضی علیه رویکرد سازندگان نسبت به طراحی این کلاس در WoW: Forever، تمام کانال‌های خود را به حالت فقط-خواندنی درآورد.",
-   "body_fa": [
-    "سرور دیسکورد Shaman Classic با نزدیک به ۸۰ هزار عضو، که مرجع راهنماها، تلنت‌ها و گفت‌وگو درباره نسخه‌های مختلف بازی شامل Classic، MoP، SoD و اکنون WoW: Forever محسوب می‌شود، صبح امروز در اعتراض به تغییرات کلاسی بسته شد و تمامی بخش‌های آن در حالت Read-only قرار گرفت.",
-    {
-     "t": "quote",
-     "x": "ما کل سرور Shaman Classic را به‌صورت فوری قفل می‌کنیم. دلیل این اقدام تند، رویکرد توسعه‌دهندگان نسبت به تمامی اسپک‌های Shaman در WoW Forever است. بازخورد جامعه کاملاً نادیده گرفته شده و هویت و حس داستانی کلاس در حال نابودی است. با این کار قصد داریم به آن‌ها پیام دهیم و نشان دهیم جامعه از رویکرد نسبت به کلاس محبوبمان راضی نیست. هویت اسپک‌ها و حس داستانی کلاس ما را پس بدهید!",
-     "by": "اعلامیه اولیه سرور دیسکورد Shaman Classic"
-    },
-    "با اینکه این اعتراض به‌خاطر WoW: Forever انجام شده است، قفل‌شدن سرور حتی کانال‌های مربوط به Classic-era، MoP و SoD را نیز دربرگرفته است.",
-    {
-     "t": "note",
-     "x": "این نخستین تعطیلی اعتراضی در جامعه بازی نیست؛ در آگوست ۲۰۲۵ نیز کانال‌های مربوط به Ret Paladin در دیسکورد ریتل پالادین به‌دلیل وضعیت عملکردشان در رید بسته شده بود که البته کمتر از ۲۴ ساعت طول کشید.",
-     "kind": "info"
-    },
-    {
-     "t": "h",
-     "x": "بیانیه تکمیلی و محورهای اصلی اعتراض"
-    },
-    "مدیران سرور در ساعت ۹:۳۳ به وقت PST توضیحاتی تکمیلی منتشر کردند و تأکید داشتند که این اقدام باج‌خواهی نیست، بلکه تلاشی برای شنیده‌شدن پس از هفته‌ها ارسال بازخورد بی‌نتیجه است و سرور در هر صورت بازگشایی خواهد شد. آن‌ها تأکید کردند که مشکل اصلی بر سر میزان آسیب‌رسانی یا اصطلاحاً Throughput نیست، بلکه به طراحی بنیادین و حس گیم‌پلی کلاس مربوط است.",
-    {
-     "t": "ul",
-     "xs": [
-      "انتخاب‌نشدن Windfury Weapon به‌عنوان ایمبیوی اصلی رید و آسیب به حس داستانی سلاح‌های دورستی (2-Handed Enhance)",
-      "برتری تجهیزات Spell Power و Intellect نسبت به گیر فیزیکی یا هیبرید، به‌ویژه در ترکیب با Maelstrom Weapon و Flametongue Weapon",
-      "تأثیر منفی ملاحظات PvP بر طراحی کلی شمن، مانند جابه‌جایی Improved Ghost Wolf که به ضرر Elemental تمام شده است",
-      "حذف Lava Burst و باقی ماندن Chain Lightning با هزینه مانای بالا برای هدف تکی که روتیشن Elemental را دو دکمه‌ای کرده است",
-      "بدون کاربرد و تعامل ماندن Flame Shock در کیت توانایی‌ها صرفاً به‌عنوان یک DoT ساده",
-      "مشکلات شدید مانای Elemental و مصرف شارژهای Water Shield هنگام رخداد ضربات کریتیکال",
-      "تغییرات Totemic Projection و از دست رفتن قابلیت پرتاب توتم‌ها از راه دور",
-      "تغییر Riptide و حذف هیل اولیه (Upfront healing) که آن را به یک کپی ضعیف از Renew یا Rejuvenation تبدیل کرده است"
-     ]
-    },
-    "جامعه شمن اعلام کرده است همپوشانی حاصل از استیت‌های اسپل‌پاور باعث تداخل در هویت Elemental و Enhancement شده و بالانس یکی بدون تضعیف دیگری را تقریباً غیرممکن ساخته است.",
-    {
-     "t": "table",
-     "head": [
-      "شناسه خبر و کدها",
-      "اطلاعات ثبت‌شده"
-     ],
-     "rows": [
-      [
-       "شماره خبر در Wowhead",
-       "383710"
-      ],
-      [
-       "پچ مربوط به نظرات",
-       "Patch 12.1.5"
-      ],
-      [
-       "تاریخ و زمان ثبت",
-       "2026-11-03T11:23:13-06:00"
-      ],
-      [
-       "موارد ثبت‌شده در بازخوردها",
-       "10، 11، 12، 14، 20، 50، 60، 100 و 2004"
-      ]
-     ]
-    }
-   ],
-   "tags_fa": [
-    "دیسکورد Shaman",
-    "WoW Forever",
-    "تغییرات شمن",
-    "جامعه بازی"
-   ],
-   "items": [],
-   "title_en": "Shaman Classic Discord Closed in Protest of Shaman Changes in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383710",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383710-shaman-classic-discord-closed-in-protest-of-shaman-changes-in-wow-fore.html",
-   "published_at": "2026-11-03T17:23:13Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383710/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383710/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383833,
-   "title_en": "Blizzard Addressing Missing Shaman Totems Due to Monday's Server Issue in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383833",
-   "category": "Forever",
-   "published_at": "2026-11-11T01:13:27Z"
-  },
   {
    "id": 383824,
    "title_en": "Enhancement Shaman Class Weapon Hotfixed on WoW: Forever",
@@ -3434,13 +3394,6 @@
    "url": "https://www.wowhead.com/news=383735",
    "category": "Forever",
    "published_at": "2026-11-04T16:49:41Z"
-  },
-  {
-   "id": 383727,
-   "title_en": "Every Guide You'll Need for Launch: the WoW: Forever Guide Compendium",
-   "url": "https://www.wowhead.com/news=383727",
-   "category": "Forever",
-   "published_at": "2026-11-04T16:00:00Z"
   },
   {
    "id": 383722,
