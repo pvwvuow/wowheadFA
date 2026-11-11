@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T06:13:39Z",
+ "generated": "2026-11-11T06:15:03Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -316,27 +316,30 @@
   {
    "id": 383145,
    "slug": "secret-hunt-in-wow-forever-with-the-night-watchman-s-torch",
-   "title_fa": "جست‌وجوی رازها در WoW: Forever با آیتم Night Watchman's Torch",
-   "lead_fa": "برای ورود به معمای جدید در WoW: Forever و پیگیری رازی که از Zephras Isle آغاز می‌شود، بازیکنان باید مشعل Night Watchman's Torch را از منطقهٔ Duskwood پیدا کنند.",
+   "title_fa": "کشف آیتم Night Watchman's Torch برای حل راز جدید در WoW: Forever",
+   "lead_fa": "بازیکنان برای دنبال‌کردن راز جدید در WoW: Forever که از Zephras Isle آغاز می‌شود، به آیتم Night Watchman's Torch نیاز خواهند داشت.",
    "body_fa": [
-    "جست‌وجوی رازهای جدید در WoW: Forever کلید خورده است. جامعهٔ Secret Finders اکنون در حال پیگیری سرنخ‌های رازی هستند که از منطقهٔ Zephras Isle شروع می‌شود و بازیکنانی که قصد مشارکت یا تکمیل آن را دارند، به یک مشعل نیاز خواهند داشت که نخستین بار در دورهٔ Forever beta شناسایی شده بود.",
+    "جست‌وجو برای کشف رازهای تازه در سرور WoW: Forever آغاز شده است. جامعهٔ Secret Finders اکنون ردپای رازی را دنبال می‌کند که نقطهٔ شروع آن در منطقهٔ Zephras Isle قرار دارد و ادامهٔ آن نیازمند ابزاری است که نخستین‌بار در دورهٔ Forever beta شناسایی شده بود.",
     {
      "t": "h",
-     "x": "پیدا کردن مشعل در Duskwood"
+     "x": "محل دریافت مشعل در Duskwood"
     },
-    "در گوشه‌ای پنهان از Duskwood، جسد یک Night Watch Guard بر زمین افتاده است. دلیل کشته شدن این نگهبان مشخص نیست، اما یک کوئست همراه خود دارد. این مأموریت از نوع تحویل فوری (instant turn-in) است و پاداش آن، مشعل [[item:Night Watchman's Torch]] خواهد بود.",
-    "این آیتم برای روشن کردن مناطق تاریک اطراف کاربرد دارد و در حال حاضر در سراسر جهان بازی، به‌جز اقامتگاه‌ها (inns) و پایتخت‌ها (capital cities)، قابل استفاده است.",
+    "در گوشه‌ای پنهان از Duskwood، جسد یک Night Watch Guard بر زمین افتاده است. علت مرگ این نگهبان مشخص نیست، اما بازیکنان با بررسی آن متوجه یک کوئیست می‌شوند که به‌صورت آنی تحویل داده می‌شود (Instant Turn-in). پاداش این مأموریت آیتم [[item:Night Watchman's Torch]] است؛ وسیله‌ای که برای روشن‌کردن محیط‌های تاریک کاربرد دارد.",
     {
      "t": "note",
-     "x": "این مشعل در حال حاضر تنها در یک بخش از این راز کاربرد دارد، اما نشان می‌دهد محتواهای تازه‌ای که به Forever اضافه می‌شوند ممکن است در رازهای فعلی یا آینده نقشی کلیدی داشته باشند.",
+     "x": "آیتم Night Watchman's Torch در حال حاضر در سراسر جهان بازی قابل استفاده است، به‌جز در Innها و پایتخت‌ها (Capital Cities).",
      "kind": "info"
     },
-    "جدا از کاربرد معمایی، این آیتم ویژگی‌های ظاهری جالبی هم دارد؛ از جمله تعامل دیدنی برای Druidها و همچنین Shamanها در حالت Ghost Wolf که مشعل را در دهان خود نگه می‌دارند."
+    {
+     "t": "h",
+     "x": "کاربردها و جزئیات ظاهری"
+    },
+    "اگرچه این مشعل تنها در بخشی از این زنجیرهٔ راز کاربرد دارد، اما نشان‌دهندهٔ این است که هر محتوای جدیدی در Forever ممکن است در رازهای فعلی یا آینده نقش ایفا کند. جدا از کاربرد معمایی، این ابزار برای علاقه‌مندان به نقش‌آفرینی (Roleplay) و روشن‌کردن مناطق تاریک طراحی جالبی دارد؛ از جمله تعامل اختصاصی برای Druidها و همچنین Shamanها در فرم Ghost Wolf که مشعل را در دهان خود حمل می‌کنند.",
+    "به‌دست‌آوردن این مشعل برای تمام بازیکنانی که به دنبال تکمیل راز Dawn Waker یا مشارکت در جریان کشف معماهای سرور هستند، ارزشمند خواهد بود."
    ],
    "tags_fa": [
-    "رازها",
     "WoW Forever",
-    "راهنمای آیتم",
+    "رازها",
     "Duskwood"
    ],
    "items": [],
@@ -356,34 +359,107 @@
    ]
   },
   {
-   "id": 383813,
-   "slug": "new-dawn-waker-secret-found-in-wow-forever",
-   "title_fa": "کشف زنجیره راز جدید Dawn Waker در بازی WoW: Forever",
-   "lead_fa": "جامعه Secret Finding Discord موفق به کشف یک زنجیره راز گسترده جدید تحت عنوان Dawn Waker Secret در WoW: Forever شده است.",
+   "id": 383814,
+   "slug": "every-quest-for-level-20-to-30-dungeons-in-wow-forever",
+   "title_fa": "راهنمای کوئست‌های دانجن‌های لول ۲۰ تا ۳۰ در WoW: Forever",
+   "lead_fa": "در سرور WoW: Forever با وجود افزایش ۵۰ درصدی تجربهٔ دانجن‌ها، کوئست‌ها همچنان مهم‌ترین ابزار برای لول‌آپ سریع در دانجن‌های بازهٔ لول ۲۰ تا ۳۰ محسوب می‌شوند.",
    "body_fa": [
-    "زنجیره راز جدیدی به نام Dawn Waker Secret در بازی WoW: Forever کشف شده که بازیکنان را در سرتاسر نقشه به ماجراجویی می‌برد. این مسیر پرپیچ‌وخم به کمک اعضای جامعه Secret Finding Discord شناسایی و مستندسازی شده است.",
-    {
-     "t": "h",
-     "x": "مسیر شروع و پاداش بخش اول"
-    },
-    "این زنجیره راز طولانی از منطقه Zephras Isle آغاز می‌شود و برای پیشبرد آن، بازیکنان به آیتم [[item:Night Watchman's Torch]] از Duskwood نیاز خواهند داشت.",
-    "در حال حاضر پاداش نهایی این زنجیره هنوز نامشخص است، اما با به پایان رساندن بخش اول (Part 1)، شمشیر یک‌دستی با کیفیت Uncommon به نام [[item:Eluvi'ana]] به عنوان پاداش به بازیکنان تعلق می‌گیرد.",
+    "با اینکه تجربهٔ دریافتی از کشتن موجودات در دانجن‌ها ۵۰٪ افزایش یافته است، اما کشتن ماب‌ها در این نسخه همچنان حدود ۴۰٪ تجربهٔ کمتری نسبت به نسخهٔ Era می‌دهد. به همین دلیل، دریافت کوئست‌های هر دانجن نقشی کلیدی برای رسیدن به بیشترین بازدهی تجربه هنگام دانجن‌زدن دارد. در این راهنما مکان تمام کوئست‌های دانجن‌های محدودهٔ لول ۲۰ تا ۳۰ معرفی شده است.",
     {
      "t": "note",
-     "x": "احتمالاً ارزش دارد شمشیر Eluvi'ana را نزد خود نگه دارید، شاید در آینده فرصتی برای ارتقای آن پیش بیاید.",
-     "kind": "tip"
+     "x": "دانجن Shadowfang Keep در لول ۱۸ سخت، لول ۲۱ متوسط، لول ۲۳ هم‌سطح و در لول ۲۸ آسان است. کوئست‌های آن شامل The Book of Ur برای لول ۱۶ از Undercity در مختصات 53 54 نزد Keeper Bel'dugur، کوئست Deathstalkers in Shadowfang برای لول ۱۸ از Silverpine Forest در مختصات 43 41 نزد High Executor Hadrec، و کوئست Arugal Must Die برای لول ۱۸ از Sepulcher در مختصات 44 39 نزد Dalar Dawnweaver است. همچنین کوئست The Orb of Soran'ruk برای لول ۲۰ اختصاصی Warlock از The Barrens نزد Doan Karhan در مختصات 49 57، و کوئست The Test of Righteousness برای لول ۲۰ اختصاصی Paladin از Ironforge نزد Jordan Stilwell در مختصات 52 36 پس از زنجیرهٔ Tome of Valor شروع می‌شوند.",
+     "kind": "info"
     },
     {
      "t": "h",
-     "x": "ارتباط احتمالی با پادکست"
+     "x": "کوئست‌های دانجن Blackfathom Deeps"
     },
-    "بازیکنان گمانه‌زنی می‌کنند که این راز احتمالاً با پیام محرمانه نوشته‌شده روی تخته در قسمت ششم پادکست WoW: Forever ارتباط دارد. با کشف اطلاعات بیشتر پیرامون مراحل بعدی، جزییات آن به‌روزرسانی خواهد شد."
+    "دانجن Blackfathom Deeps برای لول ۲۱ سخت، لول ۲۳ متوسط، لول ۲۵ مناسب و لول ۳۰ آسان ارزیابی می‌شود. مأموریت‌های هر دو جناح به شرح زیر است:",
+    {
+     "t": "ul",
+     "xs": [
+      "کوئست‌های هورد: The Essence of Aku'Mai در لول ۱۷ از Ashenvale مختصات 11 34 نزد Je'neu Sancrea، مأموریت Blackfathom Villainy در لول ۱۸ داخل دانجن از Argent Guard Thaelrid، مأموریت Amongst the Ruins در لول ۲۱ از Zoram'gar Outpost مختصات 11 34، مأموریت Baron Aquanis در لول ۲۱ از آیتم Strange Water Globe، کوئست Allegiance to the Old Gods در لول ۱۷ با دراپ آیتم Damp Note از Blackfathom Tide Priestess، و کوئست The Orb of Soran'ruk در لول ۲۰ نزد Doan Karhan مختصات 49 57.",
+      "کوئست‌های آلیانس: Knowledge in the Deeps در لول ۱۰ از Forlorn Cave در Ironforge مختصات 50 5 نزد Gerrig Bonegrip، مأموریت Researching the Corruption در لول ۱۸ از Darkshore مختصات 38 43 نزد Gershala Nightwhisper، مأموریت Twilight Falls در لول ۲۰ از Darnassas مختصات 55 24 نزد Argent Guard Manados، مأموریت In Search of Thaelrid در لول ۱۸ از Craftsman's Terrace مختصات 55 24 نزد Dawnwatcher Shaedlass، مأموریت Blackfathom Villainy در لول ۱۸، و مأموریت‌های کلاسی The Orb of Soran'ruk برای لول ۲۰ و The Test of Righteousness برای لول ۲۰ در مختصات 52 36."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "کوئست‌های دانجن The Stockades"
+    },
+    "این دانجن در لول ۲۲ سخت، لول ۲۴ متوسط، لول ۲۶ هم‌سطح و در لول ۳۰ آسان است و مأموریت‌های آن شامل موارد زیر هستند:",
+    {
+     "t": "ul",
+     "xs": [
+      "مأموریت Quell the Uprising برای لول ۲۲ از Stormwind بیرون دانجن مختصات 41 58 نزد Warden Thelwater.",
+      "مأموریت The Color of Blood برای لول ۲۲ از Nikova Raskol در Old Town.",
+      "مأموریت Crime and Punishment برای لول ۲۲ از Duskwood در Darkshire مختصات 42 47 نزد Councilman Millstipe.",
+      "مأموریت What Comes Around... برای لول ۲۲ از Redridge Mountains در Lakeshire مختصات 26 46 نزد Guard Berton.",
+      "مأموریت The Fury Runs Deep برای لول ۲۵ با پیش‌نیاز The Dark Iron War از Wetlands در Dun Modr مختصات 49 18 نزد Motley Garmason.",
+      "مأموریت The Stockade Riots برای لول ۱۶ از Warden Thelwater در مختصات 41 58 با شروع از خط کوئست The Unsent Letter از Deadmines."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "کوئست‌های Excavation Site: Wetlands"
+    },
+    "دانجن Excavation Site: Wetlands در لول ۲۴ سخت، لول ۲۷ متوسط، لول ۲۹ هم‌سطح و لول ۳۱ آسان تعیین شده است. تمام مأموریت‌های این بخش نیازمند لول ۲۴ هستند:",
+    {
+     "t": "ul",
+     "xs": [
+      "کوئست Highland Hides از James Halloran در Menethil Harbor مختصات 8 55 پس از تکمیل Daily Delivery.",
+      "کوئست Songblade Search در Redridge Mountains از Dorin Songblade مختصات 25.6 46.6.",
+      "کوئست Horrors in the Highland از Wetlands نزد Rethiel the Greenwarden مختصات 56.2 40.6.",
+      "کوئست Lost in the Thicket Things با شروع از Seeking Caitlin در Ashenvale نزد Llana مختصات 35.0 48.6 و ادامهٔ آن به نام Heartwoven.",
+      "کوئست‌های Lost Relic Carry و Prehistoric Prism با لوت Titan Relic از درون دانجن.",
+      "کوئست Changing Tastes از Orgimmar نزد Borstan مختصات 57 33.",
+      "کوئست‌های Elder Knowledge و Earthen Echo با لوت Titan Relic داخل دانجن.",
+      "کوئست Open the Maw با شروع از Dragonmaw Rumors نزد Zaruk در Arathi Highlands مختصات 74 36."
+     ]
+    }
    ],
    "tags_fa": [
-    "رازها",
-    "WoW Forever",
-    "سکرت فایندینگ"
+    "دانجن",
+    "لول‌آپ",
+    "راهنما",
+    "Forever"
    ],
+   "items": [],
+   "title_en": "Every Quest for Level 20 to 30 Dungeons in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383814",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383814-every-quest-for-level-20-to-30-dungeons-in-wow-forever.html",
+   "published_at": "2026-11-10T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383814/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383814/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383813,
+   "slug": "new-dawn-waker-secret-found-in-wow-forever",
+   "title_fa": "کشف زنجیره راز جدید Dawn Waker در WoW: Forever",
+   "lead_fa": "جامعه جستجوی راز موفق به کشف یک زنجیره معما و راز گسترده با نام Dawn Waker در سرور WoW: Forever شده است.",
+   "body_fa": [
+    "یک زنجیره راز جدید و بسیار گسترده با نام Dawn Waker در WoW: Forever به همت اعضای Secret Finding Discord شناسایی شده است.",
+    {
+     "t": "h",
+     "x": "جزئیات و مراحل آغازین راز"
+    },
+    "بر اساس اطلاعاتی که تا این لحظه گردآوری شده، شروع این مسیر پرپیچ‌وخم از Zephras Isle رقم می‌خورد و نیازمند آیتم [[item:Night Watchman's Torch]] از Duskwood است؛ مراحلی که در ادامه بازیکنان را به نقاط مختلفی از نقشه می‌کشاند.",
+    "با اینکه پاداش نهایی این زنجیره هنوز مشخص نیست، بازیکنان در پایان بخش اول می‌توانند شمشیر یک‌دستی با کیفیت Uncommon به نام [[item:Eluvi'ana]] را به دست آورند.",
+    {
+     "t": "note",
+     "x": "نگه‌داشتن شمشیر Eluvi'ana احتمالاً ارزشمند خواهد بود، زیرا ممکن است در آینده فرصتی برای ارتقای آن پیش بیاید.",
+     "kind": "tip"
+    },
+    "بازیکنان حدس می‌زنند این معما احتمالاً به پیام رمزی که روی تخته در قسمت ششم پادکست WoW: Forever Podcast نوشته شده بود ارتباط دارد."
+   ],
+   "tags_fa": [],
    "items": [],
    "title_en": "New \"Dawn Waker\" Secret Found in WoW: Forever",
    "source_url": "https://www.wowhead.com/news=383813",
@@ -3293,53 +3369,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383699,
-   "slug": "new-druid-and-rogue-passive-reduces-energy-cost-on-a-first-strike",
-   "title_fa": "افزوده شدن پسیو جدید Poised برای Druid و Rogue در سرورهای لایو WoW: Forever",
-   "lead_fa": "پسیو جدیدی به نام Poised برای دو کلاس Druid و Rogue در سرورهای لایو WoW: Forever داده‌کاوی شده است که هزینه مصرف Energy را در ضربه آغازین کاهش می‌دهد.",
-   "body_fa": [
-    "طبق داده‌های به‌دست‌آمده از سرورهای لایو WoW: Forever، پسیو تازه‌ای با هدف کاهش هزینه منابع در نخستین ضربه برای کلاس‌های Druid و Rogue فعال شده است. این تغییرات در قالب هاتفیکس روی سرورهای زنده اعمال شده‌اند و در هیچ‌یادداشت رسمی توسعه‌دهندگان به ثبت نرسیده‌اند، بنابراین امکان تغییر آن‌ها پیش از عرضه رسمی وجود دارد.",
-    {
-     "t": "h",
-     "x": "جزئیات پسیو جدید Poised"
-    },
-    "داده‌کاوی‌ها نشان می‌دهد دو اسپل جدید روی سرورها اعمال شده که باعث افزایش Burst Damage در ضربات آغازین (Opener) این دو کلاس می‌شود. قابلیت پسیو Poised هزینه اسپل‌های نیازمند Energy را در شرایطی که بازیکن خارج از مبارزه باشد و نوار انرژی او پر باشد، کاهش می‌دهد.",
-    {
-     "t": "ul",
-     "xs": [
-      "سطح ۱۸ برای Rogue: افزوده شدن پسیو جدید Poised",
-      "سطح ۳۲ برای Druid: افزوده شدن پسیو جدید Poised"
-     ]
-    },
-    {
-     "t": "note",
-     "x": "این ویژگی می‌تواند برای ارتقای سطح (Leveling) یا حضور در دانجن‌ها که بازیکنان مکرراً از مبارزه خارج می‌شوند، و همچنین برای ضربات آغازین در دوئل‌ها و World PvP کاربردی باشد.",
-     "kind": "tip"
-    }
-   ],
-   "tags_fa": [
-    "داده‌کاوی",
-    "هاتفیکس",
-    "WoW Forever",
-    "کلاس‌ها"
-   ],
-   "items": [],
-   "title_en": "New Druid and Rogue Passive Reduces Energy Cost on A First Strike",
-   "source_url": "https://www.wowhead.com/news=383699",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383699-new-druid-and-rogue-passive-reduces-energy-cost-on-a-first-strike.html",
-   "published_at": "2026-11-02T23:18:08Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383699/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383699/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3356,13 +3385,6 @@
    "url": "https://www.wowhead.com/news=383824",
    "category": "Forever",
    "published_at": "2026-11-10T19:12:35Z"
-  },
-  {
-   "id": 383814,
-   "title_en": "Every Quest for Level 20 to 30 Dungeons in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383814",
-   "category": "Forever",
-   "published_at": "2026-11-10T15:00:00Z"
   },
   {
    "id": 383768,
