@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T14:45:42Z",
+ "generated": "2026-11-11T16:08:43Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3352,6 +3352,20 @@
   }
  ],
  "queue": [
+  {
+   "id": 383825,
+   "title_en": "Explore the Drowned City: New Dungeon in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383825",
+   "category": "Forever",
+   "published_at": "2026-11-11T16:00:00Z"
+  },
+  {
+   "id": 383829,
+   "title_en": "Gelkis or Magram: Which to Pick in WoW: Forever?",
+   "url": "https://www.wowhead.com/news=383829",
+   "category": "Forever",
+   "published_at": "2026-11-11T15:00:00Z"
+  },
   {
    "id": 383827,
    "title_en": "Which Darkmoon Faire Buff Should You Pick in WoW: Forever?",
