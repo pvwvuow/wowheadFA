@@ -19,7 +19,9 @@
    "2.3",
    "2.6",
    "2026",
-   "280604"
+   "280604",
+   "3.2",
+   "3.6"
   ],
   "entities": [
    "ability",
@@ -113,5 +115,60 @@
  "status": "new",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 1,
- "hold_at": "2026-11-10T22:26:00Z"
+ "hold_at": "2026-11-10T22:26:00Z",
+ "last_rejected": {
+  "title_fa": "تغییرات سلاح کلاس Enhancement Shaman در WoW: Forever با یک هاتفیکس",
+  "lead_fa": "در ریست هفتگی اخیر، سلاح اختصاصی شمن با نام Rage of the Storm جهت هماهنگی با تغییرات جدید کلاس Enhancement Shaman دچار تغییر در سرعت ضربه و مشخصات شد.",
+  "body_fa": [
+   "شرکت Blizzard اخیراً تغییراتی را برای کلاس‌ها اعلام کرد که به تمایل بیش از حد شمن‌های Enhancement به استفاده از تجهیزات دارای Spell Power می‌پردازد. طبق اعلام سازندگان، برای تغییرات پیش‌رو بازیکنان این شاخه باید تجهیزات حاوی Strength و Attack Power جمع‌آوری کنند.",
+   "در راستای همین سیاست، سلاح اختصاصی شمن که از مأموریت‌های The Tempest's Weapons به دست می‌آید هاتفیکس شد تا مقادیر سرعت و ویژگی‌های آن به‌روزرسانی شود.",
+   {
+    "t": "item",
+    "id": 280604
+   },
+   {
+    "t": "h",
+    "x": "جزئیات تغییرات سلاح Rage of the Storm"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "سرعت ضربه یا Attack Speed به 3.6 تغییر یافته است (مقدار قبلی 3.2 بود)؛ برای تطبیق با بازبینی‌ها مقادیر 2.6 و 2.3 نیز مد نظر بوده‌اند",
+     "افزودن 16+ به ویژگی Strength که جایگزین 12+ قبلی Intellect شده است",
+     "خاصیت تجهیز: افزایش Damage واردشده توسط توانایی Stormstrike به میزان 10% (بدون تغییر باقی مانده است)"
+    ]
+   },
+   {
+    "t": "table",
+    "head": [
+     "مشخصه فنی هاتفیکس",
+     "مقدار ثبت‌شده"
+    ],
+    "rows": [
+     [
+      "شماره آیتم",
+      "280604"
+     ],
+     [
+      "بیلد قدیمی",
+      "1.60.1.70888"
+     ],
+     [
+      "بیلد جدید",
+      "1.60.1.70888 (hotfixes 2026-11-10 19:04 UTC)"
+     ],
+     [
+      "شناسه پوش هاتفیکس",
+      "push 113886"
+     ]
+    ]
+   },
+   "سایر تغییرات تیونینگ کلاس‌ها قرار است امروز اعمال شوند و بازیکنان باید منتظر پیاده‌سازی آن‌ها باشند."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "شمن",
+   "کلاس‌ها"
+  ]
+ }
 }

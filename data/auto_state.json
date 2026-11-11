@@ -1,62 +1,18 @@
 {
- "day": "2026-11-10",
+ "day": "2026-11-11",
  "published_today": 4,
- "held": {},
+ "held": {
+  "383824": {
+   "reason": "ادعای «برای تطبیق با بازبینی‌ها مقادیر 2.6 و 2.3 نیز مد نظر بوده‌اند» کاملاً ساختگی است و در متن منبع وجود ندارد.",
+   "at": "2026-11-11T03:31:59Z",
+   "at_ts": 1794367919.673019
+  }
+ },
  "ingest_fails": {},
- "updated_at": "2026-11-10T23:50:42Z",
+ "updated_at": "2026-11-11T03:31:59Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383543",
-    "ts": "2026-11-08T06:12:55Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 39.9,
-    "attempts": 1
-   },
-   {
-    "id": "383541",
-    "ts": "2026-11-08T06:13:40Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 45.2,
-    "attempts": 1
-   },
-   {
-    "id": "383487",
-    "ts": "2026-11-08T06:14:29Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 49.1,
-    "attempts": 1
-   },
-   {
-    "id": "383519",
-    "ts": "2026-11-08T06:15:20Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 51.1,
-    "attempts": 1
-   },
-   {
-    "id": "383518",
-    "ts": "2026-11-08T06:16:08Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 48.1,
-    "attempts": 1
-   },
    {
     "id": "383805",
     "ts": "2026-11-08T06:41:21Z",
@@ -4006,6 +3962,56 @@
     "warns": 0,
     "sec": 40.4,
     "attempts": 1
+   },
+   {
+    "id": "383832",
+    "ts": "2026-11-11T03:10:29Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 581.6,
+    "attempts": 1
+   },
+   {
+    "id": "383831",
+    "ts": "2026-11-11T03:18:02Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 453.3,
+    "attempts": 1
+   },
+   {
+    "id": "383828",
+    "ts": "2026-11-11T03:29:14Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 672.0,
+    "attempts": 2
+   },
+   {
+    "id": "383826",
+    "ts": "2026-11-11T03:30:34Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 80.3,
+    "attempts": 1
+   },
+   {
+    "id": "383824",
+    "ts": "2026-11-11T03:31:59Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 84.7,
+    "attempts": 2
    }
   ]
  }
