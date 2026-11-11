@@ -144,12 +144,45 @@
   ],
   "chars": 1353
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383145/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383145/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383145/1.jpg",
+ "article_fa": {
+  "title_fa": "کشف آیتم Night Watchman's Torch برای حل راز جدید در WoW: Forever",
+  "lead_fa": "بازیکنان برای دنبال‌کردن راز جدید در WoW: Forever که از Zephras Isle آغاز می‌شود، به آیتم Night Watchman's Torch نیاز خواهند داشت.",
+  "body_fa": [
+   "جست‌وجو برای کشف رازهای تازه در سرور WoW: Forever آغاز شده است. جامعهٔ Secret Finders اکنون ردپای رازی را دنبال می‌کند که نقطهٔ شروع آن در منطقهٔ Zephras Isle قرار دارد و ادامهٔ آن نیازمند ابزاری است که نخستین‌بار در دورهٔ Forever beta شناسایی شده بود.",
+   {
+    "t": "h",
+    "x": "محل دریافت مشعل در Duskwood"
+   },
+   "در گوشه‌ای پنهان از Duskwood، جسد یک Night Watch Guard بر زمین افتاده است. علت مرگ این نگهبان مشخص نیست، اما بازیکنان با بررسی آن متوجه یک کوئیست می‌شوند که به‌صورت آنی تحویل داده می‌شود (Instant Turn-in). پاداش این مأموریت آیتم [[item:Night Watchman's Torch]] است؛ وسیله‌ای که برای روشن‌کردن محیط‌های تاریک کاربرد دارد.",
+   {
+    "t": "note",
+    "x": "آیتم Night Watchman's Torch در حال حاضر در سراسر جهان بازی قابل استفاده است، به‌جز در Innها و پایتخت‌ها (Capital Cities).",
+    "kind": "info"
+   },
+   {
+    "t": "h",
+    "x": "کاربردها و جزئیات ظاهری"
+   },
+   "اگرچه این مشعل تنها در بخشی از این زنجیرهٔ راز کاربرد دارد، اما نشان‌دهندهٔ این است که هر محتوای جدیدی در Forever ممکن است در رازهای فعلی یا آینده نقش ایفا کند. جدا از کاربرد معمایی، این ابزار برای علاقه‌مندان به نقش‌آفرینی (Roleplay) و روشن‌کردن مناطق تاریک طراحی جالبی دارد؛ از جمله تعامل اختصاصی برای Druidها و همچنین Shamanها در فرم Ghost Wolf که مشعل را در دهان خود حمل می‌کنند.",
+   "به‌دست‌آوردن این مشعل برای تمام بازیکنانی که به دنبال تکمیل راز Dawn Waker یا مشارکت در جریان کشف معماهای سرور هستند، ارزشمند خواهد بود."
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "رازها",
+   "Duskwood"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-11T05:40:01Z"
+ }
 }
