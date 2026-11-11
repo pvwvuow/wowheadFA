@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T16:08:43Z",
+ "generated": "2026-11-11T18:51:48Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3352,6 +3352,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383835,
+   "title_en": "Dual Spec Costs 50 Gold at Level 40 - Unlock Secondary Talent Tree",
+   "url": "https://www.wowhead.com/news=383835",
+   "category": "Forever",
+   "published_at": "2026-11-11T18:29:47Z"
+  },
   {
    "id": 383825,
    "title_en": "Explore the Drowned City: New Dungeon in WoW: Forever",
