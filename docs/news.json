@@ -1,8 +1,106 @@
 {
- "generated": "2026-11-11T05:12:01Z",
+ "generated": "2026-11-11T06:13:39Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383837,
+   "slug": "hunter-pet-nerf-and-enhancement-shaman-changes-wow-forever-hotfixes-fo",
+   "title_fa": "هاتفیکس‌های World of Warcraft: Forever در ۱۰ نوامبر ۲۰۲۶ منتشر شد",
+   "lead_fa": "بلیزارد فهرست تازه‌ای از هاتفیکس‌های سرور WoW: Forever را منتشر کرده که شامل نرف پت‌های Hunter، تغییرات ساختاری در Enhancement Shaman و رفع باگ‌های مختلف است.",
+   "body_fa": [
+    "فهرست جدیدی از هاتفیکس‌های سرور WoW: Forever برای تاریخ ۱۰ نوامبر 2026 اعمال شد که تغییراتی در عملکرد چندین کلاس، حرفه‌ها، سیستم حراجی و مأموریت‌ها به همراه دارد.",
+    {
+     "t": "h",
+     "x": "تغییرات سیستم حراجی و پست"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "حداقل ودیعه ثبت کالا در Auction House پس از ری‌استارت ریلم به ۱ مس کاهش یافت (قبلاً ۱ نقره بود).",
+      "مشکل مربوط به نامه‌های ناخوانده که برای همه بازیکنان به اشتباه فرستاده‌شده از Stormwind Auction House نمایش داده می‌شد، رفع شد.",
+      "باگی که باعث می‌شد زمان ارسال برخی نامه‌ها به جای زمان در نظر گرفته شده ۶۰ دقیقه‌ای در حدود ۲ دقیقه انجام شود، برطرف گردید."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "تغییرات کلاس‌های بازی"
+    },
+    "در کلاس Shaman، امکان ردیابی Maelstrom Weapon در Cooldown Manager فراهم شده است و بازیکنان اکنون می‌توانند Weapon imbues و Weapon totems را هم‌زمان استفاده کنند؛ برای مثال فعال بودن هم‌زمان Windfury Weapon و Windfury Totem ممکن شده است.",
+    {
+     "t": "ul",
+     "xs": [
+      "کلاس Hunter: سلامت پت‌ها که به اشتباه ۱۵۰٪ مقدار عادی بود به ۱۱۵٪ تصحیح شد. هزینه مانای تمام رنک‌های Arcane Shot به ۱۱٪ مانای پایه تغییر یافت. در تخصص Beast Mastery، هزینه مانای Summon Hawk معادل ۱۱٪ مانای پایه شد و آسیب Melee پت Hawk حدود ۸۰٪ افزایش یافت.",
+      "تخصص Enhancement Shaman: آسیب Stormstrike به ۱۰۰٪ آسیب اسلحه کاهش یافت (قبلاً ۱۵۰٪ بود) و کول‌دان آن به ۸ ثانیه افزایش پیدا کرد (قبلاً ۶ ثانیه بود). نرخ تبدیل Intellect به Attack Power در تلنت Mental Dexterity به ۳۳/۶۶/۱۰۰٪ کاهش یافت (قبلاً ۵۰/۱۰۰/۱۵۰٪ بود). تلنت Maelstrom Weapon اکنون در تمام رنک‌ها ۲۰٪ کاهش کست تایم و هزینه مانا می‌دهد (قبلاً ۴/۸/۱۲/۱۶/۲۰٪ بود) و شانس فعال‌سازی آن به ۶/۷/۸/۹/۱۰ بار در دقیقه تغییر کرد (قبلاً فارغ از رنک ۲۰ بار در دقیقه بود).",
+      "در کلاس Warlock: سلامت پایه Voidwalker، Incubus و Succubus و همچنین پت Imp حدود ۱۵٪ افزایش یافت. آسیب پایه چهار رنک اول Firebolt پت Imp افزایش یافت.",
+      "تخصص Affliction Warlock: تلنت Soul Siphon اکنون اثر طلسم‌های Drain Life، Drain Soul و Wrack را به ازای هر یک از طلسم‌های Corruption، Siphon Life و Bane of Agony فعال روی هدف، ۴/۸/۱۲٪ تا حداکثر ۳۶٪ افزایش می‌دهد (قبلاً روی هر طلسم Affliction اثر می‌کرد). آسیب Wrack معادل ۳۰٪ کاهش یافت و دیگر آسیب دوره‌ای را مستقیماً زیاد نمی‌کند، بلکه حین چنل کردن باعث می‌شود آسیب دوره‌ای افکت‌های مذکور ۱۰۰٪ سریع‌تر وارد شود. آسیب Wrack در مدت ۶ ثانیه هر ۱ ثانیه اعمال می‌شود.",
+      "سایر کلاس‌ها: در Druid مشکل Omen of Clarity پس از تغییر تخصص رفع شد و Nature's Swiftness طلسم Wild Growth را اینستنت می‌کند. در Paladin اسپل Redoubt در Cooldown Manager قابل رهگیری است. در Priest باگ فعال‌سازی انچنت Revelation با هیل Vampiric Embrace و مشکل عدم حذف Holy Nova پس از ریست تلنت رفع شد. در Warrior قابلیت Sweeping Strikes در صورت نخوردن ضربه به هدف دوم شارژ کم نمی‌کند."
+     ]
+    },
+    {
+     "t": "quote",
+     "x": "تغییرات بتا برای Enhancement Shaman باعث شده بود این تخصص بیش از حد به سمت تجهیزات دارای Spell Power و Intellect گرایش پیدا کند و از Windfury دور شود. بسیاری از این اصلاحات تغییرات دوران بتا را بازمی‌گردانند تا تخصص به مسیر متناسب با Windfury بازگردد.",
+     "by": "تیم توسعه بلیزارد"
+    },
+    {
+     "t": "note",
+     "x": "متن کمکی (تولتیپ) اسپل Maelstrom Weapon بر اساس سرعت اسلحه دست اصلی درصد شانس فعال‌سازی را نشان می‌دهد؛ مثلاً با ۵ امتیاز در تلنت، یک سلاح با سرعت ۳.۶ شانس ۶۰٪ و سلاحی با سرعت 2.0 شانس ۳۳٪ را ثبت می‌کند.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "آیتم‌ها و تغییرات مأموریت‌ها"
+    },
+    "تمامی مانت‌های نژادی وندورها به حالت Bind-on-Pickup تغییر یافتند. آیتم Rage of the Storm اکنون دارای ۱۶ Strength است (قبلاً ۱۶ Intellect بود) و سرعت سلاح آن به ۳.۶ کاهش یافته است (قبلاً ۳.۲ ثانیه بود). همچنین آیتم Sparklance Wand به جای دمیج Nature آسیب Arcane می‌زند.",
+    {
+     "t": "table",
+     "head": [
+      "حرفه / آیتم",
+      "تغییر انجام شده"
+     ],
+     "rows": [
+      [
+       "Blacksmithing / Coarse Grinding Stone",
+       "افزایش سقف دریافت مهارت تا ۹۰ (قبلاً ۷۵)"
+      ],
+      [
+       "Cooking / Journeyman Campfire Kit",
+       "تغییر پیش‌نیاز قرار دادن به اسکیل ۹۰ (قبلاً ۱۴۰)"
+      ],
+      [
+       "Alchemy / Minor Arcane Elixir",
+       "کاهش قیمت فروش به وندور به ۵ مس (قبلاً ۲۵ مس)"
+      ],
+      [
+       "Engineering / Iron Grenades",
+       "کاهش قیمت فروش به وندور به ۱ نقره و ۲۵ مس (قبلاً ۵ نقره)"
+      ]
+     ]
+    },
+    "اکثر کوئست‌های لول ۴۸ و بالاتر اکنون علاوه بر پاداش‌های معمول، گلد نیز ارائه می‌دهند. به گفته سازندگان، سیستم تبدیل XP به گلد در لول ۶۰ در WoW: Forever وجود ندارد و این اقدام برای ایجاد انگیزه جهت انجام مأموریت‌ها قبل و بعد از رسیدن به سطح ۶۰ است."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "بلیزارد",
+    "کلاس‌های وارکرفت",
+    "تغییرات پچ"
+   ],
+   "items": [],
+   "title_en": "Hunter Pet Nerf and Enhancement Shaman Changes - WoW: Forever Hotfixes for November 10, 2026",
+   "source_url": "https://www.wowhead.com/news=383837",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383837-hunter-pet-nerf-and-enhancement-shaman-changes-wow-forever-hotfixes-fo.html",
+   "published_at": "2026-11-11T03:30:15Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383837/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383837/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383832,
    "slug": "blizzard-adding-gold-to-many-quests-near-max-level-in-wow-forever",
@@ -83,6 +181,62 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383831/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383828,
+   "slug": "vendor-price-changes-on-wow-forever-iron-grenade-shuffle-dead",
+   "title_fa": "تغییر قیمت فروش آیتم‌ها به وندور در سرورهای زنده WoW: Forever",
+   "lead_fa": "با ریست هفتگی اخیر، قیمت فروش چندین آیتم ساختنی به وندورها در سرورهای زنده WoW: Forever تغییر کرد و روش سودآوری ساخت Iron Grenade عملاً از کار افتاد.",
+   "body_fa": [
+    "هم‌زمان با ریست هفتگی اخیر، قیمت فروش آیتم‌های متعددی به وندورها در WoW: Forever دستخوش تغییر شد. این اقدام احتمالاً روش‌های موسوم به Vendor Shuffle را هدف قرار داده است؛ ترفندی پرطرفدار برای کسب Gold که در آن مواد اولیه ارزان‌قیمت خریداری شده و به صورت انبوه به آیتم‌هایی گران‌تر تبدیل می‌شوند تا با فروش آن‌ها به وندور سودی حاصل شود که تزریق مستقیم پول به اقتصاد بازی به حساب می‌آید.",
+    {
+     "t": "h",
+     "x": "پایان روش سودآوری با Iron Grenade"
+    },
+    "یکی از شناخته‌شده‌ترین روش‌ها در Classic ساخت [[item:Iron Grenade]] بود که با ترکیب Iron Bar، Heavy Blasting Powder و Silk Cloth تعداد چندتایی از این نارنجک ساخته می‌شد. در هاتفیکس اخیر قیمت فروش این آیتم کاهش یافته است و از ۵ نقره مواد وندور، تنها ۳ نقره و ۷۵ مس بازمی‌گردد که این روش را کاملاً از رده خارج می‌کند.",
+    {
+     "t": "h",
+     "x": "افزایش قیمت فروش برخی تجهیزات"
+    },
+    "این تغییرات صرفاً تضعیف آیتم‌ها نبوده و طبق گزارش‌ها، قیمت فروش تعدادی از آیتم‌های ساختنی به وندورها افزایش پیدا کرده است:",
+    {
+     "t": "ul",
+     "xs": [
+      "معجون [[item:Minor Arcane Elixir]] با افزایش قیمت فروش مواجه شده است.",
+      "زره‌های پا شامل [[item:Protector's Chain Leggings]] و [[item:Stormrider's Leather Pants]] تغییر قیمت داشته‌اند.",
+      "زره‌های سینه و سر از جمله [[item:Stormrider's Leather Armor]] همراه با [[item:Filigreed Pristine Circlet]].",
+      "دستکش‌های چرمی نظیر [[item:Prowler's Leather Gauntlets]]، [[item:Skulker's Leather Gauntlets]]، [[item:Warden's Leather Gauntlets]]، [[item:Skycaller's Leather Gauntlets]] و [[item:Mender's Leather Gauntlets]].",
+      "دستکش‌های میل مانند [[item:Skycaller's Mail Gauntlets]] و [[item:Skirmisher's Mail Gauntlets]].",
+      "سایر تجهیزات پا شامل [[item:Filigreed Pristine Leggings]] و [[item:Filigreed Shining Leggings]]."
+     ]
+    },
+    {
+     "t": "note",
+     "x": "پیش از این تضعیف‌های مشابهی روی سلاح‌ها و Enchanting Wandها در بتای WoW: Forever مشاهده شده بود و این تغییرات، نخستین موج اصلاحات روی سرورهای لایو به شمار می‌رود.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "WoW Forever",
+    "اقتصاد بازی",
+    "Classic"
+   ],
+   "items": [],
+   "title_en": "Vendor Price Changes on WoW: Forever - Iron Grenade Shuffle Dead",
+   "source_url": "https://www.wowhead.com/news=383828",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383828-vendor-price-changes-on-wow-forever-iron-grenade-shuffle-dead.html",
+   "published_at": "2026-11-10T21:05:09Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383828/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383828/1.jpg",
      "cap": ""
     }
    ]
@@ -333,6 +487,59 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383819/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383817,
+   "slug": "blizzard-made-character-creation-on-higher-population-faction-increasi",
+   "title_fa": "محدودیت‌های جدید Blizzard برای ساخت کاراکتر در فکشن‌های پرجمعیت",
+   "lead_fa": "شرکت Blizzard با هدف حفظ تعادل فکشن‌ها در سرورهای PvP، سیستم ساخت کاراکتر را تغییر داده است تا ایجاد شخصیت در فکشن پرجمعیت‌تر سخت‌تر شود.",
+   "body_fa": [
+    "شرکت Blizzard اعلام کرده است که قصد دارد تا حد امکان تعادل فکشن‌ها را در ریلم‌های PvP به نسبت 50/50 نزدیک نگه دارد. در حال حاضر حتی در بدترین سناریو، وضعیت ریلم‌ها در حدود نسبت 55/45 است، اما این شرکت خواهان نزدیک‌تر شدن این ارقام به یکدیگر است.",
+    {
+     "t": "h",
+     "x": "وضعیت فکشن‌های پرجمعیت در هر ریجن"
+    },
+    "سیستم ساخت کاراکتر اکنون طوری تنظیم شده است که به جای تصویر لحظه‌ای از وضعیت سرور، تعادل کلی فکشن‌ها را در مجموعه‌های قوانین PvP هر منطقه لحاظ کند. در کوتاه‌مدت، این تغییرات ساخت کاراکتر را برای فکشن‌های پرجمعیت‌تر در این مناطق سخت‌تر خواهد کرد:",
+    {
+     "t": "ul",
+     "xs": [
+      "فکشن Horde در سرورهای PvP ریجن NA",
+      "فکشن Alliance در سرورهای RPPVP ریجن EU"
+     ]
+    },
+    {
+     "t": "quote",
+     "x": "حفظ تعادل فکشن‌ها در سرورهای PvP عنوان WoW: Forever اهمیت حیاتی دارد تا هر دو طرف برای برتری رقابت کنند. اگرچه حتی در شدیدترین حالت، نسبت جمعیت در یک ریجن حدود 55/45 است، اما این عدد به اندازه‌ای که ما می‌خواهیم نزدیک نیست. هدف ما رساندن وضعیت تا جای ممکن به تعادل 50/50 است.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "note",
+     "x": "با تغییر وضعیت و جا‌به‌جایی بازیکنان در سرورها، فکشن‌های تحت محدودیت ممکن است در آینده تغییر کنند.",
+     "kind": "info"
+    },
+    "تیم سازنده اذعان کرده است که وجود محدودیت در ساخت کاراکتر ممکن است ناامیدکننده باشد، اما این سازوکار را برای سلامت بلندمدت سرورها، به‌ویژه در روزهای آغازین تشکیل گیلدها و شکل‌گیری رقابت‌ها، لازم می‌داند."
+   ],
+   "tags_fa": [
+    "بلیزارد",
+    "سرورهای PvP",
+    "ساخت کاراکتر",
+    "تعادل فکشن"
+   ],
+   "items": [],
+   "title_en": "Blizzard Made Character Creation on Higher Population Faction Increasingly Difficult",
+   "source_url": "https://www.wowhead.com/news=383817",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383817-blizzard-made-character-creation-on-higher-population-faction-increasi.html",
+   "published_at": "2026-11-10T02:08:11Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383817/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383817/1.jpg",
      "cap": ""
     }
    ]
@@ -3133,173 +3340,15 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383696,
-   "slug": "xbox-uk-confirms-wow-forever-not-coming-to-xbox-in-november",
-   "title_fa": "تأیید Xbox UK: بازی WoW: Forever در ماه نوامبر برای ایکس‌باکس منتشر نمی‌شود",
-   "lead_fa": "شعبهٔ بریتانیای ایکس‌باکس پس از انتشار و سپس حذف پستی در شبکه‌های اجتماعی، رسماً اعلام کرد که WoW: Forever برای کنسول ایکس‌باکس عرضه نخواهد شد.",
-   "body_fa": [
-    "بخش Xbox UK اخیراً در شبکه‌های اجتماعی خود پستی منتشر کرده بود که نشان می‌داد WoW: Forever در ماه نوامبر به کنسول Xbox می‌آید. این پست اکنون حذف شده و آن‌ها تأیید کرده‌اند که این عنوان روی این کنسول در دسترس نخواهد بود.",
-    {
-     "t": "h",
-     "x": "ماجرای پست حذف‌شده در شبکه‌های اجتماعی"
-    },
-    "ماجرا از پستی در شبکه‌های اجتماعی این بخش آغاز شد که فهرستی از بازی‌های اضافه شونده به Xbox در ماه نوامبر را معرفی می‌کرد. این پست که تصویر آن در Reddit و X ثبت شده بود، تصویری از WoW: Forever را نیز در میان عناوین داشت. به دنبال شکل‌گیری گمانه‌زنی‌ها پیرامون عرضهٔ این بازی روی کنسول، پست مذکور حذف و نسخه‌ای جایگزین شد که نامی از این عنوان در آن نبود.",
-    {
-     "t": "note",
-     "x": "طبق اعلام Xbox UK، بازی WoW: Forever در دسترس کنسول Xbox نیست و تنها از طریق Battle.net روی پلتفرم‌های PC و Mac قابل دسترسی خواهد بود.",
-     "kind": "info"
-    },
-    "اگرچه WoW: Forever دارای قابلیت پشتیبانی از گیم‌پد است، اما این شفاف‌سازی رسمی برای حال حاضر به فرضیه‌های مربوط به آمدن WoW به کنسول‌ها پایان می‌دهد."
-   ],
-   "tags_fa": [
-    "ایکس‌باکس",
-    "اخبار کنسول",
-    "Battle.net"
-   ],
-   "items": [],
-   "title_en": "Xbox UK Confirms WoW: Forever Not Coming to Xbox in November",
-   "source_url": "https://www.wowhead.com/news=383696",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383696-xbox-uk-confirms-wow-forever-not-coming-to-xbox-in-november.html",
-   "published_at": "2026-11-02T20:38:53Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383696/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383696/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383689,
-   "slug": "day-of-the-dead-celebrations-now-live",
-   "title_fa": "آغاز رویداد Day of the Dead در ورلد آو وارکرفت",
-   "lead_fa": "رویداد سالانهٔ Day of the Dead برای چند روز کوتاه فعال شده است و بازیکنان می‌توانند به آیتم‌های ترنسموگ، اسباب‌بازی‌ها و اچیومنت‌های ویژهٔ آن دسترسی پیدا کنند.",
-   "body_fa": [
-    "جشن‌های سالانهٔ Day of the Dead هم‌اکنون آغاز شده است و بازیکنان برای چند روز کوتاه فرصت دارند تا جوایز اختصاصی ترنسموگ، اچیومنت‌ها و اسباب‌بازی‌های این رویداد را جمع‌آوری کنند. امسال هیچ محتوای جدیدی به این مناسبت اضافه نشده است، بنابراین افرادی که در سال‌های قبل همهٔ موارد را کامل کرده‌اند، در صورت تمایل می‌توانند از این جشن‌ها صرف‌نظر کنند.",
-    "اگر آیتم‌های ماسک سال گذشته را به دست نیاورده‌اید، می‌توانید به گورستان شهرهای پایتخت بروید و از فروشندهٔ Chapman خرید کنید. همچنین Catrina کوئست کوتاهی برای بزرگداشت مردگان به شما می‌دهد.",
-    {
-     "t": "h",
-     "x": "ماسک‌ها و کلاه‌خودهای رویداد"
-    },
-    "فروشندهٔ رویداد مجموعه‌ای از آیتم‌های پوشیدنی شامل مدل‌های مختلف Crown of the Dead، ماسک‌های Deathmask و همچنین پوشش‌های Remembrance Veil را عرضه می‌کند که بر اساس گل‌های زیر نام‌گذاری شده‌اند:",
-    {
-     "t": "ul",
-     "xs": [
-      "انواع مدل‌های گل Heartblossom شامل کلاه، ماسک و تور",
-      "انواع مدل‌های گل Lotus شامل کلاه، ماسک و تور",
-      "انواع مدل‌های گل Marigold شامل کلاه، ماسک و تور",
-      "انواع مدل‌های گل Orchid شامل کلاه، ماسک و تور",
-      "انواع مدل‌های گل Starflower شامل کلاه، ماسک و تور"
-     ]
-    },
-    {
-     "t": "h",
-     "x": "فرصتی مناسب برای اچیومنت‌های Calavera"
-    },
-    "این روزها بهترین زمان در تمام سال برای دریافت اچیومنت‌های Calavera به شمار می‌رود، چرا که بسیاری از بازیکنان در اطراف فروشندگان حضور دارند و مشغول مبارزه با لباس‌های مخصوص هستند. بیرون از این رویداد، پیدا کردن افراد برای تکمیل این اچیومنت‌ها دشوار است، هرچند تا زمانی که اسباب‌بازی‌های مورد نظر را داشته باشید امکان دریافت آن‌ها همچنان وجود دارد.",
-    {
-     "t": "note",
-     "x": "اگر به دنبال امتیاز اچیومنت آسان هستید، می‌توانید اسباب‌بازی‌های لباس مانند \"Blooming Rose\" Contender's Costume را بر تن کنید و وارد رقابت شوید.",
-     "kind": "tip"
-    }
-   ],
-   "tags_fa": [
-    "رویداد",
-    "Day of the Dead",
-    "اچیومنت",
-    "ترنسموگ"
-   ],
-   "items": [],
-   "title_en": "Day of the Dead Celebrations Now Live",
-   "source_url": "https://www.wowhead.com/news=383689",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383689-day-of-the-dead-celebrations-now-live.html",
-   "published_at": "2026-11-02T00:24:21Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383689/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383689/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383685,
-   "slug": "planet-azeroth-episode-2-ft-bill-bailey",
-   "title_fa": "انتشار قسمت دوم مجموعه Planet Azeroth با حضور Bill Bailey",
-   "lead_fa": "دومین قسمت از مجموعه ویدیویی Planet Azeroth با حضور Bill Bailey منتشر شد و به معرفی حیات وحش و ساکنان دنیای Azeroth می‌پردازد.",
-   "body_fa": [
-    "در دومین قسمت از سری ویدیوهای Planet Azeroth، بیل بیلی (Bill Bailey) به بررسی گوشه‌هایی از جهان Azeroth می‌پردازد تا مخاطبان اطلاعات بیشتری درباره این دنیا کسب کنند.",
-    {
-     "t": "h",
-     "x": "موضوعات بررسی‌شده در این قسمت"
-    },
-    "این قسمت تمرکز ویژه‌ای روی موجودات و گروه‌های حاضر در این جهان دارد و جزئیاتی از آن‌ها را به نمایش می‌گذارد:",
-    {
-     "t": "ul",
-     "xs": [
-      "رپتورها (Raptors)",
-      "ببرها (Tigers)",
-      "دزدان دریایی (Pirates)"
-     ]
-    },
-    {
-     "t": "note",
-     "x": "این مجموعه ویدیویی در کنار رویدادهای مربوط به انتشار نسخه Forever در نوامبر ۲۰۲۶ و پس از به‌روزرسانی‌های ۳۰ اکتبر در دسترس مخاطبان قرار گرفته است (شناسه خبر: 383685).",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "Planet Azeroth",
-    "ویدیو",
-    "Forever",
-    "اخبار"
-   ],
-   "items": [],
-   "title_en": "Planet Azeroth: Episode 2 ft. Bill Bailey",
-   "source_url": "https://www.wowhead.com/news=383685",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383685-planet-azeroth-episode-2-ft-bill-bailey.html",
-   "published_at": "2026-11-01T18:05:28Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383685/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383685/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383837,
-   "title_en": "Hunter Pet Nerf and Enhancement Shaman Changes - WoW: Forever Hotfixes for November 10, 2026",
-   "url": "https://www.wowhead.com/news=383837",
-   "category": "Forever",
-   "published_at": "2026-11-11T03:30:15Z"
-  },
   {
    "id": 383833,
    "title_en": "Blizzard Addressing Missing Shaman Totems Due to Monday's Server Issue in WoW: Forever",
    "url": "https://www.wowhead.com/news=383833",
    "category": "Forever",
    "published_at": "2026-11-11T01:13:27Z"
-  },
-  {
-   "id": 383828,
-   "title_en": "Vendor Price Changes on WoW: Forever - Iron Grenade Shuffle Dead",
-   "url": "https://www.wowhead.com/news=383828",
-   "category": "Forever",
-   "published_at": "2026-11-10T21:05:09Z"
   },
   {
    "id": 383824,
@@ -3314,13 +3363,6 @@
    "url": "https://www.wowhead.com/news=383814",
    "category": "Forever",
    "published_at": "2026-11-10T15:00:00Z"
-  },
-  {
-   "id": 383817,
-   "title_en": "Blizzard Made Character Creation on Higher Population Faction Increasingly Difficult",
-   "url": "https://www.wowhead.com/news=383817",
-   "category": "Forever",
-   "published_at": "2026-11-10T02:08:11Z"
   },
   {
    "id": 383768,
@@ -3559,6 +3601,27 @@
    "url": "https://www.wowhead.com/news=383540",
    "category": "Forever",
    "published_at": "2026-10-22T16:21:06Z"
+  },
+  {
+   "id": 383487,
+   "title_en": "The Current State of Protection Paladins in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383487",
+   "category": "Forever",
+   "published_at": "2026-10-21T19:06:30Z"
+  },
+  {
+   "id": 383519,
+   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383519",
+   "category": "Live",
+   "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }

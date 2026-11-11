@@ -387,92 +387,95 @@
  "hold_count": 4,
  "hold_at": "2026-11-10T00:59:23Z",
  "last_rejected": {
-  "title_fa": "راهنمای کامل دریافت تمام ماموریت‌های دانجن تا لول ۲۰ در سرور WoW: Forever",
-  "lead_fa": "با تضعیف تجربه حاصل از کشتن ماب‌ها در این سرور، انجام ماموریت‌های دانجن‌ها به مهم‌ترین منبع برای لول‌آپ تبدیل شده است.",
+  "title_fa": "راهنمای تمام کوئیست‌های دانجن تا لول ۲۰ در WoW: Forever",
+  "lead_fa": "در سرور WoW: Forever میزان تجربه دریافتی از کشتن ماب‌ها در دانجن‌ها کاهش یافته و تمرکز اصلی به انجام کوئیست‌ها منتقل شده است. این راهنما موقعیت دریافت تمام ماموریت‌های پنج دانجن ابتدایی تا لول ۲۰ را پوشش می‌دهد.",
   "body_fa": [
-   "در سرور WoW: Forever مقدار تجربه پایه به‌دست‌آمده از کشتن ماب‌های درون دانجن تضعیف شده، در حالی که تجربه حاصل از تکمیل ماموریت‌های دانجن افزایش یافته است. به همین علت، بدون دریافت این ماموریت‌ها بخش عمده تجربه یک دانجن از دست می‌رود. بسیاری از این ماموریت‌ها قابل اشتراک با دیگر اعضای گروه هستند.",
+   "در WoW: Forever اکس‌پی پایه حاصل از کشتن ماب‌ها در دانجن نرف شده و در عوض پاداش تجربه دریافتی از تکمیل کوئیست‌های دانجن با باف همراه بوده است. به همین دلیل بدون داشتن ماموریت‌ها، بخش اعظم تجربه ممکن از دانجن به دست نخواهد آمد.",
    {
     "t": "note",
-    "x": "اگر یکی از هم‌گروهی‌ها کوئست را در دفترچه خود داشته باشد، می‌تواند آن را برای سایر اعضای گروه به اشتراک بگذارد تا از رفت‌وآمدهای اضافه جلوگیری شود.",
+    "x": "بسیاری از این ماموریت‌ها قابلیت Share دارند و اگر یکی از اعضای گروه آن‌ها را گرفته باشد می‌تواند با بقیه اعضا به اشتراک بگذارد.",
     "kind": "tip"
    },
    {
     "t": "h",
-    "x": "ماموریت‌های دانجن Ragefire Chasm"
+    "x": "کوئیست‌های دانجن Ragefire Chasm"
    },
-   "درجه‌های سختی این دانجن بر اساس لول عبارت است از: حالت Hard در لول 9، حالت Medium در لول 12، حالت At Level در لول 14 و حالت Easy در لول 19.",
+   "درجه سختی این دانجن به ترتیب لول شامل Hard: Level 9 و Medium: Level 12 و At Level: Level 14 و Easy: Level 19 است.",
    {
     "t": "ul",
     "xs": [
-     "کوئست Slaying the Beast در لول 9 از Neeru Fireblade در The Drag شهر Orgrimmar با مختصات 49 50",
-     "کوئست The Power to Destroy... در لول 9 از Varimathras در Royal Quarter شهر Undercity با مختصات 56 92",
-     "کوئست Testing an Enemy's Strength در لول 9 از Rahauro در Elder Rise شهر Thunder Bluff با مختصات 70 30",
-     "کوئست Searching for the Lost Satchel در لول 9 از Rahauro در Elder Rise شهر Thunder Bluff با مختصات 70 30",
-     "کوئست Returning the Lost Satchel در لول 9 با به دست آوردن لوت Grimtotem Satchel از Maur Grimtotem درون خود دانجن",
-     "کوئست Hidden Enemies در لول 9 از Thrall در Valley of Wisdom شهر Orgrimmar با مختصات 31 37 که برای باز شدن آن باید زنجیره‌ای از ۳ ماموریت را به پایان برسانید."
+     "کوئیست Slaying the Beast در لول 9 از Neeru Fireblade در The Drag شهر Orgrimmar با مختصات 49 50",
+     "کوئیست The Power to Destroy... در لول 9 از Varimathras در Royal Quarter شهر Undercity با مختصات 56 92",
+     "کوئیست Testing an Enemy's Strength در لول 9 از Rahauro در Elder Rise شهر Thunder Bluff با مختصات 70 30",
+     "کوئیست Returning the Lost Satchel در لول 9 از آیتم دانجن Maur Grimtotem",
+     "کوئیست Searching for the Lost Satchel در لول 9 از Rahauro در Thunder Bluff با مختصات 70 30",
+     "کوئیست Hidden Enemies در لول 9 از Thrall در Valley of Wisdom با مختصات 31 37 پس از انجام ۳ مرحله زنجیره‌کوئیست"
     ]
    },
-   "ماموریت‌های دانجن The Hall of Thanes درجه‌های سختی این دانجن شامل حالت Hard در لول 11، حالت Medium در لول 13، حالت At Level در لول 14 و حالت Easy در لول 19 است.",
+   "کوئیست‌های دانجن The Hall of Thanes سطوح سختی به صورت Hard: Level 11 و Medium: Level 13 و At Level: Level 14 و Easy: Level 19 دسته‌بندی شده‌اند.",
    {
     "t": "ul",
     "xs": [
-     "کوئست Important Heirlooms در لول 10 از Thom Filch در Old Ironforge با مختصات 32.6 44.6",
-     "کوئست The Restless Dead در لول 10 از Afadra Dunwall در Old Ironforge با مختصات 64.8 58.4",
-     "کوئست Old Ironforge Incursion در لول 9 از Earthseer Farsen در Gol'Golar Quarry منطقه Dun Morogh با مختصات 64.8 58.4 که پیش‌نیاز آن دریافت Underground Map از Dark Iron Map است.",
-     "کوئست The Treaty of Understanding در لول 9 از طریق یک آبجکت تعاملی درون The Hall of Thanes در بخش Reliquary of Kings درون یک والت",
-     "کوئست An Ancient Grudge در لول 10 از Ghostly Attendant در بخش Anvilmar's Rest درون دانجن The Hall of Thanes"
+     "کوئیست Important Heirlooms در لول 10 از Thom Filch در Old Ironforge با مختصات 32.6 44.6",
+     "کوئیست The Restless Dead در لول 10 از Afadra Dunwall در Old Ironforge با مختصات 64.8 58.4",
+     "کوئیست Old Ironforge Incursion در لول 9 از Earthseer Farsen در Gol'Golar Quarry در Dun Morogh با مختصات 64.8 58.4 که پیش‌نیاز برداشتن Underground Map است",
+     "کوئیست The Treaty of Understanding در لول 9 از آیتم تعاملی در Reliquary of Kings درون Vault",
+     "کوئیست An Ancient Grudge در لول 10 از Ghostly Attendant در Anvilmar's Rest"
     ]
    },
-   "ماموریت‌های دانجن The Ruins of Lordaeron سطح سختی این دانجن شامل Hard در لول 15، حالت Medium در لول 17، حالت At Level در لول 18 و حالت Easy در لول 24 تعریف شده است.",
+   {
+    "t": "h",
+    "x": "کوئیست‌های دانجن The Ruins of Lordaeron"
+   },
+   "درجه‌بندی سختی این دانجن به شکل Hard: Level 15 و Medium: Level 17 و At Level: Level 18 و Easy: Level 24 تعیین شده است.",
    {
     "t": "ul",
     "xs": [
-     "کوئست The Wrath of Rath'mael در لول 15 از Deathguard Linnea در Rear Guard Patrol منطقه Tirisfal Glades با مختصات 65.6 60.2",
-     "کوئست A Frightened Request در لول 15 از Tabitha Heartweaver در The Sepulcher منطقه Silverpine Forest با مختصات 44.6 42.8",
-     "کوئست Light's Justice در لول 15 از Morbin Lightbane در The Apothecarium شهر Undercity با مختصات 57.8 89.8",
-     "کوئست The New Plague در لول 15 با پیش‌نیاز ماموریت A Recipe For Death از Apothecary Renferrel در منطقه Silverpine Forest با مختصات 42.8 40.8",
-     "کوئست Unending Torment در لول 16 از طریق لوت آیتم از The Baron در King's Alley دانجن The Ruins of Lordaeron",
-     "کوئست مخفی Crest of Lordaeron در لول 14 از طریق آبجکت‌های تعاملی با چندین نقطه اسپاون درون دانجن",
-     "کوئست Abominable Creatures در لول 16 از Captain Truman در ورودی دانجن The Ruins of Lordaeron",
-     "کوئست Bloodied Insignia در لول 16 از لوت ماب‌های Undead در The Ruins of Lordaeron",
-     "کوئست Remember That I Love You در لول 15 از طریق آبجکت تعاملی در کنار Rath'mael"
+     "کوئیست The Wrath of Rath'mael در لول 15 از Deathguard Linnea در Tirisfal Glades با مختصات 65.6 60.2",
+     "کوئیست A Frightened Request در لول 15 از Tabitha Heartweaver در The Sepulcher در Silverpine Forest با مختصات 44.6 42.8",
+     "کوئیست Light's Justice در لول 15 از Morbin Lightbane در The Apothecarium شهر Undercity با مختصات 57.8 89.8",
+     "کوئیست The New Plague در لول 15 از Apothecary Renferrel در Silverpine Forest با مختصات 42.8 40.8 با پیش‌نیاز A Recipe For Death",
+     "کوئیست Unending Torment در لول 16 از آیتم لوت‌شده از The Baron در King's Alley",
+     "کوئیست مخفی Crest of Lordaeron در لول 14 از آیتم تعاملی درون دانجن",
+     "کوئیست Abominable Creatures در لول 16 از Captain Truman در ورودی دانجن",
+     "کوئیست Bloodied Insignia در لول 16 از دراپ ماب‌های Undead",
+     "کوئیست Remember That I Love You در لول 15 از آیتم تعاملی کنار Rath'mael"
     ]
    },
-   "ماموریت‌های دانجن Wailing Caverns درجه سختی این دانجن عبارت است از: Hard در لول 15، حالت Medium در لول 17، حالت At Level در لول 19 و حالت Easy در لول 24.",
+   "کوئیست‌های دانجن Wailing Caverns سطوح دانجن شامل Hard: Level 15 و Medium: Level 17 و At Level: Level 19 و Easy: Level 24 است.",
    {
     "t": "ul",
     "xs": [
-     "کوئست Serpentbloom در لول 14 از Apothecary Zamah در Pools of Vision شهر Thunder Bluff با مختصات 34 21",
-     "کوئست Smart Drinks در لول 13 از Mebok Mizzyrix در منطقه Ratchet با مختصات 62 37 با پیش‌نیاز اتمام ماموریت قبلی همین شخصیت به نام Raptor Horns",
-     "کوئست Trouble at the Docks در لول 14 از Crane Operator Bigglefuzz در Ratchet با مختصات 63 37",
-     "کوئست Deviate Hides در لول 13 از Nalpak در بالای ورودی WC با مختصات 46 35",
-     "کوئست Deviate Eradication در لول 15 از Ebru در بالای ورودی WC با مختصات 46 35",
-     "کوئست The Glowing Shard در لول 10 به عنوان لوت از باس Mutanus the Devourer درون دانجن Wailing Caverns",
-     "کوئست Leaders of the Fang در لول 15 از Nara Wildmane در Elder Rise شهر Thunder Bluff با مختصات 45 23 پس از انجام ۵ کوئست پیش‌نیاز که از The Forgotten Pools توسط Tonga Runetotem در منطقه Crossroads شروع می‌شود."
+     "کوئیست Serpentbloom در لول 14 از Apothecary Zamah در Pools of Vision شهر Thunder Bluff با مختصات 34 21",
+     "کوئیست Smart Drinks در لول 13 از Mebok Mizzyrix در Ratchet منطقه The Barrens با مختصات 62 37 با پیش‌نیاز ماموریت Raptor Horns",
+     "کوئیست Trouble at the Docks در لول 14 از Crane Operator Bigglefuzz در Ratchet با مختصات 63 37",
+     "کوئیست Deviate Hides در لول 13 از Nalpak بالای ورودی دانجن با مختصات 46 35",
+     "کوئیست Deviate Eradication در لول 15 از Ebru بالای ورودی با مختصات 46 35",
+     "کوئیست The Glowing Shard در لول 10 از دراپ Mutanus the Devourer",
+     "کوئیست Leaders of the Fang در لول 15 از Nara Wildmane در Elder Rise با مختصات 45 23 پس از ۵ پیش‌نیاز که از The Forgotten Pools نزد Tonga Runetotem در Crossroads آغاز می‌شود"
     ]
    },
-   "ماموریت‌های دانجن The Deadmines برای این دانجن لول‌ها شامل: Hard در لول 14، حالت Medium در لول 17، حالت At Level در لول 19 و حالت Easy در لول 24 هستند.",
+   "کوئیست‌های دانجن The Deadmines سختی این دانجن شامل Hard: Level 14 و Medium: Level 17 و At Level: Level 19 و Easy: Level 24 است.",
    {
     "t": "ul",
     "xs": [
-     "کوئست Collecting Memories در لول 14 از Wilder Thistlenettle در Dwarven District شهر Stormwind با مختصات 65 21",
-     "کوئست Oh Brother... در لول 15 از Wilder Thistlenettle در Dwarven District با مختصات 65 21",
-     "کوئست Underground Assault در لول 15 از Shoni the Shilent در Dwarven District با مختصات 55 13",
-     "کوئست The Unsent Letter در لول 16 که از باس Edwin VanCleef می‌افتد و پیش‌نیاز شروع The Stockade Riots است.",
-     "کوئست Red Silk Bandanas در لول 14 از Scout Riell در منطقه Sentinel Hill با مختصات 56 47 پس از تکمیل زنجیره ۶ ماموریتی که با The Defias Brotherhood از Gryan Stoutmantle شروع می‌شود.",
-     "کوئست The Defias Brotherhood در لول 14 از Gryan Stoutmantle در Sentinel Hill با مختصات 56 47 با همان پیش‌نیازهای عنوان قبلی",
-     "کوئست Destruction in Deadmines در لول 14 به عنوان پایان یک زنجیره که با Testing the Wells از Alba Fairmoon با مختصات 52.6 53.2 آغاز می‌گردد.",
-     "کوئست اختصاصی Paladin به نام The Test of Righteousness در لول 20 از Jordan Stilwell در ورودی شهر Ironforge با مختصات 52 36 که شروع آن از زنجیره Tome of Valor است.",
-     "کوئست اختصاصی Paladin برای هورد به نام A Moon-Kissed Blade در لول 20 از Lumina Windsinger در دخمه Silverpine Forest با مختصات 43 40 که معادل ماموریت قبلی بوده و از Bandarion Keep در منطقه Tirisfal Glades آغاز می‌شود."
+     "کوئیست Collecting Memories در لول 14 از Wilder Thistlenettle در Dwarven District شهر Stormwind با مختصات 65 21",
+     "کوئیست Oh Brother... در لول 15 از Wilder Thistlenettle با مختصات 65 21",
+     "کوئیست Underground Assault در لول 15 از Shoni the Shilent در Dwarven District با مختصات 55 13",
+     "کوئیست The Unsent Letter در لول 16 از لوت Edwin VanCleef که پیش‌نیاز The Stockade Riots است",
+     "کوئیست Red Silk Bandanas در لول 14 از Scout Riell در Sentinel Hill با مختصات 56 47 پس از تکمیل ۶ ماموریت",
+     "کوئیست The Defias Brotherhood در لول 14 از Gryan Stoutmantle در Sentinel Hill با مختصات 56 47 با همان زنجیره پیش‌نیاز",
+     "کوئیست Destruction in Deadmines در لول 14 انتهای زنجیره‌ای که با Testing the Wells از Alba Fairmoon با مختصات 52.6 53.2 شروع می‌شود",
+     "کوئیست ویژه پالادین The Test of Righteousness در لول 20 از Jordan Stilwell در دروازه Ironforge با مختصات 52 36 پس از زنجیره Tome of Valor",
+     "کوئیست معادل هورد ویژه پالادین A Moon-Kissed Blade در لول 20 از Lumina Windsinger در سرداب Silverpine Forest با مختصات 43 40 که شروع آن در Tirisfal Glades از Bandarion Keep است"
     ]
-   },
-   "با برنامه‌ریزی دقیق و دریافت کامل این کوئست‌ها قبل از ورود به هر اینس، سرعت لول‌آپ کاراکتر شما در این سرور چند برابر خواهد شد."
+   }
   ],
   "tags_fa": [
    "راهنمای دانجن",
-   "سرور Forever",
-   "لول آپ",
-   "ماموریت دانجن"
+   "دانجن کوئست",
+   "WoW Forever",
+   "لولینگ"
   ]
  }
 }
