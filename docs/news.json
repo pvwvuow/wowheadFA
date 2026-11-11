@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T11:39:32Z",
+ "generated": "2026-11-11T14:44:30Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3352,6 +3352,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383827,
+   "title_en": "Which Darkmoon Faire Buff Should You Pick in WoW: Forever?",
+   "url": "https://www.wowhead.com/news=383827",
+   "category": "Forever",
+   "published_at": "2026-11-11T14:00:00Z"
+  },
   {
    "id": 383824,
    "title_en": "Enhancement Shaman Class Weapon Hotfixed on WoW: Forever",
