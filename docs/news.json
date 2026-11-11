@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T05:43:01Z",
+ "generated": "2026-11-11T05:44:15Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -79,46 +79,6 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383837/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383833,
-   "slug": "blizzard-addressing-missing-shaman-totems-due-to-monday-s-server-issue",
-   "title_fa": "رفع مشکل ناپدید شدن توتم‌های Shaman پس از اختلال اخیر سرورها",
-   "lead_fa": "بلیزارد با انتشار اصلاحیه‌ای در تمامی ریجن‌ها، مشکل ناپدید شدن توتم‌های Shaman ناشی از اختلال سرورها را برطرف کرد.",
-   "body_fa": [
-    "در جریان اختلال سرورهای WoW در روز دوشنبه و حوالی ساعت ۱ بعدازظهر به وقت PST، سرورها برای انجام تعمیرات اضطراری از دسترس خارج شدند. در این مدت، بازیکنان با مشکلاتی مواجه شدند که یکی از آن‌ها ناپدید شدن توتم‌های Shaman نظیر Fire Totem بود.",
-    {
-     "t": "quote",
-     "x": "ما هم‌اکنون این اصلاحیه را برای تمام ریجن‌ها اعمال کرده‌ایم. Shamanهایی که به دلیل کرش سرور توتم خود را از دست داده بودند، باید آن را در کیف خود بازیابی‌شده بیابند. آن دسته از بازیکنان Shaman که با این مشکل مواجه شده‌اند و در حال حاضر داخل بازی هستند، باید مطمئن شوند که کیف آن‌ها فضای خالی دارد و سپس برای دریافت آن‌ها، از بازی خارج و دوباره وارد شوند.",
-     "by": "Blizzard"
-    },
-    {
-     "t": "note",
-     "x": "بازیکنانی که هنگام رفع مشکل داخل بازی حضور دارند، باید ابتدا از داشتن فضای خالی در کیف خود مطمئن شوند و سپس برای بازیابی توتم‌ها، یک بار خروج و ورود مجدد انجام دهند.",
-     "kind": "tip"
-    },
-    "طبق اعلام بلیزارد، این مشکل رسیدگی شده و توتم‌های از دست رفته اکنون باید به کیف بازیکنان بازگردانده شده باشند."
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "بلیزارد",
-    "Shaman"
-   ],
-   "items": [],
-   "title_en": "Blizzard Addressing Missing Shaman Totems Due to Monday's Server Issue in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383833",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383833-blizzard-addressing-missing-shaman-totems-due-to-monday-s-server-issue.html",
-   "published_at": "2026-11-11T01:13:27Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383833/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383833/1.jpg",
      "cap": ""
     }
    ]
@@ -438,6 +398,97 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383813/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383819,
+   "slug": "drowned-city-nerfs-reduced-population-in-zones-wow-forever-hotfixes-fo",
+   "title_fa": "هاتفیکس‌های ۹ نوامبر سرورهای دائمی: تضعیف دانجن The Drowned City و کاهش ازدحام مناطق",
+   "lead_fa": "بلیزارد در به‌روزرسانی‌های اخیر خود علاوه بر رفع باگ‌های متعدد کلاس‌ها و دانجن‌ها، سختی The Drowned City و تراکم بازیکنان را در مناطق شلوغ کاهش داد.",
+   "body_fa": [
+    "مجموعه‌ای از هاتفیکس‌های جدید در تاریخ‌های ۵، ۶ و ۹ نوامبر سال 2026 برای بازی منتشر شده است که تغییرات گسترده‌ای را روی متعادل‌سازی دانجن‌ها، کلاس‌ها، کوئست‌ها و وضعیت جهان بازی اعمال می‌کند. یکی از بخش‌های مهم این تغییرات، کاهش فشار و سختی درون دانجن The Drowned City و ارتقای میزان تجربه دریافتی از دانجن‌ها است.",
+    {
+     "t": "h",
+     "x": "تغییرات دانجن‌ها و سیاه‌چال The Drowned City"
+    },
+    "میزان Experience دریافتی از کشتن تمام دشمنان درون دانجن‌ها ۵۰٪ افزایش یافته است. همچنین در The Drowned City باگی که باعث می‌شد موجودات حدود ۳۰٪ دمیج بیشتری وارد کنند برطرف شد.",
+    {
+     "t": "table",
+     "head": [
+      "بخش / دانجن",
+      "تغییرات اعمال‌شده"
+     ],
+     "rows": [
+      [
+       "Deathless Marrow",
+       "کاهش ۲۵٪ سلامت موجودات و دمیج Fireball اسپل‌کسترهای Deathless Sorcerer؛ کاهش 50 درصدی دمیج Charge در Deathless Watcher و افت حدود 50 درصدی تکرار Shield Slam در Deathless Guardian"
+      ],
+      [
+       "The Shaper’s Terrace",
+       "اسپاون صحیح Cinder پس از کار با Archival Panel و اصلاح لوت موجودات Vitrix و Snowtalon به همراه متریال‌های لول‌بالاتر Skinning"
+      ],
+      [
+       "سایر دانجن‌ها",
+       "دراپ لوت توسط Zarla Ober در Alcaz Prison، امکان چند بار لوت Heart of the Mountain در Blackrock Depths و منع استفاده از مانت در Stratholme"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "تعدیل شلوغی مناطق و جهان بازی"
+    },
+    "تراکم حضور بازیکنان در مناطقی که ازدحام زیادی داشتند کاهش پیدا کرده است تا تجربه روان‌تری ایجاد شود.",
+    {
+     "t": "quote",
+     "x": "به دنبال بازخورد بازیکنان مبنی بر احساس شلوغی بیش از حد در نقاط مختلف، این تغییر را در سرورهایی با قوانین PvP به شکلی حتی بزرگ‌تر پیاده کردیم. ما شرایط مناطق را زیر نظر خواهیم داشت و در صورت لزوم تنظیمات بیشتری انجام می‌دهیم.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "h",
+     "x": "اصلاحات کلاس‌ها"
+    },
+    "کلاس‌های مختلف بازی نیز مجموعه‌ای از بهینه‌سازی‌ها را دریافت کرده‌اند:",
+    {
+     "t": "ul",
+     "xs": [
+      "در Druid هماهنگی Cooldown Manager برای اسپل Lacerate و حذف Berserk اعمال شد؛ همچنین در تغییرات روزهای قبل، تلنت Bloom اکنون به‌درستی هدف را هیل می‌کند.",
+      "برای Hunter مشکل کشیدن ناخواسته اگروی دشمنان از فواصل بسیار دور و دسته‌بندی پت‌های Vulgara the Insatiable و Shrieklings of Zephras اصلاح گردید.",
+      "در کلاس Warlock تکمیل کوئست Summon Felsteed اسکیل سوارکاری را می‌دهد؛ ضمناً سلامت پایه Voidwalker به میزان حدود 40 واحد در تمام لول‌ها افزایش یافت.",
+      "در Shaman افکت بصری Lightning Mastery به‌روزرسانی شد و دمیج Lightning Overload برای اسپل Lightning Bolt تصحیح شد.",
+      "برای Priest کست Fear Ward دیگر باعث خروج از Shadowform نمی‌شود و اسپل Power Infusion روی یاران به‌درستی باقی می‌ماند."
+     ]
+    },
+    {
+     "t": "note",
+     "x": "در حرفه Leatherworking، پیش‌نیاز مهارت Tanning Rack به 125 کاهش یافته است (قبلاً ۱۴۰ بود) تا مانع ساخت الگوهای نیازمند مهارت 125 نشود؛ در نتیجه اسکیل‌آپ‌های حاصل از آن نیز به میزان 15 امتیاز کاهش یافت.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "آیتم‌ها و ماموریت‌ها"
+    },
+    "مشکلاتی نظیر عدم دراپ Waylaid Crates و Craftsman’s Writs در دانجن‌ها برطرف شد و کول‌دان [[item:Nifty Stopwatch]] دیگر با ابزارهای حرکتی نظیر Dash، Blink و Sprint تداخل زمانی ایجاد نمی‌کند. علاوه بر این، دراپ آیتم‌های مربوط به چندین کوئست گروهی شد و دسترسی به اهداف مأموریت‌های مختلف در مناطق بازی تسهیل یافته است."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "دانجن",
+    "کلاس‌ها",
+    "تغییرات بازی"
+   ],
+   "items": [],
+   "title_en": "Drowned City Nerfs & Reduced Population in Zones - WoW: Forever Hotfixes for November 9th",
+   "source_url": "https://www.wowhead.com/news=383819",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383819-drowned-city-nerfs-reduced-population-in-zones-wow-forever-hotfixes-fo.html",
+   "published_at": "2026-11-10T04:30:43Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383819/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383819/1.jpg",
      "cap": ""
     }
    ]
@@ -3282,6 +3333,13 @@
  ],
  "queue": [
   {
+   "id": 383833,
+   "title_en": "Blizzard Addressing Missing Shaman Totems Due to Monday's Server Issue in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383833",
+   "category": "Forever",
+   "published_at": "2026-11-11T01:13:27Z"
+  },
+  {
    "id": 383828,
    "title_en": "Vendor Price Changes on WoW: Forever - Iron Grenade Shuffle Dead",
    "url": "https://www.wowhead.com/news=383828",
@@ -3294,13 +3352,6 @@
    "url": "https://www.wowhead.com/news=383824",
    "category": "Forever",
    "published_at": "2026-11-10T19:12:35Z"
-  },
-  {
-   "id": 383819,
-   "title_en": "Drowned City Nerfs & Reduced Population in Zones - WoW: Forever Hotfixes for November 9th",
-   "url": "https://www.wowhead.com/news=383819",
-   "category": "Forever",
-   "published_at": "2026-11-10T04:30:43Z"
   },
   {
    "id": 383817,
