@@ -144,12 +144,42 @@
   ],
   "chars": 1353
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383145/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383145/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383145/1.jpg",
+ "article_fa": {
+  "title_fa": "جست‌وجوی رازها در WoW: Forever با آیتم Night Watchman's Torch",
+  "lead_fa": "برای ورود به معمای جدید در WoW: Forever و پیگیری رازی که از Zephras Isle آغاز می‌شود، بازیکنان باید مشعل Night Watchman's Torch را از منطقهٔ Duskwood پیدا کنند.",
+  "body_fa": [
+   "جست‌وجوی رازهای جدید در WoW: Forever کلید خورده است. جامعهٔ Secret Finders اکنون در حال پیگیری سرنخ‌های رازی هستند که از منطقهٔ Zephras Isle شروع می‌شود و بازیکنانی که قصد مشارکت یا تکمیل آن را دارند، به یک مشعل نیاز خواهند داشت که نخستین بار در دورهٔ Forever beta شناسایی شده بود.",
+   {
+    "t": "h",
+    "x": "پیدا کردن مشعل در Duskwood"
+   },
+   "در گوشه‌ای پنهان از Duskwood، جسد یک Night Watch Guard بر زمین افتاده است. دلیل کشته شدن این نگهبان مشخص نیست، اما یک کوئست همراه خود دارد. این مأموریت از نوع تحویل فوری (instant turn-in) است و پاداش آن، مشعل [[item:Night Watchman's Torch]] خواهد بود.",
+   "این آیتم برای روشن کردن مناطق تاریک اطراف کاربرد دارد و در حال حاضر در سراسر جهان بازی، به‌جز اقامتگاه‌ها (inns) و پایتخت‌ها (capital cities)، قابل استفاده است.",
+   {
+    "t": "note",
+    "x": "این مشعل در حال حاضر تنها در یک بخش از این راز کاربرد دارد، اما نشان می‌دهد محتواهای تازه‌ای که به Forever اضافه می‌شوند ممکن است در رازهای فعلی یا آینده نقشی کلیدی داشته باشند.",
+    "kind": "info"
+   },
+   "جدا از کاربرد معمایی، این آیتم ویژگی‌های ظاهری جالبی هم دارد؛ از جمله تعامل دیدنی برای Druidها و همچنین Shamanها در حالت Ghost Wolf که مشعل را در دهان خود نگه می‌دارند."
+  ],
+  "tags_fa": [
+   "رازها",
+   "WoW Forever",
+   "راهنمای آیتم",
+   "Duskwood"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-11T05:04:29Z"
+ }
 }
