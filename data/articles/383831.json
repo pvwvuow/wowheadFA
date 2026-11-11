@@ -64,12 +64,39 @@
   ],
   "chars": 476
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383831/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383831/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383831/1.jpg",
+ "article_fa": {
+  "title_fa": "افزایش تجربه دانجن‌ها در WoW: Forever به ۶۰٪ مقادیر Classic Era",
+  "lead_fa": "بلیزارد تأیید کرد که مقدار XP دریافتی از دانجن‌ها در WoW: Forever اکنون به ۶۰٪ مقادیر Classic Era رسیده و سرعت لول‌آپ حاصل از آن مناسب ارزیابی شده است.",
+  "body_fa": [
+   "شرکت Blizzard اعلام کرده است که میزان کسب تجربه (XP) در دانجن‌های WoW: Forever هم‌اکنون معادل ۶۰٪ مقادیر نسخه Classic Era است و این تغییر به نتیجه مطلوبی رسیده است.",
+   {
+    "t": "quote",
+    "x": "ما این موضوع را با دقت زیادی زیر نظر گرفتیم، و هاتفیکسی که روز یکشنبه، ۸ نوامبر اعمال کردیم، XP ناشی از کشتن دشمنان در دانجن را از ۴۰٪ مقادیر Classic Era به ۶۰٪ مقادیر Classic Era رساند. متعاقباً احساس کرده‌ایم این تنظیم به‌خوبی عمل می‌کند تا سرعت‌های لول‌آپ دانجن با بقیه محتوای WoW Forever هماهنگ شود.",
+    "by": "Blizzard"
+   },
+   {
+    "t": "note",
+    "x": "طبق توضیحات بلیزارد، مقدار دانجن کیل XP در هاتفیکس یکشنبه ۸ نوامبر از ۴۰٪ به ۶۰٪ افزایش یافته است.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "هاتفیکس",
+   "Classic Era"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-11T03:18:02Z"
+ }
 }
