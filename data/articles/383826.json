@@ -149,12 +149,72 @@
   ],
   "chars": 1949
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383826/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383826/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383826/1.jpg",
+ "article_fa": {
+  "title_fa": "اعمال تغییرات کلاس‌های Hunter و Warlock در WoW: Forever",
+  "lead_fa": "بخشی از تغییرات اعلام‌شده برای کلاس‌های Hunter و Warlock در سرورهای WoW: Forever فعال شد.",
+  "body_fa": [
+   "به‌دنبال اعلام هفته گذشتهٔ Blizzard مبنی بر تیونینگ پیش‌رو برای کلاس‌ها، اکنون بخشی از این تغییرات در WoW: Forever اعمال شده است. پیش‌تر تغییری روی سلاح کلاسی Enhancement Shaman مشاهده شده بود و حالا اصلاحات بیشتری برای Hunter و Warlock در دسترس قرار گرفته است، هرچند هنوز تمام موارد وعده‌داده‌شده پیاده‌سازی نشده‌اند.",
+   {
+    "t": "h",
+    "x": "تغییرات هزینه مانای Hunter"
+   },
+   "کلاس Hunter تغییراتی در هزینه مانای دو اسپل خود دریافت کرده است:",
+   {
+    "t": "ul",
+    "xs": [
+     "اسپل Summon Hawk در تمامی رنک‌ها اکنون هزینه ثابت ۱۱٪ از Base Mana دارد.",
+     "اسپل Arcane Shot در تمامی رنک‌ها اکنون هزینه ثابت ۱۱٪ از Base Mana دارد."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "تغییرات اسپل‌ها و تلنت‌های Warlock"
+   },
+   "به نظر می‌رسد هدف این تغییرات مقابله با تکرار مداوم اسپل Wrack بدون استفاده از DoTها است. دمیج Firebolt مربوط به Imp نیز افزایش یافته است؛ این افزایش در لول‌های پایین‌تر بیشتر و در لول‌های بالاتر کمتر است.",
+   {
+    "t": "table",
+    "head": [
+     "قابلیت",
+     "حالت پیشین",
+     "حالت جدید"
+    ],
+    "rows": [
+     [
+      "Soul Siphon",
+      "افزایش ۴/۸/۱۲٪ افکت‌های Drain Life، Drain Soul و Wrack به ازای هر یک از سایر افکت‌های Affliction (حداکثر ۱۲/۲۴/۳۶٪)",
+      "افزایش ۴/۸/۱۲٪ افکت‌های مذکور مشخصاً به ازای هر یک از افکت‌های Corruption، Siphon Life و Bane of Agony (حداکثر ۱۲/۲۴/۳۶٪)"
+     ],
+     [
+      "Wrack (رنک ۱)",
+      "وارد کردن ۸۶ دمیج Shadow در هر ۱ ثانیه و افزایش ۱۰٪ دمیج سایر افکت‌های Shadow DoT به مدت ۶ ثانیه",
+      "وارد کردن ۶۰ دمیج Shadow در هر ۱ ثانیه به مدت ۶ ثانیه؛ افزایش سرعت تیک‌های دمیج دوره‌ای Siphon Life، Corruption و Bane of Agony به میزان ۱۰۰٪ سریع‌تر هنگام Channeling"
+     ]
+    ]
+   },
+   {
+    "t": "note",
+    "x": "در نسخهٔ جدید Wrack، میزان دمیج در هر تیک کاهش یافته اما با چنل کردن آن، نرخ تیک افکت‌های Corruption، Siphon Life و Bane of Agony معادل ۱۰۰٪ افزایش می‌یابد.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "تیونینگ کلاس‌ها",
+   "WoW Forever",
+   "هانتر",
+   "وارلاک"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-11T04:30:55Z"
+ }
 }

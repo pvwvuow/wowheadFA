@@ -64,12 +64,40 @@
   ],
   "chars": 476
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383831/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383831/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383831/1.jpg",
+ "article_fa": {
+  "title_fa": "میزان Experience دانجن‌ها در WoW: Forever به ۶۰٪ مقادیر Classic Era رسید",
+  "lead_fa": "Blizzard تأیید کرد که مقدار XP دریافتی از دانجن‌ها در WoW: Forever به ۶۰٪ مقادیر Classic Era تغییر یافته و از سرعت لول‌آپ حاصل از آن ابراز رضایت کرده است.",
+  "body_fa": [
+   "طبق اعلام رسمی Blizzard، مقدار Experience حاصل از دانجن‌ها در سرورهای WoW: Forever اکنون به ۶۰٪ مقادیر موجود در Classic Era افزایش یافته است و تیم توسعه بر این باور است که این تغییر به‌خوبی عمل می‌کند.",
+   {
+    "t": "quote",
+    "x": "ما این موضوع را بسیار دقیق زیر نظر داشتیم و هاتفیکسی که روز یکشنبه ۸ نوامبر اعمال کردیم، مقدار XP حاصل از کشتن ماب‌ها در دانجن را از ۴۰٪ مقادیر Classic Era به ۶۰٪ مقادیر Classic Era رساند. ما پس از آن احساس کرده‌ایم که این تنظیم به‌خوبی پیش می‌رود تا سرعت لول‌آپ در دانجن با بقیه محتوای WoW: Forever همخوانی داشته باشد.",
+    "by": "Blizzard"
+   },
+   {
+    "t": "note",
+    "x": "این تغییر از طریق هاتفیکس روز یکشنبه ۸ نوامبر اعمال شده و XP دریافتی از ماب‌های دانجن را از ۴۰٪ به ۶۰٪ رسانده است.",
+    "kind": "info"
+   },
+   "به گفته Blizzard، این اصلاح با هدف متناسب‌سازی سرعت لول‌آپ دانجن‌ها با سایر محتواهای دنیای WoW: Forever به کار گرفته شده است."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "WoW Forever",
+   "لول‌آپ"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-11T04:20:28Z"
+ }
 }

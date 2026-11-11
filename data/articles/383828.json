@@ -181,5 +181,44 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383828/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383828/1.jpg",
+ "last_rejected": {
+  "title_fa": "تغییر قیمت فروش آیتم‌ها به وندور در سرورهای زنده WoW: Forever",
+  "lead_fa": "با ریست هفتگی اخیر، قیمت فروش چندین آیتم ساختنی به وندورها در سرورهای زنده WoW: Forever تغییر کرد و روش سودآوری ساخت Iron Grenade عملاً از کار افتاد.",
+  "body_fa": [
+   "هم‌زمان با ریست هفتگی اخیر، قیمت فروش آیتم‌های متعددی به وندورها در WoW: Forever دستخوش تغییر شد. این اقدام احتمالاً روش‌های موسوم به Vendor Shuffle را هدف قرار داده است؛ ترفندی پرطرفدار برای کسب Gold که در آن مواد اولیه ارزان‌قیمت خریداری شده و به صورت انبوه به آیتم‌هایی گران‌تر تبدیل می‌شوند تا با فروش آن‌ها به وندور سودی حاصل شود که تزریق مستقیم پول به اقتصاد بازی به حساب می‌آید.",
+   {
+    "t": "h",
+    "x": "پایان روش سودآوری با Iron Grenade"
+   },
+   "یکی از شناخته‌شده‌ترین روش‌ها در Classic ساخت [[item:Iron Grenade]] بود که با ترکیب Iron Bar، Heavy Blasting Powder و Silk Cloth تعداد چندتایی از این نارنجک ساخته می‌شد. در حالت عادی بازیکنان می‌توانستند با صرف ۵ نقره مواد اولیه وندور، سه عدد از آن به ارزش ۱۵ نقره (هر کدام ۵ نقره) دریافت کنند. در هاتفیکس اخیر قیمت فروش این آیتم کاهش یافته است و از ۵ نقره مواد وندور، تنها ۳ نقره و ۷۵ مس بازمی‌گردد که این روش را کاملاً از رده خارج می‌کند.",
+   {
+    "t": "h",
+    "x": "افزایش قیمت فروش برخی تجهیزات"
+   },
+   "این تغییرات صرفاً تضعیف آیتم‌ها نبوده و طبق گزارش‌ها، قیمت فروش تعدادی از آیتم‌های ساختنی به وندورها افزایش پیدا کرده است:",
+   {
+    "t": "ul",
+    "xs": [
+     "معجون [[item:Minor Arcane Elixir]] با افزایش قیمت فروش مواجه شده است.",
+     "زره‌های پا شامل [[item:Protector's Chain Leggings]] و [[item:Stormrider's Leather Pants]] تغییر قیمت داشته‌اند.",
+     "زره‌های سینه و سر از جمله [[item:Stormrider's Leather Armor]] همراه با [[item:Filigreed Pristine Circlet]].",
+     "دستکش‌های چرمی نظیر [[item:Prowler's Leather Gauntlets]]، [[item:Skulker's Leather Gauntlets]]، [[item:Warden's Leather Gauntlets]]، [[item:Skycaller's Leather Gauntlets]] و [[item:Mender's Leather Gauntlets]].",
+     "دستکش‌های میل مانند [[item:Skycaller's Mail Gauntlets]] و [[item:Skirmisher's Mail Gauntlets]].",
+     "سایر تجهیزات پا شامل [[item:Filigreed Pristine Leggings]] و [[item:Filigreed Shining Leggings]]."
+    ]
+   },
+   {
+    "t": "note",
+    "x": "پیش از این تضعیف‌های مشابهی روی سلاح‌ها و Enchanting Wandها در بتای WoW: Forever مشاهده شده بود و این تغییرات، نخستین موج اصلاحات روی سرورهای لایو به شمار می‌رود.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "WoW Forever",
+   "اقتصاد بازی",
+   "Classic"
+  ]
+ }
 }
