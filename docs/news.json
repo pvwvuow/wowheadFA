@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T04:32:18Z",
+ "generated": "2026-11-11T04:33:41Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3344,6 +3344,13 @@
  ],
  "queue": [
   {
+   "id": 383837,
+   "title_en": "Hunter Pet Nerf and Enhancement Shaman Changes - WoW: Forever Hotfixes for November 10, 2026",
+   "url": "https://www.wowhead.com/news=383837",
+   "category": "Forever",
+   "published_at": "2026-11-11T03:30:15Z"
+  },
+  {
    "id": 383828,
    "title_en": "Vendor Price Changes on WoW: Forever - Iron Grenade Shuffle Dead",
    "url": "https://www.wowhead.com/news=383828",
@@ -3615,13 +3622,6 @@
    "url": "https://www.wowhead.com/news=383543",
    "category": "Forever",
    "published_at": "2026-10-22T18:15:43Z"
-  },
-  {
-   "id": 383541,
-   "title_en": "The WoW: Forever End of Beta Celebration Has Begun ft. Azuregos and Kazzak",
-   "url": "https://www.wowhead.com/news=383541",
-   "category": "Forever",
-   "published_at": "2026-10-22T17:13:00Z"
   }
  ]
 }
