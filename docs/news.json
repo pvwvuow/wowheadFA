@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T01:37:28Z",
+ "generated": "2026-11-11T03:56:40Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3335,6 +3335,13 @@
  ],
  "queue": [
   {
+   "id": 383837,
+   "title_en": "Hunter Pet Nerf and Enhancement Shaman Changes - WoW: Forever Hotfixes for November 10, 2026",
+   "url": "https://www.wowhead.com/news=383837",
+   "category": "Forever",
+   "published_at": "2026-11-11T03:30:15Z"
+  },
+  {
    "id": 383833,
    "title_en": "Blizzard Addressing Missing Shaman Totems Due to Monday's Server Issue in WoW: Forever",
    "url": "https://www.wowhead.com/news=383833",
@@ -3606,13 +3613,6 @@
    "url": "https://www.wowhead.com/news=383570",
    "category": "Live",
    "published_at": "2026-10-24T00:23:57Z"
-  },
-  {
-   "id": 383561,
-   "title_en": "This Week's WoW Recap - WoW: Forever, Hallow's End, Fall Savings",
-   "url": "https://www.wowhead.com/news=383561",
-   "category": "WoW",
-   "published_at": "2026-10-23T17:25:01Z"
   }
  ]
 }
