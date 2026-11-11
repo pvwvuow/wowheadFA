@@ -1,8 +1,211 @@
 {
- "generated": "2026-11-11T03:56:40Z",
+ "generated": "2026-11-11T03:58:08Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383832,
+   "slug": "blizzard-adding-gold-to-many-quests-near-max-level-in-wow-forever",
+   "title_fa": "افزایش پاداش Gold برای کوئست‌های لول بالا در WoW: Forever",
+   "lead_fa": "شرکت Blizzard با انتشار یک پست رسمی اعلام کرد که برای جبران حذف تبدیل XP به Gold در WoW: Forever، پاداش طلای اکثر کوئست‌های لول ۴۸ به بالا را افزایش می‌دهد.",
+   "body_fa": [
+    "شرکت Blizzard در یک Blue Post تأیید کرد که سیستم تبدیل XP به Gold در WoW: Forever غیرفعال شده است. با این حال، به دلیل تأثیر منفی این تصمیم بر درآمد بازیکنان در نزدیکی لول ۶۰، پاداش طلای بیشتری به اکثر کوئست‌های لول ۴۸ به بالا اضافه خواهد شد.",
+    {
+     "t": "h",
+     "x": "دلایل حذف تبدیل XP به Gold"
+    },
+    "سیستم تبدیل پاداش XP به طلا در لول مکس نخستین بار در سال ۲۰۰۶ و پیش از عرضه The Burning Crusade معرفی شده بود و در سال ۲۰۱۹ نیز درون Classic Era باقی ماند. سازندگان توضیح داده‌اند که هدف از حذف آن در WoW: Forever، جلوگیری از یک شیوه نامطلوب لول‌آپ بوده است؛ زیرا این سازوکار بازیکنان را تشویق می‌کرد تمام کوئست‌ها را کامل کرده و بدون تحویل دادن نگه دارند تا پس از رسیدن به لول ۶۰ تحویل دهند و به جای آن صرفاً با گریند کردن موجودات لول‌آپ کنند.",
+    {
+     "t": "quote",
+     "x": "در نسخه اصلی WoW تنها حدود ۲۵٪ از کوئست‌ها پاداش خام Gold می‌دادند، و همین مسئله باعث شد این تغییر اثری منفی‌تر از حد انتظار روی درآمد طلا در نزدیکی لول ۶۰ بگذارد. برای رفع این موضوع، ما در حال آماده‌سازی یک هاتفیکس هستیم که به اکثر کوئست‌های با لول ۴۸ یا بالاتر پاداش طلای بیشتری اضافه می‌کند، از جمله کوئست‌های بالای لول ۴۸ که پیش از این هرگز طلا پاداش نمی‌دادند.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "note",
+     "x": "این هاتفیکس ظرف حدود ۲۴ ساعت آینده روی سرورها اعمال خواهد شد.",
+     "kind": "info"
+    },
+    "طبق اعلام Blizzard، هدف این تغییر آن است که بازیکنان هنگام انجام کوئست‌ها در لول مناسب برای پیشرفت کاراکتر خود، پاداش طلای مناسب و رضایت‌بخشی دریافت کنند."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "هاتفیکس",
+    "طلا",
+    "بلیزارد"
+   ],
+   "items": [],
+   "title_en": "Blizzard Adding Gold to Many Quests Near Max Level in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383832",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383832-blizzard-adding-gold-to-many-quests-near-max-level-in-wow-forever.html",
+   "published_at": "2026-11-10T21:58:16Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383832/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383832/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383831,
+   "slug": "dungeon-experience-in-wow-forever-is-now-60-of-classic-era-blizzard-ha",
+   "title_fa": "افزایش تجربه دانجن‌ها در WoW: Forever به ۶۰٪ مقادیر Classic Era",
+   "lead_fa": "بلیزارد تأیید کرد که مقدار XP دریافتی از دانجن‌ها در WoW: Forever اکنون به ۶۰٪ مقادیر Classic Era رسیده و سرعت لول‌آپ حاصل از آن مناسب ارزیابی شده است.",
+   "body_fa": [
+    "شرکت Blizzard اعلام کرده است که میزان کسب تجربه (XP) در دانجن‌های WoW: Forever هم‌اکنون معادل ۶۰٪ مقادیر نسخه Classic Era است و این تغییر به نتیجه مطلوبی رسیده است.",
+    {
+     "t": "quote",
+     "x": "ما این موضوع را با دقت زیادی زیر نظر گرفتیم، و هاتفیکسی که روز یکشنبه، ۸ نوامبر اعمال کردیم، XP ناشی از کشتن دشمنان در دانجن را از ۴۰٪ مقادیر Classic Era به ۶۰٪ مقادیر Classic Era رساند. متعاقباً احساس کرده‌ایم این تنظیم به‌خوبی عمل می‌کند تا سرعت‌های لول‌آپ دانجن با بقیه محتوای WoW Forever هماهنگ شود.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "note",
+     "x": "طبق توضیحات بلیزارد، مقدار دانجن کیل XP در هاتفیکس یکشنبه ۸ نوامبر از ۴۰٪ به ۶۰٪ افزایش یافته است.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "هاتفیکس",
+    "Classic Era"
+   ],
+   "items": [],
+   "title_en": "Dungeon Experience in WoW: Forever is Now 60% of Classic Era - Blizzard Happy with Dungeon Level Speeds",
+   "source_url": "https://www.wowhead.com/news=383831",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383831-dungeon-experience-in-wow-forever-is-now-60-of-classic-era-blizzard-ha.html",
+   "published_at": "2026-11-10T21:52:03Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383831/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383831/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383828,
+   "slug": "vendor-price-changes-on-wow-forever-iron-grenade-shuffle-dead",
+   "title_fa": "تغییر قیمت فروش آیتم‌ها به Vendor در WoW: Forever و پایان Iron Grenade Shuffle",
+   "lead_fa": "با ریست هفتگی اخیر در WoW: Forever، قیمت فروش چندین آیتم به وندورها دستخوش تغییر شد و یکی از روش‌های محبوب کسب گلد از کار افتاد.",
+   "body_fa": [
+    "با اعمال ریست هفتگی در WoW: Forever، قیمت فروش بسیاری از آیتم‌ها به Vendor تغییر کرد؛ اقدامی که به احتمال زیاد تاکتیک‌های موسوم به Vendor Shuffle را هدف قرار داده است. در این شیوه، بازیکنان با تهیهٔ مواد اولیهٔ ارزان و ساخت انبوه آیتم‌های باارزش‌تر، گلد کسب می‌کردند؛ سودی که تزریق مستقیم پول به اقتصاد بازی محسوب می‌شود و به همین دلیل معمولاً توسعه‌دهندگان آن را به سرعت خنثی می‌کنند.",
+    {
+     "t": "h",
+     "x": "پایان روش محبوب ساخت Iron Grenade"
+    },
+    "یکی از شناخته‌شده‌ترین روش‌ها در Classic، استفاده از ساخت [[item:Iron Grenades]] بود که با مصرف Iron Bar، Heavy Blasting Powder و Silk Cloth انجام می‌شد. در گذشته زمانی که بهای مواد مصرفی در پایین‌ترین حد بود، بازیکنان با صرف ۵ نقره مواد اولیه می‌توانستند ۳ عدد Iron Grenades به ارزش هر کدام ۵ نقره تولید کنند.",
+    "با اعمال هاتفیکس‌های تازه، قیمت فروش Iron Grenades به وندور کاهش یافت. این تغییر روش مذکور را کاملاً بی‌اثر کرده است، چرا که اکنون هزینهٔ ۵ نقره متریال اولیه تنها به ۳ نقره و ۷۵ مس فروش منجر می‌شود.",
+    {
+     "t": "h",
+     "x": "تغییرات قیمتی سایر آیتم‌های ساخته‌شده"
+    },
+    "این تغییرات صرفاً به ضعیف‌سازی محدود نبوده و ارزش فروش برخی اقلام ساختنی دیگر به وندور افزایش یافته است. فهرست آیتم‌هایی که با تغییر قیمت مواجه شده‌اند شامل موارد زیر است:",
+    {
+     "t": "ul",
+     "xs": [
+      "معجون [[item:Minor Arcane Elixir]]",
+      "زره‌های پای [[item:Protector's Chain Leggings]] و [[item:Stormrider's Leather Pants]]",
+      "لباس چرمی [[item:Stormrider's Leather Armor]]",
+      "دستکش‌های چرمی [[item:Prowler's Leather Gauntlets]]، [[item:Skulker's Leather Gauntlets]]، [[item:Warden's Leather Gauntlets]]، [[item:Skycaller's Leather Gauntlets]] و [[item:Mender's Leather Gauntlets]]",
+      "دستکش‌های میلی [[item:Skycaller's Mail Gauntlets]] و [[item:Skirmisher's Mail Gauntlets]]",
+      "تجهیزات انتخابی از قبیل [[item:Filigreed Pristine Leggings]]، [[item:Filigreed Shining Leggings]] و [[item:Filigreed Pristine Circlet]]"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "پیش از این روی نسخهٔ WoW: Forever Beta نیز مواردی از تضعیف شافل‌ها روی سلاح‌ها و Enchanting Wands اعمال شده بود و این نخستین بسته از این دست تغییرات روی سرورهای لایو است.",
+     "kind": "info"
+    },
+    "با توجه به تنوع بالای دستورهای ساخت جدید در بازی، احتمال می‌رود این آخرین دور از تنظیمات قیمت فروش به وندورها نباشد."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "WoW Forever",
+    "اقتصاد بازی",
+    "کرفتینگ"
+   ],
+   "items": [],
+   "title_en": "Vendor Price Changes on WoW: Forever - Iron Grenade Shuffle Dead",
+   "source_url": "https://www.wowhead.com/news=383828",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383828-vendor-price-changes-on-wow-forever-iron-grenade-shuffle-dead.html",
+   "published_at": "2026-11-10T21:05:09Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383828/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383828/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383826,
+   "slug": "warlock-and-hunter-class-tuning-now-live-in-wow-forever",
+   "title_fa": "اعمال تغییرات کلاس‌های Hunter و Warlock در WoW: Forever",
+   "lead_fa": "بخشی از تغییرات اعلام‌شده برای کلاس‌های Hunter و Warlock هم‌اکنون در سرورهای WoW: Forever فعال شده است.",
+   "body_fa": [
+    "به‌دنبال اعلام هفته گذشته Blizzard درباره تغییرات کلاس‌ها، بخشی از این تنظیمات اکنون در سرورهای WoW: Forever اعمال شده است. اگرچه هنوز تمام تغییرات دردسترس قرار نگرفته‌اند، اما در کنار تغییر سلاح کلاسی Enhancement Shaman، اصلاحات جدیدی برای Hunter و Warlock به بازی اضافه شده است.",
+    {
+     "t": "h",
+     "x": "تغییرات هزینه مانای Hunter"
+    },
+    "دو توانایی کلاس Hunter با اصلاحاتی در مصرف مانا همراه شده‌اند:",
+    {
+     "t": "ul",
+     "xs": [
+      "توانایی Summon Hawk در تمامی رنک‌ها اکنون دقیقاً ۱۱٪ از بیس مانا مصرف می‌کند.",
+      "توانایی Arcane Shot نیز در همه رنک‌ها نیازمند ۱۱٪ از بیس مانا است."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "به‌روزرسانی‌های کلاسی Warlock"
+    },
+    "تغییرات اعمال‌شده برای Warlock احتمالاً با هدف جلوگیری از اسپم توانایی Wrack بدون اعمال اثرات DoT طراحی شده است. تغییرات تلنت‌ها و اسپل‌های این کلاس به شرح زیر است:",
+    {
+     "t": "ul",
+     "xs": [
+      "تلنت Soul Siphon در گذشته به‌ازای هر اثر Affliction دیگر روی هدف، آسیب یا هلث برداشته‌شده توسط Drain Life، Drain Soul و Wrack را ۴/۸/۱۲٪ تا سقف ۱۲/۲۴/۳۶٪ افزایش می‌داد؛ اکنون این تلنت مشخصاً اسپل‌های Corruption، Siphon Life و Bane of Agony را نام می‌برد تا اثر آن‌ها را تقویت کند.",
+      "اسپل Wrack اکنون در هر تیک دمیج کمتری وارد می‌کند (در رنک ۱ از ۸۶ شدو دمیج به ۶۰ شدو دمیج برای مدت ۶ ثانیه کاهش یافته است). همچنین به‌جای افزایش ۱۰٪ آسیب DoTهای شدو، اکنون هنگام چنل کردن آن سرعت تیک‌های Corruption، Siphon Life و Bane of Agony به میزان ۱۰۰٪ افزایش می‌یابد.",
+      "آسیب توانایی Firebolt پت Imp افزایش یافته است؛ این افزایش در لول‌های پایین‌تر بیشتر و در لول‌های بالاتر کمتر اعمال می‌شود."
+     ]
+    },
+    {
+     "t": "note",
+     "x": "هنوز همه تغییرات اعلام‌شده توسط Blizzard وارد بازی نشده‌اند و این موارد تنها بخشی از پکیج کامل به‌روزرسانی هستند.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "تیونینگ کلاس‌ها",
+    "Warlock",
+    "Hunter"
+   ],
+   "items": [],
+   "title_en": "Warlock and Hunter Class Tuning Now Live in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383826",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383826-warlock-and-hunter-class-tuning-now-live-in-wow-forever.html",
+   "published_at": "2026-11-10T20:16:31Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383826/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383826/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383815,
    "slug": "blizzard-taking-down-wow-forever-servers-shortly",
@@ -3144,193 +3347,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383574,
-   "slug": "repeatable-quest-experience-exploit-fixed-for-wow-forever-launch",
-   "title_fa": "رفع باگ تکرار کوئست برای دریافت اکسپی در آستانه عرضه WoW: Forever",
-   "lead_fa": "بلیزارد اکسپلویت مربوط به دریافت بی‌پایان امتیاز تجربه از یک کوئست را پیش از لانچ WoW: Forever برطرف کرد.",
-   "body_fa": [
-    "در جریان بتای WoW: Forever، بازیکنان متوجه یک کوئست ویژه فکشن Alliance شدند که به شکل مداوم Experience Points می‌داد. در حالی که گروهی از بازیکنان با استفاده از این فرصت توانستند در بتا به سرعت به Level 30 برسند، بسیاری از وجود آن کاملاً بی‌خبر بودند.",
-    {
-     "t": "h",
-     "x": "جزئیات کوئست و نحوه کار اکسپلویت"
-    },
-    "این کوئست که Applejack Still نام دارد و درست بیرون از Stormwind City قرار گرفته، تنها به تحویل ۴ عدد [[item:Shiny Red Apple]] نیاز داشت؛ آیتمی که می‌شد آن را مستقیماً از یک وندور خریداری کرد.",
-    "بر اساس ویدیویی که در ساب‌ردیت Classic WoW منتشر شد، یک کاراکتر لول ۲۱ با هر بار تحویل این کوئست ۱۷۰ امتیاز تجربه دریافت می‌کرد.",
-    {
-     "t": "note",
-     "x": "Aggrend در پلتفرم X تایید کرد که این فارم ناخواسته پیش از انتشار بازی رفع شده است.",
-     "kind": "info"
-    },
-    "سرعت Leveling همواره بحث داغی میان بازیکنان بوده است؛ عده‌ای خواهان روندی کندتر هستند و در طرف مقابل، عده دیگری می‌خواهند هرچه سریع‌تر به ۶۰ برسند و این دو گروه اغلب در بخش نظرات شبکه‌های اجتماعی با یکدیگر بحث دارند.",
-    "این اکسپلویت مشخصاً ناخواسته بود؛ بنابراین کسانی که امیدوار بودند پس از عرضه Forever از این کوئست استفاده کنند، اکنون باید کارها را از مسیر تعریف‌شده و عادی آن پیش ببرند."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "اکسپلویت",
-    "بتای Forever",
-    "لولینگ"
-   ],
-   "items": [],
-   "title_en": "Repeatable Quest Experience Exploit Fixed for WoW: Forever Launch",
-   "source_url": "https://www.wowhead.com/news=383574",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383574-repeatable-quest-experience-exploit-fixed-for-wow-forever-launch.html",
-   "published_at": "2026-10-31T18:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383574/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383574/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383662,
-   "slug": "new-drust-themed-hearthstone-available-from-talebound",
-   "title_fa": "معرفی Wood-Cursed Hearthstone جدید با تم Drust از طریق Talebound",
-   "lead_fa": "یک Hearthstone کاملاً جدید از بخش Talebound در دسترس قرار گرفته که انیمیشن تله‌پورت آن از تم Drust الهام گرفته شده است.",
-   "body_fa": [
-    "یکی از پاداش‌های Talebound، آیتمی به نام [[item:Wood-Cursed Hearthstone]] است که انیمیشن اختصاصی آن نیز دیتاماین شده است.",
-    {
-     "t": "h",
-     "x": "نحوه دریافت و ویژگی‌ها"
-    },
-    "این هارت‌استون جدید از طریق تکمیل اچیومنت The Tale Complete به دست می‌آید. برای انجام این اچیومنت، بازیکنان باید تمامی Taleها و همچنین نبرد نهایی (final confrontation) را به پایان برسانند.",
-    "انیمیشن [[item:Wood-Cursed Hearthstone]] به‌شدت دارای تم Drust است و در هنگام استفاده، خروجی بسیار تاریک و سایه‌وار (shadowy exit) به نمایش می‌گذارد."
-   ],
-   "tags_fa": [
-    "Talebound",
-    "Hearthstone",
-    "دیتاماین"
-   ],
-   "items": [],
-   "title_en": "New Drust-Themed Hearthstone Available from Talebound",
-   "source_url": "https://www.wowhead.com/news=383662",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383662-new-drust-themed-hearthstone-available-from-talebound.html",
-   "published_at": "2026-10-31T14:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "grok-4",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383662/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383662/1.png",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383670,
-   "slug": "massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wo",
-   "title_fa": "تغییرات گسترده درخت استعداد دروید و پالادین - تیونینگ کلاس‌ها برای WoW: Forever",
-   "lead_fa": "درویدها و پالادین‌ها تغییرات بسیار بزرگی در درخت استعداد خود دریافت کرده‌اند و چندین کلاس دیگر نیز تیونینگ شده‌اند؛ این تغییرات هاتفیکس پیش از لانچ WoW: Forever در ۴ نوامبر اعمال شده است.",
-   "body_fa": [
-    "این هاتفیکس‌ها روی سرورهای زنده Forever اعمال شده‌اند. این تغییرات هنوز در یادداشت‌های توسعه تأیید نشده‌اند و ممکن است در آینده تغییر کنند.",
-    {
-     "t": "h",
-     "x": "تغییرات دروید"
-    },
-    "چندین استعداد موقعیت خود را در درخت تغییر داده‌اند. برای دیدن جزئیات دقیق می‌توانید از Druid Talent Calculator استفاده کنید. Genesis حالا آسیب و درمان دوره‌ای را ۲/۴/۶/۸/۱۰٪ افزایش می‌دهد (قبلاً ۱/۲/۳/۴/۵٪). Lacerate به عنوان استعداد جدید اضافه شده است. Berserk حذف شده است. Leader of the Pack حالا همه critical strike را افزایش می‌دهد (قبلاً فقط melee و ranged). Primal Bite آسیب ۴۲/۶۲/۷۷ وارد می‌کند (قبلاً ۲۶/۳۸/۵۹) و موقعیت استعداد تغییر کرده است. Shifting Power cooldown به ۸ ثانیه کاهش یافته (قبلاً ۱۶ ثانیه). Bloom به عنوان استعداد جدید اضافه شده است. Naturalist حالا علاوه بر کاهش زمان cast، آسیب همه را ۲/۴/۶/۸/۱۰٪ افزایش می‌دهد (قبلاً ۱/۲/۳/۴/۵٪). Swiftmend حالا نیاز به Regrowth دارد (قبلاً هر spell). Wild Growth حالا زمان cast ۳ ثانیه‌ای دارد.",
-    {
-     "t": "h",
-     "x": "تغییرات هانتر"
-    },
-    "هانترها تغییراتی در درخت Beast Mastery داشته‌اند. Pathfinding به Row ۳ منتقل شده (قبلاً Row ۲).",
-    {
-     "t": "h",
-     "x": "تغییرات میج"
-    },
-    "Arcane Blast حالا ۱۲٪ Int stack می‌کند (قبلاً ۱۵٪)، هزینه mana ۱۰۰٪ افزایش یافته (قبلاً ۱۷۵٪) و مدت buff به ۱۸ ثانیه رسیده (قبلاً ۱۵ ثانیه). Arcane Resilience حالا ۳ رتبه دارد و رتبه سوم armor برابر ۷۵٪ Intellect می‌دهد. Arcane Resilience به Row ۱ منتقل شده (قبلاً Row ۲). Missile Barrage به Row ۲ منتقل شده (قبلاً Row ۱). Arcane Focus از درخت استعداد حذف شده است. Accelerant تغییر نام داده (قبلاً Improved Fireball) و حالا زمان cast Arcane Wrath را هم کاهش می‌دهد. Critical Mass در رتبه ۳ حداکثر ۶٪ crit chance می‌دهد (قبلاً ۱۰٪ در رتبه ۵). Improved Fire Blast به Row ۳ منتقل شده (قبلاً Row ۱). Incineration در رتبه ۵ حداکثر ۱۰٪ crit chance برای Fire Blast، Ice Lance، Arcane Blast و Scorch می‌دهد (قبلاً ۶٪ در رتبه ۳). Arctic Reach حالا برد Ice Lance را هم افزایش می‌دهد. Ice Barrier حالا آسیب Frost را ۱۵٪ افزایش می‌دهد (قبلاً ۳٪). آسیب اضافی در حالت shielded ۵٪ بیشتر است (قبلاً ۳٪). Winter's Chill آسیب Cone of Cold بعدی را ۲۰٪ افزایش می‌دهد (قبلاً ۵٪). Ice Lance حالا ۳۰۰٪ آسیب bonus به هدف‌های frozen وارد می‌کند (قبلاً ۲۰۰٪) اما cooldown ۸ ثانیه‌ای دارد. Precision تغییر نام داده (قبلاً Elemental Precision) و حالا همه hit chance را افزایش می‌دهد (قبلاً فقط برخی spellها).",
-    {
-     "t": "h",
-     "x": "تغییرات پالادین"
-    },
-    "درخت استعداد پالادین تغییرات بسیار گسترده‌ای دیده است. Boundless Light به عنوان استعداد جدید اضافه شده است. Divine Precision حداکثر رتبه به ۲ کاهش یافته و رتبه حداکثر hit chance Holy spells را ۸٪ افزایش می‌دهد (قبلاً ۱۸٪) اما Silence duration را ۲۰٪ کاهش می‌دهد. Holy Power حالا bonus critical strike healing را ۱۰/۲۰/۳۰/۴۰/۵۰٪ افزایش می‌دهد (قبلاً chance). Improved Seals تا رتبه ۵ و ۱۵٪ مقیاس می‌گیرد (قبلاً رتبه ۳ و ۹٪). Light's Vigil دیگر روی دشمن trigger نمی‌شود. Oath of Light به عنوان استعداد جدید اضافه شده است. Reverence حداکثر رتبه به ۲ کاهش یافته (قبلاً ۳) اما mana regeneration در رتبه حداکثر همچنان ۳۰٪ است. Spiritual Focus حالا حداکثر ۵ رتبه دارد (قبلاً ۲) و تا ۷۰٪ chance می‌رسد. Righteous Fury حالا در سطح ۱۰ یاد گرفته می‌شود (قبلاً ۱۶). Holy Shield آسیب ۳۲٪ کاهش یافته، هزینه mana به ۱۰۰ رسیده (قبلاً ۱۵۰) و flag جدید «Take Harmful Spell» اضافه شده است. Improved Righteous Fury آسیب دریافتی را ۳/۶/۹٪ کاهش می‌دهد (قبلاً ۲/۴/۶٪). Iron Creed حداکثر رتبه ۳ کاهش یافته (قبلاً ۵) و threat increase در رتبه حداکثر ۳۰٪ است (قبلاً ۱۵٪) اما damage taken به ۶٪ کاهش یافته (قبلاً ۱۰٪). Sacred Duty دیگر stamina را افزایش نمی‌دهد اما مدت Forbearance را در رتبه حداکثر ۱۰ ثانیه کاهش می‌دهد. Shield Specialization حداکثر رتبه به ۲ کاهش یافته (قبلاً ۳) با همان مقادیر در رتبه حداکثر. Shieldsworn به عنوان استعداد جدید اضافه شده است.",
-    "Stoicism به عنوان استعداد جدید اضافه شده است. Swift Judgement اثر جدیدی دارد. Champion of the Light حالا حداکثر ۵ رتبه دارد (قبلاً ۳) و spell damage در رتبه حداکثر همان است اما cast time Hammer of Wrath را ۱ ثانیه کاهش می‌دهد. Conviction حالا حداکثر ۳ رتبه دارد (قبلاً ۵) و همه spellها را ۶٪ تحت تأثیر قرار می‌دهد. Turn Evil به عنوان توانایی جدید اضافه شده است.",
-    "Two-Handed Weapon Specialization حالا physical damage را افزایش می‌دهد (قبلاً همه damage) و threat را ۲۰٪ در رتبه حداکثر کاهش می‌دهد. Unsealed Wrath تغییر نام و اثر جدید دارد. Vindication دیگر attack power را افزایش نمی‌دهد.",
-    {
-     "t": "h",
-     "x": "تغییرات سایر کلاس‌ها"
-    },
-    "Shadow Word: Death حالا ۳۰٪ backlash damage وارد می‌کند (قبلاً ۱۰٪). Holy Binding به عنوان استعداد جدید برای Holy Priest اضافه شده است. Improved Drains حالا mana drained توسط Drain Mana را افزایش می‌دهد (به جای تأثیر روی Wrack). Revenge حالا در همه رتبه‌ها با ۲۵٪ attack power مقیاس می‌گیرد.",
-    {
-     "t": "note",
-     "x": "این تغییرات روی سرورهای زنده اعمال شده‌اند و ممکن است در آینده تغییر کنند.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "Forever",
-    "تیونینگ کلاس‌ها",
-    "درخت استعداد"
-   ],
-   "items": [],
-   "title_en": "Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383670",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383670-massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wo.html",
-   "published_at": "2026-10-30T23:22:14Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383670/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383670/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383669,
-   "slug": "over-8-million-characters-were-created-in-the-wow-forever-beta",
-   "title_fa": "بیش از ۸ میلیون شخصیت در بتای WoW: Forever ساخته شد",
-   "lead_fa": "بلیزارد آمار جالبی از بتای WoW: Forever منتشر کرده است که نشان‌دهنده فعالیت گسترده بازیکنان در این دوره است.",
-   "body_fa": [
-    "بتای WoW: Forever اکنون به پایان رسیده و لانچ کمتر از یک هفته دیگر باقی مانده است. بلیزارد آمار مختلفی از این بتا منتشر کرده که شامل تعداد شخصیت‌های ساخته‌شده و مجموع کشتن‌های PvP می‌شود.",
-    {
-     "t": "h",
-     "x": "آمار منتشرشده"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "Characters Created: 8,862,354",
-      "PvP Kills: 9,959,014",
-      "Skyborne: 1,889,084",
-      "Duels Fought: 1,248,125",
-      "Forsaken Paladins: 612,096",
-      "Deaths from Falling: 1,157,204"
-     ]
-    },
-    "Deadliest Dungeon در این بتا The Hall of Thanes بوده است. Deadliest Creature نیز Kobold Miner اعلام شده.",
-    "Zone with the Most PvP هم Hillsbrad Foothills بوده است.",
-    "بلیزارد لانچ WoW: Forever را برای ۴ نوامبر در نظر گرفته است. برای آماده‌سازی می‌توانید راهنماهای ما را بررسی کنید."
-   ],
-   "tags_fa": [
-    "WoW: Forever",
-    "بتا",
-    "آمار بلیزارد"
-   ],
-   "items": [],
-   "title_en": "Over 8 Million Characters Were Created in the WoW: Forever Beta",
-   "source_url": "https://www.wowhead.com/news=383669",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383669-over-8-million-characters-were-created-in-the-wow-forever-beta.html",
-   "published_at": "2026-10-30T19:37:04Z",
-   "model": "grok-4.20-0309-non-reasoning",
-   "via": "auto-xai",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383669/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383669/1.png",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3347,34 +3363,6 @@
    "url": "https://www.wowhead.com/news=383833",
    "category": "Forever",
    "published_at": "2026-11-11T01:13:27Z"
-  },
-  {
-   "id": 383832,
-   "title_en": "Blizzard Adding Gold to Many Quests Near Max Level in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383832",
-   "category": "Forever",
-   "published_at": "2026-11-10T21:58:16Z"
-  },
-  {
-   "id": 383831,
-   "title_en": "Dungeon Experience in WoW: Forever is Now 60% of Classic Era - Blizzard Happy with Dungeon Level Speeds",
-   "url": "https://www.wowhead.com/news=383831",
-   "category": "Forever",
-   "published_at": "2026-11-10T21:52:03Z"
-  },
-  {
-   "id": 383828,
-   "title_en": "Vendor Price Changes on WoW: Forever - Iron Grenade Shuffle Dead",
-   "url": "https://www.wowhead.com/news=383828",
-   "category": "Forever",
-   "published_at": "2026-11-10T21:05:09Z"
-  },
-  {
-   "id": 383826,
-   "title_en": "Warlock and Hunter Class Tuning Now Live in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383826",
-   "category": "Forever",
-   "published_at": "2026-11-10T20:16:31Z"
   },
   {
    "id": 383824,
@@ -3613,6 +3601,34 @@
    "url": "https://www.wowhead.com/news=383570",
    "category": "Live",
    "published_at": "2026-10-24T00:23:57Z"
+  },
+  {
+   "id": 383561,
+   "title_en": "This Week's WoW Recap - WoW: Forever, Hallow's End, Fall Savings",
+   "url": "https://www.wowhead.com/news=383561",
+   "category": "WoW",
+   "published_at": "2026-10-23T17:25:01Z"
+  },
+  {
+   "id": 383547,
+   "title_en": "Who is WoW: Forever Meant For? Blizzard Discusses on Forever Podcast",
+   "url": "https://www.wowhead.com/news=383547",
+   "category": "Forever",
+   "published_at": "2026-10-23T14:00:00Z"
+  },
+  {
+   "id": 383552,
+   "title_en": "Item Level Changes for Ascended Venomforged Gear",
+   "url": "https://www.wowhead.com/news=383552",
+   "category": "Live",
+   "published_at": "2026-10-23T02:19:48Z"
+  },
+  {
+   "id": 383543,
+   "title_en": "Blizzard Confirms Molten Core Will Have New Mechanics in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383543",
+   "category": "Forever",
+   "published_at": "2026-10-22T18:15:43Z"
   }
  ]
 }
