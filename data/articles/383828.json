@@ -174,7 +174,7 @@
   ],
   "chars": 2050
  },
- "status": "published",
+ "status": "new",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383828/1.jpg",
@@ -182,50 +182,43 @@
   }
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383828/1.jpg",
- "article_fa": {
-  "title_fa": "تغییر قیمت فروش آیتم‌ها به Vendor در WoW: Forever و پایان Iron Grenade Shuffle",
-  "lead_fa": "با ریست هفتگی اخیر در WoW: Forever، قیمت فروش چندین آیتم به وندورها دستخوش تغییر شد و یکی از روش‌های محبوب کسب گلد از کار افتاد.",
+ "last_rejected": {
+  "title_fa": "تغییر قیمت فروش آیتم‌ها به وندور در سرورهای زنده WoW: Forever",
+  "lead_fa": "با ریست هفتگی اخیر، قیمت فروش چندین آیتم ساختنی به وندورها در سرورهای زنده WoW: Forever تغییر کرد و روش سودآوری ساخت Iron Grenade عملاً از کار افتاد.",
   "body_fa": [
-   "با اعمال ریست هفتگی در WoW: Forever، قیمت فروش بسیاری از آیتم‌ها به Vendor تغییر کرد؛ اقدامی که به احتمال زیاد تاکتیک‌های موسوم به Vendor Shuffle را هدف قرار داده است. در این شیوه، بازیکنان با تهیهٔ مواد اولیهٔ ارزان و ساخت انبوه آیتم‌های باارزش‌تر، گلد کسب می‌کردند؛ سودی که تزریق مستقیم پول به اقتصاد بازی محسوب می‌شود و به همین دلیل معمولاً توسعه‌دهندگان آن را به سرعت خنثی می‌کنند.",
+   "هم‌زمان با ریست هفتگی اخیر، قیمت فروش آیتم‌های متعددی به وندورها در WoW: Forever دستخوش تغییر شد. این اقدام احتمالاً روش‌های موسوم به Vendor Shuffle را هدف قرار داده است؛ ترفندی پرطرفدار برای کسب Gold که در آن مواد اولیه ارزان‌قیمت خریداری شده و به صورت انبوه به آیتم‌هایی گران‌تر تبدیل می‌شوند تا با فروش آن‌ها به وندور سودی حاصل شود که تزریق مستقیم پول به اقتصاد بازی به حساب می‌آید.",
    {
     "t": "h",
-    "x": "پایان روش محبوب ساخت Iron Grenade"
+    "x": "پایان روش سودآوری با Iron Grenade"
    },
-   "یکی از شناخته‌شده‌ترین روش‌ها در Classic، استفاده از ساخت [[item:Iron Grenades]] بود که با مصرف Iron Bar، Heavy Blasting Powder و Silk Cloth انجام می‌شد. در گذشته زمانی که بهای مواد مصرفی در پایین‌ترین حد بود، بازیکنان با صرف ۵ نقره مواد اولیه می‌توانستند ۳ عدد Iron Grenades به ارزش هر کدام ۵ نقره تولید کنند.",
-   "با اعمال هاتفیکس‌های تازه، قیمت فروش Iron Grenades به وندور کاهش یافت. این تغییر روش مذکور را کاملاً بی‌اثر کرده است، چرا که اکنون هزینهٔ ۵ نقره متریال اولیه تنها به ۳ نقره و ۷۵ مس فروش منجر می‌شود.",
+   "یکی از شناخته‌شده‌ترین روش‌ها در Classic ساخت [[item:Iron Grenade]] بود که با ترکیب Iron Bar، Heavy Blasting Powder و Silk Cloth تعداد چندتایی از این نارنجک ساخته می‌شد. در حالت عادی بازیکنان می‌توانستند با صرف ۵ نقره مواد اولیه وندور، سه عدد از آن به ارزش ۱۵ نقره (هر کدام ۵ نقره) دریافت کنند. در هاتفیکس اخیر قیمت فروش این آیتم کاهش یافته است و از ۵ نقره مواد وندور، تنها ۳ نقره و ۷۵ مس بازمی‌گردد که این روش را کاملاً از رده خارج می‌کند.",
    {
     "t": "h",
-    "x": "تغییرات قیمتی سایر آیتم‌های ساخته‌شده"
+    "x": "افزایش قیمت فروش برخی تجهیزات"
    },
-   "این تغییرات صرفاً به ضعیف‌سازی محدود نبوده و ارزش فروش برخی اقلام ساختنی دیگر به وندور افزایش یافته است. فهرست آیتم‌هایی که با تغییر قیمت مواجه شده‌اند شامل موارد زیر است:",
+   "این تغییرات صرفاً تضعیف آیتم‌ها نبوده و طبق گزارش‌ها، قیمت فروش تعدادی از آیتم‌های ساختنی به وندورها افزایش پیدا کرده است:",
    {
     "t": "ul",
     "xs": [
-     "معجون [[item:Minor Arcane Elixir]]",
-     "زره‌های پای [[item:Protector's Chain Leggings]] و [[item:Stormrider's Leather Pants]]",
-     "لباس چرمی [[item:Stormrider's Leather Armor]]",
-     "دستکش‌های چرمی [[item:Prowler's Leather Gauntlets]]، [[item:Skulker's Leather Gauntlets]]، [[item:Warden's Leather Gauntlets]]، [[item:Skycaller's Leather Gauntlets]] و [[item:Mender's Leather Gauntlets]]",
-     "دستکش‌های میلی [[item:Skycaller's Mail Gauntlets]] و [[item:Skirmisher's Mail Gauntlets]]",
-     "تجهیزات انتخابی از قبیل [[item:Filigreed Pristine Leggings]]، [[item:Filigreed Shining Leggings]] و [[item:Filigreed Pristine Circlet]]"
+     "معجون [[item:Minor Arcane Elixir]] با افزایش قیمت فروش مواجه شده است.",
+     "زره‌های پا شامل [[item:Protector's Chain Leggings]] و [[item:Stormrider's Leather Pants]] تغییر قیمت داشته‌اند.",
+     "زره‌های سینه و سر از جمله [[item:Stormrider's Leather Armor]] همراه با [[item:Filigreed Pristine Circlet]].",
+     "دستکش‌های چرمی نظیر [[item:Prowler's Leather Gauntlets]]، [[item:Skulker's Leather Gauntlets]]، [[item:Warden's Leather Gauntlets]]، [[item:Skycaller's Leather Gauntlets]] و [[item:Mender's Leather Gauntlets]].",
+     "دستکش‌های میل مانند [[item:Skycaller's Mail Gauntlets]] و [[item:Skirmisher's Mail Gauntlets]].",
+     "سایر تجهیزات پا شامل [[item:Filigreed Pristine Leggings]] و [[item:Filigreed Shining Leggings]]."
     ]
    },
    {
     "t": "note",
-    "x": "پیش از این روی نسخهٔ WoW: Forever Beta نیز مواردی از تضعیف شافل‌ها روی سلاح‌ها و Enchanting Wands اعمال شده بود و این نخستین بسته از این دست تغییرات روی سرورهای لایو است.",
+    "x": "پیش از این تضعیف‌های مشابهی روی سلاح‌ها و Enchanting Wandها در بتای WoW: Forever مشاهده شده بود و این تغییرات، نخستین موج اصلاحات روی سرورهای لایو به شمار می‌رود.",
     "kind": "info"
-   },
-   "با توجه به تنوع بالای دستورهای ساخت جدید در بازی، احتمال می‌رود این آخرین دور از تنظیمات قیمت فروش به وندورها نباشد."
+   }
   ],
   "tags_fa": [
    "هاتفیکس",
    "WoW Forever",
    "اقتصاد بازی",
-   "کرفتینگ"
+   "Classic"
   ]
- },
- "generator": {
-  "model": "gemini-flash-latest",
-  "via": "auto-gemini",
-  "written_at": "2026-11-11T03:29:14Z"
  }
 }
