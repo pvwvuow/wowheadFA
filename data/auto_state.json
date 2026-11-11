@@ -2,14 +2,14 @@
  "day": "2026-11-11",
  "published_today": 4,
  "held": {
-  "383824": {
-   "reason": "ادعای «برای تطبیق با بازبینی‌ها مقادیر 2.6 و 2.3 نیز مد نظر بوده‌اند» کاملاً ساختگی است و در متن منبع وجود ندارد.",
-   "at": "2026-11-11T03:31:59Z",
-   "at_ts": 1794367919.673019
+  "383828": {
+   "reason": "عددِ بدون منبع در مقاله: 15",
+   "at": "2026-11-11T04:27:41Z",
+   "at_ts": 1794371261.981982
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-11T03:31:59Z",
+ "updated_at": "2026-11-11T04:30:55Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -3964,54 +3964,54 @@
     "attempts": 1
    },
    {
-    "id": "383832",
-    "ts": "2026-11-11T03:10:29Z",
+    "id": "383833",
+    "ts": "2026-11-11T04:11:39Z",
     "path": "primary",
     "result": "published",
     "blocks": 0,
     "warns": 0,
-    "sec": 581.6,
+    "sec": 795.0,
+    "attempts": 2
+   },
+   {
+    "id": "383832",
+    "ts": "2026-11-11T04:17:55Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 376.6,
     "attempts": 1
    },
    {
     "id": "383831",
-    "ts": "2026-11-11T03:18:02Z",
+    "ts": "2026-11-11T04:20:28Z",
     "path": "primary",
     "result": "published",
     "blocks": 0,
     "warns": 0,
-    "sec": 453.3,
+    "sec": 152.6,
     "attempts": 1
    },
    {
     "id": "383828",
-    "ts": "2026-11-11T03:29:14Z",
-    "path": "primary",
-    "result": "published",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 672.0,
-    "attempts": 2
-   },
-   {
-    "id": "383826",
-    "ts": "2026-11-11T03:30:34Z",
-    "path": "primary",
-    "result": "published",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 80.3,
-    "attempts": 1
-   },
-   {
-    "id": "383824",
-    "ts": "2026-11-11T03:31:59Z",
+    "ts": "2026-11-11T04:27:41Z",
     "path": "primary",
     "result": "held",
     "blocks": 1,
     "warns": 0,
-    "sec": 84.7,
+    "sec": 433.6,
     "attempts": 2
+   },
+   {
+    "id": "383826",
+    "ts": "2026-11-11T04:30:55Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 193.8,
+    "attempts": 1
    }
   ]
  }
