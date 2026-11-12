@@ -17,6 +17,7 @@
    "able",
    "acquire",
    "after",
+   "agility",
    "agilitypattern",
    "alchemists",
    "alchemyblacksmithingengineering",
@@ -65,6 +66,7 @@
    "enchant",
    "enchanters",
    "enchantingleatherworkingtailoring",
+   "engineering",
    "engineers",
    "especially",
    "exalted",
@@ -79,6 +81,7 @@
    "friendly",
    "from",
    "gain",
+   "gauntlet",
    "gauntletschematic",
    "gear",
    "gelkis",
@@ -94,6 +97,7 @@
    "healing",
    "honored",
    "hoof-shaped",
+   "hoofwarmers",
    "hoofwarmerspattern",
    "however",
    "if",
@@ -101,6 +105,7 @@
    "iron",
    "is",
    "it",
+   "kit",
    "kitpattern",
    "lacks",
    "leatherworkers",
@@ -112,8 +117,10 @@
    "magram's",
    "major",
    "melee",
+   "morningstar",
    "morningstarschematic",
    "mystic",
+   "name",
    "obtained",
    "of",
    "off-hand",
@@ -125,12 +132,16 @@
    "options",
    "or",
    "other",
+   "pattern",
    "pedal",
    "per",
    "pick",
+   "plans",
    "players",
    "polearm",
+   "potion",
    "potionplans",
+   "power",
    "powerpattern",
    "prefer",
    "probably",
@@ -153,13 +164,17 @@
    "rewards",
    "right",
    "rival",
+   "rows",
+   "schematic",
    "side",
    "silk",
    "so",
    "some",
+   "spec",
    "spellblasting",
    "spellpower",
    "stormcloth",
+   "tailoring",
    "tailors",
    "the",
    "their",
@@ -195,5 +210,55 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383829/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383829/1.jpg",
+ "last_rejected": {
+  "title_fa": "انتخاب میان دو قبیله Gelkis و Magram در WoW: Forever",
+  "lead_fa": "بازیکنان در منطقه Desolace با رسیدن به حدود سطح ۳۵ باید میان دو قبیله رقیب Gelkis و Magram دست به انتخاب بزنند.",
+  "body_fa": [
+   "در سرور World of Warcraft: Forever، زمانی که در حدود سطح ۳۵ وارد Desolace می‌شوید، امکان انتخاب یکی از دو قبیله رقیب Gelkis یا Magram را خواهید داشت. کسب اعتبار با هر یک از این دو جناح موجب کاهش اعتبار نزد جناح مقابل می‌شود، بنابراین تصمیم‌گیری نیازمند دقت است.",
+   "صرف‌نظر از جناح انتخابی، امکان دسترسی به تمام ۱۲ دستور ساخت (۲ مورد به ازای هر حرفه ساخت‌وساز) وجود دارد؛ اما پیش‌نیازهای دریافت این دستورها میان دو جناح متفاوت است و انتخاب جناح هم‌راستا با حرفه شما روند دستیابی را آسان‌تر می‌کند.",
+   {
+    "t": "h",
+    "x": "دستورهای حرفه‌های Enchanting ،Leatherworking و Tailoring"
+   },
+   "بازیکنانی که در یکی از حرفه‌های Enchanting ،Leatherworking یا Tailoring فعالیت دارند، احتمالاً پیوستن به قبیله Gelkis را ترجیح می‌دهند. برای Gelkis، خرید این دستورها نیازمند سطح اعتبار Honored و پرداخت ۱۵ عدد [[item:Carved Centaur Totem]] است؛ علاوه بر این، یک دستور برای هر حرفه از طریق کوئستی با پیش‌نیاز اعتبار Friendly دریافت می‌شود. در صورتی که Magram را انتخاب کنید، تنها راه دریافت این موارد رسیدن به سطح اعتبار Exalted و پرداخت ۶۰ عدد [[item:Carved Centaur Totem]] خواهد بود.",
+   {
+    "t": "ul",
+    "xs": [
+     "[[item:Formula: Enchant Bracer - Lesser Agility]] و [[item:Formula: Enchant Bracer - Lesser Healing Power]]",
+     "[[item:Pattern: Centaur Hoofwarmers]] و [[item:Pattern: Mystic Thick Armor Kit]]",
+     "[[item:Pattern: Silk Reagent Bag]] و [[item:Pattern: Stormcloth Gloves]]"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "دستورهای حرفه‌های Alchemy ،Blacksmithing و Engineering"
+   },
+   "برای سه حرفه Alchemy ،Blacksmithing و Engineering، انتخاب قبیله Magram گزینه بهتری محسوب می‌شود. در قبیله Magram، این دستورها در سطح اعتبار Honored با قیمت ۱۵ عدد [[item:Carved Centaur Totem]] فروخته می‌شوند و یک دستور برای هر حرفه نیز از طریق کوئستی در سطح Friendly به دست می‌آید. اعضای قبیله Gelkis برای دستیابی به این دستورها باید به سطح Exalted برسند و ۶۰ عدد [[item:Carved Centaur Totem]] هزینه کنند.",
+   {
+    "t": "ul",
+    "xs": [
+     "[[item:Recipe: Greater Spellblasting Potion]] و [[item:Recipe: Greater Frenzy Potion]]",
+     "[[item:Plans: Iron Morningstar]] و [[item:Plans: Hard Gold Gauntlet]]",
+     "[[item:Schematic: Hoof-Shaped Foot Pedal]] و [[item:Schematic: Centaur Banner Deployment Device]]"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "جوایز کوئست‌های پایانی"
+   },
+   "تفاوت مهم دیگر، پاداش کوئست نهایی زنجیره هر دو قبیله است. هر دو زنجیره حق انتخابی میان چند سلاح و off-hand با کیفیت Rare ارائه می‌دهند که انتخاب بهترین گزینه به کلاس و تجهیزات فعلی شما وابسته است.",
+   {
+    "t": "note",
+    "x": "پاداش نهایی Gelkis عموماً برای کلاس‌های Melee مناسب است، زیرا آیتم off-hand آن فاقد spellpower برای کسترها است؛ در مقابل، جوایز کوئست پایانی Magram بیشتر مورد توجه کسترها قرار می‌گیرد، گرچه سلاح polearm دو دست آن ممکن است برای برخی کلاس‌های دیگر نیز جذاب باشد.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "Forever",
+   "راهنما",
+   "Desolace",
+   "کوئست"
+  ]
+ }
 }
