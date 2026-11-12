@@ -195,5 +195,44 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383829/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383829/1.jpg",
+ "last_rejected": {
+  "title_fa": "انتخاب میان Gelkis و Magram در WoW: Forever",
+  "lead_fa": "در سطح حدود ۳۵ و هنگام ورود به منطقهٔ Desolace در بازی World of Warcraft: Forever، بازیکنان باید میان دو قبیلهٔ رقیب Gelkis و Magram یکی را انتخاب کنند.",
+  "body_fa": [
+   "با افزایش اعتبار نزد یکی از این دو قبیله، اعتبار شما نزد قبیلهٔ دیگر کاهش می‌یابد. بنابراین انتخاب جناح باید با دقت انجام شود. با این حال، بدون در نظر گرفتن این که به کدام قبیله می‌پیوندید، امکان دستیابی به تمامی ۱۲ دستور ساخت مشاغل (۲ دستور برای هر شغل ساخت‌وساز) وجود دارد، اما شرایط دریافت آن‌ها در هر جناح متفاوت است.",
+   {
+    "t": "h",
+    "x": "انتخاب قبیله بر اساس مشاغل ساخت‌وساز"
+   },
+   "برای بازیکنانی که مشاغل Enchanting ،Leatherworking و Tailoring دارند، قبیلهٔ Gelkis گزینهٔ بهتری است. دستورهای این سه شغل نزد این قبیله با رسیدن به سطح اعتبار Honored و پرداخت ۱۵ عدد Carved Centaur Totem قابل خریداری هستند. همچنین یک دستور برای هر شغل از طریق کوئستی در دسترس قرار می‌گیرد که فقط به سطح اعتبار Friendly نیاز دارد. در صورتی که این بازیکنان قبیلهٔ Magram را انتخاب کنند، تنها راه دسترسی به این دستورها رسیدن به سطح اعتبار Exalted و پرداخت ۶۰ عدد Carved Centaur Totem خواهد بود.",
+   {
+    "t": "ul",
+    "xs": [
+     "[[item:Formula: Enchant Bracer - Lesser Agility]] و [[item:Formula: Enchant Bracer - Lesser Healing Power]]",
+     "[[item:Pattern: Centaur Hoofwarmers]] و [[item:Pattern: Mystic Thick Armor Kit]]",
+     "[[item:Pattern: Silk Reagent Bag]] و [[item:Pattern: Stormcloth Gloves]]"
+    ]
+   },
+   "از سوی دیگر، قبیلهٔ Magram برای افرادی که دارای مشاغل Alchemy ،Blacksmithing و Engineering هستند انتخاب مناسب‌تری محسوب می‌شود. شرایط خرید این دستورها از Magram نیز در سطح اعتبار Honored با ۱۵ عدد Carved Centaur Totem بوده و یکی از دستورها با کوئست در سطح اعتبار Friendly باز می‌شود. در صورت انتخاب قبیلهٔ رقیب یعنی Gelkis، این دستورها تنها با رسیدن به سطح اعتبار Exalted و قیمت ۶۰ عدد Carved Centaur Totem قابل تهیه هستند.",
+   {
+    "t": "ul",
+    "xs": [
+     "[[item:Recipe: Greater Spellblasting Potion]] و [[item:Recipe: Greater Frenzy Potion]]",
+     "[[item:Plans: Iron Morningstar]] و [[item:Plans: Hard Gold Gauntlet]]",
+     "[[item:Schematic: Hoof-Shaped Foot Pedal]] و [[item:Schematic: Centaur Banner Deployment Device]]"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "پاداش کوئست نهایی دو قبیله"
+   },
+   "تفاوت مهم دیگر این دو گروه در جوایز آخرین مرحله از زنجیرهٔ کوئست‌های آن‌ها نهفته است. هر دو قبیله حق انتخاب میان چند سلاح و آیتم‌های دست دوم از کیفیت Rare را می‌دهند. پاداش نهایی Gelkis معمولاً برای کلاس‌های melee جذاب است؛ به ویژه آن که آیتم دست دوم آن Spellpower مناسب کسترها را ندارد. در مقابل، بازیکنان کستر احتمالاً پاداش نهایی Magram را ترجیح می‌دهند، اگرچه سلاح polearm دو دست آن برای برخی کلاس‌های دیگر نیز کاربردی خواهد بود."
+  ],
+  "tags_fa": [
+   "راهنمای بازی",
+   "WoW Forever",
+   "مشاغل"
+  ]
+ }
 }

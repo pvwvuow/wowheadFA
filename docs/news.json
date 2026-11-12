@@ -1,8 +1,49 @@
 {
- "generated": "2026-11-12T18:05:23Z",
+ "generated": "2026-11-12T21:40:41Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383835,
+   "slug": "dual-spec-costs-50-gold-at-level-40-unlock-secondary-talent-tree",
+   "title_fa": "هزینه ۵۰ گلد برای Dual Spec در لول ۴۰ در WoW: Forever",
+   "lead_fa": "قابلیت Dual Spec از ابتدای عرضه در WoW: Forever در دسترس است و بازیکنان می‌توانند در لول ۴۰ با پرداخت ۵۰ گلد درخت استعداد دوم خود را آزاد کنند.",
+   "body_fa": [
+    "قابلیت Dual Spec در سرورهای WoW: Forever در دسترس قرار دارد، اما فعال‌سازی آن نیازمند پرداخت ۵۰ گلد است. بر خلاف سرورهای Classic 20th Anniversary Realms که در زمان عرضه شامل این ویژگی نبودند، بازیکنان در WoW: Forever در صورتی که گلد کافی داشته باشند، از همان ابتدا به این قابلیت دسترسی دارند.",
+    "پس از رسیدن به لول ۴۰، مربی کلاس شما (Class Trainer) این امکان را فراهم می‌کند که درخت استعداد دوم (Secondary Talent Tree) خود را با ۵۰ گلد خریداری کنید. این ویژگی به شما اجازه می‌دهد تا دو چینش استعداد کاملاً مجزا داشته باشید و هر زمان که تمایل داشتید بین آن‌ها جابه‌جا شوید.",
+    {
+     "t": "h",
+     "x": "مزایای تلنت دوم و چالش هزینه"
+    },
+    "از آنجا که تغییر مکرر تلنت‌ها (Respeccing) هزینه فزاینده‌ای از گلد را به همراه دارد، Dual Spec به بازیکنان این امکان را می‌دهد که برای اهداف مختلف مانند Tank و DPS یا حالت‌های PvE و PvP دو ستاپ مجزا آماده کنند؛ این انعطاف‌پذیری به‌ویژه برای کسانی که قصد تغییر مداوم تلنت را دارند بسیار کاربردی است.",
+    "مبلغ ۵۰ گلد هزینه بالایی محسوب می‌شود، مخصوصاً که آزادسازی آن دقیقاً در همان لولی اتفاق می‌افتد که بازیکنان مایل به خرید مانت هستند. در صورتی که بخواهید هم مهارت Apprentice Riding و هم قابلیت Dual Spec را هم‌زمان به دست آورید، در مجموع باید ۱۵۰ گلد پرداخت کنید.",
+    {
+     "t": "note",
+     "x": "جمع‌آوری این هزینه با پیشرفت لول، افزایش قیمت فروش آیتم‌ها و تغییرات گلد دریافتی از کوئست‌ها احتمالاً آسان‌تر خواهد شد؛ اما تا آن زمان ممکن است ناچار شوید میان مانت یا Dual Spec یکی را اولویت قرار دهید.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "Dual Spec",
+    "تلنت"
+   ],
+   "items": [],
+   "title_en": "Dual Spec Costs 50 Gold at Level 40 - Unlock Secondary Talent Tree",
+   "source_url": "https://www.wowhead.com/news=383835",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383835-dual-spec-costs-50-gold-at-level-40-unlock-secondary-talent-tree.html",
+   "published_at": "2026-11-11T18:29:47Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383835/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383835/1.png",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383837,
    "slug": "hunter-pet-nerf-and-enhancement-shaman-changes-wow-forever-hotfixes-fo",
@@ -3276,79 +3317,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383727,
-   "slug": "every-guide-you-ll-need-for-launch-the-wow-forever-guide-compendium",
-   "title_fa": "مجموعه راهنماهای عرضه WoW: Forever منتشر شد",
-   "lead_fa": "سرورهای WoW: Forever در ساعت ۳ بعدازظهر PST راه‌اندازی می‌شوند و مجموعه‌ای کامل از راهنماهای کلاس‌ها، دانجن‌ها و سیستم‌های تازه در دسترس بازیکنان قرار گرفته است.",
-   "body_fa": [
-    "سرور WoW: Forever در تاریخ ۴ نوامبر ۲۰۲۶ آغاز به کار می‌کند و ماجراجویی بازیکنان پس از پشت سر گذاشتن صف‌های ورود به Azeroth رسماً کلید می‌خورد. محتوای این نسخه فراتر از یک کپی ساده از سرورهای Anniversary است و تغییرات گسترده‌ای از دوره آزمایشی بتا تا سطح ۳۰ مشاهده شده بود که اکنون با آغاز عرضه بسط پیدا می‌کند.",
-    {
-     "t": "h",
-     "x": "انتخاب کلاس و ابزارهای بیلدهای بازی"
-    },
-    "برای انتخاب کلاس مناسب، ابزارهای Talent Calculator و Class Changes در دسترس هستند تا مقایسه بیلد کنونی با بیلدهای قبلی Forever و Anniversary امکان‌پذیر باشد. همچنین بر اساس داده‌های بتا، فهرست‌های رتبه‌بندی Tier Lists برای نقش‌های Tank، Healer و DPS آماده شده‌اند که تا رسیدن بازیکنان به سطح ۶۰ به‌روزرسانی خواهند شد.",
-    {
-     "t": "h",
-     "x": "سیستم‌های جدید و مسیر ارتقای حرفه‌ها"
-    },
-    "چندین سیستم تازه در بدو عرضه فعال هستند که شامل مواردی مثل Camping، Legacy Points و شخصی‌سازی UI می‌شوند. علاوه بر این، ابزار Forever Profession Leveling Tool برای آموزش و رساندن تمامی حرفه‌ها تا سطح ۳۰۰ طراحی شده است که شاخه‌های زیر را در بر می‌گیرد:",
-    {
-     "t": "ul",
-     "xs": [
-      "Alchemy",
-      "Blacksmithing",
-      "Enchanting",
-      "Engineering",
-      "Leatherworking",
-      "Tailoring",
-      "Cooking",
-      "First Aid"
-     ]
-    },
-    {
-     "t": "h",
-     "x": "دانجن‌های کلاسیک و دانجن‌های جدید"
-    },
-    "پیش از آغاز ریدها، دانجن‌ها بخش اصلی پیشرفت را تشکیل می‌دهند. در بازه سطوح ۲۰ تا ۳۰ دانجن‌های آشنا و مکان‌های تازه‌ای وجود دارند. سیاهچاله‌هایی نظیر City of Dalaran که دسترسی به آن برای فکشن Alliance ساده‌تر است اما فکشن Horde هم می‌تواند مسیر Attune آن را طی کند و باس مخفی آن نیازمند آیتمی از SFK است. علاوه بر دانجن‌های بازه ۲۰ تا ۳۰، چندین دانجن جدید هنوز توسط بازیکنان بررسی نشده‌اند:",
-    {
-     "t": "ul",
-     "xs": [
-      "The Drowned City",
-      "Krol'dok Stronghold",
-      "Alcaz Prison",
-      "Shaper's Terrace",
-      "Blackmaw Hold"
-     ]
-    },
-    {
-     "t": "note",
-     "x": "گزارش خبر شماره ۳۸۳۷۲۷ به عرضه اولیه سرور مربوط است، در حالی که در تاریخ ۱۰ نوامبر ۲۰۲۶ (همچنین ۱۱ نوامبر در گزارش‌های منطقه‌ای) هاتفیکس‌های متعددی برای تیونینگ کلاس‌ها و دانجن‌ها منتشر شدند.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "راهنما",
-    "کلاس‌ها",
-    "دانجن"
-   ],
-   "items": [],
-   "title_en": "Every Guide You'll Need for Launch: the WoW: Forever Guide Compendium",
-   "source_url": "https://www.wowhead.com/news=383727",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383727-every-guide-you-ll-need-for-launch-the-wow-forever-guide-compendium.html",
-   "published_at": "2026-11-04T16:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383727/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383727/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3400,13 +3368,6 @@
    "url": "https://www.wowhead.com/news=383843",
    "category": "Forever",
    "published_at": "2026-11-11T19:42:15Z"
-  },
-  {
-   "id": 383835,
-   "title_en": "Dual Spec Costs 50 Gold at Level 40 - Unlock Secondary Talent Tree",
-   "url": "https://www.wowhead.com/news=383835",
-   "category": "Forever",
-   "published_at": "2026-11-11T18:29:47Z"
   },
   {
    "id": 383825,
@@ -3631,6 +3592,13 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
+  },
+  {
+   "id": 383519,
+   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383519",
+   "category": "Live",
+   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
