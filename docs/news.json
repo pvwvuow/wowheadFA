@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T15:42:33Z",
+ "generated": "2026-11-12T15:43:57Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3352,6 +3352,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383818,
+   "title_en": "Catch-Up Mechanics & The Economy in WoW: Forever - But Why Tho? Interview",
+   "url": "https://www.wowhead.com/news=383818",
+   "category": "Forever",
+   "published_at": "2026-11-12T14:00:00Z"
+  },
   {
    "id": 383851,
    "title_en": "Restoration Druid Change to Wild Growth in WoW: Forever",
