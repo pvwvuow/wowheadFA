@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T21:41:57Z",
+ "generated": "2026-11-12T23:27:54Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3321,6 +3321,27 @@
  ],
  "queue": [
   {
+   "id": 383863,
+   "title_en": "New Brutal Armor Transmog Sets Datamined in Patch 12.1.7",
+   "url": "https://www.wowhead.com/news=383863",
+   "category": "PTR",
+   "published_at": "2026-11-12T23:00:09Z"
+  },
+  {
+   "id": 383862,
+   "title_en": "Learning Dual Spec Can Trigger Empty Action Bars When Logging Out in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383862",
+   "category": "Forever",
+   "published_at": "2026-11-12T22:45:42Z"
+  },
+  {
+   "id": 383855,
+   "title_en": "Season of Discovery's Scarlet Enclave Raid to Return in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383855",
+   "category": "Forever",
+   "published_at": "2026-11-12T22:02:00Z"
+  },
+  {
    "id": 383860,
    "title_en": "New High Level Battle Mage Weapon Discovered in WoW: Forever",
    "url": "https://www.wowhead.com/news=383860",
@@ -3578,27 +3599,6 @@
    "url": "https://www.wowhead.com/news=383547",
    "category": "Forever",
    "published_at": "2026-10-23T14:00:00Z"
-  },
-  {
-   "id": 383552,
-   "title_en": "Item Level Changes for Ascended Venomforged Gear",
-   "url": "https://www.wowhead.com/news=383552",
-   "category": "Live",
-   "published_at": "2026-10-23T02:19:48Z"
-  },
-  {
-   "id": 383543,
-   "title_en": "Blizzard Confirms Molten Core Will Have New Mechanics in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383543",
-   "category": "Forever",
-   "published_at": "2026-10-22T18:15:43Z"
-  },
-  {
-   "id": 383541,
-   "title_en": "The WoW: Forever End of Beta Celebration Has Begun ft. Azuregos and Kazzak",
-   "url": "https://www.wowhead.com/news=383541",
-   "category": "Forever",
-   "published_at": "2026-10-22T17:13:00Z"
   }
  ]
 }
