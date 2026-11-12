@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T17:42:22Z",
+ "generated": "2026-11-12T18:05:23Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3353,6 +3353,13 @@
  ],
  "queue": [
   {
+   "id": 383853,
+   "title_en": "The WoW: Forever Podcast Episode 7 Now Available - Lore Episode",
+   "url": "https://www.wowhead.com/news=383853",
+   "category": "Forever",
+   "published_at": "2026-11-12T17:37:38Z"
+  },
+  {
    "id": 383842,
    "title_en": "Loot Ocarina of Time Boots from Drowned City in WoW: Forever",
    "url": "https://www.wowhead.com/news=383842",
@@ -3624,13 +3631,6 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
