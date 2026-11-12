@@ -10,6 +10,7 @@
  "qa_facts": {
   "numbers": [
    "15.6",
+   "20",
    "27.0",
    "27.8",
    "28.8",
@@ -202,6 +203,7 @@
    "more",
    "mountains",
    "mulgore",
+   "name",
    "need",
    "neutral",
    "new",
@@ -248,6 +250,7 @@
    "remove",
    "requires",
    "rewards",
+   "rows",
    "saltseer",
    "saltseer's",
    "saltseers",
@@ -267,6 +270,7 @@
    "southshore",
    "spam",
    "spawn",
+   "spec",
    "starts",
    "stay",
    "step",
@@ -351,5 +355,66 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383825/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383825/1.jpg",
+ "last_rejected": {
+  "title_fa": "سیاه‌چال جدید Drowned City در WoW: Forever معرفی شد",
+  "lead_fa": "سیاه‌چال Drowned City به عنوان چالشی تازه برای محدودهٔ سطح ۳۷ تا ۴۲ در WoW: Forever در دسترس بازیکنان قرار گرفته است.",
+  "body_fa": [
+   "سیاه‌چال Drowned City یک سیاه‌چال ویژهٔ سطوح ۳۷ تا ۴۲ در WoW: Forever است که در Stranglethorn Vale و سواحل دورافتادهٔ غرب این شبه‌جزیره واقع شده است. این سیاه‌چال از نظر درجهٔ سختی جهش بزرگی نسبت به سیاه‌چال‌های پیشین به شمار می‌رود و نیازمند توجه دقیق بازیکنان به مکانیک‌های مبارزه است.",
+   {
+    "t": "h",
+    "x": "کوئست‌ها و پاداش‌ها"
+   },
+   "در مجموع ۵ کوئست برای هر دو جناح Alliance و Horde وجود دارد. دو مورد از آن‌ها در Booty Bay قرار دارند و خنثی هستند، یک مورد به صورت مستقیم برای هر دو جناح قابل دریافت است و دو مورد دیگر نیازمند انجام زنجیره‌کوئست‌های پیش‌نیاز هستند.",
+   {
+    "t": "ul",
+    "xs": [
+     "کوئست Magics of the Drowned City (که به The Web of Magic ختم می‌شود) در سطح ۳۰ در Hillsbrad Foothills و Southshore از Loremaster Dibbs در مختصات 50.6 و 57.0 شروع می‌شود. پیش‌نیاز آن The Second Rebellion یا Bad Medicine است و تکمیل Troll Witchery پیش‌نیاز نهایی آن محسوب می‌شود.",
+     "کوئست Take Two With Water (که به Findings for the Explorer's League ختم می‌شود) در سطح ۳۰ در Hillsbrad Foothills و Southshore از Loremaster Dibbs در مختصات 50.6 و 57.0 آغاز می‌شود و همان پیش‌نیازهای زنجیرهٔ بالا را دارد.",
+     "کوئست Ancient Gurubashi Secrets در سطح ۳۴ در Alterac Mountains و Dalaran از Archmage Timear در مختصات 15.6 و 73.6 قابل دریافت است.",
+     "کوئست The Drowned City در سطح ۳۰ در Stranglethorn Vale و Grom'Gol از Kin'weelay در مختصات 32.2 و 27.8 شروع می‌شود که پیش‌نیاز آن The Vile Reef است.",
+     "کوئست The Only Good Brinescale... در سطح ۳۰ در Stranglethorn Vale و Grom'Gol از Commander Aggro'gosh در مختصات 32.2 و 28.8 آغاز می‌شود؛ پیش‌نیاز آن The Vile Reef و سپس Enemies in the Water است.",
+     "کوئست Ancient Gurubashi Idol در سطح ۳۰ در Mulgore و Skywatcher Plateau از Mazu'kon در مختصات 32.2 و 27.8 شروع می‌شود.",
+     "کوئست‌های Shady Saltseers و The Saltseer Captain در سطح ۳۴ در Stranglethorn Vale و Booty Bay از Krazek در مختصات 27.0 و 77.2 دریافت می‌شوند."
+    ]
+   },
+   "پاداش‌های شاخص این کوئست‌ها شامل آیتم‌های [[item:Ancient Voodoo Pouch]] و [[item:Intrepid Explorer's Chainmail]] از کوئست Findings for the Explorer's League و آیتم [[item:Saltseer's Helm]] از کوئست Shady Saltseers هستند.",
+   {
+    "t": "h",
+    "x": "باس‌های سیاه‌چال"
+   },
+   "این سیاه‌چال دارای ۶ باس اصلی به همراه باس‌های Rare Spawn شامل Umbra و Gill است:",
+   {
+    "t": "ul",
+    "xs": [
+     "باس Zul'Alai: در سلامت پایین جادوی Undying Oath را اجرا می‌کند و باید باف‌های او را زیر نظر داشت. هیلرها و اعضا باید از محدودهٔ استان‌های او فاصله بگیرند.",
+     "باس Var'Taka: ماب‌های اضافی می‌توانند باس را هیل کنند، بنابراین باید سریع کشته یا کنترل شوند. تانک باید جهت باس را برگرداند تا حملات زاویه‌ای به بقیهٔ اعضا نخورد.",
+     "باس Primeval Elemental: اجرای AoE او باید قطع شود تا سرعت اعضا کاهش نیابد.",
+     "باس Captain Dreadrise: توانایی Embrine باعث غرق شدن یار شما می‌شود و باید به سرعت شکسته شود.",
+     "باس Deathless Marrow: سخت‌ترین مبارزهٔ این سیاه‌چال است. این باس مدام Blood Bolt می‌زند و ماب‌های ترول احضار می‌کند. با مرگ هر ادد، باس دی‌باف دریافت آسیب به میزان ۲۰٪ می‌گیرد.",
+     "باس Min'loth the Serpent: باس باید پشت به گروه نگه داشته شود و وضعیت سلامت او برای تغییر شکل رصد گردد. همچنین اثرات منفی Poison باید سریع پاک‌سازی شوند."
+    ]
+   },
+   {
+    "t": "note",
+    "x": "آیتم ترینکت [[item:Heart of the Primeval]] به عنوان نخستین ترینکت با قابلیت افزایش آسیب به صورت on-use در این بازی از لوت‌های شاخص این سیاه‌چال است.",
+    "kind": "info"
+   },
+   {
+    "t": "h",
+    "x": "دشمنان عادی و خطرات محیطی"
+   },
+   "ماب‌های عادی (Trash) این سیاه‌چال بسیار خطرناک هستند و ناهماهنگی در کنترل جمعیت یا اولویت‌بندی اهداف می‌تواند باعث شکست کامل گروه شود. آسیب Poison در این محیط بسیار بالاست و داشتن کلاسی با قابلیت رفع آن اهمیت دارد.",
+   {
+    "t": "note",
+    "x": "ماب Zin'aka یک کوسهٔ بسیار خطرناک است که باس نیست و هیچ لوتی ندارد؛ رویارویی با آن تقریباً قطعی به وایپ ختم می‌شود و بهتر است کاملاً نادیده گرفته شود.",
+    "kind": "warn"
+   }
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "سیاه چال",
+   "راهنما"
+  ]
+ }
 }
