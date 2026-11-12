@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T16:50:59Z",
+ "generated": "2026-11-12T16:51:57Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3353,6 +3353,27 @@
  ],
  "queue": [
   {
+   "id": 383842,
+   "title_en": "Loot Ocarina of Time Boots from Drowned City in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383842",
+   "category": "Forever",
+   "published_at": "2026-11-12T16:00:00Z"
+  },
+  {
+   "id": 383807,
+   "title_en": "Party with Other Players to Use Their Sleeping Bags for Experience Buff in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383807",
+   "category": "Forever",
+   "published_at": "2026-11-12T15:00:00Z"
+  },
+  {
+   "id": 383818,
+   "title_en": "Catch-Up Mechanics & The Economy in WoW: Forever - But Why Tho? Interview",
+   "url": "https://www.wowhead.com/news=383818",
+   "category": "Forever",
+   "published_at": "2026-11-12T14:00:00Z"
+  },
+  {
    "id": 383851,
    "title_en": "Restoration Druid Change to Wild Growth in WoW: Forever",
    "url": "https://www.wowhead.com/news=383851",
@@ -3610,13 +3631,6 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
