@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T01:23:37Z",
+ "generated": "2026-11-12T06:51:58Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3352,6 +3352,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383851,
+   "title_en": "Restoration Druid Change to Wild Growth in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383851",
+   "category": "Forever",
+   "published_at": "2026-11-12T04:14:59Z"
+  },
   {
    "id": 383848,
    "title_en": "Tailoring Bag Cost and Size Changes - WoW: Forever Hotfixes for November 11th, 2026",
