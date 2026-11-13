@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T16:40:14Z",
+ "generated": "2026-11-13T19:26:27Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3321,6 +3321,34 @@
  ],
  "queue": [
   {
+   "id": 383870,
+   "title_en": "Blizzard Taking Down WoW: Forever Realms in 30 Minutes to Fix Urgent Server Crash",
+   "url": "https://www.wowhead.com/news=383870",
+   "category": "Forever",
+   "published_at": "2026-11-13T18:33:36Z"
+  },
+  {
+   "id": 383869,
+   "title_en": "The WoW: Forever Podcast, a New Short Story, This Week’s Videos, and More! — WoW Weekly",
+   "url": "https://www.wowhead.com/news=383869",
+   "category": "WoW",
+   "published_at": "2026-11-13T18:12:25Z"
+  },
+  {
+   "id": 383868,
+   "title_en": "New Short Story “Cost of Honor” for WoW: Forever",
+   "url": "https://www.wowhead.com/news=383868",
+   "category": "Forever",
+   "published_at": "2026-11-13T18:03:42Z"
+  },
+  {
+   "id": 383857,
+   "title_en": "Might of Stormwind World Buff Returns in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383857",
+   "category": "Forever",
+   "published_at": "2026-11-13T17:00:00Z"
+  },
+  {
    "id": 383864,
    "title_en": "New Trading Post Items Datamined on Patch 12.1.7 PTR - Old Steelseries Promotion Mount Coming",
    "url": "https://www.wowhead.com/news=383864",
@@ -3571,34 +3599,6 @@
    "url": "https://www.wowhead.com/news=383695",
    "category": "Forever",
    "published_at": "2026-11-02T18:25:59Z"
-  },
-  {
-   "id": 383657,
-   "title_en": "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
-   "url": "https://www.wowhead.com/news=383657",
-   "category": "Forever",
-   "published_at": "2026-10-31T18:00:00Z"
-  },
-  {
-   "id": 383648,
-   "title_en": "The WoW: Forever Podcast Episode 6 Now Available - Tech and Community Building",
-   "url": "https://www.wowhead.com/news=383648",
-   "category": "Forever",
-   "published_at": "2026-10-29T16:27:09Z"
-  },
-  {
-   "id": 383630,
-   "title_en": "Planet Azeroth: Episode 1 ft. Bill Bailey",
-   "url": "https://www.wowhead.com/news=383630",
-   "category": "Forever",
-   "published_at": "2026-10-28T16:38:15Z"
-  },
-  {
-   "id": 383603,
-   "title_en": "Myth 2/6 Piece of Loot Now Available from Labyrinths",
-   "url": "https://www.wowhead.com/news=383603",
-   "category": "Live",
-   "published_at": "2026-10-27T22:58:35Z"
   }
  ]
 }
