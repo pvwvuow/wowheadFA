@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T23:00:10Z",
+ "generated": "2026-11-13T23:01:46Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3341,6 +3341,20 @@
  ],
  "queue": [
   {
+   "id": 383874,
+   "title_en": "Blizzard on Encounter Design in Season 3 - Reduced Mechanical Penalties",
+   "url": "https://www.wowhead.com/news=383874",
+   "category": "Live",
+   "published_at": "2026-11-13T21:39:59Z"
+  },
+  {
+   "id": 383873,
+   "title_en": "Skyborne Don't Have Reputation Discount for Mounts in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383873",
+   "category": "Forever",
+   "published_at": "2026-11-13T20:40:55Z"
+  },
+  {
    "id": 383870,
    "title_en": "Blizzard Taking Down WoW: Forever Realms in 30 Minutes to Fix Urgent Server Crash",
    "url": "https://www.wowhead.com/news=383870",
@@ -3605,20 +3619,6 @@
    "url": "https://www.wowhead.com/news=383648",
    "category": "Forever",
    "published_at": "2026-10-29T16:27:09Z"
-  },
-  {
-   "id": 383630,
-   "title_en": "Planet Azeroth: Episode 1 ft. Bill Bailey",
-   "url": "https://www.wowhead.com/news=383630",
-   "category": "Forever",
-   "published_at": "2026-10-28T16:38:15Z"
-  },
-  {
-   "id": 383603,
-   "title_en": "Myth 2/6 Piece of Loot Now Available from Labyrinths",
-   "url": "https://www.wowhead.com/news=383603",
-   "category": "Live",
-   "published_at": "2026-10-27T22:58:35Z"
   }
  ]
 }
