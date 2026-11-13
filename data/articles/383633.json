@@ -5,7 +5,7 @@
  "title_en": "Worldsoul Saga Lore Speculation: Are the Titans Bad for Azeroth?",
  "category": "PTR",
  "published_at": "2026-11-13T14:00:00Z",
- "fetched_at": "2026-11-13T14:14:02Z",
+ "fetched_at": "2026-11-13T15:14:03Z",
  "source_mode": "full",
  "qa_facts": {
   "numbers": [
@@ -563,6 +563,7 @@
    "poison",
    "ponder",
    "positive",
+   "possible",
    "post",
    "potential",
    "powerful",
@@ -583,6 +584,7 @@
    "protection",
    "protectors",
    "prove",
+   "proves",
    "purely",
    "purge",
    "purged",
@@ -667,6 +669,7 @@
    "should",
    "show",
    "showed",
+   "shows",
    "side",
    "similar",
    "simple",
@@ -848,7 +851,7 @@
    "your",
    "zereth"
   ],
-  "chars": 14941
+  "chars": 14989
  },
  "status": "new",
  "images": [
