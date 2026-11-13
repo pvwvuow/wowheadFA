@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T05:47:41Z",
+ "generated": "2026-11-13T15:15:31Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3321,6 +3321,20 @@
  ],
  "queue": [
   {
+   "id": 383859,
+   "title_en": "Secret Disguise Toy Found WoW: Forever",
+   "url": "https://www.wowhead.com/news=383859",
+   "category": "Forever",
+   "published_at": "2026-11-13T15:00:00Z"
+  },
+  {
+   "id": 383633,
+   "title_en": "Worldsoul Saga Lore Speculation: Are the Titans Bad for Azeroth?",
+   "url": "https://www.wowhead.com/news=383633",
+   "category": "PTR",
+   "published_at": "2026-11-13T14:00:00Z"
+  },
+  {
    "id": 383846,
    "title_en": "New Max Level Weekly Quest Rewards Up to 100 Gold in WoW: Forever",
    "url": "https://www.wowhead.com/news=383846",
@@ -3585,20 +3599,6 @@
    "url": "https://www.wowhead.com/news=383573",
    "category": "Forever",
    "published_at": "2026-10-26T15:00:00Z"
-  },
-  {
-   "id": 383570,
-   "title_en": "Den of Nalorakk and Murder Row Bug Fixes - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383570",
-   "category": "Live",
-   "published_at": "2026-10-24T00:23:57Z"
-  },
-  {
-   "id": 383561,
-   "title_en": "This Week's WoW Recap - WoW: Forever, Hallow's End, Fall Savings",
-   "url": "https://www.wowhead.com/news=383561",
-   "category": "WoW",
-   "published_at": "2026-10-23T17:25:01Z"
   }
  ]
 }
