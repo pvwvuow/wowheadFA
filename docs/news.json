@@ -1,8 +1,169 @@
 {
- "generated": "2026-11-13T19:27:44Z",
+ "generated": "2026-11-13T23:00:10Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383846,
+   "slug": "new-max-level-weekly-quest-rewards-up-to-100-gold-in-wow-forever",
+   "title_fa": "کوئست هفتگی جدید لول مکس در WoW: Forever با جایزه تا ۱۰۰ گلد",
+   "lead_fa": "بازیکنانی که در WoW: Forever به لول مکس می‌رسند، می‌توانند با انجام یک کوئست هفتگی جدید تا ۱۰۰ گلد پاداش تصادفی دریافت کنند.",
+   "body_fa": [
+    "در بازی WoW: Forever تغییراتی در اقتصاد گلد ایجاد شده است؛ از جمله غیرفعال شدن تبدیل Experience به گلد، اضافه شدن گلد بیشتر به کوئست‌های لول‌های بالاتر، و افزایش موقت ودیعه Auction House به ۱ سیلور در زمان لانچ. در کنار این موارد، یک کوئست جدید نیز برای بازیکنانی که به لول ۶۰ می‌رسند در دسترس قرار گرفته است.",
+    {
+     "t": "h",
+     "x": "جزئیات کوئست هفتگی در Booty Bay"
+    },
+    "این کوئست هفتگی با نام In Demand - Ancient Elven Curiosities در Booty Bay به بازیکنان لول ۶۰ داده می‌شود. در طول دو هفته‌ای که بازی فعال بوده، مأموریت در هر دو بار یکسان بوده است: جمع‌آوری سه آیتم از سه بخش مختلف دانجن Dire Maul. البته از آنجا که تاکنون فقط دو ریست هفتگی سپری شده، ممکن است این کوئست در آینده تغییر کند.",
+    "پس از پاکسازی هر سه بال Dire Maul و لوت کردن تمام آیتم‌ها، با تحویل دادن کوئست در Booty Bay، یک کیف به نام [[item:Undermine Satchel]] پاداش داده می‌شود. این کیف حاوی مقداری متریال و یک آیتم قابل فروش به وندور است که ارزش گلد دارد.",
+    {
+     "t": "h",
+     "x": "آیتم‌های پاداش و شانس دریافت گلد"
+    },
+    {
+     "t": "table",
+     "head": [
+      "آیتم دریافتی",
+      "قیمت فروش به وندور"
+     ],
+     "rows": [
+      [
+       "Gold Nugget",
+       "۱۰ گلد"
+      ],
+      [
+       "Huge Quartz Gem",
+       "۲۰ گلد"
+      ],
+      [
+       "Silver Necklace",
+       "۴۰ گلد"
+      ],
+      [
+       "Gold Ring",
+       "۱۰۰ گلد"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "x": "آیتم طلای درون کیف کاملاً تصادفی است و بازیکنان باید شانس خود را برای به دست آوردن Gold Ring به ارزش ۱۰۰ گلد امتحان کنند.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "کوئست هفتگی",
+    "گلد",
+    "Dire Maul"
+   ],
+   "items": [],
+   "title_en": "New Max Level Weekly Quest Rewards Up to 100 Gold in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383846",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383846-new-max-level-weekly-quest-rewards-up-to-100-gold-in-wow-forever.html",
+   "published_at": "2026-11-13T01:10:58Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383846/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383846/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383860,
+   "slug": "new-high-level-battle-mage-weapon-discovered-in-wow-forever",
+   "title_fa": "کشف سلاح سطح بالای Battle Mage با نام Wit's Edge در WoW: Forever",
+   "lead_fa": "بازیکنان در WoW: Forever سلاح سطح بالای جدیدی به نام Wit's Edge برای سبک Battle Mage کشف کرده‌اند که امکان اجرای حملات تن‌به‌تن و جادویی را تقویت می‌کند.",
+   "body_fa": [
+    "بازیکنان یک سلاح جدید سطح 60 ویژهٔ Battle Mage به نام [[item:Wit's Edge]] در WoW: Forever پیدا کرده‌اند. Battle Mage سبکی از کلاس Mage است که برای شکست دشمنان هم از اسپل‌ها و هم از حملات Melee بهره می‌برد؛ رویکردی که پیش‌تر در World of Warcraft به دلیل ماهیت سنتی این کلاس به عنوان Ranged DPS چندان پشتیبانی نمی‌شد.",
+    "این سلاح Spell Power و Spell Piercing به همراه دارد، اما ویژگی برجستهٔ آن افکت منحصر‌به‌فرد Wit's End است. طبق این قابلیت، در هر ضربه با سلاح تن‌به‌تن، ۱۵٪ شانس وجود دارد که Mage وضعیت Clearcasting را دریافت کند. این موضوع می‌تواند به چرخش‌های مهارتی جالبی منجر شود که طی آن بازیکنان میان حرکات خود حملات Melee را بگنجانند تا کست‌های رایگان به دست آورند.",
+    {
+     "t": "h",
+     "x": "نحوه دستیابی به سلاح"
+    },
+    "برای ساخت [[item:Wit's Edge]]، باید آیتم [[item:Scroll of Wit]] را روی [[item:Witchblade]] استفاده کرد. ترکیب این دو آیتم یک Sword کاملاً جدید به بازیکن می‌دهد.",
+    {
+     "t": "ul",
+     "xs": [
+      "طبق گزارش کاربر Kissta96 در Reddit، آیتم Scroll of Wit را می‌توان از طریق مهارت Comprehension کلاس Mage روی اسکرول‌های اسکیل سطح 175 کشف کرد.",
+      "آیتم Witchblade از باس Darkmaster Gandling در دانجن Scholomance لوت می‌شود."
+     ]
+    },
+    {
+     "t": "note",
+     "x": "با کشف این سلاح لول 60، سبک Battle Mage ممکن است در لول مکس پتانسیل‌هایی داشته باشد.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "سلاح",
+    "WoW Forever",
+    "Mage",
+    "کشف"
+   ],
+   "items": [],
+   "title_en": "New High Level Battle Mage Weapon Discovered in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383860",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383860-new-high-level-battle-mage-weapon-discovered-in-wow-forever.html",
+   "published_at": "2026-11-12T19:25:01Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383860/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383860/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383851,
+   "slug": "restoration-druid-change-to-wild-growth-in-wow-forever",
+   "title_fa": "تغییرات تلنت Wild Growth برای Restoration Druid در WoW: Forever",
+   "lead_fa": "در قالب یک هاتفیکس، تلنت نهایی Wild Growth برای کلاس Restoration Druid در WoW: Forever دستخوش تغییر شد.",
+   "body_fa": [
+    "بازیکنان Restoration Druid در نسخهٔ WoW: Forever امروز شاهد اعمال تغییراتی روی تلنت شاخص خود یعنی Wild Growth بوده‌اند.",
+    {
+     "t": "h",
+     "x": "جزئیات تغییرات Wild Growth"
+    },
+    "تغییرات اعمال‌شده بر روی این تلنت شامل موارد زیر است:",
+    {
+     "t": "ul",
+     "xs": [
+      "دیگر هنگام حرکت قابل کست کردن نیست.",
+      "ضریب Spell power آن ۱۰۰٪ افزایش یافته و به 0.066 رسیده است (پیش‌تر 0.033 بود)."
+     ]
+    },
+    "دلیل این‌که چرا با عرضهٔ WoW: Forever امکان کست کردن Wild Growth هنگام حرکت وجود داشت مشخص نیست، اما این وضعیت دیگر تغییر کرده است. با این حال، دو برابر شدن بهره‌مندی این اسپل از Spell power احتمالاً به جبران این نرف کمک می‌کند."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "WoW Forever",
+    "Restoration Druid",
+    "تغییرات کلاس‌ها"
+   ],
+   "items": [],
+   "title_en": "Restoration Druid Change to Wild Growth in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383851",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383851-restoration-druid-change-to-wild-growth-in-wow-forever.html",
+   "published_at": "2026-11-12T04:14:59Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383851/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383851/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383835,
    "slug": "dual-spec-costs-50-gold-at-level-40-unlock-secondary-talent-tree",
@@ -40,6 +201,84 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383835/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383825,
+   "slug": "explore-the-drowned-city-new-dungeon-in-wow-forever",
+   "title_fa": "سیاه‌چال جدید Drowned City در WoW: Forever معرفی شد",
+   "lead_fa": "سیاه‌چال Drowned City به عنوان چالشی تازه برای محدودهٔ سطح ۳۷ تا ۴۲ در WoW: Forever در دسترس بازیکنان قرار گرفته است.",
+   "body_fa": [
+    "سیاه‌چال Drowned City یک سیاه‌چال ویژهٔ سطوح ۳۷ تا ۴۲ در WoW: Forever است که در Stranglethorn Vale و سواحل دورافتادهٔ غرب این شبه‌جزیره واقع شده است. این سیاه‌چال از نظر درجهٔ سختی جهش بزرگی نسبت به سیاه‌چال‌های پیشین به شمار می‌رود و نیازمند توجه دقیق بازیکنان به مکانیک‌های مبارزه است.",
+    {
+     "t": "h",
+     "x": "کوئست‌ها و پاداش‌ها"
+    },
+    "در مجموع ۵ کوئست برای هر دو جناح Alliance و Horde وجود دارد. دو مورد از آن‌ها در Booty Bay قرار دارند و خنثی هستند، یک مورد به صورت مستقیم برای هر دو جناح قابل دریافت است و دو مورد دیگر نیازمند انجام زنجیره‌کوئست‌های پیش‌نیاز هستند.",
+    {
+     "t": "ul",
+     "xs": [
+      "کوئست Magics of the Drowned City (که به The Web of Magic ختم می‌شود) در سطح ۳۰ در Hillsbrad Foothills و Southshore از Loremaster Dibbs در مختصات 50.6 و 57.0 شروع می‌شود. پیش‌نیاز آن The Second Rebellion یا Bad Medicine است و تکمیل Troll Witchery پیش‌نیاز نهایی آن محسوب می‌شود.",
+      "کوئست Take Two With Water (که به Findings for the Explorer's League ختم می‌شود) در سطح ۳۰ در Hillsbrad Foothills و Southshore از Loremaster Dibbs در مختصات 50.6 و 57.0 آغاز می‌شود و همان پیش‌نیازهای زنجیرهٔ بالا را دارد.",
+      "کوئست Ancient Gurubashi Secrets در سطح ۳۴ در Alterac Mountains و Dalaran از Archmage Timear در مختصات 15.6 و 73.6 قابل دریافت است.",
+      "کوئست The Drowned City در سطح ۳۰ در Stranglethorn Vale و Grom'Gol از Kin'weelay در مختصات 32.2 و 27.8 شروع می‌شود که پیش‌نیاز آن The Vile Reef است.",
+      "کوئست The Only Good Brinescale... در سطح ۳۰ در Stranglethorn Vale و Grom'Gol از Commander Aggro'gosh در مختصات 32.2 و 28.8 آغاز می‌شود؛ پیش‌نیاز آن The Vile Reef و سپس Enemies in the Water است.",
+      "کوئست Ancient Gurubashi Idol در سطح ۳۰ در Mulgore و Skywatcher Plateau از Mazu'kon در مختصات 32.2 و 27.8 شروع می‌شود.",
+      "کوئست‌های Shady Saltseers و The Saltseer Captain در سطح ۳۴ در Stranglethorn Vale و Booty Bay از Krazek در مختصات 27.0 و 77.2 دریافت می‌شوند."
+     ]
+    },
+    "پاداش‌های شاخص این کوئست‌ها شامل آیتم‌های [[item:Ancient Voodoo Pouch]] و [[item:Intrepid Explorer's Chainmail]] از کوئست Findings for the Explorer's League و آیتم [[item:Saltseer's Helm]] از کوئست Shady Saltseers هستند.",
+    {
+     "t": "h",
+     "x": "باس‌های سیاه‌چال"
+    },
+    "این سیاه‌چال دارای ۶ باس اصلی به همراه باس‌های Rare Spawn شامل Umbra و Gill است:",
+    {
+     "t": "ul",
+     "xs": [
+      "باس Zul'Alai: در سلامت پایین جادوی Undying Oath را اجرا می‌کند و باید باف‌های او را زیر نظر داشت. هیلرها و اعضا باید از محدودهٔ استان‌های او فاصله بگیرند.",
+      "باس Var'Taka: ماب‌های اضافی می‌توانند باس را هیل کنند، بنابراین باید سریع کشته یا کنترل شوند. تانک باید جهت باس را برگرداند تا حملات زاویه‌ای به بقیهٔ اعضا نخورد.",
+      "باس Primeval Elemental: اجرای AoE او باید قطع شود تا سرعت اعضا کاهش نیابد.",
+      "باس Captain Dreadrise: توانایی Embrine باعث غرق شدن یار شما می‌شود و باید به سرعت شکسته شود.",
+      "باس Deathless Marrow: سخت‌ترین مبارزهٔ این سیاه‌چال است. این باس مدام Blood Bolt می‌زند و ماب‌های ترول احضار می‌کند. با مرگ هر ادد، باس دی‌باف دریافت آسیب به میزان ۲۰٪ می‌گیرد.",
+      "باس Min'loth the Serpent: باس باید پشت به گروه نگه داشته شود و وضعیت سلامت او برای تغییر شکل رصد گردد. همچنین اثرات منفی Poison باید سریع پاک‌سازی شوند."
+     ]
+    },
+    {
+     "t": "note",
+     "x": "آیتم ترینکت [[item:Heart of the Primeval]] به عنوان نخستین ترینکت با قابلیت افزایش آسیب به صورت on-use در این بازی از لوت‌های شاخص این سیاه‌چال است.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "دشمنان عادی و خطرات محیطی"
+    },
+    "ماب‌های عادی (Trash) این سیاه‌چال بسیار خطرناک هستند و ناهماهنگی در کنترل جمعیت یا اولویت‌بندی اهداف می‌تواند باعث شکست کامل گروه شود. آسیب Poison در این محیط بسیار بالاست و داشتن کلاسی با قابلیت رفع آن اهمیت دارد.",
+    {
+     "t": "note",
+     "x": "ماب Zin'aka یک کوسهٔ بسیار خطرناک است که باس نیست و هیچ لوتی ندارد؛ رویارویی با آن تقریباً قطعی به وایپ ختم می‌شود و بهتر است کاملاً نادیده گرفته شود.",
+     "kind": "warn"
+    }
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "سیاه چال",
+    "راهنما"
+   ],
+   "items": [],
+   "title_en": "Explore the Drowned City: New Dungeon in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383825",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383825-explore-the-drowned-city-new-dungeon-in-wow-forever.html",
+   "published_at": "2026-11-11T16:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383825/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383825/1.jpg",
      "cap": ""
     }
    ]
@@ -3098,225 +3337,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383747,
-   "slug": "taldramir-the-whispering-wood-revealed-as-wow-forever-legendary",
-   "title_fa": "رونمایی از سلاح لجندری Taldramir, the Whispering Wood برای WoW: Forever",
-   "lead_fa": "شرکت Blizzard با نهایی شدن بیلد جدید، از اسلحه ۲-Handed و لجندری Taldramir, the Whispering Wood برای عنوان WoW: Forever پرده برداشت.",
-   "body_fa": [
-    "پس از گمانه‌زنی‌های متعدد بازیکنان، شرکت Blizzard سرانجام تأیید کرد که اشارات قبلی این شرکت مربوط به معرفی یک سلاح لجندری جدید برای سرورهای WoW: Forever بوده است. با پایان مراحل ساخت بیلد بازی، این آیتم تازه با نام [[item:Taldramir, the Whispering Wood]] به‌صورت رسمی به نمایش درآمد.",
-    {
-     "t": "h",
-     "x": "جزئیات سلاح لجندری جدید"
-    },
-    "این اسلحه جدید یک عصای دو دست (2-Handed Legendary staff) است که تم و جلوه کاملاً مشخصی از کلاس Druid در طراحی آن دیده می‌شود. همچنین بازیکنان می‌توانند تصویر این سلاح را در آرت اصلی Skyborne Key مشاهده کنند.",
-    {
-     "t": "note",
-     "x": "شرکت Blizzard هنوز هیچ‌گونه اطلاعات تکمیلی درباره محدودیت‌های کلاسی برای تجهیز این سلاح یا افکت‌ها و ویژگی‌های مبارزه‌ای آن منتشر نکرده است.",
-     "kind": "info"
-    },
-    {
-     "t": "h",
-     "x": "رویدادها و اخبار روز پیرامون نسخه Forever"
-    },
-    "معرفی این سلاح لجندری هم‌زمان با مجموعه‌ای از اخبار و به‌روزرسانی‌های جدید برای WoW: Forever منتشر شده است که فهرست مهم‌ترین رویدادهای پیرامون آن به شرح زیر است:",
-    {
-     "t": "ul",
-     "xs": [
-      "رسیدن نخستین بازیکنان به لول 60 در WoW: Forever ظرف کمتر از سه روز (14h)",
-      "ثبت رکورد بزرگ‌ترین عرضه تاریخ با شروع به کار WoW: Forever ظرف 13 ساعت اخیر (13h)",
-      "اعمال هاتفیکس‌های متعدد مربوط به کوئست‌ها، دانجن‌ها و کلاس‌ها در تاریخ ۶ نوامبر 2026 (16h)",
-      "اعلام اعمال تغییرات تیونینگ برای رید The Venomous Abyss ظرف 17 ساعت گذشته (17h)",
-      "برنامه‌ریزی برای اعمال تغییرات پت‌ها و تیونینگ کلاسی در تاریخ 10 نوامبر (20h)"
-     ]
-    },
-    {
-     "t": "table",
-     "head": [
-      "موضوع گزارش",
-      "شناسه / زمان انتشار",
-      "نسخه پچ"
-     ],
-     "rows": [
-      [
-       "شماره خبر مرجع معرفی آیتم",
-       "383747",
-       "-"
-      ],
-      [
-       "ثبت نخستین لول مکس سرور",
-       "Level 60",
-       "-"
-      ],
-      [
-       "بررسی بازخورد شمن در پچ جاری",
-       "2026",
-       "Patch 1.60.1"
-      ],
-      [
-       "تعداد کل دیدگاه‌های اولیه در پورتال",
-       "20 از 20",
-       "-"
-      ]
-     ]
-    },
-    "با توجه به تم ظاهری Druid روی عصای Taldramir, the Whispering Wood، جامعه بازیکنان مشتاقانه منتظر انتشار جزئیات کامل‌تر درباره استات‌ها و قابلیت‌های کاربردی این سلاح هستند."
-   ],
-   "tags_fa": [
-    "لجندری",
-    "WoW Forever",
-    "بلیزارد",
-    "Druid"
-   ],
-   "items": [],
-   "title_en": "Taldramir, the Whispering Wood Revealed as WoW: Forever Legendary",
-   "source_url": "https://www.wowhead.com/news=383747",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383747-taldramir-the-whispering-wood-revealed-as-wow-forever-legendary.html",
-   "published_at": "2026-11-04T22:05:13Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383747/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383747/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383744,
-   "slug": "the-questie-addon-is-back-in-wow-forever",
-   "title_fa": "بازگشت ادآن محبوب Questie در World of Warcraft: Forever",
-   "lead_fa": "با نزدیک شدن به زمان عرضه World of Warcraft: Forever، ادآن شناخته‌شده Questie برای تسهیل ماجراجویی و مأموریت‌ها در دسترس بازیکنان قرار گرفته است.",
-   "body_fa": [
-    "با آغاز به کار World of Warcraft: Forever، بخش عمده‌ای از زمان بازیکنان صرف Leveling شخصیت‌ها در Azeroth تغییریافته خواهد شد. در این میان، برخی ترجیح می‌دهند از راهنماهای پیشرفت استفاده کنند و برخی دیگر بدون هیچ ابزار کمکی به سراغ تجربه بازی می‌روند. ادآن Questie گزینه‌ای مناسب برای بازیکنانی است که به دنبال تعادلی میان این دو حالت هستند.",
-    "بازیکنانی که از سال ۲۰۱۹ نسخه Classic را تجربه کرده‌اند، نام Questie را به خوبی می‌شناسند؛ زیرا نسخه پایه بازی فاقد نشانگرهای مأموریتی بود که در Wrath of the Lich King اضافه شدند. در Forever، بازی به صورت پیش‌فرض شامل چنین نشانگرهایی است، اما Questie قابلیت‌های بهبود کیفیت تجربه کاربری را به آن اضافه می‌کند.",
-    {
-     "t": "h",
-     "x": "قابلیت‌های شاخص ادآن"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "نمایش نشانگر مأموریت‌ها روی نقشه برای مواردی که هنوز دریافت نکرده‌اید تا مأموریتی از قلم نیفتد",
-      "نمایش نقاط داده اضافی برای Quest Dropها روی نقشه",
-      "اعلام تکمیل مأموریت‌ها به اعضای Party"
-     ]
-    },
-    {
-     "t": "note",
-     "x": "در نسخه Beta برخی از مأموریت‌ها به درستی توسط سیستم داخلی بازی رهگیری نمی‌شدند و احتمال جا افتادن آن‌ها حتی در چند بار بازی متوالی وجود داشت؛ به همین دلیل Questie می‌تواند برای تجربه کامل محتوا مفید باشد.",
-     "kind": "info"
-    },
-    "این ادآن از طریق وب‌سایت CurseForge یا برنامه‌های مختلف مدیریت ادآن قابل دریافت است."
-   ],
-   "tags_fa": [
-    "ادآن",
-    "World of Warcraft: Forever",
-    "Questie"
-   ],
-   "items": [],
-   "title_en": "The Questie Addon is Back in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383744",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383744-the-questie-addon-is-back-in-wow-forever.html",
-   "published_at": "2026-11-04T21:30:48Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383744/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383744/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383742,
-   "slug": "twitch-teasing-major-reveal-on-warcraft-twitch-stream",
-   "title_fa": "اشاره توییچ به یک رونمایی بزرگ در استریم وارکرفت",
-   "lead_fa": "پلتفرم Twitch در جریان پخش زنده کانال رسمی Warcraft از رونمایی بزرگی خبر داده که به نظر می‌رسد به ساخت فیزیکی یک سلاح مربوط می‌شود.",
-   "body_fa": [
-    "کانال رسمی Warcraft در پلتفرم Twitch بدون اطلاع‌رسانی قبلی و حوالی ساعت 7:30 صبح پخش زنده جدیدی را آغاز کرد. تنها اطلاعاتی که در دسترس بینندگان قرار گرفت، عنوان استریم یعنی Camelot_reveal v2_final.mp4 بود و تصویری از تیمی که مشغول ساخت یک شیء فیزیکی است.",
-    {
-     "t": "quote",
-     "x": "حتماً استریم بسیار ویژه را که هم‌اکنون در warcraft/ در حال پخش است دنبال کنید. چه کسی می‌داند، شاید رونمایی بزرگی در پیش باشد و لحظه‌ای هیجان‌انگیز رقم بخورد که دلتان نمی‌خواهد آن را از دست بدهید!",
-     "by": "Twitch"
-    },
-    {
-     "t": "h",
-     "x": "جزئیات ساخت سلاح در استریم"
-    },
-    "پس از گذشت چند ساعت از آغاز پخش، شیء در حال ساخت فرم مشخصی به خود گرفت. به نظر می‌رسد این سازه یک سلاح است که نشان شاخص Druid در مرکز آن قرار دارد. کمی بعد زاویه جدیدی از این سلاح به تصویر کشیده شد که جزئیات بیشتری را فاش کرد.",
-    "وجود نشان کلس Druid در وسط و شاخه‌های مجزا در انتهای سلاح، شباهت کاملی با طرح مشاهده‌شده در Skyborne Key Art دارد. با توجه به تصاویر، این سازه به شکل یک staff دروید است که بدنه اصلی آن از چوب ساخته شده و در انتهای شاخه‌های آن برگ روییده است؛ ضمن اینکه نشان نمادین دروید در میانه بخش انتهایی آن دیده می‌شود.",
-    {
-     "t": "note",
-     "x": "پست وبلاگی Twitch همزمان با پوشش عرضه WoW: Forever منتشر شد و به بینندگان پیشنهاد داد برای این رونمایی استریم را دنبال کنند. شناسه خبر در پایگاه داده Wowhead برابر 383742 و تاریخ انتشار آن ۴ نوامبر 2026 است. در فهرست اخبار مرتبط اخیر سایت نیز تغییراتی نظیر تنظیم XP دانجن‌ها روی ۶۰٪ معادل Classic Era، کوئست‌های لول 20 تا 30، سطح 60 و پچ 1.60.1 به چشم می‌خورد که مواردی مربوط به ۱۰، 11، 12، 14 و 17 نوامبر 2026 هستند.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "وارکرفت",
-    "استریم",
-    "توییچ",
-    "Forever"
-   ],
-   "items": [],
-   "title_en": "Twitch Teasing \"Major Reveal\" on Warcraft Twitch Stream",
-   "source_url": "https://www.wowhead.com/news=383742",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383742-twitch-teasing-major-reveal-on-warcraft-twitch-stream.html",
-   "published_at": "2026-11-04T20:22:35Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383742/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383742/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383740,
-   "slug": "new-alliance-and-horde-twitch-chat-badges-for-subs-to-wow-streamers",
-   "title_fa": "نشان‌های چت توییچ برای Alliance و Horde با ساب به استریمرهای WoW",
-   "lead_fa": "هم‌زمان با آغاز نوامبر، بینندگان توییچ می‌توانند با ساب یا هدیه دادن ساب به استریمرهای World of Warcraft، نشان‌های جدید Alliance و Horde را برای چت دریافت کنند.",
-   "body_fa": [
-    "با راه‌اندازی World of Warcraft: Forever در تاریخ ۴ نوامبر ۲۰۲۶ (بر اساس خبر شمارهٔ 383740 در دورهٔ Patch 12.1.5)، نشان‌های چت جدیدی برای نمایش Faction Pride در پلتفرم Twitch در دسترس قرار گرفته است.",
-    {
-     "t": "h",
-     "x": "نحوهٔ دریافت و مهلت رویداد"
-    },
-    "بینندگان می‌توانند در طول ماه November با ساب زدن یا هدیه دادن ساب (gift a sub) به استریمر محبوب خود در بازی WoW این نشان‌ها را آزاد کنند. فرصت دریافت این پاداش تا پایان ماه و نیمه‌شب ۳۰ نوامبر (11/30) تعیین شده است.",
-    {
-     "t": "note",
-     "x": "این رویداد هم‌زمان با لانچ WoW Forever فعال شده و برای ثبت آن باید تا انتهای ۳۰ نوامبر اقدام کنید. نظرات پیرامون استریم از سال 2019 تاکنون و در میان ۱۳ دیدگاه ثبت‌شده کاربران نیز بازتاب داشته و در کنار اخباری نظیر تغییرات کوئست‌های لول 60 و تیونینگ ۱۰ نوامبر مطرح شده است.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "توییچ",
-    "World of Warcraft",
-    "پاداش"
-   ],
-   "items": [],
-   "title_en": "New Alliance and Horde Twitch Chat Badges for Subs to WoW Streamers",
-   "source_url": "https://www.wowhead.com/news=383740",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383740-new-alliance-and-horde-twitch-chat-badges-for-subs-to-wow-streamers.html",
-   "published_at": "2026-11-04T19:12:22Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383740/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383740/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3370,13 +3390,6 @@
    "published_at": "2026-11-13T14:00:00Z"
   },
   {
-   "id": 383846,
-   "title_en": "New Max Level Weekly Quest Rewards Up to 100 Gold in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383846",
-   "category": "Forever",
-   "published_at": "2026-11-13T01:10:58Z"
-  },
-  {
    "id": 383863,
    "title_en": "New Brutal Armor Transmog Sets Datamined in Patch 12.1.7",
    "url": "https://www.wowhead.com/news=383863",
@@ -3396,13 +3409,6 @@
    "url": "https://www.wowhead.com/news=383855",
    "category": "Forever",
    "published_at": "2026-11-12T22:02:00Z"
-  },
-  {
-   "id": 383860,
-   "title_en": "New High Level Battle Mage Weapon Discovered in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383860",
-   "category": "Forever",
-   "published_at": "2026-11-12T19:25:01Z"
   },
   {
    "id": 383858,
@@ -3447,13 +3453,6 @@
    "published_at": "2026-11-12T14:00:00Z"
   },
   {
-   "id": 383851,
-   "title_en": "Restoration Druid Change to Wild Growth in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383851",
-   "category": "Forever",
-   "published_at": "2026-11-12T04:14:59Z"
-  },
-  {
    "id": 383848,
    "title_en": "Tailoring Bag Cost and Size Changes - WoW: Forever Hotfixes for November 11th, 2026",
    "url": "https://www.wowhead.com/news=383848",
@@ -3466,13 +3465,6 @@
    "url": "https://www.wowhead.com/news=383843",
    "category": "Forever",
    "published_at": "2026-11-11T19:42:15Z"
-  },
-  {
-   "id": 383825,
-   "title_en": "Explore the Drowned City: New Dungeon in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383825",
-   "category": "Forever",
-   "published_at": "2026-11-11T16:00:00Z"
   },
   {
    "id": 383829,
@@ -3599,6 +3591,34 @@
    "url": "https://www.wowhead.com/news=383695",
    "category": "Forever",
    "published_at": "2026-11-02T18:25:59Z"
+  },
+  {
+   "id": 383657,
+   "title_en": "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
+   "url": "https://www.wowhead.com/news=383657",
+   "category": "Forever",
+   "published_at": "2026-10-31T18:00:00Z"
+  },
+  {
+   "id": 383648,
+   "title_en": "The WoW: Forever Podcast Episode 6 Now Available - Tech and Community Building",
+   "url": "https://www.wowhead.com/news=383648",
+   "category": "Forever",
+   "published_at": "2026-10-29T16:27:09Z"
+  },
+  {
+   "id": 383630,
+   "title_en": "Planet Azeroth: Episode 1 ft. Bill Bailey",
+   "url": "https://www.wowhead.com/news=383630",
+   "category": "Forever",
+   "published_at": "2026-10-28T16:38:15Z"
+  },
+  {
+   "id": 383603,
+   "title_en": "Myth 2/6 Piece of Loot Now Available from Labyrinths",
+   "url": "https://www.wowhead.com/news=383603",
+   "category": "Live",
+   "published_at": "2026-10-27T22:58:35Z"
   }
  ]
 }

@@ -131,12 +131,48 @@
   ],
   "chars": 1057
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383860/1.png",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383860/1.png"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383860/1.png",
+ "article_fa": {
+  "title_fa": "کشف سلاح سطح بالای Battle Mage با نام Wit's Edge در WoW: Forever",
+  "lead_fa": "بازیکنان در WoW: Forever سلاح سطح بالای جدیدی به نام Wit's Edge برای سبک Battle Mage کشف کرده‌اند که امکان اجرای حملات تن‌به‌تن و جادویی را تقویت می‌کند.",
+  "body_fa": [
+   "بازیکنان یک سلاح جدید سطح 60 ویژهٔ Battle Mage به نام [[item:Wit's Edge]] در WoW: Forever پیدا کرده‌اند. Battle Mage سبکی از کلاس Mage است که برای شکست دشمنان هم از اسپل‌ها و هم از حملات Melee بهره می‌برد؛ رویکردی که پیش‌تر در World of Warcraft به دلیل ماهیت سنتی این کلاس به عنوان Ranged DPS چندان پشتیبانی نمی‌شد.",
+   "این سلاح Spell Power و Spell Piercing به همراه دارد، اما ویژگی برجستهٔ آن افکت منحصر‌به‌فرد Wit's End است. طبق این قابلیت، در هر ضربه با سلاح تن‌به‌تن، ۱۵٪ شانس وجود دارد که Mage وضعیت Clearcasting را دریافت کند. این موضوع می‌تواند به چرخش‌های مهارتی جالبی منجر شود که طی آن بازیکنان میان حرکات خود حملات Melee را بگنجانند تا کست‌های رایگان به دست آورند.",
+   {
+    "t": "h",
+    "x": "نحوه دستیابی به سلاح"
+   },
+   "برای ساخت [[item:Wit's Edge]]، باید آیتم [[item:Scroll of Wit]] را روی [[item:Witchblade]] استفاده کرد. ترکیب این دو آیتم یک Sword کاملاً جدید به بازیکن می‌دهد.",
+   {
+    "t": "ul",
+    "xs": [
+     "طبق گزارش کاربر Kissta96 در Reddit، آیتم Scroll of Wit را می‌توان از طریق مهارت Comprehension کلاس Mage روی اسکرول‌های اسکیل سطح 175 کشف کرد.",
+     "آیتم Witchblade از باس Darkmaster Gandling در دانجن Scholomance لوت می‌شود."
+    ]
+   },
+   {
+    "t": "note",
+    "x": "با کشف این سلاح لول 60، سبک Battle Mage ممکن است در لول مکس پتانسیل‌هایی داشته باشد.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "سلاح",
+   "WoW Forever",
+   "Mage",
+   "کشف"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-13T22:38:22Z"
+ }
 }
