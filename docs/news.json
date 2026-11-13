@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T14:53:29Z",
+ "generated": "2026-11-13T16:39:01Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3321,6 +3321,20 @@
  ],
  "queue": [
   {
+   "id": 383864,
+   "title_en": "New Trading Post Items Datamined on Patch 12.1.7 PTR - Old Steelseries Promotion Mount Coming",
+   "url": "https://www.wowhead.com/news=383864",
+   "category": "PTR",
+   "published_at": "2026-11-13T16:00:35Z"
+  },
+  {
+   "id": 383859,
+   "title_en": "Secret Disguise Toy Found WoW: Forever",
+   "url": "https://www.wowhead.com/news=383859",
+   "category": "Forever",
+   "published_at": "2026-11-13T15:00:00Z"
+  },
+  {
    "id": 383633,
    "title_en": "Worldsoul Saga Lore Speculation: Are the Titans Bad for Azeroth?",
    "url": "https://www.wowhead.com/news=383633",
@@ -3585,20 +3599,6 @@
    "url": "https://www.wowhead.com/news=383603",
    "category": "Live",
    "published_at": "2026-10-27T22:58:35Z"
-  },
-  {
-   "id": 383573,
-   "title_en": "Blizzard Hints The WoW: Forever Podcast Will Continue",
-   "url": "https://www.wowhead.com/news=383573",
-   "category": "Forever",
-   "published_at": "2026-10-26T15:00:00Z"
-  },
-  {
-   "id": 383570,
-   "title_en": "Den of Nalorakk and Murder Row Bug Fixes - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383570",
-   "category": "Live",
-   "published_at": "2026-10-24T00:23:57Z"
   }
  ]
 }
