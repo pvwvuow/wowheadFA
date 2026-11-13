@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T19:27:44Z",
+ "generated": "2026-11-13T22:11:53Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3321,6 +3321,20 @@
  ],
  "queue": [
   {
+   "id": 383874,
+   "title_en": "Blizzard on Encounter Design in Season 3 - Reduced Mechanical Penalties",
+   "url": "https://www.wowhead.com/news=383874",
+   "category": "Live",
+   "published_at": "2026-11-13T21:39:59Z"
+  },
+  {
+   "id": 383873,
+   "title_en": "Skyborne Don't Have Reputation Discount for Mounts in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383873",
+   "category": "Forever",
+   "published_at": "2026-11-13T20:40:55Z"
+  },
+  {
    "id": 383870,
    "title_en": "Blizzard Taking Down WoW: Forever Realms in 30 Minutes to Fix Urgent Server Crash",
    "url": "https://www.wowhead.com/news=383870",
@@ -3585,20 +3599,6 @@
    "url": "https://www.wowhead.com/news=383702",
    "category": "Forever",
    "published_at": "2026-11-03T01:33:01Z"
-  },
-  {
-   "id": 383698,
-   "title_en": "Planet Azeroth with Bill Bailey: Plaguelands, Winterspring, and More",
-   "url": "https://www.wowhead.com/news=383698",
-   "category": "Forever",
-   "published_at": "2026-11-03T00:05:25Z"
-  },
-  {
-   "id": 383695,
-   "title_en": "Long Maintenance Planned Ahead of WoW: Forever Launch",
-   "url": "https://www.wowhead.com/news=383695",
-   "category": "Forever",
-   "published_at": "2026-11-02T18:25:59Z"
   }
  ]
 }
