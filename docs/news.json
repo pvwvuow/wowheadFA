@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T05:23:39Z",
+ "generated": "2026-11-14T05:24:37Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3376,6 +3376,20 @@
  ],
  "queue": [
   {
+   "id": 383876,
+   "title_en": "Many Fixes to Dungeons, Quests, Enemies and Classes - WoW: Forever Hotfixes for November 13, 2026",
+   "url": "https://www.wowhead.com/news=383876",
+   "category": "Forever",
+   "published_at": "2026-11-14T01:59:35Z"
+  },
+  {
+   "id": 383875,
+   "title_en": "Blizzard Refunding Gold for Players Who Purchased Skills During Monday Server Issues",
+   "url": "https://www.wowhead.com/news=383875",
+   "category": "Forever",
+   "published_at": "2026-11-14T01:53:22Z"
+  },
+  {
    "id": 383869,
    "title_en": "The WoW: Forever Podcast, a New Short Story, This Week’s Videos, and More! — WoW Weekly",
    "url": "https://www.wowhead.com/news=383869",
@@ -3640,20 +3654,6 @@
    "url": "https://www.wowhead.com/news=383630",
    "category": "Forever",
    "published_at": "2026-10-28T16:38:15Z"
-  },
-  {
-   "id": 383603,
-   "title_en": "Myth 2/6 Piece of Loot Now Available from Labyrinths",
-   "url": "https://www.wowhead.com/news=383603",
-   "category": "Live",
-   "published_at": "2026-10-27T22:58:35Z"
-  },
-  {
-   "id": 383573,
-   "title_en": "Blizzard Hints The WoW: Forever Podcast Will Continue",
-   "url": "https://www.wowhead.com/news=383573",
-   "category": "Forever",
-   "published_at": "2026-10-26T15:00:00Z"
   }
  ]
 }
