@@ -79,12 +79,35 @@
   ],
   "chars": 644
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383857/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383857/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383857/1.jpg",
+ "article_fa": {
+  "title_fa": "بازگشت ورلد باف Might of Stormwind به WoW: Forever",
+  "lead_fa": "ورلد باف Might of Stormwind که نخستین‌بار در Season of Discovery معرفی شده بود، اکنون در WoW: Forever برای بازیکنان Alliance بازگشته است.",
+  "body_fa": [
+   "باف Might of Stormwind در ابتدا طی Season of Discovery در دسترس قرار گرفت تا معادلی دقیق و 1:1 برای باف Warchief's Blessing فکشن Horde باشد؛ چرا که پیش از Season of Discovery، تنها فکشن Horde به این ورلد باف با ویژگی‌های Haste و Health دسترسی داشت.",
+   "مشابه روندی که بازیکنان Horde برای دریافت باف خود طی می‌کنند، بازیکنان Alliance نیز باید کوئست End of the Dark Horde را از طریق لوت کردن آیتم Head of Rend Blackhand از باس Warchief Rend Blackhand در دانجن Upper Blackrock Spire به پایان برسانند.",
+   {
+    "t": "note",
+    "x": "ورلد باف‌ها در WoW: Forever صرفاً در دنیای آزاد (open world) و دانجن‌ها قابل دسترسی هستند و در محیط ریدها (raid instances) کارایی ندارند.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "ورلد باف",
+   "Alliance",
+   "WoW Forever"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-14T07:28:59Z"
+ }
 }

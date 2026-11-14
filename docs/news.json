@@ -1,8 +1,125 @@
 {
- "generated": "2026-11-14T05:24:37Z",
+ "generated": "2026-11-14T07:35:40Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383876,
+   "slug": "many-fixes-to-dungeons-quests-enemies-and-classes-wow-forever-hotfixes",
+   "title_fa": "هاتفیکس‌های ۱۳ نوامبر ۲۰۲۶ برای WoW: Forever منتشر شد",
+   "lead_fa": "بلیزارد مجموعه‌ای از هاتفیکس‌های جدید را برای رفع باگ‌های کلاس‌ها، دانجن‌ها، کوئست‌ها و آیتم‌ها در WoW: Forever اعمال کرد.",
+   "body_fa": [
+    "به‌روزرسانی تازهٔ سرورهای WoW: Forever در تاریخ ۱۳ نوامبر ۲۰۲۶ روی سرورها قرار گرفت. این پچ شامل برطرف‌سازی باگ‌های مکانیک Diminishing Returns، تغییراتی در دانجن‌ها و ماب‌ها، اصلاح آمار آیتم‌ها و افزایش تعداد برندگان رویداد ماهی‌گیری است.",
+    {
+     "t": "h",
+     "x": "تغییرات و رفع باگ کلاس‌ها"
+    },
+    "در بخش عمومی کلاس‌ها، باگی که مانع اعمال Diminishing Returns روی Stun موجودات علیه بازیکنان و همچنین Stun بازیکنان علیه موجودات می‌شد برطرف شده است. در رابط کاربری نیز مشکل ریست شدن تنظیمات Action Bar هنگام خروج بازیکنان دارای Secondary Talents رفع شد.",
+    {
+     "t": "ul",
+     "xs": [
+      "کلاس Druid در شاخه Restoration: رفع باگ امکان کست Wild Growth حین حرکت؛ ضریب اسپل هیلینگ Wild Growth از 3.3% به 6.6% افزایش یافت.",
+      "کلاس Mage: اثر Frost Nova اکنون به درستی با دمیج ناشی از Procها و دمیج Blizzard شکسته می‌شود.",
+      "کلاس Paladin: قابلیت Judgement of Command اکنون افکت‌های On-hit را فعال می‌کند و حمله Melee محسوب می‌شود.",
+      "کلاس Priest: پرک The Quick and the Dead از بخش Legacy اکنون هزینه مانای Divine Spirit را به درستی کاهش می‌دهد.",
+      "کلاس Shaman: توتم Windfury Totem اکنون با تمام قابلیت‌های Melee فعال می‌شود، حتی اگر سلاح Main-hand درگیر نباشد.",
+      "کلاس Warlock: رنک یک اسپل Siphon Life دیگر در وضعیت Silenced قابل کست نیست.",
+      "کلاس Warrior: قابلیت Berserker Rage اکنون اثر Sap را پاک می‌کند."
+     ]
+    },
+    {
+     "t": "quote",
+     "x": "سایر Judgementها همچنان حمله Ranged محسوب می‌شوند تا ویژگی خاص Command حفظ شود. در این بازی برخلاف حالت اصلی، همه Sealهای دیگر حمله Ranged به شمار می‌آیند. همچنین ضربات ناشی از سلاح Off-hand در اسپل‌هایی مثل Whirlwind یا Mutilate شانسی برای فعال‌سازی Windfury ندارند، اما ضربه Main-hand همچنان این شانس را دارد.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "h",
+     "x": "تغییرات دانجن‌ها و جهان بازی"
+    },
+    "کشتن ماب‌ها در دانجن در صورتی که لول دشمن نسبت به لول یک یا چند نفر از اعضای گروه Trivial باشد، هیچ Experienceی به هیچ‌کدام از اعضا نمی‌دهد. در The Deadmines خروج Sneed هنگام استن شدن Sneed's Shredder در صفر درصد هلث اصلاح شد. زمان ریسپاون ماب‌های غیرباس در The Drowned City از ۱ ساعت به ۲ ساعت تغییر یافت و شکست Balnazzar در Stratholme برای چالش Legacy با نام Master Spelunker محاسبه می‌شود.",
+    {
+     "t": "ul",
+     "xs": [
+      "کاهش ریسپاون Techbot برای کوئست Save Techbot's Brain! در Gnomeregan",
+      "افزایش سرعت ریسپاون Lesser Rock Elemental در Badlands و ببر، پنتر و رپتور در Stranglethorn Vale",
+      "کاهش نرخ اسپاون و پرخاشگری Quillboar و Venture Co. در منطقه آغازین Mulgore",
+      "حذف لوت از نگهبانان Nethergarde Keep در Blasted Lands و یکسان‌سازی رفتار آن‌ها با سایر گاردها"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "آیتم‌ها و مسابقه ماهی‌گیری"
+    },
+    "توضیحات و رفتار [[item:Gloves of Holy Might]] اصلاح شد و تنها با اسپل‌ها و ابیلیتی‌های آسیب‌رسان فعال می‌شود. نیازمندی Mail برای تبلت [[item:Glimmering Mithril Insignia]] برداشته شد، سلاح [[item:Taran Icebreaker]] به پتک دو‌دست تبدیل شد، تکسچر [[item:Cloak of the Fleshborer]] اضافه گردید و استت آیتم‌های مختلفی نظیر دسته‌های انگشتر Darkspear، آیتم [[item:Everstaring Abomination Eye]]، کلاه [[item:The Bad Hat]] و [[item:The Souvenir Sea Shell]] تصحیح شد.",
+    {
+     "t": "note",
+     "x": "آمار Hit از روی [[item:Blessed Band of Light]] حذف شده و [[item:Channeler's Ring]] به جای Spirit دارای اسپل پاور است. بازیکنان می‌توانند تا زمان بازگشایی ریدها، این دو حلقه را نزد وندور Pix Xizzix با یکدیگر معاوضه کنند؛ این تغییر غیرقابل بازگشت است.",
+     "kind": "info"
+    },
+    "در مسابقه هفتگی Stranglethorn Fishing Extravaganza نیز ظرفیت برندگان به ازای هر رول‌ست به‌طور چشمگیری افزایش یافته است تا بازیکنان بیشتری شانس پیروزی داشته باشند."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "WoW Forever",
+    "کلاس‌ها",
+    "دانجن"
+   ],
+   "items": [],
+   "title_en": "Many Fixes to Dungeons, Quests, Enemies and Classes - WoW: Forever Hotfixes for November 13, 2026",
+   "source_url": "https://www.wowhead.com/news=383876",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383876-many-fixes-to-dungeons-quests-enemies-and-classes-wow-forever-hotfixes.html",
+   "published_at": "2026-11-14T01:59:35Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383876/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383876/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383875,
+   "slug": "blizzard-refunding-gold-for-players-who-purchased-skills-during-monday",
+   "title_fa": "بازگرداندن گلد مهارت‌های خریداری‌شده در جریان مشکلات سرور WoW: Forever",
+   "lead_fa": "شرکت Blizzard هزینه گلد مهارت‌هایی را که بازیکنان در جریان اختلالات روز دوشنبه سرورهای WoW: Forever خریداری کرده و از دست داده بودند، از طریق صندوق پستی درون بازی بازگرداند.",
+   "body_fa": [
+    "در روزهای آغازین هفته، Blizzard به دلیل بروز برخی اختلالات ناچار شد سرورها را از دسترس خارج کند. در این بازه زمانی، بازیکنان برخی از خریدهای خود از جمله تعدادی از مهارت‌ها و Shaman Totems را از دست دادند و به نظر می‌رسد این شرکت در حال رفع این مشکلات است.",
+    "بر اساس اعلام رسمی، این بازپرداخت مشخصاً به خریدهایی اختصاص دارد که در یک بازه زمانی معین در روز دوشنبه انجام گرفته و با قطعی مواجه شده بودند.",
+    {
+     "t": "quote",
+     "x": "با ارسال نامه درون بازی برای تمامی بازیکنان تحت تأثیر، ما هزینه خرید مهارت‌هایی را که در روز دوشنبه ۹ نوامبر بین ساعت 1:17 بعدازظهر PST تا 2:17 بعدازظهر PST (ساعت 8:17 تا 9:17 صبح روز 10 نوامبر به وقت AEDT) انجام شده بود، بازگرداندیم؛ زمانی که سرورهای WoW: Forever دچار مشکلاتی شدند که باعث شد برخی بازیکنان آموزش‌های خریداری‌شده خود را از دست بدهند. اگر در این بازه زمانی تحت تأثیر این مشکل قرار گرفته‌اید، صندوق پستی درون بازی خود را برای دریافت گلد معادل هزینه آموزش‌هایی که خریده و از دست داده‌اید، بررسی کنید. از صبر و درک شما بسیار سپاسگزاریم.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "note",
+     "x": "چنانچه در محدوده زمانی ذکرشده در سرورهای WoW: Forever مهارتی خریده‌اید اما آن را از دست داده‌اید، گلد مربوطه به صندوق پستی درون بازی شما ارسال شده است.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "بلیزارد",
+    "WoW Forever",
+    "مشکلات سرور"
+   ],
+   "items": [],
+   "title_en": "Blizzard Refunding Gold for Players Who Purchased Skills During Monday Server Issues",
+   "source_url": "https://www.wowhead.com/news=383875",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383875-blizzard-refunding-gold-for-players-who-purchased-skills-during-monday.html",
+   "published_at": "2026-11-14T01:53:22Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383875/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383875/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383849,
    "slug": "riverglades-is-one-of-the-best-leveling-zones-in-wow-forever",
@@ -209,6 +326,210 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383870/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383857,
+   "slug": "might-of-stormwind-world-buff-returns-in-wow-forever",
+   "title_fa": "بازگشت ورلد باف Might of Stormwind به WoW: Forever",
+   "lead_fa": "ورلد باف Might of Stormwind که نخستین‌بار در Season of Discovery معرفی شده بود، اکنون در WoW: Forever برای بازیکنان Alliance بازگشته است.",
+   "body_fa": [
+    "باف Might of Stormwind در ابتدا طی Season of Discovery در دسترس قرار گرفت تا معادلی دقیق و 1:1 برای باف Warchief's Blessing فکشن Horde باشد؛ چرا که پیش از Season of Discovery، تنها فکشن Horde به این ورلد باف با ویژگی‌های Haste و Health دسترسی داشت.",
+    "مشابه روندی که بازیکنان Horde برای دریافت باف خود طی می‌کنند، بازیکنان Alliance نیز باید کوئست End of the Dark Horde را از طریق لوت کردن آیتم Head of Rend Blackhand از باس Warchief Rend Blackhand در دانجن Upper Blackrock Spire به پایان برسانند.",
+    {
+     "t": "note",
+     "x": "ورلد باف‌ها در WoW: Forever صرفاً در دنیای آزاد (open world) و دانجن‌ها قابل دسترسی هستند و در محیط ریدها (raid instances) کارایی ندارند.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "ورلد باف",
+    "Alliance",
+    "WoW Forever"
+   ],
+   "items": [],
+   "title_en": "Might of Stormwind World Buff Returns in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383857",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383857-might-of-stormwind-world-buff-returns-in-wow-forever.html",
+   "published_at": "2026-11-13T17:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383857/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383857/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383864,
+   "slug": "new-trading-post-items-datamined-on-patch-12-1-7-ptr-old-steelseries-p",
+   "title_fa": "دیتاماین آیتم‌های جدید Trading Post در پچ 12.1.7 PTR",
+   "lead_fa": "در جدیدترین بیلد سرور آزمایشی پچ 12.1.7، آیتم‌های تازه‌ای برای Trading Post دیتاماین شده‌اند که شامل مانت‌های جدید و ست‌های ترنسموگ هستند.",
+   "body_fa": [
+    "دیتاماین‌های اخیر روی پچ 12.1.7 PTR از اضافه شدن آیتم‌های متعدد به Trading Post خبر می‌دهند. در میان این موارد، ۳ مانت جدید به چشم می‌خورد که یکی از آن‌ها [[item:Savage Ebony Battle Turtle]] مربوط به پروموشن شرکت Steelseries در آگوست ۲۰۲۴ است.",
+    {
+     "t": "h",
+     "x": "مانت‌های جدید دیتاماین‌شده"
+    },
+    {
+     "t": "table",
+     "head": [
+      "نام مانت",
+      "هزینه (Trader's Tender)"
+     ],
+     "rows": [
+      [
+       "Goldrinn Shrine Defender",
+       "۶۰۰"
+      ],
+      [
+       "Winterspring Frostsaber",
+       "۶۰۰"
+      ],
+      [
+       "Savage Ebony Battle Turtle",
+       "۵۰۰"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "ست‌ها و سلاح‌های Brutal"
+    },
+    "دو اینسمبل جدید با نام‌های [[item:Ensemble: Brutal Iron Armor]] و [[item:Ensemble: Brutal Steel Armor]] هر کدام با قیمت ۷۰۰ عدد Trader's Tender برای ترنسموگ زره در دسترس خواهند بود. علاوه بر این ست‌ها، مجموعه‌ای از تجهیزات و سلاح‌های Brutal شامل موارد زیر هر یک به قیمت ۱۵۰ عدد Trader's Tender فهرست شده‌اند:",
+    {
+     "t": "ul",
+     "xs": [
+      "سلاح‌های Brutal Steel Greataxe و Brutal Iron Greataxe",
+      "تبرهای Brutal Steel Axe و Brutal Iron Axe",
+      "چوب‌دست‌های Brutal Steel Staff و Brutal Iron Staff",
+      "سلاح‌های Brutal Steel Polearm و Brutal Iron Polearm",
+      "سپرهای Brutal Iron Bulwark و Brutal Steel Bulwark",
+      "آیتم‌های پشت Brutal Steel Backpack و Brutal Iron Backpack"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "سایر سلاح‌ها و پوشش‌های ترنسموگ"
+    },
+    "علاوه بر اقلام یادشده، چند سلاح انفرادی شامل Crude Ogre Cleaver و Inevitable Doom و The Temple's Dark Bow نیز وجود دارند که هرکدام با قیمت ۱۲۰ عدد Trader's Tender عرضه می‌شوند.",
+    "قطعات پوششی دیگری با تِم Crimson و موارد دیگر نیز در این فهرست قرار دارند؛ از جمله [[item:Rusty Chainkini]] با قیمت ۱۰۰ تندر، Crimson Gloomcap و Crown of Crimson Springflowers و Gunslinger's Crimson Lid هر یک به قیمت ۵۰ تندر، Bandit's Crimson Highboot به قیمت ۴۰ تندر، Crimson Dunecloth Vest و Crimson Dunecloth Skirt هر یک به قیمت ۳۵ تندر و Crimson Dunecloth Belt با هزینهٔ ۳۰ تندر."
+   ],
+   "tags_fa": [
+    "دیتاماین",
+    "Trading Post",
+    "پچ 12.1.7",
+    "PTR"
+   ],
+   "items": [
+    {
+     "item": {
+      "name": "Other Trading Post Items 12.1.7",
+      "rows": [
+       [
+        "NEW Ensemble",
+        "Brutal Iron Armor Ensemble: Brutal Iron Armor"
+       ],
+       [
+        "دسته",
+        "Transmog Sets"
+       ],
+       [
+        "قیمت",
+        "700 Trader's Tender"
+       ]
+      ],
+      "spec": [],
+      "quality": ""
+     }
+    },
+    {
+     "item": {
+      "name": "NEW Brutal Iron Backpack Brutal Iron Backpack",
+      "rows": [
+       [
+        "دسته",
+        "Transmog"
+       ],
+       [
+        "قیمت",
+        "150 Trader's Tender"
+       ],
+       [
+        "NEW Ensemble",
+        "Brutal Steel Armor Ensemble: Brutal Steel Armor"
+       ],
+       [
+        "دسته",
+        "Transmog Sets"
+       ],
+       [
+        "قیمت",
+        "700 Trader's Tender"
+       ]
+      ],
+      "spec": [],
+      "quality": ""
+     }
+    }
+   ],
+   "title_en": "New Trading Post Items Datamined on Patch 12.1.7 PTR - Old Steelseries Promotion Mount Coming",
+   "source_url": "https://www.wowhead.com/news=383864",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383864-new-trading-post-items-datamined-on-patch-12-1-7-ptr-old-steelseries-p.html",
+   "published_at": "2026-11-13T16:00:35Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383864/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383864/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383859,
+   "slug": "secret-disguise-toy-found-wow-forever",
+   "title_fa": "کشف اسباب‌بازی مخفی Alcaz Operative Insignia در WoW: Forever",
+   "lead_fa": "جامعهٔ مخفی‌یاب‌های بازی یک اسباب‌بازی استتار مخفی جدید را در سیاه‌چال جدید Alcaz Prison کشف کرده‌اند که از طریق زنجیره‌کوئست خاصی به دست می‌آید.",
+   "body_fa": [
+    "یک اسباب‌بازی مخفی تازه با عنوان [[item:Alcaz Operative Insignia]] در WoW Forever پیدا شده است که مسیر دریافت آن از دانجن جدید Alcaz Prison آغاز می‌شود. تمام اطلاعات مربوط به این راز توسط The WoW Secret Finding Discord کشف و به اشتراک گذاشته شده است.",
+    {
+     "t": "h",
+     "x": "نحوه به دست آوردن Alcaz Operative Insignia"
+    },
+    "برای آغاز این زنجیره، بازیکنان باید وارد دانجن Alcaz Prison شوند و آن را پاک‌سازی کنند؛ اما در حین انجام این کار رعایت یک نکته ضروری است:",
+    {
+     "t": "note",
+     "x": "در حین پاک‌سازی دانجن نباید باس اول یعنی The Questioner کشته شود، زیرا برای کوئست The Man in the Iron Chains که در انتهای دانجن دریافت می‌کنید به او نیاز خواهید داشت.",
+     "kind": "warn"
+    },
+    "پس از دریافت کوئست، بازیکنان باید به Moonbrook در Westfall سفر کنند. در مرحلهٔ بعد، بازیکنان Alliance به Stormwind و بازیکنان Horde به Booty Bay می‌روند تا آیتم [[item:Fractured Insignia]] را دریافت کنند.",
+    "با ترکیب کردن ۶ عدد از این آیتم، اسباب‌بازی [[item:Alcaz Operative Insignia]] به بازیکن داده خواهد شد."
+   ],
+   "tags_fa": [
+    "رازها",
+    "WoW Forever",
+    "اسباب‌بازی"
+   ],
+   "items": [],
+   "title_en": "Secret Disguise Toy Found WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383859",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383859-secret-disguise-toy-found-wow-forever.html",
+   "published_at": "2026-11-13T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383859/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383859/1.jpg",
      "cap": ""
     }
    ]
@@ -3122,273 +3443,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383746,
-   "slug": "mythic-venomous-abyss-caches-replaced-by-open-world-gear-in-talebound-",
-   "title_fa": "تغییر لوت صندوق‌های Talebound در پچ 12.1.7",
-   "lead_fa": "پاداش صندوق‌های تجهیزات در حالت Talebound به‌روزرسانی شده و لوت رید Venomous Abyss جای خود را به آیتم‌های Vaults of Atal'Utek داده است.",
-   "body_fa": [
-    "در داده‌کاوی‌های هفته گذشته از پاداش‌های حالت آینده Talebound در پچ 12.1.7، در کنار پاداش‌های ظاهری و آیتم‌های Collection، پاداش‌های قدرتی بازیکنان مانند [[item:Venomstone Cache]]، [[item:Nebulous Voidcache]] و انواع Crest نیز مشخص شده بود.",
-    "در این میان، حضور آیتم [[item:Cache of Mythic Treasures]] بحث‌های فراوانی به راه انداخت؛ چرا که این صندوق لوت سطح Mythic از رید Venomous Abyss را اهدا می‌کرد.",
-    {
-     "t": "h",
-     "x": "نگرانی بازیکنان و تغییرات جدید"
-    },
-    "بازیکنان دیدگاه‌های متفاوتی درباره پاداش‌های قبلی داشتند:",
-    {
-     "t": "ul",
-     "xs": [
-      "برخی نگران بودند که بازیکنان بدون ورود به رید در سطح Mythic بتوانند لوت آن را به دست آورند.",
-      "برخی نگران بودند که عده‌ای از بازیکنان آیتم‌های Best-in-Slot سطح Myth 9/6 از دو باس پایانی را دریافت کنند و دیگران آیتم‌های نامناسب به دست آورند.",
-      "برخی دیگر با توجه به اینکه این پچ آخرین پچ فصل است، با این سیستم مشکلی نداشتند."
-     ]
-    },
-    "به نظر می‌رسد این بازخوردها شنیده شده است؛ زیرا متن Tooltip صندوق‌های تجهیزات Talebound تغییر کرده و اکنون به جای رید Venomous Abyss، به تجهیزات رید Vaults of Atal'Utek اشاره دارند.",
-    {
-     "t": "table",
-     "head": [
-      "صندوق پاداش",
-      "لوت جدید"
-     ],
-     "rows": [
-      [
-       "Cache of Champion Treasures",
-       "لوت Normal از رید Vaults of Atal'Utek"
-      ],
-      [
-       "Cache of Heroic Treasures",
-       "لوت Heroic از رید Vaults of Atal'Utek"
-      ],
-      [
-       "Cache of Mythic Treasures",
-       "لوت Mythic از رید Vaults of Atal'Utek"
-      ]
-     ]
-    },
-    {
-     "t": "note",
-     "x": "این تغییر بخش زیادی از آیتم‌های BiS بخش پایانی بازی را از فهرست پاداش‌ها حذف می‌کند؛ بنابراین بازیکنان دیگر بابت دریافت لوت BiS سطح Myth 9/6 توسط دیگران نگران نخواهند بود، هرچند با ورود فراوان لوت Myth در این فصل، ممکن است تمایل کمتری برای دریافت این صندوق‌ها باقی بماند.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "PTR",
-    "پچ 12.1.7",
-    "Talebound",
-    "لوت رید"
-   ],
-   "items": [],
-   "title_en": "Mythic Venomous Abyss Caches Replaced by Open World Gear in Talebound Rewards",
-   "source_url": "https://www.wowhead.com/news=383746",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383746-mythic-venomous-abyss-caches-replaced-by-open-world-gear-in-talebound-.html",
-   "published_at": "2026-11-05T15:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383746/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383746/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383754,
-   "slug": "earn-700-discord-orbs-with-new-wow-forever-quest",
-   "title_fa": "دریافت ۷۰۰ پاداش Discord Orbs با ماموریت جدید WoW: Forever",
-   "lead_fa": "با انجام ماموریت جدید دیسکورد و ۱۵ دقیقه تجربه بازی WoW: Forever، می‌توانید ۷۰۰ عدد Discord Orbs دریافت کنید.",
-   "body_fa": [
-    "یک کوئست تازه در پلتفرم دیسکورد در دسترس قرار گرفته است که از بازیکنان می‌خواهد به مدت ۱۵ دقیقه به تجربه WoW: Forever بپردازند تا ۷۰۰ عدد Discord Orbs به عنوان پاداش دریافت کنند.",
-    {
-     "t": "note",
-     "x": "کاربرانی که اشتراک Nitro دارند، به جای ۷۰۰ عدد، مقدار ۸۴۰ عدد Discord Orbs دریافت خواهند کرد.",
-     "kind": "info"
-    },
-    {
-     "t": "h",
-     "x": "مراحل دریافت پاداش"
-    },
-    {
-     "t": "ol",
-     "xs": [
-      "به بخش Direct Messages در دیسکورد بروید.",
-      "وارد قسمت Quests شوید و گزینه World of Warcraft Play Quest را انتخاب کنید.",
-      "پس از قبول ماموریت، بازی را به مدت ۱۵ دقیقه اجرا و تجربه کنید.",
-      "در نهایت پاداش Discord Orbs خود را تحویل بگیرید."
-     ]
-    },
-    "امتیازهای Discord Orbs برای خرید آیتم‌های تزئینی و ظاهری از فروشگاه دیسکورد (Discord shop) قابل استفاده هستند."
-   ],
-   "tags_fa": [
-    "دیسکورد",
-    "WoW Forever",
-    "پاداش"
-   ],
-   "items": [],
-   "title_en": "Earn 700 Discord Orbs with New WoW: Forever Quest",
-   "source_url": "https://www.wowhead.com/news=383754",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383754-earn-700-discord-orbs-with-new-wow-forever-quest.html",
-   "published_at": "2026-11-05T14:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383754/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383754/1.png",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383758,
-   "slug": "temporary-portals-replace-boats-and-zeppelins-due-to-bugs",
-   "title_fa": "جایگزینی موقت قایق‌ها و زپلین‌ها با پرتال‌ها به دلیل بروز باگ",
-   "lead_fa": "شرکت Blizzard اعلام کرد به دلیل بروز باگ و ناپدید شدن وسایل نقلیه، پرتال‌هایی موقت را جایگزین برخی قایق‌ها و زپلین‌ها کرده است.",
-   "body_fa": [
-    "در پی بروز اختلال در سیستم حمل‌ونقل بازی، برخی از قایق‌ها و زپلین‌ها برای مدت زمانی طولانی در گرداب گم می‌شدند. برای جلوگیری از سردرگمی بازیکنان، راه‌حلی موقت از سوی سازندگان به کار گرفته شده است.",
-    {
-     "t": "quote",
-     "x": "ما از وجود مشکلاتی در بخش حمل‌ونقل، مانند گم شدن قایق‌ها و زپلین‌ها برای مدت طولانی در گرداب باخبریم. به‌عنوان یک راه‌حل موقت، پرتال‌هایی را در نزدیکی بیشتر اسکله‌ها یا داخل برج‌های زپلین ایجاد کرده‌ایم تا در صورت بروز مشکل برای قایق، به شما در جابه‌جایی میان قاره‌ها کمک کنند. یک اصلاح اساسی صبح اعمال خواهد شد و پس از اطمینان از عملکرد صحیح آن، این پرتال‌ها را حذف خواهیم کرد.",
-     "by": "Blizzard"
-    },
-    {
-     "t": "note",
-     "x": "این پرتال‌ها تنها تا زمان انتشار و تایید رفع مشکل اصلی در صبح پابرجا خواهند بود و پس از آن برداشته می‌شوند.",
-     "kind": "info"
-    },
-    "بازیکنان می‌توانند تا زمان اعمال این به‌روزرسانی، برای تردد بین قاره‌ها از پرتال‌های ایجادشده در نزدیکی اسکله‌ها یا برج‌های زپلین استفاده کنند."
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "بلیزارد",
-    "باگ"
-   ],
-   "items": [],
-   "title_en": "Temporary Portals Replace Boats and Zeppelins Due to Bugs",
-   "source_url": "https://www.wowhead.com/news=383758",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383758-temporary-portals-replace-boats-and-zeppelins-due-to-bugs.html",
-   "published_at": "2026-11-05T06:45:40Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383758/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383758/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383757,
-   "slug": "blizzard-aware-of-population-issues-in-certain-areas",
-   "title_fa": "بررسی مشکل خلوت بودن بیش از حد برخی مناطق توسط Blizzard",
-   "lead_fa": "شرکت Blizzard اعلام کرد از خلوت بودن غیرعادی برخی مناطق بازی باخبر است و فردا با اعمال تغییراتی این مشکل را برطرف می‌کند.",
-   "body_fa": [
-    "طبق اعلام Blizzard، سازندگان بازی متوجه شده‌اند که برخی از مناطق آن‌طور که باید احساس شلوغی و پویایی ندارند و جمعیت آن‌ها کمتر از حد انتظار به نظر می‌رسد.",
-    {
-     "t": "quote",
-     "x": "فقط می‌خواستیم اعلام کنیم که از برخی مشکلات مربوط به حس خلوت بودن بیش از حدِ بعضی مناطق آگاه هستیم. فردا برخی اعداد و ارقام را تغییر خواهیم داد تا فضا کمی زنده‌تر و پویاتر احساس شود. بابت بازخوردهایتان در این باره متشکریم!",
-     "by": "Blizzard"
-    },
-    {
-     "t": "note",
-     "x": "تغییرات عددی مربوط به پویایی مناطق قرار است فردا اعمال شود تا جریان حضور بازیکنان در این بخش‌ها بهبود یابد.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "بلیزارد",
-    "هاتفیکس",
-    "اخبار بازی"
-   ],
-   "items": [],
-   "title_en": "Blizzard Aware of Population Issues in Certain Areas",
-   "source_url": "https://www.wowhead.com/news=383757",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383757-blizzard-aware-of-population-issues-in-certain-areas.html",
-   "published_at": "2026-11-05T06:41:36Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383757/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383757/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383753,
-   "slug": "the-great-outdoors-quest-bugged-and-how-to-complete",
-   "title_fa": "رفع باگ کوئست The Great Outdoors و نحوه تکمیل آن",
-   "lead_fa": "کوئست آموزشی The Great Outdoors برای سیستم کمپینگ دارای باگی جزئی است، اما راهکار ساده‌ای برای تکمیل سریع آن وجود دارد.",
-   "body_fa": [
-    "بازی WoW: Forever به سیستم جدید کمپینگ مجهز شده است و یکی از نخستین کوئست‌های مناطق ابتدایی، The Great Outdoors نام دارد. این کوئست در واقع یک مأموریت آموزشی برای یادگیری نحوه استفاده و بهره‌مندی از امکانات کمپینگ به شمار می‌رود.",
-    {
-     "t": "h",
-     "x": "اهداف کوئست"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "نشستن کنار آتش (Sit near the campfire)",
-      "دریافت بف Boosted Rest"
-     ]
-    },
-    {
-     "t": "h",
-     "x": "روش حل مشکل ثبت هدف اول"
-    },
-    "هدف مربوط به نشستن در کنار آتش یعنی Sit near the campfire اندکی باگ دارد و معمولاً هنگام استفاده عادی از دستور sit/ ثبت نمی‌شود.",
-    {
-     "t": "note",
-     "x": "اگر در حالی که کاراکتر شما قبلاً نشسته است بار دیگر از دستور sit/ استفاده کنید، این هدف به‌درستی تکمیل می‌شود.",
-     "kind": "tip"
-    },
-    "پس از این مرحله، با سپری کردن و صبر کردن به مدت یک دقیقه کامل، یک بف کوچک Rested XP به کاراکتر تعلق خواهد گرفت."
-   ],
-   "tags_fa": [
-    "کوئست",
-    "باگ",
-    "WoW Forever",
-    "راهنما"
-   ],
-   "items": [],
-   "title_en": "The Great Outdoors Quest Bugged and How to Complete",
-   "source_url": "https://www.wowhead.com/news=383753",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383753-the-great-outdoors-quest-bugged-and-how-to-complete.html",
-   "published_at": "2026-11-05T01:04:04Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383753/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383753/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383876,
-   "title_en": "Many Fixes to Dungeons, Quests, Enemies and Classes - WoW: Forever Hotfixes for November 13, 2026",
-   "url": "https://www.wowhead.com/news=383876",
-   "category": "Forever",
-   "published_at": "2026-11-14T01:59:35Z"
-  },
-  {
-   "id": 383875,
-   "title_en": "Blizzard Refunding Gold for Players Who Purchased Skills During Monday Server Issues",
-   "url": "https://www.wowhead.com/news=383875",
-   "category": "Forever",
-   "published_at": "2026-11-14T01:53:22Z"
-  },
   {
    "id": 383869,
    "title_en": "The WoW: Forever Podcast, a New Short Story, This Week’s Videos, and More! — WoW Weekly",
@@ -3402,27 +3459,6 @@
    "url": "https://www.wowhead.com/news=383868",
    "category": "Forever",
    "published_at": "2026-11-13T18:03:42Z"
-  },
-  {
-   "id": 383857,
-   "title_en": "Might of Stormwind World Buff Returns in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383857",
-   "category": "Forever",
-   "published_at": "2026-11-13T17:00:00Z"
-  },
-  {
-   "id": 383864,
-   "title_en": "New Trading Post Items Datamined on Patch 12.1.7 PTR - Old Steelseries Promotion Mount Coming",
-   "url": "https://www.wowhead.com/news=383864",
-   "category": "PTR",
-   "published_at": "2026-11-13T16:00:35Z"
-  },
-  {
-   "id": 383859,
-   "title_en": "Secret Disguise Toy Found WoW: Forever",
-   "url": "https://www.wowhead.com/news=383859",
-   "category": "Forever",
-   "published_at": "2026-11-13T15:00:00Z"
   },
   {
    "id": 383633,
@@ -3654,6 +3690,41 @@
    "url": "https://www.wowhead.com/news=383630",
    "category": "Forever",
    "published_at": "2026-10-28T16:38:15Z"
+  },
+  {
+   "id": 383603,
+   "title_en": "Myth 2/6 Piece of Loot Now Available from Labyrinths",
+   "url": "https://www.wowhead.com/news=383603",
+   "category": "Live",
+   "published_at": "2026-10-27T22:58:35Z"
+  },
+  {
+   "id": 383573,
+   "title_en": "Blizzard Hints The WoW: Forever Podcast Will Continue",
+   "url": "https://www.wowhead.com/news=383573",
+   "category": "Forever",
+   "published_at": "2026-10-26T15:00:00Z"
+  },
+  {
+   "id": 383570,
+   "title_en": "Den of Nalorakk and Murder Row Bug Fixes - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383570",
+   "category": "Live",
+   "published_at": "2026-10-24T00:23:57Z"
+  },
+  {
+   "id": 383561,
+   "title_en": "This Week's WoW Recap - WoW: Forever, Hallow's End, Fall Savings",
+   "url": "https://www.wowhead.com/news=383561",
+   "category": "WoW",
+   "published_at": "2026-10-23T17:25:01Z"
+  },
+  {
+   "id": 383547,
+   "title_en": "Who is WoW: Forever Meant For? Blizzard Discusses on Forever Podcast",
+   "url": "https://www.wowhead.com/news=383547",
+   "category": "Forever",
+   "published_at": "2026-10-23T14:00:00Z"
   }
  ]
 }

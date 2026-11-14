@@ -35,6 +35,7 @@
    "brutal",
    "bulwark",
    "bulwarkbrutal",
+   "category",
    "chainkini",
    "cleaver",
    "cleaverinevitable",
@@ -79,6 +80,7 @@
    "more",
    "mount",
    "mounts",
+   "name",
    "new",
    "of",
    "ogre",
@@ -92,11 +94,14 @@
    "post",
    "promotion",
    "ptr",
+   "rows",
    "rusty",
    "savage",
+   "sets",
    "shrine",
    "skirt",
    "skirtbandit's",
+   "spec",
    "springflowers",
    "springflowersgunslinger's",
    "staff",
@@ -123,12 +128,129 @@
   ],
   "chars": 3216
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383864/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383864/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383864/1.jpg",
+ "article_fa": {
+  "title_fa": "دیتاماین آیتم‌های جدید Trading Post در پچ 12.1.7 PTR",
+  "lead_fa": "در جدیدترین بیلد سرور آزمایشی پچ 12.1.7، آیتم‌های تازه‌ای برای Trading Post دیتاماین شده‌اند که شامل مانت‌های جدید و ست‌های ترنسموگ هستند.",
+  "body_fa": [
+   "دیتاماین‌های اخیر روی پچ 12.1.7 PTR از اضافه شدن آیتم‌های متعدد به Trading Post خبر می‌دهند. در میان این موارد، ۳ مانت جدید به چشم می‌خورد که یکی از آن‌ها [[item:Savage Ebony Battle Turtle]] مربوط به پروموشن شرکت Steelseries در آگوست ۲۰۲۴ است.",
+   {
+    "t": "h",
+    "x": "مانت‌های جدید دیتاماین‌شده"
+   },
+   {
+    "t": "table",
+    "head": [
+     "نام مانت",
+     "هزینه (Trader's Tender)"
+    ],
+    "rows": [
+     [
+      "Goldrinn Shrine Defender",
+      "۶۰۰"
+     ],
+     [
+      "Winterspring Frostsaber",
+      "۶۰۰"
+     ],
+     [
+      "Savage Ebony Battle Turtle",
+      "۵۰۰"
+     ]
+    ]
+   },
+   {
+    "t": "h",
+    "x": "ست‌ها و سلاح‌های Brutal"
+   },
+   "دو اینسمبل جدید با نام‌های [[item:Ensemble: Brutal Iron Armor]] و [[item:Ensemble: Brutal Steel Armor]] هر کدام با قیمت ۷۰۰ عدد Trader's Tender برای ترنسموگ زره در دسترس خواهند بود. علاوه بر این ست‌ها، مجموعه‌ای از تجهیزات و سلاح‌های Brutal شامل موارد زیر هر یک به قیمت ۱۵۰ عدد Trader's Tender فهرست شده‌اند:",
+   {
+    "t": "ul",
+    "xs": [
+     "سلاح‌های Brutal Steel Greataxe و Brutal Iron Greataxe",
+     "تبرهای Brutal Steel Axe و Brutal Iron Axe",
+     "چوب‌دست‌های Brutal Steel Staff و Brutal Iron Staff",
+     "سلاح‌های Brutal Steel Polearm و Brutal Iron Polearm",
+     "سپرهای Brutal Iron Bulwark و Brutal Steel Bulwark",
+     "آیتم‌های پشت Brutal Steel Backpack و Brutal Iron Backpack"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "سایر سلاح‌ها و پوشش‌های ترنسموگ"
+   },
+   "علاوه بر اقلام یادشده، چند سلاح انفرادی شامل Crude Ogre Cleaver و Inevitable Doom و The Temple's Dark Bow نیز وجود دارند که هرکدام با قیمت ۱۲۰ عدد Trader's Tender عرضه می‌شوند.",
+   "قطعات پوششی دیگری با تِم Crimson و موارد دیگر نیز در این فهرست قرار دارند؛ از جمله [[item:Rusty Chainkini]] با قیمت ۱۰۰ تندر، Crimson Gloomcap و Crown of Crimson Springflowers و Gunslinger's Crimson Lid هر یک به قیمت ۵۰ تندر، Bandit's Crimson Highboot به قیمت ۴۰ تندر، Crimson Dunecloth Vest و Crimson Dunecloth Skirt هر یک به قیمت ۳۵ تندر و Crimson Dunecloth Belt با هزینهٔ ۳۰ تندر."
+  ],
+  "tags_fa": [
+   "دیتاماین",
+   "Trading Post",
+   "پچ 12.1.7",
+   "PTR"
+  ]
+ },
+ "items": [
+  {
+   "item": {
+    "name": "Other Trading Post Items 12.1.7",
+    "rows": [
+     [
+      "NEW Ensemble",
+      "Brutal Iron Armor Ensemble: Brutal Iron Armor"
+     ],
+     [
+      "دسته",
+      "Transmog Sets"
+     ],
+     [
+      "قیمت",
+      "700 Trader's Tender"
+     ]
+    ],
+    "spec": [],
+    "quality": ""
+   }
+  },
+  {
+   "item": {
+    "name": "NEW Brutal Iron Backpack Brutal Iron Backpack",
+    "rows": [
+     [
+      "دسته",
+      "Transmog"
+     ],
+     [
+      "قیمت",
+      "150 Trader's Tender"
+     ],
+     [
+      "NEW Ensemble",
+      "Brutal Steel Armor Ensemble: Brutal Steel Armor"
+     ],
+     [
+      "دسته",
+      "Transmog Sets"
+     ],
+     [
+      "قیمت",
+      "700 Trader's Tender"
+     ]
+    ],
+    "spec": [],
+    "quality": ""
+   }
+  }
+ ],
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-14T07:30:58Z"
+ }
 }

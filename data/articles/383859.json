@@ -99,12 +99,41 @@
   ],
   "chars": 771
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383859/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383859/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383859/1.jpg",
+ "article_fa": {
+  "title_fa": "کشف اسباب‌بازی مخفی Alcaz Operative Insignia در WoW: Forever",
+  "lead_fa": "جامعهٔ مخفی‌یاب‌های بازی یک اسباب‌بازی استتار مخفی جدید را در سیاه‌چال جدید Alcaz Prison کشف کرده‌اند که از طریق زنجیره‌کوئست خاصی به دست می‌آید.",
+  "body_fa": [
+   "یک اسباب‌بازی مخفی تازه با عنوان [[item:Alcaz Operative Insignia]] در WoW Forever پیدا شده است که مسیر دریافت آن از دانجن جدید Alcaz Prison آغاز می‌شود. تمام اطلاعات مربوط به این راز توسط The WoW Secret Finding Discord کشف و به اشتراک گذاشته شده است.",
+   {
+    "t": "h",
+    "x": "نحوه به دست آوردن Alcaz Operative Insignia"
+   },
+   "برای آغاز این زنجیره، بازیکنان باید وارد دانجن Alcaz Prison شوند و آن را پاک‌سازی کنند؛ اما در حین انجام این کار رعایت یک نکته ضروری است:",
+   {
+    "t": "note",
+    "x": "در حین پاک‌سازی دانجن نباید باس اول یعنی The Questioner کشته شود، زیرا برای کوئست The Man in the Iron Chains که در انتهای دانجن دریافت می‌کنید به او نیاز خواهید داشت.",
+    "kind": "warn"
+   },
+   "پس از دریافت کوئست، بازیکنان باید به Moonbrook در Westfall سفر کنند. در مرحلهٔ بعد، بازیکنان Alliance به Stormwind و بازیکنان Horde به Booty Bay می‌روند تا آیتم [[item:Fractured Insignia]] را دریافت کنند.",
+   "با ترکیب کردن ۶ عدد از این آیتم، اسباب‌بازی [[item:Alcaz Operative Insignia]] به بازیکن داده خواهد شد."
+  ],
+  "tags_fa": [
+   "رازها",
+   "WoW Forever",
+   "اسباب‌بازی"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-14T07:34:10Z"
+ }
 }
