@@ -1,8 +1,218 @@
 {
- "generated": "2026-11-14T00:30:36Z",
+ "generated": "2026-11-14T05:23:39Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383849,
+   "slug": "riverglades-is-one-of-the-best-leveling-zones-in-wow-forever",
+   "title_fa": "معرفی منطقه Riverglades در WoW: Forever؛ مقصدی مناسب برای لول‌آپ",
+   "lead_fa": "منطقه جدید Riverglades در WoW: Forever با طراحی مشابه نسخه کلاسیک و کوئست‌های منسجم، توجه بسیاری از بازیکنان را در مسیر رسیدن به لول ۶۰ به خود جلب کرده است.",
+   "body_fa": [
+    "منطقه Riverglades محیطی کاملاً تازه در WoW: Forever است که حس و حال حضور همیشگی در Classic WoW را بازتاب می‌دهد. بر اساس بازخورد بسیاری از بازیکنان، این بخش یکی از بهترین و محبوب‌ترین مناطق برای ارتقای سطح در مسیر رسیدن به سطح 60 به شمار می‌رود.",
+    {
+     "t": "h",
+     "x": "موقعیت جغرافیایی و نحوه دسترسی"
+    },
+    "منطقه Riverglades در لبه شرقی Eastern Kingdoms واقع شده و با Badlands و Redridge Mountains همسایه است. این منطقه اساساً برای کاراکترهای لول ۳۸ تا ۴۴ طراحی شده، هرچند بازیکنان توصیه می‌کنند حدود لول 40 وارد آن شوید تا سطح مناسبی برای آغاز برخی مأموریت‌ها داشته باشید.",
+    "مسیر اصلی ورود به منطقه، استفاده از کشتی واقع در شرق Gadgetzhan در منطقه Tanaris است. این کشتی شما را به شهر بی‌طرف Powderfuse Port می‌رساند. علاوه بر این، هر فکشن پایگاه اختصاصی خود را دارد؛ Farholde Keep متعلق به Alliance و Rog'mar در اختیار Horde است.",
+    {
+     "t": "h",
+     "x": "ساختار کوئست‌ها و نکات مهم"
+    },
+    "مأموریت‌های Riverglades روندی خطی‌تر و مستقیم‌تر از سبک معمول کوئست‌های کلاسیک دارند؛ به‌طوری‌که با اتمام یک نوبت مأموریت، معمولاً دسته جدیدی باز می‌شود. همچنین بازیکنان به رقابت کمتر بر سر ریسپاون ماب‌ها در قیاس با سایر نقاط اشاره کرده‌اند. تکمیل تمام مأموریت‌های این ناحیه احتمالاً ۴ تا ۵ لول به شما پاداش می‌دهد.",
+    "مطابق رسم مأموریت‌های کلاسیک، حداقل یک کوئست مخفی برای بازیکنان Horde با نام Farholde Scouting Report وجود دارد. این مأموریت با شکست‌دادن Cavalry Scout Alturin بدون هیچ پیش‌نیاز قبلی (Breadcrumb) به دست می‌آید؛ هرچند شما را در جاده اصلی منتهی به شهر Alliance پی‌وی‌پی فلگ (PvP flag) می‌کند، اما ۴٬۸۵۰ واحد Experience نصیبتان خواهد کرد.",
+    {
+     "t": "note",
+     "x": "بازیکنان فکشن Horde بهتر است پیش از سفر به این منطقه، آیتم‌های مورد نیاز مأموریت‌ها را از قبل تهیه و همراه خود داشته باشند.",
+     "kind": "tip"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "تعداد 10 عدد Chunk of Boar Meat برای کوئست Paletusk Harvesting",
+      "تعداد 10 عدد Heavy Weightstone برای کوئست Step Two: More Rock",
+      "تعداد ۱۲ عدد Iron Bar و ۴ عدد Thick Leather برای کوئست Key Ingredients یا مأموریت دانجن Key Ingredients"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "دانجن جدید Krol'dok Stronghold"
+    },
+    "در کنار مأموریت‌های محیطی، دانجن جدید Krol'dok Stronghold برای سطوح ۴۰ تا ۴۵ در نظر گرفته شده است که ۶ باس در سراسر این دژ Ogre دارد. بیشتر کوئست‌های این سیاه‌چال پس از اتمام کمپین داستانی اصلی در Riverglades باز می‌شوند؛ به جز یک کوئست داخل دانجن که در نهایت امکان ساخت کلیدی را برای باز کردن یک مسیر میان‌بر فراهم می‌کند."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "راهنمای لول‌آپ",
+    "منطقه Riverglades",
+    "دانجن"
+   ],
+   "items": [],
+   "title_en": "Riverglades is One of the Best Leveling Zones in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383849",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383849-riverglades-is-one-of-the-best-leveling-zones-in-wow-forever.html",
+   "published_at": "2026-11-13T23:08:44Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383849/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383849/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383874,
+   "slug": "blizzard-on-encounter-design-in-season-3-reduced-mechanical-penalties",
+   "title_fa": "کاهش مجازات‌های مکانیکی در ریدهای Season 3 توسط Blizzard",
+   "lead_fa": "شرکت Blizzard با انتشار پستی مفصل پیرامون رید The Venomous Abyss، از تغییر فلسفهٔ طراحی انکانترها و کاهش خطاهای مرگبار فردی در Season 3 خبر داد.",
+   "body_fa": [
+    "در پی نارضایتی گستردهٔ ریدرهای Mythic در تایر کنونی، شرکت Blizzard اعلام کرد که در Season 3 از شدت مجازات‌های مکانیکی خواهد کاست و تعداد مکانیک‌هایی را که اشتباه یک بازیکن منجر به وایپ کل گروه می‌شود کاهش می‌دهد. این تصمیم پس از آن اتخاذ شد که گیلدهای سرشناسی مانند Vodka و Northern Sky از ادامهٔ فعالیت انصراف دادند و چهره‌های مطرحی همچون Marsh از گیلد Consequence، Zorthas از گیلد Honesty و Sense از Nurfed به وضعیت ریدینگ Mythic اعتراض کردند.",
+    {
+     "t": "h",
+     "x": "فلسفهٔ تغییرات و تضعیف اخیر The Venomous Abyss"
+    },
+    "تیم توسعه‌دهنده هفتهٔ گذشته نِرف‌های گسترده‌ای را روی رید The Venomous Abyss اعمال کرد تا رویدادهای آسیبی که با یک خطای فردی به مرگ بازیکن یا وایپ گروه ختم می‌شدند تعدیل شوند. هدف این تغییرات ایجاد تناسب بهتر میان خطای بازیکنان و میزان آسیب دریافتی بوده است.",
+    {
+     "t": "quote",
+     "x": "احساس می‌کنیم طراحی ما در طول زمان به بهای کاهش کیفیت تجربهٔ ریدرهای معمولیِ Mythic تغییر کرده است. با پیشروی به سمت Season 3، می‌خواهیم حتی در شروع فصل نیز عمداً از برخی از این مجازات‌های سنگین مکانیکی بکاهیم.",
+     "by": "Blizzard"
+    },
+    "در میان اصلاحات اخیر، میزان Damage توانایی Malice در درجهٔ سختی Mythic به میزان ۴۵٪ و در Normal/Heroic به میزان ۶۳٪ کاهش یافت تا عدم انجام Interrupt به عنوان یک خطای تیمی قابل جبران تلقی شود. همچنین آسیب اولیهٔ Noxious Splash تا ۳۳٪ و بخش آسیب دوره‌ای (DoT) آن تا ۸۴٪ کاهش پیدا کرد.",
+    {
+     "t": "h",
+     "x": "مجازات مکانیکی و تناسب آن با خطای بازیکن"
+    },
+    "طراحان انکانتر مجازات‌ها را برای تثبیت روند گیم‌پلی طراحی می‌کنند؛ گاهی ساده مانند گرفتن سریع اگر توسط تانک، و گاهی پیچیده مانند Heroic Ula’tek که عدم سوک کافی Stone Venom به دریافت Calcified Corpse و احتمالاً وایپ رید منجر می‌شود.",
+    "سازندگان بازی تأکید دارند که تنبیه باید متناسب با جرم باشد. برای نمونه، برخورد یک پرتابهٔ کوچک نباید بازیکنی با Gear مناسب را از ۱۰۰٪ نوار سلامت به قتل برساند، اما نادیده گرفتن کست Eternal Nightfall توسط Malacrass باید به نابودی کل رید بینجامد.",
+    {
+     "t": "note",
+     "x": "رویکرد سازندگان برای آینده این است که تعداد مرگ‌های ناشی از یک اتفاق ناگهانی (Instant Death) کاهش یابد و وایپ‌ها بیشتر به صورت شکست تدریجی و قابل یادگیری برای گروه رخ دهند.",
+     "kind": "info"
+    },
+    "تیم سازنده بازیکنان را دعوت کرده است تا با آغاز Season 3 در Public Test Realm (PTR)، درجه‌های سختی مختلف رید جدید را ارزیابی کرده و بازخوردهای خود را با توسعه‌دهندگان به اشتراک بگذارند."
+   ],
+   "tags_fa": [
+    "رید",
+    "طراحی انکانتر",
+    "Season 3",
+    "Blizzard"
+   ],
+   "items": [],
+   "title_en": "Blizzard on Encounter Design in Season 3 - Reduced Mechanical Penalties",
+   "source_url": "https://www.wowhead.com/news=383874",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383874-blizzard-on-encounter-design-in-season-3-reduced-mechanical-penalties.html",
+   "published_at": "2026-11-13T21:39:59Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383874/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383874/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383873,
+   "slug": "skyborne-don-t-have-reputation-discount-for-mounts-in-wow-forever",
+   "title_fa": "عدم اعمال تخفیف شهرت مانت برای نژاد Skyborne در WoW: Forever",
+   "lead_fa": "بازیکنان نژاد جدید Skyborne در WoW: Forever حتی پس از رسیدن به سطح شهرت Honored نیز از تخفیف ۱۰ درصدی هزینه آموزش سوارکاری محروم هستند.",
+   "body_fa": [
+    "یادگیری مهارت سوارکاری در WoW: Forever یکی از گام‌های مهم بازیکنان است که زمان رفت‌وآمد را به شکل چشمگیری کاهش می‌دهد؛ هرچند این قابلیت نیازمند رسیدن به سطح مشخص و پرداخت هزینه قابل توجهی طلا است.",
+    {
+     "t": "h",
+     "x": "هزینه‌ها و تفاوت مربیان سوارکاری"
+    },
+    "مهارت Journeyman Riding نیازمند لول ۶۰ است. بازیکنان می‌توانند این مهارت را از مربی نژادی خود بیاموزند، در حالی که مربی سایر نژادها تا زمان دستیابی به شهرت Exalted به شما آموزش نمی‌دهد. مربی نژادی معمولاً با رسیدن به شهرت Honored یک تخفیف ۱۰ درصدی ارائه می‌کند که مقدار زیادی طلا ذخیره خواهد کرد؛ اما نژاد جدید Skyborne با مشکل روبه‌رو شده است.",
+    {
+     "t": "h",
+     "x": "محدودیت‌های کسب شهرت برای Skyborne"
+    },
+    "نژاد Skyborne میان دو جناح تقسیم شده است: High Order برای Alliance و Windshapers برای Horde. مشکل اساسی اینجاست که پس از ترک منطقه آغازین Zephras Isle، هیچ کوئست دیگری برای افزایش اعتبار این فکشن‌ها وجود ندارد. صفحات دیتابیس Wowhead نشان می‌دهد که برای هر یک از این جناح‌ها تنها ۷۰ تا ۸۰ کوئست موجود است؛ در حالی که برای مثال Darkspear Trolls بیش از ۱۴۰ منبع شهرت با پاداش‌هایی بیش از دو برابر دارد.",
+    "اکثر بازیکنان سایر نژادها در صورتی که مقداری کوئست انجام داده باشند، تا اواسط لول ۴۰ به سطح Honored با چهار فکشن موجود می‌رسند. در مقابل، تنها راه افزایش شهرت Skyborne انجام مأموریت‌های تکرارشونده تحویل آیتم مانند A Donation of Runecloth نزد Oura Stormspinner است که در ازای ۶۰ عدد Runecloth معادل ۱۵۰ شهرت می‌دهد.",
+    {
+     "t": "h",
+     "x": "کار نکردن تخفیف شهرت"
+    },
+    "حتی در صورت صرف وقت یا خرید پارچه از Auction House و رسیدن به سطح Honored، بازیکنان متوجه شده‌اند این تخفیف اعمال نمی‌شود. یکی از کاربران ردیت تصویری منتشر کرده که نشان می‌دهد با داشتن سطح Honored در فکشن High Order، هزینه Journeyman Riding همچنان ۱٬۰۰۰ طلا باقی مانده است.",
+    {
+     "t": "note",
+     "x": "مربی سوارکاری این نژاد، Genn Fairweather، به هیچ فکشنی وابسته نیست؛ احتمالاً به این دلیل که به هر دو فکشن خدمات می‌دهد، در حالی که مربیانی مثل Binjy Featherwhistle و Velma Warnam به فکشن مشخصی تعلق دارند.",
+     "kind": "warn"
+    },
+    "در حال حاضر بازیکنانی که کاراکتر Skyborne ساخته‌اند، برای تهیه مانت در WoW: Forever نسبت به سایر نژادها طلای بیشتری پرداخت می‌کنند."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "نژاد Skyborne",
+    "مانت",
+    "گیم‌پلی"
+   ],
+   "items": [],
+   "title_en": "Skyborne Don't Have Reputation Discount for Mounts in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383873",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383873-skyborne-don-t-have-reputation-discount-for-mounts-in-wow-forever.html",
+   "published_at": "2026-11-13T20:40:55Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383873/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383873/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383870,
+   "slug": "blizzard-taking-down-wow-forever-realms-in-30-minutes-to-fix-urgent-se",
+   "title_fa": "خاموشی اضطراری ریلم‌های WoW: Forever برای رفع کرش سرورها",
+   "lead_fa": "بلیزارد از خاموشی اضطراری سرورهای WoW: Forever ظرف ۳۰ دقیقه برای رفع یک کرش فوری خبر داد.",
+   "body_fa": [
+    "شرکت Blizzard از طریق پیامی درون بازی و همچنین اعلان لانچر Battle.net اعلام کرد که سرورهای WoW: Forever را برای راه‌اندازی مجدد و رفع یک کرش فوری از دسترس خارج می‌کند.",
+    {
+     "t": "quote",
+     "x": "ما یک کرش فوری در سرورها پیدا کرده‌ایم که باید با راه‌اندازی مجدد آن را برطرف کنیم. تمام ریلم‌ها تا ۳۰ دقیقه دیگر خاموش می‌شوند و خیلی زود بازخواهند گشت. از ایجاد وقفه در روز جمعهٔ شما پوزش می‌طلبیم!",
+     "by": "Blizzard"
+    },
+    {
+     "t": "h",
+     "x": "زمان‌بندی خاموشی ریلم‌ها"
+    },
+    "طبق اعلام رسمی، این عملیات نگهداری در روز جمعه ۱۳ نوامبر در ساعت 11:00 AM (PST) آغاز می‌شود و انتظار می‌رود خدمات بازی تقریباً در ساعت 12:00 PM (PST) مجدداً در دسترس قرار گیرد.",
+    {
+     "t": "note",
+     "x": "در طول مدت نگهداری، بازی برای ورود و اجرا در دسترس نخواهد بود.",
+     "kind": "warn"
+    },
+    "خاموش کردن سرورها با چنین اطلاع‌رسانی کوتاهی به‌ندرت توسط Blizzard انجام می‌شود و نشان‌دهندهٔ اضطراری بودن مشکل است. اگر بازیکنان در سیاه‌چاله‌های طولانی حضور داشته باشند، ممکن است فرصت به پایان رساندن آن را پیدا نکنند."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "بلیزارد",
+    "نگهداری سرور"
+   ],
+   "items": [],
+   "title_en": "Blizzard Taking Down WoW: Forever Realms in 30 Minutes to Fix Urgent Server Crash",
+   "source_url": "https://www.wowhead.com/news=383870",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383870-blizzard-taking-down-wow-forever-realms-in-30-minutes-to-fix-urgent-se.html",
+   "published_at": "2026-11-13T18:33:36Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383870/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383870/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383846,
    "slug": "new-max-level-weekly-quest-rewards-up-to-100-gold-in-wow-forever",
@@ -3162,212 +3372,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383750,
-   "slug": "official-warcraft-twitch-stream-showing-heat-map-of-level-ups",
-   "title_fa": "نمایش نقشه حرارتی لول‌آپ بازیکنان در استریم رسمی وارکرفت",
-   "lead_fa": "کانال رسمی وارکرفت در توییچ هم‌زمان با آنلاین شدن سرورها، یک نقشه حرارتی زنده از ورود بازیکنان و ارتقای سطح آن‌ها را به نمایش گذاشت.",
-   "body_fa": [
-    "استریم رسمی Warcraft در توییچ یک نقشه حرارتی (Heat Map) از بازیکنان را هنگام ورود به بازی و لول‌آپ به نمایش گذاشته است.",
-    "با آغاز به کار و آنلاین شدن سرورها، تماشاگران می‌توانند نقشه حرارتی ورود بازیکنان متعلق به هر دو جناح Alliance و Horde را به دنیای بازی دنبال کنند.",
-    "علاوه بر ورود به بازی، مکان دقیق و لحظه لول‌آپ بازیکنان نیز روی این نقشه حرارتی قابل مشاهده است.",
-    {
-     "t": "note",
-     "x": "این پخش زنده پس از مدتی قطع شد و دوباره در دسترس قرار گرفت. گزارش این رویداد با شناسه خبر ۳۸۳۷۵۰ منتشر شده است. همچنین به عنوان پیگیری‌های تکمیلی اعداد فنی 1.60.1، ۱۱، ۵۱، ۶۰ و سال ۲۰۲۶ در سیستم ثبت شده‌اند.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "توییچ",
-    "Warcraft",
-    "جامعه بازی"
-   ],
-   "items": [],
-   "title_en": "Official Warcraft Twitch Stream Showing Heat Map of Level Ups",
-   "source_url": "https://www.wowhead.com/news=383750",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383750-official-warcraft-twitch-stream-showing-heat-map-of-level-ups.html",
-   "published_at": "2026-11-05T00:51:34Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383750/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383750/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383751,
-   "slug": "obtain-the-pouch-of-violet-dust-toy-increases-camp-benefits-by-1-hour",
-   "title_fa": "دریافت اسباب‌بازی Pouch of Violet Dust از طریق Twitch Drops در WoW: Forever",
-   "lead_fa": "بازیکنان می‌توانند با تماشای استریم‌های منتخب World of Warcraft اسباب‌بازی موقت Pouch of Violet Dust را دریافت کنند که مدت مزایای Camp را به ۲ ساعت افزایش می‌دهد.",
-   "body_fa": [
-    "با آغاز کمپین جدید Twitch Drops، امکان دریافت اسباب‌بازی [[item:Pouch of Violet Dust]] برای بازیکنان فراهم شده است. این آیتم به عنوان بخشی از رویداد جشن آغاز به‌کار WoW: Forever در دسترس قرار گرفته و در بازی‌های World of Warcraft Classic یا نسخه مدرن فعال نیست.",
-    {
-     "t": "h",
-     "x": "ویژگی‌ها و کاربرد Pouch of Violet Dust"
-    },
-    "این اسباب‌بازی رنگ campfire را به بنفش تغییر می‌دهد و مدت‌زمان تمام مزایای کمپ را ۱ ساعت افزایش می‌دهد تا در مجموع به ۲ ساعت برسد. این اثر پس از فعال‌سازی با سایر بازیکنانی که در همان کمپ در حال استراحت هستند نیز به اشتراک گذاشته می‌شود.",
-    {
-     "t": "note",
-     "x": "این آیتم موقت فقط تا اوایل دسامبر در جریان رویداد جشن در دسترس است و پس از آن از مجموعه بازیکنان حذف خواهد شد.",
-     "kind": "warn"
-    },
-    {
-     "t": "h",
-     "x": "زمان‌بندی و شرایط دریافت"
-    },
-    "برای کسب این پاداش، باید ۴ ساعت از محتوای استریم‌های واجد شرایط World of Warcraft را در توییچ تماشا کنید. بازه زمانی این رویداد از ۴ نوامبر ساعت 4:30 pm PST تا ۱۲ نوامبر ساعت 4:30 pm PST تعیین شده است.",
-    {
-     "t": "ul",
-     "xs": [
-      "تماشای ۴ ساعت استریم واجد شرایط در توییچ در بازه ۴ تا ۱۲ نوامبر ساعت 4:30 pm PST",
-      "اتصال حساب Battle.net به توییچ یا یوتیوب",
-      "نیاز به اشتراک فعال یا زمان بازی World of Warcraft",
-      "عدم امکان استفاده در نسخه‌های مدرن یا کلاسیک"
-     ]
-    }
-   ],
-   "tags_fa": [
-    "توییچ دراپ",
-    "WoW Forever",
-    "اسباب‌بازی"
-   ],
-   "items": [],
-   "title_en": "Obtain the Pouch of Violet Dust Toy - Increases Camp Benefits by 1 Hour",
-   "source_url": "https://www.wowhead.com/news=383751",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383751-obtain-the-pouch-of-violet-dust-toy-increases-camp-benefits-by-1-hour.html",
-   "published_at": "2026-11-05T00:32:54Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383751/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383751/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383749,
-   "slug": "world-of-warcraft-forever-is-now-live",
-   "title_fa": "بازی World of Warcraft: Forever به صورت رسمی آغاز به کار کرد",
-   "lead_fa": "بازی World of Warcraft: Forever در تمامی ریجن‌ها در دسترس قرار گرفت و وضعیت صف‌های ورود نیز گزارش شده است.",
-   "body_fa": [
-    "بازی World of Warcraft: Forever اکنون به شکل رسمی در تمامی ریجن‌ها آغاز شده است و بازیکنان می‌توانند نسخهٔ بازطراحی‌شدهٔ Azeroth را با مناطق، کوئست‌ها، شغل‌ها و کلاس‌های جدید تجربه کنند.",
-    {
-     "t": "note",
-     "x": "اگر در صفحه‌ای قرار دارید که بخش Gameplay Rulesets را در وضعیت غیرقابل‌دسترس (unavailable) نشان می‌دهد، باید دوباره در صف قرار بگیرید (requeue).",
-     "kind": "warn"
-    },
-    {
-     "t": "h",
-     "x": "وضعیت صف‌های ورود به سرور"
-    },
-    "گزارش وضعیت صف‌های ورود در ساعات اولیهٔ انتشار به شرح زیر اعلام شده است:",
-    {
-     "t": "ul",
-     "xs": [
-      "ساعت 3:10 PST: زمان انتظار در صف برای بیشتر بازیکنان حدود ۵ تا ۱۰ دقیقه اعلام شده و گزارش‌های بسیاری از قرار گرفتن در جایگاه‌های 1500 تا 4000 در صف خبر داده‌اند. با این حال، پس از عبور از صف، بسیاری با خطای در دسترس نبودن rulesetها مواجه شده‌اند.",
-      "ساعت 4:15 PST: زمان صف‌ها در حدود 10 دقیقه ثابت مانده است و سرورها پایداری بسیار بالایی دارند و عرضهٔ بازی تاکنون بسیار روان بوده است."
-     ]
-    }
-   ],
-   "tags_fa": [
-    "World of Warcraft",
-    "Forever",
-    "صف سرور"
-   ],
-   "items": [],
-   "title_en": "World of Warcraft: Forever is Now Live",
-   "source_url": "https://www.wowhead.com/news=383749",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383749-world-of-warcraft-forever-is-now-live.html",
-   "published_at": "2026-11-04T23:01:38Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383749/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383749/1.png",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383748,
-   "slug": "secret-twitch-drop-awarded-pouch-of-violet-dust-toy-to-live-stream-vie",
-   "title_fa": "دریافت اسباب‌بازی مخفی Pouch of Violet Dust از طریق Twitch Drops",
-   "lead_fa": "بینندگان پخش زندهٔ ساخت آیتم لجندری در توییچ موفق به دریافت اسباب‌بازی Pouch of Violet Dust از طریق یک دراپ مخفی شدند.",
-   "body_fa": [
-    "بازیکنانی که استریم Legendary crafting را در Twitch تماشا می‌کردند، یک Twitch Drop غیرمنتظره دریافت کرده‌اند که پاداش آن اسباب‌بازی [[item:Pouch of Violet Dust]] است. اگر این استریم را تماشا کرده‌اید، می‌توانید به بخش دراپ‌های حساب کاربری خود بروید و این جایزه را Claim کنید.",
-    {
-     "t": "h",
-     "x": "شرایط دریافت و زمان‌بندی"
-    },
-    "در لحظات پایانی استریم و هنگام رونمایی از Taldramir, the Whispering Wood، روند تکمیل این دراپ برای بازیکنان به پایان رسید. با این حال معیارهای دقیق برای به دست آوردن آن هنوز نامشخص است؛ بسیاری از بازیکنان اعلام کردند که این آیتم را در پایان استریم Legendary Crafting به دست آورده‌اند، در حالی که برخی دیگر گزارش داده‌اند که با تماشای هر استریمر فعال در بخش WoW در همان بازهٔ زمانی موفق به دریافت آن شده‌اند.",
-    {
-     "t": "note",
-     "x": "در صفحهٔ مربوط به این دراپ، زمان پایان رویداد روز چهارشنبه، ۴ نوامبر در ساعت 1:59 PM PST / 4:59 PM EST ثبت شده است.",
-     "kind": "info"
-    },
-    "با توجه به این‌که زمان ذکرشده اکنون سپری شده است، به نظر می‌رسد این Twitch Drop دیگر در دسترس نیست و صرفاً به بازیکنانی داده شده که هنگام پخش زندهٔ رونمایی از آیتم لجندری مشغول تماشای استریم‌های WoW بوده‌اند. همچنین به دلیل مشخص نبودن پیش‌نیازهای دقیق، هنوز معلوم نیست که آیا تماشای کانال رسمی Warcraft در Twitch یا هر کانال دیگری می‌تواند مجدداً این Toy را در اختیار بازیکنان بگذارد یا خیر."
-   ],
-   "tags_fa": [
-    "توییچ دراپ",
-    "اسباب بازی",
-    "استریم"
-   ],
-   "items": [],
-   "title_en": "Secret Twitch Drop Awarded Pouch of Violet Dust Toy to Live Stream Viewers in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383748",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383748-secret-twitch-drop-awarded-pouch-of-violet-dust-toy-to-live-stream-vie.html",
-   "published_at": "2026-11-04T22:18:26Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383748/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383748/1.png",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383849,
-   "title_en": "Riverglades is One of the Best Leveling Zones in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383849",
-   "category": "Forever",
-   "published_at": "2026-11-13T23:08:44Z"
-  },
-  {
-   "id": 383874,
-   "title_en": "Blizzard on Encounter Design in Season 3 - Reduced Mechanical Penalties",
-   "url": "https://www.wowhead.com/news=383874",
-   "category": "Live",
-   "published_at": "2026-11-13T21:39:59Z"
-  },
-  {
-   "id": 383873,
-   "title_en": "Skyborne Don't Have Reputation Discount for Mounts in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383873",
-   "category": "Forever",
-   "published_at": "2026-11-13T20:40:55Z"
-  },
-  {
-   "id": 383870,
-   "title_en": "Blizzard Taking Down WoW: Forever Realms in 30 Minutes to Fix Urgent Server Crash",
-   "url": "https://www.wowhead.com/news=383870",
-   "category": "Forever",
-   "published_at": "2026-11-13T18:33:36Z"
-  },
   {
    "id": 383869,
    "title_en": "The WoW: Forever Podcast, a New Short Story, This Week’s Videos, and More! — WoW Weekly",
@@ -3619,6 +3626,34 @@
    "url": "https://www.wowhead.com/news=383657",
    "category": "Forever",
    "published_at": "2026-10-31T18:00:00Z"
+  },
+  {
+   "id": 383648,
+   "title_en": "The WoW: Forever Podcast Episode 6 Now Available - Tech and Community Building",
+   "url": "https://www.wowhead.com/news=383648",
+   "category": "Forever",
+   "published_at": "2026-10-29T16:27:09Z"
+  },
+  {
+   "id": 383630,
+   "title_en": "Planet Azeroth: Episode 1 ft. Bill Bailey",
+   "url": "https://www.wowhead.com/news=383630",
+   "category": "Forever",
+   "published_at": "2026-10-28T16:38:15Z"
+  },
+  {
+   "id": 383603,
+   "title_en": "Myth 2/6 Piece of Loot Now Available from Labyrinths",
+   "url": "https://www.wowhead.com/news=383603",
+   "category": "Live",
+   "published_at": "2026-10-27T22:58:35Z"
+  },
+  {
+   "id": 383573,
+   "title_en": "Blizzard Hints The WoW: Forever Podcast Will Continue",
+   "url": "https://www.wowhead.com/news=383573",
+   "category": "Forever",
+   "published_at": "2026-10-26T15:00:00Z"
   }
  ]
 }
