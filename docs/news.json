@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T16:03:34Z",
+ "generated": "2026-11-14T17:25:56Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3447,6 +3447,13 @@
  ],
  "queue": [
   {
+   "id": 383880,
+   "title_en": "Dungeon Mobs Grant Zero Experience if Trivial to Anyone in Party in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383880",
+   "category": "Forever",
+   "published_at": "2026-11-14T16:16:46Z"
+  },
+  {
    "id": 383861,
    "title_en": "New Dungeon Set Transforms Players into an Ogre in WoW: Forever",
    "url": "https://www.wowhead.com/news=383861",
@@ -3718,13 +3725,6 @@
    "url": "https://www.wowhead.com/news=383570",
    "category": "Live",
    "published_at": "2026-10-24T00:23:57Z"
-  },
-  {
-   "id": 383561,
-   "title_en": "This Week's WoW Recap - WoW: Forever, Hallow's End, Fall Savings",
-   "url": "https://www.wowhead.com/news=383561",
-   "category": "WoW",
-   "published_at": "2026-10-23T17:25:01Z"
   }
  ]
 }
