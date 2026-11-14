@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T00:30:36Z",
+ "generated": "2026-11-14T04:37:21Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3341,6 +3341,20 @@
  ],
  "queue": [
   {
+   "id": 383876,
+   "title_en": "Many Fixes to Dungeons, Quests, Enemies and Classes - WoW: Forever Hotfixes for November 13, 2026",
+   "url": "https://www.wowhead.com/news=383876",
+   "category": "Forever",
+   "published_at": "2026-11-14T01:59:35Z"
+  },
+  {
+   "id": 383875,
+   "title_en": "Blizzard Refunding Gold for Players Who Purchased Skills During Monday Server Issues",
+   "url": "https://www.wowhead.com/news=383875",
+   "category": "Forever",
+   "published_at": "2026-11-14T01:53:22Z"
+  },
+  {
    "id": 383849,
    "title_en": "Riverglades is One of the Best Leveling Zones in WoW: Forever",
    "url": "https://www.wowhead.com/news=383849",
@@ -3605,20 +3619,6 @@
    "url": "https://www.wowhead.com/news=383698",
    "category": "Forever",
    "published_at": "2026-11-03T00:05:25Z"
-  },
-  {
-   "id": 383695,
-   "title_en": "Long Maintenance Planned Ahead of WoW: Forever Launch",
-   "url": "https://www.wowhead.com/news=383695",
-   "category": "Forever",
-   "published_at": "2026-11-02T18:25:59Z"
-  },
-  {
-   "id": 383657,
-   "title_en": "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
-   "url": "https://www.wowhead.com/news=383657",
-   "category": "Forever",
-   "published_at": "2026-10-31T18:00:00Z"
   }
  ]
 }
