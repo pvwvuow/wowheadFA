@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T23:01:46Z",
+ "generated": "2026-11-14T00:29:19Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3341,6 +3341,13 @@
  ],
  "queue": [
   {
+   "id": 383849,
+   "title_en": "Riverglades is One of the Best Leveling Zones in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383849",
+   "category": "Forever",
+   "published_at": "2026-11-13T23:08:44Z"
+  },
+  {
    "id": 383874,
    "title_en": "Blizzard on Encounter Design in Season 3 - Reduced Mechanical Penalties",
    "url": "https://www.wowhead.com/news=383874",
@@ -3612,13 +3619,6 @@
    "url": "https://www.wowhead.com/news=383657",
    "category": "Forever",
    "published_at": "2026-10-31T18:00:00Z"
-  },
-  {
-   "id": 383648,
-   "title_en": "The WoW: Forever Podcast Episode 6 Now Available - Tech and Community Building",
-   "url": "https://www.wowhead.com/news=383648",
-   "category": "Forever",
-   "published_at": "2026-10-29T16:27:09Z"
   }
  ]
 }
