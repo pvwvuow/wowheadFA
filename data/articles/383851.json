@@ -75,12 +75,43 @@
   ],
   "chars": 549
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383851/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383851/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383851/1.jpg",
+ "article_fa": {
+  "title_fa": "تغییرات تلنت Wild Growth برای Restoration Druid در WoW: Forever",
+  "lead_fa": "در قالب یک هاتفیکس، تلنت نهایی Wild Growth برای کلاس Restoration Druid در WoW: Forever دستخوش تغییر شد.",
+  "body_fa": [
+   "بازیکنان Restoration Druid در نسخهٔ WoW: Forever امروز شاهد اعمال تغییراتی روی تلنت شاخص خود یعنی Wild Growth بوده‌اند.",
+   {
+    "t": "h",
+    "x": "جزئیات تغییرات Wild Growth"
+   },
+   "تغییرات اعمال‌شده بر روی این تلنت شامل موارد زیر است:",
+   {
+    "t": "ul",
+    "xs": [
+     "دیگر هنگام حرکت قابل کست کردن نیست.",
+     "ضریب Spell power آن ۱۰۰٪ افزایش یافته و به 0.066 رسیده است (پیش‌تر 0.033 بود)."
+    ]
+   },
+   "دلیل این‌که چرا با عرضهٔ WoW: Forever امکان کست کردن Wild Growth هنگام حرکت وجود داشت مشخص نیست، اما این وضعیت دیگر تغییر کرده است. با این حال، دو برابر شدن بهره‌مندی این اسپل از Spell power احتمالاً به جبران این نرف کمک می‌کند."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "WoW Forever",
+   "Restoration Druid",
+   "تغییرات کلاس‌ها"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-13T22:44:40Z"
+ }
 }
