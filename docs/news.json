@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T17:25:56Z",
+ "generated": "2026-11-14T20:09:02Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3447,6 +3447,13 @@
  ],
  "queue": [
   {
+   "id": 383871,
+   "title_en": "Infiltrate Krol'dok Stronghold: New Dungeon in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383871",
+   "category": "Forever",
+   "published_at": "2026-11-14T19:00:00Z"
+  },
+  {
    "id": 383880,
    "title_en": "Dungeon Mobs Grant Zero Experience if Trivial to Anyone in Party in WoW: Forever",
    "url": "https://www.wowhead.com/news=383880",
@@ -3718,13 +3725,6 @@
    "url": "https://www.wowhead.com/news=383573",
    "category": "Forever",
    "published_at": "2026-10-26T15:00:00Z"
-  },
-  {
-   "id": 383570,
-   "title_en": "Den of Nalorakk and Murder Row Bug Fixes - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383570",
-   "category": "Live",
-   "published_at": "2026-10-24T00:23:57Z"
   }
  ]
 }
