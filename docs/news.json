@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T07:35:40Z",
+ "generated": "2026-11-14T16:02:36Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3447,6 +3447,13 @@
  ],
  "queue": [
   {
+   "id": 383861,
+   "title_en": "New Dungeon Set Transforms Players into an Ogre in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383861",
+   "category": "Forever",
+   "published_at": "2026-11-14T15:00:00Z"
+  },
+  {
    "id": 383869,
    "title_en": "The WoW: Forever Podcast, a New Short Story, This Week’s Videos, and More! — WoW Weekly",
    "url": "https://www.wowhead.com/news=383869",
@@ -3718,13 +3725,6 @@
    "url": "https://www.wowhead.com/news=383561",
    "category": "WoW",
    "published_at": "2026-10-23T17:25:01Z"
-  },
-  {
-   "id": 383547,
-   "title_en": "Who is WoW: Forever Meant For? Blizzard Discusses on Forever Podcast",
-   "url": "https://www.wowhead.com/news=383547",
-   "category": "Forever",
-   "published_at": "2026-10-23T14:00:00Z"
   }
  ]
 }
