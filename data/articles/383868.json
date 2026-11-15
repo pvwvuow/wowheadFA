@@ -99,7 +99,7 @@
   ],
   "chars": 723
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383868/1.jpg",
@@ -109,5 +109,39 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383868/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 2,
- "hold_at": "2026-11-14T21:45:20Z"
+ "hold_at": "2026-11-14T21:45:20Z",
+ "article_fa": {
+  "title_fa": "انتشار داستان کوتاه Cost of Honor برای بازی WoW: Forever",
+  "lead_fa": "شرکت Blizzard داستان کوتاه تازه‌ای تحت عنوان Cost of Honor را برای WoW: Forever در دسترس مخاطبان قرار داد.",
+  "body_fa": [
+   "شرکت Blizzard داستان کوتاه جدیدی را با نام Cost of Honor برای WoW: Forever منتشر کرده است. در این داستان، هم‌زمان با خروش طوفان در آسمان، جوانان منطقه Riverglades گرد آتشی جمع می‌شوند تا ماجراهای پشت افسانه‌های تاریخی خود را از زبان Demar Brant بشنوند.",
+   "این شخصیت با بازگویی ماجراهایی از جنگ، فداکاری و تصمیم‌های دشوار نشان می‌دهد که توان واقعی یک قوم صرفاً در کسب پیروزی نیست، بلکه در شجاعت محافظت از یکدیگر نهفته است.",
+   {
+    "t": "h",
+    "x": "عوامل تولید داستان"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "نویسنده: Jonathan Maberry",
+     "راوی صوتی: Peter Jessop در نقش Demar Brant"
+    ]
+   },
+   {
+    "t": "note",
+    "x": "این داستان کوتاه علاوه بر نسخه صوتی، در قالب فایل دانلودی PDF نیز در دسترس قرار گرفته است.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "داستان کوتاه",
+   "بلیزارد",
+   "WoW Forever"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-15T08:14:41Z"
+ }
 }

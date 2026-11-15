@@ -112,12 +112,42 @@
   ],
   "chars": 1069
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383861/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383861/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383861/1.jpg",
+ "article_fa": {
+  "title_fa": "تبدیل شدن به Ogre با ست دانجن جدید در WoW: Forever",
+  "lead_fa": "بازیکنان قابلیتی مخفی را در ست جدید دانجن Krol'dok Stronghold کشف کرده‌اند که شخصیت آن‌ها را به یک Ogre تبدیل می‌کند.",
+  "body_fa": [
+   "بازیکنان متوجه اثر جانبی ویژه‌ای در ست زره جدید Krol'dok Battlegear از دانجن Krol'dok Stronghold در WoW: Forever شده‌اند. دانجن Krol'dok Stronghold که یکی از سیاه‌چال‌های جدید این عنوان به شمار می‌رود، ستی تازه برای Protection Warrior و Paladin در نظر گرفته است.",
+   {
+    "t": "h",
+    "x": "نحوه کارکرد و پاداش ست Krol'dok Battlegear"
+   },
+   "تهیه بخش‌های مختلف این ست شرایط متفاوتی دارد؛ برخی قطعات مانند [[item:Krol'dok Warplate Pauldrons]] به صورت BoE عرضه می‌شوند و قطعات دیگری نظیر [[item:Krol'dok Warplate Helmet]] از نوع BoP بوده و از باس‌های داخل دانجن لوت می‌شوند.",
+   "وقتی بازیکنان هر ۵ قطعه را به دست آورند، علاوه بر دریافت تمامی پاداش‌های ست (Set Bonuses)، پس از رسیدن به سقف استک‌ها (Max Stacks) در بونوس ست، به یک Ogre تبدیل می‌شوند.",
+   {
+    "t": "h",
+    "x": "سایر ست‌های دانجن در WoW: Forever"
+   },
+   "بلیزارد در کنار افزودن ست‌های دانجن کاملاً جدید مانند Rotmender's Raiment از Ruins of Lordaeron و Violet Sorcerer's Vestments از City of Dalaran، دست به به‌روزرسانی ست‌های قدیمی Classic مثل Embrace of the Viper در دانجن Wailing Caverns نیز زده است.",
+   "به نظر می‌رسد ست‌های دانجن مخصوص ترازگیری (Leveling) در مقایسه با آنچه در Classic WoW وجود داشت، قدرتمندتر و پرپاداش‌تر شده‌اند و به یکی از ویژگی‌های بسیار محبوب در WoW: Forever بدل گشته‌اند."
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "دانجن",
+   "ست زره",
+   "آیتم"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-15T08:07:27Z"
+ }
 }
