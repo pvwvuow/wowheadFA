@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T21:06:32Z",
+ "generated": "2026-11-15T21:07:44Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3329,6 +3329,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383845,
+   "title_en": "Save Gold and Gain Bag Space by Earning Quest Rewards in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383845",
+   "category": "Forever",
+   "published_at": "2026-11-15T19:00:00Z"
+  },
   {
    "id": 383871,
    "title_en": "Infiltrate Krol'dok Stronghold: New Dungeon in WoW: Forever",
