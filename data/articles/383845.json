@@ -269,12 +269,140 @@
   ],
   "chars": 3304
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383845/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383845/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383845/1.jpg",
+ "article_fa": {
+  "title_fa": "راهنمای ارتقای کیف در WoW: Forever از طریق پاداش کوئست‌ها و باس‌ها",
+  "lead_fa": "اگر در حین ارتقای سطح در WoW: Forever به دنبال افزایش فضای اینونتوری هستید اما قصد صرف گلد زیادی ندارید، کوئست‌ها و باس‌های بازی گزینه‌های مناسبی برای دریافت کیف به شمار می‌روند.",
+  "body_fa": [
+   "در طول ارتقای سطح در WoW: Forever، آیتم‌های زیادی از جمله منابع مصرفی، آیتم‌های کوئست و مواردی که قصد فروش آن‌ها به وندور را دارید جمع‌آوری می‌شوند و فضای کیف به‌ویژه در لول‌های اولیه اهمیت بالایی پیدا می‌کند. در شروع ماجراجویی، بازی‌کنندگان می‌توانند با دریافت چهار کیف ۶ اسلاتی در مناطق ابتدایی و ترکیب آن با ۲۰ اسلات پایه، در مجموع ۴۲ اسلات داشته باشند. با این حال، به دلیل هزینه‌های مداوم یادگیری اسکیل در هر ۲ لول، و همچنین هزینه‌های Dual Spec و Mount Training در لول 40، ممکن است گلد کافی برای خرید کیف در دسترس نباشد.",
+   "اگرچه کیف‌هایی به عنوان دراپ تصادفی از ماب‌های جهان بازی، مانند [[item:Large Blue Sack]] وجود دارند، اما دریافت کیف از مسیر کوئست‌ها یا کشتن باس‌ها راهکار مشخص‌تری به حساب می‌آید.",
+   {
+    "t": "h",
+    "x": "کیف‌های به دست آمده از طریق کوئست‌ها"
+   },
+   "تعدادی کوئست در طول بازی پاداش کیف دارند که چهار مورد از کوئست‌های جدید در لول‌های اولیه قرار دارند. باید توجه داشت که تمام این کوئست‌ها را ممکن است نتوان در همان لول در دسترس به‌صورت انفرادی کامل کرد.",
+   {
+    "t": "table",
+    "head": [
+     "نام کیف",
+     "منبع دریافت (کوئست)"
+    ],
+    "rows": [
+     [
+      "[[item:Wizbang's Gunnysack]]",
+      "Buzzbox 525 (لول ۷)"
+     ],
+     [
+      "[[item:Old Blanchy's Feed Pouch]]",
+      "Poor Old Blanchy (لول ۹)"
+     ],
+     [
+      "[[item:Scuffed Shipping Crate]]",
+      "Parts and Pieces (لول ۹)"
+     ],
+     [
+      "[[item:Captain Sander's Booty Bag]]",
+      "Captain Sander's Hidden Treasure (لول ۱۰)"
+     ],
+     [
+      "[[item:Deviate Hide Pack]]",
+      "Deviate Hides (لول ۱۳)"
+     ],
+     [
+      "[[item:Old Toolbox]]",
+      "Stepping Stones در زنجیره کوئست Sleeping Bag (لول ۱۴)"
+     ],
+     [
+      "[[item:Hunting Satchel]]",
+      "Vyrin's Revenge (لول ۱۵)"
+     ],
+     [
+      "[[item:Gunnysack of the Night Watch]]",
+      "The Night Watch (لول ۱۸)"
+     ],
+     [
+      "[[item:Ooze-covered Bag]]",
+      "Digging Through the Ooze (لول ۱۹)"
+     ],
+     [
+      "[[item:Spidersilk Pouch]]",
+      "Stronger than Steel در Mulgore (لول ۲۹)"
+     ],
+     [
+      "[[item:Explorer's Knapsack]]",
+      "Cortello's Riddle (لول ۳۵)"
+     ],
+     [
+      "[[item:Thawpelt Sack]]",
+      "The Platinum Discs (لول 40)"
+     ]
+    ]
+   },
+   {
+    "t": "note",
+    "x": "برخی کوئست‌های ارائه‌دهنده کیف چالش زیادی دارند و انجام تک‌نفره آن‌ها به محض در دسترس قرار گرفتن شاید امکان‌پذیر نباشد.",
+    "kind": "warn"
+   },
+   {
+    "t": "h",
+    "x": "کیف‌های دراپ شده از باس‌ها"
+   },
+   "علاوه بر کوئست‌ها، باس‌های دانجن‌ها و ماب‌های خاص در جهان بازی نیز امکان دراپ کیف را دارند و شانس افتادن آن‌ها به‌مراتب از ماب‌های معمولی بالاتر است.",
+   {
+    "t": "table",
+    "head": [
+     "نام کیف",
+     "منبع دراپ"
+    ],
+    "rows": [
+     [
+      "[[item:Gnoll Hide Sack]]",
+      "Fedfennel در Elwynn Forest"
+     ],
+     [
+      "[[item:Large Rucksack]]",
+      "Foe Reaper 4000 در Westfall"
+     ],
+     [
+      "[[item:Fel Steed Saddlebags]]",
+      "Fel Steed در Shadowfang Keep"
+     ],
+     [
+      "[[item:Murloc Skin Bag]]",
+      "Gelihast در Blackfathom Deeps"
+     ],
+     [
+      "[[item:Snakeskin Bag]]",
+      "Lady Anacondra در Wailing Caverns"
+     ],
+     [
+      "[[item:Sturdy Lunchbox]]",
+      "Venture Co. Foreman در Stranglethorn Vale"
+     ],
+     [
+      "[[item:Wayfarer's Knapsack]]",
+      "Ribbly Screwspigot در Blackrock Depths"
+     ]
+    ]
+   },
+   "استفاده از این گزینه‌ها می‌تواند تا حد زیادی نیاز شما به ارتقای فضای ذخیره‌سازی را در حین لول‌آپ و بدون نیاز به صرف گلد زیاد پوشش دهد."
+  ],
+  "tags_fa": [
+   "راهنما",
+   "کویست",
+   "WoW Forever"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-15T21:31:30Z"
+ }
 }

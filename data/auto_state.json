@@ -1,6 +1,6 @@
 {
  "day": "2026-11-15",
- "published_today": 12,
+ "published_today": 14,
  "held": {
   "383871": {
    "reason": "G3 long English run: Rock on Stick\nOne-Hand Mace\nEye of Mugg\nBigger Rock on Bigger Stick\nTw... | G5 English token not in source: shadow",
@@ -11,13 +11,25 @@
    "reason": "پاراگراف پایانی («در کنار گفت‌وگوهای بازیکنان...») اسپم‌های تبلیغاتی کامنت‌ها، تاریخ تیترهای نامربوط و ارقام بی‌معنی را به عنوان محتوای گزارش خبری مطرح کرده که تحریف و اطلاعات نامربوط است.",
    "at": "2026-11-15T20:56:07Z",
    "at_ts": 1794776167.888805
+  },
+  "383824": {
+   "reason": "جملهٔ «تغییرات سرعت ضربه سلاح‌ها در مقادیر 2.3 و 2.6 و نیز 3.2 و 3.6 مد نظر قرار گرفته است» شامل مقادیر عددی برای سرعت ضربه است که در متن منبع وجود ندارد.",
+   "at": "2026-11-15T21:41:37Z",
+   "at_ts": 1794778897.273315
+  },
+  "383738": {
+   "reason": "G4 numbers from source missing in article: 1.60.1, 11, 17, 20, 2026, 30, 383738, 60",
+   "at": "2026-11-15T21:52:59Z",
+   "at_ts": 1794779579.378826
+  },
+  "383736": {
+   "reason": "G4 numbers from source missing in article: 10, 11, 12, 12.1.5, 14, 17, 20, 2026",
+   "at": "2026-11-15T21:57:00Z",
+   "at_ts": 1794779820.119889
   }
  },
  "ingest_fails": {
-  "383768": 1,
-  "383741": 1,
-  "383738": 1,
-  "383736": 1,
+  "383741": 2,
   "383725": 1,
   "383716": 1,
   "383713": 1,
@@ -35,70 +47,10 @@
   "383487": 1,
   "383518": 1
  },
- "updated_at": "2026-11-15T21:05:17Z",
+ "updated_at": "2026-11-15T21:57:00Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383742",
-    "ts": "2026-11-11T09:24:00Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 48.5,
-    "attempts": 0
-   },
-   {
-    "id": "383741",
-    "ts": "2026-11-11T09:27:27Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 1,
-    "warns": 0,
-    "sec": 207.0,
-    "attempts": 2
-   },
-   {
-    "id": "383738",
-    "ts": "2026-11-11T09:28:15Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 48.2,
-    "attempts": 0
-   },
-   {
-    "id": "383736",
-    "ts": "2026-11-11T09:28:57Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 42.1,
-    "attempts": 0
-   },
-   {
-    "id": "383725",
-    "ts": "2026-11-11T09:29:57Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 59.4,
-    "attempts": 0
-   },
-   {
-    "id": "383735",
-    "ts": "2026-11-11T09:31:26Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 89.0,
-    "attempts": 0
-   },
    {
     "id": "383727",
     "ts": "2026-11-11T09:33:47Z",
@@ -4037,6 +3989,66 @@
     "blocks": 0,
     "warns": 0,
     "sec": 101.2,
+    "attempts": 2
+   },
+   {
+    "id": "383845",
+    "ts": "2026-11-15T21:31:30Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 176.9,
+    "attempts": 1
+   },
+   {
+    "id": "383824",
+    "ts": "2026-11-15T21:41:37Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 606.4,
+    "attempts": 2
+   },
+   {
+    "id": "383768",
+    "ts": "2026-11-15T21:44:44Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 187.1,
+    "attempts": 0
+   },
+   {
+    "id": "383741",
+    "ts": "2026-11-15T21:45:05Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 20.7,
+    "attempts": 0
+   },
+   {
+    "id": "383738",
+    "ts": "2026-11-15T21:52:59Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 474.4,
+    "attempts": 2
+   },
+   {
+    "id": "383736",
+    "ts": "2026-11-15T21:57:00Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 240.7,
     "attempts": 2
    }
   ]
