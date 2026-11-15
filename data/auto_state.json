@@ -1,16 +1,16 @@
 {
  "day": "2026-11-15",
- "published_today": 9,
+ "published_today": 12,
  "held": {
   "383871": {
-   "reason": "G5 English token not in source: shadow",
-   "at": "2026-11-15T16:55:38Z",
-   "at_ts": 1794761738.276277
+   "reason": "G3 long English run: Rock on Stick\nOne-Hand Mace\nEye of Mugg\nBigger Rock on Bigger Stick\nTw... | G5 English token not in source: shadow",
+   "at": "2026-11-15T20:50:42Z",
+   "at_ts": 1794775842.573929
   },
   "383863": {
-   "reason": "جمله پایانی با ذکر اعدادی مثل «15,000»، «8750» و غیره، کامنت‌های اسپم تبلیغاتی و لایک‌های بخش نظرات کاربران را به عنوان آمار و فکت‌های تحلیلی ریتِیل وارد خبر کرده است که کاملاً بی‌ربط و نادرست است. | هشدار: 1",
-   "at": "2026-11-15T17:05:03Z",
-   "at_ts": 1794762303.37676
+   "reason": "پاراگراف پایانی («در کنار گفت‌وگوهای بازیکنان...») اسپم‌های تبلیغاتی کامنت‌ها، تاریخ تیترهای نامربوط و ارقام بی‌معنی را به عنوان محتوای گزارش خبری مطرح کرده که تحریف و اطلاعات نامربوط است.",
+   "at": "2026-11-15T20:56:07Z",
+   "at_ts": 1794776167.888805
   }
  },
  "ingest_fails": {
@@ -35,60 +35,10 @@
   "383487": 1,
   "383518": 1
  },
- "updated_at": "2026-11-15T17:10:36Z",
+ "updated_at": "2026-11-15T21:05:17Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383768",
-    "ts": "2026-11-11T06:10:32Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 1,
-    "warns": 0,
-    "sec": 106.9,
-    "attempts": 2
-   },
-   {
-    "id": "383742",
-    "ts": "2026-11-11T06:12:17Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 104.8,
-    "attempts": 2
-   },
-   {
-    "id": "383833",
-    "ts": "2026-11-11T09:18:45Z",
-    "path": "primary",
-    "result": "published",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 75.7,
-    "attempts": 1
-   },
-   {
-    "id": "383824",
-    "ts": "2026-11-11T09:21:41Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 3,
-    "warns": 0,
-    "sec": 175.8,
-    "attempts": 2
-   },
-   {
-    "id": "383768",
-    "ts": "2026-11-11T09:23:12Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 1,
-    "warns": 0,
-    "sec": 90.8,
-    "attempts": 2
-   },
    {
     "id": "383742",
     "ts": "2026-11-11T09:24:00Z",
@@ -4038,6 +3988,56 @@
     "warns": 0,
     "sec": 92.5,
     "attempts": 1
+   },
+   {
+    "id": "383879",
+    "ts": "2026-11-15T20:37:21Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 1100.7,
+    "attempts": 1
+   },
+   {
+    "id": "383871",
+    "ts": "2026-11-15T20:50:42Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 801.1,
+    "attempts": 2
+   },
+   {
+    "id": "383863",
+    "ts": "2026-11-15T20:56:07Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 325.3,
+    "attempts": 2
+   },
+   {
+    "id": "383829",
+    "ts": "2026-11-15T21:03:36Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 1,
+    "sec": 448.6,
+    "attempts": 2
+   },
+   {
+    "id": "383827",
+    "ts": "2026-11-15T21:05:17Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 101.2,
+    "attempts": 2
    }
   ]
  }

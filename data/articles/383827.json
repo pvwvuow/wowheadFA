@@ -170,7 +170,7 @@
   ],
   "chars": 2009
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383827/1.jpg",
@@ -180,5 +180,105 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383827/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 1,
- "hold_at": "2026-11-13T22:58:34Z"
+ "hold_at": "2026-11-13T22:58:34Z",
+ "article_fa": {
+  "title_fa": "راهنمای انتخاب باف‌های Darkmoon Faire در WoW: Forever",
+  "lead_fa": "در بازی WoW: Forever بازیکنان می‌توانند باف‌های دو ساعته دریافت کنند که مسیر ارتقای سطح و دانجن‌ها را هموارتر می‌سازد.",
+  "body_fa": [
+   "در سرورهای WoW: Forever بازی‌کنندگان امکان دریافت یک باف ۲ ساعته دارند تا به روند Leveling یا پاکسازی Dungeon آنها کمک کند. برای بازیکنان تازه‌کار گزینه‌های متعددی وجود دارد که ارزش برخی از آنها نسبت به بقیه بیشتر است.",
+   {
+    "t": "h",
+    "x": "بهترین گزینه برای Leveling"
+   },
+   "انتخاب رایج و استاندارد در بیشتر شرایط باف Sayge's Dark Fortune of Damage است. این باف ۱۰٪ به Damage اضافه می‌کند و به‌ویژه روند ارتقای سطح را برای نقش‌های Tank و Healer بسیار سریع‌تر پیش می‌برد.",
+   {
+    "t": "table",
+    "head": [
+     "باف",
+     "اثر",
+     "گزینهٔ اول دیالوگ",
+     "گزینهٔ دوم دیالوگ"
+    ],
+    "rows": [
+     [
+      "Sayge's Dark Fortune of Damage",
+      "+10% Damage",
+      "Slay the Man (گزینه ۱)",
+      "Execute your friend painfully (گزینه ۱)"
+     ],
+     [
+      "Sayge's Dark Fortune of Agility",
+      "+10% Agility",
+      "Confiscate the corn (گزینه ۳)",
+      "Keep your brother out without letting him know (گزینه ۳)"
+     ],
+     [
+      "Sayge's Dark Fortune of Strength",
+      "+10% Strength",
+      "Confiscate the corn (گزینه ۳)",
+      "Help your brother in (گزینه ۲)"
+     ],
+     [
+      "Sayge's Dark Fortune of Stamina",
+      "+10% Stamina",
+      "Confiscate the corn (گزینه ۳)",
+      "Speak against your brother openly (گزینه ۱)"
+     ],
+     [
+      "Sayge's Dark Fortune of Intelligence",
+      "+10% Intelligence",
+      "Turn him over to liege (گزینه ۲)",
+      "Show not-so-quiet defiance (گزینه ۲)"
+     ],
+     [
+      "Sayge's Dark Fortune of Spirit",
+      "+10% Spirit",
+      "Turn him over to liege (گزینه ۲)",
+      "Confront the diplomat (گزینه ۱)"
+     ],
+     [
+      "Sayge's Dark Fortune of Armor",
+      "+10% Armor",
+      "Slay the Man (گزینه ۱)",
+      "Let your friend go (گزینه ۳)"
+     ],
+     [
+      "Sayge's Dark Fortune of Resistance",
+      "+25 All Resistances",
+      "Slay the Man (گزینه ۱)",
+      "Execute your friend painlessly (گزینه ۲)"
+     ]
+    ]
+   },
+   {
+    "t": "note",
+    "x": "این باف‌ها همراه با تمام World Buffهای دیگر، در Raid هیچ اثری ندارند و متن هشداری برای یادآوری این موضوع به بازیکنان اضافه شده است.",
+    "kind": "warn"
+   },
+   {
+    "t": "h",
+    "x": "جوایز بلیت‌های دارک‌مون"
+   },
+   "علاوه بر دریافت باف، بازیکنان می‌توانند با تحویل آیتم‌ها در Darkmoon Faire بلیت به دست آورند و آیتم‌های اختصاصی آن را تهیه کنند:",
+   {
+    "t": "ul",
+    "xs": [
+     "کیف ۱۴ اسلاتی با نام [[item:Darkmoon Storage Box]]",
+     "هزینهٔ خرید این کیف ۵۵ بلیت است"
+    ]
+   },
+   "پیش از شروع مسیر لول‌آپ یا رفتن به دانجن‌ها، سر زدن به چادرهای این رویداد و پاسخ به سوالات Sayge بازدهی شخصیت شما را به شکلی چشمگیر بالا می‌برد."
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "Darkmoon Faire",
+   "باف‌ها",
+   "راهنما"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-15T21:05:17Z"
+ }
 }

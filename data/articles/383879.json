@@ -164,12 +164,54 @@
   ],
   "chars": 1484
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383879/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383879/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383879/1.jpg",
+ "article_fa": {
+  "title_fa": "کشف جوایز و اسباب‌بازی جدید در سیاهچاله Blackrock Depths در سرور Forever",
+  "lead_fa": "بازیکنان سرور WoW: Forever در مکانی از دانجن Blackrock Depths که پیش‌تر در Season of Discovery رازی داشت، یک اسباب‌بازی و جوایز جدید پیدا کردند.",
+  "body_fa": [
+   "در حالی که این هفته بیشتر بازیکنان هنوز در لول‌های ابتدایی مشغول ماجراجویی هستند، برخی از آن‌ها دانجن‌های لول‌بالاتر را کاوش کرده و به دنبال نشانه‌هایی از رازها و شگفتی‌های Season of Discovery بوده‌اند. کاربری با نام SeventeenUncles متوجه شده است منطقه‌ای در Blackrock Depths که قبلاً کوئستی برای Toy به نام Rainbow Generator در آن قرار داشت، اکنون شامل یک Toy جدید است.",
+   {
+    "t": "h",
+    "x": "جوایز به‌دست‌آمده و نحوه کار اسباب‌بازی"
+   },
+   "با استفاده از این اسباب‌بازی، می‌توانید از فهرستی از موارد انتخاب کنید تا روی تابلوی شما (signpost) قرار گیرد؛ این تابلو به مدت ۱ ساعت در محل باقی می‌ماند و سایر بازیکنان هم می‌توانند آن را مشاهده کنند.",
+   {
+    "t": "ul",
+    "xs": [
+     "یک Toy جدید تابلوساز با ماندگاری ۱ ساعته",
+     "[[item:Student Fodder]]",
+     "[[item:Premo's Poise-Demanding Uniform]]"
+    ]
+   },
+   "پیراهن [[item:Premo's Poise-Demanding Uniform]] در صورت استفاده، زاویه دید شما را به سمت هدفتان (Target) می‌چرخاند. این آیتم نقش مهمی در راز Seventeen & the Secret Agents در Season of Discovery داشت و برای اکتشافات در سرور Forever نیز مهم خواهد بود.",
+   {
+    "t": "h",
+    "x": "مسیر رسیدن به پلتفرم"
+   },
+   "سکوی مربوطه دقیقاً در شرق بخش Ring در Blackrock Depths واقع شده است. پلی در آنجا وجود دارد که به سمت شمال و از روی گدازه‌ها (Lava) عبور می‌کند. هنگام قرارگیری روی پل، ماب‌های روبروی خود شامل Blazing Fireguards و Shadowforge Dwarves را شکست دهید و سپس برای انجام حرکات پارکور آماده شوید.",
+   {
+    "t": "note",
+    "x": "کمتر از دو هفته از انتشار سرور WoW: Forever می‌گذرد و این عنوان تاکنون پر از شگفتی‌ها و آیتم‌های قابل‌جمع‌آوری بوده است. علاقه‌مندان به کشف رازها می‌توانند به سرور دیسکورد WoW Secret Finding ملحق شوند.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "رازها",
+   "سرور Forever",
+   "سیاهچاله‌ها",
+   "اسباب بازی"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-15T20:37:21Z"
+ }
 }
