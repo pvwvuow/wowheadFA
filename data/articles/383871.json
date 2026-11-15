@@ -302,5 +302,71 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383871/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 2,
- "hold_at": "2026-11-15T07:56:28Z"
+ "hold_at": "2026-11-15T07:56:28Z",
+ "last_rejected": {
+  "title_fa": "معرفی دانجن جدید Krol'dok Stronghold در سرور WoW: Forever",
+  "lead_fa": "سیاه‌چال جدید Krol'dok Stronghold برای بازیکنان سطح ۴۰ تا ۴۵ در منطقهٔ Riverglades در دسترس قرار گرفته است.",
+  "body_fa": [
+   "سیاه‌چال Krol'dok Stronghold یکی از دانجن‌های جدید سرور WoW: Forever برای محدودهٔ Level 40-45 است که در منطقهٔ تازهٔ Riverglades قرار دارد. این دانجن بسیار وسیع، پایتخت اوگرهای Krol'dok را به تصویر می‌کشد که اعضای Twilight's Hammer و Shadowhide Gnoll Clan از ردریج به آن نفوذ کرده‌اند.",
+   {
+    "t": "h",
+    "x": "کوئست‌های دانجن برای هر دو فکشن"
+   },
+   "در مجموع ۵ کوئست برای اعضای Alliance و ۴ کوئست برای Horde در نظر گرفته شده است. زنجیرهٔ این مأموریت‌ها طولانی بوده و از مراکز اصلی هر فکشن آغاز می‌شود.",
+   {
+    "t": "note",
+    "x": "هر دو جناح هورد و آلیانس باید حتماً ۱۲ عدد Iron Bars و ۴ عدد Thick Leather برای انجام کوئست Key Ingredients همراه داشته باشند.",
+    "kind": "warn"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "کوئست Vengeance of the Highborne در لول ۳۷ برای آلیانس در Dalaran واقع در Alterac Mountains از طریق Ranath Nightstride در مختصات 17.8 66.0 شروع می‌شود.",
+     "کوئست Twilight Mementos در لول ۳۸ برای آلیانس در Twilights Shroud واقع در Riverglades توسط Sergeant Riftan در مختصات 30.6 49.0 در دسترس است؛ این زنجیره با Curious Trinkets و Scraps of Knowledge و Saving Sunnyglade از Ashe Amberhall و Demar Brant در Farholde Keep در مختصات 66.6 81.0 کلید می‌خورد.",
+     "کوئست Eye of Mugg در لول ۴۰ و کوئست Tome of Twilight در لول ۳۹ برای آلیانس از Farholde Keep در مختصات 66.6 81.0 آغاز می‌شوند.",
+     "کوئست A Token of Vengeance در لول ۳۸ برای هورد از Da'grosh در مختصات 33.4 38 پیش از Riverglades آغاز شده و پیش‌نیاز آن به Krom'rosh در مختصات 59.4 45.6 و کوئست The Wayward Warrior برمی‌گردد.",
+     "کوئست‌های Tome of Twilight و Eye of Mugg در لول ۳۸ برای هورد در Rom'gar به ترتیب از Tran'gul در مختصات 59.4 44 و Krom'rosh در مختصات 59.4 45.6 آغاز می‌شوند.",
+     "آیتم Krol'dok Moulding که منجر به مأموریت Key Ingredients در لول ۳۸ می‌شود، داخل دانجن از Tunk لوت خواهد شد."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "جوایز مأموریت‌ها"
+   },
+   "از جوایز برجستهٔ کوئست‌های این دانجن می‌توان به دو سلاح اشاره کرد:",
+   {
+    "t": "ul",
+    "xs": [
+     "سلاح One-Hand Mace به نام Rock on Stick از کوئست Eye of Mugg",
+     "سلاح Two-Hand Mace به نام Bigger Rock on Bigger Stick"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "باس‌های دانجن Krol'dok Stronghold"
+   },
+   "این سیاه‌چال دارای ۶ باس مختلف است که هر یک ویژگی‌های نبرد مخصوص به خود را دارند:",
+   {
+    "t": "ul",
+    "xs": [
+     "باس Slavecrusher Grox: از Redridge Prisoners کمک می‌خواهد و روی خود و زندانیان Bloodlust می‌زند.",
+     "باس Twilight Commander Zarmok: با مهارت Rending Whirl دمیج سنگین AoE می‌زند و در سلامت 30% وارد Enrage می‌شود.",
+     "باس War Handler Ashka: همراه دو گرگ حضور دارد و با توانایی Command: Kill! آن‌ها را به سمت اعضای گروه می‌فرستد.",
+     "باس Nar'gurk: توسط پیروان فرقه احاطه شده، طلسم Shadow Bolt Volley کست می‌کند و با قابلیت Convert کنترل یک بازیکن تصادفی را به دست می‌گیرد که برای شکستن آن باید سلامت هدف به ۵۰٪ کاهش یابد.",
+     "باس Bossman Toof: این مبارزه شامل امواجی از دشمنان اضافه است و خود باس یک جنگجو با مهارت‌های Mortal Strike و Thunderclap و Demoralizing Shout است.",
+     "باس Overlord Mugg: فرمانروای منطقه که یک استاد سلاح است و از طریق Mugg's Fury بین سلاح‌های Set of Maces و Set of Mauls جابه‌جا می‌شود؛ او همچنین با Crushing Slam به سمت بازیکنان پریده و آن‌ها را به عقب پرتاب می‌کند."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "دشمنان عادی سیاه‌چال"
+   },
+   "دشمنان ترش در این محتوا ارتقای قدرت چشمگیری داشته‌اند. خطرناک‌ترین دشمنان Twilight Grunts هستند که با ابیلیتی Bladestorm به تمام بازیکنان در فاصلهٔ ۸ یاردی آسیب گسترده می‌زنند و در صورت رویارویی با چند عدد از آن‌ها، می‌توانند گروه را به سرعت از بین ببرند."
+  ],
+  "tags_fa": [
+   "سیاه چال",
+   "Forever",
+   "راهنما"
+  ]
+ }
 }

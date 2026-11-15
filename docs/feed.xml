@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>WoWhead FA — اخبار ورلد آو وارکرفت به فارسی</title>
 <link>https://pvwvuow.github.io/wowheadFA/</link><description>بازنویسی اورجینال فارسیِ آخرین اخبار World of Warcraft — پچ، هاتفیکس، تیونینگ کلاس‌ها و Midnight. با ذکر منبع Wowhead؛ غیررسمی و بدون وابستگی.</description>
-<item><title>صفر شدن تجربه دانجن‌ها در صورت حضور بازیکن لول‌بالا در WoW: Forever</title>
+<item><title>تغییر سازوکار دریافت XP دانجن‌ها در WoW: Forever</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383883-dungeon-mobs-now-grant-zero-experience-when-highest-player-is-13-level.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383883-dungeon-mobs-now-grant-zero-experience-when-highest-player-is-13-level.html</guid>
+<pubDate>2026-11-15T01:20:35Z</pubDate>
+<description>بلیزارد در پی بازخوردهای بازیکنان، شرط صفر شدن XP دانجن‌ها را به اختلاف بیش از ۱۲ لول نسبت به دشمنان تغییر داد.</description></item><item><title>صفر شدن تجربه دانجن‌ها در صورت حضور بازیکن لول‌بالا در WoW: Forever</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383880-dungeon-mobs-grant-zero-experience-if-trivial-to-anyone-in-party-in-wo.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383880-dungeon-mobs-grant-zero-experience-if-trivial-to-anyone-in-party-in-wo.html</guid>
 <pubDate>2026-11-14T16:16:46Z</pubDate>
@@ -57,7 +61,15 @@
 <link>https://pvwvuow.github.io/wowheadFA/article/383846-new-max-level-weekly-quest-rewards-up-to-100-gold-in-wow-forever.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383846-new-max-level-weekly-quest-rewards-up-to-100-gold-in-wow-forever.html</guid>
 <pubDate>2026-11-13T01:10:58Z</pubDate>
-<description>بازیکنانی که در WoW: Forever به لول مکس می‌رسند، می‌توانند با انجام یک کوئست هفتگی جدید تا ۱۰۰ گلد پاداش تصادفی دریافت کنند.</description></item><item><title>کشف سلاح سطح بالای Battle Mage با نام Wit&#x27;s Edge در WoW: Forever</title>
+<description>بازیکنانی که در WoW: Forever به لول مکس می‌رسند، می‌توانند با انجام یک کوئست هفتگی جدید تا ۱۰۰ گلد پاداش تصادفی دریافت کنند.</description></item><item><title>خالی شدن اکشن‌بارها هنگام خروج از بازی پس از یادگیری Dual Spec</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383862-learning-dual-spec-can-trigger-empty-action-bars-when-logging-out-in-w.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383862-learning-dual-spec-can-trigger-empty-action-bars-when-logging-out-in-w.html</guid>
+<pubDate>2026-11-12T22:45:42Z</pubDate>
+<description>پس از تهیه قابلیت Dual Spec، باگی رخ می‌دهد که ممکن است هنگام خروج از بازی نوار توانایی‌ها را به‌طور تصادفی خالی کند.</description></item><item><title>بازگشت رید Scarlet Enclave از Season of Discovery در بازی WoW: Forever</title>
+<link>https://pvwvuow.github.io/wowheadFA/article/383855-season-of-discovery-s-scarlet-enclave-raid-to-return-in-wow-forever.html</link>
+<guid>https://pvwvuow.github.io/wowheadFA/article/383855-season-of-discovery-s-scarlet-enclave-raid-to-return-in-wow-forever.html</guid>
+<pubDate>2026-11-12T22:02:00Z</pubDate>
+<description>بلیزارد در تازه‌ترین قسمت از پادکست WoW: Forever تأیید کرد که رید اختصاصی The Scarlet Enclave در آینده به این بازی بازخواهد گشت.</description></item><item><title>کشف سلاح سطح بالای Battle Mage با نام Wit&#x27;s Edge در WoW: Forever</title>
 <link>https://pvwvuow.github.io/wowheadFA/article/383860-new-high-level-battle-mage-weapon-discovered-in-wow-forever.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383860-new-high-level-battle-mage-weapon-discovered-in-wow-forever.html</guid>
 <pubDate>2026-11-12T19:25:01Z</pubDate>
@@ -229,16 +241,4 @@
 <link>https://pvwvuow.github.io/wowheadFA/article/383774-minimum-deposit-of-1-silver-required-to-list-items-on-auction-house-in.html</link>
 <guid>https://pvwvuow.github.io/wowheadFA/article/383774-minimum-deposit-of-1-silver-required-to-list-items-on-auction-house-in.html</guid>
 <pubDate>2026-11-05T23:29:31Z</pubDate>
-<description>در بازی WoW: Forever، قرار دادن کالا در Auction House به پرداخت حداقل ودیعه ۱ نقره نیاز دارد.</description></item><item><title>کاهش سختی نبرد Twin Fangs در درجه سختی Mythic</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383773-mythic-twin-fangs-nerf-for-the-venomous-abyss-raid.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383773-mythic-twin-fangs-nerf-for-the-venomous-abyss-raid.html</guid>
-<pubDate>2026-11-05T22:48:36Z</pubDate>
-<description>چند روز پس از ریست هفتگی، نبرد Twin Fangs روی سرورهای زنده تضعیف شد و جریمه از دست دادن اینتراپت کاهش یافت.</description></item><item><title>بررسی مشکلات برخی کوئست‌های اسکورت و آندد پالادین در WoW: Forever توسط بلیزارد</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383771-blizzard-investigating-issues-with-certain-escort-quests-in-wow-foreve.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383771-blizzard-investigating-issues-with-certain-escort-quests-in-wow-foreve.html</guid>
-<pubDate>2026-11-05T20:23:47Z</pubDate>
-<description>تیم پشتیبانی Blizzard در حال بررسی باگ‌های گزارش‌شده در چندین کوئست اسکورت و یکی از ماموریت‌های آغازین Undead Paladin در WoW: Forever است.</description></item><item><title>پیش‌نیازهای جدید کوئست‌های دانجن Ruins of Lordaeron در سرورهای لایو WoW: Forever</title>
-<link>https://pvwvuow.github.io/wowheadFA/article/383769-new-prerequisites-required-for-ruins-of-lordaeron-dungeon-quests-in-wo.html</link>
-<guid>https://pvwvuow.github.io/wowheadFA/article/383769-new-prerequisites-required-for-ruins-of-lordaeron-dungeon-quests-in-wo.html</guid>
-<pubDate>2026-11-05T18:51:44Z</pubDate>
-<description>در سرورهای لایو WoW: Forever دریافت دو کوئست فکشن Horde برای دانجن Ruins of Lordaeron نیازمند انجام زنجیره‌کوئست‌های پیش‌نیاز شده است.</description></item></channel></rss>
+<description>در بازی WoW: Forever، قرار دادن کالا در Auction House به پرداخت حداقل ودیعه ۱ نقره نیاز دارد.</description></item></channel></rss>

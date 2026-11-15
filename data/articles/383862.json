@@ -116,7 +116,7 @@
   ],
   "chars": 1021
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383862/1.jpg",
@@ -126,5 +126,34 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383862/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 2,
- "hold_at": "2026-11-15T07:32:00Z"
+ "hold_at": "2026-11-15T07:32:00Z",
+ "article_fa": {
+  "title_fa": "خالی شدن اکشن‌بارها هنگام خروج از بازی پس از یادگیری Dual Spec",
+  "lead_fa": "پس از تهیه قابلیت Dual Spec، باگی رخ می‌دهد که ممکن است هنگام خروج از بازی نوار توانایی‌ها را به‌طور تصادفی خالی کند.",
+  "body_fa": [
+   "بازیکنان می‌توانند در لول 40 با پرداخت 50 گلد قابلیت Dual Spec را خریداری کنند تا به درخت تلنت دوم دسترسی داشته باشند. با این حال، گزارش‌ها نشان می‌دهد پس از یادگیری این ویژگی، اشکالی تصادفی هنگام خروج از بازی رخ می‌دهد که توانایی‌ها را از Action Bar پاک می‌کند.",
+   "این باگ همیشه اتفاق نمی‌افتد و هر بار ممکن است نوارهای مختلفی را ریست کند. اگرچه این ایراد تأثیری روی قابلیت‌های مبارزه‌ای نمی‌گذارد، اما مشاهدهٔ نوار کاملاً خالی پس از هر بار ورود به بازی آزاردهنده است.",
+   {
+    "t": "note",
+    "x": "این باگ به‌صورت تصادفی نوارهای مختلف اکشن‌بار را خالی می‌کند، اما مستقیماً روی توانایی‌های مبارزه‌ای کاراکتر اثرگذار نیست.",
+    "kind": "warn"
+   },
+   {
+    "t": "h",
+    "x": "راهکار موقت بازیکنان"
+   },
+   "به دلیل بروز این مشکل، بسیاری از بازیکنان به استفاده از ادآن Myslot روی آورده‌اند. این ادآن برای ذخیره و ایمپورت رابط کاربری میان اکانت‌ها، سیستم‌های مختلف یا کاراکترهای آلت طراحی شده است، اما اکنون برای پر کردن سریع نوار توانایی‌های خالی‌شده پس از هر بار ریست به کار می‌رود."
+  ],
+  "tags_fa": [
+   "باگ",
+   "Dual Spec",
+   "ادآن",
+   "Myslot"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-15T13:31:25Z"
+ }
 }

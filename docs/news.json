@@ -1,8 +1,48 @@
 {
- "generated": "2026-11-15T08:52:19Z",
+ "generated": "2026-11-15T13:37:02Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383883,
+   "slug": "dungeon-mobs-now-grant-zero-experience-when-highest-player-is-13-level",
+   "title_fa": "تغییر سازوکار دریافت XP دانجن‌ها در WoW: Forever",
+   "lead_fa": "بلیزارد در پی بازخوردهای بازیکنان، شرط صفر شدن XP دانجن‌ها را به اختلاف بیش از ۱۲ لول نسبت به دشمنان تغییر داد.",
+   "body_fa": [
+    "در تغییری تازه برای دانجن‌ها، ماب‌های دانجن زمانی که بالاترین بازیکن گروه بیش از ۱۲ لول بالاتر از موجود باشد، هیچ Experience یا به اصطلاح صفر XP خواهند داد؛ این موضوع جایگزین قانون قبلی یعنی خاکستری (Grey) بودن ماب برای بازیکن شده است.",
+    "تغییراتی که روز گذشته برای XP دانجن‌ها اعمال شده بود با انتقادات شدیدی از سوی بازیکنان در شبکه‌های اجتماعی و انجمن‌های گفت‌وگو روبه‌رو شد. بسیاری از بازیکنان به تنوع گسترده لول ماب‌ها در یک دانجن اشاره کردند و توضیح دادند که تانک‌ها و هیلرها اغلب تمایل دارند لول بالاتری نسبت به دانجن داشته باشند تا مسیر ساده‌تر شود، اما قانون قبلی مانع از حضور آن‌ها در گروه‌ها می‌شد.",
+    {
+     "t": "quote",
+     "x": "دیروز گیم‌پلی دانجن‌ها را طوری به‌روزرسانی کردیم که اگر بازیکن لول بالایی در گروه باشد و دشمن برای آن بازیکن بی‌اهمیت (Trivial) محسوب شود، میزان تجربهٔ دریافتی از آن دشمن در اینستنس به صفر برسد. برای برخی از دانجن‌ها، این محدودیت جدید به دلیل گسترهٔ کلی لول دشمنان موجود، به هدف مدنظر نرسید. با هات‌فیکس‌هایی که اکنون فعال شده‌اند، تغییر دیگری در این محدودیت اعمال کردیم؛ به‌طوری‌که صفر شدن XP فقط زمانی فعال می‌شود که بازیکن لول‌بالا بیش از ۱۲ لول بالاتر از لول دشمنان باشد. لطفاً توجه داشته باشید که این تغییر برای اینستنس‌هایی که هنگام اعمال هات‌فیکس در جریان بوده‌اند اعمال نخواهد شد.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "note",
+     "x": "این تنظیم جدید روی اینستنس‌هایی که پیش از فعال‌سازی هات‌فیکس آغاز شده بودند اثر نمی‌گذارد.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "WoW Forever",
+    "دانجن"
+   ],
+   "items": [],
+   "title_en": "Dungeon Mobs Now Grant Zero Experience When Highest Player is 13 Levels Above the Creature in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383883",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383883-dungeon-mobs-now-grant-zero-experience-when-highest-player-is-13-level.html",
+   "published_at": "2026-11-15T01:20:35Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383883/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383883/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383880,
    "slug": "dungeon-mobs-grant-zero-experience-if-trivial-to-anyone-in-party-in-wo",
@@ -800,6 +840,84 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383846/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383862,
+   "slug": "learning-dual-spec-can-trigger-empty-action-bars-when-logging-out-in-w",
+   "title_fa": "خالی شدن اکشن‌بارها هنگام خروج از بازی پس از یادگیری Dual Spec",
+   "lead_fa": "پس از تهیه قابلیت Dual Spec، باگی رخ می‌دهد که ممکن است هنگام خروج از بازی نوار توانایی‌ها را به‌طور تصادفی خالی کند.",
+   "body_fa": [
+    "بازیکنان می‌توانند در لول 40 با پرداخت 50 گلد قابلیت Dual Spec را خریداری کنند تا به درخت تلنت دوم دسترسی داشته باشند. با این حال، گزارش‌ها نشان می‌دهد پس از یادگیری این ویژگی، اشکالی تصادفی هنگام خروج از بازی رخ می‌دهد که توانایی‌ها را از Action Bar پاک می‌کند.",
+    "این باگ همیشه اتفاق نمی‌افتد و هر بار ممکن است نوارهای مختلفی را ریست کند. اگرچه این ایراد تأثیری روی قابلیت‌های مبارزه‌ای نمی‌گذارد، اما مشاهدهٔ نوار کاملاً خالی پس از هر بار ورود به بازی آزاردهنده است.",
+    {
+     "t": "note",
+     "x": "این باگ به‌صورت تصادفی نوارهای مختلف اکشن‌بار را خالی می‌کند، اما مستقیماً روی توانایی‌های مبارزه‌ای کاراکتر اثرگذار نیست.",
+     "kind": "warn"
+    },
+    {
+     "t": "h",
+     "x": "راهکار موقت بازیکنان"
+    },
+    "به دلیل بروز این مشکل، بسیاری از بازیکنان به استفاده از ادآن Myslot روی آورده‌اند. این ادآن برای ذخیره و ایمپورت رابط کاربری میان اکانت‌ها، سیستم‌های مختلف یا کاراکترهای آلت طراحی شده است، اما اکنون برای پر کردن سریع نوار توانایی‌های خالی‌شده پس از هر بار ریست به کار می‌رود."
+   ],
+   "tags_fa": [
+    "باگ",
+    "Dual Spec",
+    "ادآن",
+    "Myslot"
+   ],
+   "items": [],
+   "title_en": "Learning Dual Spec Can Trigger Empty Action Bars When Logging Out in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383862",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383862-learning-dual-spec-can-trigger-empty-action-bars-when-logging-out-in-w.html",
+   "published_at": "2026-11-12T22:45:42Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383862/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383862/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383855,
+   "slug": "season-of-discovery-s-scarlet-enclave-raid-to-return-in-wow-forever",
+   "title_fa": "بازگشت رید Scarlet Enclave از Season of Discovery در بازی WoW: Forever",
+   "lead_fa": "بلیزارد در تازه‌ترین قسمت از پادکست WoW: Forever تأیید کرد که رید اختصاصی The Scarlet Enclave در آینده به این بازی بازخواهد گشت.",
+   "body_fa": [
+    "در جریان جدیدترین اپیزود پادکست WoW: Forever، شرکت Blizzard تأیید کرد که رید The Scarlet Enclave که پیش‌تر به صورت انحصاری در Season of Discovery در دسترس قرار گرفته بود، در نهایت به دنیای WoW: Forever بازمی‌گردد.",
+    "هنگام گفتگو درباره شخصیت‌ها، پیش‌زمینه داستانی و خطوط داستانی احتمالی برای ورود به دنیای WoW: Forever، فردی با نام Aggrend به برخی از موارد مورد علاقه شخصی خود اشاره کرد که رید انحصاری The Scarlet Enclave در میان آن‌ها بود.",
+    {
+     "t": "quote",
+     "x": "من به Vol'jin اشاره کردم؛ فکر می‌کنم این موردی است که برای پرداختن به آن واقعاً هیجان‌زده‌ام، اما این شانس را داشته‌ام که تا حدی به Ashbringer بپردازم... Scarlet Enclave بازخواهد گشت. داستان The Ashbringer نیز در مقطعی برمی‌گردد؛ ممکن است مدتی طول بکشد، اما این محتوا بازخواهد گشت.",
+     "by": "Aggrend"
+    },
+    "در کنار The Scarlet Enclave، داستان سلاح The Ashbringer نیز در مقطعی به WoW: Forever بازمی‌گردد که این روایت احتمالاً هم‌زمان با همین رید ارائه خواهد شد.",
+    "محتوای The Scarlet Enclave و خط داستانی The Ashbringer شامل شخصیت‌های داستانی آشنایی نظیر Dreadlord Balnazzar و همچنین شخصیت‌های تازه‌ای از گروه Scarlet Crusade مانند Caldoran و Beatrix بود. این رید پیش از پایان فعالیت این نسخه در ماه مه سال 2025 به عنوان رید وداع بازی با استقبال بسیار خوبی مواجه شده بود."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "Season of Discovery",
+    "رید"
+   ],
+   "items": [],
+   "title_en": "Season of Discovery's Scarlet Enclave Raid to Return in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383855",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383855-season-of-discovery-s-scarlet-enclave-raid-to-return-in-wow-forever.html",
+   "published_at": "2026-11-12T22:02:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383855/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383855/1.jpg",
      "cap": ""
     }
    ]
@@ -3236,224 +3354,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383773,
-   "slug": "mythic-twin-fangs-nerf-for-the-venomous-abyss-raid",
-   "title_fa": "کاهش سختی نبرد Twin Fangs در درجه سختی Mythic",
-   "lead_fa": "چند روز پس از ریست هفتگی، نبرد Twin Fangs روی سرورهای زنده تضعیف شد و جریمه از دست دادن اینتراپت کاهش یافت.",
-   "body_fa": [
-    "چند روز پس از ریست هفتگی، هات‌فیکس‌های تازه‌ای روی سرورهای زنده اعمال شد که سختی نبرد Twin Fangs را در درجه سختی Mythic کاهش می‌دهد. این تغییرات مشخصاً جریمهٔ از دست دادن یک اینتراپت روی اددهای Broodlings of Ithraz را سبک‌تر کرده است.",
-    "پیش از این، متوقف نکردن کست تقریباً همیشه به مرگ کل گروه ختم می‌شد؛ هرچند با قوی‌تر شدن بازیکنان از طریق تجهیزات و باف افزایشی رید، هیل کردن یک استک از این DoT ممکن شده بود. با اعمال ۴۰٪ نرف مستقیم روی آسیب اولیه و آسیب دوره‌ای، جبران یک کست ازدست‌رفته اکنون کاملاً قابل هیل کردن است.",
-    {
-     "t": "h",
-     "x": "جزئیات تغییرات توانایی Visceral Burst"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "کاهش ۴۰٪ در میزان آسیب توانایی Visceral Burst",
-      "آسیب اولیه اکنون ۳۷۵k است",
-      "آسیب افزوده برابر با ۱۲۵k در هر ثانیه به مدت ۶ ثانیه"
-     ]
-    },
-    {
-     "t": "note",
-     "x": "این اددها تا زمانی که با موفقیت اینتراپت نشوند به کست کردن متوالی ادامه می‌دهند؛ بنابراین در صورت از دست رفتن کست اول، قطعاً باید کست دوم را اینتراپت کنید.",
-     "kind": "warn"
-    }
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "Mythic",
-    "رید"
-   ],
-   "items": [],
-   "title_en": "Mythic Twin Fangs Nerf for The Venomous Abyss Raid",
-   "source_url": "https://www.wowhead.com/news=383773",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383773-mythic-twin-fangs-nerf-for-the-venomous-abyss-raid.html",
-   "published_at": "2026-11-05T22:48:36Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383773/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383773/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383771,
-   "slug": "blizzard-investigating-issues-with-certain-escort-quests-in-wow-foreve",
-   "title_fa": "بررسی مشکلات برخی کوئست‌های اسکورت و آندد پالادین در WoW: Forever توسط بلیزارد",
-   "lead_fa": "تیم پشتیبانی Blizzard در حال بررسی باگ‌های گزارش‌شده در چندین کوئست اسکورت و یکی از ماموریت‌های آغازین Undead Paladin در WoW: Forever است.",
-   "body_fa": [
-    "تیم BlizzardCS با ثبت دیدگاه در صفحات کوئست‌های سایت Wowhead، اعلام کرده است که از وجود اشکال در برخی ماموریت‌ها آگاهی دارد و در حال بررسی این موارد است.",
-    {
-     "t": "h",
-     "x": "اشکال در کوئست‌های اسکورت"
-    },
-    "دیدگاه‌های تیم پشتیبانی برای سه ماموریت اسکورت Freedom to Ruul و Free From the Hold و The Defias Brotherhood ثبت شده است. این ماموریت‌ها در صورت کشته شدن اهداف یا ناپدید شدن آن‌ها فوراً با شکست روبه‌رو می‌شوند.",
-    {
-     "t": "quote",
-     "x": "ما مطلع هستیم که Ruul، Gilthares Firebough یا Defias Traitor ممکن است هنگام حرکت در نزدیکی یا از مرزهای منطقه و محیط ناپدید شوند و باعث شکست کوئست گردند. ما هم‌اکنون در حال بررسی این مشکل هستیم.",
-     "by": "Blizzard"
-    },
-    {
-     "t": "h",
-     "x": "مشکل ماموریت Rediscovering the Light برای Undead Paladin"
-    },
-    "یکی از کوئست‌های اولیه کلاس Undead Paladin به نام Rediscovering the Light است که در آن بازیکنان باید دوباره نحوه استفاده از Holy Light را فرا بگیرند. در برخی موارد، هیل کردن NPCها پیشرفتی در رسیدن به هدف ماموریت ایجاد نمی‌کند و Blizzard از این مشکل نیز باخبر است.",
-    {
-     "t": "quote",
-     "x": "ما می‌دانیم که هیل کردن Injured Deathguards ممکن است پیشرفتی در ماموریت ثبت نکند و در حال حاضر مشغول بررسی این موضوع هستیم.",
-     "by": "Blizzard"
-    }
-   ],
-   "tags_fa": [
-    "کوئست",
-    "باگ",
-    "WoW Forever",
-    "پشتیبانی بلیزارد"
-   ],
-   "items": [],
-   "title_en": "Blizzard Investigating Issues with Certain Escort Quests in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383771",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383771-blizzard-investigating-issues-with-certain-escort-quests-in-wow-foreve.html",
-   "published_at": "2026-11-05T20:23:47Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383771/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383771/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383769,
-   "slug": "new-prerequisites-required-for-ruins-of-lordaeron-dungeon-quests-in-wo",
-   "title_fa": "پیش‌نیازهای جدید کوئست‌های دانجن Ruins of Lordaeron در سرورهای لایو WoW: Forever",
-   "lead_fa": "در سرورهای لایو WoW: Forever دریافت دو کوئست فکشن Horde برای دانجن Ruins of Lordaeron نیازمند انجام زنجیره‌کوئست‌های پیش‌نیاز شده است.",
-   "body_fa": [
-    "در WoW: Forever کوئست‌های دانجن منبع بسیار مناسبی برای کسب Experience به شمار می‌روند؛ چرا که میزان Experience حاصل از کشتن ماب‌های دانجن کاهش یافته و در مقابل، میزان دریافت آن از طریق کوئست‌ها تقویت شده است. دانجن Ruins of Lordaeron دومین دانجنی است که بازیکنان Horde معمولاً تجربه می‌کنند، اما در سرورهای لایو تغییری رخ داده و دریافت دو مورد از کوئست‌های این فکشن بر خلاف سرور بتا که مستقیماً در دسترس بودند، اکنون به تکمیل پیش‌نیاز نیاز دارد. این در حالی است که بازیکنان Alliance برای گرفتن کوئست‌های خود با پیش‌نیازی روبرو نیستند.",
-    {
-     "t": "h",
-     "x": "جزئیات پیش‌نیاز کوئست‌های The Wrath of Rath'mael و The New Plague"
-    },
-    "کوئست The Wrath of Rath'mael دیگر بلافاصله از سوی Deathguard Kristof ارائه نمی‌شود. در عوض، بازیکنان باید یک زنجیره‌کوئست لول 13 را به پایان برسانند که با کوئست Rear Guard Patrol نزد Deathguard Linnea در Tirisfal Glades با مختصات 65.4 60.2 آغاز می‌شود:",
-    {
-     "t": "ul",
-     "xs": [
-      "بخش اول Rear Guard Patrol: شکست دادن ۸ عدد از Bleeding Horror و Wandering Spirit.",
-      "بخش دوم Rear Guard Patrol: شکست دادن ماب Elite لول 13 به نام Riptear."
-     ]
-    },
-    "پس از پایان این مراحل، کوئست The Wrath of Rath'mael در دسترس قرار خواهد گرفت. همچنین کوئست The New Plague دیگر بلافاصله توسط Theodore Griffs تحویل داده نمی‌شود و بازیکنان نیازمند تکمیل یک زنجیره‌کوئست طولانی سه مرحله‌ای شامل رفت‌وآمدهای متعدد و آیتم‌هایی با شانس دراپ پایین در Tirisfal Glades و Silverpine Forest هستند:",
-    {
-     "t": "ul",
-     "xs": [
-      "مرحلهٔ اول A Recipe For Death: جمع‌آوری ۶ آیتم با دراپ‌ریت پایین از خرس‌ها و عنکبوت‌ها و تحویل دادن آن‌ها در Undercity.",
-      "مرحلهٔ دوم A Recipe For Death: بازگشت به Silverpine Forest و لوت کردن یک کتاب از جنوب نقشه در منطقه‌ای Elite با کست‌تایم ۵ ثانیه.",
-      "مرحلهٔ سوم A Recipe For Death: لوت کردن چندین آیتم با دراپ‌ریت پایین از موجودات لول 18 نزدیک دریاچه."
-     ]
-    },
-    "پس از تکمیل این مسیر، کوئست The New Plague نزد Theodore Griffs در Undercity با مختصات 46.6 71.8 قابل دریافت خواهد بود.",
-    {
-     "t": "h",
-     "x": "فهرست کامل کوئست‌های دانجن Ruins of Lordaeron"
-    },
-    {
-     "t": "table",
-     "head": [
-      "نام کوئست",
-      "لول",
-      "محل شروع / نحوه دریافت"
-     ],
-     "rows": [
-      [
-       "The Wrath of Rath'mael",
-       "15",
-       "پیش‌نیاز Tirisfal Glades با Rear Guard Patrol از Deathguard Linnea در مختصات 65.6 60.2"
-      ],
-      [
-       "A Frightened Request",
-       "15",
-       "منطقهٔ Silverpine Forest، در The Sepulcher از Tabitha Heartweaver در مختصات 44.6 42.8"
-      ],
-      [
-       "Light's Justice",
-       "15",
-       "منطقهٔ Undercity، در The Apothecarium از Morbin Lightbane در مختصات 57.8 89.8"
-      ],
-      [
-       "The New Plague",
-       "15",
-       "پیش‌نیاز Silverpine Forest با A Recipe For Death از Apothecary Renferrel در مختصات 42.8 40.8"
-      ],
-      [
-       "Unending Torment",
-       "16",
-       "آیتم لوت‌شده در The Ruins of Lordaeron، منطقه King's Alley از The Baron"
-      ],
-      [
-       "کوئست مخفی Crest of Lordaeron/Crest of Lordaeron",
-       "14/",
-       "آیتم تعاملی با چندین نقطهٔ اسپاون در The Ruins of Lordaeron"
-      ],
-      [
-       "Abominable Creatures",
-       "16",
-       "ورودی دانجن The Ruins of Lordaeron از Captain Truman"
-      ],
-      [
-       "Bloodied Insignia",
-       "16",
-       "دراپ از ماب‌های Undead در دانجن The Ruins of Lordaeron"
-      ],
-      [
-       "Remember That I Love You",
-       "15",
-       "آیتم تعاملی در The Ruins of Lordaeron واقع در کنار Rath'mael"
-      ]
-     ]
-    }
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "Ruins of Lordaeron",
-    "کوئست",
-    "دانجن"
-   ],
-   "items": [],
-   "title_en": "New Prerequisites Required for Ruins of Lordaeron Dungeon Quests in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383769",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383769-new-prerequisites-required-for-ruins-of-lordaeron-dungeon-quests-in-wo.html",
-   "published_at": "2026-11-05T18:51:44Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383769/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383769/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383883,
-   "title_en": "Dungeon Mobs Now Grant Zero Experience When Highest Player is 13 Levels Above the Creature in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383883",
-   "category": "Forever",
-   "published_at": "2026-11-15T01:20:35Z"
-  },
   {
    "id": 383871,
    "title_en": "Infiltrate Krol'dok Stronghold: New Dungeon in WoW: Forever",
@@ -3474,20 +3377,6 @@
    "url": "https://www.wowhead.com/news=383863",
    "category": "PTR",
    "published_at": "2026-11-12T23:00:09Z"
-  },
-  {
-   "id": 383862,
-   "title_en": "Learning Dual Spec Can Trigger Empty Action Bars When Logging Out in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383862",
-   "category": "Forever",
-   "published_at": "2026-11-12T22:45:42Z"
-  },
-  {
-   "id": 383855,
-   "title_en": "Season of Discovery's Scarlet Enclave Raid to Return in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383855",
-   "category": "Forever",
-   "published_at": "2026-11-12T22:02:00Z"
   },
   {
    "id": 383858,
@@ -3726,6 +3615,27 @@
    "url": "https://www.wowhead.com/news=383547",
    "category": "Forever",
    "published_at": "2026-10-23T14:00:00Z"
+  },
+  {
+   "id": 383552,
+   "title_en": "Item Level Changes for Ascended Venomforged Gear",
+   "url": "https://www.wowhead.com/news=383552",
+   "category": "Live",
+   "published_at": "2026-10-23T02:19:48Z"
+  },
+  {
+   "id": 383543,
+   "title_en": "Blizzard Confirms Molten Core Will Have New Mechanics in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383543",
+   "category": "Forever",
+   "published_at": "2026-10-22T18:15:43Z"
+  },
+  {
+   "id": 383541,
+   "title_en": "The WoW: Forever End of Beta Celebration Has Begun ft. Azuregos and Kazzak",
+   "url": "https://www.wowhead.com/news=383541",
+   "category": "Forever",
+   "published_at": "2026-10-22T17:13:00Z"
   }
  ]
 }
