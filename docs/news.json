@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T00:58:38Z",
+ "generated": "2026-11-15T02:41:36Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3445,6 +3445,13 @@
  ],
  "queue": [
   {
+   "id": 383883,
+   "title_en": "Dungeon Mobs Now Grant Zero Experience When Highest Player is 13 Levels Above the Creature in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383883",
+   "category": "Forever",
+   "published_at": "2026-11-15T01:20:35Z"
+  },
+  {
    "id": 383871,
    "title_en": "Infiltrate Krol'dok Stronghold: New Dungeon in WoW: Forever",
    "url": "https://www.wowhead.com/news=383871",
@@ -3716,13 +3723,6 @@
    "url": "https://www.wowhead.com/news=383573",
    "category": "Forever",
    "published_at": "2026-10-26T15:00:00Z"
-  },
-  {
-   "id": 383570,
-   "title_en": "Den of Nalorakk and Murder Row Bug Fixes - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383570",
-   "category": "Live",
-   "published_at": "2026-10-24T00:23:57Z"
   }
  ]
 }
