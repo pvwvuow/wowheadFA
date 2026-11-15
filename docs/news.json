@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T13:37:02Z",
+ "generated": "2026-11-15T13:38:28Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -966,6 +966,59 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383860/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383858,
+   "slug": "enhancement-shaman-class-changes-now-live-in-wow-forever",
+   "title_fa": "اعمال تغییرات کلاس Enhancement Shaman در بازی",
+   "lead_fa": "شرکت Blizzard تأیید کرد تغییرات کلاس Shaman و به‌ویژه تخصص Enhancement پس از تأخیری غیرمنتظره در تمام ریجن‌ها فعال شده است.",
+   "body_fa": [
+    "طبق اعلام رسمی Blizzard، به دلیل یک تأخیر غیرمنتظره در پیاده‌سازی، مجموعه تغییرات مربوط به Shaman در ساعت 10:45 قبل از ظهر به وقت PST برای تمامی مناطق فعال شد.",
+    {
+     "t": "note",
+     "x": "امکان استفاده هم‌زمان از Weapon imbues و Weapon totems برای کلاس Shaman فراهم شده است.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "جزئیات تغییرات تخصص Enhancement"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "میزان Damage توانایی Stormstrike به 100% از Weapon damage کاهش یافت (قبلاً 150% بود) و Cooldown آن به 8 ثانیه افزایش پیدا کرد (قبلاً 6 ثانیه بود).",
+      "میزان تبدیل Intellect به Attack Power در تلنت Mental Dexterity به نسبت 33/66/100% کاهش یافت (پیش‌تر 50/100/150% بود).",
+      "تلنت Maelstrom Weapon اکنون در تمام رنک‌ها 20% کاهش Cast time و کاهش مصرف Mana را به ازای هر بار اعمال ارائه می‌دهد (پیش‌تر 4/8/12/16/20% کاهش Cast time و مصرف Mana بود).",
+      "شانس فعال‌سازی Maelstrom Weapon اکنون با افزایش رنک بیشتر می‌شود و به تعداد 6/7/8/9/10 بار در دقیقه فعال می‌گردد (قبلاً بدون توجه به رنک 20 بار در دقیقه بود)."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "به‌روزرسانی Tooltip برای Maelstrom Weapon"
+    },
+    "متن راهنمای Tooltip مربوط به Maelstrom Weapon به‌روزرسانی شده تا درصد شانس فعال‌سازی را بر اساس سرعت Main Hand Weapon کاراکتر نشان دهد.",
+    "به‌عنوان نمونه، اگر یک Shaman تعداد ۵ امتیاز در Maelstrom Weapon داشته باشد و از سلاحی با سرعت 3.6 استفاده کند، شانس فعال‌سازی 60% در هر ضربه نمایش داده می‌شود؛ در حالی که اگر از سلاحی با سرعت 2.0 استفاده کند، این شانس 33% خواهد بود."
+   ],
+   "tags_fa": [
+    "تغییرات کلاس‌ها",
+    "کلاس Shaman",
+    "هاتفیکس"
+   ],
+   "items": [],
+   "title_en": "Enhancement Shaman Class Changes Now Live in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383858",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383858-enhancement-shaman-class-changes-now-live-in-wow-forever.html",
+   "published_at": "2026-11-12T19:12:41Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383858/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383858/1.jpg",
      "cap": ""
     }
    ]
@@ -3308,52 +3361,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383774,
-   "slug": "minimum-deposit-of-1-silver-required-to-list-items-on-auction-house-in",
-   "title_fa": "تعیین حداقل ودیعه ۱ نقره برای ثبت کالا در Auction House بازی WoW: Forever",
-   "lead_fa": "در بازی WoW: Forever، قرار دادن کالا در Auction House به پرداخت حداقل ودیعه ۱ نقره نیاز دارد.",
-   "body_fa": [
-    "هنگام ثبت یک کالا در Auction House، بازیکنان باید مبلغی را به عنوان ودیعه پرداخت کنند. در صورت فروش موفقیت‌آمیز، این مبلغ بازگردانده می‌شود؛ اما اگر مزایده لغو شود یا زمان آن به پایان برسد، ودیعه از دست می‌رود.",
-    {
-     "t": "h",
-     "x": "نحوه محاسبه ودیعه در نسخه اصلی و قانون جدید"
-    },
-    "در نسخه اصلی WoW، هزینه ودیعه بر اساس Vendor Price کالا و مدت‌زمان مزایده مشخص می‌شود؛ به عنوان مثال برای مدت ۲۴ ساعت، ودیعه معادل ۶۰٪ از Vendor Price است. با این حال، در WoW: Forever به نظر می‌رسد یک قانون دیگر نیز وجود دارد که طبق آن حداقل ودیعه ۱ نقره تعیین شده است.",
-    "برای نمونه، در مورد کالایی با Vendor Price معادل ۴ نقره و ۶۱ مس، انتظار می‌رود ثبت ۸ ساعته آن به ۹۲ مس نیاز داشته باشد، اما هزینه آن ۱ نقره درج می‌شود. برای هر کالای ارزان‌قیمت دیگری نیز این ودیعه همواره ۱ نقره نمایش داده می‌شود.",
-    {
-     "t": "note",
-     "x": "این افزایش ودیعه ریسک بزرگی در صورت فروش نرفتن کالا ایجاد می‌کند. حداقل در اوایل بازی، ۱ نقره هزینه سنگینی محسوب می‌شود و برای مقابله با این ریسک می‌توان آیتم‌ها را در دسته‌های بزرگ‌تر ثبت کرد یا مستقیماً به Vendor فروخت.",
-     "kind": "warn"
-    },
-    {
-     "t": "h",
-     "x": "آیا این سازوکار عمدی است؟"
-    },
-    "در نسخه Beta این سازوکار مشاهده شده بود اما به عنوان باگ گزارش شد، زیرا ودیعه نمایش‌داده‌شده با مقدار طلای کسرشده از بازیکنان همخوانی نداشت. روی سرورهای زنده، ودیعه اکنون مطابقت دارد. هنوز مشخص نیست که آیا این حداقل ودیعه به صورت عمدی در نظر گرفته شده یا نتیجه استفاده WoW: Forever از کلاینت Retail است.",
-    "کلاینت Retail حداقل ودیعه ۱ نقره دارد و حداقل از سال ۲۰۱۸ (یا زودتر) طبق یک پست وبلاگی قدیمی فعال بوده است."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "Auction House",
-    "اقتصاد"
-   ],
-   "items": [],
-   "title_en": "Minimum Deposit of 1 Silver Required to List Items on Auction House in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383774",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383774-minimum-deposit-of-1-silver-required-to-list-items-on-auction-house-in.html",
-   "published_at": "2026-11-05T23:29:31Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383774/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383774/1.png",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3377,13 +3384,6 @@
    "url": "https://www.wowhead.com/news=383863",
    "category": "PTR",
    "published_at": "2026-11-12T23:00:09Z"
-  },
-  {
-   "id": 383858,
-   "title_en": "Enhancement Shaman Class Changes Now Live in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383858",
-   "category": "Forever",
-   "published_at": "2026-11-12T19:12:41Z"
   },
   {
    "id": 383854,
@@ -3636,6 +3636,13 @@
    "url": "https://www.wowhead.com/news=383541",
    "category": "Forever",
    "published_at": "2026-10-22T17:13:00Z"
+  },
+  {
+   "id": 383540,
+   "title_en": "The WoW: Forever Podcast Episode 5 Now Available - The End of Beta Special!",
+   "url": "https://www.wowhead.com/news=383540",
+   "category": "Forever",
+   "published_at": "2026-10-22T16:21:06Z"
   }
  ]
 }
