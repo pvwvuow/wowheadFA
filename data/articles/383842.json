@@ -146,7 +146,7 @@
   ],
   "chars": 1280
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383842/1.jpg",
@@ -156,5 +156,40 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383842/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 1,
- "hold_at": "2026-11-14T21:53:56Z"
+ "hold_at": "2026-11-14T21:53:56Z",
+ "article_fa": {
+  "title_fa": "کشف چکمه‌های ادای احترام به Ocarina of Time در دانجن Drowned City",
+  "lead_fa": "یک جفت چکمه جدید در جدول غنائم دانجن Drowned City پیدا شده است که به بازی The Legend of Zelda: Ocarina of Time اشاره دارد.",
+  "body_fa": [
+   "در جدول لوت دانجن جدید The Drowned City در سرور WoW Forever، یک جفت چکمه کشف شده است که ادای احترامی آشکار به بازی The Legend of Zelda: Ocarina of Time محسوب می‌شود. هم‌زمان با عرضه ریمستر این عنوان نمادین توسط Nintendo برای کنسول Switch 2، به نظر می‌رسد توسعه‌دهندگان Blizzard قصد ابراز علاقه به این اثر را داشته‌اند.",
+   {
+    "t": "h",
+    "x": "نحوه دریافت و ویژگی‌های چکمه"
+   },
+   "طبق اطلاعات پایگاه داده، این آیتم می‌تواند از هر باسی در دانجن The Drowned City به دست آید.",
+   "در سری The Legend of Zelda، بازیکنان به Iron Boots دست پیدا می‌کنند که امکان راه رفتن در کف آب‌ها را فراهم می‌سازد، اما سرعت راه رفتن روی خشکی را کاهش می‌دهد. بر اساس پستی در Reddit، مجهز شدن به [[item:Linken's Boots of Iron]] در WoW Forever دقیقا همین ویژگی‌ها را شبیه‌سازی می‌کند.",
+   {
+    "t": "note",
+    "x": "این چکمه‌ها راه رفتن در کف آب را ممکن می‌کنند اما هنگام حرکت روی خشکی سرعت بازیکن آهسته خواهد شد.",
+    "kind": "info"
+   },
+   {
+    "t": "h",
+    "x": "سابقه اشاره به افسانه زلدا در وارکرافت"
+   },
+   "این نخستین ارجاع به The Legend of Zelda در World of Warcraft نیست. شخصیت Linken از زمان پیدایش بازی در سال 2004 حضور داشته است. بازیکنان در منطقه Un'Goro Crater می‌توانند با پیدا کردن کوئست It's a Secret to Everybody، زنجیره‌کوئست‌هایی را باز کنند که در نهایت به دریافت شمشیر قدرتمند [[item:Linken's Sword of Mastery]] (همان Master Sword) ختم می‌شود.",
+   "ویژگی‌های ارائه‌شده توسط [[item:Linken's Boots of Iron]] می‌تواند به گیم‌پلی و اکتشافات سرگرم‌کننده‌ای در WoW: Forever تبدیل شود و حتی شاید برای رازی در آینده مورد نیاز باشد."
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "ایستر اگ",
+   "دانجن",
+   "Drowned City"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-15T15:48:49Z"
+ }
 }
