@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T17:12:03Z",
+ "generated": "2026-11-15T17:13:30Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1153,6 +1153,56 @@
    ]
   },
   {
+   "id": 383818,
+   "slug": "catch-up-mechanics-the-economy-in-wow-forever-but-why-tho-interview",
+   "title_fa": "جزئیات مصاحبه درباره مکانیک‌های Catch-Up و اقتصاد در WoW: Forever",
+   "lead_fa": "توسعه‌دهندگان WoW: Forever در مصاحبه‌ای جدید درباره رویکرد خود نسبت به سیاحت دانجن‌ها، عدم تمایل به افزودن مکانیک‌های جبرانی و نظارت بر اقتصاد بازی صحبت کردند.",
+   "body_fa": [
+    "رسانه But Why Tho? در مصاحبه‌ای با Mike Nuthals و Tim Jones به بررسی موضوعات مختلفی از جمله احتمال وجود سیستم‌های Catch-Up و وضعیت اقتصاد در WoW: Forever پرداخته است.",
+    {
+     "t": "h",
+     "x": "الهام از نسخه Classic و طراحی دانجن‌ها"
+    },
+    "تیم توسعه تجربه زیادی در بازی نسخه کلاسیک داشته و دانجن‌ها و ریدهای آن را بررسی کرده است تا میزان پیچیدگی و مدت‌زمان مبارزات را ارزیابی کند؛ هدف آن‌ها این بوده که محتوای جدید Forever اصیل و هماهنگ به نظر برسد. ایده‌های اولیه برای باس‌ها بیشتر به سبک نسخه Retail شباهت داشت، جایی که شخصیت‌ها تحرک بسیار زیادی داشتند یا باس‌ها دارای بخش‌های متحرک متعددی بودند. در حال حاضر تیم تضمین کیفیت (QA) این نبردها را آزمایش می‌کند تا فضایی برای مکانیک‌های نامتعارف و استفاده بازیکنان از قابلیت‌های کلاس خود فراهم شود.",
+    {
+     "t": "h",
+     "x": "محتوای آینده و موضع درباره Catch-Up"
+    },
+    "پچ‌های جدید بازی می‌توانند مواردی همچون فصل جدید PvP، ریپوتیشن، دستورهای ساخت Profession، آپدیت‌های مشاغل، مناطق جدید، کوئست‌ها، رازها و معماها و دانجن‌های تازه را به همراه داشته باشند. هدف این است که برای تمامی بازیکنان در تمام سطوح، محتوای جدید ارائه شود.",
+    {
+     "t": "note",
+     "x": "توسعه‌دهندگان در تلاشند از ایجاد مکانیک‌های Catch-Up خودداری کنند، زیرا به باور آن‌ها این سیستم‌ها ممکن است دستاوردهای بازیکنانی را که قبلاً آن محتوا را کامل کرده‌اند کم‌ارزش کند.",
+     "kind": "info"
+    },
+    "با توجه به اینکه افزایش سطح حداکثری (Level Cap) وجود ندارد و تعداد ریدها محدود است، سازندگان امیدوارند هر بازیکن بتواند گروهی متناسب با نیاز خود پیدا کند و تاکید دارند که پیشروی با سرعت شخصی بازیکنان مشکلی ندارد.",
+    {
+     "t": "h",
+     "x": "نظارت بر اقتصاد بازی"
+    },
+    "تیم توسعه بیش از هر زمان دیگری به حفظ سلامت اقتصاد بازی توجه دارد و افرادی گزارش‌های هفتگی اقتصاد را به آن‌ها ارائه می‌دهند. سازندگان اعلام کرده‌اند گرچه تضمینی برای شناسایی همه موارد وجود ندارد، اما به‌محض آگاهی از هر مشکلی به‌سرعت آن را رفع می‌کنند؛ حتی اگر نیاز باشد Tim Jones در آخر هفته برای اصلاح یک فارم طلا (Gold Farm) دست‌به‌کار شود."
+   ],
+   "tags_fa": [
+    "مصاحبه",
+    "Forever",
+    "اقتصاد"
+   ],
+   "items": [],
+   "title_en": "Catch-Up Mechanics & The Economy in WoW: Forever - But Why Tho? Interview",
+   "source_url": "https://www.wowhead.com/news=383818",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383818-catch-up-mechanics-the-economy-in-wow-forever-but-why-tho-interview.html",
+   "published_at": "2026-11-12T14:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383818/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383818/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383851,
    "slug": "restoration-druid-change-to-wild-growth-in-wow-forever",
    "title_fa": "تغییرات تلنت Wild Growth برای Restoration Druid در WoW: Forever",
@@ -1191,6 +1241,88 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383851/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383848,
+   "slug": "tailoring-bag-cost-and-size-changes-wow-forever-hotfixes-for-november-",
+   "title_fa": "هاتفیکس‌های ۱۱ نوامبر ۲۰۲۶: تغییر ظرفیت و هزینه ساخت کیف‌های Tailoring",
+   "lead_fa": "جدیدترین هاتفیکس‌های بازی با تغییر در هزینه ساخت و ظرفیت کیف‌های خیاطی، غیرفعال شدن موقت Item Restoration و اصلاحاتی برای چندین کلاس همراه شده است.",
+   "body_fa": [
+    "شرکت Blizzard فهرست تازه‌ای از هاتفیکس‌ها را برای تاریخ ۱۱ نوامبر ۲۰۲۶ منتشر کرده است که علاوه بر تغییر در هزینه و فضای کیف‌های رشته Tailoring، شامل رفع باگ‌های مربوط به کوئست‌ها، موجودات محیطی و کلاس‌ها می‌شود.",
+    {
+     "t": "note",
+     "x": "بخش پشتیبانی اعلام کرده است که سرویس Item Restoration موقتاً و تا زمان بررسی و رفع یک باگ بحرانی غیرفعال خواهد بود.",
+     "kind": "warn"
+    },
+    {
+     "t": "h",
+     "x": "تغییرات کیف‌های حرفه Tailoring"
+    },
+    "مواد اولیه و فضای اسلات برخی از کیف‌ها که به اشتباه کوچک‌تر از حد تعیین‌شده بودند، بازنگری شده است. ساخت این کیف‌ها اکنون به پارچه بیشتری نیاز دارد اما اسلات بیشتری ارائه می‌دهند:",
+    {
+     "t": "ul",
+     "xs": [
+      "کیف [[item:Red Mageweave Bag]]: نیازمند ۵ عدد bolt of mageweave (قبلاً ۴ عدد) و دارای ۱۴ اسلات",
+      "کیف [[item:Green Silk Pack]]: نیازمند ۵ عدد bolt of silk (قبلاً ۴ عدد) و دارای ۱۲ اسلات",
+      "کیف [[item:Black Silk Pack]]: نیازمند ۶ عدد bolt of silk (قبلاً ۵ عدد) و دارای ۱۲ اسلات",
+      "کیف [[item:Green Woolen Bag]]: نیازمند ۵ عدد bolt of wool (قبلاً ۴ عدد) و دارای ۱۰ اسلات",
+      "کیف [[item:Red Woolen Bag]]: نیازمند ۵ عدد bolt of wool (قبلاً ۴ عدد) و دارای ۱۰ اسلات"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "تغییرات و اصلاحات کلاس‌ها"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "کلاس Druid شاخه Feral: تلنت Rend and Tear اکنون روی Bleed حاصل از Pounce اعمال می‌شود.",
+      "کلاس Hunter: مشکلی که در آن Volley باعث فعال‌شدن اثرات جانبی (procs) می‌شد برطرف شد؛ همچنین ادامه چنل این اسپل پس از شروع حرکت هانتر رفع شده است.",
+      "کلاس Paladin: قابلیت Judgement اکنون حمله از راه دور (Ranged Attack) محسوب می‌شود؛ بنابراین دیگر Melee به شمار نمی‌رود و وابسته به Ranged Hit chance است. در شاخه Retribution نیز Unsealed Fury دیگر از حملات Windfury Totem پژواک (echoes) تولید نمی‌کند.",
+      "کلاس Priest: قابلیت Confounding Flash نژاد Gnome و تلنت The Twilight Focus در شاخه Holy اکنون درون Shadowform به درستی عمل می‌کنند.",
+      "کلاس Shaman: باگی که باعث کار نکردن Flametongue Totem رنک ۲ می‌شد اصلاح شد."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "تغییرات موجودات و آیتم‌ها"
+    },
+    "میزان Damage چندین موجود در Riverglades کاهش یافته است. قابلیت Smash متعلق به Twilight Enforcer به طور چشمگیری ضعیف‌تر شده، Damage مربوط به Executioner Morg کاهش یافته و توانایی Mark of Flames متعلق به Twilight Forgemaster به جای ۱۰۰۰ واحد، اکنون ۵۰ واحد آسیب را افزایش می‌دهد.",
+    "در بخش آیتم‌ها نیز [[item:Bloody Claws of Attack]] به درستی ۱ واحد مهارت Fist/Unarmed Weapon می‌دهد و مشکل اهدای بیش از حد Spell Damage توسط [[item:Earthen Silk Slippers]] رفع شده است.",
+    {
+     "t": "h",
+     "x": "ماموریت‌ها و محیط بازی"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "در منطقه Western Plaguelands امکان تعامل با Command Tent در کوئست Scarlet Diversions اصلاح شد.",
+      "در منطقه Arathi Highlands مشکل کار نکردن Witherbark Mallet در مأموریت The Giant in the Den برطرف شد.",
+      "در منطقه Feralas عدم ریست شدن درِ قفس (Cage Door) در کوئست Freedom for All Creatures اصلاح شد.",
+      "امکان سوار شدن بر مرکب (mount) در مناطق دارای نام در Shen’dralas که پیش‌تر غیرفعال شده بود، مجدداً فعال گشت."
+     ]
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "Tailoring",
+    "تغییرات کلاس‌ها"
+   ],
+   "items": [],
+   "title_en": "Tailoring Bag Cost and Size Changes - WoW: Forever Hotfixes for November 11th, 2026",
+   "source_url": "https://www.wowhead.com/news=383848",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383848-tailoring-bag-cost-and-size-changes-wow-forever-hotfixes-for-november-.html",
+   "published_at": "2026-11-12T00:52:58Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383848/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383848/1.png",
      "cap": ""
     }
    ]
@@ -3162,127 +3294,16 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383770,
-   "slug": "four-new-key-art-pieces-for-wow-forever-launch",
-   "title_fa": "انتشار چهار تصویر هنری کلیدی به مناسبت عرضه WoW: Forever",
-   "lead_fa": "بلیزارد هم‌زمان با لانچ WoW: Forever از چهار آرت‌ورک کلیدی جدید رونمایی کرد که ویژگی‌های برجسته این بازی را به نمایش می‌گذارند.",
-   "body_fa": [
-    "شرکت Blizzard به مناسبت آغاز به کار WoW: Forever چهار تصویر هنری اصلی (Key Art) تازه منتشر کرده است. هر یک از این تصاویر به معرفی یکی از امکانات و محتواهای مهم این عنوان می‌پردازند.",
-    {
-     "t": "h",
-     "x": "ویژگی‌های برجسته‌شده در تصاویر هنری جدید"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "سیستم Campfire: قابلیت کمپینگ یک سیستم کاملاً جدید در WoW: Forever است که بازیکنان را تشویق می‌کند سرعت بازی را کاهش دهند، با دیگران دور آتش معاشرت کنند و Buff دریافت نمایند.",
-      "ترکیب Dwarf Shaman: ترکیب جدید نژاد و کلاس که در این بازی در دسترس قرار می‌گیرد.",
-      "ترکیب Forsaken Paladin: یکی دیگر از ترکیب‌های جدید نژاد و کلاس برای بازیکنان.",
-      "تصویر Skyborne: آرت‌ورک مربوط به لانچ Skyborne که آیتم لجندری Taldramir, the Whispering Wood را نشان می‌دهد."
-     ]
-    }
-   ],
-   "tags_fa": [
-    "آرت‌ورک",
-    "WoW Forever",
-    "بلیزارد"
-   ],
-   "items": [],
-   "title_en": "Four New Key Art Pieces for WoW: Forever Launch",
-   "source_url": "https://www.wowhead.com/news=383770",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383770-four-new-key-art-pieces-for-wow-forever-launch.html",
-   "published_at": "2026-11-06T15:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383770/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383770/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383778,
-   "slug": "various-npc-fixes-and-deathstalker-erland-spawn-rate-wow-forever-hotfi",
-   "title_fa": "انتشار نخستین هاتفیکس‌های WoW: Forever همراه با بهبود سرعت اسپاون Deathstalker Erland",
-   "lead_fa": "اولین مجموعه از هاتفیکس‌های بازی WoW: Forever منتشر شد که در آن مواردی از جمله سرعت اسپاون ان‌پی‌سی‌ها و مربیان کلاس‌ها اصلاح شده است.",
-   "body_fa": [
-    "نخستین بستهٔ به‌روزرسانی زنده (Hotfix) برای عنوان WoW: Forever با هدف برطرف‌سازی باگ‌های مربوط به ان‌پی‌سی‌ها، آیتم‌ها، کوئست‌ها و بخش PvP اعمال شد. از نکات مهم این تغییرات، افزایش محسوس سرعت ریسپاون برخی ان‌پی‌سی‌های مورد نیاز برای مأموریت‌ها است.",
-    {
-     "t": "h",
-     "x": "دشمنان و NPCها"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "منطقهٔ Durotar: برطرف شدن مشکل کندی غیرعادی در ریسپاون Yarrog Baneshadow (مربوط به مأموریت Burning Blade Medallion).",
-      "منطقهٔ Zephras Isle: ان‌پی‌سی سوم آموزش دروید یعنی Lotheluum Starbreeze اکنون طبق انتظار آموزش‌های لازم را به Druidها ارائه می‌دهد.",
-      "منطقهٔ Dustwallow Marsh: رفع اشکال سرعت ریسپاون بیش از حد سریع برخی از murlocها.",
-      "منطقهٔ Swamp of Sorrows: برطرف شدن مشکلی که در برخی مواقع مانع اسپاون شدن Pelluk می‌شد."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "آیتم‌ها"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "فروشندگان لوازم تجاری (trade supply) در Zephras Isle اکنون کیف‌های apprentice tradeskill را برای فروش عرضه می‌کنند.",
-      "قیمت فروش [[item:Mild Spices]] به وندورها کاهش یافت و از ۲ مس به ۱ مس (copper) تغییر کرد."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "بخش PvP و مکانیک‌ها"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "رفع مشکلی که اجازه می‌داد Plainsrunning در فاز آماده‌سازی میدان‌های نبرد (Battlegrounds) به صورت انباشته (stack) درآید.",
-      "توانایی Plainsrunning دیگر انباشته نمی‌شود و در صورت حمل پرچم در بتل‌گراند، لایه‌های آن لغو خواهد شد."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "کوئست‌ها"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "اصلاح متن اشتباه در کوئست The Sisterhood of Elune.",
-      "افزایش چشمگیر سرعت ریسپاون Deathstalker Erland برای انجام کوئست Escorting Erland."
-     ]
-    },
-    "این فهرست با اعمال به‌روزرسانی‌های تکمیلی و هاتفیکس‌های جدیدتر برای بازی به‌روز خواهد شد."
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "WoW Forever",
-    "تغییرات کلس"
-   ],
-   "items": [],
-   "title_en": "Various NPC Fixes and Deathstalker Erland Spawn Rate - WoW: Forever Hotfixes",
-   "source_url": "https://www.wowhead.com/news=383778",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383778-various-npc-fixes-and-deathstalker-erland-spawn-rate-wow-forever-hotfi.html",
-   "published_at": "2026-11-06T02:36:06Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383778/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383778/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
+  {
+   "id": 383879,
+   "title_en": "An Old SoD Secret Has New Rewards in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383879",
+   "category": "Forever",
+   "published_at": "2026-11-15T15:00:00Z"
+  },
   {
    "id": 383871,
    "title_en": "Infiltrate Krol'dok Stronghold: New Dungeon in WoW: Forever",
@@ -3310,20 +3331,6 @@
    "url": "https://www.wowhead.com/news=383853",
    "category": "Forever",
    "published_at": "2026-11-12T17:37:38Z"
-  },
-  {
-   "id": 383818,
-   "title_en": "Catch-Up Mechanics & The Economy in WoW: Forever - But Why Tho? Interview",
-   "url": "https://www.wowhead.com/news=383818",
-   "category": "Forever",
-   "published_at": "2026-11-12T14:00:00Z"
-  },
-  {
-   "id": 383848,
-   "title_en": "Tailoring Bag Cost and Size Changes - WoW: Forever Hotfixes for November 11th, 2026",
-   "url": "https://www.wowhead.com/news=383848",
-   "category": "Forever",
-   "published_at": "2026-11-12T00:52:58Z"
   },
   {
    "id": 383843,
