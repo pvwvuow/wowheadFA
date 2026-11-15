@@ -121,12 +121,53 @@
   ],
   "chars": 1190
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383858/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383858/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383858/1.jpg",
+ "article_fa": {
+  "title_fa": "اعمال تغییرات کلاس Enhancement Shaman در بازی",
+  "lead_fa": "شرکت Blizzard تأیید کرد تغییرات کلاس Shaman و به‌ویژه تخصص Enhancement پس از تأخیری غیرمنتظره در تمام ریجن‌ها فعال شده است.",
+  "body_fa": [
+   "طبق اعلام رسمی Blizzard، به دلیل یک تأخیر غیرمنتظره در پیاده‌سازی، مجموعه تغییرات مربوط به Shaman در ساعت 10:45 قبل از ظهر به وقت PST برای تمامی مناطق فعال شد.",
+   {
+    "t": "note",
+    "x": "امکان استفاده هم‌زمان از Weapon imbues و Weapon totems برای کلاس Shaman فراهم شده است.",
+    "kind": "info"
+   },
+   {
+    "t": "h",
+    "x": "جزئیات تغییرات تخصص Enhancement"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "میزان Damage توانایی Stormstrike به 100% از Weapon damage کاهش یافت (قبلاً 150% بود) و Cooldown آن به 8 ثانیه افزایش پیدا کرد (قبلاً 6 ثانیه بود).",
+     "میزان تبدیل Intellect به Attack Power در تلنت Mental Dexterity به نسبت 33/66/100% کاهش یافت (پیش‌تر 50/100/150% بود).",
+     "تلنت Maelstrom Weapon اکنون در تمام رنک‌ها 20% کاهش Cast time و کاهش مصرف Mana را به ازای هر بار اعمال ارائه می‌دهد (پیش‌تر 4/8/12/16/20% کاهش Cast time و مصرف Mana بود).",
+     "شانس فعال‌سازی Maelstrom Weapon اکنون با افزایش رنک بیشتر می‌شود و به تعداد 6/7/8/9/10 بار در دقیقه فعال می‌گردد (قبلاً بدون توجه به رنک 20 بار در دقیقه بود)."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "به‌روزرسانی Tooltip برای Maelstrom Weapon"
+   },
+   "متن راهنمای Tooltip مربوط به Maelstrom Weapon به‌روزرسانی شده تا درصد شانس فعال‌سازی را بر اساس سرعت Main Hand Weapon کاراکتر نشان دهد.",
+   "به‌عنوان نمونه، اگر یک Shaman تعداد ۵ امتیاز در Maelstrom Weapon داشته باشد و از سلاحی با سرعت 3.6 استفاده کند، شانس فعال‌سازی 60% در هر ضربه نمایش داده می‌شود؛ در حالی که اگر از سلاحی با سرعت 2.0 استفاده کند، این شانس 33% خواهد بود."
+  ],
+  "tags_fa": [
+   "تغییرات کلاس‌ها",
+   "کلاس Shaman",
+   "هاتفیکس"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-15T12:47:55Z"
+ }
 }

@@ -125,12 +125,43 @@
   ],
   "chars": 1293
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383855/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383855/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383855/1.jpg",
+ "article_fa": {
+  "title_fa": "تأیید بازگشت رید Scarlet Enclave از Season of Discovery در WoW: Forever",
+  "lead_fa": "شرکت Blizzard در پادکست اخیر WoW: Forever رسماً بازگشت رید اختصاصی Scarlet Enclave و خط داستانی Ashbringer را در آینده تأیید کرد.",
+  "body_fa": [
+   "در تازه‌ترین قسمت از پادکست WoW: Forever، شرکت Blizzard تأیید کرد رید اختصاصی The Scarlet Enclave که پیش‌تر متعلق به Season of Discovery بود، در نهایت به دنیای WoW: Forever بازخواهد گشت.",
+   "در جریان بحث پیرامون شخصیت‌ها، داستان‌ها و ماجراهای مورد علاقه برای ورود به جهان WoW: Forever، فردی به نام Aggrend به برخی از موارد محبوب خود از جمله رید اختصاصی The Scarlet Enclave اشاره کرد.",
+   {
+    "t": "quote",
+    "x": "من به Vol'jin اشاره کردم؛ فکر می‌کنم این یکی از مواردی است که واقعاً برای پرداختن به آن هیجان‌زده‌ام، اما این شانس را داشته‌ام که تا حدی به Ashbringer بپردازم، می‌دانید... Scarlet Enclave بازخواهد گشت. Ashbringer در مقطعی بازمی‌گردد؛ شاید مدتی طول بکشد، اما بازخواهد گشت.",
+    "by": "Blizzard — Aggrend"
+   },
+   "در کنار بازگشت این رید، روایت داستانی The Ashbringer نیز در مقطعی به WoW: Forever خواهد آمد و احتمالاً همراه با همین رید ارائه می‌شود.",
+   "رید The Scarlet Enclave و داستان The Ashbringer شامل شخصیت‌های داستانی آشنایی نظیر Dreadlord Balnazzar و چهره‌های کاملاً جدیدی از Scarlet Crusade مانند Caldoran و Beatrix بودند. این محتوا پیش از پایان کار بازی در ماه May سال 2025 به عنوان رید پایانی عرضه شد و با استقبال بسیار خوبی روبه‌رو گردید.",
+   {
+    "t": "note",
+    "x": "هرچند بازگشت این رید و خط داستانی به WoW: Forever قطعی اعلام شده، اما زمان‌بندی دقیق آن مشخص نیست و ممکن است مدتی طول بکشد.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "Season of Discovery",
+   "رید",
+   "اخبار"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-15T12:41:27Z"
+ }
 }

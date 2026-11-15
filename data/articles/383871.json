@@ -302,5 +302,50 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383871/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 2,
- "hold_at": "2026-11-15T07:56:28Z"
+ "hold_at": "2026-11-15T07:56:28Z",
+ "last_rejected": {
+  "title_fa": "سیاه‌چال Krol'dok Stronghold در WoW: Forever معرفی شد",
+  "lead_fa": "سیاه‌چال جدید Krol'dok Stronghold برای محدودهٔ سطوح ۴۰ تا ۴۵ در منطقهٔ Riverglades در دسترس بازیکنان WoW: Forever قرار گرفت.",
+  "body_fa": [
+   "سیاه‌چال Krol'dok Stronghold محتوایی برای سطوح 40 تا 45 در منطقهٔ جدید Riverglades است. این دانجن مقیاس بسیار بزرگی دارد، زیرا بازیکنان به پایتخت Krol'dok Ogreها نفوذ می‌کنند که از سوی Twilight's Hammer و کلن Shadowhide Gnoll از Redridge پشتیبانی می‌شوند.",
+   {
+    "t": "h",
+    "x": "کوئست‌ها و پیش‌نیازها"
+   },
+   "در مجموع ۵ کوئست برای Alliance و ۴ کوئست برای Horde در دسترس است که هر دو خطوط کوئست بسیار طولانی دارند و از مقرهای فکشن مربوطه آغاز می‌شوند. همچنین بازیکنان هر دو فکشن باید ۱۲ عدد Iron Bars و ۴ عدد Thick Leather برای کوئست Key Ingredients همراه داشته باشند.",
+   {
+    "t": "note",
+    "x": "کوئست Krol'dok Moulding که به Key Ingredients ختم می‌شود، در سطح 38 در دسترس قرار می‌گیرد و آیتم آغازگر آن داخل دانجن از Tunk دراپ می‌شود. کوئست Vengeance of the Highborne نیز در لول ۳۷ در Dalaran واقع در Alterac Mountains از Ranath Nightstride در مختصات 17.8 و 66.0 شروع می‌شود. برای الاینس، کوئست Twilight Mementos در سطح ۳۸ در مختصات 30.6 و 49.0 از Sergeant Riftan آغاز شده و به Curios of Curiosity می‌رسد. بقیهٔ مأموریت‌های الاینس یعنی Eye of Mugg در لول 40 و Tome of Twilight در لول ۳۹ در Riverglades و Farholde Keep در مختصات 66.6 و 81.0 از Demar Brant و Ashe Amberhall شروع می‌شوند. برای هورد، A Token of Vengeance در لول 38 از Da'grosh در مختصات 33.4 و 38 در حومه دانجن آغاز می‌گردد، و کوئست‌های Tome of Twilight در مختصات 59.4 و ۴۴ از Tran'gul و Eye of Mugg در مختصات 59.4 و 45.6 از Krom'rosh در دسترس هستند.",
+    "kind": "info"
+   },
+   {
+    "t": "h",
+    "x": "باس‌های سیاه‌چال Krol'dok Stronghold"
+   },
+   "این سیاهچال در کل دارای شش باس است که هر کدام مکانیزم‌های ویژه‌ای دارند:",
+   {
+    "t": "ul",
+    "xs": [
+     "باس Slavecrusher Grox: از زندانیان نزدیک خود در Redridge درخواست کمک می‌کند و روی خود و زندانیان Bloodlust می‌زند.",
+     "باس Twilight Commander Zarmok: از طریق Rending Whirl آسیب قدرتمند AoE وارد می‌سازد و وقتی به ۳۰٪ سلامتی (30% Health) می‌رسد دچار Enrage می‌شود.",
+     "باس War Handler Ashka: همراه با دو گرگ مبارزه می‌کند و با قابلیت Command: Kill! حیوانات خود را به سراغ بازیکنان تصادفی می‌فرستد.",
+     "باس Nar'gurk: توسط اعضای Twilight's Hammer احاطه شده است؛ او از Shadow Bolt Volley بر روی تمام اعضای گروه استفاده می‌کند و یک بازیکن تصادفی را تحت تأثیر Convert قرار می‌دهد که باید سلامت آن بازیکن برای شکستن اثر به ۵۰٪ کاهش یابد.",
+     "باس Bossman Toof: این مبارزه شامل موج‌هایی از اددها حین پیشروی به سوی باس است. خود باس یک واریر با ابیلیتی‌های Mortal Strike، Thunderclap و Demoralizing Shout است.",
+     "باس Overlord Mugg: حاکم Krol'dok Stronghold که استاد سلاح است و از طریق Mugg's Fury بین سلاح‌های خود تغییر ایجاد می‌کند؛ او کار را با Set of Maces آغاز کرده و به Set of Mauls می‌رود. او همچنین با Crushing Slam به سمت اعضای گروه جهش می‌کند و به آن‌ها و اطرافیان ضربه و ناک‌بک می‌زند."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "ترش‌ها و پاداش‌های شاخص"
+   },
+   "ماب‌های معمولی این سیاه‌چال توانایی بالاتری دارند. در این میان Twilight Grunts خطرناک‌ترین دشمنان دانجن محسوب می‌شوند؛ آن‌ها توانایی قدرتمند Bladestorm دارند که به همهٔ بازیکنان در شعاع ۸ یاردی آسیب می‌زند و حضور هم‌زمان بیش از یکی از آن‌ها سلامت پارتی را به سرعت نابود می‌کند.",
+   "در بخش پاداش‌های کوئست‌های سیاه‌چال، جوایز معروفی وجود دارد که شامل گرز یک‌دست [[item:Rock on Stick]] و گرز دودست [[item:Bigger Rock on Bigger Stick]] می‌شود."
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "سیاه‌چال",
+   "Krol'dok Stronghold",
+   "Riverglades"
+  ]
+ }
 }

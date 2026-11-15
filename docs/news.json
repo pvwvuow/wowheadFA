@@ -1,8 +1,49 @@
 {
- "generated": "2026-11-15T08:52:19Z",
+ "generated": "2026-11-15T12:49:08Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383883,
+   "slug": "dungeon-mobs-now-grant-zero-experience-when-highest-player-is-13-level",
+   "title_fa": "تغییر مجدد سیستم دریافت XP در دانجن‌ها پس از بازخورد بازیکنان",
+   "lead_fa": "طبق تصمیم جدید Blizzard، ماب‌های دانجن تنها زمانی هیچ اکسپیریئنسی نمی‌دهند که بالاترین لول گروه بیش از ۱۲ لول از دشمن بالاتر باشد.",
+   "body_fa": [
+    "به‌دنبال تغییرات اخیر دانجن‌ها، اکنون در صورتی که بالاترین لول بازیکن در گروه بیش از 12 لول از موجود بالاتر باشد، ماب‌های دانجن هیچ اکسپیریئنسی نخواهند داد، در حالی که پیش از این معیار خاکستری (Grey) بودن ماب بود.",
+    "تغییر روز گذشته با انتقاد شدید بسیاری از بازیکنان در شبکه‌های اجتماعی و فروم‌ها مواجه شده بود. کاربران اشاره کردند که لول دشمنان در دانجن‌ها تنوع زیادی دارد و تانک‌ها و هیلرها اغلب برای ساده‌تر شدن مسیر دانجن ترجیح می‌دهند لول بالاتری داشته باشند؛ موضوعی که باعث کنار گذاشته شدن آن‌ها از گروه‌ها شده بود.",
+    {
+     "t": "quote",
+     "x": "دیروز روند بازی در دانجن‌ها را به‌گونه‌ای به‌روزرسانی کردیم که اگر بازیکن لول بالایی در گروه حضور داشته باشد و دشمن برای او ناچیز به‌شمار بیاید، تجربهٔ اعطایی آن دشمن در اینستنس صفر شود. این محدودیت جدید به‌دلیل بازهٔ کلی لول دشمنان در برخی دانجن‌ها هدف را درست نشانه نگرفت. با هاتفیکس‌هایی که اکنون فعال شده‌اند، تغییر دیگری روی این محدودیت اعمال کردیم تا صفر شدن XP فقط زمانی فعال شود که بازیکنِ لول بالا بیش از ۱۲ لول از لول دشمنان بالاتر باشد. توجه داشته باشید که این اصلاح روی اینستنس‌هایی که هنگام اعمال تغییر در جریان بوده‌اند، اثر نخواهد داشت.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "note",
+     "x": "این هاتفیکس روی اینستنس‌هایی که پیش از فعال‌سازی آن در جریان بوده‌اند اعمال نمی‌شود.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "دانجن",
+    "اکسپیریئنس",
+    "تغییرات بازی"
+   ],
+   "items": [],
+   "title_en": "Dungeon Mobs Now Grant Zero Experience When Highest Player is 13 Levels Above the Creature in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383883",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383883-dungeon-mobs-now-grant-zero-experience-when-highest-player-is-13-level.html",
+   "published_at": "2026-11-15T01:20:35Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383883/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383883/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383880,
    "slug": "dungeon-mobs-grant-zero-experience-if-trivial-to-anyone-in-party-in-wo",
@@ -805,6 +846,84 @@
    ]
   },
   {
+   "id": 383862,
+   "slug": "learning-dual-spec-can-trigger-empty-action-bars-when-logging-out-in-w",
+   "title_fa": "باگ خالی شدن Action Barها پس از یادگیری Dual Spec هنگام خروج از بازی",
+   "lead_fa": "یادگیری قابلیت Dual Spec ممکن است به‌طور تصادفی باعث پاک شدن توانایی‌ها از نوار اکشن پس از خروج از بازی شود.",
+   "body_fa": [
+    "قابلیت Dual Spec در لول 40 با قیمت 50 گلد قابل خریداری است و امکان داشتن درخت تلنت دوم را برای بازیکنان فراهم می‌کند. با این حال، پس از یادگیری این قابلیت، باگی آزاردهنده ممکن است هنگام خروج از بازی رخ دهد.",
+    "بر اساس گزارش‌ها، پس از یادگیری Dual Spec ممکن است پس از خروج از بازی، برخی از Action Barها به‌صورت تصادفی ریست شوند. این اتفاق همیشگی نیست و هربار می‌تواند نوارهای متفاوتی را تحت تأثیر قرار دهد. اگرچه این ایراد تأثیری روی توانایی‌های مبارزه نمی‌گذارد، اما ورود به بازی و مواجهه با نوارهای کاملاً خالی خسته‌کننده است.",
+    {
+     "t": "note",
+     "x": "به دلیل وجود این باگ، بسیاری از بازیکنان به استفاده از ادآن Myslot روی آورده‌اند؛ ابزاری که برای ذخیره و ایمپورت تنظیمات UI طراحی شده و برای بازگرداندن سریع نوارهای خالی‌شده بسیار کاربردی است.",
+     "kind": "tip"
+    }
+   ],
+   "tags_fa": [
+    "باگ",
+    "Dual Spec",
+    "رابط کاربری"
+   ],
+   "items": [],
+   "title_en": "Learning Dual Spec Can Trigger Empty Action Bars When Logging Out in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383862",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383862-learning-dual-spec-can-trigger-empty-action-bars-when-logging-out-in-w.html",
+   "published_at": "2026-11-12T22:45:42Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383862/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383862/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383855,
+   "slug": "season-of-discovery-s-scarlet-enclave-raid-to-return-in-wow-forever",
+   "title_fa": "تأیید بازگشت رید Scarlet Enclave از Season of Discovery در WoW: Forever",
+   "lead_fa": "شرکت Blizzard در پادکست اخیر WoW: Forever رسماً بازگشت رید اختصاصی Scarlet Enclave و خط داستانی Ashbringer را در آینده تأیید کرد.",
+   "body_fa": [
+    "در تازه‌ترین قسمت از پادکست WoW: Forever، شرکت Blizzard تأیید کرد رید اختصاصی The Scarlet Enclave که پیش‌تر متعلق به Season of Discovery بود، در نهایت به دنیای WoW: Forever بازخواهد گشت.",
+    "در جریان بحث پیرامون شخصیت‌ها، داستان‌ها و ماجراهای مورد علاقه برای ورود به جهان WoW: Forever، فردی به نام Aggrend به برخی از موارد محبوب خود از جمله رید اختصاصی The Scarlet Enclave اشاره کرد.",
+    {
+     "t": "quote",
+     "x": "من به Vol'jin اشاره کردم؛ فکر می‌کنم این یکی از مواردی است که واقعاً برای پرداختن به آن هیجان‌زده‌ام، اما این شانس را داشته‌ام که تا حدی به Ashbringer بپردازم، می‌دانید... Scarlet Enclave بازخواهد گشت. Ashbringer در مقطعی بازمی‌گردد؛ شاید مدتی طول بکشد، اما بازخواهد گشت.",
+     "by": "Blizzard — Aggrend"
+    },
+    "در کنار بازگشت این رید، روایت داستانی The Ashbringer نیز در مقطعی به WoW: Forever خواهد آمد و احتمالاً همراه با همین رید ارائه می‌شود.",
+    "رید The Scarlet Enclave و داستان The Ashbringer شامل شخصیت‌های داستانی آشنایی نظیر Dreadlord Balnazzar و چهره‌های کاملاً جدیدی از Scarlet Crusade مانند Caldoran و Beatrix بودند. این محتوا پیش از پایان کار بازی در ماه May سال 2025 به عنوان رید پایانی عرضه شد و با استقبال بسیار خوبی روبه‌رو گردید.",
+    {
+     "t": "note",
+     "x": "هرچند بازگشت این رید و خط داستانی به WoW: Forever قطعی اعلام شده، اما زمان‌بندی دقیق آن مشخص نیست و ممکن است مدتی طول بکشد.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "Season of Discovery",
+    "رید",
+    "اخبار"
+   ],
+   "items": [],
+   "title_en": "Season of Discovery's Scarlet Enclave Raid to Return in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383855",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383855-season-of-discovery-s-scarlet-enclave-raid-to-return-in-wow-forever.html",
+   "published_at": "2026-11-12T22:02:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383855/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383855/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383860,
    "slug": "new-high-level-battle-mage-weapon-discovered-in-wow-forever",
    "title_fa": "کشف سلاح سطح بالای Battle Mage با نام Wit's Edge در WoW: Forever",
@@ -848,6 +967,59 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383860/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383858,
+   "slug": "enhancement-shaman-class-changes-now-live-in-wow-forever",
+   "title_fa": "اعمال تغییرات کلاس Enhancement Shaman در بازی",
+   "lead_fa": "شرکت Blizzard تأیید کرد تغییرات کلاس Shaman و به‌ویژه تخصص Enhancement پس از تأخیری غیرمنتظره در تمام ریجن‌ها فعال شده است.",
+   "body_fa": [
+    "طبق اعلام رسمی Blizzard، به دلیل یک تأخیر غیرمنتظره در پیاده‌سازی، مجموعه تغییرات مربوط به Shaman در ساعت 10:45 قبل از ظهر به وقت PST برای تمامی مناطق فعال شد.",
+    {
+     "t": "note",
+     "x": "امکان استفاده هم‌زمان از Weapon imbues و Weapon totems برای کلاس Shaman فراهم شده است.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "جزئیات تغییرات تخصص Enhancement"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "میزان Damage توانایی Stormstrike به 100% از Weapon damage کاهش یافت (قبلاً 150% بود) و Cooldown آن به 8 ثانیه افزایش پیدا کرد (قبلاً 6 ثانیه بود).",
+      "میزان تبدیل Intellect به Attack Power در تلنت Mental Dexterity به نسبت 33/66/100% کاهش یافت (پیش‌تر 50/100/150% بود).",
+      "تلنت Maelstrom Weapon اکنون در تمام رنک‌ها 20% کاهش Cast time و کاهش مصرف Mana را به ازای هر بار اعمال ارائه می‌دهد (پیش‌تر 4/8/12/16/20% کاهش Cast time و مصرف Mana بود).",
+      "شانس فعال‌سازی Maelstrom Weapon اکنون با افزایش رنک بیشتر می‌شود و به تعداد 6/7/8/9/10 بار در دقیقه فعال می‌گردد (قبلاً بدون توجه به رنک 20 بار در دقیقه بود)."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "به‌روزرسانی Tooltip برای Maelstrom Weapon"
+    },
+    "متن راهنمای Tooltip مربوط به Maelstrom Weapon به‌روزرسانی شده تا درصد شانس فعال‌سازی را بر اساس سرعت Main Hand Weapon کاراکتر نشان دهد.",
+    "به‌عنوان نمونه، اگر یک Shaman تعداد ۵ امتیاز در Maelstrom Weapon داشته باشد و از سلاحی با سرعت 3.6 استفاده کند، شانس فعال‌سازی 60% در هر ضربه نمایش داده می‌شود؛ در حالی که اگر از سلاحی با سرعت 2.0 استفاده کند، این شانس 33% خواهد بود."
+   ],
+   "tags_fa": [
+    "تغییرات کلاس‌ها",
+    "کلاس Shaman",
+    "هاتفیکس"
+   ],
+   "items": [],
+   "title_en": "Enhancement Shaman Class Changes Now Live in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383858",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383858-enhancement-shaman-class-changes-now-live-in-wow-forever.html",
+   "published_at": "2026-11-12T19:12:41Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383858/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383858/1.jpg",
      "cap": ""
     }
    ]
@@ -3190,270 +3362,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383774,
-   "slug": "minimum-deposit-of-1-silver-required-to-list-items-on-auction-house-in",
-   "title_fa": "تعیین حداقل ودیعه ۱ نقره برای ثبت کالا در Auction House بازی WoW: Forever",
-   "lead_fa": "در بازی WoW: Forever، قرار دادن کالا در Auction House به پرداخت حداقل ودیعه ۱ نقره نیاز دارد.",
-   "body_fa": [
-    "هنگام ثبت یک کالا در Auction House، بازیکنان باید مبلغی را به عنوان ودیعه پرداخت کنند. در صورت فروش موفقیت‌آمیز، این مبلغ بازگردانده می‌شود؛ اما اگر مزایده لغو شود یا زمان آن به پایان برسد، ودیعه از دست می‌رود.",
-    {
-     "t": "h",
-     "x": "نحوه محاسبه ودیعه در نسخه اصلی و قانون جدید"
-    },
-    "در نسخه اصلی WoW، هزینه ودیعه بر اساس Vendor Price کالا و مدت‌زمان مزایده مشخص می‌شود؛ به عنوان مثال برای مدت ۲۴ ساعت، ودیعه معادل ۶۰٪ از Vendor Price است. با این حال، در WoW: Forever به نظر می‌رسد یک قانون دیگر نیز وجود دارد که طبق آن حداقل ودیعه ۱ نقره تعیین شده است.",
-    "برای نمونه، در مورد کالایی با Vendor Price معادل ۴ نقره و ۶۱ مس، انتظار می‌رود ثبت ۸ ساعته آن به ۹۲ مس نیاز داشته باشد، اما هزینه آن ۱ نقره درج می‌شود. برای هر کالای ارزان‌قیمت دیگری نیز این ودیعه همواره ۱ نقره نمایش داده می‌شود.",
-    {
-     "t": "note",
-     "x": "این افزایش ودیعه ریسک بزرگی در صورت فروش نرفتن کالا ایجاد می‌کند. حداقل در اوایل بازی، ۱ نقره هزینه سنگینی محسوب می‌شود و برای مقابله با این ریسک می‌توان آیتم‌ها را در دسته‌های بزرگ‌تر ثبت کرد یا مستقیماً به Vendor فروخت.",
-     "kind": "warn"
-    },
-    {
-     "t": "h",
-     "x": "آیا این سازوکار عمدی است؟"
-    },
-    "در نسخه Beta این سازوکار مشاهده شده بود اما به عنوان باگ گزارش شد، زیرا ودیعه نمایش‌داده‌شده با مقدار طلای کسرشده از بازیکنان همخوانی نداشت. روی سرورهای زنده، ودیعه اکنون مطابقت دارد. هنوز مشخص نیست که آیا این حداقل ودیعه به صورت عمدی در نظر گرفته شده یا نتیجه استفاده WoW: Forever از کلاینت Retail است.",
-    "کلاینت Retail حداقل ودیعه ۱ نقره دارد و حداقل از سال ۲۰۱۸ (یا زودتر) طبق یک پست وبلاگی قدیمی فعال بوده است."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "Auction House",
-    "اقتصاد"
-   ],
-   "items": [],
-   "title_en": "Minimum Deposit of 1 Silver Required to List Items on Auction House in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383774",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383774-minimum-deposit-of-1-silver-required-to-list-items-on-auction-house-in.html",
-   "published_at": "2026-11-05T23:29:31Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383774/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383774/1.png",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383773,
-   "slug": "mythic-twin-fangs-nerf-for-the-venomous-abyss-raid",
-   "title_fa": "کاهش سختی نبرد Twin Fangs در درجه سختی Mythic",
-   "lead_fa": "چند روز پس از ریست هفتگی، نبرد Twin Fangs روی سرورهای زنده تضعیف شد و جریمه از دست دادن اینتراپت کاهش یافت.",
-   "body_fa": [
-    "چند روز پس از ریست هفتگی، هات‌فیکس‌های تازه‌ای روی سرورهای زنده اعمال شد که سختی نبرد Twin Fangs را در درجه سختی Mythic کاهش می‌دهد. این تغییرات مشخصاً جریمهٔ از دست دادن یک اینتراپت روی اددهای Broodlings of Ithraz را سبک‌تر کرده است.",
-    "پیش از این، متوقف نکردن کست تقریباً همیشه به مرگ کل گروه ختم می‌شد؛ هرچند با قوی‌تر شدن بازیکنان از طریق تجهیزات و باف افزایشی رید، هیل کردن یک استک از این DoT ممکن شده بود. با اعمال ۴۰٪ نرف مستقیم روی آسیب اولیه و آسیب دوره‌ای، جبران یک کست ازدست‌رفته اکنون کاملاً قابل هیل کردن است.",
-    {
-     "t": "h",
-     "x": "جزئیات تغییرات توانایی Visceral Burst"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "کاهش ۴۰٪ در میزان آسیب توانایی Visceral Burst",
-      "آسیب اولیه اکنون ۳۷۵k است",
-      "آسیب افزوده برابر با ۱۲۵k در هر ثانیه به مدت ۶ ثانیه"
-     ]
-    },
-    {
-     "t": "note",
-     "x": "این اددها تا زمانی که با موفقیت اینتراپت نشوند به کست کردن متوالی ادامه می‌دهند؛ بنابراین در صورت از دست رفتن کست اول، قطعاً باید کست دوم را اینتراپت کنید.",
-     "kind": "warn"
-    }
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "Mythic",
-    "رید"
-   ],
-   "items": [],
-   "title_en": "Mythic Twin Fangs Nerf for The Venomous Abyss Raid",
-   "source_url": "https://www.wowhead.com/news=383773",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383773-mythic-twin-fangs-nerf-for-the-venomous-abyss-raid.html",
-   "published_at": "2026-11-05T22:48:36Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383773/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383773/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383771,
-   "slug": "blizzard-investigating-issues-with-certain-escort-quests-in-wow-foreve",
-   "title_fa": "بررسی مشکلات برخی کوئست‌های اسکورت و آندد پالادین در WoW: Forever توسط بلیزارد",
-   "lead_fa": "تیم پشتیبانی Blizzard در حال بررسی باگ‌های گزارش‌شده در چندین کوئست اسکورت و یکی از ماموریت‌های آغازین Undead Paladin در WoW: Forever است.",
-   "body_fa": [
-    "تیم BlizzardCS با ثبت دیدگاه در صفحات کوئست‌های سایت Wowhead، اعلام کرده است که از وجود اشکال در برخی ماموریت‌ها آگاهی دارد و در حال بررسی این موارد است.",
-    {
-     "t": "h",
-     "x": "اشکال در کوئست‌های اسکورت"
-    },
-    "دیدگاه‌های تیم پشتیبانی برای سه ماموریت اسکورت Freedom to Ruul و Free From the Hold و The Defias Brotherhood ثبت شده است. این ماموریت‌ها در صورت کشته شدن اهداف یا ناپدید شدن آن‌ها فوراً با شکست روبه‌رو می‌شوند.",
-    {
-     "t": "quote",
-     "x": "ما مطلع هستیم که Ruul، Gilthares Firebough یا Defias Traitor ممکن است هنگام حرکت در نزدیکی یا از مرزهای منطقه و محیط ناپدید شوند و باعث شکست کوئست گردند. ما هم‌اکنون در حال بررسی این مشکل هستیم.",
-     "by": "Blizzard"
-    },
-    {
-     "t": "h",
-     "x": "مشکل ماموریت Rediscovering the Light برای Undead Paladin"
-    },
-    "یکی از کوئست‌های اولیه کلاس Undead Paladin به نام Rediscovering the Light است که در آن بازیکنان باید دوباره نحوه استفاده از Holy Light را فرا بگیرند. در برخی موارد، هیل کردن NPCها پیشرفتی در رسیدن به هدف ماموریت ایجاد نمی‌کند و Blizzard از این مشکل نیز باخبر است.",
-    {
-     "t": "quote",
-     "x": "ما می‌دانیم که هیل کردن Injured Deathguards ممکن است پیشرفتی در ماموریت ثبت نکند و در حال حاضر مشغول بررسی این موضوع هستیم.",
-     "by": "Blizzard"
-    }
-   ],
-   "tags_fa": [
-    "کوئست",
-    "باگ",
-    "WoW Forever",
-    "پشتیبانی بلیزارد"
-   ],
-   "items": [],
-   "title_en": "Blizzard Investigating Issues with Certain Escort Quests in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383771",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383771-blizzard-investigating-issues-with-certain-escort-quests-in-wow-foreve.html",
-   "published_at": "2026-11-05T20:23:47Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383771/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383771/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383769,
-   "slug": "new-prerequisites-required-for-ruins-of-lordaeron-dungeon-quests-in-wo",
-   "title_fa": "پیش‌نیازهای جدید کوئست‌های دانجن Ruins of Lordaeron در سرورهای لایو WoW: Forever",
-   "lead_fa": "در سرورهای لایو WoW: Forever دریافت دو کوئست فکشن Horde برای دانجن Ruins of Lordaeron نیازمند انجام زنجیره‌کوئست‌های پیش‌نیاز شده است.",
-   "body_fa": [
-    "در WoW: Forever کوئست‌های دانجن منبع بسیار مناسبی برای کسب Experience به شمار می‌روند؛ چرا که میزان Experience حاصل از کشتن ماب‌های دانجن کاهش یافته و در مقابل، میزان دریافت آن از طریق کوئست‌ها تقویت شده است. دانجن Ruins of Lordaeron دومین دانجنی است که بازیکنان Horde معمولاً تجربه می‌کنند، اما در سرورهای لایو تغییری رخ داده و دریافت دو مورد از کوئست‌های این فکشن بر خلاف سرور بتا که مستقیماً در دسترس بودند، اکنون به تکمیل پیش‌نیاز نیاز دارد. این در حالی است که بازیکنان Alliance برای گرفتن کوئست‌های خود با پیش‌نیازی روبرو نیستند.",
-    {
-     "t": "h",
-     "x": "جزئیات پیش‌نیاز کوئست‌های The Wrath of Rath'mael و The New Plague"
-    },
-    "کوئست The Wrath of Rath'mael دیگر بلافاصله از سوی Deathguard Kristof ارائه نمی‌شود. در عوض، بازیکنان باید یک زنجیره‌کوئست لول 13 را به پایان برسانند که با کوئست Rear Guard Patrol نزد Deathguard Linnea در Tirisfal Glades با مختصات 65.4 60.2 آغاز می‌شود:",
-    {
-     "t": "ul",
-     "xs": [
-      "بخش اول Rear Guard Patrol: شکست دادن ۸ عدد از Bleeding Horror و Wandering Spirit.",
-      "بخش دوم Rear Guard Patrol: شکست دادن ماب Elite لول 13 به نام Riptear."
-     ]
-    },
-    "پس از پایان این مراحل، کوئست The Wrath of Rath'mael در دسترس قرار خواهد گرفت. همچنین کوئست The New Plague دیگر بلافاصله توسط Theodore Griffs تحویل داده نمی‌شود و بازیکنان نیازمند تکمیل یک زنجیره‌کوئست طولانی سه مرحله‌ای شامل رفت‌وآمدهای متعدد و آیتم‌هایی با شانس دراپ پایین در Tirisfal Glades و Silverpine Forest هستند:",
-    {
-     "t": "ul",
-     "xs": [
-      "مرحلهٔ اول A Recipe For Death: جمع‌آوری ۶ آیتم با دراپ‌ریت پایین از خرس‌ها و عنکبوت‌ها و تحویل دادن آن‌ها در Undercity.",
-      "مرحلهٔ دوم A Recipe For Death: بازگشت به Silverpine Forest و لوت کردن یک کتاب از جنوب نقشه در منطقه‌ای Elite با کست‌تایم ۵ ثانیه.",
-      "مرحلهٔ سوم A Recipe For Death: لوت کردن چندین آیتم با دراپ‌ریت پایین از موجودات لول 18 نزدیک دریاچه."
-     ]
-    },
-    "پس از تکمیل این مسیر، کوئست The New Plague نزد Theodore Griffs در Undercity با مختصات 46.6 71.8 قابل دریافت خواهد بود.",
-    {
-     "t": "h",
-     "x": "فهرست کامل کوئست‌های دانجن Ruins of Lordaeron"
-    },
-    {
-     "t": "table",
-     "head": [
-      "نام کوئست",
-      "لول",
-      "محل شروع / نحوه دریافت"
-     ],
-     "rows": [
-      [
-       "The Wrath of Rath'mael",
-       "15",
-       "پیش‌نیاز Tirisfal Glades با Rear Guard Patrol از Deathguard Linnea در مختصات 65.6 60.2"
-      ],
-      [
-       "A Frightened Request",
-       "15",
-       "منطقهٔ Silverpine Forest، در The Sepulcher از Tabitha Heartweaver در مختصات 44.6 42.8"
-      ],
-      [
-       "Light's Justice",
-       "15",
-       "منطقهٔ Undercity، در The Apothecarium از Morbin Lightbane در مختصات 57.8 89.8"
-      ],
-      [
-       "The New Plague",
-       "15",
-       "پیش‌نیاز Silverpine Forest با A Recipe For Death از Apothecary Renferrel در مختصات 42.8 40.8"
-      ],
-      [
-       "Unending Torment",
-       "16",
-       "آیتم لوت‌شده در The Ruins of Lordaeron، منطقه King's Alley از The Baron"
-      ],
-      [
-       "کوئست مخفی Crest of Lordaeron/Crest of Lordaeron",
-       "14/",
-       "آیتم تعاملی با چندین نقطهٔ اسپاون در The Ruins of Lordaeron"
-      ],
-      [
-       "Abominable Creatures",
-       "16",
-       "ورودی دانجن The Ruins of Lordaeron از Captain Truman"
-      ],
-      [
-       "Bloodied Insignia",
-       "16",
-       "دراپ از ماب‌های Undead در دانجن The Ruins of Lordaeron"
-      ],
-      [
-       "Remember That I Love You",
-       "15",
-       "آیتم تعاملی در The Ruins of Lordaeron واقع در کنار Rath'mael"
-      ]
-     ]
-    }
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "Ruins of Lordaeron",
-    "کوئست",
-    "دانجن"
-   ],
-   "items": [],
-   "title_en": "New Prerequisites Required for Ruins of Lordaeron Dungeon Quests in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383769",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383769-new-prerequisites-required-for-ruins-of-lordaeron-dungeon-quests-in-wo.html",
-   "published_at": "2026-11-05T18:51:44Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383769/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383769/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383883,
-   "title_en": "Dungeon Mobs Now Grant Zero Experience When Highest Player is 13 Levels Above the Creature in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383883",
-   "category": "Forever",
-   "published_at": "2026-11-15T01:20:35Z"
-  },
   {
    "id": 383871,
    "title_en": "Infiltrate Krol'dok Stronghold: New Dungeon in WoW: Forever",
@@ -3474,27 +3385,6 @@
    "url": "https://www.wowhead.com/news=383863",
    "category": "PTR",
    "published_at": "2026-11-12T23:00:09Z"
-  },
-  {
-   "id": 383862,
-   "title_en": "Learning Dual Spec Can Trigger Empty Action Bars When Logging Out in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383862",
-   "category": "Forever",
-   "published_at": "2026-11-12T22:45:42Z"
-  },
-  {
-   "id": 383855,
-   "title_en": "Season of Discovery's Scarlet Enclave Raid to Return in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383855",
-   "category": "Forever",
-   "published_at": "2026-11-12T22:02:00Z"
-  },
-  {
-   "id": 383858,
-   "title_en": "Enhancement Shaman Class Changes Now Live in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383858",
-   "category": "Forever",
-   "published_at": "2026-11-12T19:12:41Z"
   },
   {
    "id": 383854,
@@ -3726,6 +3616,34 @@
    "url": "https://www.wowhead.com/news=383547",
    "category": "Forever",
    "published_at": "2026-10-23T14:00:00Z"
+  },
+  {
+   "id": 383552,
+   "title_en": "Item Level Changes for Ascended Venomforged Gear",
+   "url": "https://www.wowhead.com/news=383552",
+   "category": "Live",
+   "published_at": "2026-10-23T02:19:48Z"
+  },
+  {
+   "id": 383543,
+   "title_en": "Blizzard Confirms Molten Core Will Have New Mechanics in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383543",
+   "category": "Forever",
+   "published_at": "2026-10-22T18:15:43Z"
+  },
+  {
+   "id": 383541,
+   "title_en": "The WoW: Forever End of Beta Celebration Has Begun ft. Azuregos and Kazzak",
+   "url": "https://www.wowhead.com/news=383541",
+   "category": "Forever",
+   "published_at": "2026-10-22T17:13:00Z"
+  },
+  {
+   "id": 383540,
+   "title_en": "The WoW: Forever Podcast Episode 5 Now Available - The End of Beta Special!",
+   "url": "https://www.wowhead.com/news=383540",
+   "category": "Forever",
+   "published_at": "2026-10-22T16:21:06Z"
   }
  ]
 }

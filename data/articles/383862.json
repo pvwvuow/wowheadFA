@@ -116,7 +116,7 @@
   ],
   "chars": 1021
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383862/1.jpg",
@@ -126,5 +126,28 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383862/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 2,
- "hold_at": "2026-11-15T07:32:00Z"
+ "hold_at": "2026-11-15T07:32:00Z",
+ "article_fa": {
+  "title_fa": "باگ خالی شدن Action Barها پس از یادگیری Dual Spec هنگام خروج از بازی",
+  "lead_fa": "یادگیری قابلیت Dual Spec ممکن است به‌طور تصادفی باعث پاک شدن توانایی‌ها از نوار اکشن پس از خروج از بازی شود.",
+  "body_fa": [
+   "قابلیت Dual Spec در لول 40 با قیمت 50 گلد قابل خریداری است و امکان داشتن درخت تلنت دوم را برای بازیکنان فراهم می‌کند. با این حال، پس از یادگیری این قابلیت، باگی آزاردهنده ممکن است هنگام خروج از بازی رخ دهد.",
+   "بر اساس گزارش‌ها، پس از یادگیری Dual Spec ممکن است پس از خروج از بازی، برخی از Action Barها به‌صورت تصادفی ریست شوند. این اتفاق همیشگی نیست و هربار می‌تواند نوارهای متفاوتی را تحت تأثیر قرار دهد. اگرچه این ایراد تأثیری روی توانایی‌های مبارزه نمی‌گذارد، اما ورود به بازی و مواجهه با نوارهای کاملاً خالی خسته‌کننده است.",
+   {
+    "t": "note",
+    "x": "به دلیل وجود این باگ، بسیاری از بازیکنان به استفاده از ادآن Myslot روی آورده‌اند؛ ابزاری که برای ذخیره و ایمپورت تنظیمات UI طراحی شده و برای بازگرداندن سریع نوارهای خالی‌شده بسیار کاربردی است.",
+    "kind": "tip"
+   }
+  ],
+  "tags_fa": [
+   "باگ",
+   "Dual Spec",
+   "رابط کاربری"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-15T12:36:07Z"
+ }
 }
