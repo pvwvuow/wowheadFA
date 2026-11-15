@@ -99,7 +99,7 @@
   ],
   "chars": 723
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383868/1.jpg",
@@ -109,5 +109,40 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383868/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 2,
- "hold_at": "2026-11-14T21:45:20Z"
+ "hold_at": "2026-11-14T21:45:20Z",
+ "article_fa": {
+  "title_fa": "انتشار داستان کوتاه جدید Cost of Honor برای WoW: Forever",
+  "lead_fa": "بلیزارد داستان کوتاه تازه‌ای با نام Cost of Honor را برای WoW: Forever منتشر کرد که به روایت ماجراهایی از زبان Demar Brant می‌پردازد.",
+  "body_fa": [
+   "داستان کوتاه جدیدی با عنوان The Cost of Honor برای WoW: Forever در دسترس قرار گرفته است. در شبی طوفانی، جوانان منطقهٔ Riverglades دور آتش جمع می‌شوند تا پای روایت‌های Demar Brant بنشینند و حقایق پشت افسانه‌های تاریخی خود را بشنوند.",
+   "در جریان این داستان و از میان حکایت‌های جنگ، فداکاری و تصمیم‌های دشوار، این شخصیت‌ها پی می‌برند که قدرت حقیقی یک قوم تنها در پیروزی خلاصه نمی‌شود، بلکه در شجاعت محافظت از یکدیگر معنا پیدا می‌کند.",
+   {
+    "t": "h",
+    "x": "عوامل تولید و دسترسی"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "نویسنده: Jonathan Maberry",
+     "راوی صوتی: Peter Jessop در نقش Demar Brant",
+     "نسخهٔ متنی به صورت فایل دانلودی PDF"
+    ]
+   },
+   {
+    "t": "note",
+    "x": "این روایت هم به صورت صوتی و هم در قالب فایل متنی PDF در دسترس علاقه‌مندان قرار گرفته است.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "داستان کوتاه",
+   "بلیزارد",
+   "Forever"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-15T07:24:54Z"
+ }
 }

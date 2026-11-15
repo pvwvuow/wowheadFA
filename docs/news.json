@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T04:05:08Z",
+ "generated": "2026-11-15T07:33:13Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -46,6 +46,59 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383880/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383861,
+   "slug": "new-dungeon-set-transforms-players-into-an-ogre-in-wow-forever",
+   "title_fa": "ست دانجن جدید WoW: Forever بازیکنان را به Ogre تبدیل می‌کند",
+   "lead_fa": "بازیکنان WoW: Forever متوجه شده‌اند که با مجهز شدن به تمام تکه‌های ست زرهی جدید دانجن Krol'dok Stronghold، شخصیت بازی پس از رسیدن به حداکثر استک به یک Ogre تبدیل می‌شود.",
+   "body_fa": [
+    "در دانجن جدید Krol'dok Stronghold از نسخهٔ WoW: Forever، ست زرهی جدیدی به نام [[item:Krol'dok Battlegear]] برای تخصص‌های Protection Warrior و Paladin در دسترس قرار گرفته است. بازیکنان کشف کرده‌اند که استفاده از تمام قطعات این ست، افکتی پنهان و جالب به همراه دارد.",
+    {
+     "t": "h",
+     "x": "ویژگی‌های ست Krol'dok Battlegear"
+    },
+    "نحوهٔ دستیابی به قطعات این ست یکسان نیست؛ برخی از بخش‌های آن مانند [[item:Krol'dok Warplate Pauldrons]] به صورت BoE هستند، در حالی که تکه‌های دیگر نظیر [[item:Krol'dok Warplate Helmet]] به عنوان غنیمت‌های BoP از باس‌های داخل دانجن به دست می‌آیند.",
+    {
+     "t": "note",
+     "x": "با جمع‌آوری هر ۵ تکه و رسیدن بونوس ست به حداکثر استک (Max Stacks)، شخصیت بازیکن علاوه بر دریافت تمامی مزایای ست، به یک Ogre تبدیل خواهد شد.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "وضعیت ست‌های دانجن در سرور Forever"
+    },
+    "شرکت Blizzard علاوه بر افزودن ست‌های تازه، ست‌های قدیمی را نیز بازنگری کرده است:",
+    {
+     "t": "ul",
+     "xs": [
+      "افزودن ست‌های جدید به دانجن‌های Forever از جمله [[item:Rotmender's Raiment]] در Ruins of Lordaeron",
+      "معرفی ست [[item:Violet Sorcerer's Vestments]] در City of Dalaran",
+      "به‌روزرسانی ست‌های کلاسیک مانند [[item:Embrace of the Viper]] از Wailing Caverns"
+     ]
+    },
+    "ست‌های مخصوص ترازگیری (Leveling) نسبت به نسخهٔ Classic WoW قدرتمندتر و ارزشمندتر به نظر می‌رسند و به یکی از ویژگی‌های بسیار پرطرفدار در WoW: Forever تبدیل شده‌اند."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "دانجن",
+    "ست زره"
+   ],
+   "items": [],
+   "title_en": "New Dungeon Set Transforms Players into an Ogre in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383861",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383861-new-dungeon-set-transforms-players-into-an-ogre-in-wow-forever.html",
+   "published_at": "2026-11-14T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383861/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383861/1.jpg",
      "cap": ""
     }
    ]
@@ -378,6 +431,53 @@
    ]
   },
   {
+   "id": 383868,
+   "slug": "new-short-story-cost-of-honor-for-wow-forever",
+   "title_fa": "انتشار داستان کوتاه جدید Cost of Honor برای WoW: Forever",
+   "lead_fa": "بلیزارد داستان کوتاه تازه‌ای با نام Cost of Honor را برای WoW: Forever منتشر کرد که به روایت ماجراهایی از زبان Demar Brant می‌پردازد.",
+   "body_fa": [
+    "داستان کوتاه جدیدی با عنوان The Cost of Honor برای WoW: Forever در دسترس قرار گرفته است. در شبی طوفانی، جوانان منطقهٔ Riverglades دور آتش جمع می‌شوند تا پای روایت‌های Demar Brant بنشینند و حقایق پشت افسانه‌های تاریخی خود را بشنوند.",
+    "در جریان این داستان و از میان حکایت‌های جنگ، فداکاری و تصمیم‌های دشوار، این شخصیت‌ها پی می‌برند که قدرت حقیقی یک قوم تنها در پیروزی خلاصه نمی‌شود، بلکه در شجاعت محافظت از یکدیگر معنا پیدا می‌کند.",
+    {
+     "t": "h",
+     "x": "عوامل تولید و دسترسی"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "نویسنده: Jonathan Maberry",
+      "راوی صوتی: Peter Jessop در نقش Demar Brant",
+      "نسخهٔ متنی به صورت فایل دانلودی PDF"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "این روایت هم به صورت صوتی و هم در قالب فایل متنی PDF در دسترس علاقه‌مندان قرار گرفته است.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "داستان کوتاه",
+    "بلیزارد",
+    "Forever"
+   ],
+   "items": [],
+   "title_en": "New Short Story “Cost of Honor” for WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383868",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383868-new-short-story-cost-of-honor-for-wow-forever.html",
+   "published_at": "2026-11-13T18:03:42Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383868/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383868/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383857,
    "slug": "might-of-stormwind-world-buff-returns-in-wow-forever",
    "title_fa": "بازگشت ورلد باف Might of Stormwind به WoW: Forever",
@@ -577,6 +677,64 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383859/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383633,
+   "slug": "worldsoul-saga-lore-speculation-are-the-titans-bad-for-azeroth",
+   "title_fa": "بررسی داستان Worldsoul Saga: آیا تایتان‌ها واقعاً خیرخواه آزروت هستند؟",
+   "lead_fa": "خط داستانی جدید تایتان‌ها در پچ 12.1.7 و وقایع مرتبط با پچ 12.2، انگیزه‌ها و اهداف پانتئون را در آستانه اکسپنشن The Last Titan زیر ذره‌بین قرار داده است.",
+   "body_fa": [
+    "تایتان‌ها نقشی اساسی در شکل‌گیری تاریخ آزروت ایفا کرده‌اند، اما این که آیا حضور آن‌ها تماماً به سود این جهان بوده، پرسشی است که با مأموریت‌های Titan Lorewalking در پچ 12.1.7 بیش از پیش مطرح می‌شود. همراه با Li Li Stormstout، مروری بر گذشته تایتان‌ها، نابودی Old Gods، خلق Titanforged و البته آمادگی همیشگی آن‌ها برای پاکسازی تمدن‌های فانی به منظور حفظ Worldsoul انجام می‌گیرد.",
+    {
+     "t": "quote",
+     "x": "به‌خاطر یاری تایتان‌ها بود که Old Gods و لیجن شکست خوردند، جنبه‌های اژدها قدرت یافتند و بسیاری از نژادهای فانی بر روی آزروت شکل گرفتند. با این حال، کاملاً مشخص است که تایتان‌ها بیش از هر چیز به روح جهان آزروت اهمیت می‌دهند. نباید بازآفرینی که به‌سختی از آن گریختیم را فراموش کنیم. علیرغم تمام کارهای نیکی که برای ما انجام داده‌اند، باید از خود بپرسیم: آیا چشم‌انداز پانتئون برای آینده ما تفاوت چندانی با خواسته سارگراس دارد؟",
+     "by": "Li Li Stormstout"
+    },
+    {
+     "t": "h",
+     "x": "حقایق آشکار شده در دوران Dragonflight"
+    },
+    "دیدگاه تایتان‌ها و مراقبان آن‌ها نسبت به موجودات فانی از آغاز افزونه Dragonflight و از زبان Prime Designate Odyn در جلد ۷۴۲ فرامین او ثبت شد. این مستندات نشان داد که او به دنبال کنترل نژادهای برآمده از گوشت بوده، دستور پاکسازی اسناد پیشرفت‌های Black Empire را صادر کرده و خواستار نسبت‌دادن تمام شگفتی‌ها فقط به تایتان‌ها و پنهان نگاه داشتن موجودیت First Ones در Zereth Ordus شده بود. عقیده او بر این اساس استوار بود که زندگی آشوب است و باید تحت مهار قرار گیرد.",
+    "افزون بر این، در یکی از متون کهن Dragonflight روایتی از کاشتن شاخه درخت مادر G'Hanir توسط Eonar با نام Elun'Ahir ثبت شده است. طبق این متن، Aman'Thul در واکنش به ایجاد زندگی، آن را آشوب مهارنشده نامیده و درخت را از ریشه کنده بود، هرچند ریشه‌های آن در خاک پنهان ماندند. این رویدادها شکاف‌های ایدئولوژیک احتمالی درون خود اعضای Pantheon را به نمایش می‌گذارد.",
+    {
+     "t": "h",
+     "x": "نقش پانتئون در حماسه روح جهان"
+    },
+    "شواهد موجود در دراگون‌فلایت و The War Within حاکی از آن است که تایتان‌ها تنها به دنبال امنیت روح جهان نبوده‌اند، بلکه قصد داشتند تا در زمان بیداری، ماهیت آن کاملاً هماهنگ با فرقه Order باشد. پیام‌های Archaedas پیرامون Manifold نیز نشان‌دهنده تلاش برای ایزوله‌سازی Worldsoul در برابر هر نوع اثرگذاری به جز تایتان‌ها است.",
+    "موضوع نفرین گوشت یا همان Curse of Flesh نیز در دیالوگ‌های لی‌لی با زاویه دیگری نگریسته می‌شود؛ تایتان‌ها معتقدند تبدیل سنگ به گوشت صرفاً توطئه ووید و موجودات الد گادز بوده، اما شکل‌گیری اراده آزاد ممکن است مستقیماً با اثرگذاری خود Worldsoul روی نژادها و موجوداتی همچون Thraegar ارتباط داشته باشد.",
+    {
+     "t": "quote",
+     "x": "صبر کن... فکر نمی‌کنی اگر ایرثن‌ها هر چه به روح جهان نزدیک‌تر می‌شدند تحت تابش آن تغییر می‌کردند... شاید در واقع آزروت تلاش می‌کرد دست یاری به سوی مردم تو دراز کند؟ همان‌طور که با پدربزرگم ارتباط گرفت؟ و لغو دستورالعمل‌های آنان... در حقیقت بخشیدن اراده آزاد به آن‌ها بود؟",
+     "by": "Dagran Thaurissan II"
+    },
+    {
+     "t": "note",
+     "x": "در پیش‌نمایش رید مربوط به پچ 12.2، روح جهان در محاصره نوک شمشیر Sargeras از یک سو و ورود فساد ووید توسط Xal'atath از سوی دیگر دیده می‌شود.",
+     "kind": "info"
+    },
+    "با نزدیک شدن به پچ 12.2 و اکسپنشن The Last Titan در شمالگان و Ulduar، یکی از تصاویر تبلیغاتی نشان داده که رباتی عظیم متعلق به تایتان‌ها قاره را هدف گرفته است. با توجه به این که پاکسازی مجدد سیاره از مسیرهای قبلی غیرفعال شده، به نظر می‌رسد ابزارهای متفاوتی برای رویارویی احتمالی وجود دارد و باید دید در وقایع سال ۲۰۲۷ تقابل اصلی میان فانی‌ها و پانتئون به کدام سو خواهد رفت."
+   ],
+   "tags_fa": [
+    "داستان وارکرفت",
+    "تایتان‌ها",
+    "Worldsoul Saga",
+    "پچ 12.1.7"
+   ],
+   "items": [],
+   "title_en": "Worldsoul Saga Lore Speculation: Are the Titans Bad for Azeroth?",
+   "source_url": "https://www.wowhead.com/news=383633",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383633-worldsoul-saga-lore-speculation-are-the-titans-bad-for-azeroth.html",
+   "published_at": "2026-11-13T14:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383633/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383633/1.jpg",
      "cap": ""
     }
    ]
@@ -3291,156 +3449,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383691,
-   "slug": "the-weekly-reset-with-taliesin-and-evitel-forever-forever-talebound-an",
-   "title_fa": "برنامه The Weekly Reset با موضوع WoW: Forever و Talebound",
-   "lead_fa": "در قسمت جدید برنامه The Weekly Reset، موضوعاتی چون عرضه WoW: Forever، تفاوت‌های آن با نسخه Retail و جزئیات Talebound بررسی شده است.",
-   "body_fa": [
-    "در قسمت اخیر برنامه The Weekly Reset، تالیسین و اویتل (Taliesin and Evitel) به بررسی اخبار جدید و مباحث مرتبط با بازی پرداخته‌اند. محور اصلی این برنامه بررسی شرایط WoW: Forever، مسیر پیش‌روی آن و نحوه تمایز آن با نسخه Retail است.",
-    "عنوان World of Warcraft Forever در همین هفته منتشر می‌شود و در این برنامه درباره چشم‌انداز بازی در ۱ سال، ۵ سال یا ۱۰ سال آینده، سیستم پیشرفت افقی (horizontal progression)، اکسپنشن‌ها و نژادهای قابل بازی بحث شده است. همچنین اشاره کوتاهی به Midnight و Talebound نیز صورت گرفت.",
-    {
-     "t": "h",
-     "x": "موضوعات مطرح‌شده در این قسمت"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "برنامه Planet Azeroth: قسمت اول با حضور Bill Bailey",
-      "برنامه Planet Azeroth: قسمت دوم با حضور Bill Bailey",
-      "قسمت ششم پادکست The WoW: Forever Podcast که هم‌اکنون در دسترس است",
-      "محدودیت‌های سخت‌گیرانه در سیستم رزرو نام (Name Reservations) و تأیید رفع این مشکل در آینده نزدیک",
-      "پاداش‌های قدرت کاراکتر در بخش End-Game مربوط به Talebound",
-      "پیش‌نمایش Decor برای پچ 12.1.7"
-     ]
-    },
-    {
-     "t": "note",
-     "x": "مخاطبان می‌توانند از طریق توییچ برای استریم‌های روزهای کاری، یوتیوب، توییتر، وب‌سایت اختصاصی و صفحه پاتریون، برنامه‌های Taliesin and Evitel را دنبال کنند.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "The Weekly Reset",
-    "Talebound",
-    "پچ 12.1.7"
-   ],
-   "items": [],
-   "title_en": "The Weekly Reset with Taliesin and Evitel: Forever Forever? Talebound and More",
-   "source_url": "https://www.wowhead.com/news=383691",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383691-the-weekly-reset-with-taliesin-and-evitel-forever-forever-talebound-an.html",
-   "published_at": "2026-11-05T17:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383691/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383691/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383761,
-   "slug": "how-to-phase-to-see-group-members-after-joining-new-group",
-   "title_fa": "نحوه تغییر فاز دستی برای دیدن اعضای گروه در WoW: Forever",
-   "lead_fa": "در بازی WoW: Forever، جابه‌جایی به فاز اعضای گروه پس از ملحق شدن به آن‌ها به‌صورت خودکار انجام نمی‌شود و نیازمند تأیید دستی از سوی بازیکن است.",
-   "body_fa": [
-    "شرکت Blizzard پس از دوره آزمایشی WoW: Forever Beta تغییری در سازوکار گروه‌ها اعمال کرده و آن را در پادکست اختصاصی خود توضیح داده است. بر اساس این تغییر، پیوستن به یک گروه جدید باعث انتقال خودکار شما به لایه (layer) اعضای گروه نخواهد شد.",
-    {
-     "t": "h",
-     "x": "روش تغییر دستی فاز"
-    },
-    "بازیکنان برای همگام‌سازی فاز خود با سایر اعضا، باید روی علامت فلشی که در گوشه بالا سمت چپ پنجره چت (chat window) ظاهر می‌شود کلیک کنند تا جابه‌جایی فاز به‌صورت دستی فعال شود.",
-    {
-     "t": "note",
-     "x": "این قابلیت زمانی که در محیط جهان باز حضور دارید و نمی‌خواهید بلافاصله فاز خود را تغییر دهید، کاربردی است.",
-     "kind": "tip"
-    },
-    "این اعلان و علامت فلش حتی زمانی که در Town حضور دارید و کاری انجام نمی‌دهید نیز نمایش داده می‌شود؛ بنابراین در صورتی که اعضای گروه خود را در محیط مشاهده نمی‌کنید، گوشه بالایی پنجره چت را بررسی کنید."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "راهنما",
-    "بلیزارد"
-   ],
-   "items": [],
-   "title_en": "How to Phase to See Group Members After Joining New Group",
-   "source_url": "https://www.wowhead.com/news=383761",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383761-how-to-phase-to-see-group-members-after-joining-new-group.html",
-   "published_at": "2026-11-05T16:36:51Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383761/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383761/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383760,
-   "slug": "wow-forever-known-issues-after-launch",
-   "title_fa": "فهرست مشکلات شناخته‌شدهٔ WoW: Forever پس از عرضه",
-   "lead_fa": "شرکت Blizzard فهرستی از باگ‌ها و مشکلات مهم پس از عرضهٔ WoW: Forever را منتشر کرد که در دست بررسی و رفع هستند.",
-   "body_fa": [
-    "شرکت Blizzard پس از عرضهٔ روز گذشتهٔ WoW: Forever، فهرستی از ایرادات شناخته‌شدهٔ بازی را به اشتراک گذاشته است. تیم توسعه این موارد را مهم و تأثیرگذار دانسته و اعلام کرده که برای برطرف کردن آن‌ها در آینده برنامه‌ریزی شده است. این فهرست کامل نیست و به‌طور مرتب به‌روزرسانی خواهد شد.",
-    {
-     "t": "h",
-     "x": "مشکلات سیاه‌چاله‌ها، ماموریت‌ها و جهان بازی"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "در دانجن Razorfen Kraul دیگی نزدیک Roogug وجود دارد که بازیکنان ممکن است داخل آن بیفتند و گیر کنند.",
-      "کوئست Vorsha the Lasher در Ashenvale به دلیل باگی که منجر به کرش می‌شد تا زمان رفع مشکل غیرفعال شده است.",
-      "ورودی Stormwind Keep ممکن است ظاهر مورد نظر را نداشته باشد و با بافت‌های چشمک‌زن ناخواسته همراه شود."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "ایرادات رابط کاربری، کنترلر و NPCها"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "فروشنده‌های PvP Vendors در تمامی موقعیت‌ها شامل Orgrimmar و Stormwind و Dalaran به‌صورت موقت در دسترس نیستند.",
-      "صفحات بانک به‌صورت برگه نمایش داده می‌شوند که باعث شده تب‌ها بیرون از کادر اصلی قرار بگیرند.",
-      "هنگام استفاده از گیم‌پد، تلاش برای حذف بیش از ۱ آیتم rare یا epic ممکن است خطا ایجاد کند.",
-      "راهنمای دکمهٔ Push-to-Talk کیبورد ممکن است به اشتباه هنگام پیوستن به کانال صوتی برای کاربران کنترلر نمایش داده شود."
-     ]
-    },
-    {
-     "t": "note",
-     "x": "فروشندگان PvP در حال حاضر در اورگریمار، استورم‌ویند و دالاران در دسترس نیستند.",
-     "kind": "warn"
-    }
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "مشکلات شناخته شده",
-    "بلیزارد",
-    "باگ"
-   ],
-   "items": [],
-   "title_en": "WoW: Forever Known Issues After Launch",
-   "source_url": "https://www.wowhead.com/news=383760",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383760-wow-forever-known-issues-after-launch.html",
-   "published_at": "2026-11-05T16:32:18Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383760/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383760/1.png",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3459,32 +3467,11 @@
    "published_at": "2026-11-14T19:00:00Z"
   },
   {
-   "id": 383861,
-   "title_en": "New Dungeon Set Transforms Players into an Ogre in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383861",
-   "category": "Forever",
-   "published_at": "2026-11-14T15:00:00Z"
-  },
-  {
    "id": 383869,
    "title_en": "The WoW: Forever Podcast, a New Short Story, This Week’s Videos, and More! — WoW Weekly",
    "url": "https://www.wowhead.com/news=383869",
    "category": "WoW",
    "published_at": "2026-11-13T18:12:25Z"
-  },
-  {
-   "id": 383868,
-   "title_en": "New Short Story “Cost of Honor” for WoW: Forever",
-   "url": "https://www.wowhead.com/news=383868",
-   "category": "Forever",
-   "published_at": "2026-11-13T18:03:42Z"
-  },
-  {
-   "id": 383633,
-   "title_en": "Worldsoul Saga Lore Speculation: Are the Titans Bad for Azeroth?",
-   "url": "https://www.wowhead.com/news=383633",
-   "category": "PTR",
-   "published_at": "2026-11-13T14:00:00Z"
   },
   {
    "id": 383863,
@@ -3723,6 +3710,27 @@
    "url": "https://www.wowhead.com/news=383573",
    "category": "Forever",
    "published_at": "2026-10-26T15:00:00Z"
+  },
+  {
+   "id": 383570,
+   "title_en": "Den of Nalorakk and Murder Row Bug Fixes - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383570",
+   "category": "Live",
+   "published_at": "2026-10-24T00:23:57Z"
+  },
+  {
+   "id": 383561,
+   "title_en": "This Week's WoW Recap - WoW: Forever, Hallow's End, Fall Savings",
+   "url": "https://www.wowhead.com/news=383561",
+   "category": "WoW",
+   "published_at": "2026-10-23T17:25:01Z"
+  },
+  {
+   "id": 383547,
+   "title_en": "Who is WoW: Forever Meant For? Blizzard Discusses on Forever Podcast",
+   "url": "https://www.wowhead.com/news=383547",
+   "category": "Forever",
+   "published_at": "2026-10-23T14:00:00Z"
   }
  ]
 }

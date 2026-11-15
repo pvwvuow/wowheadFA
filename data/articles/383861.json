@@ -112,12 +112,53 @@
   ],
   "chars": 1069
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383861/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383861/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383861/1.jpg",
+ "article_fa": {
+  "title_fa": "ست دانجن جدید WoW: Forever بازیکنان را به Ogre تبدیل می‌کند",
+  "lead_fa": "بازیکنان WoW: Forever متوجه شده‌اند که با مجهز شدن به تمام تکه‌های ست زرهی جدید دانجن Krol'dok Stronghold، شخصیت بازی پس از رسیدن به حداکثر استک به یک Ogre تبدیل می‌شود.",
+  "body_fa": [
+   "در دانجن جدید Krol'dok Stronghold از نسخهٔ WoW: Forever، ست زرهی جدیدی به نام [[item:Krol'dok Battlegear]] برای تخصص‌های Protection Warrior و Paladin در دسترس قرار گرفته است. بازیکنان کشف کرده‌اند که استفاده از تمام قطعات این ست، افکتی پنهان و جالب به همراه دارد.",
+   {
+    "t": "h",
+    "x": "ویژگی‌های ست Krol'dok Battlegear"
+   },
+   "نحوهٔ دستیابی به قطعات این ست یکسان نیست؛ برخی از بخش‌های آن مانند [[item:Krol'dok Warplate Pauldrons]] به صورت BoE هستند، در حالی که تکه‌های دیگر نظیر [[item:Krol'dok Warplate Helmet]] به عنوان غنیمت‌های BoP از باس‌های داخل دانجن به دست می‌آیند.",
+   {
+    "t": "note",
+    "x": "با جمع‌آوری هر ۵ تکه و رسیدن بونوس ست به حداکثر استک (Max Stacks)، شخصیت بازیکن علاوه بر دریافت تمامی مزایای ست، به یک Ogre تبدیل خواهد شد.",
+    "kind": "info"
+   },
+   {
+    "t": "h",
+    "x": "وضعیت ست‌های دانجن در سرور Forever"
+   },
+   "شرکت Blizzard علاوه بر افزودن ست‌های تازه، ست‌های قدیمی را نیز بازنگری کرده است:",
+   {
+    "t": "ul",
+    "xs": [
+     "افزودن ست‌های جدید به دانجن‌های Forever از جمله [[item:Rotmender's Raiment]] در Ruins of Lordaeron",
+     "معرفی ست [[item:Violet Sorcerer's Vestments]] در City of Dalaran",
+     "به‌روزرسانی ست‌های کلاسیک مانند [[item:Embrace of the Viper]] از Wailing Caverns"
+    ]
+   },
+   "ست‌های مخصوص ترازگیری (Leveling) نسبت به نسخهٔ Classic WoW قدرتمندتر و ارزشمندتر به نظر می‌رسند و به یکی از ویژگی‌های بسیار پرطرفدار در WoW: Forever تبدیل شده‌اند."
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "دانجن",
+   "ست زره"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-15T07:17:29Z"
+ }
 }
