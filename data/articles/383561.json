@@ -14,6 +14,8 @@
    "12.1.5",
    "12.1.7",
    "15",
+   "18:00",
+   "1:00",
    "20",
    "2026",
    "22",
@@ -86,6 +88,7 @@
    "ark",
    "army",
    "around",
+   "art",
    "as",
    "associate",
    "at",
@@ -122,6 +125,7 @@
    "bring",
    "brings",
    "broad",
+   "brooks",
    "browser",
    "buckets",
    "build",
@@ -167,6 +171,7 @@
    "cohosts",
    "collect",
    "collected",
+   "colors",
    "combat",
    "come",
    "comic",
@@ -187,6 +192,7 @@
    "corners",
    "count",
    "countdown",
+   "cover",
    "covers",
    "cpra",
    "crawls",
@@ -287,6 +293,7 @@
    "experience",
    "exploit",
    "explore",
+   "extensive",
    "exterior",
    "facts",
    "fall",
@@ -400,7 +407,9 @@
    "it",
    "items",
    "its",
+   "javascript",
    "join",
+   "joseph",
    "josh",
    "journey",
    "just",
@@ -412,6 +421,8 @@
    "know",
    "korea",
    "kst",
+   "lacoti",
+   "lacroix",
    "lair",
    "last",
    "latest",
@@ -450,10 +461,12 @@
    "made",
    "major",
    "make",
+   "makes",
    "making",
    "manager",
    "many",
    "map",
+   "marco",
    "massive",
    "mastery",
    "may",
@@ -634,9 +647,11 @@
    "rights",
    "road",
    "roads",
+   "robert",
    "rolls",
    "room",
    "rooted",
+   "rows",
    "ruleset",
    "rulesets",
    "sale",
@@ -687,6 +702,7 @@
    "source",
    "sources",
    "south",
+   "spec",
    "special",
    "speed",
    "spirit",
@@ -783,6 +799,7 @@
    "upgrade",
    "url",
    "us",
+   "use",
    "used",
    "user",
    "ushotfixes",
@@ -868,45 +885,47 @@
  "hold_count": 1,
  "hold_at": "2026-10-27T17:11:55Z",
  "last_rejected": {
-  "title_fa": "مرور هفتگی اخبار وارکرافت: جزئیات تازه از WoW: Forever، آغاز Hallow's End و تخفیف‌های پاییزی",
-  "lead_fa": "بلیزارد در خلاصهٔ هفتگی خود، اخبار مهم بازی را با تمرکز بر انتشار محتوای جدید برای WoW: Forever، شروع رویداد فصلی Hallow's End و تخفیف‌های پاییزه منتشر کرد.",
+  "title_fa": "مرور رویدادهای هفته وارکرفت: جزییات WoW: Forever، جشن Hallow's End و تخفیف‌های پاییزه",
+  "lead_fa": "شرکت Blizzard در قالب یک جمع‌بندی هفتگی، مهم‌ترین اخبار عناوین مختلف World of Warcraft از جمله سیستم‌های تازه WoW: Forever، آغاز رویداد Hallow's End و تخفیف‌های جدید را مرور کرد.",
   "body_fa": [
-   "در خلاصهٔ هفتگی World of Warcraft جزئیات متعددی از نسخه‌های مختلف بازی منتشر شده است؛ از تازه‌ترین بخش‌های معرفی‌شده برای WoW: Forever گرفته تا در دسترس قرار گرفتن آپدیت محتوایی Gods of Zul'Aman در سرورهای Burning Crusade Classic Anniversary.",
+   "در خلاصه هفتگی رویدادهای Azeroth، جزییات متعددی درباره محتوای پیش‌رو در World of Warcraft: Forever، آغاز آپدیت Gods of Zul'Aman در سرورهای Burning Crusade Classic Anniversary و رویدادهای فصلی منتشر شده است.",
    {
     "t": "h",
-    "x": "جزئیات و امکانات WoW: Forever"
+    "x": "اطلاعات تازه از World of Warcraft: Forever"
    },
-   "در قسمت پنجم پادکست اختصاصی این عنوان با اجرای Countdown To Classic و حضور Meeix، توسعه‌دهندگان بازی شامل Josh “Aggrend” Greenfield و Clay Stone و Ana Resendez و Michael Nuthals به بررسی پایان دوره بتا پرداختند. همچنین فرصت رزرو نام کاراکترها از ۲۷ اکتبر تا ۳ نوامبر فراهم شده است که برای بازیکنان آمریکای شمالی در ۲۷ اکتبر رأس ساعت 1:00 p.m. PDT (معادل ساعت 07:00 در برخی مناطق زمانی) در دسترس قرار می‌گیرد.",
+   "در قسمت ۵ پادکست اختصاصی این عنوان با میزبانی Countdown To Classic و حضور Meeix، توسعه‌دهندگان بازی شامل Josh “Aggrend” Greenfield، Clay Stone، Ana Resendez و Michael Nuthals درباره پایان مرحله بتا به گفت‌وگو نشستند.",
+   "رزرو نام کاراکترها از ۲۷ اکتبر تا ۳ نوامبر در دسترس است. زمان‌بندی آغاز رزرو برای North America در تاریخ ۲۷ اکتبر ساعت 1:00 p.m. PDT، برای Europe در ۱۸:۰۰ CET و در مناطق Korea و Taiwan در تاریخ ۲۸ اکتبر ساعت 07:00 خواهد بود.",
    {
     "t": "ul",
     "xs": [
-     "تغییر در نحوه ورود به بازی با معرفی Rulesetها به‌جای فهرست سنتی انتخاب Realm به عنوان زیست‌بوم‌های مشترک بازیکنان",
-     "سیستم Camping برای تعامل، استراحت و آمادگی بازیکنان در کنار Cooking Fire در طول مسیر ماجراجویی‌ها",
-     "معرفی ۹ دانجن پنج‌نفره جدید برای سطوح ۱۳ تا ۶۰ در بخش‌های Eastern Kingdoms و Kalimdor",
-     "آغاز ریدهای لول ۶۰ در تاریخ ۹ دسامبر شامل سه رید Barrow Deeps و Hyjal Summit و Onyxia's Lair به همراه آیتم ورودی Drakefire Amulet"
+     "تغییر صفحه سنتی Realm Selection و جایگزینی آن با ساختار Rulesets برای اتصال بهتر بازیکنان هم‌سبک",
+     "سیستم Camping و تبدیل یک Cooking Fire ساده به مکانی برای استراحت و برقراری ارتباط با دیگران",
+     "معرفی ۹ دانجن پنج‌نفره جدید برای سطوح ۱۳ تا ۶۰ در پهنه Eastern Kingdoms و Kalimdor",
+     "آغاز سه رید در سطح ۶۰ از تاریخ ۹ دسامبر شامل Barrow Deeps و Hyjal Summit و Onyxia’s Lair به همراه آیتم ورودی Drakefire Amulet"
     ]
    },
    {
     "t": "h",
-    "x": "رویداد Hallow's End و به‌روزرسانی‌های داستانی"
+    "x": "به‌روزرسانی کلاسیک و رویدادهای درون بازی"
    },
-   "رویداد فصلی Hallow's End با حضور سطلهای شکلات Midnight در سراسر منطقه Quel'Thalas، تزیینات و دکوراسیون جدید هالوین نزد فروشندگان و فعالیت‌های درون‌شهری آغاز شده است. هم‌زمان، کمیک متحرک «Singularity» مربوط به بسته الحاقی World of Warcraft: Midnight با روایت Arator Windrunner با صدای Yuri Lowenthal منتشر شد که ماجرای ورود او به اعماق Void به همراه استادش Umbric را دنبال می‌کند.",
+   "محتوای The Gods of Zul'Aman در Burning Crusade Classic Anniversary فعال شد و بازیکنان را به مقابله با ارتش Zul'Aman و متوقف کردن نقشه‌های Zul'jin در Ghostlands فرا می‌خواند.",
+   "رویداد هالووین یا Hallow's End با تزیینات جدید نزد فروشندگان، سطل‌های آب‌نبات در سراسر Quel’Thalas و جشن رهایی Forsaken از دست Scourge آغاز شده است.",
+   "همچنین کمیک متحرک Singularity برای افزونه World of Warcraft: Midnight با روایت Arator Windrunner با صداپیشگی Yuri Lowenthal منتشر شده که به جست‌وجوی او و استادش Umbric در اعماق Void برای یافتن والدین مفقودش می‌پردازد.",
    {
     "t": "h",
-    "x": "تخفیف‌های پاییزه و بسته الحاقی Rexxar"
+    "x": "تخفیف‌های پاییزه و بسته Champion of the Wilds"
    },
-   "تخفیف‌های پاییزی بلیزارد تا تاریخ ۲ نوامبر در جریان است که تا ۵۰٪ تخفیف برای Midnight، تا ۳۰٪ تخفیف روی برخی خدمات بازی (Game Services) و تا ۳۳٪ برای سرویس‌های Burning Crusade Classic Anniversary را شامل می‌شود. همچنین تا ۸ نوامبر ۲۰۲۶، بازیکنان می‌توانند بسته الحاقی Champion of the Wilds Pack با تم شخصیت Rexxar، شامل اسکین برای پت‌های هانتر شبیه به Misha و Huffer و تزیینات اقامتگاه را دریافت نمایند.",
    {
     "t": "note",
-    "x": "گزارش‌ها و بازتاب‌های حاشیه‌ای سایت در شناسه خبر 383561 شامل موضوعاتی نظیر کلاس تیونینگ پچ 12.1.5، خط داستانی تایتان‌ها در پچ 12.1.7 و زمان‌بندی‌های ماه نوامبر نیز ثبت شده‌اند و ارقام بررسی‌شده جامعه نظیر ۲۰، ۲۲، ۲۸ و ۱۵ در گفتگوها بازتاب داشته‌اند.",
+    "x": "تخفیف‌های پاییزه تا ۲ نوامبر ادامه دارند و شامل ۵۰٪ تخفیف روی نسخه Midnight و تا ۳۳٪ کاهش قیمت برای خدمات بازی در Burning Crusade Classic Anniversary هستند.",
     "kind": "info"
-   }
+   },
+   "علاوه بر این، تا ۸ نوامبر ۲۰۲۶ بسته Champion of the Wilds Pack با تم رکسار (Rexxar) در نسخه مدرن در دسترس است که ظاهر این Beastmaster، تزیینات منزل و اسکین حیوانات دست‌آموز Misha و Huffer را برای کلاس Hunter به همراه دارد."
   ],
   "tags_fa": [
-   "خلاصه هفتگی",
-   "بلیزارد",
-   "رویداد Hallow's End",
-   "اخبار وارکرافت"
+   "اخبار وارکرفت",
+   "هالووین",
+   "تخفیف"
   ]
  }
 }

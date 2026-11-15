@@ -269,12 +269,115 @@
   ],
   "chars": 3304
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383845/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383845/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383845/1.jpg",
+ "article_fa": {
+  "title_fa": "راهنمای دریافت کیف از کوئست‌ها و باس‌ها در WoW: Forever",
+  "lead_fa": "بازیکنان در WoW: Forever می‌توانند با انجام کوئست‌ها و شکست دادن باس‌های مشخص، بدون صرف گلد فضای کوله‌پشتی خود را ارتقا دهند.",
+  "body_fa": [
+   "در جریان لول‌آپ در WoW: Forever، به همراه داشتن آیتم‌های گوناگون از جمله کانسومبل‌ها، آیتم‌های مربوط به کوئست‌ها و لوت‌هایی که برای کسب Gold به فروشنده فروخته می‌شوند، فضای کیف را به موضوعی بسیار حیاتی به‌ویژه در لول‌های اولیه تبدیل می‌کند. شخصیت‌ها در آغاز بازی با دسترسی به کیف‌های ۶ اسلاتی در مناطق ابتدایی و ۲۰ اسلات پایه، در مجموع ۴۲ اسلات دارند که با جمع‌آوری لوت‌ها به‌سرعت پر می‌شود.",
+   "با توجه به هزینه‌های مداوم برای ارتقای مهارت‌ها در هر دو لول یک‌بار و مواردی چون Dual Spec و یادگیری سوارکاری در لول 40، ممکن است بازیکنان با کمبود گلد مواجه شوند. در کنار دراپ‌های تصادفی مانند [[item:Large Blue Sack]] از ماب‌های جهان بازی، گزینه‌های تضمین‌شده‌تری از طریق کوئست‌ها و باس‌ها برای افزایش ظرفیت اینونتوری در دسترس قرار دارند.",
+   {
+    "t": "note",
+    "x": "چهار کوئست جدید در لول‌های ابتدایی کیف پاداش می‌دهند، اما ممکن است انجام انفرادی برخی از این کوئست‌ها به محض دریافت دشوار باشد.",
+    "kind": "info"
+   },
+   {
+    "t": "h",
+    "x": "کیف‌های حاصل از پاداش کوئست‌ها"
+   },
+   {
+    "t": "table",
+    "head": [
+     "نام کیف",
+     "منبع و کوئست"
+    ],
+    "rows": [
+     [
+      "[[item:Wizbang's Gunnysack]]",
+      "پاداش از Buzzbox 525 (لول ۷)"
+     ],
+     [
+      "[[item:Old Blanchy's Feed Pouch]]",
+      "پاداش از Poor Old Blanchy (لول ۹)"
+     ],
+     [
+      "[[item:Scuffed Shipping Crate]]",
+      "پاداش از Parts and Pieces (لول ۹)"
+     ],
+     [
+      "[[item:Captain Sander's Booty Bag]]",
+      "پاداش از Captain Sander's Hidden Treasure (لول ۱۰)"
+     ],
+     [
+      "[[item:Deviate Hide Pack]]",
+      "پاداش از Deviate Hides (لول ۱۳)"
+     ],
+     [
+      "[[item:Hunting Satchel]]",
+      "پاداش از Vyrin's Revenge (لول ۱۵)"
+     ],
+     [
+      "[[item:Gunnysack of the Night Watch]]",
+      "پاداش از The Night Watch (لول ۱۸)"
+     ],
+     [
+      "[[item:Ooze-covered Bag]]",
+      "پاداش از Digging Through the Ooze (لول ۱۹)"
+     ],
+     [
+      "[[item:Old Toolbox]]",
+      "پاداش از Stepping Stones در خط کوئست Sleeping Bag (لول ۱۴)"
+     ],
+     [
+      "[[item:Spidersilk Pouch]]",
+      "پاداش از Stronger than Steel در Mulgore (لول ۲۹)"
+     ],
+     [
+      "[[item:Explorer's Knapsack]]",
+      "پاداش از Cortello's Riddle (لول ۳۵)"
+     ],
+     [
+      "[[item:Thawpelt Sack]]",
+      "پاداش از The Platinum Discs (لول 40)"
+     ]
+    ]
+   },
+   {
+    "t": "h",
+    "x": "کیف‌های دراپ‌شده از باس‌ها"
+   },
+   "علاوه بر کوئست‌ها، برخی باس‌ها در سیاه‌چال‌ها و محیط بازی دارای شانس دراپ کیف هستند که نرخ به‌مراتب بالاتری نسبت به ماب‌های عادی دارند:",
+   {
+    "t": "ul",
+    "xs": [
+     "[[item:Gnoll Hide Sack]] از Fedfennel در Elwynn Forest",
+     "[[item:Fel Steed Saddlebags]] از Fel Steed در Shadowfang Keep",
+     "[[item:Large Rucksack]] از Foe Reaper 4000 در Westfall",
+     "[[item:Murloc Skin Bag]] از Gelihast در Blackfathom Deeps",
+     "[[item:Snakeskin Bag]] از Lady Anacondra در Wailing Caverns",
+     "[[item:Sturdy Lunchbox]] از Venture Co. Foreman در Stranglethorn Vale",
+     "[[item:Wayfarer's Knapsack]] از Ribbly Screwspigot در Blackrock Depths"
+    ]
+   },
+   "استفاده از این پاداش‌ها و هدف قرار دادن باس‌های نام‌برده، راهکاری مناسب برای جبران کمبود فضا بدون تحمیل هزینه‌های سنگین در طول مسیر ارتقای شخصیت است."
+  ],
+  "tags_fa": [
+   "راهنمای بازی",
+   "WoW Forever",
+   "کوئست",
+   "کیف"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-15T22:27:52Z"
+ }
 }

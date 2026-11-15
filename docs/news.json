@@ -1,8 +1,123 @@
 {
- "generated": "2026-11-15T21:07:44Z",
+ "generated": "2026-11-15T23:16:19Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383845,
+   "slug": "save-gold-and-gain-bag-space-by-earning-quest-rewards-in-wow-forever",
+   "title_fa": "راهنمای دریافت کیف از کوئست‌ها و باس‌ها در WoW: Forever",
+   "lead_fa": "بازیکنان در WoW: Forever می‌توانند با انجام کوئست‌ها و شکست دادن باس‌های مشخص، بدون صرف گلد فضای کوله‌پشتی خود را ارتقا دهند.",
+   "body_fa": [
+    "در جریان لول‌آپ در WoW: Forever، به همراه داشتن آیتم‌های گوناگون از جمله کانسومبل‌ها، آیتم‌های مربوط به کوئست‌ها و لوت‌هایی که برای کسب Gold به فروشنده فروخته می‌شوند، فضای کیف را به موضوعی بسیار حیاتی به‌ویژه در لول‌های اولیه تبدیل می‌کند. شخصیت‌ها در آغاز بازی با دسترسی به کیف‌های ۶ اسلاتی در مناطق ابتدایی و ۲۰ اسلات پایه، در مجموع ۴۲ اسلات دارند که با جمع‌آوری لوت‌ها به‌سرعت پر می‌شود.",
+    "با توجه به هزینه‌های مداوم برای ارتقای مهارت‌ها در هر دو لول یک‌بار و مواردی چون Dual Spec و یادگیری سوارکاری در لول 40، ممکن است بازیکنان با کمبود گلد مواجه شوند. در کنار دراپ‌های تصادفی مانند [[item:Large Blue Sack]] از ماب‌های جهان بازی، گزینه‌های تضمین‌شده‌تری از طریق کوئست‌ها و باس‌ها برای افزایش ظرفیت اینونتوری در دسترس قرار دارند.",
+    {
+     "t": "note",
+     "x": "چهار کوئست جدید در لول‌های ابتدایی کیف پاداش می‌دهند، اما ممکن است انجام انفرادی برخی از این کوئست‌ها به محض دریافت دشوار باشد.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "کیف‌های حاصل از پاداش کوئست‌ها"
+    },
+    {
+     "t": "table",
+     "head": [
+      "نام کیف",
+      "منبع و کوئست"
+     ],
+     "rows": [
+      [
+       "[[item:Wizbang's Gunnysack]]",
+       "پاداش از Buzzbox 525 (لول ۷)"
+      ],
+      [
+       "[[item:Old Blanchy's Feed Pouch]]",
+       "پاداش از Poor Old Blanchy (لول ۹)"
+      ],
+      [
+       "[[item:Scuffed Shipping Crate]]",
+       "پاداش از Parts and Pieces (لول ۹)"
+      ],
+      [
+       "[[item:Captain Sander's Booty Bag]]",
+       "پاداش از Captain Sander's Hidden Treasure (لول ۱۰)"
+      ],
+      [
+       "[[item:Deviate Hide Pack]]",
+       "پاداش از Deviate Hides (لول ۱۳)"
+      ],
+      [
+       "[[item:Hunting Satchel]]",
+       "پاداش از Vyrin's Revenge (لول ۱۵)"
+      ],
+      [
+       "[[item:Gunnysack of the Night Watch]]",
+       "پاداش از The Night Watch (لول ۱۸)"
+      ],
+      [
+       "[[item:Ooze-covered Bag]]",
+       "پاداش از Digging Through the Ooze (لول ۱۹)"
+      ],
+      [
+       "[[item:Old Toolbox]]",
+       "پاداش از Stepping Stones در خط کوئست Sleeping Bag (لول ۱۴)"
+      ],
+      [
+       "[[item:Spidersilk Pouch]]",
+       "پاداش از Stronger than Steel در Mulgore (لول ۲۹)"
+      ],
+      [
+       "[[item:Explorer's Knapsack]]",
+       "پاداش از Cortello's Riddle (لول ۳۵)"
+      ],
+      [
+       "[[item:Thawpelt Sack]]",
+       "پاداش از The Platinum Discs (لول 40)"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "کیف‌های دراپ‌شده از باس‌ها"
+    },
+    "علاوه بر کوئست‌ها، برخی باس‌ها در سیاه‌چال‌ها و محیط بازی دارای شانس دراپ کیف هستند که نرخ به‌مراتب بالاتری نسبت به ماب‌های عادی دارند:",
+    {
+     "t": "ul",
+     "xs": [
+      "[[item:Gnoll Hide Sack]] از Fedfennel در Elwynn Forest",
+      "[[item:Fel Steed Saddlebags]] از Fel Steed در Shadowfang Keep",
+      "[[item:Large Rucksack]] از Foe Reaper 4000 در Westfall",
+      "[[item:Murloc Skin Bag]] از Gelihast در Blackfathom Deeps",
+      "[[item:Snakeskin Bag]] از Lady Anacondra در Wailing Caverns",
+      "[[item:Sturdy Lunchbox]] از Venture Co. Foreman در Stranglethorn Vale",
+      "[[item:Wayfarer's Knapsack]] از Ribbly Screwspigot در Blackrock Depths"
+     ]
+    },
+    "استفاده از این پاداش‌ها و هدف قرار دادن باس‌های نام‌برده، راهکاری مناسب برای جبران کمبود فضا بدون تحمیل هزینه‌های سنگین در طول مسیر ارتقای شخصیت است."
+   ],
+   "tags_fa": [
+    "راهنمای بازی",
+    "WoW Forever",
+    "کوئست",
+    "کیف"
+   ],
+   "items": [],
+   "title_en": "Save Gold and Gain Bag Space by Earning Quest Rewards in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383845",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383845-save-gold-and-gain-bag-space-by-earning-quest-rewards-in-wow-forever.html",
+   "published_at": "2026-11-15T19:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383845/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383845/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383879,
    "slug": "an-old-sod-secret-has-new-rewards-in-wow-forever",
@@ -3256,86 +3371,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383784,
-   "slug": "the-adventure-begins-in-wow-forever-stay-connected-with-discord-and-ta",
-   "title_fa": "مرور هفتگی WoW Weekly: آغاز World of Warcraft: Forever، ادغام دیسکورد و سلاح لجندری جدید",
-   "lead_fa": "شرکت Blizzard در شماره جدید وبلاگ WoW Weekly به راه‌اندازی World of Warcraft: Forever، هماهنگی با Discord و معرفی سلاح لجندری جدید پرداخته است.",
-   "body_fa": [
-    "شماره جدید وبلاگ رسمی WoW Weekly منتشر شده است و به مرور آغاز به کار نسخه دائمی World of Warcraft: Forever در کنار نسخه‌های مدرن و Classic، قابلیت‌های ارتباطی جدید و تغییرات گیم‌پلی می‌پردازد.",
-    {
-     "t": "h",
-     "x": "آغاز به کار World of Warcraft: Forever و پشتیبانی از گیم‌پد"
-    },
-    "در این نسخه، دنیای Azeroth با رویکردی جدید بازطراحی شده است تا بازیکنان جدید و قدیمی بتوانند با سرعت دلخواه خود در آن به کاوش بپردازند. همچنین سازندگان کنترل بازی با گیم‌پد را بهبود بخشیده‌اند و مواردی چون هدف‌گیری، استفاده از اسپل‌ها، لوت کردن و جابه‌جایی در منوها را با حفظ ساختار آشنای پیشین برای دسته‌ها بهینه‌سازی کرده‌اند.",
-    {
-     "t": "h",
-     "x": "اتصال دیسکورد و آینه‌سازی چت گیلد"
-    },
-    "امکان اتصال حساب‌های Discord و بازتاب چت‌های درون‌برنامه‌ای فراهم شده است. بازیکنان در هر دو نسخه modern World of Warcraft و World of Warcraft: Forever می‌توانند با اتصال حساب خود، پیام‌ها را میان Discord و کانال guild chat ردوبدل کنند تا برای هماهنگی ریدها، عضوگیری PvP و گفتگو نیازی به حضور مستقیم در بازی نباشد.",
-    {
-     "t": "h",
-     "x": "دریافت توی Pouch of Violet Dust از توییچ"
-    },
-    "با تماشای استریم‌های واجد شرایط در پلتفرم Twitch.tv، بازیکنان می‌توانند توی موقت [[item:Pouch of Violet Dust]] را به دست آورند که جلوه آتش کمپ‌ها را تغییر می‌دهد.",
-    {
-     "t": "note",
-     "x": "این آیتم فقط در WoW: Forever قابل استفاده بوده و صرفاً تا پایان رویداد WoW: Forever Launch Celebration در دسترس است؛ پس از آن، توی از کلکسیون بازیکنان حذف خواهد شد.",
-     "kind": "warn"
-    },
-    {
-     "t": "table",
-     "head": [
-      "رویداد",
-      "زمان آغاز (PST)",
-      "زمان پایان (PST)"
-     ],
-     "rows": [
-      [
-       "توییچ دراپ Pouch of Violet Dust",
-       "۴ نوامبر ساعت 4:30 pm",
-       "۱۲ نوامبر ساعت 4:30 pm"
-      ]
-     ]
-    },
-    {
-     "t": "h",
-     "x": "اولین سلاح لجندری: Taldramir"
-    },
-    "در بخش دیگری از این گزارش، ساخت اولین سلاح لجندری این نسخه با نام Taldramir, the Whispering Wood به نمایش گذاشته شده است که با همکاری Wētā ساخته شده و در اختیار بازیکنان قرار می‌گیرد."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "دیسکورد",
-    "توییچ دراپ",
-    "اخبار بیلیزارد"
-   ],
-   "items": [],
-   "title_en": "The Adventure Begins in WoW: Forever, Stay Connected with Discord, and Taldramir Takes Shape in WoW Weekly",
-   "source_url": "https://www.wowhead.com/news=383784",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383784-the-adventure-begins-in-wow-forever-stay-connected-with-discord-and-ta.html",
-   "published_at": "2026-11-06T18:31:23Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383784/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383784/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383845,
-   "title_en": "Save Gold and Gain Bag Space by Earning Quest Rewards in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383845",
-   "category": "Forever",
-   "published_at": "2026-11-15T19:00:00Z"
-  },
   {
    "id": 383871,
    "title_en": "Infiltrate Krol'dok Stronghold: New Dungeon in WoW: Forever",
