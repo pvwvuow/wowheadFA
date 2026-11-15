@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T16:19:13Z",
+ "generated": "2026-11-15T16:20:51Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3311,6 +3311,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383879,
+   "title_en": "An Old SoD Secret Has New Rewards in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383879",
+   "category": "Forever",
+   "published_at": "2026-11-15T15:00:00Z"
+  },
   {
    "id": 383871,
    "title_en": "Infiltrate Krol'dok Stronghold: New Dungeon in WoW: Forever",
