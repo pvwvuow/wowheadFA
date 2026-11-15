@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T13:38:28Z",
+ "generated": "2026-11-15T17:12:03Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1019,6 +1019,135 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383858/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383854,
+   "slug": "start-making-other-arrangements-josh-greenfield-on-locking-character-c",
+   "title_fa": "توضیحات Josh Greenfield درباره محدودیت ساخت کاراکتر در ریلم‌های PvP",
+   "lead_fa": "تیم توسعه‌دهنده به دلیل رسیدن به سقف اختلاف جمعیتی مجاز، ساخت کاراکتر برای فکشن پرجمعیت‌تر در بیشتر ریلم‌های PvP را محدود کرده است.",
+   "body_fa": [
+    "در قسمت هفتم پادکست WoW: Forever، جاش گرینفیلد (Josh Greenfield یا همان Aggrend) درباره قفل شدن ساخت کاراکتر روی ریلم‌های با قوانین PvP و RP-PVP صحبت کرد و اشاره داشت بازیکنانی که قصد ساخت کاراکتر Horde روی بیشتر این سرورها را دارند، باید برنامه‌ریزی دیگری داشته باشند.",
+    "چند روز پیش اعلام شده بود که Blizzard در حال مدیریت تعادل فکشن‌ها روی سرورهای PvP است. برای دستیابی به این هدف، ساخت کاراکتر روی فکشن‌های پرجمعیت‌تر در ریلم‌های PvP و RP-PVP دشوارتر شد که در اغلب این سرورها، Horde فکشن پرجمعیت‌تر محسوب می‌شود.",
+    {
+     "t": "quote",
+     "x": "ما شرایط را تا حدی سخت‌تر کرده‌ایم. متأسفانه این یعنی اگر هنوز کاراکتر Horde نساخته‌اید، در این مقطع بهتر است به فکر برنامه‌ریزی دیگری باشید، چون مجبور شدیم محدودیت‌ها را شدیدتر کنیم.",
+     "by": "Josh Greenfield — Aggrend"
+    },
+    "طبق توضیحات Aggrend، تعادل میان فکشن‌ها یکی از مهم‌ترین موارد در یک سرور PvP است و تیم سازنده توجه ویژه‌ای به حفظ آن دارد. Blizzard در زمان عرضه معمولاً اختلاف ۱۰ درصدی (10% delta) را مجاز می‌داند، اما در حال حاضر وضعیت به این سقف رسیده است.",
+    "همچنین اعلام شد که وضعیت تعادل در سطح مناطق (Zone level) نیز اخیراً بررسی شده و تغییراتی برای عادلانه‌تر شدن شرایط اعمال شده است.",
+    {
+     "t": "note",
+     "x": "شایعاتی درباره تأثیر اکانت‌های Trial یا کاراکترهای لول ۱ بر برهم زدن تعادل فکشن‌ها مطرح شده بود که Aggrend آن را رد کرد و گفت این اقدامات هیچ اثری ندارد و سیستم بدین شکل کار نمی‌کند.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "تعادل فکشن",
+    "سرورهای PvP",
+    "WoW Forever",
+    "اخبار بلیزارد"
+   ],
+   "items": [],
+   "title_en": "\"Start Making Other Arrangements\" - Josh Greenfield on Locking Character Creation on PvP Rulesets",
+   "source_url": "https://www.wowhead.com/news=383854",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383854-start-making-other-arrangements-josh-greenfield-on-locking-character-c.html",
+   "published_at": "2026-11-12T17:58:03Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383854/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383854/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383842,
+   "slug": "loot-ocarina-of-time-boots-from-drowned-city-in-wow-forever",
+   "title_fa": "کشف چکمه‌های با الهام از Ocarina of Time در دانجن Drowned City بازی WoW: Forever",
+   "lead_fa": "در جدول لوت دانجن جدید The Drowned City در WoW: Forever یک جفت چکمه پیدا شده است که به بازی The Legend of Zelda: Ocarina of Time اشاره دارد.",
+   "body_fa": [
+    "یک جفت چکمه جدید در جدول لوت دانجن The Drowned City کشف شده است که ارجاعی آشکار به The Legend of Zelda: Ocarina of Time به نظر می‌رسد. به نظر می‌رسد با عرضه ریمستر این بازی شاخص توسط Nintendo برای کنسول Switch 2، توسعه‌دهندگان Blizzard قصد داشته‌اند علاقه خود را به این اثر نشان دهند.",
+    {
+     "t": "h",
+     "x": "نحوه دریافت و ویژگی‌های این آیتم"
+    },
+    "طبق پایگاه داده، این چکمه‌ها امکان دراپ از هر باسی را درون دانجن جدید The Drowned City در سرور WoW: Forever دارند. نام این آیتم [[item:Linken's Boots of Iron]] است که ویژگی‌های جالبی را ارائه می‌دهد.",
+    "در سری بازی‌های The Legend of Zelda، بازیکنان آیتم Iron Boots را به دست می‌آورند که امکان راه‌رفتن در کف آب‌ها را فراهم می‌کند اما سرعت حرکت روی خشکی را کاهش می‌دهد. طبق پستی در Reddit، مجهز شدن به این چکمه‌ها در WoW: Forever دقیقاً همین قابلیت‌ها را تقلید می‌کند.",
+    {
+     "t": "note",
+     "x": "این آیتم شاید حتی در آینده برای یک راز (Secret) مورد نیاز باشد.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "پیشینه ارجاع به سری Zelda در وارکرفت"
+    },
+    "این نخستین ارجاع به The Legend of Zelda در World of Warcraft نیست؛ شخصیت Linken از زمان عرضه وارکرفت در سال 2004 در بازی حضور داشته است. بازیکنان در منطقه Un'Goro Crater می‌توانند با کشف کوئست It's a Secret to Everybody مجموعه‌ای از مأموریت‌ها را باز کنند که به دریافت سلاح قدرتمند Linken's Sword of Mastery ختم می‌شود."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "ایستراگ",
+    "لوت دانجن",
+    "The Drowned City"
+   ],
+   "items": [],
+   "title_en": "Loot Ocarina of Time Boots from Drowned City in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383842",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383842-loot-ocarina-of-time-boots-from-drowned-city-in-wow-forever.html",
+   "published_at": "2026-11-12T16:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383842/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383842/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383807,
+   "slug": "party-with-other-players-to-use-their-sleeping-bags-for-experience-buf",
+   "title_fa": "دریافت بف تجربه از Sleeping Bag دیگر بازیکنان در WoW: Forever",
+   "lead_fa": "بازیکنان در WoW: Forever می‌توانند با عضویت در پارتی سایر افراد، از کیسه‌خواب آن‌ها برای دریافت بف افزایش تجربه استفاده کنند.",
+   "body_fa": [
+    "آیتم [[item:Cozy Sleeping Bag]] به WoW: Forever اضافه شده است و بفی برای افزایش کسب تجربه به مدت ۲ ساعت به بازیکنان می‌دهد. به ازای هر یک دقیقه‌ای که درون این کیسه‌خواب دراز بکشید، یک بف تجربهٔ ۱٪ دریافت می‌کنید که تا ۳ بار قابل ارتقا است و در مجموع ۳٪ افزایش تجربه به همراه دارد.",
+    {
+     "t": "h",
+     "x": "روش استفاده از کیسه‌خواب دیگران"
+    },
+    "به دست آوردن این آیتم نیازمند ماجراجویی در چندین منطقه مختلف است و حدود ۱ تا ۲ ساعت زمان می‌برد که زمان قابل‌توجهی به شمار می‌رود.",
+    "با این حال، بازیکنانی که تمایلی به فارم کردن آن ندارند، می‌توانند از کیسه‌خواب سایر بازیکنان استفاده کنند؛ اگر فردی را دیدید که کیسه‌خواب خود را روی زمین قرار داده است، کافی است درخواست ورود به پارتی او را بدهید و با دراز کشیدن در آن، بف تجربه را دریافت نمایید.",
+    {
+     "t": "note",
+     "x": "اگر در یک پارتی مشترک باشید، می‌توانید بدون نیاز به داشتن Cozy Sleeping Bag از بف تجربهٔ ۳ درصدی آن بهره‌مند شوید.",
+     "kind": "tip"
+    }
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "راهنما",
+    "کسب تجربه"
+   ],
+   "items": [],
+   "title_en": "Party with Other Players to Use Their Sleeping Bags for Experience Buff in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383807",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383807-party-with-other-players-to-use-their-sleeping-bags-for-experience-buf.html",
+   "published_at": "2026-11-12T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383807/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383807/1.jpg",
      "cap": ""
     }
    ]
@@ -3151,216 +3280,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383777,
-   "slug": "renamed-tortollan-npcs-and-venomous-abyss-tuning-patch-12-1-5-hotfixes",
-   "title_fa": "تغییر نام NPCهای Tortollan و تیونینگ دانجن The Venomous Abyss",
-   "lead_fa": "بلیزارد در قالب هاتفیکس‌های جدید، نام برخی NPCهای Tortollan را تغییر داد و تغییرات متعددی را روی دانجن The Venomous Abyss و دِلو Shadowguard Point اعمال کرد.",
-   "body_fa": [
-    "بلیزارد مجموعه‌ای از هاتفیکس‌ها را منتشر کرده است که بر اساس آن، نام برخی از NPCهای نژاد Tortollan به‌روزرسانی شده است. در انکانتر Lost Explorers واقع در The Venomous Abyss، نام این شخصیت‌ها اکنون شامل Epu (قبلاً Iku)، Nema (قبلاً Nama) و Gebbo است. این تغییرات مشکلاتی را در World of Warcraft: Midnight، Mists of Pandaria Classic، Season of Discovery، Burning Crusade Classic، WoW Classic Era و Hardcore هدف قرار داده‌اند که بخشی از آن‌ها بلافاصله و بخشی پس از ری‌استارت Realmها اعمال می‌شوند.",
-    {
-     "t": "h",
-     "x": "موجودات و ان‌پی‌سی‌ها"
-    },
-    "نام چندین ان‌پی‌سی Tortollan به‌روزرسانی شده است.",
-    {
-     "t": "h",
-     "x": "دلوها (Delves)"
-    },
-    "در Delve با نام Shadowguard Point و در حالت «Basilisk Blitz»، مشکلی برطرف شده که در آن خروج از دِلو هنگام جابه‌جایی میان Waygateها می‌توانست ظاهر بازیکن را تغییر دهد و او را در برابر نیروهای دوست به وضعیت Hostile دربیاورد.",
-    {
-     "t": "h",
-     "x": "دانجن The Venomous Abyss"
-    },
-    "تغییرات قابل‌توجهی برای بخش‌های مختلف دانجن The Venomous Abyss اعمال شده است:",
-    {
-     "t": "ul",
-     "xs": [
-      "در بخش Entombed Sentinels، بیشینه اندازه (Scale) حوضچه‌های Blood Venom در درجه‌های سختی Heroic و Mythic کاهش یافت. همچنین مدت‌زمان ماندگاری حوضچه‌های Blood Venom در درجه سختی Mythic به ۲ دقیقه کاهش یافت (قبلاً ۵ دقیقه بود).",
-      "در مبارزه Twin Fangs، میزان Damage توانایی Visceral Burst در درجه سختی Mythic به میزان ۴۰٪ کاهش یافت."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "بخش The Coiled Altar"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "سرعت جابه‌جایی Axegrinder در تمامی درجه‌های سختی به میزان 20% کاهش یافت.",
-      "میزان Damage واردشده توسط Axegrinder در درجه سختی Mythic به میزان 20% کاهش یافت.",
-      "میزان Damage ناشی از Gloombomb در درجه سختی Mythic به میزان 20% کاهش یافت.",
-      "میزان Damage توانایی Venom Rupture در درجه سختی Mythic به میزان ۱۵٪ کاهش پیدا کرد.",
-      "میزان Damage اسپل Malevolent Resonance به میزان ۶۰٪ کاهش یافت.",
-      "مدت‌زمان بقای Gravebound Soul Fragments در درجه سختی Mythic قبل از ناپدید شدن، ۲ ثانیه افزایش یافت.",
-      "تعداد Spiteful Soulcoilerهایی که از اسپل Spiritcackle در درجه سختی Mythic ظاهر می‌شوند، به ۱ عدد کاهش یافت (قبلاً ۲ عدد بود)."
-     ]
-    },
-    {
-     "t": "quote",
-     "x": "با این تغییر، ظاهر شدن Soulcoilerها مشابه نحوه اسپاون شدن آن‌ها در درجه سختی Heroic خواهد بود.",
-     "by": "یادداشت سازندگان (Developers' notes)"
-    }
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "دانجن",
-    "Midnight",
-    "تیونینگ"
-   ],
-   "items": [],
-   "title_en": "Renamed Tortollan NPCs and Venomous Abyss Tuning - Patch 12.1.5 Hotfixes",
-   "source_url": "https://www.wowhead.com/news=383777",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383777-renamed-tortollan-npcs-and-venomous-abyss-tuning-patch-12-1-5-hotfixes.html",
-   "published_at": "2026-11-06T02:16:07Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383777/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383777/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383776,
-   "slug": "massive-nerfs-to-the-venomous-abyss-raid-large-nerfs-to-ula-tek-on-eve",
-   "title_fa": "کاهش چشمگیر سختی باس‌های رید The Venomous Abyss و تغییرات گسترده Ula'tek",
-   "lead_fa": "بلیزارد مجموعه‌ای از تغییرات و تضعیف‌های سنگین را برای باس‌های رید The Venomous Abyss از جمله Ula'tek و Vashnik اعمال می‌کند که بخشی از آن‌ها هم‌اکنون فعال شده‌اند.",
-   "body_fa": [
-    "بلیزارد در حال اعمال تغییرات کاهشی و تضعیف‌های گسترده روی انکانترهای رید The Venomous Abyss است. این تغییرات لزوماً تا ریست هفتگی به تعویق نمی‌افتند و برخی از آن‌ها هم‌اکنون به شکل زنده در بازی در دسترس هستند و سایر موارد نیز ظرف چند روز آینده اضافه می‌شوند.",
-    {
-     "t": "h",
-     "x": "تغییرات Entombed Sentinels و Vashnik"
-    },
-    "در مبارزه با Entombed Sentinels حداکثر ابعاد حوضچه‌های Blood Venom در درجه‌های Heroic و Mythic کاهش یافته و مدت‌زمان ماندگاری این حوضچه‌ها در Mythic از ۵ دقیقه به ۲ دقیقه رسیده است.",
-    "در باس Vashnik, the Malignant و در درجه سختی Mythic، آسیب Malignance به میزان ۳۷٪ و مدت اثر DoT آن به ۱۶ ثانیه کاهش یافته است. همچنین در باس Twin Fangs آسیب Visceral Burst در درجه Mythic به میزان ۴۰٪ کمتر شده است.",
-    {
-     "t": "h",
-     "x": "انکانتر The Coiled Altar"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "کاهش ۲۰٪ سرعت حرکت Axegrinder در تمام درجه‌های سختی",
-      "کاهش ۲۰٪ آسیب Axegrinder و Gloombomb در درجه Mythic",
-      "کاهش ۱۵٪ آسیب Venom Rupture در درجه Mythic",
-      "کاهش ۶۰٪ آسیب Malevolent Resonance",
-      "افزایش ماندگاری Gravebound Soul Fragments به میزان ۲ ثانیه اضافه قبل از محو شدن در Mythic",
-      "کاهش تعداد Spiteful Soulcoilers حاصل از Spiritcackle از ۲ به ۱ در درجه Mythic"
-     ]
-    },
-    {
-     "t": "quote",
-     "x": "با این تغییر، اسپاون Soulcoilers اکنون مشابه نحوه اسپاون آن‌ها در درجه سختی Heroic خواهد بود.",
-     "by": "Blizzard"
-    },
-    {
-     "t": "h",
-     "x": "تغییرات مقیاس‌پذیری و تضعیف باس Ula'tek"
-    },
-    "میزان سلامت پایه‌ای و مقیاس‌پذیری سلامت دشمنان در درجه‌های Raid Finder، Normal و Heroic برای هماهنگی بهتر با تعداد نفرات کمتر رید در انکانتر Ula'tek تنظیم شده است. موجودات تحت تأثیر شامل Ula'tek، Blightscale Rawling، Blightscale Viper، Blightscale Shrieker و Weakened Doomscale هستند. سلامت خود Ula'tek در درجه Heroic به میزان ۱۵٪ کاهش یافته است.",
-    {
-     "t": "ul",
-     "xs": [
-      "کاهش ۶۱٪ آسیب Unchecked Rage در تمام درجه‌های سختی",
-      "کاهش ۱۷٪ آسیب اولیه Caustic Waves در Heroic و Mythic (آسیب اولیه به 761k در برابر 917k قبلی رسید)",
-      "کاهش آسیب DoT توانایی Caustic Waves به میزان ۷۵٪ در Normal، به میزان ۶۱٪ در Heroic و ۸۹٪ در Mythic (میزان آسیب دوره‌ای به 59k در برابر 540k قبلی رسید)",
-      "کاهش آسیب Malice به میزان ۶۳٪ در Normal و Heroic، و ۴۵٪ در Mythic",
-      "کاهش آسیب Virulent Spit به میزان ۴۶٪ در Raid Finder، ۳۳٪ در Normal و Heroic، و ۳۶٪ در Mythic (میزان آسیب عددی 587k در برابر 918k)",
-      "کاهش آسیب Falling Debris به میزان ۴۶٪ در Raid Finder، ۳۳٪ در Normal و Heroic، و ۳۶٪ در Mythic (میزان آسیب عددی 1.6M در برابر 2.5M)",
-      "کاهش ۵۳٪ آسیب اولیه و ۲۵٪ آسیب DoT توانایی Viscous Echoes در همه درجه‌ها",
-      "کاهش تعداد تخم‌های احضارشده با Call of the Serpent در Normal و Heroic",
-      "کاهش تعداد اهداف انتخابی توسط Serpent's Bite در تمام درجه‌ها و Grasping Fangs در Normal و Heroic",
-      "حذف ۲ تخم از هر طرف در فاز دوم و رساندن مجموع به ۸ تخم در هر سمت در درجه Heroic"
-     ]
-    },
-    {
-     "t": "note",
-     "x": "این تنظیمات علاوه بر کاهش صدمات، شامل کاهش تعداد تخم‌ها در فاز آخر، کمتر شدن نیاز به سوک‌های قرمز و کاهش اتصالات در فاز ۲ است.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "رید",
-    "The Venomous Abyss",
-    "Ula'tek"
-   ],
-   "items": [],
-   "title_en": "Massive Nerfs to The Venomous Abyss Raid - Large Nerfs to Ula'tek on Every Difficulty",
-   "source_url": "https://www.wowhead.com/news=383776",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383776-massive-nerfs-to-the-venomous-abyss-raid-large-nerfs-to-ula-tek-on-eve.html",
-   "published_at": "2026-11-06T00:26:53Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383776/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383776/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383775,
-   "slug": "massive-mythic-coiled-altar-nerfs-removes-1-soulcoiler-add-from-each-s",
-   "title_fa": "تضعیف گسترده انکانتر Coiled Altar در درجه سختی Mythic",
-   "lead_fa": "شرکت Blizzard با انتشار یادداشت‌های رسمی، تغییرات کاهشی قابل‌توجهی را روی نبرد Coiled Altar به‌ویژه در درجه سختی Mythic اعمال کرد.",
-   "body_fa": [
-    "شرکت Blizzard بار دیگر درجه سختی انکانتر Coiled Altar در حالت Mythic را به شکل چشمگیری کاهش داده و بخش زیادی از دشواری این باس فایت را برداشته است.",
-    {
-     "t": "h",
-     "x": "جزئیات تغییرات فاز اول و دوم"
-    },
-    "در جریان نبرد، تغییرات متعددی روی میزان آسیب توانایی‌ها و زمان‌بندی مکانیک‌ها اعمال شده است:",
-    {
-     "t": "ul",
-     "xs": [
-      "کاهش ۱۵٪ آسیب Venom Rupture در درجه سختی Mythic",
-      "کاهش ۲۰٪ آسیب دوره‌ای (Periodic damage) و آسیب Axegrinder در حالت Mythic",
-      "افزایش فرصت مکانیک Fading برای برداشتن روح‌ها به ۱۲ ثانیه (پیش‌تر ۱۰ ثانیه بود)",
-      "کاهش ۲۰٪ آسیب Gloombomb در حالت Mythic",
-      "کاهش ۶۰٪ آسیب Malevolent Resonance",
-      "حضور تنها یک Soulcoiler در هر بار اجرای Spiritcrackle"
-     ]
-    },
-    {
-     "t": "h",
-     "x": "یادداشت‌های رسمی سازندگان"
-    },
-    "طبق متن رسمی منتشرشده، سرعت حرکت Axegrinder در تمام درجه‌های سختی ۲۰٪ کاهش یافته است. همچنین قطعات Gravebound Soul Fragments در درجه سختی Mythic پیش از ناپدید شدن، ۲ ثانیه بیشتر دوام می‌آورند و تعداد Spiteful Soulcoilers احضارشده از Spiritcackle در این درجه سختی از ۲ عدد به ۱ عدد کاهش پیدا کرده است.",
-    {
-     "t": "quote",
-     "x": "با این تغییر، احضار Soulcoilerها اکنون مشابه نحوه اسپاون آن‌ها در درجه سختی Heroic خواهد بود.",
-     "by": "تیم توسعه‌دهندگان Blizzard"
-    }
-   ],
-   "tags_fa": [
-    "تغییرات کلس‌ها و رید",
-    "راید",
-    "هاتفیکس",
-    "Mythic"
-   ],
-   "items": [],
-   "title_en": "Massive Mythic Coiled Altar Nerfs Removes 1 Soulcoiler Add From Each Spawn",
-   "source_url": "https://www.wowhead.com/news=383775",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383775-massive-mythic-coiled-altar-nerfs-removes-1-soulcoiler-add-from-each-s.html",
-   "published_at": "2026-11-06T00:25:48Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383775/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383775/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3386,32 +3305,11 @@
    "published_at": "2026-11-12T23:00:09Z"
   },
   {
-   "id": 383854,
-   "title_en": "\"Start Making Other Arrangements\" - Josh Greenfield on Locking Character Creation on PvP Rulesets",
-   "url": "https://www.wowhead.com/news=383854",
-   "category": "Forever",
-   "published_at": "2026-11-12T17:58:03Z"
-  },
-  {
    "id": 383853,
    "title_en": "The WoW: Forever Podcast Episode 7 Now Available - Lore Episode",
    "url": "https://www.wowhead.com/news=383853",
    "category": "Forever",
    "published_at": "2026-11-12T17:37:38Z"
-  },
-  {
-   "id": 383842,
-   "title_en": "Loot Ocarina of Time Boots from Drowned City in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383842",
-   "category": "Forever",
-   "published_at": "2026-11-12T16:00:00Z"
-  },
-  {
-   "id": 383807,
-   "title_en": "Party with Other Players to Use Their Sleeping Bags for Experience Buff in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383807",
-   "category": "Forever",
-   "published_at": "2026-11-12T15:00:00Z"
   },
   {
    "id": 383818,
@@ -3643,6 +3541,27 @@
    "url": "https://www.wowhead.com/news=383540",
    "category": "Forever",
    "published_at": "2026-10-22T16:21:06Z"
+  },
+  {
+   "id": 383487,
+   "title_en": "The Current State of Protection Paladins in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383487",
+   "category": "Forever",
+   "published_at": "2026-10-21T19:06:30Z"
+  },
+  {
+   "id": 383519,
+   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383519",
+   "category": "Live",
+   "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
