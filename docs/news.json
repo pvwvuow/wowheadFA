@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T08:42:31Z",
+ "generated": "2026-11-16T15:49:40Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3443,6 +3443,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383806,
+   "title_en": "Should WoW: Forever Dungeons Let Players Complete Quests in One Run?",
+   "url": "https://www.wowhead.com/news=383806",
+   "category": "Forever",
+   "published_at": "2026-11-16T15:00:00Z"
+  },
   {
    "id": 383869,
    "title_en": "The WoW: Forever Podcast, a New Short Story, This Week’s Videos, and More! — WoW Weekly",
