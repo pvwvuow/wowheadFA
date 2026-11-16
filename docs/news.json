@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T04:51:52Z",
+ "generated": "2026-11-16T06:12:38Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -208,6 +208,126 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383883/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383871,
+   "slug": "infiltrate-krol-dok-stronghold-new-dungeon-in-wow-forever",
+   "title_fa": "سیاه‌چال جدید Krol'dok Stronghold در سرور WoW: Forever معرفی شد",
+   "lead_fa": "دانجن Krol'dok Stronghold به عنوان یک سیاه‌چال تازه برای بازه سطحی ۴۰ تا ۴۵ در منطقه Riverglades معرفی شد و جزییات باس‌ها و کوئست‌های آن در دسترس قرار گرفت.",
+   "body_fa": [
+    "سیاه‌چال Krol'dok Stronghold یک دانجن جدید برای بازیکنان سطح ۴۰ تا ۴۵ (Level 40-45) در منطقه تازه Riverglades است. این دانجن مقیاس بسیار بزرگی دارد و روایت نفوذ بازیکنان به پایتخت اوگرهای Krol'dok را به تصویر می‌کشد که از سوی فرقه Twilight's Hammer و قبیله Shadowhide Gnoll Clan از منطقه Redridge پشتیبانی می‌شوند.",
+    {
+     "t": "h",
+     "x": "کوئست‌های دانجن و پیش‌نیازها"
+    },
+    "در مجموع ۵ کوئست برای گروه Alliance و ۴ کوئست برای Horde در این سیاه‌چال وجود دارد که هر دو زنجیره‌های طولانی دارند و از مقرهای هر جناح آغاز می‌شوند. بازیکنان هر دو فکشن باید ۱۲ عدد Iron Bars و ۴ عدد Thick Leather را برای مأموریت Key Ingredients به همراه داشته باشند.",
+    {
+     "t": "table",
+     "head": [
+      "کوئست",
+      "سطح",
+      "جناح / پیش‌نیاز",
+      "محل آغاز و مختصات"
+     ],
+     "rows": [
+      [
+       "Vengeance of the Highborne",
+       "۳۷",
+       "Alliance",
+       "مختصات 17.8 66.0 در Alterac Mountains نزد Ranath Nightstride"
+      ],
+      [
+       "Twilight Mementos",
+       "۳۸",
+       "Alliance",
+       "مختصات 30.6 49.0 در Twilights Shroud نزد Sergeant Riftan"
+      ],
+      [
+       "Eye of Mugg",
+       "۴۰",
+       "Alliance",
+       "مختصات 66.6 81.0 در Farholde Keep نزد Demar Brant"
+      ],
+      [
+       "Tome of Twilight",
+       "۳۹",
+       "Alliance",
+       "مختصات 66.6 81.0 در Farholde Keep نزد Ashe Amberhall"
+      ],
+      [
+       "Krol'dok Moulding",
+       "۳۸",
+       "Alliance / Horde",
+       "لوت از Tunk درون سیاه‌چال Krol'dok Stronghold"
+      ],
+      [
+       "A Token of Vengeance",
+       "۳۸",
+       "Horde (Pre)",
+       "مختصات 33.4 38 نزد Da'grosh (آغاز از زنجیره Krom'rosh در مختصات 59.4 45.6)"
+      ],
+      [
+       "Tome of Twilight",
+       "۳۸",
+       "Horde (Pre)",
+       "مختصات 59.4 44 در Rom'gar نزد Tran'gul"
+      ],
+      [
+       "Eye of Mugg",
+       "۳۸",
+       "Horde (Pre)",
+       "مختصات 59.4 45.6 در Rom'gar نزد Krom'rosh"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "x": "کوئست‌های Farholde Keep نیازمند آغاز زنجیره از Curious Trinkets، Scraps of Knowledge و Saving Sunnyglade هستند. همچنین مأموریت Krol'dok Moulding پیش‌نیاز کوئست Key Ingredients است. کوئست‌های هورد نیز به زنجیره The Wayward Warrior مرتبط می‌شوند. پاداش‌های شاخص این مأموریت‌ها شامل سلاح‌های پتک [[item:Rock on Stick]] و [[item:Bigger Rock on Bigger Stick]] است.",
+     "kind": "tip"
+    },
+    {
+     "t": "h",
+     "x": "رویارویی با باس‌های سیاه‌چال"
+    },
+    "این سیاهچال شامل شش باس با مکانیک‌های متنوع است:",
+    {
+     "t": "ul",
+     "xs": [
+      "باس Slavecrusher Grox: از زندانیان Redridge Prisoners درخواست کمک می‌کند و روی خود و آن‌ها باف Bloodlust اعمال می‌نماید.",
+      "باس Twilight Commander Zarmok: از طریق Rending Whirl آسیب محیطی بالایی وارد می‌کند و در ۳۰ درصد (30% Health) وارد حالت Enrage می‌شود.",
+      "باس War Handler Ashka: به همراه دو گرگ حضور دارد و با قابلیت Command: Kill! حیوانات خود را به سمت اهداف تصادفی می‌فرستد.",
+      "باس Nar'gurk: در احاطه نیروهای فرقه است، اسپل Shadow Bolt Volley را روی تمام اعضا می‌زند و یک نفر را دچار Convert می‌کند که برای شکستن اثر آن باید سلامتی بازیکن به ۵۰ درصد (50% Health) برسد.",
+      "باس Bossman Toof: این انکانتر شامل موج‌هایی از ماب‌های کمکی تا رسیدن به خود باس است؛ این باس مکانیک‌های Mortal Strike، Thunderclap و Demoralizing Shout را به کار می‌گیرد.",
+      "باس Overlord Mugg: حاکم Krol'dok Stronghold با جابه‌جایی اسلحه از طریق Mugg's Fury مبارزه می‌کند؛ او نبرد را با Set of Maces آغاز کرده و به Set of Mauls می‌رود و با ضربه جهشی Crushing Slam بازیکنان و افراد نزدیک به آن‌ها را به عقب پرتاب می‌نماید."
+     ]
+    },
+    {
+     "t": "note",
+     "x": "ماب‌های زباله (Trash) این سیاه‌چال خطرناک‌تر از حالت عادی هستند؛ در این میان Twilight Grunts با استفاده از قابلیت Bladestorm در محدوده ۸ یاردی تهدید بزرگی ایجاد می‌کنند و حضور همزمان چند عدد از آن‌ها می‌تواند آسیب سنگینی به گروه بزند.",
+     "kind": "warn"
+    }
+   ],
+   "tags_fa": [
+    "سیاهچال",
+    "Forever",
+    "راهنمای دانجن",
+    "کوئست"
+   ],
+   "items": [],
+   "title_en": "Infiltrate Krol'dok Stronghold: New Dungeon in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383871",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383871-infiltrate-krol-dok-stronghold-new-dungeon-in-wow-forever.html",
+   "published_at": "2026-11-14T19:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383871/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383871/1.jpg",
      "cap": ""
     }
    ]
@@ -3320,67 +3440,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383785,
-   "slug": "shaman-talents-revisited-early-next-year-blizzard-addresses-shaman-cla",
-   "title_fa": "بررسی مجدد تلنت‌های Shaman در اوایل سال آینده میلادی",
-   "lead_fa": "بلیزارد در واکنش به بسته شدن دیسکورد Shaman Classic اعلام کرد که تلنت‌های این کلاس را در اوایل سال آینده بازنگری خواهد کرد.",
-   "body_fa": [
-    "پیش از عرضه WoW: Forever، سرور دیسکورد Shaman Classic در اعتراض به نحوه برخورد تیم توسعه با تمام تخصص‌های Shaman در WoW Forever بسته شد. در پی این ماجرا، Kris Zierhut در مصاحبه‌ای با Crix به این تصمیم واکنش نشان داد و دیدگاه‌های خود را درباره وضعیت کنونی این کلاس و برنامه‌های آینده مطرح کرد.",
-    {
-     "t": "quote",
-     "x": "فکر می‌کنم برخی از مشکلات آن‌ها منطقی است و برخی دیگر فقط به این خاطر است که از نداشتن Improved Ghost Wolf عصبانی هستند.",
-     "by": "Blizzard — Kris Zierhut"
-    },
-    {
-     "t": "h",
-     "x": "وضعیت تخصص‌های Enhancement و Elemental"
-    },
-    "تیم توسعه به طور ویژه تخصص Enhancement را زیر نظر دارد؛ زیرا شرایط به سمتی پیش رفته که بازیکنان بیش از حد به تجهیزات دارای Spell Power تمایل پیدا کرده‌اند.",
-    "در مورد تخصص Elemental نیز نظارت نزدیکی وجود دارد. به گفته زایرهوت، او تصمیم لحظه آخری گرفت چرا که شنیده بود بازیکنان به Lava Burst تمایلی ندارند و خواهان Chain Lightning قوی‌تری بودند، هرچند اعتراف می‌کند این موضوع شاید به کار بیشتری نیاز داشت.",
-    {
-     "t": "quote",
-     "x": "اگر در اوایل سال آینده میلادی کمی به تلنت‌های Shaman بازگردیم تعجب نخواهم کرد. این اتفاق زودتر از آن موعد نخواهد افتاد و در قالب یک پچ خواهد بود.",
-     "by": "Blizzard — Kris Zierhut"
-    },
-    {
-     "t": "note",
-     "x": "طبق اعلام تیم سازنده، با دریافت داده‌های مربوط به رید، تیونینگ‌هایی اعمال خواهد شد، اما بررسی تلنت‌های Shaman و Druid در اوایل سال آینده انجام می‌شود.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "کلاس Shaman",
-    "کلاس Druid",
-    "مصاحبه",
-    "WoW Forever"
-   ],
-   "items": [],
-   "title_en": "Shaman Talents Revisited Early Next Year - Blizzard Addresses Shaman Classic Discord Shutdown in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383785",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383785-shaman-talents-revisited-early-next-year-blizzard-addresses-shaman-cla.html",
-   "published_at": "2026-11-06T18:34:57Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383785/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383785/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383871,
-   "title_en": "Infiltrate Krol'dok Stronghold: New Dungeon in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383871",
-   "category": "Forever",
-   "published_at": "2026-11-14T19:00:00Z"
-  },
   {
    "id": 383869,
    "title_en": "The WoW: Forever Podcast, a New Short Story, This Week’s Videos, and More! — WoW Weekly",
