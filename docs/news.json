@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T17:12:15Z",
+ "generated": "2026-11-16T18:34:41Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3443,6 +3443,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383897,
+   "title_en": "Forever 101: Blizzard Releases New Player Overview Video for WoW: Forever",
+   "url": "https://www.wowhead.com/news=383897",
+   "category": "Forever",
+   "published_at": "2026-11-16T18:10:00Z"
+  },
   {
    "id": 383895,
    "title_en": "WoW Token Price Hits 640k Gold Spike on EU Servers",
