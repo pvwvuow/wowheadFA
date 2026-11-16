@@ -300,9 +300,9 @@
   }
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383871/1.jpg",
- "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
- "hold_count": 2,
- "hold_at": "2026-11-15T07:56:28Z",
+ "hold_reason": "خطای مدل در بازنویسی: Extra data: line 1 column 3751 (char 3750)",
+ "hold_count": 3,
+ "hold_at": "2026-11-16T02:03:00Z",
  "last_rejected": {
   "title_fa": "سیاه‌چال جدید Krol'dok Stronghold در WoW: Forever معرفی شد",
   "lead_fa": "سیاه‌چال جدید Krol'dok Stronghold برای بازیکنان سطح ۴۰ تا ۴۵ در منطقهٔ Riverglades در دسترس قرار گرفته است و شامل باس‌ها و کوئست‌های متعددی است.",

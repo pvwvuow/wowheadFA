@@ -541,9 +541,9 @@
   }
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383603/1.jpg",
- "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.c)",
- "hold_count": 2,
- "hold_at": "2026-11-02T17:34:21Z",
+ "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
+ "hold_count": 3,
+ "hold_at": "2026-11-16T02:32:37Z",
  "last_rejected": {
   "title_fa": "در دسترس قرار گرفتن اولین قطعه لوت Myth 2/6 از طریق Labyrinth",
   "lead_fa": "با سپری شدن سه ریست هفتگی از عرضهٔ Labyrinth، بازیکنان اکنون می‌توانند نخستین قطعهٔ تجهیزات سطح Myth 2/6 را دریافت کنند.",
