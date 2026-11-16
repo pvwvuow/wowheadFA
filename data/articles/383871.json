@@ -18,6 +18,7 @@
    "45",
    "45.6",
    "49.0",
+   "50",
    "59.4",
    "66.0",
    "66.6",
@@ -62,6 +63,7 @@
    "calls",
    "can",
    "capital",
+   "cast",
    "castshadow",
    "chain",
    "challenges",
@@ -160,6 +162,7 @@
    "move",
    "mugg",
    "mugg's",
+   "name",
    "nar'gurk",
    "nearby",
    "need",
@@ -182,6 +185,7 @@
    "powerful",
    "pre",
    "present",
+   "prisoner",
    "prisoners",
    "quest",
    "questlevelsideeffortshare",
@@ -199,12 +203,15 @@
    "rock",
    "rocks",
    "rom'gar",
+   "rows",
    "ruler",
+   "s",
    "saving",
    "scraps",
    "sergeant",
    "series",
    "set",
+   "shadow",
    "shadowhide",
    "should",
    "shout",
@@ -215,6 +222,7 @@
    "slam",
    "slavecrusher",
    "some",
+   "spec",
    "start",
    "starts",
    "stay",
@@ -304,66 +312,106 @@
  "hold_count": 3,
  "hold_at": "2026-11-16T02:03:00Z",
  "last_rejected": {
-  "title_fa": "سیاه‌چال جدید Krol'dok Stronghold در WoW: Forever معرفی شد",
-  "lead_fa": "سیاه‌چال جدید Krol'dok Stronghold برای بازیکنان سطح ۴۰ تا ۴۵ در منطقهٔ Riverglades در دسترس قرار گرفته است و شامل باس‌ها و کوئست‌های متعددی است.",
+  "title_fa": "سیاه‌چال جدید Krol'dok Stronghold در سرور WoW: Forever معرفی شد",
+  "lead_fa": "دانجن Krol'dok Stronghold به عنوان یک سیاه‌چال تازه برای بازه سطحی ۴۰ تا ۴۵ در منطقه Riverglades معرفی شد و جزییات باس‌ها و کوئست‌های آن در دسترس قرار گرفت.",
   "body_fa": [
-   "سیاه‌چال جدید Krol'dok Stronghold برای بازهٔ سطحی ۴۰ تا ۴۵ در منطقهٔ Riverglades قرار دارد. این سیاه‌چال بسیار بزرگ پایتخت اوگرهای Krol'dok را به نمایش می‌گذارد که از سوی Twilight's Hammer و کلن Shadowhide Gnoll اهل Redridge یاری می‌شوند.",
+   "سیاه‌چال Krol'dok Stronghold یک دانجن جدید برای بازیکنان سطح ۴۰ تا ۴۵ (Level 40-45) در منطقه تازه Riverglades است. این دانجن مقیاس بسیار بزرگی دارد و روایت نفوذ بازیکنان به پایتخت اوگرهای Krol'dok را به تصویر می‌کشد که از سوی فرقه Twilight's Hammer و قبیله Shadowhide Gnoll Clan از منطقه Redridge پشتیبانی می‌شوند.",
    {
     "t": "h",
-    "x": "کوئست‌ها و پیش‌نیازها"
+    "x": "کوئست‌های دانجن و پیش‌نیازها"
    },
-   "در مجموع ۵ کوئست برای Alliance و ۴ کوئست برای Horde در دسترس است. هر دو جناح زنجیره‌کوئست‌های بسیار طولانی دارند که از هاب‌های اصلی جناح خودشان شروع می‌شود. بازیکنان هر دو جناح باید مطمئن شوند که ۱۲ عدد Iron Bars و ۴ عدد Thick Leather برای کوئست Key Ingredients همراه دارند.",
-   {
-    "t": "note",
-    "x": "مختصات شروع کوئست‌های کلیدی: برای Ranath Nightstride در Dalaran عدد /way 17.8 66.0، برای Sergeant Riftan عدد /way 30.6 49.0، برای Da'grosh عدد /way 33.4 38، برای Krom'rosh عدد /way 59.4 45.6، و برای Ashe Amberhall و Demar Brant عدد /way 66.6 81.0 ثبت شده است. برخی کوئست‌ها نیازمند سطح ۳۷، ۳۸، ۳۹ یا ۴۰ هستند.",
-    "kind": "info"
-   },
+   "در مجموع ۵ کوئست برای گروه Alliance و ۴ کوئست برای Horde در این سیاه‌چال وجود دارد که هر دو زنجیره‌های طولانی دارند و از مقرهای هر جناح آغاز می‌شوند. بازیکنان هر دو فکشن باید ۱۲ عدد Iron Bars و ۴ عدد Thick Leather را برای مأموریت Key Ingredients به همراه داشته باشند.",
    {
     "t": "table",
     "head": [
-     "آیتم",
-     "نوع",
-     "کوئست مربوطه"
+     "کوئست",
+     "سطح",
+     "جناح / پیش‌نیاز",
+     "محل آغاز و مختصات"
     ],
     "rows": [
      [
-      "[[item:Rock on Stick]]",
-      "One-Hand Mace",
-      "Eye of Mugg"
+      "Vengeance of the Highborne",
+      "۳۷",
+      "Alliance",
+      "مختصات 17.8 66.0 در Alterac Mountains نزد Ranath Nightstride"
      ],
      [
-      "[[item:Bigger Rock on Bigger Stick]]",
-      "Two-Hand Mace",
-      "Eye of Mugg"
+      "Twilight Mementos",
+      "۳۸",
+      "Alliance",
+      "مختصات 30.6 49.0 در Twilights Shroud نزد Sergeant Riftan"
+     ],
+     [
+      "Eye of Mugg",
+      "۴۰",
+      "Alliance",
+      "مختصات 66.6 81.0 در Farholde Keep نزد Demar Brant"
+     ],
+     [
+      "Tome of Twilight",
+      "۳۹",
+      "Alliance",
+      "مختصات 66.6 81.0 در Farholde Keep نزد Ashe Amberhall"
+     ],
+     [
+      "Krol'dok Moulding",
+      "۳۸",
+      "Alliance / Horde",
+      "لوت از Tunk درون سیاه‌چال Krol'dok Stronghold"
+     ],
+     [
+      "A Token of Vengeance",
+      "۳۸",
+      "Horde (Pre)",
+      "مختصات 33.4 38 نزد Da'grosh (آغاز از زنجیره Krom'rosh در مختصات 59.4 45.6)"
+     ],
+     [
+      "Tome of Twilight",
+      "۳۸",
+      "Horde (Pre)",
+      "مختصات 59.4 44 در Rom'gar نزد Tran'gul"
+     ],
+     [
+      "Eye of Mugg",
+      "۳۸",
+      "Horde (Pre)",
+      "مختصات 59.4 45.6 در Rom'gar نزد Krom'rosh"
      ]
     ]
    },
    {
-    "t": "h",
-    "x": "باس‌های Krol'dok Stronghold"
+    "t": "note",
+    "x": "کوئست‌های Farholde Keep نیازمند آغاز زنجیره از Curious Trinkets، Scraps of Knowledge و Saving Sunnyglade هستند. همچنین مأموریت Krol'dok Moulding پیش‌نیاز کوئست Key Ingredients است. کوئست‌های هورد نیز به زنجیره The Wayward Warrior مرتبط می‌شوند. پاداش‌های شاخص این مأموریت‌ها شامل سلاح‌های پتک [[item:Rock on Stick]] و [[item:Bigger Rock on Bigger Stick]] است.",
+    "kind": "tip"
    },
-   "این سیاه‌چال دارای ۶ باس است که استراتژی‌های متفاوتی را می‌طلبند:",
+   {
+    "t": "h",
+    "x": "رویارویی با باس‌های سیاه‌چال"
+   },
+   "این سیاهچال شامل شش باس با مکانیک‌های متنوع است:",
    {
     "t": "ul",
     "xs": [
-     "باس Slavecrusher Grox: از زندانیان نزدیک Redridge تقاضای کمک می‌کند و از توانایی Bloodlust روی خود و زندانیانش بهره می‌برد.",
-     "باس Twilight Commander Zarmok: آسیب محیطی سنگینی با Rending Whirl وارد می‌آورد و در سلامت ۳۰٪ وارد حالت Enrage می‌شود.",
-     "باس War Handler Ashka: همراه با دو گرگ مبارزه می‌کند و سگ‌های خود را با Command: Kill! به سمت اعضای تصادفی گروه می‌فرستد.",
-     "باس Nar'gurk: توسط اعضای Twilight's Hammer احاطه شده، از طلسم Shadow Bolt Volley روی همهٔ اعضای گروه استفاده می‌کند و با Convert یک بازیکن را تسخیر می‌نماید که برای شکستن این اثر باید سلامت آن بازیکن به ۵۰٪ کاهش یابد.",
-     "باس Bossman Toof: این رویارویی شامل موج‌هایی از اددها حین رسیدن به باس است؛ خود باس یک واریر مجهز به توانایی‌های Mortal Strike و Thunderclap و Demoralizing Shout است.",
-     "باس Overlord Mugg: فرمانروای این سیاه‌چال یک استاد سلاح است که با Mugg's Fury سلاح‌های خود را تعویض می‌کند؛ او مبارزه را با Set of Maces آغاز کرده و به Set of Mauls می‌رود. همچنین با Crushing Slam به سمت بازیکنان جهیده و آن‌ها را به عقب پرتاب می‌کند."
+     "باس Slavecrusher Grox: از زندانیان Redridge Prisoners درخواست کمک می‌کند و روی خود و آن‌ها باف Bloodlust اعمال می‌نماید.",
+     "باس Twilight Commander Zarmok: از طریق Rending Whirl آسیب محیطی بالایی وارد می‌کند و در ۳۰ درصد (30% Health) وارد حالت Enrage می‌شود.",
+     "باس War Handler Ashka: به همراه دو گرگ حضور دارد و با قابلیت Command: Kill! حیوانات خود را به سمت اهداف تصادفی می‌فرستد.",
+     "باس Nar'gurk: در احاطه نیروهای فرقه است، اسپل Shadow Bolt Volley را روی تمام اعضا می‌زند و یک نفر را دچار Convert می‌کند که برای شکستن اثر آن باید سلامتی بازیکن به ۵۰ درصد (50% Health) برسد.",
+     "باس Bossman Toof: این انکانتر شامل موج‌هایی از ماب‌های کمکی تا رسیدن به خود باس است؛ این باس مکانیک‌های Mortal Strike، Thunderclap و Demoralizing Shout را به کار می‌گیرد.",
+     "باس Overlord Mugg: حاکم Krol'dok Stronghold با جابه‌جایی اسلحه از طریق Mugg's Fury مبارزه می‌کند؛ او نبرد را با Set of Maces آغاز کرده و به Set of Mauls می‌رود و با ضربه جهشی Crushing Slam بازیکنان و افراد نزدیک به آن‌ها را به عقب پرتاب می‌نماید."
     ]
    },
    {
-    "t": "h",
-    "x": "دشمنان غیرباس (Trash)"
-   },
-   "ماب‌های عادی در این سیاه‌چال قدرت بالایی دارند. خطرناک‌ترین ماب‌ها Twilight Grunts هستند که با توانایی مرگبار Bladestorm در محدودهٔ ۸ یاردی آسیب گسترده‌ای می‌زنند و حضور هم‌زمان چندتای آن‌ها می‌تواند به‌سرعت سلامت گروه را از بین ببرد."
+    "t": "note",
+    "x": "ماب‌های زباله (Trash) این سیاه‌چال خطرناک‌تر از حالت عادی هستند؛ در این میان Twilight Grunts با استفاده از قابلیت Bladestorm در محدوده ۸ یاردی تهدید بزرگی ایجاد می‌کنند و حضور همزمان چند عدد از آن‌ها می‌تواند آسیب سنگینی به گروه بزند.",
+    "kind": "warn"
+   }
   ],
   "tags_fa": [
-   "سیاه‌چال",
-   "WoW Forever",
-   "Krol'dok Stronghold"
+   "سیاهچال",
+   "Forever",
+   "راهنمای دانجن",
+   "کوئست"
   ]
  }
 }
