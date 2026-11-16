@@ -2,302 +2,47 @@
  "day": "2026-11-16",
  "published_today": 1,
  "held": {
-  "383736": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-16T02:17:49Z",
-   "at_ts": 1794795469.450347
-  },
-  "383725": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-16T02:20:02Z",
-   "at_ts": 1794795602.746243
-  },
-  "383698": {
-   "reason": "بازبین پاسخ معتبر نداد: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge) | G7 ",
-   "at": "2026-11-16T02:28:10Z",
-   "at_ts": 1794796090.288464
-  },
-  "383603": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-16T02:32:37Z",
-   "at_ts": 1794796357.035492
-  },
-  "383541": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-16T03:56:53Z",
-   "at_ts": 1794801413.840858
-  },
-  "383518": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-16T04:03:11Z",
-   "at_ts": 1794801791.430127
-  },
-  "383863": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-16T04:30:36Z",
-   "at_ts": 1794803436.058733
-  },
   "383741": {
    "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
    "at": "2026-11-16T05:35:38Z",
    "at_ts": 1794807338.543721
+  },
+  "383720": {
+   "reason": "بازبین پاسخ معتبر نداد: Gemini request failed: HTTP 503 UNAVAILABLE: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. | G4 numbers from source missing in article: 1.60.1, 10, 12, 14, 15, 18, 20, 2026",
+   "at": "2026-11-16T08:26:27Z",
+   "at_ts": 1794817587.660695
   }
  },
- "ingest_fails": {},
- "updated_at": "2026-11-16T06:11:19Z",
+ "ingest_fails": {
+  "383863": 1,
+  "383824": 1,
+  "383738": 1,
+  "383736": 1,
+  "383725": 1,
+  "383735": 1,
+  "383716": 1,
+  "383713": 1,
+  "383712": 1,
+  "383693": 1,
+  "383704": 1,
+  "383702": 1,
+  "383698": 1,
+  "383695": 1,
+  "383630": 1,
+  "383603": 1,
+  "383570": 1,
+  "383561": 1,
+  "383552": 1,
+  "383543": 1,
+  "383541": 1,
+  "383487": 1,
+  "383519": 1,
+  "383518": 1
+ },
+ "updated_at": "2026-11-16T08:41:18Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383518",
-    "ts": "2026-11-12T21:39:26Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 63.8,
-    "attempts": 1
-   },
-   {
-    "id": "383860",
-    "ts": "2026-11-12T23:30:35Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 78.7,
-    "attempts": 1
-   },
-   {
-    "id": "383858",
-    "ts": "2026-11-12T23:32:47Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 132.6,
-    "attempts": 1
-   },
-   {
-    "id": "383854",
-    "ts": "2026-11-12T23:38:54Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 366.4,
-    "attempts": 1
-   },
-   {
-    "id": "383842",
-    "ts": "2026-11-12T23:40:04Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 69.8,
-    "attempts": 1
-   },
-   {
-    "id": "383807",
-    "ts": "2026-11-12T23:40:41Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 37.1,
-    "attempts": 1
-   },
-   {
-    "id": "383818",
-    "ts": "2026-11-12T23:42:02Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 81.8,
-    "attempts": 1
-   },
-   {
-    "id": "383851",
-    "ts": "2026-11-12T23:42:44Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 41.1,
-    "attempts": 1
-   },
-   {
-    "id": "383848",
-    "ts": "2026-11-12T23:44:06Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 82.4,
-    "attempts": 1
-   },
-   {
-    "id": "383825",
-    "ts": "2026-11-12T23:45:13Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 67.3,
-    "attempts": 1
-   },
-   {
-    "id": "383827",
-    "ts": "2026-11-12T23:50:47Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 333.7,
-    "attempts": 1
-   },
-   {
-    "id": "383824",
-    "ts": "2026-11-12T23:51:31Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 44.2,
-    "attempts": 1
-   },
-   {
-    "id": "383768",
-    "ts": "2026-11-12T23:52:17Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 45.7,
-    "attempts": 1
-   },
-   {
-    "id": "383741",
-    "ts": "2026-11-12T23:53:08Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 51.1,
-    "attempts": 1
-   },
-   {
-    "id": "383738",
-    "ts": "2026-11-12T23:59:06Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 358.2,
-    "attempts": 1
-   },
-   {
-    "id": "383736",
-    "ts": "2026-11-13T00:00:01Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 54.8,
-    "attempts": 1
-   },
-   {
-    "id": "383725",
-    "ts": "2026-11-13T00:00:39Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 38.0,
-    "attempts": 1
-   },
-   {
-    "id": "383735",
-    "ts": "2026-11-13T00:01:23Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 44.2,
-    "attempts": 1
-   },
-   {
-    "id": "383720",
-    "ts": "2026-11-13T00:01:43Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 20.2,
-    "attempts": 1
-   },
-   {
-    "id": "383716",
-    "ts": "2026-11-13T00:02:27Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 43.2,
-    "attempts": 1
-   },
-   {
-    "id": "383713",
-    "ts": "2026-11-13T00:03:20Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 53.3,
-    "attempts": 1
-   },
-   {
-    "id": "383712",
-    "ts": "2026-11-13T00:04:13Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 53.0,
-    "attempts": 1
-   },
-   {
-    "id": "383693",
-    "ts": "2026-11-13T00:05:15Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 61.7,
-    "attempts": 1
-   },
-   {
-    "id": "383704",
-    "ts": "2026-11-13T00:05:59Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 44.4,
-    "attempts": 1
-   },
-   {
-    "id": "383702",
-    "ts": "2026-11-13T00:06:15Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 16.4,
-    "attempts": 1
-   },
    {
     "id": "383698",
     "ts": "2026-11-13T00:07:38Z",
@@ -4047,6 +3792,256 @@
     "warns": 0,
     "sec": 47.3,
     "attempts": 1
+   },
+   {
+    "id": "383863",
+    "ts": "2026-11-16T07:55:19Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 36.7,
+    "attempts": 0
+   },
+   {
+    "id": "383824",
+    "ts": "2026-11-16T07:56:19Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 59.5,
+    "attempts": 0
+   },
+   {
+    "id": "383738",
+    "ts": "2026-11-16T07:57:17Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 58.6,
+    "attempts": 0
+   },
+   {
+    "id": "383736",
+    "ts": "2026-11-16T07:58:09Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 51.6,
+    "attempts": 0
+   },
+   {
+    "id": "383725",
+    "ts": "2026-11-16T07:59:07Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 58.4,
+    "attempts": 0
+   },
+   {
+    "id": "383735",
+    "ts": "2026-11-16T07:59:55Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 47.7,
+    "attempts": 0
+   },
+   {
+    "id": "383720",
+    "ts": "2026-11-16T08:26:27Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 1592.4,
+    "attempts": 2
+   },
+   {
+    "id": "383716",
+    "ts": "2026-11-16T08:27:26Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 58.9,
+    "attempts": 0
+   },
+   {
+    "id": "383713",
+    "ts": "2026-11-16T08:28:25Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 58.8,
+    "attempts": 0
+   },
+   {
+    "id": "383712",
+    "ts": "2026-11-16T08:29:06Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 41.7,
+    "attempts": 0
+   },
+   {
+    "id": "383693",
+    "ts": "2026-11-16T08:29:38Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 31.4,
+    "attempts": 0
+   },
+   {
+    "id": "383704",
+    "ts": "2026-11-16T08:30:38Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 60.1,
+    "attempts": 0
+   },
+   {
+    "id": "383702",
+    "ts": "2026-11-16T08:31:35Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 56.9,
+    "attempts": 0
+   },
+   {
+    "id": "383698",
+    "ts": "2026-11-16T08:32:19Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 44.5,
+    "attempts": 0
+   },
+   {
+    "id": "383695",
+    "ts": "2026-11-16T08:33:18Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 58.8,
+    "attempts": 0
+   },
+   {
+    "id": "383630",
+    "ts": "2026-11-16T08:34:12Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 53.4,
+    "attempts": 0
+   },
+   {
+    "id": "383603",
+    "ts": "2026-11-16T08:34:41Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 29.4,
+    "attempts": 0
+   },
+   {
+    "id": "383570",
+    "ts": "2026-11-16T08:35:40Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 59.1,
+    "attempts": 0
+   },
+   {
+    "id": "383561",
+    "ts": "2026-11-16T08:36:39Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 58.8,
+    "attempts": 0
+   },
+   {
+    "id": "383552",
+    "ts": "2026-11-16T08:37:02Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 23.2,
+    "attempts": 0
+   },
+   {
+    "id": "383543",
+    "ts": "2026-11-16T08:37:47Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 44.9,
+    "attempts": 0
+   },
+   {
+    "id": "383541",
+    "ts": "2026-11-16T08:38:34Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 46.7,
+    "attempts": 0
+   },
+   {
+    "id": "383487",
+    "ts": "2026-11-16T08:39:20Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 46.6,
+    "attempts": 0
+   },
+   {
+    "id": "383519",
+    "ts": "2026-11-16T08:40:19Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 58.9,
+    "attempts": 0
+   },
+   {
+    "id": "383518",
+    "ts": "2026-11-16T08:41:18Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 59.1,
+    "attempts": 0
    }
   ]
  }
