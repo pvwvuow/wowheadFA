@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T15:49:40Z",
+ "generated": "2026-11-16T17:12:15Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3443,6 +3443,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383895,
+   "title_en": "WoW Token Price Hits 640k Gold Spike on EU Servers",
+   "url": "https://www.wowhead.com/news=383895",
+   "category": "Live",
+   "published_at": "2026-11-16T15:56:34Z"
+  },
   {
    "id": 383806,
    "title_en": "Should WoW: Forever Dungeons Let Players Complete Quests in One Run?",
