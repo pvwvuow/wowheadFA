@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T17:03:06Z",
+ "generated": "2026-11-17T18:41:10Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3454,6 +3454,27 @@
   }
  ],
  "queue": [
+  {
+   "id": 383909,
+   "title_en": "Spell Power Added to Soulforge Paladin Armor - Item Hotfixes in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383909",
+   "category": "Forever",
+   "published_at": "2026-11-17T18:37:40Z"
+  },
+  {
+   "id": 383908,
+   "title_en": "Echoes of the Worldcore - Patch 12.1.7 Releases on December 1",
+   "url": "https://www.wowhead.com/news=383908",
+   "category": "Live",
+   "published_at": "2026-11-17T18:13:26Z"
+  },
+  {
+   "id": 383907,
+   "title_en": "Talebound Releases on December 1st - Patch 12.1.7",
+   "url": "https://www.wowhead.com/news=383907",
+   "category": "Live",
+   "published_at": "2026-11-17T18:01:45Z"
+  },
   {
    "id": 383906,
    "title_en": "WoW: Forever Post Hits #1 on r/all - Many Players Are Very Upset About the Blackmaw Hold Gold Farm",
