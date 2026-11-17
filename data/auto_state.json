@@ -1,78 +1,33 @@
 {
  "day": "2026-11-17",
- "published_today": 5,
+ "published_today": 6,
  "held": {
   "383863": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-17T03:44:33Z",
-   "at_ts": 1794887073.916786
+   "reason": "G4 numbers from source missing in article: 10, 100, 11, 12.1.5, 12.2, 13, 14, 15",
+   "at": "2026-11-17T08:00:52Z",
+   "at_ts": 1794902452.972659
   },
-  "383720": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-17T03:50:22Z",
-   "at_ts": 1794887422.713878
+  "383824": {
+   "reason": "G4 numbers from source missing in article: 100, 15, 19:04, 2.3, 2.6, 20, 2026, 23",
+   "at": "2026-11-17T08:02:16Z",
+   "at_ts": 1794902536.049721
   },
-  "383570": {
-   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
-   "at": "2026-11-17T03:59:52Z",
-   "at_ts": 1794887992.735103
+  "383741": {
+   "reason": "در بخش note ادعا شده پچ مرتبط 1.60.1 و تاریخ انتشار آن ۱۶ نوامبر ۲۰۲۶ همراه با کدهای متفرقه است، در حالی که 1.60.1 مربوط به کامنت یک کاربر و تاریخ انتشار خبر ۴ نوامبر ۲۰۲۶ است. | عددِ بدون منبع در مقاله: 23:39 | هشدار: 1",
+   "at": "2026-11-17T08:03:38Z",
+   "at_ts": 1794902618.530353
+  },
+  "383738": {
+   "reason": "جمله پایانی شامل ارجاعات ساختگی و ترکیب نادرست سرتیترهای سایدبار (مانند «۵ تا ۱۲ یا ۲۳ ساعت گذشته و تجربیات سال‌های گذشته») به عنوان گزارش‌های آماری خبر درایور است. | G4 numbers from source missing in article: 17 | هشدار: 1",
+   "at": "2026-11-17T08:05:39Z",
+   "at_ts": 1794902739.442719
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-17T06:08:18Z",
+ "updated_at": "2026-11-17T08:05:39Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383713",
-    "ts": "2026-11-14T22:06:18Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 47.0,
-    "attempts": 1
-   },
-   {
-    "id": "383712",
-    "ts": "2026-11-14T22:07:13Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 55.5,
-    "attempts": 1
-   },
-   {
-    "id": "383693",
-    "ts": "2026-11-14T22:08:06Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 53.2,
-    "attempts": 1
-   },
-   {
-    "id": "383704",
-    "ts": "2026-11-14T22:08:46Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 39.2,
-    "attempts": 1
-   },
-   {
-    "id": "383702",
-    "ts": "2026-11-14T22:09:40Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 54.3,
-    "attempts": 1
-   },
    {
     "id": "383698",
     "ts": "2026-11-14T22:10:28Z",
@@ -4022,6 +3977,56 @@
     "warns": 0,
     "sec": 62.1,
     "attempts": 1
+   },
+   {
+    "id": "383901",
+    "ts": "2026-11-17T07:59:32Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 454.6,
+    "attempts": 1
+   },
+   {
+    "id": "383863",
+    "ts": "2026-11-17T08:00:52Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 80.5,
+    "attempts": 2
+   },
+   {
+    "id": "383824",
+    "ts": "2026-11-17T08:02:16Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 83.1,
+    "attempts": 2
+   },
+   {
+    "id": "383741",
+    "ts": "2026-11-17T08:03:38Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 1,
+    "sec": 82.6,
+    "attempts": 2
+   },
+   {
+    "id": "383738",
+    "ts": "2026-11-17T08:05:39Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 1,
+    "sec": 120.7,
+    "attempts": 2
    }
   ]
  }
