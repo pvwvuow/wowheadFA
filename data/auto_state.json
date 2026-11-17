@@ -69,143 +69,23 @@
   }
  },
  "ingest_fails": {
-  "383713": 1,
-  "383695": 1,
-  "383630": 1,
-  "383603": 1,
-  "383570": 1,
-  "383561": 1,
-  "383552": 1,
-  "383543": 1,
-  "383541": 1,
-  "383487": 1,
-  "383519": 1,
-  "383518": 1
+  "383713": 2,
+  "383695": 2,
+  "383630": 2,
+  "383603": 2,
+  "383570": 2,
+  "383561": 2,
+  "383552": 2,
+  "383543": 2,
+  "383541": 2,
+  "383487": 2,
+  "383519": 2,
+  "383518": 2
  },
- "updated_at": "2026-11-17T10:20:10Z",
+ "updated_at": "2026-11-17T10:53:49Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383827",
-    "ts": "2026-11-15T00:28:51Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 41.9,
-    "attempts": 1
-   },
-   {
-    "id": "383824",
-    "ts": "2026-11-15T00:34:34Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 342.4,
-    "attempts": 1
-   },
-   {
-    "id": "383768",
-    "ts": "2026-11-15T00:35:26Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 52.5,
-    "attempts": 0
-   },
-   {
-    "id": "383741",
-    "ts": "2026-11-15T00:36:22Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 56.1,
-    "attempts": 0
-   },
-   {
-    "id": "383738",
-    "ts": "2026-11-15T00:37:17Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 55.1,
-    "attempts": 0
-   },
-   {
-    "id": "383736",
-    "ts": "2026-11-15T00:37:43Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 25.9,
-    "attempts": 0
-   },
-   {
-    "id": "383725",
-    "ts": "2026-11-15T00:38:20Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 36.7,
-    "attempts": 0
-   },
-   {
-    "id": "383735",
-    "ts": "2026-11-15T00:39:34Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 74.1,
-    "attempts": 1
-   },
-   {
-    "id": "383720",
-    "ts": "2026-11-15T00:40:00Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 26.2,
-    "attempts": 1
-   },
-   {
-    "id": "383716",
-    "ts": "2026-11-15T00:41:10Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 69.1,
-    "attempts": 0
-   },
-   {
-    "id": "383713",
-    "ts": "2026-11-15T00:41:46Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 36.1,
-    "attempts": 0
-   },
-   {
-    "id": "383712",
-    "ts": "2026-11-15T00:42:40Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 54.0,
-    "attempts": 1
-   },
    {
     "id": "383693",
     "ts": "2026-11-15T00:43:29Z",
@@ -4084,6 +3964,126 @@
     "blocks": 0,
     "warns": 0,
     "sec": 55.3,
+    "attempts": 0
+   },
+   {
+    "id": "383713",
+    "ts": "2026-11-17T10:43:40Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 73.8,
+    "attempts": 0
+   },
+   {
+    "id": "383695",
+    "ts": "2026-11-17T10:44:49Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 68.3,
+    "attempts": 0
+   },
+   {
+    "id": "383630",
+    "ts": "2026-11-17T10:45:58Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 69.1,
+    "attempts": 0
+   },
+   {
+    "id": "383603",
+    "ts": "2026-11-17T10:46:28Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 30.3,
+    "attempts": 0
+   },
+   {
+    "id": "383570",
+    "ts": "2026-11-17T10:47:27Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 59.3,
+    "attempts": 0
+   },
+   {
+    "id": "383561",
+    "ts": "2026-11-17T10:48:19Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 51.7,
+    "attempts": 0
+   },
+   {
+    "id": "383552",
+    "ts": "2026-11-17T10:49:18Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 59.2,
+    "attempts": 0
+   },
+   {
+    "id": "383543",
+    "ts": "2026-11-17T10:50:10Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 51.7,
+    "attempts": 0
+   },
+   {
+    "id": "383541",
+    "ts": "2026-11-17T10:50:44Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 34.3,
+    "attempts": 0
+   },
+   {
+    "id": "383487",
+    "ts": "2026-11-17T10:51:27Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 42.6,
+    "attempts": 0
+   },
+   {
+    "id": "383519",
+    "ts": "2026-11-17T10:52:14Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 46.8,
+    "attempts": 0
+   },
+   {
+    "id": "383518",
+    "ts": "2026-11-17T10:53:49Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 95.6,
     "attempts": 0
    }
   ]
