@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T19:22:18Z",
+ "generated": "2026-11-17T20:41:22Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3455,6 +3455,13 @@
  ],
  "queue": [
   {
+   "id": 383910,
+   "title_en": "Blizzard Removing Gold and Applying Account Suspensions to Significant Abusers of Blackmaw Hold Farm",
+   "url": "https://www.wowhead.com/news=383910",
+   "category": "Forever",
+   "published_at": "2026-11-17T18:39:41Z"
+  },
+  {
    "id": 383909,
    "title_en": "Spell Power Added to Soulforge Paladin Armor - Item Hotfixes in WoW: Forever",
    "url": "https://www.wowhead.com/news=383909",
@@ -3726,13 +3733,6 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
