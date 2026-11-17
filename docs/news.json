@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T23:33:02Z",
+ "generated": "2026-11-17T00:47:45Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3443,6 +3443,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383893,
+   "title_en": "New Scarlet Monastery Hearthstone in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383893",
+   "category": "Forever",
+   "published_at": "2026-11-17T00:00:20Z"
+  },
   {
    "id": 383898,
    "title_en": "100+ Gold Per Hour Farm Nerfed in WoW: Forever",
