@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T10:55:05Z",
+ "generated": "2026-11-17T13:59:00Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3454,6 +3454,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383903,
+   "title_en": "World of Warcraft's 22nd Anniversary Celebration Now Live",
+   "url": "https://www.wowhead.com/news=383903",
+   "category": "Live",
+   "published_at": "2026-11-17T13:20:59Z"
+  },
   {
    "id": 383897,
    "title_en": "Forever 101: Blizzard Releases New Player Overview Video for WoW: Forever",
