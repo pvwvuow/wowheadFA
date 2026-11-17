@@ -778,8 +778,8 @@
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383863/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
- "hold_count": 2,
- "hold_at": "2026-11-16T04:30:36Z",
+ "hold_count": 3,
+ "hold_at": "2026-11-17T03:44:33Z",
  "last_rejected": {
   "title_fa": "دی‌تا‌ماین ست‌های ترنسموگ جدید Brutal Armor در پچ 12.1.7",
   "lead_fa": "در داده‌های پچ 12.1.7 ست‌های ترنسموگ جدیدی تحت عنوان Brutal Armor در چهار رنگ مختلف کشف شده است.",
