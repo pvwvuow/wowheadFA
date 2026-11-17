@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T17:01:23Z",
+ "generated": "2026-11-17T17:03:06Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3454,6 +3454,20 @@
   }
  ],
  "queue": [
+  {
+   "id": 383906,
+   "title_en": "WoW: Forever Post Hits #1 on r/all - Many Players Are Very Upset About the Blackmaw Hold Gold Farm",
+   "url": "https://www.wowhead.com/news=383906",
+   "category": "Forever",
+   "published_at": "2026-11-17T15:38:22Z"
+  },
+  {
+   "id": 383905,
+   "title_en": "NA WoW: Forever Servers Down for Scheduled Maintenance for 1 Hour",
+   "url": "https://www.wowhead.com/news=383905",
+   "category": "Forever",
+   "published_at": "2026-11-17T14:54:56Z"
+  },
   {
    "id": 383903,
    "title_en": "World of Warcraft's 22nd Anniversary Celebration Now Live",
