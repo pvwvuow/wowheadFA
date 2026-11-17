@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T10:55:05Z",
+ "generated": "2026-11-17T15:22:28Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3454,6 +3454,20 @@
   }
  ],
  "queue": [
+  {
+   "id": 383905,
+   "title_en": "NA WoW: Forever Servers Down for Scheduled Maintenance for 1 Hour",
+   "url": "https://www.wowhead.com/news=383905",
+   "category": "Forever",
+   "published_at": "2026-11-17T14:54:56Z"
+  },
+  {
+   "id": 383903,
+   "title_en": "World of Warcraft's 22nd Anniversary Celebration Now Live",
+   "url": "https://www.wowhead.com/news=383903",
+   "category": "Live",
+   "published_at": "2026-11-17T13:20:59Z"
+  },
   {
    "id": 383897,
    "title_en": "Forever 101: Blizzard Releases New Player Overview Video for WoW: Forever",
