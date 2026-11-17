@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T02:01:43Z",
+ "generated": "2026-11-17T03:39:43Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3444,6 +3444,20 @@
  ],
  "queue": [
   {
+   "id": 383901,
+   "title_en": "Last Chance to Pre-Order D&D: World of Warcraft for In-Game Rewards",
+   "url": "https://www.wowhead.com/news=383901",
+   "category": "Live",
+   "published_at": "2026-11-17T02:43:12Z"
+  },
+  {
+   "id": 383900,
+   "title_en": "More Classes, Quest, and Item Changes - WoW: Forever Hotfixes for November 16, 2026",
+   "url": "https://www.wowhead.com/news=383900",
+   "category": "Forever",
+   "published_at": "2026-11-17T02:23:22Z"
+  },
+  {
    "id": 383893,
    "title_en": "New Scarlet Monastery Hearthstone in WoW: Forever",
    "url": "https://www.wowhead.com/news=383893",
@@ -3708,13 +3722,6 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
