@@ -1,8 +1,291 @@
 {
- "generated": "2026-11-17T05:14:03Z",
+ "generated": "2026-11-17T06:09:53Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383900,
+   "slug": "more-classes-quest-and-item-changes-wow-forever-hotfixes-for-november-",
+   "title_fa": "هاتفیکس‌های ۱۶ نوامبر ۲۰۲۶ برای WoW: Forever",
+   "lead_fa": "بلیزارد مجموعه‌ای از هاتفیکس‌های جدید را برای کلاس‌ها، دانجن‌ها، کوئست‌ها و آیتم‌ها در WoW: Forever منتشر کرد.",
+   "body_fa": [
+    "بلیزارد فهرستی از تغییرات و اصلاحات فنی مربوط به تاریخ ۱۶ نوامبر ۲۰۲۶ را معرفی کرده است که بخش‌های متنوعی از گیم‌پلی از جمله کلاس‌ها، سیاه‌چاله‌ها، آیتم‌ها و کوئست‌ها را در بر می‌گیرد.",
+    {
+     "t": "h",
+     "x": "سیستم Camping"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "آیتم Fishing Rack اکنون برای همه lure فراهم می‌کند.",
+      "شانس دراپ Bloated Fish حاصل از اثر Fishing Rack افزایش یافته و جدول لوت (loot table) آن نیز متناسب با این موضوع تنظیم شده است."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "تغییرات و اصلاحات کلاس‌ها"
+    },
+    "در بخش کلاس‌ها چندین مشکل عملکردی و باگ برطرف شده و تغییراتی در زمینه تعادل اعمال شده است:",
+    {
+     "t": "ul",
+     "xs": [
+      "کلاس Druid: مشکلی که مانع از رفتن رنک‌های مختلف Wild Growth روی کول‌داون می‌شد برطرف شد. همچنین در تخصصی Balance، باگی که در آن تلنت Genesis دمیج bleed حاصل از Pounce را بالا نمی‌برد رفع گردید.",
+      "کلاس Priest: انباشته شدن (stacking) ناخواسته Dark Inspiration در صورت حضور چند Shadow Priest در یک پارتی حل شد. هیل توانایی Vampiric Embrace اکنون بر مبنای ۱۰٪ از Shadow damage وارد شده توسط خود کستر محاسبه می‌شود (پیش‌تر ۲۰٪ بود)، اما کشیش کستر ۱۰۰٪ هیل بیشتر از این افکت دریافت می‌کند.",
+      "کلاس Rogue: رنک‌های Poison دیگر نمی‌توانند از حداکثر رنک فراتر بروند. همچنین مشکلی که در آن استفاده از Shank روی هدفی فاقد کمبو پوینت باعث حذف کمبو پوینت‌ها از اهداف دیگر می‌شد (حتی بدون داشتن تلنت Boot Knife) اصلاح شد.",
+      "کلاس Shaman: حملات Windfury Totem دیگر آرمور را نادیده نمی‌گیرند و کول‌داون داخلی دارند. باگ عدم تولید Rage توسط اتک‌های اضافه این توتم، و همچنین شانس فعال‌سازی اشتباه آن توسط اسکیل‌های Mutilate، Execute، Shield Slam، Shield Bash و ضربات ارتقایافته Holy Strikes برطرف گردید. برای Enhancement نیز استفاده دو کست از Maelstrom Weapon و نیاز اشتباه تلنت Thundering Strikes به تجهیز سلاح جهت ارائه شانس critical strike رفع شد.",
+      "کلاس Warrior: مشکلی که مانع ارائه Legacy of Valor توسط Revered Champion به Warriorهای واجد شرایط می‌شد حل شد. در تخصصی Fury، فعال نشدن Unbridled Wrath و Reckless Swings با Cleave یا Heroic Strike و مصرف اشتباه استک‌های Flurry رفع گردید؛ همچنین وضعیت Reckless Swings در کول‌داون منیجر تنظیم شد."
+     ]
+    },
+    {
+     "t": "quote",
+     "x": "این تغییر هیچ تفاوتی برای بازی انفرادی (solo play) پریست ایجاد نمی‌کند.",
+     "by": "یادداشت سازندگان"
+    },
+    {
+     "t": "h",
+     "x": "دانجن‌ها و PvP"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "در دانجن The Drowned City، باس Captain Dreadrise دیگر در برابر افکت‌های stun مصون نیست و Abyssal Bubble احضار شده توسط او نیز قابلیت block، dodge یا parry ندارد. همچنین ریر Braxton کمتر روی وظایفش متمرکز است و به نبرد واکنش نشان می‌دهد.",
+      "در Sunken Temple، مشکلی که موجب غیرفعال شدن مجسمه‌های مارهای Atal’alarion در Pit of Refuse در صورت فعال‌سازی با ترتیب نادرست می‌شد رفع شد.",
+      "در PvP، مرگ درون Gold Mine در Arathi Basin دیگر شما را به گورستان در Riverglades منتقل نمی‌کند."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "آیتم‌ها و مأموریت‌ها"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "دستور [[item:Formula: Enchant Boots - Speed]] از ریپوتیشن اکنون همان‌طور که در نظر گرفته شده بود bind-on-pickup است.",
+      "آیتم [[item:Outrider's Gloves]] اکنون به درستی کار می‌کند و [[item:The Violet Tragan]] دیگر افکت‌های کنترل جمعیت (CC) را نمی‌شکند.",
+      "نرخ دراپ Blood Red Bandanas بیشتر شد و مشکل اسپاون نشدن Witch Doctor Zum’rah در کوئست The Talisman of Kazdor حل گردید.",
+      "نجات اسیران Scout در Twilight's Shroud برای تمام اعضای پارتی در مأموریت No Soldier Left Behind ثبت می‌شود.",
+      "برای کوئست Screecher Spirits، موجودات Vale Screamers اکنون در خط ساحلی Isle of Dread حضور دارند.",
+      "مأموریت تکرارپذیر Water Pouch Bounty دیگر اکسپرینس نمی‌دهد و مشکل توقف پیشرفت کوئست The Return of the King? در Theramore نیز حل شد."
+     ]
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "WoW Forever",
+    "کلاس‌ها",
+    "تغییرات بازی"
+   ],
+   "items": [],
+   "title_en": "More Classes, Quest, and Item Changes - WoW: Forever Hotfixes for November 16, 2026",
+   "source_url": "https://www.wowhead.com/news=383900",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383900-more-classes-quest-and-item-changes-wow-forever-hotfixes-for-november-.html",
+   "published_at": "2026-11-17T02:23:22Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383900/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383900/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383893,
+   "slug": "new-scarlet-monastery-hearthstone-in-wow-forever",
+   "title_fa": "کشف اولین Hearthstone تزیینی در WoW: Forever با تم Scarlet Monastery",
+   "lead_fa": "بازیکنان در WoW: Forever اولین سنگ بازگشت تزیینی بازی را کشف کرده‌اند که انیمیشن اختصاصی دارد و از باس‌های دنیای بازی به دست می‌آید.",
+   "body_fa": [
+    "آیتم‌های تزیینی Hearthstone قابلیت جدیدی در WoW: Forever به شمار می‌روند و هنگام اجرای طلسم در مدت‌زمان ۱۰ ثانیه، انیمیشن ویژه‌ای برای کاراکتر نمایش می‌دهند.",
+    {
+     "t": "h",
+     "x": "جزئیات و نحوه عملکرد آیتم جدید"
+    },
+    "نخستین مورد از این مجموعه با نام [[item:Scarlet Hearthstone]] در بازی پیدا شده است. این آیتم به Toy Box شما اضافه می‌شود، اما به جای اینکه مستقیماً از داخل آن قابل استفاده باشد، یک نسخه از Scarlet Hearthstone به شما می‌دهد که همچنان یک خانه از کیف را اشغال می‌کند.",
+    {
+     "t": "note",
+     "x": "طبق اطلاعات کاربری به نام Undyingshaman در انجمن‌های رسمی WoW، این آیتم از High General Abbendis در منطقه Eastern Plaguelands لوت می‌شود.",
+     "kind": "info"
+    },
+    "این آیتم نخستین Hearthstone تزیینی کشف‌شده در WoW: Forever محسوب می‌شود و به احتمال زیاد آخرین مورد از این دست نخواهد بود."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "Hearthstone",
+    "Scarlet Monastery",
+    "Toy Box"
+   ],
+   "items": [],
+   "title_en": "New Scarlet Monastery Hearthstone in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383893",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383893-new-scarlet-monastery-hearthstone-in-wow-forever.html",
+   "published_at": "2026-11-17T00:00:20Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383893/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383893/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383898,
+   "slug": "100-gold-per-hour-farm-nerfed-in-wow-forever",
+   "title_fa": "تضعیف فارم بیش از ۱۰۰ گلد در ساعت در دانجن Blackmaw Hold",
+   "lead_fa": "روش فارم محبوب دانجن Blackmaw Hold که ساعتی بیش از ۱۰۰ گلد برای بازیکنان به همراه داشت، با هاتفیکس جدید بازی متوقف شد.",
+   "body_fa": [
+    "فارم بیش از ۱۰۰ گلد در ساعت در Blackmaw Hold پس از آن‌که برخی بازیکنان صدها و حتی هزاران گلد از آن به دست آوردند، نرف شد. با بالا رفتن لول بازیکنان، راه‌های کسب سریع گلد برای خرید مانت گران‌قیمت Epic، ارتقای Professions و باز کردن Best-in Slot Gear اهمیت پیدا کرده است. بازیکنان اخیراً کوئست هفتگی جدیدی را در Booty Bay پیدا کرده بودند که تا ۱۰۰ Gold پاداش می‌دهد، اما در طول هفتهٔ گذشته روش فارم متریال خام نیز بسیار مورد توجه قرار گرفته بود.",
+    {
+     "t": "h",
+     "x": "جزئیات ران‌های Blackmaw Hold"
+    },
+    "در Blackmaw Hold اتاقی وجود دارد که حدود ۳۰ عدد Blackmaw Devotee در آن قرار گرفته است. این موجودات غیر الیت هستند و فقط اتو اتک می‌زنند، اما غنائم زیادی دراپ می‌کردند. این مکان در بخش‌های جلوتر دانجن واقع شده است، ولی گروه‌ها با سوار شدن بر مانت در محوطهٔ اول و استفاده از سقوط از ارتفاع زیاد برای ریست کردن اگر‌و، ران‌ها را به شکلی کارآمد انجام می‌دادند. کلاس Mage حتی می‌توانست به‌صورت سولو با ایستادن در نقاطی که ماب‌ها مسیر حرکتی به آن نداشتند، آن‌ها را ریست کند. سپس تمام ماب‌ها کشته، لوت شده و پس از ریست دانجن، روند تکرار می‌شد.",
+    {
+     "t": "ul",
+     "xs": [
+      "دراپ حدود ۲۵ تا ۵۰ سیلور پول نقد به ازای هر ماب",
+      "دراپ آیتم‌های فروش به وندور و آیتم‌های سبز",
+      "آیتم [[item:Mote of Unstable Magic]] با ارزش تقریبی ۱۳ سیلور در Auction House به خاطر کوئست Unstable Magic",
+      "آیتم [[item:Blackmaw Pouch]] با ارزش تقریبی ۱ گلد به خاطر کوئست Blackmaw Pouches"
+     ]
+    },
+    "فهرست دراپ‌ها از طریق Wowhead Looter ثبت شده بود، اگرچه با توجه به اینکه بسیاری از بازیکنان هنوز به لول ۵۵ برای ورود به دانجن نرسیده‌اند، احتمالاً ناقص بوده است.",
+    {
+     "t": "note",
+     "x": "طبق هاتفیکس اخیر، این ماب‌ها دیگر هیچ لوتی دراپ نمی‌کنند.",
+     "kind": "warn"
+    },
+    "بعضی از بازیکنان مدعی شده‌اند که با این روش هزاران گلد به دست آورده‌اند و با این تغییرات ممکن است قیمت [[item:Mote of Unstable Magic]] و [[item:Blackmaw Pouch]] در بازار تغییر کند.",
+    "شرکت Blizzard اخیراً در مصاحبه‌ای با But Why Tho? دربارهٔ اقتصاد درون بازی اعلام کرده بود که بیش از هر زمان دیگری به آن توجه دارند و در صورت امکان بازی جوانمردانه را اعمال می‌کنند؛ آن‌ها همچنین تأکید کرده بودند که حتی در روزهای آخر هفته نیز برای رفع فارم‌های ناعادلانه گلد اقدام خواهند کرد."
+   ],
+   "tags_fa": [],
+   "items": [],
+   "title_en": "100+ Gold Per Hour Farm Nerfed in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383898",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383898-100-gold-per-hour-farm-nerfed-in-wow-forever.html",
+   "published_at": "2026-11-16T21:04:18Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383898/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383898/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383895,
+   "slug": "wow-token-price-hits-640k-gold-spike-on-eu-servers",
+   "title_fa": "جهش قیمت WoW Token در سرورهای اروپایی به اوج ۶۴۰ هزار گلد",
+   "lead_fa": "قیمت WoW Token طی روزهای اخیر در هر دو ریجن اروپا و آمریکای شمالی افزایش یافته و در سرورهای EU به رکورد ۶۴۰ هزار گلد رسیده است.",
+   "body_fa": [
+    "در طول چند روز گذشته و به‌ویژه در ساعات اخیر، ارزش [[item:WoW Token]] در هر دو ریجن NA و EU جهش قیمتی چشمگیری را تجربه کرده است. قیمت این توکن در سرورهای اروپایی به اوج بیش از ۶۴۰ هزار گلد رسید که بر اساس اطلاعات وب‌سایت پایش قیمت WoW Token App، جهشی معادل ۱۰۰ هزار گلد نسبت به روز قبل را نشان می‌دهد.",
+    {
+     "t": "h",
+     "x": "دلایل احتمالی افزایش ناگهانی قیمت"
+    },
+    "روند صعودی ارزش توکن هم‌زمان با لانچ WoW: Forever آغاز شده بود، اما در بازهٔ زمانی ۲۴ ساعت گذشته رشد شدیدی ثبت کرد. برخی بازیکنان احتمال می‌دادند که رکود محتوای فعلی در Retail هم‌زمان با آغاز Forever عامل این گرانی باشد؛ هرچند این موضوع ممکن است تا حدی برای روزهای گذشته صدق کند، اما دلیل اصلی جهش امروز احتمالاً اختلال در امکان خرید خود توکن‌ها بوده است.",
+    {
+     "t": "h",
+     "x": "وضعیت سرورهای آمریکای شمالی و توصیه‌ها"
+    },
+    "در سرورهای ریجن NA نیز وضعیت مشابهی دیده شد، هرچند از نظر مقدار عددی گلد به پای سرورهای اروپایی نرسید. بهای هر توکن در ریجن آمریکای شمالی در حال حاضر به حدود ۳۷۵ هزار گلد رسیده است.",
+    {
+     "t": "note",
+     "x": "بازیکنانی که قصد دارند با گلد درون بازی Game Time تهیه کنند، شاید بهتر باشد دست نگه دارند، زیرا با رفع مشکلات فروشگاه قیمت‌ها در حال کاهش است. با این حال، بالا بودن قیمت ممکن است فرصت مناسبی برای کسانی باشد که جهت خرید مواردی مانند مانت جدید ۵ میلیون گلدی، به دنبال دریافت گلد از طریق فروش توکن هستند.",
+     "kind": "tip"
+    }
+   ],
+   "tags_fa": [
+    "WoW Token",
+    "اقتصاد بازی",
+    "Retail",
+    "گلد"
+   ],
+   "items": [],
+   "title_en": "WoW Token Price Hits 640k Gold Spike on EU Servers",
+   "source_url": "https://www.wowhead.com/news=383895",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383895-wow-token-price-hits-640k-gold-spike-on-eu-servers.html",
+   "published_at": "2026-11-16T15:56:34Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383895/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383895/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383806,
+   "slug": "should-wow-forever-dungeons-let-players-complete-quests-in-one-run",
+   "title_fa": "بحث پیرامون دانجن‌های WoW Forever و چالش تکمیل کوئست‌ها در یک دور",
+   "lead_fa": "طراحی دانجن‌ها در WoW Forever به شکلی است که تکمیل تمام کوئست‌ها در یک نوبت ممکن نیست و کاهش تجربهٔ کشتن ماب‌ها واکنش‌های متفاوتی میان بازیکنان به همراه داشته است.",
+   "body_fa": [
+    "بازی World of Warcraft: Forever علاوه بر دانجن‌های جدید، شامل تمامی دانجن‌های Classic نیز می‌شود. در این محیط، مأموریت‌ها از نمونه‌های نمادین گذشته نظیر The Defias Brotherhood تا موارد تازه مثل Destruction in Deadmines را در بر می‌گیرند؛ با این حال موضوع لزوم تکرار چندبارهٔ یک دانجن برای به پایان رساندن مأموریت‌ها، به محلی برای بحث بدل شده است.",
+    {
+     "t": "h",
+     "x": "دیدگاه سازندگان درباره دانجن‌ها"
+    },
+    "بازیکنان باسابقه با کوئست‌های Deviate Hides و Smart Drinks در Wailing Caverns آشنا هستند؛ مأموریت‌هایی که در یک دور پاکسازی دانجن، آیتم کافی به همه اعضای گروه نمی‌دهند و آن‌ها را مجبور به ریست کردن دانجن می‌کنند. طراح ارشد بازی Rowan Ryder در قسمت سوم پادکست WoW Forever به این موضوع اشاره کرده است.",
+    {
+     "t": "quote",
+     "x": "از نظر فلسفی، درباره اینکه چند بار باید یک دانجن را بروید، هدف ما لزوماً این نیست که فقط یک بار آن را تمام کنید و کار تمام شود؛ نمی‌خواهیم بگوییم این دانجن یک تجربه یک‌باره است؛ ما می‌خواهیم بازیکنان در آنجا حضور داشته باشند.",
+     "by": "Rowan Ryder — طراح ارشد بازی"
+    },
+    "به منظور حذف متای فارم دانجن برای لول‌آپ، Blizzard میزان تجربه دریافتی از ماب‌های دانجن را به شدت کاهش داد و در عوض تجربه کوئست‌های دانجن را به طور چشمگیری بالا برد. به گفته Aggrend، سیستم غنائم کوئست‌ها اکنون بیشتر حالتی شبیه به Round Robin دارد که مانع اتمام زودهنگام کوئست توسط یک نفر و ترک گروه می‌شود، ولی این وضعیت لزوماً حس تمایل به اجرای دوباره دانجن را در بازیکنان تقویت نمی‌کند.",
+    {
+     "t": "h",
+     "x": "کمبود ماب و مأموریت‌های ناقص"
+    },
+    "بازیکنان فکشن Alliance در Blackfathom Deeps با کوئست‌های Researching the Corruption و Twilight Falls به همین مشکل برمی‌خورند و به ماب‌های بیشتری مانند Corrupted Brain Stems و Twilight Pendants نیاز پیدا می‌کنند. عجیب اینجاست که حتی دانجن جدید City of Dalaran هم برای بازیکنان Alliance با کوئست Starving Arcane این کمبود را دارد و برای ۱ یا ۲ ماب باید ریست شود. در سوی دیگر، بازیکنان Horde با مأموریت Source of Power روبه‌رو هستند که برخی آن را «Deviate Hides 2.0» نامیده‌اند.",
+    {
+     "t": "note",
+     "x": "کاهش اکس‌پی دانجن در کنار مأموریت‌های ناکامل سبب شده بود گروهی از بازیکنان به محض اتمام کوئست‌ها، دیگر هرگز به دانجن‌ها بازنگردند.",
+     "kind": "warn"
+    },
+    {
+     "t": "h",
+     "x": "هاتفیکس افزایش ۵۰ درصدی اکس‌پی"
+    },
+    "در پی اعتراض بازیکنان در شبکه‌های اجتماعی پیرامون وضعیت دانجن‌ها، هاتفیکسی در ساعت ۱۱:۰۵ PST منتشر شد تا تجربه کشتن ماب‌ها افزایش یابد.",
+    {
+     "t": "quote",
+     "x": "امروز حدود ساعت ۱۱:۰۵ PST یک هاتفیکس اعمال کردیم که تجربه کشتن در دانجن‌ها را ۵۰٪ افزایش داد، تا بازگشت برای ران‌های بیشتر حس بهتری داشته باشد.",
+     "by": "Blizzard"
+    },
+    "هرچند این افزایش ۵۰ درصدی همچنان نسبت به سرورهای Vanilla/Era پایین‌تر است، اما می‌تواند انگیزه‌ای برای بازگشت به دانجن‌ها باشد. در حالی که محتوای جهان‌باز جدیدی مانند منطقه Riverglades بازیکنان را به خود جذب کرده، تشکیل گروه‌های دانجن همچنان برای برخی چالش‌برانگیز مانده است."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "دانجن",
+    "هاتفیکس",
+    "لول آپ"
+   ],
+   "items": [],
+   "title_en": "Should WoW: Forever Dungeons Let Players Complete Quests in One Run?",
+   "source_url": "https://www.wowhead.com/news=383806",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383806-should-wow-forever-dungeons-let-players-complete-quests-in-one-run.html",
+   "published_at": "2026-11-16T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383806/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383806/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383845,
    "slug": "save-gold-and-gain-bag-space-by-earning-quest-rewards-in-wow-forever",
@@ -3178,268 +3461,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383794,
-   "slug": "many-class-dungeon-and-quest-fixes-wow-forever-hotfixes-for-november-6",
-   "title_fa": "هاتفیکس‌های ۶ نوامبر WoW: Forever منتشر شد",
-   "lead_fa": "بلیزارد به‌روزرسانی جدیدی برای سرورهای WoW: Forever منتشر کرد که شامل اصلاحات متعددی برای کلاس‌ها، دانجن‌ها و کوئست‌ها است.",
-   "body_fa": [
-    "در هاتفیکس ۶ نوامبر ۲۰۲۶ برای بازی World of Warcraft: Forever، تغییرات گسترده‌ای در بخش‌های مختلف از جمله مکانیک‌های کلاس‌ها، عملکرد دانجن‌ها و مأموریت‌های بازی اعمال شده است.",
-    {
-     "t": "h",
-     "x": "تغییرات کلاس‌ها و رابط کاربری"
-    },
-    "بخش Cooldown Manager اکنون مدت‌زمان اسپل‌های Crowd Control را در تمام شرایط، حتی هنگام اعمال Diminishing Returns یا کاهش‌های ناشی از مکانیک‌ها (مانند کاهش زمان Stun نژاد Orc)، به درستی نمایش می‌دهد. همچنین باگ تلنت Quick and the Dead رفع شده است.",
-    {
-     "t": "ul",
-     "xs": [
-      "کلاس Druid: اسپل Bloom اکنون هدف را به شکل صحیح Heal می‌کند و توضیحات Bear Form، Ravage و Swiftmend اصلاح شده است.",
-      "کلاس Mage: اسپل نامعتبر Research حذف شده و تنها پس از کوئست مربوطه اسپل Study در دسترس است؛ همچنین مدت‌زمان Arcane Blast به ۱۸ ثانیه اصلاح شد.",
-      "کلاس Rogue: برای اسپل Shank در تولتیپ رنک‌های ۱ و ۲ تفکیک شده و با تلنت Boot Knife تعداد Combo Points به درستی درج می‌شود.",
-      "کلاس Warlock: میزان Health پایه Voidwalker در تمامی لول‌ها حدود ۴۰ واحد افزایش یافته و تلنت Soul Siphon دیگر به اشتباه آسیب Wrack را بالا نمی‌برد.",
-      "کلاس Warrior: تولتیپ Reckless Swings اکنون فعال‌سازی Gore Drinker را نشان می‌دهد."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "دانجن‌ها، دانل‌ها و ان‌پی‌سی‌ها"
-    },
-    "در دانجن Maraudon، روح Zaetar's Spirit پس از شکست دادن Princess Theradras به درستی ظاهر می‌شود. همچنین مشکل خروج اشتباه از مبارزه (Disengage) برای موجودات Blackmaw Hold و The Drowned City برطرف شده و پورتال ورود به The Drowned City بدون اشکال کار می‌کند.",
-    "در بخش محیطی و NPCها نیز نرخ اسپاون Troggها در Grol'bolar Quarry در منطقه Dun Morogh متعادل شده و لوت Ridgeshade Lurkers در Durotar و Krek the Noxious در Riverglades اصلاح گشته است. مصونیت در برابر Nature Damage برای برخی گیاهان Teldrassil نیز برطرف شد.",
-    {
-     "t": "h",
-     "x": "تغییرات حرفه‌ها، آیتم‌ها و نژادها"
-    },
-    "برای حرفه Leatherworking، سطح مهارت مورد نیاز Tanning Rack از ۱۴۰ به ۱۲۵ کاهش یافته تا مانع ساخت پترن‌های لول ۱۲۵ نباشد؛ به همین دلیل امتیاز مهارت حاصل از آن نیز ۱۵ پوینت کمتر شده است. آیتم [[item:Searing Dagger]] نیز اکنون فقط با اسپل‌هایی فعال می‌شود که مؤلفه آسیب دارند.",
-    "در بخش نژادی، برای Night Elf مشکل دسترسی Druidها در حالت نژادی به Ravage و Pounce رفع شده است. همچنین خطای بهره‌مندی بیش از حد پت‌های Warlock نژاد Orc از ابیلیتی نژادی Command اصلاح گردید.",
-    {
-     "t": "h",
-     "x": "کوئست‌ها و بهبودهای بصری"
-    },
-    "چندین کوئست از جمله Vorsha the Lasher، The Sleeper Has Awakened و Rediscovering the Light اصلاح شده‌اند.",
-    "در نهایت، دید بازیکنان دیگر و تارگت‌های آن‌ها در فواصل نسبتاً دور ارتقا یافته و مشکل تاریکی بیش از حد Barbershop در منطقه Thunder Bluff برطرف شده است."
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "Forever",
-    "کلاس‌ها",
-    "دانجن"
-   ],
-   "items": [],
-   "title_en": "Many Class, Dungeon and Quest Fixes - WoW: Forever Hotfixes for November 6th",
-   "source_url": "https://www.wowhead.com/news=383794",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383794-many-class-dungeon-and-quest-fixes-wow-forever-hotfixes-for-november-6.html",
-   "published_at": "2026-11-07T01:07:50Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383794/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383794/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383790,
-   "slug": "upcoming-pet-changes-in-wow-forever-upcoming-class-tuning-for-november",
-   "title_fa": "برنامه تغییرات پت‌ها و تیونینگ کلاس‌ها در WoW: Forever برای ۱۰ نوامبر",
-   "lead_fa": "توسعه‌دهندگان WoW: Forever اولین سری تنظیمات تعادل کلاس‌ها را برای سه‌شنبه ۱۰ نوامبر برنامه‌ریزی کرده‌اند که شامل تغییرات پت‌های Hunter و Warlock و بازنگری در اولویت استت‌های Enhancement Shaman می‌شود.",
-   "body_fa": [
-    "هم‌زمان با لول‌آپ بازیکنان در سراسر جهان در سرورهای WoW: Forever، سازندگان بازی چند مشکل اساسی در کلاس‌ها را شناسایی کرده‌اند که نیازمند اصلاحات فوری است. طبق اعلام تیم توسعه، برنامه‌ریزی شده است تا در روز سه‌شنبه ۱۰ نوامبر یک سری هاتفیکس برای رفع این موارد منتشر شود.",
-    {
-     "t": "h",
-     "x": "افزایش دوام پت‌های تانک Hunter و Warlock"
-    },
-    "بر اساس مشاهدات توسعه‌دهندگان، پت‌های Hunter و همچنین Voidwalker مربوط به Warlock به اندازه مورد انتظار در نقش تانک دوام نمی‌آورند. هدف تیم این است که کارایی این پت‌ها تا حدودی مشابه Classic Era باشد و برای رسیدن به این هدف، استت‌های آن‌ها در صورت نیاز تعدیل خواهد شد.",
-    {
-     "t": "h",
-     "x": "تغییرات گیم‌پلی Affliction Warlock"
-    },
-    "گزارش‌های دریافتی نشان می‌دهد چنل کردن مداوم توانایی Wrack نسبت به استفاده هم‌زمان از جادوهای Damage-over-time نظیر Siphon Life، Corruption و Bane of Agony برتری دارد. سازندگان قصد دارند شرایطی ایجاد کنند که کست کردن این جادوها در کنار Wrack همیشه ارزشمند باشد، بدون اینکه روی کل خروجی Damage این تخصص تأثیر منفی بگذارد.",
-    {
-     "t": "h",
-     "x": "تغییر اولویت استت برای Enhancement Shaman"
-    },
-    "در حال حاضر بازیکنان Enhancement Shaman متوجه شده‌اند که Intellect و Spellpower نسبت به Strength و Attack Power استت‌های برتری هستند. برنامه توسعه‌دهندگان این است که Strength همواره قوی‌ترین استت آن‌ها باشد تا این تخصص به سراغ آیتم‌های مخصوص Mageها و Warlockها نرود. در حالت ایده‌آل، بهترین آیتم‌های Enhancement باید دارای Strength یا Attack Power به همراه مقداری Intellect یا Spell Power باشند.",
-    {
-     "t": "note",
-     "x": "بازیکنان Enhancement Shaman که در حال لول‌آپ هستند، از این پس باید به دنبال جمع‌آوری تجهیزات دارای Strength و Attack Power باشند.",
-     "kind": "tip"
-    },
-    "تیم توسعه ممکن است در طول آخر هفته مشکلات جدیدی را شناسایی کند و اعلام کرده است که تغییرات بالانس کلاس‌ها را سه‌شنبه و در صورت لزوم در سه‌شنبه‌های آینده اعمال خواهد کرد."
-   ],
-   "tags_fa": [
-    "تیونینگ کلاس‌ها",
-    "WoW Forever",
-    "هاتفیکس",
-    "شمن"
-   ],
-   "items": [],
-   "title_en": "Upcoming Pet Changes in WoW: Forever - Upcoming Class Tuning for November 10th",
-   "source_url": "https://www.wowhead.com/news=383790",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383790-upcoming-pet-changes-in-wow-forever-upcoming-class-tuning-for-november.html",
-   "published_at": "2026-11-06T21:13:27Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383790/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383790/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383787,
-   "slug": "raid-rewards-and-pvp-balance-crix-interview-on-wow-forever",
-   "title_fa": "مصاحبه تیم توسعه WoW: Forever درباره پاداش ریدها و تعادل PvP",
-   "lead_fa": "توسعه‌دهندگان WoW: Forever در گفت‌وگو با Crix از ساختار ست‌های رید، تغییرات کلاس‌ها و نحوه برقراری تعادل در مبارزات PvP گفتند.",
-   "body_fa": [
-    "در جریان مصاحبه اخیر Crix با Kris Zierhut و Tim Jones درباره پروژه WoW: Forever، جزئیات متعددی از برنامه‌های تیم توسعه برای ریدها، تعادل کلاس‌ها و سیستم‌های PvP مطرح شد.",
-    {
-     "t": "h",
-     "x": "پاداش‌ها و ساختار ریدها"
-    },
-    "قطعات Tier 1 Set میان هر ۳ رید تقسیم شده است و برای تکمیل کامل آن باید به هر سه رید بروید؛ با این حال اگر تنها در ریدهای 10 نفره شرکت کنید، بخش زیادی از جوایز را دریافت خواهید کرد. همچنین سطح آیتم‌ها (Item Level) در تمام درجه‌های سختی یکسان خواهد بود.",
-    "توسعه‌دهندگان اشاره کرده‌اند که اندازه رید سختی خود انکانترها را تغییر نمی‌دهد، بلکه سازمان‌دهی آن را برای لیدرها دشوارتر می‌کند؛ بنابراین اختصاص لوت بهتر به گروه‌های بزرگ‌تر منطقی نیست. برای حل معضل Class Stacking در گروه‌های 10 نفره، توتم‌های باف Shaman اکنون روی کل رید اثر می‌گذارند، مدت‌زمان تمام باف‌های رید به یک ساعت رسیده و تعداد Blessingهای موردنیاز نیز کاهش یافته است.",
-    {
-     "t": "h",
-     "x": "تغییرات کلاس‌های Shaman و Warlock"
-    },
-    "تیم توسعه وضعیت Enhancement Shaman را زیر نظر دارد تا بازیکنان بیش از حد به سمت آیتم‌های Spell Power کشیده نشوند و مانند Ret Paladinها ترکیبی از اسپل پاور، Strength و Intellect بپوشند، نه رداهای پارچه‌ای. در شاخه Elemental نیز تغییرات اعمال‌شده روی Lava Burst و Chain Lightning به زمان پخت بیشتری نیاز داشته است. بازنگری تلنت‌های Shaman و Druid برای اوایل سال آینده میلادی در دستور کار قرار دارد، هرچند پس از دریافت داده‌های رید تنظیمات زودهنگام اعمال خواهد شد.",
-    "میزان سلامت پت‌های Hunter و Warlock کاهش یافته است. در مقایسه با نسخه 1.15، اکنون اسکیلینگ متصل به استیت‌های بازیکن وجود دارد و آمار پت همگام با قوی‌تر شدن هیرو بالا می‌رود. با این وجود سلامت پت Voidwalker به دلیل گزارش‌ها بررسی خواهد شد و احتمال تنظیم توانایی Wrack برای وارلاک‌ها نیز مطرح است.",
-    {
-     "t": "h",
-     "x": "سختی ریدها و آپدیت‌های آینده"
-    },
-    {
-     "t": "quote",
-     "x": "طراحی Season of Discovery گامی بیش از حد بزرگ به سمت پیچیدگی انکانترهای مدرن بود. ما به دنبال پیچیدگی‌هایی در سطح Naxxramas در نسخه Era یا Season of Mastery هستیم.",
-     "by": "Blizzard — Kris Zierhut"
-    },
-    "نقشه راه شامل دو به‌روزرسانی محتوایی بزرگ با فاصله حدود چهار ماه از یکدیگر است که هرکدام یک رید 10 نفره و یک رید 20 نفره به همراه کوئست‌های جدید دارند. در ریدهای آینده مانند Barrow Deeps سه ورودی مختلف وجود دارد که بازیکنان پس از کشتن باس اول باید هر سه بال را پاکسازی کنند تا به بخش پایانی دسترسی یابند.",
-    {
-     "t": "h",
-     "x": "تعادل و تجهیزات در PvP"
-    },
-    "تمرکز اصلی تعادل بر محور بتل‌گراندها است تا نیازی به یکسان‌سازی کلاس‌ها برای نبردهای تک‌به‌تک نباشد. برای نمونه، تلنت ۳۱ امتیازی Frost Mage که آسیب فراست را بالا می‌برد قابل دیسپل خواهد بود تا در PvP ابزار مقابله داشته باشد.",
-    {
-     "t": "note",
-     "x": "آیتم‌های Honor به آسانی قابل دسترسی هستند، اما برای به دست آوردن گیرهای رنک بالاتر باید قطعات Honor را تحویل دهید و ارتقا دهید.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "مصاحبه",
-    "WoW Forever",
-    "رید",
-    "PvP"
-   ],
-   "items": [],
-   "title_en": "Raid Rewards and PvP Balance - Crix Interview on WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383787",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383787-raid-rewards-and-pvp-balance-crix-interview-on-wow-forever.html",
-   "published_at": "2026-11-06T20:52:14Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383787/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383787/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383789,
-   "slug": "blizzard-fixing-issues-causing-duplicates-of-npcs-and-mobs",
-   "title_fa": "تلاش Blizzard برای رفع باگ تکثیر NPCها و ماب‌ها در لایه‌ها",
-   "lead_fa": "Blizzard در حال رسیدگی به مشکلی است که برای مدت کوتاهی باعث تکثیر چندبارهٔ NPCها و ماب‌ها در هر Layer شده بود.",
-   "body_fa": [
-    "به‌دنبال بروز یک نقص فنی کوتاه، ماب‌ها و NPCها در هر Layer چندین نسخهٔ تکراری از خود ایجاد کردند؛ مسئله‌ای که باعث شد برخی مناطق بسیار خطرناک شوند یا چندین نمونهٔ هم‌شکل از یک NPC کنار هم قرار بگیرند.",
-    "بلیزارد با ارسال پیامی درون سرور اعلام کرد که در حال برطرف کردن این موضوع است و به طنز از این اتفاق به‌عنوان یک اختلال کوچک یاد کرد.",
-    {
-     "t": "quote",
-     "x": "درود! یک اختلال جزئی در جهان‌های موازی رخ داده بود. ما در حال حاضر مشغول رفع این اختلال در تمامی مناطق هستیم.",
-     "by": "Blizzard"
-    },
-    "روند برطرف کردن این مشکل و بازگرداندن وضعیت مناطق به حالت عادی همچنان در جریان است."
-   ],
-   "tags_fa": [
-    "بلیزارد",
-    "باگ",
-    "سرور"
-   ],
-   "items": [],
-   "title_en": "Blizzard Fixing Issues Causing Duplicates of NPCs and Mobs",
-   "source_url": "https://www.wowhead.com/news=383789",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383789-blizzard-fixing-issues-causing-duplicates-of-npcs-and-mobs.html",
-   "published_at": "2026-11-06T20:11:48Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383789/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383789/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383786,
-   "slug": "minimum-deposit-on-ah-being-reduced-to-1-copper-soon-in-wow-forever",
-   "title_fa": "کاهش حداقل دیپازیت در Auction House نسخه WoW: Forever به ۱ مس",
-   "lead_fa": "حداقل مبلغ دیپازیت برای ثبت کالا در Auction House بازی WoW: Forever به‌زودی از ۱ نقره به ۱ مس کاهش خواهد یافت.",
-   "body_fa": [
-    "در زمان راه‌اندازی WoW: Forever، حداقل دیپازیت تعیین‌شده برای قرار دادن آیتم‌ها در Auction House به ۱ Silver افزایش یافته بود. این موضوع در شرایط اقتصاد اولیه بازی، ریسک بالایی برای بازیکنان ایجاد می‌کرد؛ زیرا از دست دادن ۱ Silver در صورت فروش نرفتن کالا، به‌ویژه در زمان کمبود پول، هزینه‌ها را به‌سرعت بالا می‌برد.",
-    {
-     "t": "h",
-     "x": "اظهارات Kris Zierhut درباره تغییر دیپازیت"
-    },
-    "در گفت‌وگویی با Crix، آقای Kris Zierhut به موضوع نحوه مدیریت اختلاف‌نظرهای داخلی پرداخت و در پایان صحبت‌هایش به تغییر حداقل دیپازیت اشاره کرد.",
-    {
-     "t": "quote",
-     "x": "شاید حداقل قیمت برای دیپازیت در Auction House باید ۱ Copper باشد نه ۱ Silver. امروز پیش‌تر درباره این موضوع صحبت می‌کردیم و پس از گفت‌وگوی بیشتر با افراد، بله، ما در حال بازگرداندن حداقل دیپازیت به یک مس هستیم. این تغییر خواهد آمد؛ هنوز نه، اما در راه است.",
-     "by": "Kris Zierhut"
-    },
-    {
-     "t": "h",
-     "x": "نحوه کارکرد فرمول دیپازیت"
-    },
-    "زمانی که بازیکنان آیتمی را در Auction House فهرست می‌کنند، پرداخت دیپازیت الزامی است. این هزینه در صورت فروش موفقیت‌آمیز کالا به بازیکن بازگردانده می‌شود، اما اگر مزایده لغو شود یا زمان آن به پایان برسد، مبلغ از دست می‌رود.",
-    "با اعمال این تغییر، بازیکنان دیگر هنگام ثبت آیتم‌ها در Auction House با ریسک قابل‌توجهی روبه‌رو نخواهند بود و انتظار می‌رود ساختار دیپازیت به فرمول WoW: Classic بازگردد که بر اساس مدت‌زمان مزایده و Vendor Price آیتم محاسبه می‌شود.",
-    {
-     "t": "note",
-     "x": "این به‌روزرسانی هنوز فعال نشده اما طبق تأیید رسمی، به‌زودی اعمال خواهد شد.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "Auction House",
-    "اقتصاد بازی"
-   ],
-   "items": [],
-   "title_en": "Minimum Deposit on AH Being Reduced to 1 Copper Soon in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383786",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383786-minimum-deposit-on-ah-being-reduced-to-1-copper-soon-in-wow-forever.html",
-   "published_at": "2026-11-06T19:08:08Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383786/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383786/1.png",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3451,46 +3472,11 @@
    "published_at": "2026-11-17T02:43:12Z"
   },
   {
-   "id": 383900,
-   "title_en": "More Classes, Quest, and Item Changes - WoW: Forever Hotfixes for November 16, 2026",
-   "url": "https://www.wowhead.com/news=383900",
-   "category": "Forever",
-   "published_at": "2026-11-17T02:23:22Z"
-  },
-  {
-   "id": 383893,
-   "title_en": "New Scarlet Monastery Hearthstone in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383893",
-   "category": "Forever",
-   "published_at": "2026-11-17T00:00:20Z"
-  },
-  {
-   "id": 383898,
-   "title_en": "100+ Gold Per Hour Farm Nerfed in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383898",
-   "category": "Forever",
-   "published_at": "2026-11-16T21:04:18Z"
-  },
-  {
    "id": 383897,
    "title_en": "Forever 101: Blizzard Releases New Player Overview Video for WoW: Forever",
    "url": "https://www.wowhead.com/news=383897",
    "category": "Forever",
    "published_at": "2026-11-16T18:10:00Z"
-  },
-  {
-   "id": 383895,
-   "title_en": "WoW Token Price Hits 640k Gold Spike on EU Servers",
-   "url": "https://www.wowhead.com/news=383895",
-   "category": "Live",
-   "published_at": "2026-11-16T15:56:34Z"
-  },
-  {
-   "id": 383806,
-   "title_en": "Should WoW: Forever Dungeons Let Players Complete Quests in One Run?",
-   "url": "https://www.wowhead.com/news=383806",
-   "category": "Forever",
-   "published_at": "2026-11-16T15:00:00Z"
   },
   {
    "id": 383869,
@@ -3722,6 +3708,13 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }

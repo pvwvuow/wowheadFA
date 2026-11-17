@@ -307,12 +307,88 @@
   ],
   "chars": 3382
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383900/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383900/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383900/1.jpg",
+ "article_fa": {
+  "title_fa": "هاتفیکس‌های ۱۶ نوامبر ۲۰۲۶ برای WoW: Forever",
+  "lead_fa": "بلیزارد مجموعه‌ای از هاتفیکس‌های جدید را برای کلاس‌ها، دانجن‌ها، کوئست‌ها و آیتم‌ها در WoW: Forever منتشر کرد.",
+  "body_fa": [
+   "بلیزارد فهرستی از تغییرات و اصلاحات فنی مربوط به تاریخ ۱۶ نوامبر ۲۰۲۶ را معرفی کرده است که بخش‌های متنوعی از گیم‌پلی از جمله کلاس‌ها، سیاه‌چاله‌ها، آیتم‌ها و کوئست‌ها را در بر می‌گیرد.",
+   {
+    "t": "h",
+    "x": "سیستم Camping"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "آیتم Fishing Rack اکنون برای همه lure فراهم می‌کند.",
+     "شانس دراپ Bloated Fish حاصل از اثر Fishing Rack افزایش یافته و جدول لوت (loot table) آن نیز متناسب با این موضوع تنظیم شده است."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "تغییرات و اصلاحات کلاس‌ها"
+   },
+   "در بخش کلاس‌ها چندین مشکل عملکردی و باگ برطرف شده و تغییراتی در زمینه تعادل اعمال شده است:",
+   {
+    "t": "ul",
+    "xs": [
+     "کلاس Druid: مشکلی که مانع از رفتن رنک‌های مختلف Wild Growth روی کول‌داون می‌شد برطرف شد. همچنین در تخصصی Balance، باگی که در آن تلنت Genesis دمیج bleed حاصل از Pounce را بالا نمی‌برد رفع گردید.",
+     "کلاس Priest: انباشته شدن (stacking) ناخواسته Dark Inspiration در صورت حضور چند Shadow Priest در یک پارتی حل شد. هیل توانایی Vampiric Embrace اکنون بر مبنای ۱۰٪ از Shadow damage وارد شده توسط خود کستر محاسبه می‌شود (پیش‌تر ۲۰٪ بود)، اما کشیش کستر ۱۰۰٪ هیل بیشتر از این افکت دریافت می‌کند.",
+     "کلاس Rogue: رنک‌های Poison دیگر نمی‌توانند از حداکثر رنک فراتر بروند. همچنین مشکلی که در آن استفاده از Shank روی هدفی فاقد کمبو پوینت باعث حذف کمبو پوینت‌ها از اهداف دیگر می‌شد (حتی بدون داشتن تلنت Boot Knife) اصلاح شد.",
+     "کلاس Shaman: حملات Windfury Totem دیگر آرمور را نادیده نمی‌گیرند و کول‌داون داخلی دارند. باگ عدم تولید Rage توسط اتک‌های اضافه این توتم، و همچنین شانس فعال‌سازی اشتباه آن توسط اسکیل‌های Mutilate، Execute، Shield Slam، Shield Bash و ضربات ارتقایافته Holy Strikes برطرف گردید. برای Enhancement نیز استفاده دو کست از Maelstrom Weapon و نیاز اشتباه تلنت Thundering Strikes به تجهیز سلاح جهت ارائه شانس critical strike رفع شد.",
+     "کلاس Warrior: مشکلی که مانع ارائه Legacy of Valor توسط Revered Champion به Warriorهای واجد شرایط می‌شد حل شد. در تخصصی Fury، فعال نشدن Unbridled Wrath و Reckless Swings با Cleave یا Heroic Strike و مصرف اشتباه استک‌های Flurry رفع گردید؛ همچنین وضعیت Reckless Swings در کول‌داون منیجر تنظیم شد."
+    ]
+   },
+   {
+    "t": "quote",
+    "x": "این تغییر هیچ تفاوتی برای بازی انفرادی (solo play) پریست ایجاد نمی‌کند.",
+    "by": "یادداشت سازندگان"
+   },
+   {
+    "t": "h",
+    "x": "دانجن‌ها و PvP"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "در دانجن The Drowned City، باس Captain Dreadrise دیگر در برابر افکت‌های stun مصون نیست و Abyssal Bubble احضار شده توسط او نیز قابلیت block، dodge یا parry ندارد. همچنین ریر Braxton کمتر روی وظایفش متمرکز است و به نبرد واکنش نشان می‌دهد.",
+     "در Sunken Temple، مشکلی که موجب غیرفعال شدن مجسمه‌های مارهای Atal’alarion در Pit of Refuse در صورت فعال‌سازی با ترتیب نادرست می‌شد رفع شد.",
+     "در PvP، مرگ درون Gold Mine در Arathi Basin دیگر شما را به گورستان در Riverglades منتقل نمی‌کند."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "آیتم‌ها و مأموریت‌ها"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "دستور [[item:Formula: Enchant Boots - Speed]] از ریپوتیشن اکنون همان‌طور که در نظر گرفته شده بود bind-on-pickup است.",
+     "آیتم [[item:Outrider's Gloves]] اکنون به درستی کار می‌کند و [[item:The Violet Tragan]] دیگر افکت‌های کنترل جمعیت (CC) را نمی‌شکند.",
+     "نرخ دراپ Blood Red Bandanas بیشتر شد و مشکل اسپاون نشدن Witch Doctor Zum’rah در کوئست The Talisman of Kazdor حل گردید.",
+     "نجات اسیران Scout در Twilight's Shroud برای تمام اعضای پارتی در مأموریت No Soldier Left Behind ثبت می‌شود.",
+     "برای کوئست Screecher Spirits، موجودات Vale Screamers اکنون در خط ساحلی Isle of Dread حضور دارند.",
+     "مأموریت تکرارپذیر Water Pouch Bounty دیگر اکسپرینس نمی‌دهد و مشکل توقف پیشرفت کوئست The Return of the King? در Theramore نیز حل شد."
+    ]
+   }
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "WoW Forever",
+   "کلاس‌ها",
+   "تغییرات بازی"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-17T05:57:34Z"
+ }
 }

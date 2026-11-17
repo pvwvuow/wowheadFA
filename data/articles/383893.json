@@ -87,12 +87,41 @@
   ],
   "chars": 728
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383893/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383893/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383893/1.jpg",
+ "article_fa": {
+  "title_fa": "کشف اولین Hearthstone تزیینی در WoW: Forever با تم Scarlet Monastery",
+  "lead_fa": "بازیکنان در WoW: Forever اولین سنگ بازگشت تزیینی بازی را کشف کرده‌اند که انیمیشن اختصاصی دارد و از باس‌های دنیای بازی به دست می‌آید.",
+  "body_fa": [
+   "آیتم‌های تزیینی Hearthstone قابلیت جدیدی در WoW: Forever به شمار می‌روند و هنگام اجرای طلسم در مدت‌زمان ۱۰ ثانیه، انیمیشن ویژه‌ای برای کاراکتر نمایش می‌دهند.",
+   {
+    "t": "h",
+    "x": "جزئیات و نحوه عملکرد آیتم جدید"
+   },
+   "نخستین مورد از این مجموعه با نام [[item:Scarlet Hearthstone]] در بازی پیدا شده است. این آیتم به Toy Box شما اضافه می‌شود، اما به جای اینکه مستقیماً از داخل آن قابل استفاده باشد، یک نسخه از Scarlet Hearthstone به شما می‌دهد که همچنان یک خانه از کیف را اشغال می‌کند.",
+   {
+    "t": "note",
+    "x": "طبق اطلاعات کاربری به نام Undyingshaman در انجمن‌های رسمی WoW، این آیتم از High General Abbendis در منطقه Eastern Plaguelands لوت می‌شود.",
+    "kind": "info"
+   },
+   "این آیتم نخستین Hearthstone تزیینی کشف‌شده در WoW: Forever محسوب می‌شود و به احتمال زیاد آخرین مورد از این دست نخواهد بود."
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "Hearthstone",
+   "Scarlet Monastery",
+   "Toy Box"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-17T06:02:09Z"
+ }
 }
