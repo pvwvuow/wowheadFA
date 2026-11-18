@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T20:42:57Z",
+ "generated": "2026-11-18T00:47:17Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3455,6 +3455,13 @@
  ],
  "queue": [
   {
+   "id": 383912,
+   "title_en": "WoW: Forever Continuing to Break Records With Over 15 Million Characters Created",
+   "url": "https://www.wowhead.com/news=383912",
+   "category": "Forever",
+   "published_at": "2026-11-18T00:04:50Z"
+  },
+  {
    "id": 383910,
    "title_en": "Blizzard Removing Gold and Applying Account Suspensions to Significant Abusers of Blackmaw Hold Farm",
    "url": "https://www.wowhead.com/news=383910",
@@ -3726,13 +3733,6 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
