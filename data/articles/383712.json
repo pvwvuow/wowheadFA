@@ -975,8 +975,8 @@
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383712/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
- "hold_count": 2,
- "hold_at": "2026-11-17T03:15:28Z",
+ "hold_count": 3,
+ "hold_at": "2026-11-18T06:50:01Z",
  "last_rejected": {
   "title_fa": "بررسی تغییرات و ویژگی‌های پایه‌ای در WoW: Forever",
   "lead_fa": "شرکت Blizzard در پستی رسمی به معرفی تفاوت‌ها، ویژگی‌های مشترک و سیستم‌های جدید بازی WoW: Forever برای بازیکنان نسخه‌های مدرن و Classic پرداخت.",
