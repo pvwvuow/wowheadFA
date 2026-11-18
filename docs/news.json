@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T18:42:13Z",
+ "generated": "2026-11-18T20:19:35Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3550,6 +3550,20 @@
   }
  ],
  "queue": [
+  {
+   "id": 383919,
+   "title_en": "Weekly Gold Quest Requires Blackrock Spire and Blackrock Depths in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383919",
+   "category": "Forever",
+   "published_at": "2026-11-18T19:52:08Z"
+  },
+  {
+   "id": 383918,
+   "title_en": "WoW: Forever PvP Overview Video - Honor Rewards & Battlegrounds",
+   "url": "https://www.wowhead.com/news=383918",
+   "category": "Forever",
+   "published_at": "2026-11-18T18:03:36Z"
+  },
   {
    "id": 383917,
    "title_en": "Auction House Minimum Deposit Reduced to 1 Copper in WoW: Forever",
