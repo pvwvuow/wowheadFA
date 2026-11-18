@@ -1,6 +1,6 @@
 {
  "day": "2026-11-18",
- "published_today": 5,
+ "published_today": 6,
  "held": {
   "383907": {
    "reason": "G4 numbers from source missing in article: 1789246420177, 1789246423424, 1789246424707, 1789246424729, 1789246425852, 1789246425997, 1789246426918, 1792714301515",
@@ -16,73 +16,33 @@
    "reason": "G3 long English run: th we had the return of classic world bosses. It continues onward.\nFor... | G3 long English run: th we had a pet and a new mount for the same wb.... | G5 English token not in source: npc",
    "at": "2026-11-18T06:15:20Z",
    "at_ts": 1794982520.746731
+  },
+  "383863": {
+   "reason": "G4 numbers from source missing in article: 10, 100, 11, 12.1.5, 12.2, 13, 14, 15",
+   "at": "2026-11-18T07:17:01Z",
+   "at_ts": 1794986221.13242
+  },
+  "383824": {
+   "reason": "G4 numbers from source missing in article: 100, 15, 17, 2.3, 2.6, 22, 23, 383824",
+   "at": "2026-11-18T07:18:56Z",
+   "at_ts": 1794986336.537507
+  },
+  "383738": {
+   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
+   "at": "2026-11-18T07:22:08Z",
+   "at_ts": 1794986528.195623
+  },
+  "383736": {
+   "reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
+   "at": "2026-11-18T07:23:17Z",
+   "at_ts": 1794986597.899166
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-18T06:15:20Z",
+ "updated_at": "2026-11-18T07:23:17Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383863",
-    "ts": "2026-11-16T03:33:20Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 42.5,
-    "attempts": 1
-   },
-   {
-    "id": "383824",
-    "ts": "2026-11-16T03:34:27Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 66.5,
-    "attempts": 1
-   },
-   {
-    "id": "383741",
-    "ts": "2026-11-16T03:35:36Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 69.5,
-    "attempts": 1
-   },
-   {
-    "id": "383738",
-    "ts": "2026-11-16T03:36:35Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 59.0,
-    "attempts": 1
-   },
-   {
-    "id": "383735",
-    "ts": "2026-11-16T03:38:37Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 121.4,
-    "attempts": 1
-   },
-   {
-    "id": "383720",
-    "ts": "2026-11-16T03:39:03Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 26.9,
-    "attempts": 1
-   },
    {
     "id": "383716",
     "ts": "2026-11-16T03:39:54Z",
@@ -4021,6 +3981,66 @@
     "blocks": 3,
     "warns": 0,
     "sec": 49.5,
+    "attempts": 2
+   },
+   {
+    "id": "383914",
+    "ts": "2026-11-18T07:14:56Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 75.8,
+    "attempts": 1
+   },
+   {
+    "id": "383863",
+    "ts": "2026-11-18T07:17:01Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 125.0,
+    "attempts": 2
+   },
+   {
+    "id": "383824",
+    "ts": "2026-11-18T07:18:56Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 115.4,
+    "attempts": 2
+   },
+   {
+    "id": "383741",
+    "ts": "2026-11-18T07:19:42Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 46.1,
+    "attempts": 1
+   },
+   {
+    "id": "383738",
+    "ts": "2026-11-18T07:22:08Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 145.6,
+    "attempts": 2
+   },
+   {
+    "id": "383736",
+    "ts": "2026-11-18T07:23:17Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 69.7,
     "attempts": 2
    }
   ]

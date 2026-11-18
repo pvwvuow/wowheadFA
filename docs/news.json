@@ -1,8 +1,85 @@
 {
- "generated": "2026-11-18T06:18:33Z",
+ "generated": "2026-11-18T07:24:43Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383914,
+   "slug": "ubrs-damage-and-health-increases-shen-dralas-improvements-wow-forever-",
+   "title_fa": "هاتفیکس‌های ۱۷ نوامبر ۲۰۲۶: افزایش درجه سختی UBRS و بهبود کوئست‌های منطقه Shen'dralas",
+   "lead_fa": "بلیزارد در هاتفیکس‌های ۱۷ نوامبر ۲۰۲۶، درجه سختی سیاه‌چال Upper Blackrock Spire را به حالت اولیه بازگرداند و تغییرات متعددی روی منطقه Shen'dralas و آیتم‌های بازی اعمال کرد.",
+   "body_fa": [
+    "به‌روزرسانی تازه با هدف برطرف‌کردن باگ‌ها و اصلاح سیستم‌های مختلف منتشر شده است. این پچ تمرکز ویژه‌ای روی بالانس سیاه‌چال‌ها، حل مشکلات تکراری در ماموریت‌های Shen'dralas و بهبود کارایی برخی آیتم‌ها و مشاغل دارد.",
+    {
+     "t": "h",
+     "x": "تغییرات سیاه‌چال‌ها و ان‌پی‌سی‌ها"
+    },
+    "با رفع یک باگ اساسی، سلامتی و آسیب دشمنان در Upper Blackrock Spire که به‌طور غیرعمدی بسیار کمتر از حد معمول تنظیم شده بود، افزایش یافته است.",
+    {
+     "t": "quote",
+     "x": "این اصلاح باید UBRS را دوباره به سطح دشواری مدنظر ما بازگرداند و تکمیل آن بار دیگر نیازمند تیمی متشکل از بازیکنان کوشا خواهد بود.",
+     "by": "توسعه‌دهندگان بلیزارد"
+    },
+    "علاوه بر این، در Thousand Needles مشکل ریسپاون Pesterhide Snarler و Needles Cougar و همچنین مسیر حرکتی Gravelysnout Digger یا Surveyour درون سنگ‌ها تصحیح شد.",
+    {
+     "t": "h",
+     "x": "تغییرات آیتم‌ها، کلاس‌ها و مکانیک کمپ"
+    },
+    "آیتم [[item:Cozy Sleeping Bag]] دستخوش چند تغییر کلیدی شده است؛ بازیکنان سواره دیگر اجازه ندارند روی آن استراحت کنند، قرار دادن آن مانند تله‌های شکارچی نیازمند محل‌های مشخص است و اکنون یک هاله Resting اختصاصی نشان می‌دهد چه زمانی درون محدوده آن قرار دارید.",
+    {
+     "t": "ul",
+     "xs": [
+      "باف‌های Might of Stormwind و Warchief’s Blessing پس از مرگ به درستی لغو می‌شوند و روی غیربازیکنان اعمال نخواهند شد.",
+      "مشکل از دست رفتن استک‌های Flurry در کلاس Shaman بر اثر حملات Windfury totem برطرف شد.",
+      "کلاس Shadow Priests اکنون اجازه دارد [[item:Night Watchman’s Torch]] را به دست بگیرد.",
+      "مقادیر برد و آسیب [[item:Escape Plan]] تصحیح شده است.",
+      "استت‌های دو سلاح [[item:Whiteout Staff]] و [[item:Crackling Staff]] یکسان‌سازی شد و اکنون شامل 25 Stamina، 25 Intellect و ۷۴ واحد Spell Power حاصل از آسیب سلاح هستند."
+     ]
+    },
+    "زره تانک پالادین یعنی [[item:Soulforge Armor]] نیز به‌جای داشتن Strength اکنون دارای Spell Power است، زیرا توسعه‌دهندگان در نظر دارند Spell Power به استت اصلی این کلاس برای وارد کردن خسارت در حالت تانک تبدیل شود.",
+    {
+     "t": "h",
+     "x": "ماموریت‌ها و اصلاحات منطقه Shen'dralas"
+    },
+    "در منطقه Shen'dralas، اهداف تعمیر پایلون در کوئست Powering the Pylons بین اعضای نزدیک گروه به اشتراک گذاشته می‌شود و آیتم [[item:The Depleted Crystal Heart]] در کوئست Heart of Crystal نیز برای تمام هم‌گروهی‌ها دراپ خواهد شد.",
+    {
+     "t": "ul",
+     "xs": [
+      "سرعت فرار Rokren در ماموریت اسکورت Going Home کاهش یافت.",
+      "امکان ردگیری Spectral Iron Ore توسط ماینرها فراهم شد و نرخ اسپاون آن افزایش یافت.",
+      "فرکانس اجرای اسپل‌ها توسط Bristleback Skullcrushers و Decrepit Pylon Protectors کاهش یافت.",
+      "قابلیت Summon Undead Ravager که توسط نکورومنسرها کست می‌شود، اکنون قابل اینتراپت است.",
+      "کوئست Agamaggan’s Blood دیگر یک ماموریت سیاه‌چال نیست و می‌توان آن را در محیط الیت خارج از Razorfen Downs به پایان رساند."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "سایر اصلاحات"
+    },
+    "در بخش PvP، سوار شدن بر مانت در اتاق‌های شروع Warsong Gulch برطرف شد و پذیرش ماموریت‌های The Battle for Alterac Valley نیازمند سطح ۵۸ است. در مشاغل، تبدیل غیرمجاز در Waylaid Crate رفع گردید، دیگر نمی‌توان از Paletusks جیب‌بری کرد، سلاح [[item:Bronze Mace]] به Bind on Equip تبدیل شد، و مشکل مربوط به ذخیره‌نشدن فهرست Ignore بازیکنان پس از خروج از بازی حل شده است."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "سیاهچال",
+    "پچ نوت",
+    "کلاس ها"
+   ],
+   "items": [],
+   "title_en": "UBRS Damage and Health Increases & Shen'dralas Improvements - WoW: Forever Hotfixes for November 17, 2026",
+   "source_url": "https://www.wowhead.com/news=383914",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383914-ubrs-damage-and-health-increases-shen-dralas-improvements-wow-forever-.html",
+   "published_at": "2026-11-18T03:43:47Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383914/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383914/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383912,
    "slug": "wow-forever-continuing-to-break-records-with-over-15-million-character",
@@ -3440,71 +3517,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383805,
-   "slug": "layering-issues-in-thousand-needles-harpy-cave-result-in-quest-competi",
-   "title_fa": "مشکلات Layering در غار هارپی‌های Thousand Needles و رقابت شدید برای کوئست‌ها",
-   "lead_fa": "اختلال در سیستم Layering در غار Roguefeather Den واقع در Thousand Needles باعث ازدحام بیش از حد بازیکنان و رقابت سنگین بر سر ماب‌های کوئست شده است.",
-   "body_fa": [
-    "در منطقهٔ Thousand Needles، غاری پر از هارپی به نام Roguefeather Den وجود دارد که چندین کوئست بازیکنان را به درون آن هدایت می‌کند. با این حال، به نظر می‌رسد سیستم Layering درون این غار دچار اختلال شده و تعداد بسیار زیادی از بازیکنان را در فضایی کوچک گرد هم آورده است.",
-    {
-     "t": "h",
-     "x": "کوئست‌های تحت تأثیر در Roguefeather Den"
-    },
-    "این منطقه میزبان مجموعه‌ای از ماب‌ها و کوئست‌ها است که تکمیل آن‌ها به دلیل رقابت شدید بازیکنان با مشکل مواجه شده است:",
-    {
-     "t": "ul",
-     "xs": [
-      "Test of Endurance",
-      "Stop the Screeching",
-      "Stolen Freewind Supplies"
-     ]
-    },
-    "این ازدحام موجب شده رقابت بسیار سنگینی برای تگ کردن ماب‌های اهداف کوئست ایجاد شود. به طور خاص، ماب‌های Grenka Bloodscreech و Screeching Windcaller زمان ریسپاون نادرتر و طولانی‌تری دارند و به دلیل همین اختلالات لیرینگ، اتمام کوئست‌های مربوط به آن‌ها ممکن است زمان زیادی ببرد.",
-    {
-     "t": "h",
-     "x": "نشانه‌های ادغام ناقص لیرها"
-    },
-    "درون این غار پدیده‌های عجیبی مشاهده می‌شود؛ از جمله این‌که بازیکنان دیگر در حال حمله به اهدافی دیده می‌شوند در حالی که خود هدف برای شما قابل مشاهده نیست. علاوه بر این، افکت سایلنس محیطی (AoE silence) هارپی‌هایی که در لیرهای دیگر قرار دارند به شما اصابت می‌کند، بدون این‌که چیزی در لیر خودتان ببینید. این وضعیت نشان می‌دهد که لیرها تنها به صورت ناقص ادغام شده‌اند.",
-    "از زمان عرضهٔ WoW: Forever باگ‌های عجیبی در سیستم لیرینگ گزارش شده است؛ در روز اول بازیکنان از خلوت بودن بیش از حد مناطق شکایت داشتند، اما در حال حاضر گزارش‌ها از شلوغی بیش از حد و لزوم رقابت برای ریسپاون ماب‌های کوئست حکایت دارد. به بازیکنانی که این ماب‌ها را در دست دارند پیشنهاد می‌شود انجام آن‌ها را به بعد یا پس از رفع این ایرادات موکول کنند.",
-    {
-     "t": "note",
-     "x": "در کوئست Test of Endurance باگ دیگری نیز وجود دارد؛ اگر پس از لوت کردن claw هدف کوئست شما به‌روزرسانی نشد، برای ثبت آن باید یک بار relog کنید.",
-     "kind": "warn"
-    }
-   ],
-   "tags_fa": [
-    "باگ",
-    "WoW Forever",
-    "لیرینگ",
-    "Thousand Needles"
-   ],
-   "items": [],
-   "title_en": "Layering Issues in Thousand Needles Harpy Cave Result in Quest Competition Issues",
-   "source_url": "https://www.wowhead.com/news=383805",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383805-layering-issues-in-thousand-needles-harpy-cave-result-in-quest-competi.html",
-   "published_at": "2026-11-08T03:11:52Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383805/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383805/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383914,
-   "title_en": "UBRS Damage and Health Increases & Shen'dralas Improvements - WoW: Forever Hotfixes for November 17, 2026",
-   "url": "https://www.wowhead.com/news=383914",
-   "category": "Forever",
-   "published_at": "2026-11-18T03:43:47Z"
-  },
   {
    "id": 383907,
    "title_en": "Talebound Releases on December 1st - Patch 12.1.7",
