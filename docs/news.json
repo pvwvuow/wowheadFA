@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T06:16:56Z",
+ "generated": "2026-11-18T06:18:33Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3498,6 +3498,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383914,
+   "title_en": "UBRS Damage and Health Increases & Shen'dralas Improvements - WoW: Forever Hotfixes for November 17, 2026",
+   "url": "https://www.wowhead.com/news=383914",
+   "category": "Forever",
+   "published_at": "2026-11-18T03:43:47Z"
+  },
   {
    "id": 383907,
    "title_en": "Talebound Releases on December 1st - Patch 12.1.7",
