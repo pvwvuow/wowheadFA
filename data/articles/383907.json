@@ -776,5 +776,70 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383907/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383907/1.jpg",
+ "last_rejected": {
+  "title_fa": "معرفی حالت جدید Talebound برای انتشار در ۱ دسامبر",
+  "lead_fa": "شرکت Blizzard اعلام کرد حالت مستقل روگ‌لایت اکشن RPG با نام Talebound در تاریخ ۱ دسامبر هم‌زمان با نگهداری هفتگی سرورها در دسترس قرار خواهد گرفت.",
+  "body_fa": [
+   "شرکت Blizzard از تاریخ انتشار حالت بازی مستقل جدیدی به نام Talebound در سبک روگ‌لایت و اکشن RPG خبر داد که در ۱ دسامبر هم‌زمان با نگهداری منطقه‌ای سرورها منتشر می‌شود. بازیکنان در این حالت می‌توانند به صورت انفرادی یا گروهی در سه سطح دشواری Normal، Veteran و Heroic با دشمنان، باس‌ها، معماها، Relicها و پاداش‌ها در دل قصه‌های تاریک روبرو شوند.",
+   {
+    "t": "h",
+    "x": "آغاز ماجرا از Red Hollow تا Quillgrave"
+   },
+   "ماجراجویی از Red Hollow آغاز می‌شود؛ جایی که یک راوی مرموز مسافران را به درون دنیای تاریک داستان‌های خود می‌کشاند. پس از آن، روستای چراغانی‌شده و آرام Quillgrave به عنوان پایگاه اصلی بازیکنان عمل می‌کند تا میان هر ماجرا در آن تجدید قوا کنند.",
+   "در بازار Quillgrave چهار شخصیت کلیدی برای ارتقای شانس بقای شخصیت‌ها حضور دارند:",
+   {
+    "t": "ul",
+    "xs": [
+     "شخصیت Arcanist: تأمین‌کننده فلاسک‌ها، Draughtها و Potionها در طول قصه‌ها.",
+     "شخصیت Scribe: ارتقادهنده تلنت‌ها و توانایی‌ها برای مقابله با دشمنان.",
+     "شخصیت Antiquarian: ارائه‌دهنده قابلیت‌های پسیو مهم جهت دگرگون کردن شیوه پیشبرد ماجراها.",
+     "شخصیت Outfitter: ارتقای مقادیر اولیه سلامت (Health)، آسیب (Damage)، انرژی (Energy) و Focus."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "چهار داستان با سرنوشت‌های دگرگون‌شده"
+   },
+   "این حالت شامل چهار داستان مستقل با فضاها و باس‌های ویژه از جمله جادوگران، غول‌ها، بیشاپ‌ها و کابوس‌ها است:",
+   {
+    "t": "ul",
+    "xs": [
+     "داستان Darkhaven: سکونتگاه Konrad von Sonnesheim (ملقب به Lord Marshal) و Alexandre Dozsenc (ملقب به Blood Bishop) که تنها مکان نجات‌یافته از طاعونی مرگبار است.",
+     "داستان Greenthistle Wood: شامل دو روستای Shady Hollow و Riverton که زیر هجوم دو ساحره، یک غول و هیولاهای درنده قرار دارند.",
+     "داستان Greywake's Expedition: جزیره‌ای در گذشته آباد که ساکنان آن به دست Zzyg'th (ملقب به Hadal Tyrant) و Chathoa (ملقب به Herald from Beyond) سقوط کرده‌اند.",
+     "داستان Grove of the Night Court: روایتی وحشتناک از Tilywth (ملقب به The Fairy Queen) و Maernok (ملقب به The Nightmare King)."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "سه کلاس با درخت تلنت اختصاصی"
+   },
+   "در تمام کلاس‌ها مکانیزم‌های دفاعی و حرکتی شامل Double Jump، Dodge، Evade (با ایمنی موقت)، Sprint و Guard نقشی حیاتی دارند. هر کلاس ۲۷ امتیاز تلنت در درخت خود دارد که با خرج Tales of Valor نزد Scribe در Quillgrave ارتقا می‌یابند:",
+   {
+    "t": "ul",
+    "xs": [
+     "کلاس Witch: جادوگری با تکیه بر آذرخش، سم، عنکبوت‌ها، نور ماه و کلاغ‌ها با قابلیت‌هایی چون Brewing Storm، Thorn، Moonlight Ravens، Bubbling Cauldron، Winter Spiders، Feline Communion و Coven.",
+     "کلاس Slayer: شکارچی هیولا مجهز به شمشیر و سلاح گرم دارای اسپل‌های Slash، Throwing Knives، Shrapnel Round، Explosive Shot، Minefield، Silver Bolt و Dense Macabre.",
+     "کلاس Inquisitor: مبارزی مقدس با توانایی‌های تهاجمی و بازدارنده شامل Purify، Radiance، Light's Wrath، Rapture، Condemn، Exorcism و Divine Punishment."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "ارزها و جوایز ظاهری"
+   },
+   "در طول پیشروی، ارز Ducats برای تبدیل به منابع ارتقا جمع‌آوری می‌شود و پس از اتمام قصه‌ها، ارز Bound Silver به دست می‌آید. بازیکنان می‌توانند Bound Silver را از طریق منوی بازی، صفحه انتخاب کاراکتر یا مراجعه به Nib در Quillgrave برای خرید ست‌های ترنسموگ، قطعات مجزا و تزئینات از جمله ست Witch Hunter's Shadow Attire، مانت Shadowbound Storybook و دکورهای Quillgrave Storyteller's Lectern و Quillgrave Talebound Shadowtome جهت استفاده در Midnight و بعد از آن خرج کنند.",
+   {
+    "t": "note",
+    "x": "شروع بازی مستقیماً از منوی اصلی World of Warcraft با ساخت هیرو و انتخاب یکی از سه کلاس انجام می‌پذیرد.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "Talebound",
+   "بلیزارد",
+   "روگ‌لایت",
+   "Midnight"
+  ]
+ }
 }

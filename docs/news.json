@@ -1,8 +1,60 @@
 {
- "generated": "2026-11-18T01:38:33Z",
+ "generated": "2026-11-18T06:16:56Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383912,
+   "slug": "wow-forever-continuing-to-break-records-with-over-15-million-character",
+   "title_fa": "ثبت آمارهای خیره‌کننده در WoW: Forever با ساخت بیش از ۱۵ میلیون کاراکتر",
+   "lead_fa": "شرکت Blizzard با انتشار آماری از دو هفتهٔ اول عرضهٔ WoW: Forever، از ساخت بیش از ۱۵ میلیون کاراکتر و تکمیل نزدیک به ۱.۵ میلیارد کوئست خبر داد.",
+   "body_fa": [
+    "بازی WoW: Forever با عبور از مرز ۱۵ میلیون کاراکتر ساخته‌شده و تکمیل نزدیک به ۱.۵ میلیارد کوئست، همچنان به رکوردشکنی‌های خود ادامه می‌دهد. شرکت Blizzard با انتشار پستی در شبکه اجتماعی X (توییتر سابق)، مجموعه‌ای از آمارهای تازه را مربوط به دو هفتهٔ نخست پس از لانچ این بازی به اشتراک گذاشت.",
+    {
+     "t": "h",
+     "x": "آمار عملکرد بازیکنان در دو هفتهٔ نخست"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "کاراکترهای ساخته‌شده: ۱۵,۱۶۰,۱۴۷",
+      "کوئست‌های تکمیل‌شده: ۱,۴۸۰,۳۴۳,۳۵۷",
+      "دشمنان شکست‌خورده: ۹,۷۸۶,۹۲۵,۸۰۶",
+      "گیلدهای ایجادشده: ۱۴۰,۷۶۴",
+      "آیتم‌های کمپی استفاده‌شده: ۲۸,۶۹۶,۳۸۶",
+      "گروه‌های تشکیل‌شده: ۷۱,۳۰۹,۸۸۹",
+      "کشته‌های بخش PvP رقم: ۲۸,۹۳۸,۵۶۹",
+      "مرگ بازیکنان: ۱۹۶,۸۵۱,۷۶۱"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "مرگبارترین باس بازی در این مدت Archmage Arugal در دانجن Shadowfang Keep بوده است.",
+     "kind": "info"
+    },
+    "علاوه بر این آمارها، Holly Longdale نیز در توییتر اعلام کرد که تعداد بازیکنان هفتگی Forever در مقایسه با آنچه طی ۱۵ سال گذشته در WoW دیده شده، بیشتر است."
+   ],
+   "tags_fa": [
+    "Forever",
+    "Blizzard",
+    "آمار بازی"
+   ],
+   "items": [],
+   "title_en": "WoW: Forever Continuing to Break Records With Over 15 Million Characters Created",
+   "source_url": "https://www.wowhead.com/news=383912",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383912-wow-forever-continuing-to-break-records-with-over-15-million-character.html",
+   "published_at": "2026-11-18T00:04:50Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383912/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383912/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383910,
    "slug": "blizzard-removing-gold-and-applying-account-suspensions-to-significant",
@@ -203,6 +255,52 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383908/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383906,
+   "slug": "wow-forever-post-hits-1-on-r-all-many-players-are-very-upset-about-the",
+   "title_fa": "اعتراض گسترده بازیکنان به فارم گلد در Blackmaw Hold و واکنش‌ها در WoW: Forever",
+   "lead_fa": "تزریق حجم بالایی از Gold از طریق فارم Blackmaw Hold در WoW: Forever و اصلاح سریع آن، موج شدیدی از نارضایتی بازیکنان را در شبکه‌های اجتماعی به همراه داشته است.",
+   "body_fa": [
+    "تزریق مقادیر فراوان Gold از طریق یک فارم در Blackmaw Hold و تأثیر آن بر اقتصاد بازی، باعث نارضایتی شدید بازیکنان شده است. بازی WoW: Forever پیش‌تر به عنوان تجربه‌ای معرفی شده بود که باید در آن با آرامش پیش رفت و از مسیر لذت برد. تیم توسعه در مصاحبه‌ای با MMORPG اشاره کرده بود که آن‌ها به بازیکنان اجازه می‌دهند وقت بگذارند و عجله نکنند. با این حال، تزریق هزاران Gold به این اقتصاد نوپا و سپس رفع این روش، باعث شده بسیاری از افراد احساس بی‌عدالتی کنند و تصور کنند باید زودتر بازی را پیش می‌بردند.",
+    "تعداد زیادی از بازیکنان هنوز به لول 55+ نرسیده‌اند تا بتوانند وارد Blackmaw Hold شوند، اما احتمالاً اثرات این حجم از پول بر بازار را حس خواهند کرد. با این میزان از دارایی، برخی کاربران می‌توانند بازارهایی مانند تمامی [[item:Arcane Crystal]] را تحت کنترل خود درآورند و افزایش کلی Gold می‌تواند در حالی که اکثر افراد همچنان در حال لول‌آپ هستند، تورم ایجاد کند.",
+    {
+     "t": "h",
+     "x": "واکنش جامعه بازیکنان"
+    },
+    "جامعه بازیکنان در پلتفرم‌های مختلف به‌طور جدی در حال بحث پیرامون این فارم هستند و از Blizzard می‌خواهند دست به اقدام بزند. در سه ساب‌ردیت اصلی یعنی r/wow و r/wowforever و r/classicwow، تقریباً تمام پست‌های صفحه اول به این موضوع اختصاص یافته است. این نارضایتی تا جایی پیش رفت که دادخواستی برای بن کردن استریمرهای محبوبی که ادعا شده از این فارم سوءاستفاده کرده‌اند، در ساعت 7:55 AM PST به رتبه اول r/all رسید.",
+    {
+     "t": "h",
+     "x": "مسئله ایجاد رویه در بازی"
+    },
+    "در گفتگوهای مربوط به این فارم، بسیاری از عبارت معروف «Exploit Early, Exploit Often» استفاده کرده‌اند؛ عبارتی که معمولاً زمانی به کار می‌رود که یک استراتژی ناخواسته برتری ایجاد کند، رفع شود و پیامدی برای استفاده‌کنندگان نداشته باشد. رخ دادن این حالت باعث سرخوردگی کسانی می‌شود که از آن بهره نبرده‌اند و حس عقب‌ماندگی ایجاد می‌کند.",
+    "نحوه برخورد Blizzard با این ماجرا برای آینده یک رویه ایجاد خواهد کرد. اگر اقدامی صورت نگیرد، ممکن است بازیکنان بیشتری به سمت استفاده از باگ‌ها و روش‌های ناخواسته سوق پیدا کنند. در مقابل، برخورد رسمی نشان می‌دهد که نباید به سراغ روش‌های ناخواسته رفت زیرا دستاوردها باقی نخواهند ماند.",
+    {
+     "t": "quote",
+     "x": "ما متعهد هستیم که بیش از هر زمان دیگری به اقتصاد بازی توجه کنیم و در هر جایی که امکان دارد، بازی جوانمردانه را اعمال کنیم. حفظ سلامت اقتصاد برای ما فوق‌العاده مهم است، به‌ویژه با توجه به اینکه اقتصادها قرار است چقدر بزرگ باشند. ما در مورد آنچه از نظر نقض قوانین اقتصادی تحمل می‌کنیم، موضع بسیار سخت‌گیرانه‌تری اتخاذ می‌کنیم.",
+     "by": "Tim Jones — But Why Tho?"
+    }
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "اقتصاد",
+    "جامعه بازیکنان"
+   ],
+   "items": [],
+   "title_en": "WoW: Forever Post Hits #1 on r/all - Many Players Are Very Upset About the Blackmaw Hold Gold Farm",
+   "source_url": "https://www.wowhead.com/news=383906",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383906-wow-forever-post-hits-1-on-r-all-many-players-are-very-upset-about-the.html",
+   "published_at": "2026-11-17T15:38:22Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383906/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383906/1.jpg",
      "cap": ""
     }
    ]
@@ -3397,114 +3495,15 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383803,
-   "slug": "quests-give-no-gold-at-level-60-in-wow-forever-intentional-change-acco",
-   "title_fa": "حذف پاداش Gold از کوئست‌ها در لول 60 سرورهای WoW: Forever",
-   "lead_fa": "کوئست‌ها در لول 60 سرور WoW: Forever پاداش Gold نمی‌دهند و طبق ادعای Jokerd، این موضوع یک تغییر عمدی از سوی سازندگان است.",
-   "body_fa": [
-    "بازیکن Jokerd که روز گذشته موفق شد به World First لول 60 در سرور WoW: Forever دست پیدا کند، متوجه شده است که کوئست‌ها در بالاترین لول هیچ پاداش Gold اعطا نمی‌کنند.",
-    "در سرورهای Era معمولاً کوئست‌ها در لول نهایی به‌جای Experience، مقدار مشخصی Gold اضافی به بازیکنان می‌دهند؛ اما به نظر می‌رسد این روند در WoW: Forever دستخوش تغییر شده است.",
-    "به گفته Jokerd، او با یکی از توسعه‌دهندگان WoW پیام ردوبدل کرده و او پاسخ داده که این تصمیم عمدی بوده است. همچنین اشاره شده که ممکن است در عوض، یک کوئست Weekly وجود داشته باشد که مقدار تصادفی Gold ارائه دهد.",
-    {
-     "t": "note",
-     "x": "شرکت Blizzard هنوز به‌صورت رسمی درباره این سازوکار یا تغییرات آن بیانیه‌ای صادر نکرده است.",
-     "kind": "info"
-    },
-    "تغییرات اخیر از قبیل اصلاح کارمزد ثبت آیتم‌ها در Auction House و افزودن فروشندگان BMAH که سقفی غیررسمی برای قیمت برخی Reagentها تعیین می‌کنند، نشان می‌دهد Blizzard در پی کنترل اقتصاد بازی است. با این حال تا زمانی که بازیکنان بیشتری به لول 60 نرسند و محتوای Endgame را تجربه نکنند، تأثیر دقیق این ساختار بر گردش اقتصادی مشخص نخواهد شد."
-   ],
-   "tags_fa": [
-    "اقتصاد بازی",
-    "کوئست",
-    "WoW: Forever"
-   ],
-   "items": [],
-   "title_en": "Quests Give No Gold at Level 60 in WoW: Forever - \"Intentional Change\" According to Jokerd",
-   "source_url": "https://www.wowhead.com/news=383803",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383803-quests-give-no-gold-at-level-60-in-wow-forever-intentional-change-acco.html",
-   "published_at": "2026-11-07T20:19:50Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383803/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383803/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383796,
-   "slug": "gms-appeared-in-person-to-celebrate-the-launch-of-wow-forever",
-   "title_fa": "حضور شخصیت‌های GM در بازی به مناسبت عرضه WoW: Forever",
-   "lead_fa": "شخصیت‌های GM پس از سال‌ها برای جشن گرفتن عرضه WoW: Forever مستقیماً در دنیای بازی حاضر شدند و با بازیکنان تعامل داشتند.",
-   "body_fa": [
-    "برای نخستین بار پس از سال‌ها، بازیکنان توانستند شخصیت‌های GM را به صورت زنده در دنیای بازی مشاهده کنند. تعداد زیادی از آن‌ها هم‌زمان با آغاز رسمی WoW: Forever در مناطق مختلف حاضر شدند تا این رویداد را جشن بگیرند.",
-    {
-     "t": "h",
-     "x": "محل حضور و جزئیات جالب درباره GMها"
-    },
-    "بر اساس گزارش‌ها، دیشب حداقل دو بار حضور این شخصیت‌ها در Thunder Bluff به تأیید رسید و دست‌کم در یک منطقه متعلق به Alliance نیز دیده شدند. این اتفاق نشان می‌دهد که Blizzard نیز مانند جامعه بازیکنان برای این عرضه هیجان‌زده است.",
-    {
-     "t": "ul",
-     "xs": [
-      "نام خانوادگی تمامی این شخصیت‌ها Snowstorm بود که ادای احترامی کنایه‌آمیز به شرکت Blizzard به شمار می‌رود.",
-      "تمام شخصیت‌های حاضر برای بازیکنان جوک تعریف می‌کردند.",
-      "حداقل دو رویت تأییدشده در Thunder Bluff و دست‌کم یک مورد در مناطق Alliance ثبت شد."
-     ]
-    },
-    "آخرین باری که شخصیت‌های GM در تعداد بالا داخل دنیای بازی دیده شده بودند، به زمان عرضه Classic Anniversary بازمی‌گردد و از آن زمان تاکنون چنین رخدادی فوق‌العاده نادر یا حتی ناموجود بوده است. در دوران Vanilla معمول بود که یک GM برای پاسخ به تیکت یا شوخی با بازیکنان در محیط بازی حاضر شود، اما این روال با گذشت زمان تقریباً به طور کامل متوقف شد.",
-    {
-     "t": "note",
-     "x": "هنوز مشخص نیست که آیا این حضور یک رویداد یک‌باره بوده یا اینکه در نسخه Forever بیش از نسخه‌های پیشین Classic شاهد حضور شخصیت‌های GM خواهیم بود.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "بازی WoW Forever",
-    "حضور GM",
-    "جامعه بازیکنان"
-   ],
-   "items": [],
-   "title_en": "GMs Appeared In-Person to Celebrate the Launch of WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383796",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383796-gms-appeared-in-person-to-celebrate-the-launch-of-wow-forever.html",
-   "published_at": "2026-11-07T19:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383796/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383796/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383912,
-   "title_en": "WoW: Forever Continuing to Break Records With Over 15 Million Characters Created",
-   "url": "https://www.wowhead.com/news=383912",
-   "category": "Forever",
-   "published_at": "2026-11-18T00:04:50Z"
-  },
   {
    "id": 383907,
    "title_en": "Talebound Releases on December 1st - Patch 12.1.7",
    "url": "https://www.wowhead.com/news=383907",
    "category": "Live",
    "published_at": "2026-11-17T18:01:45Z"
-  },
-  {
-   "id": 383906,
-   "title_en": "WoW: Forever Post Hits #1 on r/all - Many Players Are Very Upset About the Blackmaw Hold Gold Farm",
-   "url": "https://www.wowhead.com/news=383906",
-   "category": "Forever",
-   "published_at": "2026-11-17T15:38:22Z"
   },
   {
    "id": 383905,
