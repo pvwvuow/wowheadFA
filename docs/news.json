@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T05:42:14Z",
+ "generated": "2026-11-18T05:43:52Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3485,6 +3485,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383914,
+   "title_en": "UBRS Damage and Health Increases & Shen'dralas Improvements - WoW: Forever Hotfixes for November 17, 2026",
+   "url": "https://www.wowhead.com/news=383914",
+   "category": "Forever",
+   "published_at": "2026-11-18T03:43:47Z"
+  },
   {
    "id": 383912,
    "title_en": "WoW: Forever Continuing to Break Records With Over 15 Million Characters Created",
