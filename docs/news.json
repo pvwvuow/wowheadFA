@@ -1,8 +1,89 @@
 {
- "generated": "2026-11-18T06:52:40Z",
+ "generated": "2026-11-18T07:59:21Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383914,
+   "slug": "ubrs-damage-and-health-increases-shen-dralas-improvements-wow-forever-",
+   "title_fa": "افزایش سختی UBRS و بهبود روند کوئست‌های منطقه Shen'dralas",
+   "lead_fa": "هاتفیکس‌های ۱۷ نوامبر ۲۰۲۶ برای بازی، سلامتی و دمیج دشمنان در Upper Blackrock Spire را افزایش داده و تغییرات مهمی در روند مأموریت‌های Shen'dralas و دانجن‌ها اعمال کرده است.",
+   "body_fa": [
+    "در به‌روزرسانی اخیر، تنظیمات جدیدی برای افزایش سختی Upper Blackrock Spire در نظر گرفته شده و برخی اشکالات ساختاری در مأموریت‌های Shen'dralas برطرف شده است. در این منطقه لوت مأموریت‌ها برای تمام اعضای پارتی به اشتراک گذاشته می‌شود و آخرین مرحله از یک زنجیره‌کوئست اصلی نیز دستخوش تغییر شده است.",
+    {
+     "t": "h",
+     "x": "تغییرات دانجن‌ها و UBRS"
+    },
+    "یک باگ که موجب شده بود سلامت و میزان آسیب دشمنان در Upper Blackrock Spire به شکلی چشمگیر کمتر از حد مجاز باشد اصلاح شد تا این دانجن بار دیگر به سطح سختی مورد انتظار بازگردد.",
+    {
+     "t": "quote",
+     "x": "این تغییر باید سختی UBRS را دوباره با مقداری که مد نظر بود هماهنگ کند و تمام کردن آن بار دیگر به گروهی کامل از بازیکنان کوشا نیاز دارد.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "h",
+     "x": "بهبودهای منطقه Shen'dralas"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "اهداف تعمیر پایلون در کوئست Powering the Pylons میان اعضای نزدیک در پارتی به اشتراک گذاشته می‌شود.",
+      "آیتم Depleted Crystal Heart برای مأموریت Heart of Crystal برای تمام بازیکنان حاضر در پارتی دراپ می‌شود.",
+      "سرعت فرار کاراکتر Rokren در مأموریت اسکورت Going Home کاهش یافته است.",
+      "ماینرها اکنون می‌توانند Spectral Iron Ore را ردگیری کنند و نرخ ریسپاون آن نیز افزایش یافته است.",
+      "میزان اجرای توانایی‌ها توسط Bristleback Skullcrusher و Decrepit Pylon Protector کاهش یافته است.",
+      "توانایی Summon Undead Ravager که توسط نکرومنسرهای گوناگون اجرا می‌شود اکنون قابل متوقف کردن است.",
+      "مأموریت Agamaggan's Blood دیگر جزو مأموریت‌های دانجن نیست و در محوطه الیت بیرون از Razorfen Downs قابل انجام است."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "تغییرات آیتم‌ها، کمپینگ و کلاس‌ها"
+    },
+    "آیتم Cozy Sleeping Bag دیگر به بازیکنان سوار بر مانت اجازه خوابیدن نمی‌دهد، می‌تواند در مکان‌های مشخص مانند تله‌های هانتر قرار گیرد و یک هاله Resting فراهم می‌کند تا حضور درون محدوده اثر آن مشخص باشد.",
+    "باف‌های Might of Stormwind و Warchief’s Blessing اکنون هنگام مرگ لغو می‌شوند و روی غیربازیکنان اعمال نخواهند شد. همچنین در کلاس Shaman باگی که باعث کاهش اشتباه استک‌های Flurry در اثر ضربات توتم Windfury می‌شد برطرف شده است.",
+    "ست Soulforge Armor برای تانک‌های پالادین به جای استت Strength دارای Spell Power شده است تا این کلاس برای وارد کردن آسیب بیشتر به سمت این ویژگی گرایش یابد. همچنین Shadow Priestها امکان به دست گرفتن Night Watchman’s Torch را پیدا کرده‌اند.",
+    {
+     "t": "note",
+     "x": "دو سلاح Whiteout Staff و Crackling Staff اصلاح شده‌اند تا هر دو مشخصات یکسان ۲۵ Stamina و ۲۵ Intellect به همراه ۷۴ Spell Power ناشی از آسیب سلاح داشته باشند.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "محیط، حرفه‌ها و PvP"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "مأموریت‌های The Battle for Alterac Valley اکنون نیازمند لول ۵۸ هستند و باگ سوار شدن بر مانت در اتاق‌های آغازین Warsong Gulch رفع شده است.",
+      "در Blacksmithing مأموریت The Old Ways رسپی Orcish War Leggings را در قالب آیتم اعطا می‌کند و سلاح Bronze Mace به Bind on Equip تغییر یافته است.",
+      "در Wetlands تراکم Fen Creeper برای مأموریت Blisters on the Land افزایش یافته و سنگ‌های مأموریت Step One: Rock با Find Minerals ردگیری می‌شوند.",
+      "اشکال محو شدن لیست ایگنور پس از خروج از بازی و همچنین باگ رابط کاربری Master Swordsmith، Master Axesmith و Master Hammersmith رفع شد."
+     ]
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "دانجن",
+    "پالادین",
+    "تغییرات کوئست"
+   ],
+   "items": [],
+   "title_en": "UBRS Damage and Health Increases & Shen'dralas Improvements - WoW: Forever Hotfixes for November 17, 2026",
+   "source_url": "https://www.wowhead.com/news=383914",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383914-ubrs-damage-and-health-increases-shen-dralas-improvements-wow-forever-.html",
+   "published_at": "2026-11-18T03:43:47Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383914/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383914/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383912,
    "slug": "wow-forever-continuing-to-break-records-with-over-15-million-character",
@@ -301,6 +382,73 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383906/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383905,
+   "slug": "na-wow-forever-servers-down-for-scheduled-maintenance-for-1-hour",
+   "title_fa": "خاموشی یک‌ساعته سرورهای NA در WoW: Forever به دلیل تعمیرات هفتگی",
+   "lead_fa": "سرورهای ریجن NA بازی WoW: Forever بر اساس برنامه هفتگی، برای حدود یک ساعت جهت انجام تعمیرات از دسترس خارج می‌شوند.",
+   "body_fa": [
+    "طبق برنامه هفتگی تعمیرات، سرورهای ریجن NA در WoW: Forever برای انجام فرایند نگهداری به مدت تقریبی ۱ ساعت از دسترس خارج می‌شوند.",
+    {
+     "t": "note",
+     "x": "این قطعی موقت حدود یک ساعت برآورد شده و بر اساس جدول زمان‌بندی هفتگی سرورهای آمریکای شمالی انجام می‌گیرد. (شناسه خبر: 383905، ثبت‌شده در حدود 16 ساعت و 54 دقیقه پیش در تاریخ 17-11-2026).",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "اطلاعات و آمارهای ثبت‌شده"
+    },
+    {
+     "t": "table",
+     "head": [
+      "موضوع گزارش‌شده",
+      "مقدار یا نسخه"
+     ],
+     "rows": [
+      [
+       "نسخه پچ ثبت‌شده در بازخوردها",
+       "1.60.1"
+      ],
+      [
+       "تعداد کاراکترهای ساخته‌شده در WoW: Forever",
+       "بیش از 15 میلیون"
+      ],
+      [
+       "سالگرد بازی World of Warcraft",
+       "جشن 22 سالگی"
+      ],
+      [
+       "ساعت کاری هفتگی همسایه در متن بازخوردها",
+       "20 ساعت"
+      ],
+      [
+       "بازه ردیف نظرات کاربران",
+       "1 تا 4 از 4"
+      ]
+     ]
+    },
+    "در بخش گزارش‌ها و اخبار هم‌زمان سرورها نیز زمان‌بندی‌هایی نظیر رویدادهای 4، 7، 10، 13 و 14 ساعته گذشته و مواردی چون اقدامات 17 نوامبر به چشم می‌خورد که همگی نشان‌دهنده فعالیت‌های جاری پیرامون پچ و سرورها هستند."
+   ],
+   "tags_fa": [
+    "تعمیرات سرور",
+    "WoW Forever"
+   ],
+   "items": [],
+   "title_en": "NA WoW: Forever Servers Down for Scheduled Maintenance for 1 Hour",
+   "source_url": "https://www.wowhead.com/news=383905",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383905-na-wow-forever-servers-down-for-scheduled-maintenance-for-1-hour.html",
+   "published_at": "2026-11-17T14:54:56Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383905/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383905/1.jpg",
      "cap": ""
     }
    ]
@@ -3399,125 +3547,15 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383802,
-   "slug": "the-darkmoon-faire-is-coming-to-elwynn-forest-first-in-wow-forever",
-   "title_fa": "برگزاری نخستین رویداد Darkmoon Faire در Elwynn Forest برای سرور WoW Forever",
-   "lead_fa": "رویداد Darkmoon Faire برای نخستین بار در WoW Forever به منطقه Elwynn Forest می‌آید و به مدت یک هفته فعال خواهد بود.",
-   "body_fa": [
-    "رویداد نمادین Darkmoon Faire نخستین توقف خود را در WoW Forever در منطقه Elwynn Forest تجربه خواهد کرد و این موضوع مزیت میزبانی اولیه را در اختیار فکشن Alliance قرار می‌دهد. بازیکنان حاضر در منطقه می‌توانند مراحل برپایی این رویداد را مشاهده کنند.",
-    "تقویم درون بازی مشخص کرده است که این رویداد از روز دوشنبه آغاز می‌شود و برای مدت یک هفته ادامه خواهد داشت.",
-    {
-     "t": "h",
-     "x": "سرگرمی‌ها، جوایز و وضعیت ورلد باف"
-    },
-    "این کارناوال شامل مینی‌گیم‌های سرگرم‌کننده، فارم اعتبار و آیتم‌های کمیاب است. با این حال، یکی از اهداف اصلی بازیکنان در Classic WoW دریافت باف محیطی Sayge's Dark Fortune of Damage بود که افزایشی معادل ۱۰٪ در میزان آسیب واردشده به مدت ۲ ساعت فراهم می‌کرد.",
-    {
-     "t": "note",
-     "x": "ورلد باف‌ها در سرور Forever همانند گذشته عمل نمی‌کنند؛ این باف‌ها در ریدها مجاز نخواهند بود، اما همچنان در محیط باز جهان بازی فعال هستند.",
-     "kind": "info"
-    },
-    "با توجه به اینکه این رویداد نخستین تجربه Darkmoon Faire در این سرور محسوب می‌شود، هنوز مشخص نیست که آیا شگفتی‌ها یا ویژگی‌های جدیدی به آن افزوده شده است یا خیر و باید تا زمان فعال‌سازی کامل رویداد منتظر ماند."
-   ],
-   "tags_fa": [
-    "رویداد",
-    "Forever",
-    "ورلد باف"
-   ],
-   "items": [],
-   "title_en": "The Darkmoon Faire is Coming To Elwynn Forest First in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383802",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383802-the-darkmoon-faire-is-coming-to-elwynn-forest-first-in-wow-forever.html",
-   "published_at": "2026-11-08T15:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383802/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383802/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383805,
-   "slug": "layering-issues-in-thousand-needles-harpy-cave-result-in-quest-competi",
-   "title_fa": "مشکلات Layering در غار هارپی‌های Thousand Needles و رقابت شدید برای کوئست‌ها",
-   "lead_fa": "اختلال در سیستم Layering در غار Roguefeather Den واقع در Thousand Needles باعث ازدحام بیش از حد بازیکنان و رقابت سنگین بر سر ماب‌های کوئست شده است.",
-   "body_fa": [
-    "در منطقهٔ Thousand Needles، غاری پر از هارپی به نام Roguefeather Den وجود دارد که چندین کوئست بازیکنان را به درون آن هدایت می‌کند. با این حال، به نظر می‌رسد سیستم Layering درون این غار دچار اختلال شده و تعداد بسیار زیادی از بازیکنان را در فضایی کوچک گرد هم آورده است.",
-    {
-     "t": "h",
-     "x": "کوئست‌های تحت تأثیر در Roguefeather Den"
-    },
-    "این منطقه میزبان مجموعه‌ای از ماب‌ها و کوئست‌ها است که تکمیل آن‌ها به دلیل رقابت شدید بازیکنان با مشکل مواجه شده است:",
-    {
-     "t": "ul",
-     "xs": [
-      "Test of Endurance",
-      "Stop the Screeching",
-      "Stolen Freewind Supplies"
-     ]
-    },
-    "این ازدحام موجب شده رقابت بسیار سنگینی برای تگ کردن ماب‌های اهداف کوئست ایجاد شود. به طور خاص، ماب‌های Grenka Bloodscreech و Screeching Windcaller زمان ریسپاون نادرتر و طولانی‌تری دارند و به دلیل همین اختلالات لیرینگ، اتمام کوئست‌های مربوط به آن‌ها ممکن است زمان زیادی ببرد.",
-    {
-     "t": "h",
-     "x": "نشانه‌های ادغام ناقص لیرها"
-    },
-    "درون این غار پدیده‌های عجیبی مشاهده می‌شود؛ از جمله این‌که بازیکنان دیگر در حال حمله به اهدافی دیده می‌شوند در حالی که خود هدف برای شما قابل مشاهده نیست. علاوه بر این، افکت سایلنس محیطی (AoE silence) هارپی‌هایی که در لیرهای دیگر قرار دارند به شما اصابت می‌کند، بدون این‌که چیزی در لیر خودتان ببینید. این وضعیت نشان می‌دهد که لیرها تنها به صورت ناقص ادغام شده‌اند.",
-    "از زمان عرضهٔ WoW: Forever باگ‌های عجیبی در سیستم لیرینگ گزارش شده است؛ در روز اول بازیکنان از خلوت بودن بیش از حد مناطق شکایت داشتند، اما در حال حاضر گزارش‌ها از شلوغی بیش از حد و لزوم رقابت برای ریسپاون ماب‌های کوئست حکایت دارد. به بازیکنانی که این ماب‌ها را در دست دارند پیشنهاد می‌شود انجام آن‌ها را به بعد یا پس از رفع این ایرادات موکول کنند.",
-    {
-     "t": "note",
-     "x": "در کوئست Test of Endurance باگ دیگری نیز وجود دارد؛ اگر پس از لوت کردن claw هدف کوئست شما به‌روزرسانی نشد، برای ثبت آن باید یک بار relog کنید.",
-     "kind": "warn"
-    }
-   ],
-   "tags_fa": [
-    "باگ",
-    "WoW Forever",
-    "لیرینگ",
-    "Thousand Needles"
-   ],
-   "items": [],
-   "title_en": "Layering Issues in Thousand Needles Harpy Cave Result in Quest Competition Issues",
-   "source_url": "https://www.wowhead.com/news=383805",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383805-layering-issues-in-thousand-needles-harpy-cave-result-in-quest-competi.html",
-   "published_at": "2026-11-08T03:11:52Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383805/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383805/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383914,
-   "title_en": "UBRS Damage and Health Increases & Shen'dralas Improvements - WoW: Forever Hotfixes for November 17, 2026",
-   "url": "https://www.wowhead.com/news=383914",
-   "category": "Forever",
-   "published_at": "2026-11-18T03:43:47Z"
-  },
   {
    "id": 383907,
    "title_en": "Talebound Releases on December 1st - Patch 12.1.7",
    "url": "https://www.wowhead.com/news=383907",
    "category": "Live",
    "published_at": "2026-11-17T18:01:45Z"
-  },
-  {
-   "id": 383905,
-   "title_en": "NA WoW: Forever Servers Down for Scheduled Maintenance for 1 Hour",
-   "url": "https://www.wowhead.com/news=383905",
-   "category": "Forever",
-   "published_at": "2026-11-17T14:54:56Z"
   },
   {
    "id": 383903,
