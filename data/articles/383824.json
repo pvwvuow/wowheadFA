@@ -703,8 +703,8 @@
  },
  "status": "new",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
- "hold_count": 1,
- "hold_at": "2026-11-10T22:26:00Z",
+ "hold_count": 2,
+ "hold_at": "2026-11-18T01:35:25Z",
  "last_rejected": {
   "title_fa": "اصلاح سلاح کلس Enhancement Shaman در بازی WoW: Forever با هاتفیکس جدید",
   "lead_fa": "بلیزارد در ریست هفتگی اخیر، سرعت ضربه و مشخصات سلاح کلس Enhancement Shaman یعنی Rage of the Storm را در WoW: Forever تغییر داد.",

@@ -1,8 +1,212 @@
 {
- "generated": "2026-11-17T20:42:57Z",
+ "generated": "2026-11-18T01:36:59Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383910,
+   "slug": "blizzard-removing-gold-and-applying-account-suspensions-to-significant",
+   "title_fa": "برخورد بلیزارد با سواستفاده‌کنندگان از فارم Blackmaw Hold و حذف گلدها",
+   "lead_fa": "بلیزارد اعلام کرد تمام گلد به‌دست‌آمده از باگ Blackmaw Hold را حذف می‌کند و حساب کاربری سواستفاده‌کنندگان اصلی را به حالت تعلیق درمی‌آورد.",
+   "body_fa": [
+    "طی روزهای گذشته گروه بزرگی از دشمنان غیرالیت در دانجن Blackmaw Hold شناسایی شدند که به اشتباه لوت کامل یک دشمن الیت را دراپ می‌کردند. بلیزارد روز گذشته با انتشار یک هاتفیکس این باگ را برطرف کرد و هم‌زمان بررسی اثرات اقتصادی آن را آغاز نمود.",
+    {
+     "t": "quote",
+     "x": "بازیکنانی که صرفاً چند بار دانجن Blackmaw Hold را تمام کرده و به شکل طبیعی از لوت اضافی سود برده‌اند خطایی نکرده‌اند و هیچ‌کس نباید نگران به خطر افتادن حساب خود به خاطر بهره‌مندی تصادفی از یک باگ باشد. اما چند صد بازیکن در سراسر جهان متوجه این موضوع شدند که این قضیه عمدی نیست و زمان قابل‌توجهی را فقط به فارم آن گروه از دشمنان اختصاص دادند. دیروز برای جلوگیری از اثرات گسترده‌تر بر اقتصاد بازی، روی حساب‌های این دسته از بازیکنان قفل اقتصادی اعمال کردیم تا میزان این سودهای سوءاستفاده‌جویانه، از جمله گلد حاصل از فروش آیتم‌های باگ‌خورده به وندورها را بررسی کنیم. امروز نیز در حال حذف تمامی این گلدهای به‌دست‌آمده و تعلیق حساب بازیکنان خاطی اصلی هستیم.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "note",
+     "x": "بلیزارد تأکید کرده است بازیکنانی که به شکل اتفاقی و با انجام عادی این دانجن لوت دریافت کرده‌اند با جریمه‌ای روبه‌رو نخواهند شد.",
+     "kind": "info"
+    },
+    "تیم توسعه اعلام کرده است که نظارت بر اقتصاد بازی و متعادل نگه داشتن منابع درآمدی گلد را ادامه می‌دهد و با هرگونه سوءاستفاده عمدی از مکانیک‌های معیوب بازی مقابله خواهد کرد."
+   ],
+   "tags_fa": [
+    "بلیزارد",
+    "هاتفیکس",
+    "تعلیق اکانت",
+    "اقتصاد بازی"
+   ],
+   "items": [],
+   "title_en": "Blizzard Removing Gold and Applying Account Suspensions to Significant Abusers of Blackmaw Hold Farm",
+   "source_url": "https://www.wowhead.com/news=383910",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383910-blizzard-removing-gold-and-applying-account-suspensions-to-significant.html",
+   "published_at": "2026-11-17T18:39:41Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383910/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383910/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383909,
+   "slug": "spell-power-added-to-soulforge-paladin-armor-item-hotfixes-in-wow-fore",
+   "title_fa": "اضافه شدن Spell Power به ست Soulforge پالادین در WoW: Forever",
+   "lead_fa": "جدیدترین هاتفیکس‌های بازی WoW: Forever مشخصات برخی آیتم‌ها را تغییر داده و Spell Power را به ست زره Soulforge کلاس Paladin افزوده است.",
+   "body_fa": [
+    "در تازه‌ترین تغییرات اعمال‌شده برای آیتم‌های WoW: Forever، ست دانجن Soulforge ویژه کلاس Paladin دستخوش دگرگونی شده است؛ ویژگی Strength از این ست حذف شده، مقدار Intellect افزایش یافته و Spell Power به تمامی قطعات آن اضافه شده است.",
+    {
+     "t": "h",
+     "x": "تغییرات ست Soulforge برای Paladin"
+    },
+    {
+     "t": "table",
+     "head": [
+      "قطعه زره",
+      "تغییرات مشخصات"
+     ],
+     "rows": [
+      [
+       "[[item:Soulforge Wristguards]]",
+       "دارای ۸+ Intellect (قبلاً ۵+) و ۶+ Spell Power"
+      ],
+      [
+       "[[item:Soulforge Waistguard]]",
+       "دارای ۱۳+ Intellect (قبلاً ۱۰+) و ۱۲+ Spell Power"
+      ],
+      [
+       "[[item:Soulforge Pauldrons]]",
+       "دارای ۱۲+ Intellect (قبلاً ۸+) و ۹+ Spell Power"
+      ],
+      [
+       "[[item:Soulforge Legguards]]",
+       "دارای ۱۶+ Intellect (قبلاً ۱۴+) و ۱۶+ Spell Power"
+      ],
+      [
+       "[[item:Soulforge Faceguard]]",
+       "دارای ۱۸+ Intellect (قبلاً ۱۱+) و ۱۳+ Spell Power"
+      ],
+      [
+       "[[item:Soulforge Handguards]]",
+       "دارای ۱+ Intellect (قبلاً ۱۰+) و ۱۲+ Spell Power"
+      ],
+      [
+       "[[item:Soulforge Sabatons]]",
+       "دارای ۱۲+ Intellect (قبلاً ۷+) و ۸+ Spell Power"
+      ],
+      [
+       "[[item:Soulforge Chestguards]]",
+       "دارای ۱۸+ Intellect (قبلاً ۱۲+) و ۱۴+ Spell Power"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "سایر تغییرات آیتم‌ها"
+    },
+    "علاوه بر ست دانجن، چند آیتم و کارت دیگر نیز تغییراتی در آمار و عملکرد خود داشته‌اند:",
+    {
+     "t": "ul",
+     "xs": [
+      "آیتم [[item:Everstaring Abomination Eye]] اکنون ۶+ Spirit می‌دهد (قبلاً ۱۴+ بود).",
+      "آیتم [[item:Escape Plan]] اکنون ۵۴-۱۰۲ آسیب (Damage) وارد می‌کند (قبلاً ۷۰ بود).",
+      "ترینکت [[item:Darkmoon Card: Blue Dragon]] اکنون ۳٪ شانس فعال‌سازی دارد (قبلاً ۲٪ بود).",
+      "ترینکت [[item:Darkmoon Card: Heroism]] اکنون ۱۵۸ تا ۲۳۸ هیل می‌کند (قبلاً ۱۲۰ تا ۱۸۰ بود) و در Strongholds و Cities نیز دو برابر بیشتر فعال می‌شود.",
+      "ترینکت [[item:Darkmoon Card: Maelstrom]] اکنون دو برابر آسیب بیشتر به دشمنان از نوع aquatic وارد می‌کند."
+     ]
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "WoW Forever",
+    "آیتم",
+    "Paladin"
+   ],
+   "items": [],
+   "title_en": "Spell Power Added to Soulforge Paladin Armor - Item Hotfixes in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383909",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383909-spell-power-added-to-soulforge-paladin-armor-item-hotfixes-in-wow-fore.html",
+   "published_at": "2026-11-17T18:37:40Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383909/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383909/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383908,
+   "slug": "echoes-of-the-worldcore-patch-12-1-7-releases-on-december-1",
+   "title_fa": "پچ 12.1.7 با عنوان Echoes of the Worldcore در تاریخ ۱ دسامبر منتشر می‌شود",
+   "lead_fa": "به‌روزرسانی محتوایی بعدی با نام Echoes of the Worldcore در تاریخ ۱ دسامبر همراه با کمپین داستانی تازه، حالت Talebound و ماموریت‌های جدید Lorewalking در دسترس قرار می‌گیرد.",
+   "body_fa": [
+    "پچ 12.1.7 در تاریخ ۱ دسامبر هم‌زمان با نگهداری هفتگی منطقه‌ای عرضه خواهد شد. در این به‌روزرسانی محتوایی، بازیکنان به Dornogal بازمی‌گردند تا مسیر ورود به Worldcore را بازیابی کنند، در حالت جدید Talebound با روایت‌های ماورایی روبه‌رو شوند و همراه با Li Li Stormstout در جریان داستان‌های تاریخی Azeroth قدم بردارند.",
+    {
+     "t": "h",
+     "x": "کمپین داستانی: The Return to Dornogal"
+    },
+    "ساختار Worldcore توسط Xal’atath شکسته شده و تنها مسیر دستیابی به آن از میان Coreway آسیب‌دیده در Dornogal می‌گذرد. در این کمپین جدید، بازیکنان در کنار شخصیت‌های Arator، Brinthe، Dagran و Brann تلاش می‌کنند تا راه دسترسی دوباره به Coreway و اعماق Worldcore را بیابند.",
+    {
+     "t": "h",
+     "x": "حالت بازی Talebound"
+    },
+    "رویداد Talebound یک حالت بازی جدید در سبک اکشن نقش‌آفرینی (action RPG) برای بخش PvE است. در این بخش، بازیکنان وارد وقایع تاریک یک Storyteller مرموز می‌شوند و ماجراهای هولناک او را از نزدیک تجربه می‌کنند.",
+    {
+     "t": "h",
+     "x": "ماموریت‌های Lorewalking با حضور Li Li Stormstout"
+    },
+    "شخصیت Apprentice Lorewalker Li Li Stormstout در شهرهای Stormwind، Orgrimmar و Silvermoon City مستقر خواهد شد تا رویدادهای شاخص تاریخ Azeroth را برای بازیکنان سطح 10 و بالاتر روایت کند. این ماجراجویی شامل چهار خط داستانی مختلف است:",
+    {
+     "t": "ul",
+     "xs": [
+      "Jaina: بررسی مسیر زندگی Jaina Proudmoore، فراز و نشیب‌های او و تاثیری که Daughter of the Sea بر تاریخ گذاشته است.",
+      "Thrall: مروری بر نقش‌های گوناگون Thrall در مقام برده، وارچیف، شامان، پدر و کشاورز و تصمیم‌های دشوار او.",
+      "Titans: بررسی پیشینه تایتان‌ها، چگونگی آشنایی با آن‌ها و اهداف واقعی این موجودات قدرتمند.",
+      "Tyr: بررسی جایگاه نگهبان تایتان‌ها Tyr پس از بازگشت دوباره‌اش و تاثیری که بر آینده جهان خواهد داشت."
+     ]
+    },
+    "در طول تجربه Lorewalking، رابط کاربری ویژه‌ای در زیر مینی‌مپ فعال می‌شود که به بازیکنان امکان می‌دهد با فشردن دکمه Ask a Question درباره جزییات کلیدی داستان سوال بپرسند یا با کلیک روی علامت X از آن خارج شوند. این ماجراها بدون محدودیت قابل تکرار هستند.",
+    {
+     "t": "note",
+     "x": "در حین حضور در سیستم Lorewalking نمی‌توان هیچ کوئست دیگری را آغاز کرد یا ادامه داد. با وجود امکان متوقف کردن و بازگشت به داستان، در صورت شروع یک خط داستانی دیگر پیش از اتمام روایت قبلی، تمامی پیشرفت شما در آن ریست خواهد شد.",
+     "kind": "warn"
+    },
+    {
+     "t": "h",
+     "x": "بازگشت رویداد Turbulent Timeways"
+    },
+    "رویداد Turbulent Timeways هم‌زمان با آغاز این پچ به مدت هشت هفته در دسترس خواهد بود. بازیکنانی که بتوانند در طول این رویداد، اچیومنت Master of the Turbulent Timeways VI را با حفظ باف Mastery of the Timeways به مدت هر چهار هفته اختیاری تکمیل کنند، مانت هوایی Markeet of the Infinite Skyriding Mount را به دست خواهند آورد. به‌علاوه، فروشندگان Timewalking آیتم‌های دکوری جدیدی برای Housing Decor عرضه می‌کنند. اتمام هر دانجن این بخش ۵٪ باف تجمعی Knowledge of the Timeways می‌دهد که پس از ۴ بار پاکسازی به باف ۳۰ درصدی کسب تجربه با نام Mastery of Timeways ارتقا می‌یابد. همچنین کوئست‌های Timewalking در Silvermoon City از طرف Archmage Aethas Sunreaver برای مدتی محدود صندوقچه Cache of Quel'Thalas Treasures را در سطح Heroic ارائه خواهند داد. گسترش Omnium Folio در این به‌روزرسانی، بازیکنان می‌توانند ۲ عدد Motes of Omnial Inquiry تازه کسب کنند و به ۲ رون جدید دسترسی داشته باشند:",
+    {
+     "t": "ul",
+     "xs": [
+      "رون Rune of Empowerment: مقدار آمار دریافتی از رون‌های Critical Power، Burning Haste، Masterful Cunning یا Versatile Warrior را ۲۰٪ افزایش می‌دهد.",
+      "رون Rune of Critical Mass: در صورت استفاده از Rune of Void-Touched Orbs، وارد کردن صدمه یا هیلینگ شانس فراخوانی ۳ گوی با دمیج Void به دشمنان یا هیل به یاران در فاصله ۵ یاردی را دارد. همچنین با Core Rune مدل Rune of Unleashed Fire، شانس ایجاد انفجار با دمیج Fire تقسیم‌شده بین دشمنان یا هیل تقسیم‌شده بین یاران در فاصله 10 یاردی فراهم می‌شود."
+     ]
+    },
+    "برای کسب اطلاعات بیشتر درباره Sunstrider Omnium و تاریخچه آن، می‌توان با Magister Umbric، Grand Magister Rommath یا Custodian Veldharin در محوطه Lycaneum واقع در جزیره Isle of Quel’Danas گفتگو کرد."
+   ],
+   "tags_fa": [
+    "پچ 12.1.7",
+    "Midnight",
+    "Echoes of the Worldcore",
+    "رویداد Timewalking"
+   ],
+   "items": [],
+   "title_en": "Echoes of the Worldcore - Patch 12.1.7 Releases on December 1",
+   "source_url": "https://www.wowhead.com/news=383908",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383908-echoes-of-the-worldcore-patch-12-1-7-releases-on-december-1.html",
+   "published_at": "2026-11-17T18:13:26Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383908/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383908/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383901,
    "slug": "last-chance-to-pre-order-d-d-world-of-warcraft-for-in-game-rewards",
@@ -3278,203 +3482,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383781,
-   "slug": "black-market-auction-house-global-raid-launch-quest-helpers-mrgm-inter",
-   "title_fa": "جزئیات مصاحبه جدید سازندگان درباره WoW: Forever، از سیستم‌های مدرن تا ریدها",
-   "lead_fa": "در گفت‌وگوی تازه سازندگان WoW: Forever، جزئیاتی پیرامون زمان عرضه ریدها، اضافه شدن قابلیت‌های راهنمای کوئست، اقتصاد بازی و Black Market Auction House به اشتراک گذاشته شد.",
-   "body_fa": [
-    "در یک مصاحبه جدید با حضور Kris Zierhut و Josh Greenfield، ابعاد مختلفی از ساختار گیم‌پلی، خطوط داستانی و ویژگی‌های اقتصادی در بازی مورد بحث قرار گرفت. اقتصاد و سیستم Black Market Auction House",
-    "توسعه‌دهندگان اشاره کردند که در یک بازی MMO، بازیکنان حکم دستگاه‌های چاپ پول متحرک را دارند و برای جلوگیری از تورم در طول زمان، باید راه‌هایی برای خرج کردن گلد وجود داشته باشد. سیستم Black Market Auction House برای عرضه اقلامی در نظر گرفته شده که بازیکنان حاضر به صرف طلا برای آن‌ها هستند.",
-    {
-     "t": "ul",
-     "xs": [
-      "عرضه اقلام در زمان انتشار به شکل محتاطانه خواهد بود و تنها شامل چند Mount و Pet می‌شود.",
-      "اقلامی مانند تکه‌های Dungeon Set برای تکمیل ماموریت Lord Valthalak Laid to Rest و کلاه Gandling در این بخش قرار می‌گیرند.",
-      "فروشنده مجزایی برای منابع کمیاب مانند Black Lotus ایجاد شده تا سقفی برای قیمت‌ها تعیین کند.",
-      "آیتم Rivendare's Deathcharger دیگر در BMAH حضور ندارد و NPCهای این بخش نیز ارجاعی به Madam Goya هستند."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "زمان‌بندی و درجه سختی ریدها"
-    },
-    "طبق اعلام انجام‌شده، عرضه جهانی ریدها در تاریخ ۹ دسامبر خواهد بود. سازندگان ترجیح می‌دهند پیچیدگی باس‌ها تا سطح ادان‌های پیشرفته بالا نرود و ایده یک بازی به نسبت ساده با امکان آماده‌سازی بالا و در عین حال تنبیه‌کننده را حفظ کنند.",
-    {
-     "t": "quote",
-     "x": "مبارزات آن‌قدر طولانی خواهند بود که بتوانید از کول‌داون‌های خود چندین بار استفاده کنید. مبارزات ۴۵ ثانیه‌ای در ریدها نخواهیم داشت. سطح سختی به اندازه ریدهای Mythic در Retail نیست، اما از آنچه بازیکنان در Classic عادت دارند طولانی‌تر است.",
-     "by": "Blizzard"
-    },
-    "سختی مبارزات به طور کلی در حد باس‌های Naxxramas هدف‌گذاری شده است (سخت‌تر از Molten Core، اما نه به اندازه Four Horsemen). دانجن Barrow Deeps نیز فضایی بیشتر شبیه Karazhan دارد تا UBRS، و بازیکنان پس از چند هفته یا ماه قادر خواهند بود آن را با گروه‌های Pug بروند.",
-    {
-     "t": "h",
-     "x": "نقشه‌ها و ساختار محیطی"
-    },
-    "تیم بازی تاکید کرد که برنامه‌ای برای اضافه کردن مانت‌های پرنده به این بازی وجود ندارد؛ با این حال، طراحی محیط‌ها و نقشه‌ها به گونه‌ای انجام می‌شود که گویی امکان پرواز وجود دارد تا خلأهای خالی در دنیای بازی به چشم نخورد. همچنین منطقه Gilneas در حال حاضر نسخه Cataclysm است اما پس از رفتن بازیکنان به آنجا برنامه‌های زیادی برایش در نظر گرفته شده است.",
-    {
-     "t": "h",
-     "x": "قابلیت‌های مدرن و راهنمای کوئست‌ها"
-    },
-    "به منظور کاهش وابستگی به ادان‌هایی مثل Questie، راهنماهای سبک‌تری برای کوئست‌ها در رابط کاربری تعبیه شده است. سازندگان خطوط قرمز مشخصی را برای محتوایی که نباید افزوده شود تعیین کرده‌اند:",
-    {
-     "t": "ul",
-     "xs": [
-      "عدم افزودن Flying Mounts",
-      "عدم وجود Rated Arenas",
-      "نبود Shared Mob Tagging",
-      "حذف نشانگرهای جهت‌یابی مسیر موجود در Retail به دلیل عمودی نبودن زیاد محیط‌های Classic"
-     ]
-    },
-    {
-     "t": "note",
-     "x": "هر باس شانس کمی برای دراپ آیتم‌های Chase با آیتم‌لول بالاتر خواهد داشت و علاوه بر مواردی مانند Dragonspine Trophy، یک Staff افسانه‌ای (Legendary) جدید نیز رونمایی شده است.",
-     "kind": "info"
-    },
-    "تیم بازی همچنین اطلاعات آیتم‌ها را رمزگذاری کرده تا تا پیش از پیدا شدن توسط بازیکنان ارسال نشود. برای اهداف پایداری سرورها یک PTR عمومی وجود خواهد داشت، اما احتمالاً ریدها روی آن تست نخواهند شد تا هیجان کشف دسته‌بندی کلاس‌ها و لوت دست‌نخورده باقی بماند."
-   ],
-   "tags_fa": [
-    "مصاحبه",
-    "WoW Forever",
-    "رید",
-    "BMAH"
-   ],
-   "items": [],
-   "title_en": "Black Market Auction House, Global Raid Launch, Quest Helpers - MrGM Interview on WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383781",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383781-black-market-auction-house-global-raid-launch-quest-helpers-mrgm-inter.html",
-   "published_at": "2026-11-07T15:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383781/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383781/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383798,
-   "slug": "wow-forever-makes-history-with-biggest-launch-ever",
-   "title_fa": "رکوردشکنی تاریخی WoW: Forever با بزرگ‌ترین عرضه در تاریخ بازی",
-   "lead_fa": "شرکت Blizzard با انتشار پیامی اعلام کرد که عرضه WoW: Forever به بزرگ‌ترین لانچ تاریخ این بازی تبدیل شده است.",
-   "body_fa": [
-    "شرکت Blizzard اعلام کرد که WoW: Forever با ثبت رکوردی تاریخی، عنوان بزرگ‌ترین لانچ را در تمام دوران این بازی به دست آورده است.",
-    "این توسعه‌دهنده در شبکه اجتماعی X (توییتر سابق) با تشکر از بازیکنان، به دو دستاورد و نقطه عطف بزرگ مربوط به عرضه WoW: Forever اشاره کرد.",
-    {
-     "t": "ul",
-     "xs": [
-      "بزرگ‌ترین لانچ در تاریخ WoW از نظر اوج بازیکنان هم‌زمان (peak concurrent players)",
-      "بالاترین تعداد بازیکنان بازگشته (returning players) در تاریخ WoW"
-     ]
-    },
-    {
-     "t": "quote",
-     "x": "به همه تبریک می‌گوییم، شما تاریخ‌ساز شدید! WoW: Forever به بزرگ‌ترین لانچ در تاریخ WoW از نظر اوج بازیکنان هم‌زمان و بالاترین تعداد بازیکنان بازگشته در تاریخ WoW دست یافته است. تمام این‌ها به خاطر شما بازیکنان است. از طرف همه ما، متشکریم!",
-     "by": "Blizzard"
-    }
-   ],
-   "tags_fa": [
-    "WoW: Forever",
-    "بلیزارد",
-    "رکورد"
-   ],
-   "items": [],
-   "title_en": "WoW: Forever Makes History with Biggest Launch Ever!",
-   "source_url": "https://www.wowhead.com/news=383798",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383798-wow-forever-makes-history-with-biggest-launch-ever.html",
-   "published_at": "2026-11-07T04:18:40Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383798/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383798/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383797,
-   "slug": "world-first-level-60s-in-wow-forever-in-less-than-three-days",
-   "title_fa": "ثبت اولین لول ۶۰ جهان در WoW: Forever طی کمتر از سه روز",
-   "lead_fa": "یک گروه پنج‌نفره موفق شد پس از نزدیک به ۵۲ ساعت تلاش هماهنگ، عنوان World First لول ۶۰ را در سرور WoW: Forever به نام خود ثبت کند.",
-   "body_fa": [
-    "عنوان اولین لول ۶۰ جهان در سرور WoW: Forever به طور هم‌زمان توسط یک گروه پنج‌نفره به دست آمد. این ماراتن سرعتی در کمتر از سه روز و پس از نزدیک به ۵۲ ساعت تلاش مداوم به پایان رسید.",
-    {
-     "t": "h",
-     "x": "اعضای تیم رکورددار"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "Jokerd Prime",
-      "Burning Speed",
-      "Cloud Bells",
-      "Lmgd Mmr",
-      "Vitochie Gofast"
-     ]
-    },
-    {
-     "t": "h",
-     "x": "استراتژی و همگام‌سازی Experience"
-    },
-    "این گروه پنج‌نفره با روش پول کردن دسته‌های عظیم از mobها و سپس نابود کردن سریع آن‌ها با آسیب AoE، بیشترین بهره‌وری را در دریافت Experience ثبت کردند. در این شیوه، Paladin گروه وظیفه جمع‌آوری همه دشمنان را بر عهده داشت و سپس Mageها با استفاده از Arcane Explosion آن‌ها را از بین می‌بردند.",
-    "اعضای این تیم دقت بسیار زیادی به خرج دادند تا میزان دریافت Experience تا جای ممکن میان همه همگام باشد. همان‌طور که Jokerd در استریم خود توضیح داد، حتی یک امتیاز Experience می‌توانست باعث عقب افتادن یک بازیکن از سایرین شود.",
-    {
-     "t": "note",
-     "x": "چهار درصد پایانی لول ۵۹ سخت‌ترین مرحله این مسیر بود و برای همگام نگه داشتن بازیکنان، محاسبات دقیق و گسترده‌ای انجام گرفت تا مشخص شود چه زمانی و کدام mobها کشته شوند.",
-     "kind": "info"
-    },
-    "به گفته Jokerd، او پس از استراحت اعضای تیم احتمالاً طی روز آینده در استریم خود تمام تدارکات و برنامه‌ریزی‌های این دستاورد را با جزئیات بررسی خواهد کرد."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "World First",
-    "لولینگ"
-   ],
-   "items": [],
-   "title_en": "World First Level 60s in WoW: Forever in Less Than Three Days",
-   "source_url": "https://www.wowhead.com/news=383797",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383797-world-first-level-60s-in-wow-forever-in-less-than-three-days.html",
-   "published_at": "2026-11-07T03:11:19Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383797/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383797/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383910,
-   "title_en": "Blizzard Removing Gold and Applying Account Suspensions to Significant Abusers of Blackmaw Hold Farm",
-   "url": "https://www.wowhead.com/news=383910",
-   "category": "Forever",
-   "published_at": "2026-11-17T18:39:41Z"
-  },
-  {
-   "id": 383909,
-   "title_en": "Spell Power Added to Soulforge Paladin Armor - Item Hotfixes in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383909",
-   "category": "Forever",
-   "published_at": "2026-11-17T18:37:40Z"
-  },
-  {
-   "id": 383908,
-   "title_en": "Echoes of the Worldcore - Patch 12.1.7 Releases on December 1",
-   "url": "https://www.wowhead.com/news=383908",
-   "category": "Live",
-   "published_at": "2026-11-17T18:13:26Z"
-  },
   {
    "id": 383907,
    "title_en": "Talebound Releases on December 1st - Patch 12.1.7",
@@ -3733,6 +3743,13 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }

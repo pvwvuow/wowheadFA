@@ -108,12 +108,90 @@
   ],
   "chars": 1396
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383909/1.png",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383909/1.png"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383909/1.png",
+ "article_fa": {
+  "title_fa": "اضافه شدن Spell Power به ست Soulforge پالادین در WoW: Forever",
+  "lead_fa": "جدیدترین هاتفیکس‌های بازی WoW: Forever مشخصات برخی آیتم‌ها را تغییر داده و Spell Power را به ست زره Soulforge کلاس Paladin افزوده است.",
+  "body_fa": [
+   "در تازه‌ترین تغییرات اعمال‌شده برای آیتم‌های WoW: Forever، ست دانجن Soulforge ویژه کلاس Paladin دستخوش دگرگونی شده است؛ ویژگی Strength از این ست حذف شده، مقدار Intellect افزایش یافته و Spell Power به تمامی قطعات آن اضافه شده است.",
+   {
+    "t": "h",
+    "x": "تغییرات ست Soulforge برای Paladin"
+   },
+   {
+    "t": "table",
+    "head": [
+     "قطعه زره",
+     "تغییرات مشخصات"
+    ],
+    "rows": [
+     [
+      "[[item:Soulforge Wristguards]]",
+      "دارای ۸+ Intellect (قبلاً ۵+) و ۶+ Spell Power"
+     ],
+     [
+      "[[item:Soulforge Waistguard]]",
+      "دارای ۱۳+ Intellect (قبلاً ۱۰+) و ۱۲+ Spell Power"
+     ],
+     [
+      "[[item:Soulforge Pauldrons]]",
+      "دارای ۱۲+ Intellect (قبلاً ۸+) و ۹+ Spell Power"
+     ],
+     [
+      "[[item:Soulforge Legguards]]",
+      "دارای ۱۶+ Intellect (قبلاً ۱۴+) و ۱۶+ Spell Power"
+     ],
+     [
+      "[[item:Soulforge Faceguard]]",
+      "دارای ۱۸+ Intellect (قبلاً ۱۱+) و ۱۳+ Spell Power"
+     ],
+     [
+      "[[item:Soulforge Handguards]]",
+      "دارای ۱+ Intellect (قبلاً ۱۰+) و ۱۲+ Spell Power"
+     ],
+     [
+      "[[item:Soulforge Sabatons]]",
+      "دارای ۱۲+ Intellect (قبلاً ۷+) و ۸+ Spell Power"
+     ],
+     [
+      "[[item:Soulforge Chestguards]]",
+      "دارای ۱۸+ Intellect (قبلاً ۱۲+) و ۱۴+ Spell Power"
+     ]
+    ]
+   },
+   {
+    "t": "h",
+    "x": "سایر تغییرات آیتم‌ها"
+   },
+   "علاوه بر ست دانجن، چند آیتم و کارت دیگر نیز تغییراتی در آمار و عملکرد خود داشته‌اند:",
+   {
+    "t": "ul",
+    "xs": [
+     "آیتم [[item:Everstaring Abomination Eye]] اکنون ۶+ Spirit می‌دهد (قبلاً ۱۴+ بود).",
+     "آیتم [[item:Escape Plan]] اکنون ۵۴-۱۰۲ آسیب (Damage) وارد می‌کند (قبلاً ۷۰ بود).",
+     "ترینکت [[item:Darkmoon Card: Blue Dragon]] اکنون ۳٪ شانس فعال‌سازی دارد (قبلاً ۲٪ بود).",
+     "ترینکت [[item:Darkmoon Card: Heroism]] اکنون ۱۵۸ تا ۲۳۸ هیل می‌کند (قبلاً ۱۲۰ تا ۱۸۰ بود) و در Strongholds و Cities نیز دو برابر بیشتر فعال می‌شود.",
+     "ترینکت [[item:Darkmoon Card: Maelstrom]] اکنون دو برابر آسیب بیشتر به دشمنان از نوع aquatic وارد می‌کند."
+    ]
+   }
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "WoW Forever",
+   "آیتم",
+   "Paladin"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-18T00:58:43Z"
+ }
 }
