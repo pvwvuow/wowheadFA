@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T01:36:59Z",
+ "generated": "2026-11-18T01:38:33Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3485,6 +3485,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383912,
+   "title_en": "WoW: Forever Continuing to Break Records With Over 15 Million Characters Created",
+   "url": "https://www.wowhead.com/news=383912",
+   "category": "Forever",
+   "published_at": "2026-11-18T00:04:50Z"
+  },
   {
    "id": 383907,
    "title_en": "Talebound Releases on December 1st - Patch 12.1.7",
