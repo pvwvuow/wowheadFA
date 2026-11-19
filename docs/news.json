@@ -1,8 +1,48 @@
 {
- "generated": "2026-11-19T22:11:49Z",
+ "generated": "2026-11-19T22:13:28Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383927,
+   "slug": "zirene-teases-item-granting-bonus-stats-when-bags-are-full-in-wow-fore",
+   "title_fa": "اشاره Zirene به آیتم جدیدی با قابلیت افزایش Stat هنگام پر بودن کیف‌ها",
+   "lead_fa": "در قسمت جدید پادکست WoW: Forever به احتمال اضافه شدن آیتمی اشاره شده است که در صورت پر بودن کامل کیف‌های بازیکن، Stat اضافه ارائه می‌دهد.",
+   "body_fa": [
+    "در قسمت جدید پادکست WoW: Forever که با موضوع طراحی آیتم‌ها منتشر شد، از Zirene درباره احتمال معرفی آیتم‌های آینده سؤال شد و او به ایده یک آیتم جدید اشاره کرد.",
+    {
+     "t": "quote",
+     "x": "شاید آیتمی وجود داشته باشد که برای Master Loot در وضعیت BiS قرار بگیرد. شاید اگر کیف شما کاملاً پر باشد، Stat اضافه دریافت کنید.",
+     "by": "Zirene"
+    },
+    "هرچند Zirene این ایده را به شوخی یک آیتم BiS برای سیستم Master Loot نامید، اما این مکانیزم در تئوری می‌تواند برای هر بازیکنی کارایی داشته باشد؛ موضوعی که چالش بین دریافت Stat بیشتر و دردسر پر نگه داشتن دائمی کیف‌ها را مطرح می‌کند.",
+    {
+     "t": "note",
+     "x": "این رویکرد به نظر می‌رسد در ادامه روند اضافه شدن ایده‌های غیرمعمول به بازی باشد، مشابه سلاح Battle Mage که اخیراً کشف شده بود.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "آیتم‌ها",
+    "WoW Forever",
+    "اخبار"
+   ],
+   "items": [],
+   "title_en": "Zirene Teases Item Granting Bonus Stats When Bags are Full in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383927",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383927-zirene-teases-item-granting-bonus-stats-when-bags-are-full-in-wow-fore.html",
+   "published_at": "2026-11-19T17:50:34Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383927/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383927/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383902,
    "slug": "tame-a-secret-hunter-pet-in-wow-forever",
@@ -3522,59 +3562,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383817,
-   "slug": "blizzard-made-character-creation-on-higher-population-faction-increasi",
-   "title_fa": "محدودیت‌های جدید Blizzard برای ساخت کاراکتر در فکشن‌های پرجمعیت",
-   "lead_fa": "شرکت Blizzard با هدف حفظ تعادل فکشن‌ها در سرورهای PvP، سیستم ساخت کاراکتر را تغییر داده است تا ایجاد شخصیت در فکشن پرجمعیت‌تر سخت‌تر شود.",
-   "body_fa": [
-    "شرکت Blizzard اعلام کرده است که قصد دارد تا حد امکان تعادل فکشن‌ها را در ریلم‌های PvP به نسبت 50/50 نزدیک نگه دارد. در حال حاضر حتی در بدترین سناریو، وضعیت ریلم‌ها در حدود نسبت 55/45 است، اما این شرکت خواهان نزدیک‌تر شدن این ارقام به یکدیگر است.",
-    {
-     "t": "h",
-     "x": "وضعیت فکشن‌های پرجمعیت در هر ریجن"
-    },
-    "سیستم ساخت کاراکتر اکنون طوری تنظیم شده است که به جای تصویر لحظه‌ای از وضعیت سرور، تعادل کلی فکشن‌ها را در مجموعه‌های قوانین PvP هر منطقه لحاظ کند. در کوتاه‌مدت، این تغییرات ساخت کاراکتر را برای فکشن‌های پرجمعیت‌تر در این مناطق سخت‌تر خواهد کرد:",
-    {
-     "t": "ul",
-     "xs": [
-      "فکشن Horde در سرورهای PvP ریجن NA",
-      "فکشن Alliance در سرورهای RPPVP ریجن EU"
-     ]
-    },
-    {
-     "t": "quote",
-     "x": "حفظ تعادل فکشن‌ها در سرورهای PvP عنوان WoW: Forever اهمیت حیاتی دارد تا هر دو طرف برای برتری رقابت کنند. اگرچه حتی در شدیدترین حالت، نسبت جمعیت در یک ریجن حدود 55/45 است، اما این عدد به اندازه‌ای که ما می‌خواهیم نزدیک نیست. هدف ما رساندن وضعیت تا جای ممکن به تعادل 50/50 است.",
-     "by": "Blizzard"
-    },
-    {
-     "t": "note",
-     "x": "با تغییر وضعیت و جا‌به‌جایی بازیکنان در سرورها، فکشن‌های تحت محدودیت ممکن است در آینده تغییر کنند.",
-     "kind": "info"
-    },
-    "تیم سازنده اذعان کرده است که وجود محدودیت در ساخت کاراکتر ممکن است ناامیدکننده باشد، اما این سازوکار را برای سلامت بلندمدت سرورها، به‌ویژه در روزهای آغازین تشکیل گیلدها و شکل‌گیری رقابت‌ها، لازم می‌داند."
-   ],
-   "tags_fa": [
-    "بلیزارد",
-    "سرورهای PvP",
-    "ساخت کاراکتر",
-    "تعادل فکشن"
-   ],
-   "items": [],
-   "title_en": "Blizzard Made Character Creation on Higher Population Faction Increasingly Difficult",
-   "source_url": "https://www.wowhead.com/news=383817",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383817-blizzard-made-character-creation-on-higher-population-faction-increasi.html",
-   "published_at": "2026-11-10T02:08:11Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383817/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383817/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3605,13 +3592,6 @@
    "url": "https://www.wowhead.com/news=383930",
    "category": "Live",
    "published_at": "2026-11-19T18:03:39Z"
-  },
-  {
-   "id": 383927,
-   "title_en": "Zirene Teases Item Granting Bonus Stats When Bags are Full in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383927",
-   "category": "Forever",
-   "published_at": "2026-11-19T17:50:34Z"
   },
   {
    "id": 383926,
@@ -3857,6 +3837,13 @@
    "url": "https://www.wowhead.com/news=383543",
    "category": "Forever",
    "published_at": "2026-10-22T18:15:43Z"
+  },
+  {
+   "id": 383541,
+   "title_en": "The WoW: Forever End of Beta Celebration Has Begun ft. Azuregos and Kazzak",
+   "url": "https://www.wowhead.com/news=383541",
+   "category": "Forever",
+   "published_at": "2026-10-22T17:13:00Z"
   }
  ]
 }
