@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-19T21:48:06Z",
+ "generated": "2026-11-19T21:49:44Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
   {
    "id": 383927,
-   "slug": "zirene-teases-item-granting-bonus-stats-when-bags-are-full",
+   "slug": "zirene-teases-item-granting-bonus-stats-when-bags-are-full-in-wow-fore",
    "title_fa": "اشاره Zirene به آیتم جدیدی با قابلیت افزایش Stat هنگام پر بودن کیف‌ها",
    "lead_fa": "در قسمت جدید پادکست WoW: Forever به احتمال اضافه شدن آیتمی اشاره شده است که در صورت پر بودن کامل کیف‌های بازیکن، Stat اضافه ارائه می‌دهد.",
    "body_fa": [
@@ -28,9 +28,9 @@
     "اخبار"
    ],
    "items": [],
-   "title_en": "Zirene Teases Item Granting Bonus Stats When Bags are Full",
+   "title_en": "Zirene Teases Item Granting Bonus Stats When Bags are Full in WoW: Forever",
    "source_url": "https://www.wowhead.com/news=383927",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383927-zirene-teases-item-granting-bonus-stats-when-bags-are-full.html",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383927-zirene-teases-item-granting-bonus-stats-when-bags-are-full-in-wow-fore.html",
    "published_at": "2026-11-19T17:50:34Z",
    "model": "gemini-flash-latest",
    "via": "auto-gemini",
@@ -3566,6 +3566,27 @@
  ],
  "queue": [
   {
+   "id": 383931,
+   "title_en": "Blizzard Wants to Get Rid of BiS in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383931",
+   "category": "Forever",
+   "published_at": "2026-11-19T19:19:21Z"
+  },
+  {
+   "id": 383929,
+   "title_en": "Study The Well - WoW: Forever Podcast Board Message Hints at New Brainteaser",
+   "url": "https://www.wowhead.com/news=383929",
+   "category": "Forever",
+   "published_at": "2026-11-19T18:16:54Z"
+  },
+  {
+   "id": 383930,
+   "title_en": "Blizzard Previews Talebound Rewards in Patch 12.1.7",
+   "url": "https://www.wowhead.com/news=383930",
+   "category": "Live",
+   "published_at": "2026-11-19T18:03:39Z"
+  },
+  {
    "id": 383926,
    "title_en": "WoW: Forever Podcast Episode 8: Classes, Itemization, and BiS",
    "url": "https://www.wowhead.com/news=383926",
@@ -3823,27 +3844,6 @@
    "url": "https://www.wowhead.com/news=383540",
    "category": "Forever",
    "published_at": "2026-10-22T16:21:06Z"
-  },
-  {
-   "id": 383487,
-   "title_en": "The Current State of Protection Paladins in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383487",
-   "category": "Forever",
-   "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
