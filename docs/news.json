@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T19:04:30Z",
+ "generated": "2026-11-19T20:51:03Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3579,6 +3579,27 @@
  ],
  "queue": [
   {
+   "id": 383931,
+   "title_en": "Blizzard Wants to Get Rid of BiS in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383931",
+   "category": "Forever",
+   "published_at": "2026-11-19T19:19:21Z"
+  },
+  {
+   "id": 383929,
+   "title_en": "Study The Well - WoW: Forever Podcast Board Message Hints at New Brainteaser",
+   "url": "https://www.wowhead.com/news=383929",
+   "category": "Forever",
+   "published_at": "2026-11-19T18:16:54Z"
+  },
+  {
+   "id": 383930,
+   "title_en": "Blizzard Previews Talebound Rewards in Patch 12.1.7",
+   "url": "https://www.wowhead.com/news=383930",
+   "category": "Live",
+   "published_at": "2026-11-19T18:03:39Z"
+  },
+  {
    "id": 383927,
    "title_en": "Zirene Teases Item Granting Bonus Stats When Bags are Full",
    "url": "https://www.wowhead.com/news=383927",
@@ -3836,27 +3857,6 @@
    "url": "https://www.wowhead.com/news=383541",
    "category": "Forever",
    "published_at": "2026-10-22T17:13:00Z"
-  },
-  {
-   "id": 383540,
-   "title_en": "The WoW: Forever Podcast Episode 5 Now Available - The End of Beta Special!",
-   "url": "https://www.wowhead.com/news=383540",
-   "category": "Forever",
-   "published_at": "2026-10-22T16:21:06Z"
-  },
-  {
-   "id": 383487,
-   "title_en": "The Current State of Protection Paladins in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383487",
-   "category": "Forever",
-   "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
