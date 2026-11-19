@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T19:02:54Z",
+ "generated": "2026-11-19T19:04:30Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3579,6 +3579,20 @@
  ],
  "queue": [
   {
+   "id": 383927,
+   "title_en": "Zirene Teases Item Granting Bonus Stats When Bags are Full",
+   "url": "https://www.wowhead.com/news=383927",
+   "category": "Forever",
+   "published_at": "2026-11-19T17:50:34Z"
+  },
+  {
+   "id": 383926,
+   "title_en": "WoW: Forever Podcast Episode 8: Classes, Itemization, and BiS",
+   "url": "https://www.wowhead.com/news=383926",
+   "category": "Forever",
+   "published_at": "2026-11-19T17:24:03Z"
+  },
+  {
    "id": 383896,
    "title_en": "Earn a Free 16-Slot Bag from a Former SoD Questline in WoW: Forever",
    "url": "https://www.wowhead.com/news=383896",
@@ -3843,13 +3857,6 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
