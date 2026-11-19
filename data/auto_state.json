@@ -1,17 +1,7 @@
 {
  "day": "2026-11-19",
- "published_today": 5,
+ "published_today": 8,
  "held": {
-  "383896": {
-   "reason": "payload نامعتبر: body_fa block 2: item needs id/ids/name",
-   "at": "2026-11-19T18:24:37Z",
-   "at_ts": 1795112677.643621
-  },
-  "383920": {
-   "reason": "G5 English token not in source: silver",
-   "at": "2026-11-19T18:51:13Z",
-   "at_ts": 1795114273.054283
-  },
   "383907": {
    "reason": "G4 numbers from source missing in article: 1792714324421, 1794506821192, 1794506821264, 1794506821502, 1794512828458, 1794513496091, 1794858221236, 248",
    "at": "2026-11-19T21:09:08Z",
@@ -31,63 +21,23 @@
    "reason": "G4 numbers from source missing in article: 1.60.1.70888, 100, 11, 113886, 13, 15, 17, 19:04",
    "at": "2026-11-19T21:46:29Z",
    "at_ts": 1795124789.932185
+  },
+  "383920": {
+   "reason": "G5 English token not in source: silver",
+   "at": "2026-11-19T23:44:29Z",
+   "at_ts": 1795131869.536473
+  },
+  "383741": {
+   "reason": "جمله پایانی ادعا می‌کند «بحث‌های تکمیلی پیرامون بازه‌های عددی 10، 20، 29، 39 و سطح 60 در جریان است» که هیچ اشاره‌ای به این سطوح و بازه‌های عددی در متن منبع وجود ندارد. | هشدار: 2",
+   "at": "2026-11-19T23:51:45Z",
+   "at_ts": 1795132305.825464
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-19T21:46:29Z",
+ "updated_at": "2026-11-19T23:51:45Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383713",
-    "ts": "2026-11-16T19:31:47Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 41.6,
-    "attempts": 0
-   },
-   {
-    "id": "383712",
-    "ts": "2026-11-16T19:32:42Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 55.1,
-    "attempts": 0
-   },
-   {
-    "id": "383693",
-    "ts": "2026-11-16T19:33:19Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 36.4,
-    "attempts": 0
-   },
-   {
-    "id": "383704",
-    "ts": "2026-11-16T19:33:54Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 35.5,
-    "attempts": 0
-   },
-   {
-    "id": "383702",
-    "ts": "2026-11-16T19:35:19Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 85.2,
-    "attempts": 0
-   },
    {
     "id": "383698",
     "ts": "2026-11-16T19:35:56Z",
@@ -4036,6 +3986,56 @@
     "blocks": 1,
     "warns": 0,
     "sec": 663.0,
+    "attempts": 2
+   },
+   {
+    "id": "383931",
+    "ts": "2026-11-19T23:28:14Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 366.9,
+    "attempts": 1
+   },
+   {
+    "id": "383930",
+    "ts": "2026-11-19T23:33:51Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 336.1,
+    "attempts": 1
+   },
+   {
+    "id": "383896",
+    "ts": "2026-11-19T23:37:36Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 225.9,
+    "attempts": 1
+   },
+   {
+    "id": "383920",
+    "ts": "2026-11-19T23:44:29Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 412.6,
+    "attempts": 2
+   },
+   {
+    "id": "383741",
+    "ts": "2026-11-19T23:51:45Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 2,
+    "sec": 436.3,
     "attempts": 2
    }
   ]

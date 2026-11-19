@@ -1,8 +1,130 @@
 {
- "generated": "2026-11-19T21:49:44Z",
+ "generated": "2026-11-19T23:52:55Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383931,
+   "slug": "blizzard-wants-to-get-rid-of-bis-in-wow-forever",
+   "title_fa": "برنامه‌ریزی بلیزارد برای حذف مفهوم BiS در WoW: Forever",
+   "lead_fa": "توسعه‌دهنده ارشد بازی در پادکست جدید WoW: Forever اعلام کرد که قصد دارد ایده تجهیزات Best in Slot را از بازی کنار بگذارد.",
+   "body_fa": [
+    "مفهوم BiS یا «Best In Slot» از زمان آغاز World of Warcraft بخشی از بازی بوده و بازیکنان همواره تلاش کرده‌اند بهترین آیتم‌های ممکن را برای هر اسلات پیدا کنند تا به اهدافی مانند Hit cap، Expertise Cap و Critical Strike Immunity برسند و هم‌زمان Damage، Health یا Mana خود را به حداکثر برسانند.",
+    "با این حال، Aidan \"Zirene\" Moon، طراح ارشد بازی، در تازه‌ترین قسمت از پادکست WoW: Forever اظهار داشت که به دنبال حذف ایده BiS از این عنوان است.",
+    {
+     "t": "quote",
+     "x": "من اساساً می‌خواهم مفهوم BiS را کنار بگذارم. فکر می‌کنم BiS برای یک بازی ویدئویی که قرار است حول سیستم‌های نقش‌آفرینی بچرخد، چیز خوبی نیست. به همین دلیل سیستم creature subtype و سیستم biome را معرفی کرده‌ام و شرایط در رید متفاوت است... در رید، اگر به بال چپ بروید محیط برفی است و اگر به بال راست بروید محیط تسخیرشده است، بنابراین بخش‌های مختلف رید بایوم‌های متفاوتی خواهند داشت. به همین خاطر فکر می‌کنم اگر در تئوری فهرستی برای BiS می‌سازید، این فهرست باید برای تک‌تک باس‌ها متفاوت باشد و بر اساس نوع موجود و بایوم تعیین شود. روند آیتم‌بندی طوری است که نمی‌خواهم به BiS فکر کنید؛ فقط می‌خواهم به مبارزه‌ای که روبه‌رویتان قرار دارد و نحوه مبارزه با آن فکر کنید.",
+     "by": "Blizzard — Aidan Moon"
+    },
+    {
+     "t": "h",
+     "x": "اهداف طراحی و بهبود مدیریت آیتم‌ها"
+    },
+    "به گفته Zirene، این سبک طراحی هم برای بازیکنانی در نظر گرفته شده که از بهینه‌سازی دقیق و فشرده لذت می‌برند و هم برای کسانی است که صرفاً می‌خواهند وارد بازی شوند و شاید از یک آیتم خاص و کم‌کاربرد که پیش‌تر در طول بازی به دست آورده‌اند در مبارزات مشخصی استفاده کنند.",
+    {
+     "t": "note",
+     "x": "با توجه به اضافه شدن آیتم‌های وابسته به بایوم‌ها و گونه‌های موجودات، سازندگان تأیید کرده‌اند که در آینده کیف‌های بزرگ‌تر و روش‌های بهتری برای جست‌وجو و مرتب‌سازی آیتم‌ها در اختیار بازیکنان قرار خواهد گرفت.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "توسعه بازی",
+    "آیتم‌ها"
+   ],
+   "items": [],
+   "title_en": "Blizzard Wants to Get Rid of BiS in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383931",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383931-blizzard-wants-to-get-rid-of-bis-in-wow-forever.html",
+   "published_at": "2026-11-19T19:19:21Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383931/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383931/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383930,
+   "slug": "blizzard-previews-talebound-rewards-in-patch-12-1-7",
+   "title_fa": "پیش‌نمایش پاداش‌های Talebound در پچ 12.1.7 منتشر شد",
+   "lead_fa": "بلیزارد در آستانه عرضه پچ 12.1.7 در تاریخ ۱ دسامبر، فهرست کامل پاداش‌های حالت Talebound شامل ست‌های ترنسموگ، ماونت‌ها، پت‌ها و جوایز متصل به اچیوومنت‌ها را به نمایش گذاشت.",
+   "body_fa": [
+    "با انتشار پستی رسمی، جزییات پاداش‌های حالت جدید Talebound در پچ 12.1.7 مشخص شد. این پاداش‌ها که در تاریخ ۱ دسامبر در دسترس قرار می‌گیرند، شامل آیتم‌های ظاهری، اسباب‌بازی‌ها، مرکب‌ها، تجهیزات، کرست‌ها و حتی معجون‌های افزایش XP برای شخصیت‌های فرعی هستند.",
+    {
+     "t": "h",
+     "x": "ارزهای Bound Silver و Ducats"
+    },
+    "در جریان پیشروی در Talebound، بازیکنان با تکمیل کوئست‌ها، اچیوومنت‌ها و مراحل مختلف Tales of the Storyteller ارزی به نام Bound Silver به دست می‌آورند که به Warband متصل است. علاوه بر این، ارز دیگری با نام Ducats جمع‌آوری می‌شود که برای تبدیل به منابع ارتقا و پیشرفت در این حالت یا تبدیل به Bound Silver کاربرد دارد. پس از پایان هر قصه، می‌توان به Quillgrave بازگشت و Ducats را با مراجعه به Nib یا از طریق منوی بازی و صفحه انتخاب کاراکتر خرج کرد.",
+    {
+     "t": "h",
+     "x": "ترنسموگ‌ها و ست‌های پوششی"
+    },
+    "طیف گسترده‌ای از آیتم‌های ظاهری و سلاح‌ها با ارز Bound Silver قابل خریداری هستند که قیمت‌های مختلفی دارند:",
+    {
+     "t": "ul",
+     "xs": [
+      "ست‌های گران‌قیمت ۴۰۰۰ نقره‌ای نظیر Ensemble: Witch Hunter’s Shadow Attire، Ensemble: Witch Hunter’s Ivory Attire و Ensemble: Witch Hunter’s Forest Attire",
+      "ست‌های ۳۰۰۰ واحدی شامل Ensemble: Wood Haunter’s Guise of the Wight و Ensemble: Faith-Cursed Vestments",
+      "آیتم‌های ۲۵۰۰ نقره‌ای مثل Ensemble: Village Patrolman's Regalia، Ensemble: Expedition’s Saltstained Finery و Ensemble: Forest Dweller’s Muddied Attire",
+      "ست‌ها و آیتم‌های ۲۰۰۰ واحدی مانند Traveler’s Colorful Mantle Collection و Ensemble: Cursed Wood-Haunt's Mask Gallery",
+      "تجهیزات ۱۵۰۰ نقره‌ای از جمله Alchemist’s Research Kit، Witch Scribe’s Haunted Scroll و Ensemble: Ornaments of the Night Court Butterfly",
+      "انواع ست‌ها و پوسته‌های سلاح به قیمت ۱۰۰۰ نقره نظیر Ensemble: Traveler’s Charcoal Commonwear، Ensemble: Drustvar Smuggler’s Attire، Slayer’s Monster Blaster، Mad Raven-Witch Mask و Wings of the Fae Courier",
+      "قطعات سر و سلاح‌های ۷۰۰ واحدی مانند Ensemble: Traveler’s Shadow Headgear، Lost Ritualist’s Curved Edge و Abandoned Veteran’s Bootknife",
+      "شنل‌های شانه‌ای به قیمت ۶۰۰ نقره نظیر Prowler’s Lively Shoulder Cape و Prowler’s Plum Shoulder Cape"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "مرکب‌ها، وسایل خانه و پت‌ها"
+    },
+    "علاقه‌مندان به جمع‌آوری ماونت، پت و وسایل مسکن نیز گزینه‌های متعددی پیش رو دارند:",
+    {
+     "t": "ul",
+     "xs": [
+      "ماونت ۴۰۰۰ واحدی Lost Mare of the Maddening Faire و گزینه‌های ۳۰۰۰ واحدی مثل Enchanted Woodland Wanderer و Shadowpaw Wood Watcher در کنار مرکب‌های ۲۰۰۰ نقره‌ای چون Shadowbound Storybook و Ambermill Traveler’s Rouncey",
+      "دکوراسیون‌های مسکن با هزینه‌های ۵۰۰ تا ۱۰۰۰ نقره مانند Quillgrave Talebound Shadowtome به ارزش ۱۰۰۰، Quillgrave Storyteller’s Lectern به ارزش ۸۰۰، Storyteller’s Looking Glass به ارزش ۵۰۰ و قطعات معماری ۲۰۰ و ۳۰۰ نقره‌ای شامل Tidesage’s Left Copper Mascaron با قیمت ۲۰۰ و Tidesage’s Right Copper Mascaron با قیمت ۳۰۰",
+      "پت‌های ۲۰۰۰ نقره‌ای شامل Bewitching Familiar، Hex-Cursed Manifestation، Inquisitor’s Messenger و Slayer’s Faithful Tracker"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "پاداش‌های متصل به اچیوومنت و کلاغ نقره‌ای"
+    },
+    "بخشی از جوایز خارج از منطقه Quillgrave و از طریق کلاغی در Silvermoon City به نام Traveling Raven اهدا می‌شود. تعامل با این پرنده اچیومنت Tapping at the Trader’s Door را ثبت می‌کند. از جمله این جوایز می‌توان به صندوق‌های تجهیزات سطوح Champion، Heroic و Mythic اشاره کرد.",
+    {
+     "t": "note",
+     "x": "معجون‌های هوش Darkhaven Wisdom، Greenthistle Wisdom، Graywake's Wisdom و Court of Night Wisdom میزان کسب تجربه از کشتن هیولاها و ماموریت‌ها را به مدت ۲ ساعت تا ۱۰٪ افزایش می‌دهند و برای لول 89 یا پایین‌تر قابل استفاده هستند.",
+     "kind": "tip"
+    },
+    "تکمیل اهداف نهایی با هر سه کلاس درجات دشواری مختلف، بسته‌های حاوی کرست‌ها و آیتم‌های تزئینی مانند اسباب‌بازی Wood-Cursed Hearthstone Toy و القابی نظیر Listener، Monster Hunter و of the Sacred Flame را به همراه خواهد داشت."
+   ],
+   "tags_fa": [
+    "پچ 12.1.7",
+    "Talebound",
+    "پاداش‌ها",
+    "ترنسموگ"
+   ],
+   "items": [],
+   "title_en": "Blizzard Previews Talebound Rewards in Patch 12.1.7",
+   "source_url": "https://www.wowhead.com/news=383930",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383930-blizzard-previews-talebound-rewards-in-patch-12-1-7.html",
+   "published_at": "2026-11-19T18:03:39Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383930/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383930/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383927,
    "slug": "zirene-teases-item-granting-bonus-stats-when-bags-are-full-in-wow-fore",
@@ -39,6 +161,72 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383927/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383896,
+   "slug": "earn-a-free-16-slot-bag-from-a-former-sod-questline-in-wow-forever",
+   "title_fa": "دریافت یک کیف ۱۶ اسلاتی رایگان از کوئست‌لاین سابق SoD در سرور Forever",
+   "lead_fa": "زنجیره‌کوئست مربوط به ران Shockwave از Season of Discovery وارد سرور Forever شده و این بار بدون محدودیت کلاس، یک کیف ۱۶ اسلاتی و جوایز دیگر به بازیکنان پاداش می‌دهد.",
+   "body_fa": [
+    "بسیاری از زنجیره‌کوئست‌های Season of Discovery راه خود را به سرور Forever باز کرده‌اند و کوئست مربوط به ران Shockwave کلاس Warrior نیز یکی از آن‌هاست. برعکس دورهٔ SoD، این خط کوئست اکنون برای تمام کلاس‌ها بدون محدودیت در دسترس قرار دارد و در اواسط آن آیتم [[item:Red Bag]] به عنوان یک کیف ۱۶ اسلاتی رایگان اعطا می‌شود.",
+    {
+     "t": "note",
+     "x": "مجهز کردن [[item:Red Bag]] سطح پنهان‌کاری (Stealth) موثر را به میزان ۲ واحد کاهش می‌دهد. این جریمه تنها برای Rogue و Druid اعمال می‌شود و سایر کلاس‌ها بدون هیچ مشکلی می‌توانند از آن استفاده کنند.",
+     "kind": "warn"
+    },
+    "جوایز این مسیر فقط به این کیف محدود نمی‌شود. بخش پایانی این زنجیره با کوئست Rift Away بازیکن را در برابر Harvest Golem V000-A قرار می‌دهد؛ یک الیت با بیش از ۲۰۰ هزار (200k) هلث که آیتم ترنسموگ منحصر‌به‌فرد [[item:Sun Shades]] و همچنین [[item:Ingenious Toy]] را به عنوان پاداش می‌دهد. این اسباب‌بازی در Season of Discovery با مواد دیگر ترکیب می‌شد تا آیتمی جدید بسازد، اما کارکرد آن در سرور Forever هنوز مشخص نیست.",
+    {
+     "t": "h",
+     "x": "مراحل انجام کوئست‌لاین"
+    },
+    {
+     "t": "ol",
+     "xs": [
+      "آبجکت Half-Buried Mech را در مختصات 59.2 91.5 در سواحل جنوبی Tanaris پیدا کرده و دو بار روی آن کلیک کنید تا کوئست Beach Bot تکمیل شود و معجون Guided Buoyancy Accelerant را دریافت کنید.",
+      "کوئست Mechanical Romance را بردارید، در دوردست دنبال فانوس دریایی بگردید، معجون را بنوشید و به همان سمت شنا کنید. وقتی به مرز خستگی اقیانوس (fatigue zone) رسیدید، جزیره کوچکی را در دوردست می‌بینید؛ در یک خط مستقیم به سمت آن شنا کنید.",
+      "کوئست را تحویل Sebastian Jurgens در این جزیره دورافتاده دهید و کوئست Frosty Favors را بگیرید.",
+      "به Winterspring بروید و کوئست را در Everlook به Nami در مختصات 61.2 37.0 تحویل دهید.",
+      "کوئست Red Bag Blues را بگیرید و عازم Burning Steppes شوید. برای پیدا کردن [[item:Red Bag]] از کوه در مختصات 59, 29 بالا بروید تا به کمپ دورافتاده در مختصات 53.0 24.8 در شمال برسید.",
+      "کوئست Poacher's Den را بردارید و ماب‌های لول 59 به نام‌های Blackrock Bootlegger و Sulfuron Smuggler را بکشید تا Vertically Composited Patch Hampler و Brass-fitted Flam-Tamp Flange به دست آیند (برخی قطعات روی زمین نیز یافت می‌شوند).",
+      "کوئست را در Everlook تحویل دهید و کتاب Fantastic Inventions را دریافت کنید. سپس کوئست Bookin' it Back را برای بازگشت به جزیره Tanaris بردارید."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "رویارویی نهایی با Harvest Golem V000-A"
+    },
+    "در ادامهٔ مسیر و در کوئست Rift Away مقداری تعامل داستانی دریافت می‌کنید. Sebastian را تا تلپورتر دنبال کنید تا شما را به Westfall یا Tirisfal Glades تلپورت کند. پس از صحبت مجدد با او و فشردن دکمه، باس Harvest Golem V000-A احضار می‌شود. با توجه به جان بالای این موجود الیت (بیش از 200,000 هلث)، توصیه می‌شود حداقل یک هیلر و یک یا دو DPS همراه داشته باشید.",
+    {
+     "t": "ul",
+     "xs": [
+      "فاز اول: کست‌های Harvest Golem V000-A را قطع (Kick) کنید.",
+      "فاز دوم: باس Harvest Golem V000-A را کایت کنید تا استک‌های آرمور او از بین برود.",
+      "فاز سوم: از کولدان‌های دفاعی استفاده کنید تا ضربات سنگین را تحمل کرده و در نهایت باس را بکشید."
+     ]
+    },
+    "پس از کشته شدن باس، آیتم Mech Arm را از روی زمین لوت کنید تا بتوانید جوایز نهایی خود را دریافت نمایید."
+   ],
+   "tags_fa": [
+    "راهنمای بازی",
+    "کوئست",
+    "سرور Forever",
+    "آیتم"
+   ],
+   "items": [],
+   "title_en": "Earn a Free 16-Slot Bag from a Former SoD Questline in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383896",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383896-earn-a-free-16-slot-bag-from-a-former-sod-questline-in-wow-forever.html",
+   "published_at": "2026-11-19T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383896/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383896/1.jpg",
      "cap": ""
     }
    ]
@@ -3353,225 +3541,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383814,
-   "slug": "every-quest-for-level-20-to-30-dungeons-in-wow-forever",
-   "title_fa": "راهنمای کوئست‌های دانجن‌های لول ۲۰ تا ۳۰ در WoW: Forever",
-   "lead_fa": "در سرور WoW: Forever با وجود افزایش ۵۰ درصدی تجربهٔ دانجن‌ها، کوئست‌ها همچنان مهم‌ترین ابزار برای لول‌آپ سریع در دانجن‌های بازهٔ لول ۲۰ تا ۳۰ محسوب می‌شوند.",
-   "body_fa": [
-    "با اینکه تجربهٔ دریافتی از کشتن موجودات در دانجن‌ها ۵۰٪ افزایش یافته است، اما کشتن ماب‌ها در این نسخه همچنان حدود ۴۰٪ تجربهٔ کمتری نسبت به نسخهٔ Era می‌دهد. به همین دلیل، دریافت کوئست‌های هر دانجن نقشی کلیدی برای رسیدن به بیشترین بازدهی تجربه هنگام دانجن‌زدن دارد. در این راهنما مکان تمام کوئست‌های دانجن‌های محدودهٔ لول ۲۰ تا ۳۰ معرفی شده است.",
-    {
-     "t": "note",
-     "x": "دانجن Shadowfang Keep در لول ۱۸ سخت، لول ۲۱ متوسط، لول ۲۳ هم‌سطح و در لول ۲۸ آسان است. کوئست‌های آن شامل The Book of Ur برای لول ۱۶ از Undercity در مختصات 53 54 نزد Keeper Bel'dugur، کوئست Deathstalkers in Shadowfang برای لول ۱۸ از Silverpine Forest در مختصات 43 41 نزد High Executor Hadrec، و کوئست Arugal Must Die برای لول ۱۸ از Sepulcher در مختصات 44 39 نزد Dalar Dawnweaver است. همچنین کوئست The Orb of Soran'ruk برای لول ۲۰ اختصاصی Warlock از The Barrens نزد Doan Karhan در مختصات 49 57، و کوئست The Test of Righteousness برای لول ۲۰ اختصاصی Paladin از Ironforge نزد Jordan Stilwell در مختصات 52 36 پس از زنجیرهٔ Tome of Valor شروع می‌شوند.",
-     "kind": "info"
-    },
-    {
-     "t": "h",
-     "x": "کوئست‌های دانجن Blackfathom Deeps"
-    },
-    "دانجن Blackfathom Deeps برای لول ۲۱ سخت، لول ۲۳ متوسط، لول ۲۵ مناسب و لول ۳۰ آسان ارزیابی می‌شود. مأموریت‌های هر دو جناح به شرح زیر است:",
-    {
-     "t": "ul",
-     "xs": [
-      "کوئست‌های هورد: The Essence of Aku'Mai در لول ۱۷ از Ashenvale مختصات 11 34 نزد Je'neu Sancrea، مأموریت Blackfathom Villainy در لول ۱۸ داخل دانجن از Argent Guard Thaelrid، مأموریت Amongst the Ruins در لول ۲۱ از Zoram'gar Outpost مختصات 11 34، مأموریت Baron Aquanis در لول ۲۱ از آیتم Strange Water Globe، کوئست Allegiance to the Old Gods در لول ۱۷ با دراپ آیتم Damp Note از Blackfathom Tide Priestess، و کوئست The Orb of Soran'ruk در لول ۲۰ نزد Doan Karhan مختصات 49 57.",
-      "کوئست‌های آلیانس: Knowledge in the Deeps در لول ۱۰ از Forlorn Cave در Ironforge مختصات 50 5 نزد Gerrig Bonegrip، مأموریت Researching the Corruption در لول ۱۸ از Darkshore مختصات 38 43 نزد Gershala Nightwhisper، مأموریت Twilight Falls در لول ۲۰ از Darnassas مختصات 55 24 نزد Argent Guard Manados، مأموریت In Search of Thaelrid در لول ۱۸ از Craftsman's Terrace مختصات 55 24 نزد Dawnwatcher Shaedlass، مأموریت Blackfathom Villainy در لول ۱۸، و مأموریت‌های کلاسی The Orb of Soran'ruk برای لول ۲۰ و The Test of Righteousness برای لول ۲۰ در مختصات 52 36."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "کوئست‌های دانجن The Stockades"
-    },
-    "این دانجن در لول ۲۲ سخت، لول ۲۴ متوسط، لول ۲۶ هم‌سطح و در لول ۳۰ آسان است و مأموریت‌های آن شامل موارد زیر هستند:",
-    {
-     "t": "ul",
-     "xs": [
-      "مأموریت Quell the Uprising برای لول ۲۲ از Stormwind بیرون دانجن مختصات 41 58 نزد Warden Thelwater.",
-      "مأموریت The Color of Blood برای لول ۲۲ از Nikova Raskol در Old Town.",
-      "مأموریت Crime and Punishment برای لول ۲۲ از Duskwood در Darkshire مختصات 42 47 نزد Councilman Millstipe.",
-      "مأموریت What Comes Around... برای لول ۲۲ از Redridge Mountains در Lakeshire مختصات 26 46 نزد Guard Berton.",
-      "مأموریت The Fury Runs Deep برای لول ۲۵ با پیش‌نیاز The Dark Iron War از Wetlands در Dun Modr مختصات 49 18 نزد Motley Garmason.",
-      "مأموریت The Stockade Riots برای لول ۱۶ از Warden Thelwater در مختصات 41 58 با شروع از خط کوئست The Unsent Letter از Deadmines."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "کوئست‌های Excavation Site: Wetlands"
-    },
-    "دانجن Excavation Site: Wetlands در لول ۲۴ سخت، لول ۲۷ متوسط، لول ۲۹ هم‌سطح و لول ۳۱ آسان تعیین شده است. تمام مأموریت‌های این بخش نیازمند لول ۲۴ هستند:",
-    {
-     "t": "ul",
-     "xs": [
-      "کوئست Highland Hides از James Halloran در Menethil Harbor مختصات 8 55 پس از تکمیل Daily Delivery.",
-      "کوئست Songblade Search در Redridge Mountains از Dorin Songblade مختصات 25.6 46.6.",
-      "کوئست Horrors in the Highland از Wetlands نزد Rethiel the Greenwarden مختصات 56.2 40.6.",
-      "کوئست Lost in the Thicket Things با شروع از Seeking Caitlin در Ashenvale نزد Llana مختصات 35.0 48.6 و ادامهٔ آن به نام Heartwoven.",
-      "کوئست‌های Lost Relic Carry و Prehistoric Prism با لوت Titan Relic از درون دانجن.",
-      "کوئست Changing Tastes از Orgimmar نزد Borstan مختصات 57 33.",
-      "کوئست‌های Elder Knowledge و Earthen Echo با لوت Titan Relic داخل دانجن.",
-      "کوئست Open the Maw با شروع از Dragonmaw Rumors نزد Zaruk در Arathi Highlands مختصات 74 36."
-     ]
-    }
-   ],
-   "tags_fa": [
-    "دانجن",
-    "لول‌آپ",
-    "راهنما",
-    "Forever"
-   ],
-   "items": [],
-   "title_en": "Every Quest for Level 20 to 30 Dungeons in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383814",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383814-every-quest-for-level-20-to-30-dungeons-in-wow-forever.html",
-   "published_at": "2026-11-10T15:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383814/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383814/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383813,
-   "slug": "new-dawn-waker-secret-found-in-wow-forever",
-   "title_fa": "کشف زنجیره راز جدید Dawn Waker در WoW: Forever",
-   "lead_fa": "جامعه جستجوی راز موفق به کشف یک زنجیره معما و راز گسترده با نام Dawn Waker در سرور WoW: Forever شده است.",
-   "body_fa": [
-    "یک زنجیره راز جدید و بسیار گسترده با نام Dawn Waker در WoW: Forever به همت اعضای Secret Finding Discord شناسایی شده است.",
-    {
-     "t": "h",
-     "x": "جزئیات و مراحل آغازین راز"
-    },
-    "بر اساس اطلاعاتی که تا این لحظه گردآوری شده، شروع این مسیر پرپیچ‌وخم از Zephras Isle رقم می‌خورد و نیازمند آیتم [[item:Night Watchman's Torch]] از Duskwood است؛ مراحلی که در ادامه بازیکنان را به نقاط مختلفی از نقشه می‌کشاند.",
-    "با اینکه پاداش نهایی این زنجیره هنوز مشخص نیست، بازیکنان در پایان بخش اول می‌توانند شمشیر یک‌دستی با کیفیت Uncommon به نام [[item:Eluvi'ana]] را به دست آورند.",
-    {
-     "t": "note",
-     "x": "نگه‌داشتن شمشیر Eluvi'ana احتمالاً ارزشمند خواهد بود، زیرا ممکن است در آینده فرصتی برای ارتقای آن پیش بیاید.",
-     "kind": "tip"
-    },
-    "بازیکنان حدس می‌زنند این معما احتمالاً به پیام رمزی که روی تخته در قسمت ششم پادکست WoW: Forever Podcast نوشته شده بود ارتباط دارد."
-   ],
-   "tags_fa": [],
-   "items": [],
-   "title_en": "New \"Dawn Waker\" Secret Found in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383813",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383813-new-dawn-waker-secret-found-in-wow-forever.html",
-   "published_at": "2026-11-10T14:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383813/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383813/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383819,
-   "slug": "drowned-city-nerfs-reduced-population-in-zones-wow-forever-hotfixes-fo",
-   "title_fa": "هاتفیکس‌های ۹ نوامبر سرورهای دائمی: تضعیف دانجن The Drowned City و کاهش ازدحام مناطق",
-   "lead_fa": "بلیزارد در به‌روزرسانی‌های اخیر خود علاوه بر رفع باگ‌های متعدد کلاس‌ها و دانجن‌ها، سختی The Drowned City و تراکم بازیکنان را در مناطق شلوغ کاهش داد.",
-   "body_fa": [
-    "مجموعه‌ای از هاتفیکس‌های جدید در تاریخ‌های ۵، ۶ و ۹ نوامبر سال 2026 برای بازی منتشر شده است که تغییرات گسترده‌ای را روی متعادل‌سازی دانجن‌ها، کلاس‌ها، کوئست‌ها و وضعیت جهان بازی اعمال می‌کند. یکی از بخش‌های مهم این تغییرات، کاهش فشار و سختی درون دانجن The Drowned City و ارتقای میزان تجربه دریافتی از دانجن‌ها است.",
-    {
-     "t": "h",
-     "x": "تغییرات دانجن‌ها و سیاه‌چال The Drowned City"
-    },
-    "میزان Experience دریافتی از کشتن تمام دشمنان درون دانجن‌ها ۵۰٪ افزایش یافته است. همچنین در The Drowned City باگی که باعث می‌شد موجودات حدود ۳۰٪ دمیج بیشتری وارد کنند برطرف شد.",
-    {
-     "t": "table",
-     "head": [
-      "بخش / دانجن",
-      "تغییرات اعمال‌شده"
-     ],
-     "rows": [
-      [
-       "Deathless Marrow",
-       "کاهش ۲۵٪ سلامت موجودات و دمیج Fireball اسپل‌کسترهای Deathless Sorcerer؛ کاهش 50 درصدی دمیج Charge در Deathless Watcher و افت حدود 50 درصدی تکرار Shield Slam در Deathless Guardian"
-      ],
-      [
-       "The Shaper’s Terrace",
-       "اسپاون صحیح Cinder پس از کار با Archival Panel و اصلاح لوت موجودات Vitrix و Snowtalon به همراه متریال‌های لول‌بالاتر Skinning"
-      ],
-      [
-       "سایر دانجن‌ها",
-       "دراپ لوت توسط Zarla Ober در Alcaz Prison، امکان چند بار لوت Heart of the Mountain در Blackrock Depths و منع استفاده از مانت در Stratholme"
-      ]
-     ]
-    },
-    {
-     "t": "h",
-     "x": "تعدیل شلوغی مناطق و جهان بازی"
-    },
-    "تراکم حضور بازیکنان در مناطقی که ازدحام زیادی داشتند کاهش پیدا کرده است تا تجربه روان‌تری ایجاد شود.",
-    {
-     "t": "quote",
-     "x": "به دنبال بازخورد بازیکنان مبنی بر احساس شلوغی بیش از حد در نقاط مختلف، این تغییر را در سرورهایی با قوانین PvP به شکلی حتی بزرگ‌تر پیاده کردیم. ما شرایط مناطق را زیر نظر خواهیم داشت و در صورت لزوم تنظیمات بیشتری انجام می‌دهیم.",
-     "by": "Blizzard"
-    },
-    {
-     "t": "h",
-     "x": "اصلاحات کلاس‌ها"
-    },
-    "کلاس‌های مختلف بازی نیز مجموعه‌ای از بهینه‌سازی‌ها را دریافت کرده‌اند:",
-    {
-     "t": "ul",
-     "xs": [
-      "در Druid هماهنگی Cooldown Manager برای اسپل Lacerate و حذف Berserk اعمال شد؛ همچنین در تغییرات روزهای قبل، تلنت Bloom اکنون به‌درستی هدف را هیل می‌کند.",
-      "برای Hunter مشکل کشیدن ناخواسته اگروی دشمنان از فواصل بسیار دور و دسته‌بندی پت‌های Vulgara the Insatiable و Shrieklings of Zephras اصلاح گردید.",
-      "در کلاس Warlock تکمیل کوئست Summon Felsteed اسکیل سوارکاری را می‌دهد؛ ضمناً سلامت پایه Voidwalker به میزان حدود 40 واحد در تمام لول‌ها افزایش یافت.",
-      "در Shaman افکت بصری Lightning Mastery به‌روزرسانی شد و دمیج Lightning Overload برای اسپل Lightning Bolt تصحیح شد.",
-      "برای Priest کست Fear Ward دیگر باعث خروج از Shadowform نمی‌شود و اسپل Power Infusion روی یاران به‌درستی باقی می‌ماند."
-     ]
-    },
-    {
-     "t": "note",
-     "x": "در حرفه Leatherworking، پیش‌نیاز مهارت Tanning Rack به 125 کاهش یافته است (قبلاً ۱۴۰ بود) تا مانع ساخت الگوهای نیازمند مهارت 125 نشود؛ در نتیجه اسکیل‌آپ‌های حاصل از آن نیز به میزان 15 امتیاز کاهش یافت.",
-     "kind": "info"
-    },
-    {
-     "t": "h",
-     "x": "آیتم‌ها و ماموریت‌ها"
-    },
-    "مشکلاتی نظیر عدم دراپ Waylaid Crates و Craftsman’s Writs در دانجن‌ها برطرف شد و کول‌دان [[item:Nifty Stopwatch]] دیگر با ابزارهای حرکتی نظیر Dash، Blink و Sprint تداخل زمانی ایجاد نمی‌کند. علاوه بر این، دراپ آیتم‌های مربوط به چندین کوئست گروهی شد و دسترسی به اهداف مأموریت‌های مختلف در مناطق بازی تسهیل یافته است."
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "دانجن",
-    "کلاس‌ها",
-    "تغییرات بازی"
-   ],
-   "items": [],
-   "title_en": "Drowned City Nerfs & Reduced Population in Zones - WoW: Forever Hotfixes for November 9th",
-   "source_url": "https://www.wowhead.com/news=383819",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383819-drowned-city-nerfs-reduced-population-in-zones-wow-forever-hotfixes-fo.html",
-   "published_at": "2026-11-10T04:30:43Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383819/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383819/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383931,
-   "title_en": "Blizzard Wants to Get Rid of BiS in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383931",
-   "category": "Forever",
-   "published_at": "2026-11-19T19:19:21Z"
-  },
   {
    "id": 383929,
    "title_en": "Study The Well - WoW: Forever Podcast Board Message Hints at New Brainteaser",
@@ -3580,25 +3552,11 @@
    "published_at": "2026-11-19T18:16:54Z"
   },
   {
-   "id": 383930,
-   "title_en": "Blizzard Previews Talebound Rewards in Patch 12.1.7",
-   "url": "https://www.wowhead.com/news=383930",
-   "category": "Live",
-   "published_at": "2026-11-19T18:03:39Z"
-  },
-  {
    "id": 383926,
    "title_en": "WoW: Forever Podcast Episode 8: Classes, Itemization, and BiS",
    "url": "https://www.wowhead.com/news=383926",
    "category": "Forever",
    "published_at": "2026-11-19T17:24:03Z"
-  },
-  {
-   "id": 383896,
-   "title_en": "Earn a Free 16-Slot Bag from a Former SoD Questline in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383896",
-   "category": "Forever",
-   "published_at": "2026-11-19T15:00:00Z"
   },
   {
    "id": 383920,
@@ -3844,6 +3802,27 @@
    "url": "https://www.wowhead.com/news=383540",
    "category": "Forever",
    "published_at": "2026-10-22T16:21:06Z"
+  },
+  {
+   "id": 383487,
+   "title_en": "The Current State of Protection Paladins in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383487",
+   "category": "Forever",
+   "published_at": "2026-10-21T19:06:30Z"
+  },
+  {
+   "id": 383519,
+   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383519",
+   "category": "Live",
+   "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
