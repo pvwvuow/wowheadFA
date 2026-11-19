@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T21:45:31Z",
+ "generated": "2026-11-19T00:28:30Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3550,6 +3550,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383920,
+   "title_en": "All Mythic Difficulty Achievements Removed from Talebound on Patch 12.1.7 PTR",
+   "url": "https://www.wowhead.com/news=383920",
+   "category": "PTR",
+   "published_at": "2026-11-19T00:09:30Z"
+  },
   {
    "id": 383919,
    "title_en": "Weekly Gold Quest Requires Blackrock Spire and Blackrock Depths in WoW: Forever",
