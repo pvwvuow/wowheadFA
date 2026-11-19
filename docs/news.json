@@ -1,8 +1,107 @@
 {
- "generated": "2026-11-19T15:21:20Z",
+ "generated": "2026-11-19T19:02:54Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383902,
+   "slug": "tame-a-secret-hunter-pet-in-wow-forever",
+   "title_fa": "کشف پت مخفی برای هانترها در WoW: Forever",
+   "lead_fa": "بازیکنان موفق به کشف روش رام‌کردن پت مخفی Ta'shkal در بازی WoW: Forever شدند که ظاهری ویژه دارد و از توانایی حملهٔ سریع بهره می‌برد.",
+   "body_fa": [
+    "یک پت مخفی برای کلاس Hunter در سرورهای WoW: Forever کشف شده است که علاوه بر مهارت‌های قابل‌توجه، ظاهر متفاوتی نیز به همراه دارد. مدل ظاهری این موجود همان مدل گربهٔ غیرقابل‌رام‌شدن Corrupted Cat است که از نسخهٔ Vanilla در بازی حضور داشت. با وجود این‌که بازیکنان در سرورهای Retail از زمان Cataclysm امکان رام‌کردن آن را داشتند، زنجیره‌کوئست آن در نسخهٔ Classic هرگز اجازه رام‌کردن این بچه گربه را نمی‌داد. این شیوهٔ دستیابی توسط یک هانتر لول ۵۹ با نام Zsastrasza کشف و گزارش شده است.",
+    {
+     "t": "h",
+     "x": "مراحل احضار و رام‌کردن Ta'shkal"
+    },
+    "برای دسترسی به این پت، ابتدا باید آیتم Corrupted Cat Figurine را به دست آورید و سپس اقدام به احضار آن در منطقهٔ Mount Hyjal کنید.",
+    {
+     "t": "ol",
+     "xs": [
+      "یافتن آیتم Corrupted Cat Figurine در Fel Pool واقع در مختصات 47.0 75.0 (برخی بازیکنان اشاره کرده‌اند که این مجسمه نقاط اسپاون متعددی دارد، اما همچنان اطراف همان Fel Pool دیده می‌شود).",
+      "کلیک بر روی فانوس Lonely Lantern در مختصات 26.0 65.0 جهت احضار پت.",
+      "رام‌کردن موجود احضارشده با نام Ta'shkal <Escaped Experiment>."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "کاربرد و ویژگی‌های سرعتی پت"
+    },
+    "پیش از کشف Ta'shkal، تنها گزینهٔ بازیکنان برای دستیابی به پت دارای مهارت Faster Attack VII گربهٔ نایاب Broken Tooth در منطقهٔ Badlands بود. اگرچه برای برداشتن مجسمه رقابت میان بازیکنان وجود دارد، اما این روند بسیار آسان‌تر از کمپ‌کردن مداوم برای یک ماب نایاب است.",
+    "ضربات پت‌ها نرمال‌سازی شده است؛ بنابراین هرچه سرعت ضربه بالاتر باشد، دمیج واردشده در هر ضربه کمتر است. قابلیت Faster Attack VII از لحاظ سرعت فنی بهترین به شمار می‌رود، اما برای بازیکنان بخش PvE تفاوت عملکردی محسوسی نسبت به گربه‌ها یا رپتورهای اندکی کندتر نخواهد داشت. با این حال، بازیکنان PvP به دلیل ایجاد pushback بیشتر روی کسترهای حین نبرد، مزیت مناسبی دریافت خواهند کرد.",
+    {
+     "t": "note",
+     "x": "ابزار اختصاصی Wowhead برای پت‌های هانتر امکان فیلتر بر اساس مدل، فمیلی، ابیلیتی، کمیابی و مناطق را فراهم کرده است.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "WoW: Forever",
+    "Hunter",
+    "پت هانتر"
+   ],
+   "items": [],
+   "title_en": "Tame a Secret Hunter Pet in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383902",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383902-tame-a-secret-hunter-pet-in-wow-forever.html",
+   "published_at": "2026-11-19T14:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383902/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383902/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383924,
+   "slug": "turn-on-in-game-quest-objective-markers-for-easier-navigation-in-wow-f",
+   "title_fa": "فعال‌سازی نشانگرهای درون‌بازی کوئست در WoW: Forever",
+   "lead_fa": "بازیکنان می‌توانند با اجرای یک دستور ساده در چت، سیستم ناوبری درون‌بازی را در WoW: Forever فعال کرده و بدون نیاز به افزونه به انجام کوئست‌ها بپردازند.",
+   "body_fa": [
+    "نشانگرهای درون‌بازی اهداف کوئست در WoW: Forever در دسترس قرار دارند و مسیریابی را بدون نیاز به Addonهای جانبی ساده‌تر می‌کنند. از آنجا که WoW: Forever بر پایه کلاینت Retail ساخته شده، برخی از بهبودهای سیستم کوئستینگ Retail را به همراه دارد.",
+    {
+     "t": "h",
+     "x": "بهبودهای سیستم کوئستینگ"
+    },
+    "این بهبودها مواردی همچون نمایش اهداف و مناطق کوئست روی نقشه و مشخص شدن ماب‌های موردنیاز کوئست را شامل می‌شود. با این حال، یک قابلیت دیگر کلاینت Retail نیز وجود دارد که بازیکنان شخصاً می‌توانند آن را فعال کنند.",
+    {
+     "t": "h",
+     "x": "دستور فعال‌سازی ناوبری درون‌بازی"
+    },
+    "با نوشتن دستور زیر در کادر چت، یک الماس زردرنگ برای کوئست انتخابی مستقیماً در جهان بازی ظاهر می‌شود:",
+    {
+     "t": "note",
+     "x": "دستور فعال‌سازی: /console showInGameNavigation 1",
+     "kind": "tip"
+    },
+    "این الماس زرد، هدف کوئست انتخابی را بدون نیاز به باز کردن نقشه یا استفاده از هیچ افزونه‌ای درون محیط بازی نشان می‌دهد. اگر کوئست آماده تحویل باشد یا نیازمند رفتن به یک موقعیت مکانی مشخص باشد، این سیستم ناوبری محل دقیق آن را مشخص می‌کند.",
+    "این قابلیت به‌ویژه زمانی کاربرد دارد که یک هدف در سطحی بالاتر یا پایین‌تر از موقعیت فعلی قرار گرفته باشد، زیرا اختلاف ارتفاع به‌خوبی روی نقشه‌های دوبعدی نمایش داده نمی‌شود. نشانگر زرد درست در همان نقطه‌ای که باید بروید قرار می‌گیرد."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "راهنما",
+    "کلاینت Retail"
+   ],
+   "items": [],
+   "title_en": "Turn On In-Game Quest Objective Markers for Easier Navigation in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383924",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383924-turn-on-in-game-quest-objective-markers-for-easier-navigation-in-wow-f.html",
+   "published_at": "2026-11-19T01:25:22Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383924/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383924/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383919,
    "slug": "weekly-gold-quest-requires-blackrock-spire-and-blackrock-depths-in-wow",
@@ -71,6 +170,60 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383919/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383917,
+   "slug": "auction-house-minimum-deposit-reduced-to-1-copper-in-wow-forever",
+   "title_fa": "کاهش حداقل هزینه ودیعه در Auction House به ۱ مس در نسخه Forever",
+   "lead_fa": "با ریست هفتگی اخیر، حداقل ودیعه لازم برای ثبت آیتم‌ها در Auction House به ۱ Copper کاهش پیدا کرد.",
+   "body_fa": [
+    "پس از گذشت نزدیک به دو هفته از عرضه و بیش از یک هفته پس از اعلام Blizzard مبنی بر تغییر سیستم ودیعه، سرانجام با ریست هفتگی حداقل هزینه ثبت آیتم در Auction House به ۱ Copper بازگشت.",
+    "پیش از این تغییر، بازیکنان موظف بودند برای ثبت هر آیتم حداقل ودیعه‌ای معادل ۱ Silver پرداخت کنند که اکنون این الزام برداشته شده است.",
+    {
+     "t": "h",
+     "x": "فرمول جدید ودیعه در حراجی‌های فکشن"
+    },
+    "در Auction House وابسته به هر فکشن، هزینه ودیعه اکنون کاملاً از فرمول زمانی مشخصی پیروی می‌کند:",
+    {
+     "t": "table",
+     "head": [
+      "مدت زمان",
+      "هزینه ودیعه"
+     ],
+     "rows": [
+      [
+       "24 Hours",
+       "60% of Vendor Price"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "x": "این تغییر به‌ویژه برای متریال‌های ارزان‌قیمت در لول‌های اولیه بسیار مناسب است، زیرا مانع از پرداخت ودیعه‌ای بیشتر از ارزش واقعی آیتم می‌شود.",
+     "kind": "tip"
+    }
+   ],
+   "tags_fa": [
+    "Auction House",
+    "Forever",
+    "اقتصاد",
+    "تغییرات بازی"
+   ],
+   "items": [],
+   "title_en": "Auction House Minimum Deposit Reduced to 1 Copper in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383917",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383917-auction-house-minimum-deposit-reduced-to-1-copper-in-wow-forever.html",
+   "published_at": "2026-11-18T16:32:27Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383917/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383917/1.png",
      "cap": ""
     }
    ]
@@ -3422,143 +3575,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383815,
-   "slug": "blizzard-taking-down-wow-forever-servers-shortly",
-   "title_fa": "خاموشی موقت سرورهای WoW: Forever توسط Blizzard",
-   "lead_fa": "شرکت Blizzard با ارسال پیام‌هایی درون بازی اعلام کرد که سرورهای WoW: Forever برای مدت کوتاهی از دسترس خارج می‌شوند.",
-   "body_fa": [
-    "شرکت Blizzard از طریق هشدارهای درون بازی به بازیکنان اطلاع داده است که سرورهای WoW: Forever به‌زودی و برای مدتی کوتاه خاموش خواهند شد.",
-    {
-     "t": "quote",
-     "x": "متأسفیم، ما ناچاریم سرورها را برای مدت کوتاهی از دسترس خارج کنیم. چند مرلاک بازیگوش به اتاق سرور هجوم آورده‌اند و دست از سر دادن صدای mrrglglgl به همه چیز برنمی‌دارند.",
-     "by": "پیام درون بازی — Blizzard"
-    },
-    {
-     "t": "note",
-     "x": "این اقدام بدون اعلام بازهٔ زمانی طولانی و به‌صورت خاموشی مقطعی برای انجام بررسی‌ها اعلام شده است.",
-     "kind": "info"
-    },
-    "طبق جزئیات ثبت‌شده در گزارش‌های پیرامون این نسخه و اخبار منتهی به نوامبر 2026، اطلاعیه مربوط به این خاموشی موقت تحت شماره خبر 383815 منتشر شده است. همچنین در بخش بازخوردها بازیکنان دربارهٔ وضعیت پچ 1.60.1 و موضوعاتی نظیر رسیدن به سطح 60 تبادل نظر کردند؛ جایی که 20 دیدگاه از مجموع 20 نظر در صفحه در دسترس قرار گرفت و برخی کاربران مانند کاربر رتبه 22 نظرات خود را پیرامون اختلالات به ثبت رساندند که حدود 15 دقیقه یا بیشتر پیش از آغاز خاموشی کامل گزارش شده بودند."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "Blizzard",
-    "سرورها"
-   ],
-   "items": [],
-   "title_en": "Blizzard Taking Down WoW: Forever Servers Shortly",
-   "source_url": "https://www.wowhead.com/news=383815",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383815-blizzard-taking-down-wow-forever-servers-shortly.html",
-   "published_at": "2026-11-09T21:55:05Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383815/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383815/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383801,
-   "slug": "level-faster-with-your-cozy-sleeping-bag-in-wow-forever",
-   "title_fa": "کیسه‌خواب دنج برای لول‌آپ سریع‌تر در WoW: Forever",
-   "lead_fa": "زنجیره‌کوئست دریافت کیسه‌خواب دنج در سرورهای WoW: Forever با ارائهٔ امتیاز تجربه و بف اختصاصی، مسیر رسیدن به لول ۶۰ را کوتاه‌تر می‌کند.",
-   "body_fa": [
-    "زنجیره‌کوئست مربوط به [[item:Cozy Sleeping Bag]] در بازی World of Warcraft: Forever بازیکنان را به نقاط مختلف Azeroth می‌فرستد. این مسیر هنگام انجام مراحل، میزان Experience مناسبی اعطا می‌کند، اما پاداش اصلی در پایان آن نهفته است؛ جایی که کیسه‌خواب دنج به دست می‌آید. بازیکنانی که پیش‌تر در Season of Discovery حضور داشته‌اند ممکن است با این مأموریت‌ها آشنا باشند، اما با انتشار Forever، بهترین زمان برای دریافت این آیتم فرارسیده است.",
-    "شاید به پایان رساندن این خط مأموریت شبیه یک کار وقت‌گیر به نظر برسد که بتوان از آن گذشت، ولی در مسیر پیش‌رو برای رسیدن به لول 60، این تغییر مسیر ارزشی فراتر از انتظار دارد.",
-    {
-     "t": "h",
-     "x": "تفاوت زمان و مسیر در دو فکشن"
-    },
-    "مدت‌زمان تقریبی برای بازیکنان فکشن‌های مختلف متفاوت است:",
-    {
-     "t": "ul",
-     "xs": [
-      "بازیکنان Alliance حدوداً طی ۸۹ دقیقه می‌توانند مسیر را به پایان برسانند.",
-      "بازیکنان Horde به زمان بیشتری نیاز دارند و مسیر آن‌ها تقریباً ۱۰۳ دقیقه طول می‌کشد."
-     ]
-    },
-    "علت کندتر بودن مسیر فکشن Horde به ترتیب گام‌ها بازمی‌گردد؛ بازیکنان Horde باید مسیر Barrens سپس Westfall و در نهایت Stonetalon را طی کنند، در حالی که مسیر Alliance به ترتیب Westfall، سپس Barrens و پس از آن Stonetalon است و گام سوم آن‌ها به گام دومشان نزدیک‌تر واقع شده است.",
-    {
-     "t": "h",
-     "x": "نقاط شروع مأموریت"
-    },
-    "شروع این خط کوئست به دو نقطهٔ مشخص وابسته است:",
-    {
-     "t": "ul",
-     "xs": [
-      "بخش Burned-Out Remains واقع در Rubble of Cart Wreckage",
-      "بخش Burned-Out Remains واقع در Rubble of the Burnt Tower"
-     ]
-    },
-    {
-     "t": "note",
-     "x": "بف ۳٪ حاصل از Well-Rested بین لول‌های ۵۰ و ۶۰ می‌تواند شما را از کشتن ۱۶۲ ماب نجات دهد.",
-     "kind": "tip"
-    },
-    "محاسبه‌گر امتیاز تجربه با در نظر گرفتن بف ۳٪ حالت Well-Rested به‌روزرسانی شده است؛ با فرض این‌که از لول ۵۰ تا ۶۰ فقط ماب‌های هم‌سطح خود را شکست دهید، همین ۳٪ ساده شما را از کشتن ۱۶۲ ماب بی‌نیاز می‌سازد. همچنین می‌توان این اثر را با بف ۵٪ تجربه ناشی از Well-Fed که از برخی غذاها دریافت می‌شود ترکیب کرد."
-   ],
-   "tags_fa": [],
-   "items": [],
-   "title_en": "Level Faster with your Cozy Sleeping Bag in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383801",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383801-level-faster-with-your-cozy-sleeping-bag-in-wow-forever.html",
-   "published_at": "2026-11-09T15:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383801/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383801/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383808,
-   "slug": "blizzard-buffs-dungeon-enemy-experience-gains",
-   "title_fa": "افزایش ۵۰ درصدی تجربه دریافتی از کشتن موجودات در دانجن‌ها",
-   "lead_fa": "بلیزارد در یک هاتفیکس تازه، میزان Experience دریافتی از موجودات درون دانجن‌ها را ۵۰٪ افزایش داد.",
-   "body_fa": [
-    "با انتشار یک هاتفیکس جدید، میزان Experience حاصل از کشتن موجودات داخل دانجن‌ها به مقدار ۵۰٪ افزایش یافته است.",
-    "پیش از این و پس از اعمال تغییراتی که در آن Experience کوئست‌های دانجن افزایش و در مقابل، میزان دریافت آن از موجودات (mobs) کاهش یافته بود، بسیاری از بازیکنان روش یک‌بار رفتن به دانجن را در پیش گرفته بودند. از آنجا که بخش عمده تجربه از خود کوئست‌ها به دست می‌آمد، بازیکنان احساس می‌کردند تکرار دوباره دانجن ارزش وقت گذاشتن ندارد. با اعمال این تغییر، رفتن دوباره به دانجن برای کمک به دوستان حس بهتری خواهد داشت.",
-    {
-     "t": "quote",
-     "x": "امروز حدود ساعت 11:05 PST، ما هاتفیکسی را اعمال کردیم که تجربه حاصل از کشتن در دانجن‌ها را ۵۰٪ افزایش داد، تا بازگشت و رفتن دوباره به دانجن‌ها حس بهتری داشته باشد. دانجن‌گردی خوش بگذرد و با آرزوی موفقیت برای آن Deviate Hides!",
-     "by": "Blizzard"
-    },
-    {
-     "t": "note",
-     "x": "این هاتفیکس مستقیماً برای برطرف کردن حس بی‌ارزش بودن تکرار دانجن‌ها پس از اتمام کوئست‌ها طراحی شده است.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "دانجن",
-    "Blizzard"
-   ],
-   "items": [],
-   "title_en": "Blizzard Buffs Dungeon Enemy Experience Gains",
-   "source_url": "https://www.wowhead.com/news=383808",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383808-blizzard-buffs-dungeon-enemy-experience-gains.html",
-   "published_at": "2026-11-08T19:52:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383808/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383808/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3568,20 +3584,6 @@
    "url": "https://www.wowhead.com/news=383896",
    "category": "Forever",
    "published_at": "2026-11-19T15:00:00Z"
-  },
-  {
-   "id": 383902,
-   "title_en": "Tame a Secret Hunter Pet in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383902",
-   "category": "Forever",
-   "published_at": "2026-11-19T14:00:00Z"
-  },
-  {
-   "id": 383924,
-   "title_en": "Turn On In-Game Quest Objective Markers for Easier Navigation in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383924",
-   "category": "Forever",
-   "published_at": "2026-11-19T01:25:22Z"
   },
   {
    "id": 383920,
@@ -3596,13 +3598,6 @@
    "url": "https://www.wowhead.com/news=383918",
    "category": "Forever",
    "published_at": "2026-11-18T18:03:36Z"
-  },
-  {
-   "id": 383917,
-   "title_en": "Auction House Minimum Deposit Reduced to 1 Copper in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383917",
-   "category": "Forever",
-   "published_at": "2026-11-18T16:32:27Z"
   },
   {
    "id": 383907,
@@ -3841,6 +3836,20 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
+  },
+  {
+   "id": 383519,
+   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383519",
+   "category": "Live",
+   "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }

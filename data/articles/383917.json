@@ -88,7 +88,7 @@
   ],
   "chars": 632
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383917/1.png",
@@ -98,5 +98,47 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383917/1.png",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 1,
- "hold_at": "2026-11-19T00:47:34Z"
+ "hold_at": "2026-11-19T00:47:34Z",
+ "article_fa": {
+  "title_fa": "کاهش حداقل هزینه ودیعه در Auction House به ۱ مس در نسخه Forever",
+  "lead_fa": "با ریست هفتگی اخیر، حداقل ودیعه لازم برای ثبت آیتم‌ها در Auction House به ۱ Copper کاهش پیدا کرد.",
+  "body_fa": [
+   "پس از گذشت نزدیک به دو هفته از عرضه و بیش از یک هفته پس از اعلام Blizzard مبنی بر تغییر سیستم ودیعه، سرانجام با ریست هفتگی حداقل هزینه ثبت آیتم در Auction House به ۱ Copper بازگشت.",
+   "پیش از این تغییر، بازیکنان موظف بودند برای ثبت هر آیتم حداقل ودیعه‌ای معادل ۱ Silver پرداخت کنند که اکنون این الزام برداشته شده است.",
+   {
+    "t": "h",
+    "x": "فرمول جدید ودیعه در حراجی‌های فکشن"
+   },
+   "در Auction House وابسته به هر فکشن، هزینه ودیعه اکنون کاملاً از فرمول زمانی مشخصی پیروی می‌کند:",
+   {
+    "t": "table",
+    "head": [
+     "مدت زمان",
+     "هزینه ودیعه"
+    ],
+    "rows": [
+     [
+      "24 Hours",
+      "60% of Vendor Price"
+     ]
+    ]
+   },
+   {
+    "t": "note",
+    "x": "این تغییر به‌ویژه برای متریال‌های ارزان‌قیمت در لول‌های اولیه بسیار مناسب است، زیرا مانع از پرداخت ودیعه‌ای بیشتر از ارزش واقعی آیتم می‌شود.",
+    "kind": "tip"
+   }
+  ],
+  "tags_fa": [
+   "Auction House",
+   "Forever",
+   "اقتصاد",
+   "تغییرات بازی"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-19T19:01:18Z"
+ }
 }
