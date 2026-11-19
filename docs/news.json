@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T01:25:53Z",
+ "generated": "2026-11-19T01:27:17Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3562,6 +3562,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383920,
+   "title_en": "All Mythic Difficulty Achievements Removed from Talebound on Patch 12.1.7 PTR",
+   "url": "https://www.wowhead.com/news=383920",
+   "category": "PTR",
+   "published_at": "2026-11-19T00:09:30Z"
+  },
   {
    "id": 383918,
    "title_en": "WoW: Forever PvP Overview Video - Honor Rewards & Battlegrounds",
