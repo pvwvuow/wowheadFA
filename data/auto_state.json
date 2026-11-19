@@ -1,6 +1,6 @@
 {
  "day": "2026-11-19",
- "published_today": 4,
+ "published_today": 5,
  "held": {
   "383896": {
    "reason": "payload نامعتبر: body_fa block 2: item needs id/ids/name",
@@ -11,63 +11,33 @@
    "reason": "G5 English token not in source: silver",
    "at": "2026-11-19T18:51:13Z",
    "at_ts": 1795114273.054283
+  },
+  "383907": {
+   "reason": "G4 numbers from source missing in article: 1792714324421, 1794506821192, 1794506821264, 1794506821502, 1794512828458, 1794513496091, 1794858221236, 248",
+   "at": "2026-11-19T21:09:08Z",
+   "at_ts": 1795122548.648664
+  },
+  "383903": {
+   "reason": "G3 long English run: th we had the return of classic world bosses. It continues onward.\nFor... | G3 long English run: th we had a pet and a new mount for the same wb....",
+   "at": "2026-11-19T21:22:20Z",
+   "at_ts": 1795123340.23905
+  },
+  "383863": {
+   "reason": "G4 numbers from source missing in article: 10, 100, 11, 12.1.5, 12.2, 13, 14, 15",
+   "at": "2026-11-19T21:35:26Z",
+   "at_ts": 1795124126.924607
+  },
+  "383824": {
+   "reason": "G4 numbers from source missing in article: 1.60.1.70888, 100, 11, 113886, 13, 15, 17, 19:04",
+   "at": "2026-11-19T21:46:29Z",
+   "at_ts": 1795124789.932185
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-19T19:01:18Z",
+ "updated_at": "2026-11-19T21:46:29Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383736",
-    "ts": "2026-11-16T19:26:52Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 63.0,
-    "attempts": 0
-   },
-   {
-    "id": "383725",
-    "ts": "2026-11-16T19:27:53Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 61.4,
-    "attempts": 0
-   },
-   {
-    "id": "383735",
-    "ts": "2026-11-16T19:29:10Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 76.1,
-    "attempts": 0
-   },
-   {
-    "id": "383720",
-    "ts": "2026-11-16T19:30:01Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 51.5,
-    "attempts": 0
-   },
-   {
-    "id": "383716",
-    "ts": "2026-11-16T19:31:05Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 64.4,
-    "attempts": 0
-   },
    {
     "id": "383713",
     "ts": "2026-11-16T19:31:47Z",
@@ -4017,6 +3987,56 @@
     "warns": 0,
     "sec": 605.2,
     "attempts": 1
+   },
+   {
+    "id": "383927",
+    "ts": "2026-11-19T20:58:50Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 351.8,
+    "attempts": 1
+   },
+   {
+    "id": "383907",
+    "ts": "2026-11-19T21:09:08Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 618.4,
+    "attempts": 2
+   },
+   {
+    "id": "383903",
+    "ts": "2026-11-19T21:22:20Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 791.6,
+    "attempts": 2
+   },
+   {
+    "id": "383863",
+    "ts": "2026-11-19T21:35:26Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 786.7,
+    "attempts": 2
+   },
+   {
+    "id": "383824",
+    "ts": "2026-11-19T21:46:29Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 663.0,
+    "attempts": 2
    }
   ]
  }
