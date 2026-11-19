@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T01:50:36Z",
+ "generated": "2026-11-19T12:29:16Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -77,7 +77,7 @@
   },
   {
    "id": 383914,
-   "slug": "ubrs-damage-and-health-increases-shen-dralas-improvements-wow-forever-",
+   "slug": "ubrs-damage-and-health-increases-shen-dralas-improvements-wow-forever",
    "title_fa": "افزایش سختی UBRS و بهبود روند کوئست‌های منطقه Shen'dralas",
    "lead_fa": "هاتفیکس‌های ۱۷ نوامبر ۲۰۲۶ برای بازی، سلامتی و دمیج دشمنان در Upper Blackrock Spire را افزایش داده و تغییرات مهمی در روند مأموریت‌های Shen'dralas و دانجن‌ها اعمال کرده است.",
    "body_fa": [
@@ -143,7 +143,7 @@
    "items": [],
    "title_en": "UBRS Damage and Health Increases & Shen'dralas Improvements - WoW: Forever Hotfixes for November 17, 2026",
    "source_url": "https://www.wowhead.com/news=383914",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383914-ubrs-damage-and-health-increases-shen-dralas-improvements-wow-forever-.html",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383914-ubrs-damage-and-health-increases-shen-dralas-improvements-wow-forever.html",
    "published_at": "2026-11-18T03:43:47Z",
    "model": "gemini-flash-latest",
    "via": "auto-gemini",
@@ -592,7 +592,7 @@
   },
   {
    "id": 383900,
-   "slug": "more-classes-quest-and-item-changes-wow-forever-hotfixes-for-november-",
+   "slug": "more-classes-quest-and-item-changes-wow-forever-hotfixes-for-november",
    "title_fa": "هاتفیکس‌های ۱۶ نوامبر ۲۰۲۶ برای WoW: Forever",
    "lead_fa": "بلیزارد مجموعه‌ای از هاتفیکس‌های جدید را برای کلاس‌ها، دانجن‌ها، کوئست‌ها و آیتم‌ها در WoW: Forever منتشر کرد.",
    "body_fa": [
@@ -665,7 +665,7 @@
    "items": [],
    "title_en": "More Classes, Quest, and Item Changes - WoW: Forever Hotfixes for November 16, 2026",
    "source_url": "https://www.wowhead.com/news=383900",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383900-more-classes-quest-and-item-changes-wow-forever-hotfixes-for-november-.html",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383900-more-classes-quest-and-item-changes-wow-forever-hotfixes-for-november.html",
    "published_at": "2026-11-17T02:23:22Z",
    "model": "gemini-flash-latest",
    "via": "auto-gemini",
@@ -2406,7 +2406,7 @@
   },
   {
    "id": 383848,
-   "slug": "tailoring-bag-cost-and-size-changes-wow-forever-hotfixes-for-november-",
+   "slug": "tailoring-bag-cost-and-size-changes-wow-forever-hotfixes-for-november",
    "title_fa": "هاتفیکس‌های ۱۱ نوامبر ۲۰۲۶: تغییر ظرفیت و هزینه ساخت کیف‌های Tailoring",
    "lead_fa": "جدیدترین هاتفیکس‌های بازی با تغییر در هزینه ساخت و ظرفیت کیف‌های خیاطی، غیرفعال شدن موقت Item Restoration و اصلاحاتی برای چندین کلاس همراه شده است.",
    "body_fa": [
@@ -2473,7 +2473,7 @@
    "items": [],
    "title_en": "Tailoring Bag Cost and Size Changes - WoW: Forever Hotfixes for November 11th, 2026",
    "source_url": "https://www.wowhead.com/news=383848",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383848-tailoring-bag-cost-and-size-changes-wow-forever-hotfixes-for-november-.html",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383848-tailoring-bag-cost-and-size-changes-wow-forever-hotfixes-for-november.html",
    "published_at": "2026-11-12T00:52:58Z",
    "model": "gemini-flash-latest",
    "via": "auto-gemini",
