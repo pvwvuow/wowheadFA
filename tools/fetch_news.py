@@ -116,7 +116,9 @@ def make_qa_facts(text: str, title_en: str = "") -> dict:
 
 def slugify(title: str) -> str:
     s = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
-    return re.sub(r"-{2,}", "-", s)[:70]
+    # strip AFTER the [:70] cut: a 70-char boundary landing on a hyphen
+    # used to leave a trailing "-" in the slug (feed 383914 et al.)
+    return re.sub(r"-{2,}", "-", s)[:70].rstrip("-")
 
 
 def parse_item(it) -> dict | None:

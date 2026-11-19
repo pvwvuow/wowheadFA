@@ -25,6 +25,16 @@ from datetime import datetime, timezone
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import item_render  # noqa: E402
+import fetch_news as FN  # noqa: E402
+
+
+def article_slug(art):
+    """canonical "<id>-<slug>" string — the ONE source for article file
+    names, card links, RSS, sitemaps and page_url. Always re-runs the
+    canonical fetch_news.slugify over the stored slug instead of trusting
+    it raw (old rows could carry a trailing "-" from the pre-fix [:70]
+    cut, e.g. feed 383914)."""
+    return f"{art['id']}-{FN.slugify(art['slug'])}"
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ART = os.path.join(ROOT, "data", "articles")
@@ -283,7 +293,7 @@ def lead_figures(art, body):
 
 def article_page(art):
     a = art["article_fa"]
-    slug = f"{art['id']}-{art['slug']}"
+    slug = article_slug(art)
     url = f"{BASE}/article/{slug}.html"
     paras = render_blocks(a["body_fa"])
     figs = lead_figures(art, a["body_fa"])
@@ -326,7 +336,7 @@ def index_page(arts):
     cards = []
     for art in arts:
         a = art["article_fa"]
-        slug = f"{art['id']}-{art['slug']}"
+        slug = article_slug(art)
         draft = "" if art["status"] == "published" else \
             f' <span class="badge">{DRAFT_FA}</span>'
         tags = " ".join(f'<span class="tag">{esc(t)}</span>'
@@ -400,7 +410,7 @@ def item_page(rec):
              if q else "")
     lrows = []
     for a in arts[:12]:
-        aslug = f"{a['id']}-{a['slug']}"
+        aslug = article_slug(a)
         atitle = esc(a["article_fa"]["title_fa"])
         adate = esc(fa_date(a["published_at"]))
         lrows.append(f'<li><a href="{BASE}/article/{aslug}.html">{atitle}</a>'
@@ -502,7 +512,7 @@ def main():
 
     pub = [a for a in arts if a["status"] == "published"]
     for art in pub:
-        slug = f"{art['id']}-{art['slug']}"
+        slug = article_slug(art)
         with open(os.path.join(DOCS, "article", f"{slug}.html"), "w",
                   encoding="utf-8") as fh:
             fh.write(article_page(art))
@@ -546,7 +556,7 @@ def main():
     items = []
     for art in pub[:60]:
         a = art["article_fa"]
-        slug = f"{art['id']}-{art['slug']}"
+        slug = article_slug(art)
         items.append(f"""<item><title>{esc(a['title_fa'])}</title>
 <link>{BASE}/article/{esc(slug)}.html</link>
 <guid>{BASE}/article/{esc(slug)}.html</guid>
@@ -561,7 +571,7 @@ def main():
     # sitemap (with lastmod) + news-sitemap + robots + IndexNow key file
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     urls = [(BASE + "/", today)]
-    urls += [(f"{BASE}/article/{a['id']}-{a['slug']}.html",
+    urls += [(f"{BASE}/article/{article_slug(a)}.html",
               a.get("published_at", "")[:10] or today) for a in pub]
     urls += [(BASE + "/items.html", today)]
     urls += [(f"{BASE}/item/{item_slug(r['name'])}.html",
@@ -584,7 +594,7 @@ def main():
     recent = [a for a in pub if _hours(a.get("published_at", "")) <= 48]
     news_rows = []
     for a in recent[:1000]:
-        aslug = f"{a['id']}-{a['slug']}"
+        aslug = article_slug(a)
         at = esc(a["article_fa"]["title_fa"])
         news_rows.append(
             f"<url><loc>{BASE}/article/{aslug}.html</loc>"
@@ -614,13 +624,13 @@ def main():
     def pub_item(art):
         a = art["article_fa"]
         return {
-            "id": art["id"], "slug": art["slug"],
+            "id": art["id"], "slug": FN.slugify(art["slug"]),
             "title_fa": a["title_fa"], "lead_fa": a["lead_fa"],
             "body_fa": a["body_fa"], "tags_fa": a.get("tags_fa", []),
             "items": item_render.merged_items(art),
             "title_en": art.get("title_en", ""),
             "source_url": art["url"],
-            "page_url": f"{BASE}/article/{art['id']}-{art['slug']}.html",
+            "page_url": f"{BASE}/article/{article_slug(art)}.html",
             "published_at": art.get("published_at", ""),
             "model": (art.get("generator") or {}).get("model", ""),
             "via": (art.get("generator") or {}).get("via", ""),
