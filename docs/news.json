@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T19:28:26Z",
+ "generated": "2026-11-19T22:11:49Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3579,6 +3579,13 @@
  ],
  "queue": [
   {
+   "id": 383935,
+   "title_en": "Motes of Unstable Magic Now Soulbound in WoW: Forever - Gold Strategy Nerfed",
+   "url": "https://www.wowhead.com/news=383935",
+   "category": "Forever",
+   "published_at": "2026-11-19T21:23:45Z"
+  },
+  {
    "id": 383931,
    "title_en": "Blizzard Wants to Get Rid of BiS in WoW: Forever",
    "url": "https://www.wowhead.com/news=383931",
@@ -3850,13 +3857,6 @@
    "url": "https://www.wowhead.com/news=383543",
    "category": "Forever",
    "published_at": "2026-10-22T18:15:43Z"
-  },
-  {
-   "id": 383541,
-   "title_en": "The WoW: Forever End of Beta Celebration Has Begun ft. Azuregos and Kazzak",
-   "url": "https://www.wowhead.com/news=383541",
-   "category": "Forever",
-   "published_at": "2026-10-22T17:13:00Z"
   }
  ]
 }
