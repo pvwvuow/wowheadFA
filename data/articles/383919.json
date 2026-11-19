@@ -128,12 +128,72 @@
   ],
   "chars": 1105
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383919/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383919/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383919/1.jpg",
+ "article_fa": {
+  "title_fa": "کوئست هفتگی گلد در WoW: Forever نیازمند پاکسازی سیاهچاله‌های Blackrock است",
+  "lead_fa": "بازیکنان لول ۶۰ در این هفته برای اتمام کوئست هفتگی گلد باید به دو دانجن Blackrock Spire و Blackrock Depths بروند.",
+  "body_fa": [
+   "شخصیت‌ها پس از رسیدن به لول ۶۰ می‌توانند یک کوئست Weekly را از Booty Bay دریافت کنند. در حالی که طی دو هفتهٔ گذشته بازیکنان ملزم به انجام Dire Maul بودند، کوئست این هفته In Demand - Blackrock Legal Records نام دارد و مستلزم به پایان رساندن Blackrock Spire و Blackrock Depths است.",
+   {
+    "t": "h",
+    "x": "آیتم‌های مورد نیاز کوئست"
+   },
+   "برای تحویل این کوئست به Pix Xizzix در منطقهٔ Booty Bay، باید سه آیتم زیر از باس‌های مشخص به دست آیند:",
+   {
+    "t": "ul",
+    "xs": [
+     "آیتم Nefarion's Remit از General Drakkisath در Blackrock Spire",
+     "آیتم Overseer's License از Overlord Wyrmthalak در Blackrock Spire",
+     "آیتم Bronzebeard Wedding Contract از Emperor Thaurissan در Blackrock Depths"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "پاداش‌ها و محتویات کیف"
+   },
+   "تکمیل این مأموریت همانند هفتهٔ قبل به شما یک [[item:Undermine Satchel]] می‌دهد که می‌تواند تا ۱۰۰ گلد و مقداری متریال اضافه داشته باشد. همچنین داده‌های افزونهٔ Wowhead Looter نشان می‌دهد که این کیف دراپ‌های تأییدشدهٔ بسیار بیشتری از متریال‌های ساخت‌وساز را شامل می‌شود.",
+   {
+    "t": "table",
+    "head": [
+     "آیتم باارزش",
+     "قیمت فروش"
+    ],
+    "rows": [
+     [
+      "Gold Nugget",
+      "10g"
+     ],
+     [
+      "Huge Quartz Gem",
+      "20g"
+     ],
+     [
+      "Silver Necklace",
+      "40g"
+     ],
+     [
+      "Gold Ring",
+      "100g"
+     ]
+    ]
+   }
+  ],
+  "tags_fa": [
+   "کوئست هفتگی",
+   "WoW Forever",
+   "فارم گلد"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-19T00:44:37Z"
+ }
 }
