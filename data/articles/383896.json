@@ -280,5 +280,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383896/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383896/1.jpg",
+ "hold_reason": "payload نامعتبر: body_fa block 2: item needs id/ids/name",
+ "hold_count": 1,
+ "hold_at": "2026-11-19T18:24:37Z"
 }
