@@ -398,6 +398,7 @@
    "ritualist's",
    "rose",
    "rouncey",
+   "rows",
    "rune",
    "runestane",
    "sacred",
@@ -437,6 +438,7 @@
    "souls",
    "speak",
    "spear",
+   "spec",
    "specific",
    "spend",
    "spike",
@@ -550,12 +552,163 @@
   ],
   "chars": 12481
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383930/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383930/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383930/1.jpg",
+ "article_fa": {
+  "title_fa": "جوایز حالت Talebound در پچ 12.1.7 معرفی شد",
+  "lead_fa": "شرکت Blizzard با انتشار پستی رسمی، پاداش‌های حالت بازی جدید Talebound در پچ 12.1.7 را به نمایش گذاشت که شامل ست‌های ترنسموگ، مانت‌ها، اسباب‌بازی‌ها و تجهیزات مختلف است.",
+  "body_fa": [
+   "شرکت Blizzard با انتشار پستی رسمی، پاداش‌های حالت Talebound در پچ 12.1.7 را معرفی کرد. این محتوای جدید در تاریخ ۱ دسامبر در دسترس قرار می‌گیرد و شامل ست‌های ترنسموگ، اچیومنت‌ها، پت‌ها، مانت‌ها، ترنزینشن‌ها، اسباب‌بازی‌ها و حتی آیتم‌های دارای Gear و Crest خواهد بود. همچنین معجون‌های افزایش Experience نیز در دسترس بازیکنان قرار می‌گیرد تا بتوانند کاراکترهای Alt خود را لول‌آپ کنند.",
+   {
+    "t": "h",
+    "x": "ارزهای Bound Silver و Ducats"
+   },
+   "بازیکنان با تکمیل کوئست‌ها، اچیومنت‌ها و پیشرفت در Tales of the Storyteller، ارز متصل به واربند به نام Bound Silver دریافت خواهند کرد. علاوه بر آن، در مسیر بازی Ducats جمع‌آوری می‌شود که برای تهیه منابع مورد نیاز پیشرفت در Talebound و همچنین تبدیل به Bound Silver کاربرد دارد. پس از پایان هر داستان، بازیکنان می‌توانند در Quillgrave ارز Ducats را نزد Nib تحویل داده و پاداش‌های خود را دریافت کنند. فروشگاه Talebound از طریق صفحه انتخاب کاراکتر، منوی بازی یا به شکل مستقیم از طریق ان‌پی‌سی Nib در Quillgrave قابل دسترسی است.",
+   {
+    "t": "h",
+    "x": "نمونه‌ای از قیمت ست‌ها و آیتم‌های تزئینی"
+   },
+   {
+    "t": "table",
+    "head": [
+     "نام آیتم یا ست",
+     "هزینه بر اساس Bound Silver"
+    ],
+    "rows": [
+     [
+      "Ensemble: Witch Hunter’s Shadow Attire",
+      "4000"
+     ],
+     [
+      "Ensemble: Wood Haunter’s Guise of the Wight",
+      "3000"
+     ],
+     [
+      "Ensemble: Village Patrolman's Regalia",
+      "2500"
+     ],
+     [
+      "Ensemble: Cursed Wood-Haunt's Mask Gallery",
+      "2000"
+     ],
+     [
+      "Alchemist’s Research Kit",
+      "1500"
+     ],
+     [
+      "Ensemble: Traveler’s Charcoal Commonwear",
+      "1000"
+     ],
+     [
+      "Ensemble: Traveler’s Shadow Headgear",
+      "700"
+     ],
+     [
+      "Prowler’s Lively Shoulder Cape",
+      "600"
+     ]
+    ]
+   },
+   {
+    "t": "h",
+    "x": "مانت‌ها، پت‌ها و دکوراسیون مسکن"
+   },
+   "برای بخش مانت‌ها مواردی مانند Lost Mare of the Maddening Faire با قیمت 4000، Enchanted Woodland Wanderer و Shadowpaw Wood Watcher با قیمت 3000، و عناوینی مانند Shadowbound Storybook و Ambermill Traveler’s Rouncey با قیمت 2000 واحد Bound Silver در دسترس هستند. پت‌های همراه شامل Bewitching Familiar، Hex-Cursed Manifestation، Inquisitor’s Messenger و Slayer’s Faithful Tracker نیز هر کدام 2000 واحد هزینه دارند.",
+   "در بخش وسایل دکوراسیون، Quillgrave Talebound Shadowtome با هزینه 1000، سازه‌های Quillgrave Storyteller’s Lectern و Quillgrave Scribe’s Gemstation و Quillgrave Craftsman’s Workmill هر کدام با هزینه 800، و آیتم‌هایی نظیر Sanguine Looking Glass، Drust-Carved Rune Pillar و Drust-Carved Rune Marker با هزینه 500 در فروشگاه عرضه می‌شوند. همچنین Tidesage’s Left Copper Mascaron با قیمت 200 و Tidesage’s Right Copper Mascaron با قیمت 300 واحد قابل خرید هستند.",
+   {
+    "t": "h",
+    "x": "جوایز اچیومنت‌ها و کلاغ مسافر در Silvermoon City"
+   },
+   "مجموعه‌ای از جوایز مرتبط با اچیومنت‌ها از طریق Traveling Raven مستقر در Silvermoon City قابل دریافت است که شامل تویز Wood-Cursed Hearthstone و Hexed Tiny Tome می‌شود. پاداش‌هایی مانند معجون‌های Darkhaven Wisdom، Greenthistle Wisdom، Graywake's Wisdom و Court of Night Wisdom میزان کسب تجربه از کشتن هیولاها و تکمیل کوئست‌ها را به مدت ۲ ساعت به میزان 10٪ افزایش می‌دهند و برای لول‌های 89 و پایین‌تر قابل استفاده هستند.",
+   {
+    "t": "note",
+    "x": "ملاقات با کلاغ مسافر در Silvermoon City اچیومنت Tapping at the Trader’s Door را باز خواهد کرد.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "پچ 12.1.7",
+   "Talebound",
+   "وارکرافت",
+   "ترنسموگ"
+  ]
+ },
+ "items": [
+  {
+   "item": {
+    "name": "Dress for the Final Chapter with Talebound Transmogs",
+    "rows": [
+     [
+      "Ensemble",
+      "Traveler’s Charcoal Commonwear"
+     ],
+     [
+      "Bound Silver",
+      "۱۰۰۰"
+     ],
+     [
+      "Ensemble",
+      "Witch Hunter’s Shadow Attire"
+     ],
+     [
+      "Bound Silver",
+      "۴۰۰۰"
+     ],
+     [
+      "Ensemble",
+      "Wood Haunter’s Guise of the Wight"
+     ],
+     [
+      "Bound Silver",
+      "۳۰۰۰"
+     ],
+     [
+      "Ensemble",
+      "Drustvar Smuggler’s Attire"
+     ],
+     [
+      "Bound Silver",
+      "۱۰۰۰"
+     ],
+     [
+      "Ensemble",
+      "Villager’s Woolen Commonwear"
+     ],
+     [
+      "Bound Silver",
+      "۱۰۰۰"
+     ],
+     [
+      "Ensemble",
+      "Faith-Cursed Vestments"
+     ],
+     [
+      "Bound Silver",
+      "۳۰۰۰"
+     ],
+     [
+      "Ensemble",
+      "Village Patrolman's Regalia"
+     ],
+     [
+      "Bound Silver",
+      "۲۵۰۰"
+     ]
+    ],
+    "spec": [],
+    "quality": ""
+   }
+  }
+ ],
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-19T22:31:05Z"
+ }
 }
