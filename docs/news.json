@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T22:57:20Z",
+ "generated": "2026-11-19T22:58:47Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3623,6 +3623,13 @@
  ],
  "queue": [
   {
+   "id": 383935,
+   "title_en": "Motes of Unstable Magic Now Soulbound in WoW: Forever - Gold Strategy Nerfed",
+   "url": "https://www.wowhead.com/news=383935",
+   "category": "Forever",
+   "published_at": "2026-11-19T21:23:45Z"
+  },
+  {
    "id": 383929,
    "title_en": "Study The Well - WoW: Forever Podcast Board Message Hints at New Brainteaser",
    "url": "https://www.wowhead.com/news=383929",
@@ -3894,13 +3901,6 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
