@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T00:28:30Z",
+ "generated": "2026-11-19T01:49:16Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3551,6 +3551,13 @@
  ],
  "queue": [
   {
+   "id": 383924,
+   "title_en": "Turn On In-Game Quest Objective Markers for Easier Navigation in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383924",
+   "category": "Forever",
+   "published_at": "2026-11-19T01:25:22Z"
+  },
+  {
    "id": 383920,
    "title_en": "All Mythic Difficulty Achievements Removed from Talebound on Patch 12.1.7 PTR",
    "url": "https://www.wowhead.com/news=383920",
@@ -3822,13 +3829,6 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
