@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T12:29:16Z",
+ "generated": "2026-11-19T15:21:20Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3563,6 +3563,20 @@
  ],
  "queue": [
   {
+   "id": 383896,
+   "title_en": "Earn a Free 16-Slot Bag from a Former SoD Questline in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383896",
+   "category": "Forever",
+   "published_at": "2026-11-19T15:00:00Z"
+  },
+  {
+   "id": 383902,
+   "title_en": "Tame a Secret Hunter Pet in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383902",
+   "category": "Forever",
+   "published_at": "2026-11-19T14:00:00Z"
+  },
+  {
    "id": 383924,
    "title_en": "Turn On In-Game Quest Objective Markers for Easier Navigation in WoW: Forever",
    "url": "https://www.wowhead.com/news=383924",
@@ -3827,20 +3841,6 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
