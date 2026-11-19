@@ -1,8 +1,80 @@
 {
- "generated": "2026-11-18T21:45:31Z",
+ "generated": "2026-11-19T01:25:53Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383919,
+   "slug": "weekly-gold-quest-requires-blackrock-spire-and-blackrock-depths-in-wow",
+   "title_fa": "کوئست هفتگی گلد در WoW: Forever نیازمند پاکسازی سیاهچاله‌های Blackrock است",
+   "lead_fa": "بازیکنان لول ۶۰ در این هفته برای اتمام کوئست هفتگی گلد باید به دو دانجن Blackrock Spire و Blackrock Depths بروند.",
+   "body_fa": [
+    "شخصیت‌ها پس از رسیدن به لول ۶۰ می‌توانند یک کوئست Weekly را از Booty Bay دریافت کنند. در حالی که طی دو هفتهٔ گذشته بازیکنان ملزم به انجام Dire Maul بودند، کوئست این هفته In Demand - Blackrock Legal Records نام دارد و مستلزم به پایان رساندن Blackrock Spire و Blackrock Depths است.",
+    {
+     "t": "h",
+     "x": "آیتم‌های مورد نیاز کوئست"
+    },
+    "برای تحویل این کوئست به Pix Xizzix در منطقهٔ Booty Bay، باید سه آیتم زیر از باس‌های مشخص به دست آیند:",
+    {
+     "t": "ul",
+     "xs": [
+      "آیتم Nefarion's Remit از General Drakkisath در Blackrock Spire",
+      "آیتم Overseer's License از Overlord Wyrmthalak در Blackrock Spire",
+      "آیتم Bronzebeard Wedding Contract از Emperor Thaurissan در Blackrock Depths"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "پاداش‌ها و محتویات کیف"
+    },
+    "تکمیل این مأموریت همانند هفتهٔ قبل به شما یک [[item:Undermine Satchel]] می‌دهد که می‌تواند تا ۱۰۰ گلد و مقداری متریال اضافه داشته باشد. همچنین داده‌های افزونهٔ Wowhead Looter نشان می‌دهد که این کیف دراپ‌های تأییدشدهٔ بسیار بیشتری از متریال‌های ساخت‌وساز را شامل می‌شود.",
+    {
+     "t": "table",
+     "head": [
+      "آیتم باارزش",
+      "قیمت فروش"
+     ],
+     "rows": [
+      [
+       "Gold Nugget",
+       "10g"
+      ],
+      [
+       "Huge Quartz Gem",
+       "20g"
+      ],
+      [
+       "Silver Necklace",
+       "40g"
+      ],
+      [
+       "Gold Ring",
+       "100g"
+      ]
+     ]
+    }
+   ],
+   "tags_fa": [
+    "کوئست هفتگی",
+    "WoW Forever",
+    "فارم گلد"
+   ],
+   "items": [],
+   "title_en": "Weekly Gold Quest Requires Blackrock Spire and Blackrock Depths in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383919",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383919-weekly-gold-quest-requires-blackrock-spire-and-blackrock-depths-in-wow.html",
+   "published_at": "2026-11-18T19:52:08Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383919/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383919/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383914,
    "slug": "ubrs-damage-and-health-increases-shen-dralas-improvements-wow-forever-",
@@ -3487,76 +3559,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383792,
-   "slug": "everything-about-wow-forever-raids-joardee-interview-on-wow-forever",
-   "title_fa": "جزئیات سیستم ریدها در WoW: Forever از نگاه توسعه‌دهندگان",
-   "lead_fa": "در گفت‌وگوی تازه با Josh Greenfield و Tim Jones، رویکرد تیم توسعه نسبت به ساختار ریدها، درجه‌های سختی و مسیر پیشرفت در WoW: Forever تشریح شد.",
-   "body_fa": [
-    "در مصاحبه‌ای که اخیراً توسط Joardee با Josh Greenfield و Tim Jones انجام شد، جزئیات متعددی پیرامون فلسفهٔ طراحی ریدها در WoW: Forever به اشتراک گذاشته شد. به گفتهٔ Tim Jones، هدف تیم این است که بازگشت به دانجن‌ها و ریدهایی مانند Blackwing Lair و Molten Core حس آشنا اما هم‌زمان تازه‌ای داشته باشد و از نظر داستانی نیز مقاطع زمانی متفاوتی را به تصویر بکشد.",
-    {
-     "t": "h",
-     "x": "فلسفه طراحی و سطح دشواری ریدها"
-    },
-    "توسعه‌دهندگان اشاره کردند که در Season of Discovery محتوای Scarlet Enclave بسیار سرگرم‌کننده و خلاقانه بود، اما شاید پیچیدگی مبارزات و تیونینگ آن در اواخر فصل بیش از حد بالا رفت. به همین دلیل تمایل دارند در آینده Scarlet Enclave را به شکلی مناسب‌تر به Forever بازگردانند. هدف فعلی آن‌ها این است که انکانترها برای بازیکنان قابل‌دسترس باشند و از نظر سطح دشواری و پیچیدگی، در محدودهٔ ریدهای Season of Mastery و نسخهٔ پایهٔ Naxx قرار بگیرند.",
-    {
-     "t": "ul",
-     "xs": [
-      "حفظ زبان بصری ریدهای Vanilla، بدون خطوط محیطی گرافیکی بسیار بزرگ روی مکانیک‌ها و عدم نیاز اجباری به افزونه‌ها (addons)",
-      "مدت‌زمان پیشروی (progression) تخمینی بین دو تا سه هفته برای گیلدهای معمولی",
-      "حفظ انکانترهای دشوار و فازها یا باس‌های مخفی برای بازیکنان مشتاق، جهت دریافت غنایمی که بتوان در پایتخت‌ها به نمایش گذاشت"
-     ]
-    },
-    {
-     "t": "h",
-     "x": "یک درجه سختی برای همه و سیستم لوت"
-    },
-    "از نظر تیم سازنده، محتوای اینستنس‌ها اساساً باید تنها یک درجهٔ سختی داشته باشد. با این‌که قابلیت‌های Hard Mode در Ulduar جذاب تلقی می‌شوند، اما به باور آن‌ها آغاز انشعاب محتوا به دو حالت Normal و Heroic بودند. در TBC و Classic همه روی یک باسِ مشترک رقابت می‌کنند و اینکه یک گیلد معمولی با همان انکانتری روبه‌رو شود که یک گیلد هاردکور با آن مبارزه می‌کند، ارزشمند است.",
-    {
-     "t": "note",
-     "x": "رید ۴۰ نفرهٔ Onyxia غنایم فراوانی خواهد داشت و چالش آن می‌تواند به این تبدیل شود که با کمترین تعداد ممکن شکست داده شود تا لوت تقسیم‌شده به حداکثر برسد.",
-     "kind": "info"
-    },
-    {
-     "t": "h",
-     "x": "پیشرفت طولی، فارم هدفمند و آیتم‌های خاص"
-    },
-    "به عقیدهٔ Aggrend، پیشرفت کاملاً افقی و هم‌سطح (flat horizontal progression) این فرض غلط را دارد که تمام لوت‌ها ارزش برابری دارند؛ در نتیجه اگر در Tier 4 باشید ممکن است همچنان چیزی از رید اول بخواهید. به همین خاطر بازی سیستم افزایش آیتم‌لول کاملاً تخت نخواهد داشت.",
-    "در طراحی‌ها تلاش شده است آیتم‌های پرقدرت در باس‌های مختلف پراکنده باشند (Chase Items). همچنین در خصوص تکرار محتوا و فارم، بازیکنان در پچ‌های بعدی می‌توانند برای دریافت آیتم‌هایی مانند Legendary Staff برای هیلرها به Hyjal برگردند. به دلیل بال‌های مختلف Hyjal، امکان هدف‌گیری یک باس مشخص وجود دارد و امکان ارائهٔ میان‌برهایی نظیر Translocation Orb در Naxx برای احترام به وقت بازیکنان در فازهای فارم در نظر گرفته شده است.",
-    "تیونینگ کلی به نحوی خواهد بود که گذراندن تایر قبلی برای پیشرفت ضروری به نظر برسد، هرچند که در صورت تجهیز کامل اعضا، همراهی بازیکنان ضعیف‌تر (carries) نیز ممکن خواهد بود."
-   ],
-   "tags_fa": [
-    "مصاحبه",
-    "WoW Forever",
-    "رید",
-    "توسعه‌دهندگان"
-   ],
-   "items": [],
-   "title_en": "Everything About WoW: Forever Raids - Joardee Interview on WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383792",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383792-everything-about-wow-forever-raids-joardee-interview-on-wow-forever.html",
-   "published_at": "2026-11-08T19:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383792/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383792/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383919,
-   "title_en": "Weekly Gold Quest Requires Blackrock Spire and Blackrock Depths in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383919",
-   "category": "Forever",
-   "published_at": "2026-11-18T19:52:08Z"
-  },
   {
    "id": 383918,
    "title_en": "WoW: Forever PvP Overview Video - Honor Rewards & Battlegrounds",
