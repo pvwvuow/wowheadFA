@@ -779,5 +779,65 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383907/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 1,
- "hold_at": "2026-11-18T06:41:54Z"
+ "hold_at": "2026-11-18T06:41:54Z",
+ "last_rejected": {
+  "title_fa": "حالت روگ‌لایت جدید Talebound در تاریخ ۱ دسامبر منتشر می‌شود",
+  "lead_fa": "شرکت Blizzard تاریخ انتشار حالت بازی مستقل و روگ‌لایت Talebound را برای ۱ دسامبر هم‌زمان با نگهداری هفتگی اعلام کرد.",
+  "body_fa": [
+   "شرکت Blizzard از انتشار حالت جدید Talebound در تاریخ ۱ دسامبر هم‌زمان با نگهداری منطقه‌ای خبر داد. این حالت یک تجربه مستقل در سبک اکشن نقش‌آفرینی روگ‌لایت (PvE) است که بازیکنان را در قالب سه کلاس جدید وارد داستان‌های تاریک یک قصه‌گوی مرموز می‌کند.",
+   {
+    "t": "note",
+    "x": "این ماجراجویی را می‌توان به‌صورت تک‌نفره یا همراه با دوستان روی درجه‌های سختی Normal و Veteran و Heroic تجربه کرد. شناسه تصاویر معرفی: 1789246420177، 1789246423424 و 1789246424707.",
+    "kind": "info"
+   },
+   {
+    "t": "h",
+    "x": "شروع مسیر از Red Hollow تا روستای Quillgrave"
+   },
+   "مسیر بازی از Red Hollow آغاز می‌شود؛ جایی که راوی مرموز، بازیکنان را به دل داستان‌های ترسناک خود می‌کشاند. پس از آن، روستای فانوس‌دار Quillgrave پایگاه اصلی برای استراحت و آماده‌سازی خواهد بود.",
+   {
+    "t": "ul",
+    "xs": [
+     "بخش Arcanist: تأمین‌کننده معجون‌ها و فلاسک‌ها در طول داستان (شناسه 1789246424729)",
+     "بخش Scribe: مدیریت تلنت‌ها و توانایی‌های مبارزه (شناسه 1789246425852)",
+     "بخش Antiquarian: ارائه قابلیت‌های پسیو برای تغییر رویکرد در ماجراجویی‌ها",
+     "بخش Outfitter: ارتقای سلامت اولیه، آسیب، انرژی و Focus"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "چهار داستان تاریک در Talebound"
+   },
+   "بازیکنان با چهار داستان مختلف شامل دشمنان و باس‌هایی نظیر جادوگران، غول‌ها، بیشاپ‌ها و موجودات اعماق روبه‌رو می‌شوند. داستان‌های Darkhaven (شناسه 1792714301515)، منطقه Greenthistle Wood، اردوکشی Greywake's Expedition و Grove of the Night Court چهار بخش اصلی این تجربه هستند.",
+   {
+    "t": "h",
+    "x": "کلاس‌ها، تحرک و درخت تلنت"
+   },
+   "تمام کلاس‌ها به قابلیت‌های دفاعی و حرکتی شامل پرش جفت، دوج، Evade با ایمنی موقت، Sprint و Guard دسترسی دارند. درخت استعداد هر کلاس دارای 27 امتیاز است که با صرف Tales of Valor در بخش Scribe ارتقا می‌یابد.",
+   {
+    "t": "ul",
+    "xs": [
+     "کلاس Witch: متکی بر صاعقه، سم، عنکبوت و ماه با جادوهایی چون Brewing Storm، Thorn، Moonlight Ravens، Bubbling Cauldron، Winter Spiders، Feline Communion و Coven",
+     "کلاس Slayer: متکی بر شمشیر و اسلحه گرم با مهارت‌های Slash، Throwing Knives، Shrapnel Round، Explosive Shot، Minefield، Silver Bolt و Dense Macabre",
+     "کلاس Inquisitor: متکی بر آتش و آسیب مقدس با توانایی‌های Purify، Radiance، Light’s Wrath، Rapture، Condemn، Exorcism و Divine Punishment"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "ارزها و جوایز ظاهری"
+   },
+   "بازیکنان با پیشروی در بازی Ducats به‌دست می‌آورند که برای منابع پیشرفت استفاده می‌شود. با تکمیل داستان‌ها، ارز Bound Silver به دست می‌آید که می‌توان آن را در Quillgrave نزد Nib، در منوی بازی یا صفحه انتخاب شخصیت برای خرید ست‌های ترنسموگ، مانت Shadowbound Storybook و تزیینات خرج کرد.",
+   {
+    "t": "note",
+    "x": "کدهای شناسایی پیوست‌های تصویری منبع: 1789246425997 و 1789246426918.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "Talebound",
+   "روگ‌لایت",
+   "Blizzard",
+   "اخبار وارکرفت"
+  ]
+ }
 }

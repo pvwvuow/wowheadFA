@@ -100,12 +100,40 @@
   ],
   "chars": 710
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383927/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383927/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383927/1.jpg",
+ "article_fa": {
+  "title_fa": "اشاره Zirene به آیتم جدیدی با قابلیت افزایش Stat هنگام پر بودن کیف‌ها",
+  "lead_fa": "در قسمت جدید پادکست WoW: Forever به احتمال اضافه شدن آیتمی اشاره شده است که در صورت پر بودن کامل کیف‌های بازیکن، Stat اضافه ارائه می‌دهد.",
+  "body_fa": [
+   "در قسمت جدید پادکست WoW: Forever که با موضوع طراحی آیتم‌ها منتشر شد، از Zirene درباره احتمال معرفی آیتم‌های آینده سؤال شد و او به ایده یک آیتم جدید اشاره کرد.",
+   {
+    "t": "quote",
+    "x": "شاید آیتمی وجود داشته باشد که برای Master Loot در وضعیت BiS قرار بگیرد. شاید اگر کیف شما کاملاً پر باشد، Stat اضافه دریافت کنید.",
+    "by": "Zirene"
+   },
+   "هرچند Zirene این ایده را به شوخی یک آیتم BiS برای سیستم Master Loot نامید، اما این مکانیزم در تئوری می‌تواند برای هر بازیکنی کارایی داشته باشد؛ موضوعی که چالش بین دریافت Stat بیشتر و دردسر پر نگه داشتن دائمی کیف‌ها را مطرح می‌کند.",
+   {
+    "t": "note",
+    "x": "این رویکرد به نظر می‌رسد در ادامه روند اضافه شدن ایده‌های غیرمعمول به بازی باشد، مشابه سلاح Battle Mage که اخیراً کشف شده بود.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "آیتم‌ها",
+   "WoW Forever",
+   "اخبار"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-19T20:58:50Z"
+ }
 }
