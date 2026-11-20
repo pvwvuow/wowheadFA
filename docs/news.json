@@ -1,8 +1,59 @@
 {
- "generated": "2026-11-20T05:43:51Z",
+ "generated": "2026-11-20T05:45:28Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383938,
+   "slug": "blizzard-investigating-several-bugged-quests-in-wow-forever",
+   "title_fa": "بررسی باگ‌های چند کوئست توسط تیم پشتیبانی Blizzard",
+   "lead_fa": "حساب رسمی BlizzardCS با ثبت پیام‌هایی در پایگاه داده Wowhead اعلام کرد که مشکلات مربوط به سه کوئست در حال بررسی است.",
+   "body_fa": [
+    "حساب کاربری BlizzardCS در بخش نظرات چند کوئست در دیتابیس Wowhead اعلام کرده است که گزارش‌های دریافتی درباره باگ‌های این مأموریت‌ها در دست بررسی قرار دارد. سه کوئست Call of Earth، Biding Our Time و Witch Doctor Ti'ik مواردی هستند که به طور مشخص به درست کار نکردن آن‌ها اشاره شده است.",
+    {
+     "t": "h",
+     "x": "جزئیات کوئست‌های دارای مشکل"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "کوئست Call of Earth: به اتمام رساندن این کوئست در لول ۳ با Skyborne Shaman، اسپل Stoneskin Totem را به بازیکن نمی‌دهد.",
+      "کوئست Witch Doctor Ti'ik: آیتم Ti'ik's Head هنگام انجام کوئست به شکل گروهی، تنها برای یک نفر از اعضای پارتی دراپ می‌شود.",
+      "کوئست Biding Our Time: این مأموریت ممکن است آیتمی با علامت سؤال قرمز پاداش دهد که غیرقابل استفاده است؛ بازیکنان گزارش داده بودند که Filcher's Cowl غیرقابل استفاده بوده و جایزه به صورت علامت سؤال قرمز نشان داده می‌شد، هرچند برخی پیام‌ها حاکی از دریافت cloak و رفع مشکل است."
+     ]
+    },
+    {
+     "t": "quote",
+     "x": "ما مطلع هستیم که تکمیل این مأموریت به عنوان یک Skyborne Shaman لول ۳، اسپل Stoneskin Totem را به بازیکن نمی‌دهد. هم‌اکنون در حال بررسی این مشکل هستیم.",
+     "by": "BlizzardCS"
+    },
+    {
+     "t": "note",
+     "x": "هنوز هیچ بازه زمانی مشخصی برای انتشار فیکس نهایی این باگ‌ها از سوی Blizzard ارائه نشده است.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "کوئست",
+    "باگ",
+    "پشتیبانی بلیزارد"
+   ],
+   "items": [],
+   "title_en": "Blizzard Investigating Several Bugged Quests in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383938",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383938-blizzard-investigating-several-bugged-quests-in-wow-forever.html",
+   "published_at": "2026-11-20T02:09:09Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383938/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383938/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383928,
    "slug": "blizzard-addresses-spell-power-gear-shortage-in-wow-forever",
@@ -3437,50 +3488,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383832,
-   "slug": "blizzard-adding-gold-to-many-quests-near-max-level-in-wow-forever",
-   "title_fa": "افزایش پاداش طلای ماموریت‌های سطح بالا در WoW: Forever",
-   "lead_fa": "بلیزارد تایید کرد که سیستم تبدیل XP به طلا در سطح نهایی از بازی حذف شده و برای جبران آن، پاداش طلای ماموریت‌های بالای لول ۴۸ را افزایش می‌دهد.",
-   "body_fa": [
-    "شرکت Blizzard با انتشار یک پست رسمی (Blue Post) اعلام کرد که سیستم تبدیل پاداش XP به طلا در لول مکس از بازی WoW: Forever برداشته شده است. با این حال، توسعه‌دهندگان پذیرفته‌اند که این تصمیم تاثیر منفی شدیدی روی درآمد بازیکنان در نزدیکی لول ۶۰ گذاشته است و به همین دلیل ظرف ۲۴ ساعت آینده تغییراتی را اعمال خواهند کرد.",
-    {
-     "t": "h",
-     "x": "دلیل حذف سیستم تبدیل XP به طلا"
-    },
-    "قابلیت تبدیل تجربه به طلا در زمان انجام ماموریت‌ها در لول مکس، نخستین بار در سال ۲۰۰۶ و هفته‌های قبل از انتشار نسخه اصلی The Burning Crusade اضافه شد و بعدها در سال ۲۰۱۹ در Classic Era نیز باقی ماند. این سیستم به بازیکنان انگیزه می‌داد که دفترچه کوئست‌های خود را پر نگه دارند و آن‌ها را فقط بعد از رسیدن به سطح ۶۰ تحویل دهند تا بیشترین مقدار طلا را دریافت کنند؛ موضوعی که باعث می‌شد شیوه بهینه لول‌آپ صرفاً کشتن موجودات برای XP باشد بدون اینکه ماموریت‌ها تحویل داده شوند.",
-    {
-     "t": "quote",
-     "x": "در نسخه اصلی WoW، فقط حدود ۲۵٪ از ماموریت‌ها پاداش طلای خالص می‌دادند، و همین مسئله باعث شد اثر منفی این تصمیم روی درآمد طلا با نزدیک شدن به لول ۶۰ بیش از حد انتظار باشد. برای حل این مشکل، هاتفیکسی آماده می‌کنیم که به بیشتر ماموریت‌های لول ۴۸ یا بالاتر پاداش طلای بیشتری اضافه می‌کند؛ از جمله اضافه کردن طلا به ماموریت‌های بالای لول ۴۸ که پیش از این اصلاً پاداش طلا نداشتند.",
-     "by": "Blizzard"
-    },
-    {
-     "t": "note",
-     "x": "هدف تیم سازنده این است که بازیکنان با انجام کوئست‌ها در لول مناسب پاداش طلای کافی دریافت کنند. این هاتفیکس ظرف ۲۴ ساعت آینده یا زمانی در همین حدود فعال خواهد شد.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "WoW Forever",
-    "بلیزارد"
-   ],
-   "items": [],
-   "title_en": "Blizzard Adding Gold to Many Quests Near Max Level in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383832",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383832-blizzard-adding-gold-to-many-quests-near-max-level-in-wow-forever.html",
-   "published_at": "2026-11-10T21:58:16Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383832/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383832/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3497,13 +3504,6 @@
    "url": "https://www.wowhead.com/news=383939",
    "category": "Forever",
    "published_at": "2026-11-20T04:03:00Z"
-  },
-  {
-   "id": 383938,
-   "title_en": "Blizzard Investigating Several Bugged Quests in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383938",
-   "category": "Forever",
-   "published_at": "2026-11-20T02:09:09Z"
   },
   {
    "id": 383929,
@@ -3763,6 +3763,13 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
+  },
+  {
+   "id": 383519,
+   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383519",
+   "category": "Live",
+   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
