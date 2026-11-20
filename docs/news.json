@@ -1,8 +1,54 @@
 {
- "generated": "2026-11-20T01:10:16Z",
+ "generated": "2026-11-20T01:11:26Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383935,
+   "slug": "motes-of-unstable-magic-now-soulbound-in-wow-forever-gold-strategy-ner",
+   "title_fa": "آیتم Motes of Unstable Magic در WoW: Forever به Soulbound تبدیل شد",
+   "lead_fa": "با تغییر وضعیت Motes of Unstable Magic به Soulbound، روش کسب درآمد بازیکنان از فروش این آیتم در Auction House متوقف شد.",
+   "body_fa": [
+    "آیتم Motes of Unstable Magic از حدود ظهر به وقت Pacific به Soulbound تبدیل شده است تا جلوی فروش آن توسط بازیکنان سطح بالا در Auction House گرفته شود.",
+    {
+     "t": "h",
+     "x": "نحوه دریافت و کاربرد آیتم"
+    },
+    "پس از رسیدن به لول 48، بازیکنان می‌توانند کوئست Unstable Magic in Dalaran یا Unstable Magic at the Skywatcher Plateau را دریافت کنند. این کوئست به بازیکنان آیتم [[item:Elemental Attractor]] را می‌دهد که هنگام استفاده، باف Magical Awareness را فعال می‌کند.",
+    "این باف در زمان شکست دادن جادوگران (spellcasters) یا باس‌ها گاهی اوقات یک Mote of Unstable Magic به بازیکن می‌دهد. پس از پایان کوئست اولیه، یک کوئست تکرارشونده (مانند More Unstable Magic) به بازیکنان امکان می‌دهد ۱۰ عدد Mote دیگر را برای دریافت اعتبار (reputation) تحویل دهند.",
+    {
+     "t": "note",
+     "x": "این کوئست تکرارشونده تنها تا سطح اعتبار Honored در دسترس است، اما بازیکنان می‌توانستند پس از آن نیز به فارم کردن و فروش این آیتم‌ها برای کسب Gold ادامه دهند.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "دلیل احتمالی تغییر"
+    },
+    "پیش از این تغییر، به دلیل قابل معامله بودن، بازیکنان می‌توانستند این آیتم‌ها را از Auction House خریداری کنند تا بدون از دست دادن پول، اعتبار دریافت کنند. بسیاری از بازیکنان از فروش آن‌ها سود زیادی به دست می‌آوردند، اما این منبع درآمد اکنون متوقف شده است.",
+    "اکنون بازیکنان باید تمام Moteهای مورد نیاز خود را شخصاً فارم کنند و آیتم‌های اضافه پس از رسیدن به Honored تنها به وندور فروخته می‌شوند. هرچند دلیل دقیق این تصمیم مشخص نیست، یک تئوری وجود دارد که این اقدام به دلیل فارم در Blackmaw Hold انجام شده است؛ جایی که Devotees تعداد زیادی Motes of Unstable Magic دراپ می‌کردند و حجم بالایی از آن‌ها وارد اقتصاد بازی می‌شد."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "تغییرات بازی",
+    "اقتصاد بازی"
+   ],
+   "items": [],
+   "title_en": "Motes of Unstable Magic Now Soulbound in WoW: Forever - Gold Strategy Nerfed",
+   "source_url": "https://www.wowhead.com/news=383935",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383935-motes-of-unstable-magic-now-soulbound-in-wow-forever-gold-strategy-ner.html",
+   "published_at": "2026-11-19T21:23:45Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383935/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383935/1.png",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383931,
    "slug": "blizzard-wants-to-get-rid-of-bis-in-wow-forever",
@@ -3492,51 +3538,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383145,
-   "slug": "secret-hunt-in-wow-forever-with-the-night-watchman-s-torch",
-   "title_fa": "کشف آیتم Night Watchman's Torch برای حل راز جدید در WoW: Forever",
-   "lead_fa": "بازیکنان برای دنبال‌کردن راز جدید در WoW: Forever که از Zephras Isle آغاز می‌شود، به آیتم Night Watchman's Torch نیاز خواهند داشت.",
-   "body_fa": [
-    "جست‌وجو برای کشف رازهای تازه در سرور WoW: Forever آغاز شده است. جامعهٔ Secret Finders اکنون ردپای رازی را دنبال می‌کند که نقطهٔ شروع آن در منطقهٔ Zephras Isle قرار دارد و ادامهٔ آن نیازمند ابزاری است که نخستین‌بار در دورهٔ Forever beta شناسایی شده بود.",
-    {
-     "t": "h",
-     "x": "محل دریافت مشعل در Duskwood"
-    },
-    "در گوشه‌ای پنهان از Duskwood، جسد یک Night Watch Guard بر زمین افتاده است. علت مرگ این نگهبان مشخص نیست، اما بازیکنان با بررسی آن متوجه یک کوئیست می‌شوند که به‌صورت آنی تحویل داده می‌شود (Instant Turn-in). پاداش این مأموریت آیتم [[item:Night Watchman's Torch]] است؛ وسیله‌ای که برای روشن‌کردن محیط‌های تاریک کاربرد دارد.",
-    {
-     "t": "note",
-     "x": "آیتم Night Watchman's Torch در حال حاضر در سراسر جهان بازی قابل استفاده است، به‌جز در Innها و پایتخت‌ها (Capital Cities).",
-     "kind": "info"
-    },
-    {
-     "t": "h",
-     "x": "کاربردها و جزئیات ظاهری"
-    },
-    "اگرچه این مشعل تنها در بخشی از این زنجیرهٔ راز کاربرد دارد، اما نشان‌دهندهٔ این است که هر محتوای جدیدی در Forever ممکن است در رازهای فعلی یا آینده نقش ایفا کند. جدا از کاربرد معمایی، این ابزار برای علاقه‌مندان به نقش‌آفرینی (Roleplay) و روشن‌کردن مناطق تاریک طراحی جالبی دارد؛ از جمله تعامل اختصاصی برای Druidها و همچنین Shamanها در فرم Ghost Wolf که مشعل را در دهان خود حمل می‌کنند.",
-    "به‌دست‌آوردن این مشعل برای تمام بازیکنانی که به دنبال تکمیل راز Dawn Waker یا مشارکت در جریان کشف معماهای سرور هستند، ارزشمند خواهد بود."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "رازها",
-    "Duskwood"
-   ],
-   "items": [],
-   "title_en": "Secret Hunt in WoW: Forever with the Night Watchman's Torch",
-   "source_url": "https://www.wowhead.com/news=383145",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383145-secret-hunt-in-wow-forever-with-the-night-watchman-s-torch.html",
-   "published_at": "2026-11-10T16:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383145/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383145/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3553,13 +3554,6 @@
    "url": "https://www.wowhead.com/news=383937",
    "category": "Forever",
    "published_at": "2026-11-19T23:20:47Z"
-  },
-  {
-   "id": 383935,
-   "title_en": "Motes of Unstable Magic Now Soulbound in WoW: Forever - Gold Strategy Nerfed",
-   "url": "https://www.wowhead.com/news=383935",
-   "category": "Forever",
-   "published_at": "2026-11-19T21:23:45Z"
   },
   {
    "id": 383929,
@@ -3819,6 +3813,13 @@
    "url": "https://www.wowhead.com/news=383540",
    "category": "Forever",
    "published_at": "2026-10-22T16:21:06Z"
+  },
+  {
+   "id": 383487,
+   "title_en": "The Current State of Protection Paladins in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383487",
+   "category": "Forever",
+   "published_at": "2026-10-21T19:06:30Z"
   }
  ]
 }
