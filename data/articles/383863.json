@@ -353,6 +353,7 @@
    "functioning",
    "further",
    "gain",
+   "gains",
    "game",
    "games",
    "get",
@@ -400,9 +401,11 @@
    "hits",
    "hlast",
    "hmore",
+   "hmotes",
    "hna",
    "hnew",
    "hold",
+   "honor",
    "hope",
    "horns",
    "hotfixes",
@@ -412,6 +415,7 @@
    "how",
    "however",
    "hsave",
+   "hsome",
    "hspell",
    "hstudy",
    "htalebound",
@@ -503,6 +507,7 @@
    "lukereeseyesterday",
    "m",
    "made",
+   "magic",
    "maintenance",
    "majority",
    "make",
@@ -655,10 +660,12 @@
    "purchase",
    "purchased",
    "pve",
+   "pvp",
    "q",
    "quest",
    "questline",
    "quests",
+   "queues",
    "quintessential",
    "quite",
    "r",
@@ -688,6 +695,7 @@
    "remembering",
    "removed",
    "removing",
+   "reporting",
    "reps",
    "reputation",
    "request",
@@ -756,6 +764,7 @@
    "some",
    "soon",
    "sort",
+   "soulbound",
    "soulforge",
    "sound",
    "source",
@@ -775,6 +784,7 @@
    "steel",
    "still",
    "store",
+   "strategy",
    "strictly",
    "stronghold",
    "stuff",
@@ -845,6 +855,7 @@
    "uniquely",
    "united",
    "unknown",
+   "unstable",
    "up",
    "updates",
    "upgrade",
@@ -958,18 +969,18 @@
  "hold_count": 4,
  "hold_at": "2026-11-17T15:32:04Z",
  "last_rejected": {
-  "title_fa": "دیتاماین ست‌های ترنسموگ Brutal Armor در پچ 12.1.7",
-  "lead_fa": "در داده‌های استخراج‌شده از پچ 12.1.7، چهار رنگ‌بندی مختلف از ست‌های ترنسموگ Brutal Armor مشخص شده است.",
+  "title_fa": "کشف ست‌های ترنسموگ Brutal Armor در دیتاماین پچ 12.1.7",
+  "lead_fa": "دیتاماین فایل‌های پچ 12.1.7 از اضافه شدن ست‌های ترنسموگ جدید Brutal Armor در چهار رنگ مختلف خبر می‌دهد.",
   "body_fa": [
-   "بر اساس جدیدترین اطلاعات استخراج‌شده از فایل‌های پچ 12.1.7، ست‌های ترنسموگ جدیدی تحت عنوان Brutal Armor در ۴ رنگ‌بندی متفاوت در بازی قرار خواهند گرفت.",
+   "بر اساس داده‌های استخراج‌شده از پچ 12.1.7 در تاریخ 2026-11-12، ست‌های جدید ترنسموگ موسوم به Brutal Armor با چهار رنگ‌بندی متفاوت در فایل‌های بازی قرار گرفته‌اند که در پایگاه داده با شناسهٔ 383863 ثبت شده‌اند.",
    {
     "t": "h",
-    "x": "نحوه دسترسی به ست‌ها"
+    "x": "نحوه دسترسی به ست‌ها و جزئیات انتشار"
    },
-   "طبق داده‌های به‌دست‌آمده، دو نسخه از این زره‌ها با نام‌های Steel و Iron از طریق بخش Trading Post در دسترس بازیکنان قرار می‌گیرند. در حال حاضر منبع به‌دست‌آوردن دو رنگ‌بندی دیگر این مجموعه نامشخص است.",
+   "طبق اطلاعات موجود، ست‌های Steel و Iron از طریق بخش Trading Post در دسترس بازیکنان قرار می‌گیرند، در حالی که منبع و نحوه دریافت ۲ ست دیگر در حال حاضر نامشخص است.",
    {
     "t": "note",
-    "x": "دو ست Steel و Iron از طریق Trading Post قابل تهیه خواهند بود، ولی محل دریافت دو ست دیگر هنوز مشخص نیست.",
+    "x": "دو مدل از این زره‌ها برای عرضه در Trading Post مشخص شده‌اند و چگونگی آزادسازی دو رنگ‌بندی دیگر هنوز به طور رسمی معین نشده است.",
     "kind": "info"
    }
   ],
@@ -977,7 +988,7 @@
    "دیتاماین",
    "ترنسموگ",
    "Trading Post",
-   "Patch 12.1.7"
+   "پچ 12.1.7"
   ]
  }
 }

@@ -1,40 +1,35 @@
 {
- "day": "2026-11-19",
- "published_today": 8,
+ "day": "2026-11-20",
+ "published_today": 1,
  "held": {
+  "383920": {
+   "reason": "G5 English token not in source: silver",
+   "at": "2026-11-19T22:55:54Z",
+   "at_ts": 1795128954.471715
+  },
   "383907": {
-   "reason": "G4 numbers from source missing in article: 1792714324421, 1794506821192, 1794506821264, 1794506821502, 1794512828458, 1794513496091, 1794858221236, 248",
-   "at": "2026-11-19T21:09:08Z",
-   "at_ts": 1795122548.648664
+   "reason": "G1 Persian ratio 42% < 45% | G3 long English run: A channeled spell used while moving to summon a flock of ravens that e... | G3 long English run: Summons a plague of frogs from your cauldron. Frogs leap to a random e...",
+   "at": "2026-11-20T00:27:20Z",
+   "at_ts": 1795134440.319939
   },
   "383903": {
    "reason": "G3 long English run: th we had the return of classic world bosses. It continues onward.\nFor... | G3 long English run: th we had a pet and a new mount for the same wb....",
-   "at": "2026-11-19T21:22:20Z",
-   "at_ts": 1795123340.23905
+   "at": "2026-11-20T00:32:55Z",
+   "at_ts": 1795134775.979343
   },
   "383863": {
-   "reason": "G4 numbers from source missing in article: 10, 100, 11, 12.1.5, 12.2, 13, 14, 15",
-   "at": "2026-11-19T21:35:26Z",
-   "at_ts": 1795124126.924607
+   "reason": "G4 numbers from source missing in article: 10, 100, 12.1.5, 12.2, 13, 14, 15, 15,000",
+   "at": "2026-11-20T00:40:04Z",
+   "at_ts": 1795135204.90877
   },
   "383824": {
-   "reason": "G4 numbers from source missing in article: 1.60.1.70888, 100, 11, 113886, 13, 15, 17, 19:04",
-   "at": "2026-11-19T21:46:29Z",
-   "at_ts": 1795124789.932185
-  },
-  "383920": {
-   "reason": "G5 English token not in source: silver",
-   "at": "2026-11-19T23:44:29Z",
-   "at_ts": 1795131869.536473
-  },
-  "383741": {
-   "reason": "جمله پایانی ادعا می‌کند «بحث‌های تکمیلی پیرامون بازه‌های عددی 10، 20، 29، 39 و سطح 60 در جریان است» که هیچ اشاره‌ای به این سطوح و بازه‌های عددی در متن منبع وجود ندارد. | هشدار: 2",
-   "at": "2026-11-19T23:51:45Z",
-   "at_ts": 1795132305.825464
+   "reason": "G4 numbers from source missing in article: 100, 15, 17, 2.3, 2.6, 22, 23, 383824",
+   "at": "2026-11-20T00:45:50Z",
+   "at_ts": 1795135550.868102
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-19T23:51:45Z",
+ "updated_at": "2026-11-20T00:45:50Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
@@ -3939,103 +3934,103 @@
     "attempts": 1
    },
    {
-    "id": "383927",
-    "ts": "2026-11-19T20:58:50Z",
-    "path": "primary",
-    "result": "published",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 351.8,
-    "attempts": 1
-   },
-   {
-    "id": "383907",
-    "ts": "2026-11-19T21:09:08Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 1,
-    "warns": 0,
-    "sec": 618.4,
-    "attempts": 2
-   },
-   {
-    "id": "383903",
-    "ts": "2026-11-19T21:22:20Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 2,
-    "warns": 0,
-    "sec": 791.6,
-    "attempts": 2
-   },
-   {
-    "id": "383863",
-    "ts": "2026-11-19T21:35:26Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 1,
-    "warns": 0,
-    "sec": 786.7,
-    "attempts": 2
-   },
-   {
-    "id": "383824",
-    "ts": "2026-11-19T21:46:29Z",
-    "path": "primary",
-    "result": "held",
-    "blocks": 1,
-    "warns": 0,
-    "sec": 663.0,
-    "attempts": 2
-   },
-   {
     "id": "383931",
-    "ts": "2026-11-19T23:28:14Z",
+    "ts": "2026-11-19T22:24:03Z",
     "path": "primary",
     "result": "published",
     "blocks": 0,
     "warns": 0,
-    "sec": 366.9,
-    "attempts": 1
+    "sec": 620.7,
+    "attempts": 2
    },
    {
     "id": "383930",
-    "ts": "2026-11-19T23:33:51Z",
+    "ts": "2026-11-19T22:31:05Z",
     "path": "primary",
     "result": "published",
     "blocks": 0,
     "warns": 0,
-    "sec": 336.1,
+    "sec": 422.4,
+    "attempts": 2
+   },
+   {
+    "id": "383927",
+    "ts": "2026-11-19T22:38:06Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 420.7,
     "attempts": 1
    },
    {
     "id": "383896",
-    "ts": "2026-11-19T23:37:36Z",
+    "ts": "2026-11-19T22:42:18Z",
     "path": "primary",
     "result": "published",
     "blocks": 0,
     "warns": 0,
-    "sec": 225.9,
+    "sec": 252.5,
     "attempts": 1
    },
    {
     "id": "383920",
-    "ts": "2026-11-19T23:44:29Z",
+    "ts": "2026-11-19T22:55:54Z",
     "path": "primary",
     "result": "held",
     "blocks": 1,
     "warns": 0,
-    "sec": 412.6,
+    "sec": 815.6,
     "attempts": 2
    },
    {
-    "id": "383741",
-    "ts": "2026-11-19T23:51:45Z",
+    "id": "383935",
+    "ts": "2026-11-20T00:20:26Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 121.1,
+    "attempts": 1
+   },
+   {
+    "id": "383907",
+    "ts": "2026-11-20T00:27:20Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 12,
+    "warns": 0,
+    "sec": 414.1,
+    "attempts": 2
+   },
+   {
+    "id": "383903",
+    "ts": "2026-11-20T00:32:55Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 335.7,
+    "attempts": 2
+   },
+   {
+    "id": "383863",
+    "ts": "2026-11-20T00:40:04Z",
     "path": "primary",
     "result": "held",
     "blocks": 1,
-    "warns": 2,
-    "sec": 436.3,
+    "warns": 0,
+    "sec": 428.9,
+    "attempts": 2
+   },
+   {
+    "id": "383824",
+    "ts": "2026-11-20T00:45:50Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 346.0,
     "attempts": 2
    }
   ]
