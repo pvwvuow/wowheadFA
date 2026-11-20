@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T05:19:59Z",
+ "generated": "2026-11-20T05:21:36Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3492,6 +3492,20 @@
  ],
  "queue": [
   {
+   "id": 383940,
+   "title_en": "Skyborne Now Get Reputation Discount for Mounts in WoW: Forever But You'll Need A Lot of Runecloth",
+   "url": "https://www.wowhead.com/news=383940",
+   "category": "Forever",
+   "published_at": "2026-11-20T04:35:14Z"
+  },
+  {
+   "id": 383939,
+   "title_en": "Ret Paladin Bug Fix and Seed Hybridizer Available Again - WoW: Forever Hotfixes for November 19th",
+   "url": "https://www.wowhead.com/news=383939",
+   "category": "Forever",
+   "published_at": "2026-11-20T04:03:00Z"
+  },
+  {
    "id": 383929,
    "title_en": "Study The Well - WoW: Forever Podcast Board Message Hints at New Brainteaser",
    "url": "https://www.wowhead.com/news=383929",
@@ -3756,13 +3770,6 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
