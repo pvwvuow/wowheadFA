@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T00:48:26Z",
+ "generated": "2026-11-20T02:09:36Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3542,6 +3542,13 @@
  ],
  "queue": [
   {
+   "id": 383928,
+   "title_en": "Blizzard Addresses Spell Power Gear Shortage in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383928",
+   "category": "Forever",
+   "published_at": "2026-11-20T00:42:07Z"
+  },
+  {
    "id": 383937,
    "title_en": "Some EU Players Reporting Issues with PvP Queues and Honor Gains in WoW: Forever",
    "url": "https://www.wowhead.com/news=383937",
@@ -3813,13 +3820,6 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
