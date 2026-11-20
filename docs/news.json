@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T07:12:02Z",
+ "generated": "2026-11-20T15:40:47Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3509,6 +3509,20 @@
  ],
  "queue": [
   {
+   "id": 383933,
+   "title_en": "Every Quest for Level 30 to 40 Dungeons in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383933",
+   "category": "Forever",
+   "published_at": "2026-11-20T15:00:00Z"
+  },
+  {
+   "id": 383922,
+   "title_en": "New Winter Veil Music on Patch 12.1.7 PTR References \"Winter Veil Mini-Game\"",
+   "url": "https://www.wowhead.com/news=383922",
+   "category": "PTR",
+   "published_at": "2026-11-20T14:00:00Z"
+  },
+  {
    "id": 383940,
    "title_en": "Skyborne Now Get Reputation Discount for Mounts in WoW: Forever But You'll Need A Lot of Runecloth",
    "url": "https://www.wowhead.com/news=383940",
@@ -3773,13 +3787,6 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
