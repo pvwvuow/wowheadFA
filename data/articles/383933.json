@@ -5,7 +5,7 @@
  "title_en": "Every Quest for Level 30 to 40 Dungeons in WoW: Forever",
  "category": "Forever",
  "published_at": "2026-11-20T15:00:00Z",
- "fetched_at": "2026-11-20T15:38:51Z",
+ "fetched_at": "2026-11-20T17:03:07Z",
  "source_mode": "full",
  "qa_facts": {
   "numbers": [
@@ -28,6 +28,7 @@
    "32.2",
    "33",
    "34",
+   "35",
    "36",
    "37",
    "39",
@@ -107,6 +108,7 @@
    "chief",
    "city",
    "clean",
+   "coldbringer's",
    "commander",
    "compendium",
    "complete",
@@ -156,6 +158,7 @@
    "explorer's",
    "explorers",
    "extinguishing",
+   "eye",
    "faith",
    "falfindel",
    "fall",
@@ -230,6 +233,7 @@
    "knight",
    "kraul",
    "krazek",
+   "lan'dalock",
    "late",
    "leads",
    "league",
@@ -267,7 +271,6 @@
    "mill",
    "mizzyrix",
    "monastery",
-   "moonsinger",
    "more",
    "morogh",
    "mortality",
@@ -275,7 +278,6 @@
    "mulgore",
    "murder",
    "must",
-   "myriam",
    "mythology",
    "name",
    "near",
@@ -365,6 +367,7 @@
    "should",
    "shylamiir",
    "skywatcher",
+   "skywatcher's",
    "small",
    "so",
    "sorcerer",
@@ -382,6 +385,7 @@
    "strangethorn",
    "stranglethorn",
    "sure",
+   "sutara",
    "take",
    "tarren",
    "techbot's",
@@ -447,7 +451,7 @@
    "you're",
    "zeal"
   ],
-  "chars": 7081
+  "chars": 7245
  },
  "status": "new",
  "images": [
