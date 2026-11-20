@@ -66,6 +66,7 @@
    "affixes",
    "after",
    "aggregated",
+   "ago",
    "agree",
    "alert",
    "all",
@@ -198,6 +199,7 @@
    "damage",
    "data",
    "date",
+   "days",
    "dblizzard",
    "ddungeon",
    "deadly",
@@ -244,6 +246,7 @@
    "earning",
    "easier",
    "echoes",
+   "edited",
    "ele",
    "elementals",
    "else",
@@ -263,6 +266,7 @@
    "equip",
    "especially",
    "etc",
+   "eu",
    "euactions",
    "eulost",
    "eumacabre",
@@ -309,6 +313,7 @@
    "functioning",
    "further",
    "gain",
+   "gains",
    "game",
    "gear",
    "get",
@@ -350,6 +355,7 @@
    "hits",
    "hitting",
    "hmore",
+   "hmotes",
    "hna",
    "hnew",
    "hold",
@@ -363,6 +369,7 @@
    "how",
    "however",
    "hsave",
+   "hsome",
    "hspell",
    "hstudy",
    "htame",
@@ -388,6 +395,7 @@
    "increases",
    "indian",
    "information",
+   "instaggibed",
    "instant",
    "int",
    "intellect",
@@ -444,6 +452,7 @@
    "low",
    "mace",
    "made",
+   "magic",
    "mail",
    "main",
    "maintenance",
@@ -575,6 +584,7 @@
    "quest",
    "questline",
    "quests",
+   "queues",
    "quite",
    "r",
    "rage",
@@ -596,6 +606,7 @@
    "remembering",
    "removing",
    "replaces",
+   "reporting",
    "reputation",
    "request",
    "requires",
@@ -652,6 +663,7 @@
    "sod",
    "some",
    "sort",
+   "soulbound",
    "soulforge",
    "sound",
    "source",
@@ -673,6 +685,7 @@
    "storm",
    "stormstrike",
    "str",
+   "strategy",
    "strength",
    "strictly",
    "stronghold",
@@ -734,6 +747,7 @@
    "under",
    "uniquely",
    "united",
+   "unstable",
    "up",
    "upcoming",
    "updatedprofessions",
@@ -833,37 +847,38 @@
  "hold_count": 3,
  "hold_at": "2026-11-18T07:54:38Z",
  "last_rejected": {
-  "title_fa": "هاتفیکس سلاح کلس Enhancement Shaman در سرورهای WoW: Forever",
-  "lead_fa": "با ریست هفتگی، ویژگی‌ها و سرعت ضربه سلاح Rage of the Storm برای کلس Shaman دستخوش تغییرات شد.",
+  "title_fa": "تغییر ویژگی‌های سلاح کلاس Enhancement Shaman در WoW: Forever با هاتفیکس جدید",
+  "lead_fa": "هم‌زمان با ریست هفتگی در WoW: Forever، بلیزارد با اعمال یک هاتفیکس آمار و سرعت حمله سلاح کلاس شمن یعنی Rage of the Storm را دستخوش تغییر کرد.",
   "body_fa": [
-   "شرکت Blizzard اخیراً تغییراتی را برای کلس‌ها اعلام کرده بود که به تمایل بیش از حد شمن‌های Enhancement به استفاده از تجهیزات اسپل‌پاور (spell power) می‌پرداخت. طبق اعلام آن‌ها، شمن‌های Enhancement برای تغییرات کلس پیش‌رو بهتر است سراغ جمع‌آوری تجهیزات Strength و Attack Power بروند.",
-   {
-    "t": "h",
-    "x": "تغییرات سلاح Rage of the Storm"
-   },
-   "به عنوان بخشی از این برنامه، سلاح کلاسیک Shaman با نام [[item:Rage of the Storm]] که از کوئست The Tempest's Weapons به دست می‌آید، طی یک هاتفیکس تغییر کرده است تا سرعت حمله و استت‌های آن اصلاح شود.",
+   "در جریان Weekly Reset اخیر در WoW: Forever، سلاح کلاس شمن با عنوان Rage of the Storm با دریافت یک هاتفیکس به‌روزرسانی شد تا سرعت حمله و ویژگی‌های آماری آن تغییر پیدا کند.",
    {
     "t": "item",
     "id": 280604
    },
+   "بلیزارد اخیراً تغییراتی را برای این کلاس اعلام کرده بود تا وابستگی بیش از حد Enhancement Shaman به تجهیزات Spell Power را برطرف سازد؛ طبق اعلام سازندگان، بازیکنان این تخصص در تغییرات پیش‌رو باید به جمع‌آوری تجهیزات دارای Strength و Attack Power روی بیاورند. در همین راستا، سلاح کلاس شمن که از مأموریت The Tempest's Weapons به دست می‌آید بازنگری شده است.",
+   {
+    "t": "h",
+    "x": "جزئیات تغییرات سلاح Rage of the Storm"
+   },
    {
     "t": "ul",
     "xs": [
-     "سرعت ضربه (Attack Speed) به ۳.۶ تغییر یافت (قبلاً ۳.۲ بود)",
-     "اکنون دارای ۱۶+ Strength است (جایگزین ۱۲+ Intellect شد)",
-     "افکت Equip: میزان دمیج توانایی Stormstrike شما را ۱۰٪ افزایش می‌دهد."
+     "تغییر Attack Speed به مقدار 3.6 (در گذشته 3.2 بود)",
+     "دریافت 16+ واحد Strength که جایگزین 12+ واحد Intellect شده است"
     ]
    },
+   "افکت تجهیز این آیتم کماکان آسیب توانایی Stormstrike را به میزان 10% افزایش می‌دهد (Equip: Increases the damage dealt by your Stormstrike ability by 10%). طبق داده‌های بیلد، شناسه آیتم 280604 بوده و این تغییرات با Hotfix push 113886 روی بیلد 1.60.1.70888 در ساعت 19:04 تاریخ 2026-11-10 به ثبت رسیده است.",
    {
     "t": "note",
-    "x": "دیگر تغییرات و بالانس کلاس‌ها طبق اعلام قبلی قرار است امروز اعمال شوند، بنابراین باید پیگیر آنها بود.",
+    "x": "دیگر تنظیمات و تیونینگ‌های کلاسی نیز برای امروز برنامه‌ریزی شده‌اند و اعمال خواهند شد.",
     "kind": "info"
    }
   ],
   "tags_fa": [
    "هاتفیکس",
-   "شمن",
-   "کلاس چینج"
+   "WoW Forever",
+   "Enhancement Shaman",
+   "کلاس شمن"
   ]
  }
 }
