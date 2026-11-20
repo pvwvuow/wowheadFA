@@ -148,12 +148,51 @@
   ],
   "chars": 1391
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383938/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383938/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383938/1.jpg",
+ "article_fa": {
+  "title_fa": "بررسی باگ‌های چند کوئست توسط تیم پشتیبانی Blizzard",
+  "lead_fa": "حساب رسمی BlizzardCS با ثبت پیام‌هایی در پایگاه داده Wowhead اعلام کرد که مشکلات مربوط به سه کوئست در حال بررسی است.",
+  "body_fa": [
+   "حساب کاربری BlizzardCS در بخش نظرات چند کوئست در دیتابیس Wowhead اعلام کرده است که گزارش‌های دریافتی درباره باگ‌های این مأموریت‌ها در دست بررسی قرار دارد. سه کوئست Call of Earth، Biding Our Time و Witch Doctor Ti'ik مواردی هستند که به طور مشخص به درست کار نکردن آن‌ها اشاره شده است.",
+   {
+    "t": "h",
+    "x": "جزئیات کوئست‌های دارای مشکل"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "کوئست Call of Earth: به اتمام رساندن این کوئست در لول ۳ با Skyborne Shaman، اسپل Stoneskin Totem را به بازیکن نمی‌دهد.",
+     "کوئست Witch Doctor Ti'ik: آیتم Ti'ik's Head هنگام انجام کوئست به شکل گروهی، تنها برای یک نفر از اعضای پارتی دراپ می‌شود.",
+     "کوئست Biding Our Time: این مأموریت ممکن است آیتمی با علامت سؤال قرمز پاداش دهد که غیرقابل استفاده است؛ بازیکنان گزارش داده بودند که Filcher's Cowl غیرقابل استفاده بوده و جایزه به صورت علامت سؤال قرمز نشان داده می‌شد، هرچند برخی پیام‌ها حاکی از دریافت cloak و رفع مشکل است."
+    ]
+   },
+   {
+    "t": "quote",
+    "x": "ما مطلع هستیم که تکمیل این مأموریت به عنوان یک Skyborne Shaman لول ۳، اسپل Stoneskin Totem را به بازیکن نمی‌دهد. هم‌اکنون در حال بررسی این مشکل هستیم.",
+    "by": "BlizzardCS"
+   },
+   {
+    "t": "note",
+    "x": "هنوز هیچ بازه زمانی مشخصی برای انتشار فیکس نهایی این باگ‌ها از سوی Blizzard ارائه نشده است.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "کوئست",
+   "باگ",
+   "پشتیبانی بلیزارد"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-20T05:12:20Z"
+ }
 }
