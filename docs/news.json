@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T07:12:02Z",
+ "generated": "2026-11-20T14:18:13Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3508,6 +3508,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383922,
+   "title_en": "New Winter Veil Music on Patch 12.1.7 PTR References \"Winter Veil Mini-Game\"",
+   "url": "https://www.wowhead.com/news=383922",
+   "category": "PTR",
+   "published_at": "2026-11-20T14:00:00Z"
+  },
   {
    "id": 383940,
    "title_en": "Skyborne Now Get Reputation Discount for Mounts in WoW: Forever But You'll Need A Lot of Runecloth",
