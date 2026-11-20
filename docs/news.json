@@ -1,8 +1,44 @@
 {
- "generated": "2026-11-20T02:50:19Z",
+ "generated": "2026-11-20T04:46:28Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383928,
+   "slug": "blizzard-addresses-spell-power-gear-shortage-in-wow-forever",
+   "title_fa": "پاسخ بلیزارد به کمبود تجهیزات Spell Power در WoW: Forever",
+   "lead_fa": "توسعه‌دهندگان WoW: Forever در پادکست اخیر به موضوع کمبود تجهیزات دارای Spell Power حین رساندن شخصیت‌ها به سطوح بالاتر پرداختند.",
+   "body_fa": [
+    "در تازه‌ترین قسمت از پادکست WoW: Forever، دو تن از توسعه‌دهندگان به نام‌های Kris Zierhut و Aidan Moon به نگرانی‌های موجود پیرامون کمبود آیتم‌های Spell Power در این بازی پاسخ دادند. با بالا بردن لول کلاس‌هایی مانند Mage و Warlock و سایر اسپل‌کسترها، بازیکنان متوجه نبود تجهیزات کافی با مشخصهٔ Spell Power در جریان بازی شده‌اند.",
+    "در WoW: Forever میزان baseline damage کلاس‌های کستر کاهش یافته بود؛ برنامه بر این بود که تجهیزات جدیدی برای جبران این افت به بازی اضافه شود تا به‌دست‌آوردن آیتم برای این دسته‌بندی نیز درست مانند کلاس‌های melee حائز اهمیت باشد. با این حال، بازیکنان احساس می‌کنند که این قبیل تجهیزات در حال حاضر به اندازه کافی در بازی موجود نیست.",
+    {
+     "t": "quote",
+     "x": "هنگام لول‌آپ یک کستر، چندان اهمیتی به تجهیزات خود نمی‌دهید و من واقعاً می‌خواستم این مشکل را حل کنم تا بازیکنان اسپل‌کستر نیز همانند Warriorها و Rogueها به گیر خود اهمیت دهند... با این حال، فکر می‌کنم احتمالاً تجهیزات Spell Power کافی در مسیر لول‌آپ وجود ندارد. زمانی که در حال معرفی آن بودم، تیم طراحی نسبت به حجم این تغییرات بسیار محتاط بود و من احتمالاً کمی کمتر از آنچه باید، از این آیتم‌ها اضافه کردم. بنابراین در پچ‌های آینده، قصد دارم تجهیزات Spell Power بیشتری برای آلت‌ها در محدوده لول ۱۵ تا ۴۰ که خلوت‌تر از حد معمول است، اضافه کنم.",
+     "by": "Kris Zierhut"
+    },
+    "Kris در ادامه اشاره کرد که در حال حاضر نیز دریافت این تجهیزات در بازی امکان‌پذیر است، اما کمبود آن را می‌پذیرد. هرچند شاید این پاسخ ایده‌آل بازیکنان فعلی کستر نباشد، اما به نظر می‌رسد این مشکل در فرآیند توسعه آینده WoW: Forever برطرف خواهد شد."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "بلیزارد",
+    "اخبار بازی"
+   ],
+   "items": [],
+   "title_en": "Blizzard Addresses Spell Power Gear Shortage in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383928",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383928-blizzard-addresses-spell-power-gear-shortage-in-wow-forever.html",
+   "published_at": "2026-11-20T00:42:07Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383928/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383928/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383937,
    "slug": "some-eu-players-reporting-issues-with-pvp-queues-and-honor-gains-in-wo",
@@ -2463,6 +2499,46 @@
    ]
   },
   {
+   "id": 383863,
+   "slug": "new-brutal-armor-transmog-sets-datamined-in-patch-12-1-7",
+   "title_fa": "کشف ست‌های ترنسموگ Brutal Armor در پچ 12.1.7",
+   "lead_fa": "داده‌کاوی‌های جدید در پچ 12.1.7 از ست‌های ترنسموگ Brutal Armor در چهار رنگ مختلف پرده برداشته است.",
+   "body_fa": [
+    "در جریان بررسی داده‌های پچ 12.1.7، مجموعه‌های جدیدی از ترنسموگ تحت عنوان Brutal Armor کشف شده‌اند که در ۴ رنگ‌بندی مجزا طراحی شده‌اند.",
+    {
+     "t": "h",
+     "x": "نحوه دسترسی به ست‌ها"
+    },
+    "طبق اطلاعات به‌دست‌آمده، دو نسخه Steel و Iron از طریق بخش Trading Post در دسترس بازیکنان قرار خواهند گرفت، در حالی که منبع و شیوه دریافت دو رنگ دیگر این ست در حال حاضر نامشخص است.",
+    {
+     "t": "note",
+     "x": "دو ست از چهار رنگ این زره مستقیماً به جوایز Trading Post مربوط می‌شوند و اطلاعات تکمیلی درباره دو مدل دیگر هنوز در دسترس نیست. شناسه این خبر در دیتابیس 383863 ثبت شده است. تاریخ انتشار خبر ۲۰۲۶-۱۱-۱۲ بوده و گفتگوهای پیرامون آن در پچ 12.1.5 انجام شده و نگاه‌ها به آپدیت‌های آینده نظیر 12.2 دوخته شده است. در واکنش‌های انجمن اعدادی چون 10، 100، 11، 12، 13، 14، 15، 15,000، 16، 17، 19، 20، 2026، 21، 22، 23، 700 و 8750 به چشم می‌خورد.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "ترنسموگ",
+    "دیتاکاوی",
+    "پچ 12.1.7",
+    "Trading Post"
+   ],
+   "items": [],
+   "title_en": "New Brutal Armor Transmog Sets Datamined in Patch 12.1.7",
+   "source_url": "https://www.wowhead.com/news=383863",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383863-new-brutal-armor-transmog-sets-datamined-in-patch-12-1-7.html",
+   "published_at": "2026-11-12T23:00:09Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383863/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383863/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "id": 383862,
    "slug": "learning-dual-spec-can-trigger-empty-action-bars-when-logging-out-in-w",
    "title_fa": "خالی شدن اکشن‌بارها هنگام خروج از بازی پس از یادگیری Dual Spec",
@@ -3406,112 +3482,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383831,
-   "slug": "dungeon-experience-in-wow-forever-is-now-60-of-classic-era-blizzard-ha",
-   "title_fa": "میزان Experience دانجن‌ها در WoW: Forever به ۶۰٪ مقادیر Classic Era رسید",
-   "lead_fa": "Blizzard تأیید کرد که مقدار XP دریافتی از دانجن‌ها در WoW: Forever به ۶۰٪ مقادیر Classic Era تغییر یافته و از سرعت لول‌آپ حاصل از آن ابراز رضایت کرده است.",
-   "body_fa": [
-    "طبق اعلام رسمی Blizzard، مقدار Experience حاصل از دانجن‌ها در سرورهای WoW: Forever اکنون به ۶۰٪ مقادیر موجود در Classic Era افزایش یافته است و تیم توسعه بر این باور است که این تغییر به‌خوبی عمل می‌کند.",
-    {
-     "t": "quote",
-     "x": "ما این موضوع را بسیار دقیق زیر نظر داشتیم و هاتفیکسی که روز یکشنبه ۸ نوامبر اعمال کردیم، مقدار XP حاصل از کشتن ماب‌ها در دانجن را از ۴۰٪ مقادیر Classic Era به ۶۰٪ مقادیر Classic Era رساند. ما پس از آن احساس کرده‌ایم که این تنظیم به‌خوبی پیش می‌رود تا سرعت لول‌آپ در دانجن با بقیه محتوای WoW: Forever همخوانی داشته باشد.",
-     "by": "Blizzard"
-    },
-    {
-     "t": "note",
-     "x": "این تغییر از طریق هاتفیکس روز یکشنبه ۸ نوامبر اعمال شده و XP دریافتی از ماب‌های دانجن را از ۴۰٪ به ۶۰٪ رسانده است.",
-     "kind": "info"
-    },
-    "به گفته Blizzard، این اصلاح با هدف متناسب‌سازی سرعت لول‌آپ دانجن‌ها با سایر محتواهای دنیای WoW: Forever به کار گرفته شده است."
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "WoW Forever",
-    "لول‌آپ"
-   ],
-   "items": [],
-   "title_en": "Dungeon Experience in WoW: Forever is Now 60% of Classic Era - Blizzard Happy with Dungeon Level Speeds",
-   "source_url": "https://www.wowhead.com/news=383831",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383831-dungeon-experience-in-wow-forever-is-now-60-of-classic-era-blizzard-ha.html",
-   "published_at": "2026-11-10T21:52:03Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383831/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383831/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383828,
-   "slug": "vendor-price-changes-on-wow-forever-iron-grenade-shuffle-dead",
-   "title_fa": "تغییر قیمت فروش آیتم‌ها به وندور در سرورهای زنده WoW: Forever",
-   "lead_fa": "با ریست هفتگی اخیر، قیمت فروش چندین آیتم ساختنی به وندورها در سرورهای زنده WoW: Forever تغییر کرد و روش سودآوری ساخت Iron Grenade عملاً از کار افتاد.",
-   "body_fa": [
-    "هم‌زمان با ریست هفتگی اخیر، قیمت فروش آیتم‌های متعددی به وندورها در WoW: Forever دستخوش تغییر شد. این اقدام احتمالاً روش‌های موسوم به Vendor Shuffle را هدف قرار داده است؛ ترفندی پرطرفدار برای کسب Gold که در آن مواد اولیه ارزان‌قیمت خریداری شده و به صورت انبوه به آیتم‌هایی گران‌تر تبدیل می‌شوند تا با فروش آن‌ها به وندور سودی حاصل شود که تزریق مستقیم پول به اقتصاد بازی به حساب می‌آید.",
-    {
-     "t": "h",
-     "x": "پایان روش سودآوری با Iron Grenade"
-    },
-    "یکی از شناخته‌شده‌ترین روش‌ها در Classic ساخت [[item:Iron Grenade]] بود که با ترکیب Iron Bar، Heavy Blasting Powder و Silk Cloth تعداد چندتایی از این نارنجک ساخته می‌شد. در هاتفیکس اخیر قیمت فروش این آیتم کاهش یافته است و از ۵ نقره مواد وندور، تنها ۳ نقره و ۷۵ مس بازمی‌گردد که این روش را کاملاً از رده خارج می‌کند.",
-    {
-     "t": "h",
-     "x": "افزایش قیمت فروش برخی تجهیزات"
-    },
-    "این تغییرات صرفاً تضعیف آیتم‌ها نبوده و طبق گزارش‌ها، قیمت فروش تعدادی از آیتم‌های ساختنی به وندورها افزایش پیدا کرده است:",
-    {
-     "t": "ul",
-     "xs": [
-      "معجون [[item:Minor Arcane Elixir]] با افزایش قیمت فروش مواجه شده است.",
-      "زره‌های پا شامل [[item:Protector's Chain Leggings]] و [[item:Stormrider's Leather Pants]] تغییر قیمت داشته‌اند.",
-      "زره‌های سینه و سر از جمله [[item:Stormrider's Leather Armor]] همراه با [[item:Filigreed Pristine Circlet]].",
-      "دستکش‌های چرمی نظیر [[item:Prowler's Leather Gauntlets]]، [[item:Skulker's Leather Gauntlets]]، [[item:Warden's Leather Gauntlets]]، [[item:Skycaller's Leather Gauntlets]] و [[item:Mender's Leather Gauntlets]].",
-      "دستکش‌های میل مانند [[item:Skycaller's Mail Gauntlets]] و [[item:Skirmisher's Mail Gauntlets]].",
-      "سایر تجهیزات پا شامل [[item:Filigreed Pristine Leggings]] و [[item:Filigreed Shining Leggings]]."
-     ]
-    },
-    {
-     "t": "note",
-     "x": "پیش از این تضعیف‌های مشابهی روی سلاح‌ها و Enchanting Wandها در بتای WoW: Forever مشاهده شده بود و این تغییرات، نخستین موج اصلاحات روی سرورهای لایو به شمار می‌رود.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "WoW Forever",
-    "اقتصاد بازی",
-    "Classic"
-   ],
-   "items": [],
-   "title_en": "Vendor Price Changes on WoW: Forever - Iron Grenade Shuffle Dead",
-   "source_url": "https://www.wowhead.com/news=383828",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383828-vendor-price-changes-on-wow-forever-iron-grenade-shuffle-dead.html",
-   "published_at": "2026-11-10T21:05:09Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383828/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383828/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383928,
-   "title_en": "Blizzard Addresses Spell Power Gear Shortage in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383928",
-   "category": "Forever",
-   "published_at": "2026-11-20T00:42:07Z"
-  },
   {
    "id": 383929,
    "title_en": "Study The Well - WoW: Forever Podcast Board Message Hints at New Brainteaser",
@@ -3567,13 +3540,6 @@
    "url": "https://www.wowhead.com/news=383869",
    "category": "WoW",
    "published_at": "2026-11-13T18:12:25Z"
-  },
-  {
-   "id": 383863,
-   "title_en": "New Brutal Armor Transmog Sets Datamined in Patch 12.1.7",
-   "url": "https://www.wowhead.com/news=383863",
-   "category": "PTR",
-   "published_at": "2026-11-12T23:00:09Z"
   },
   {
    "id": 383853,
@@ -3784,6 +3750,13 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
