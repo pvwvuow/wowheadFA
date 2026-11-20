@@ -1,12 +1,7 @@
 {
  "day": "2026-11-20",
- "published_today": 1,
+ "published_today": 2,
  "held": {
-  "383920": {
-   "reason": "G5 English token not in source: silver",
-   "at": "2026-11-19T22:55:54Z",
-   "at_ts": 1795128954.471715
-  },
   "383907": {
    "reason": "G1 Persian ratio 42% < 45% | G3 long English run: A channeled spell used while moving to summon a flock of ravens that e... | G3 long English run: Summons a plague of frogs from your cauldron. Frogs leap to a random e...",
    "at": "2026-11-20T00:27:20Z",
@@ -26,63 +21,33 @@
    "reason": "G4 numbers from source missing in article: 100, 15, 17, 2.3, 2.6, 22, 23, 383824",
    "at": "2026-11-20T00:45:50Z",
    "at_ts": 1795135550.868102
+  },
+  "383920": {
+   "reason": "G5 English token not in source: silver",
+   "at": "2026-11-20T02:23:49Z",
+   "at_ts": 1795141429.837411
+  },
+  "383741": {
+   "reason": "عددِ بدون منبع در مقاله: 4 | G4 numbers from source missing in article: 10, 11, 13, 16, 23, 29, 39",
+   "at": "2026-11-20T02:29:03Z",
+   "at_ts": 1795141743.148212
+  },
+  "383738": {
+   "reason": "ادعای «شماره ساخت این بیلد 621.14 است که بر اساس بازخورد بازیکنان در پچ 1.60.1، مشکل کرش ناشی از DirectX 12 را برای برخی کارت‌ها برطرف می‌کند» برگرفته از کامنت یک کاربر عادی (Anubastian) است و جزو خبر و بیانیه رسمی منبع نیست. | G4 numbers from source missing in article: 10, 11, 13, 16, 17, 19, 20, 2026",
+   "at": "2026-11-20T02:38:18Z",
+   "at_ts": 1795142298.403069
+  },
+  "383736": {
+   "reason": "جمله پایانی ادعا می‌کند «کاربران در کامنت‌های ۲۰ موردی سایت، ضمن اشاره به عناوینی همچون کیف ۱۶ خانه رایگان...» در حالی که کیف ۱۶ خانه و پچ‌ها مربوط به تیترهای اخبار سایدبار سایت هستند نه محتوای کامنت‌های کاربران. | G4 numbers from source missing in article: 10, 11, 13, 14, 17, 22, 23, 60",
+   "at": "2026-11-20T02:47:01Z",
+   "at_ts": 1795142821.441599
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-20T00:45:50Z",
+ "updated_at": "2026-11-20T02:47:01Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383698",
-    "ts": "2026-11-16T19:35:56Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 36.5,
-    "attempts": 0
-   },
-   {
-    "id": "383695",
-    "ts": "2026-11-16T19:37:04Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 68.5,
-    "attempts": 0
-   },
-   {
-    "id": "383630",
-    "ts": "2026-11-16T19:37:45Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 40.8,
-    "attempts": 0
-   },
-   {
-    "id": "383603",
-    "ts": "2026-11-16T19:38:38Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 52.6,
-    "attempts": 1
-   },
-   {
-    "id": "383570",
-    "ts": "2026-11-16T19:39:35Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 57.7,
-    "attempts": 0
-   },
    {
     "id": "383561",
     "ts": "2026-11-16T19:41:57Z",
@@ -4031,6 +3996,56 @@
     "blocks": 1,
     "warns": 0,
     "sec": 346.0,
+    "attempts": 2
+   },
+   {
+    "id": "383937",
+    "ts": "2026-11-20T02:17:43Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 374.5,
+    "attempts": 2
+   },
+   {
+    "id": "383920",
+    "ts": "2026-11-20T02:23:49Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 366.4,
+    "attempts": 2
+   },
+   {
+    "id": "383741",
+    "ts": "2026-11-20T02:29:03Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 313.3,
+    "attempts": 2
+   },
+   {
+    "id": "383738",
+    "ts": "2026-11-20T02:38:18Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 555.3,
+    "attempts": 2
+   },
+   {
+    "id": "383736",
+    "ts": "2026-11-20T02:47:01Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 523.0,
     "attempts": 2
    }
   ]

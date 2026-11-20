@@ -1,8 +1,44 @@
 {
- "generated": "2026-11-20T00:48:26Z",
+ "generated": "2026-11-20T02:48:40Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383937,
+   "slug": "some-eu-players-reporting-issues-with-pvp-queues-and-honor-gains-in-wo",
+   "title_fa": "گزارش برخی بازیکنان سرورهای اروپایی از اختلال در صف‌های PvP در WoW: Forever",
+   "lead_fa": "برخی از بازیکنان در سرورهای اروپایی WoW: Forever از بروز مشکل در صف‌های PvP و باز نشدن صف بتل‌گراندها خبر داده‌اند.",
+   "body_fa": [
+    "طبق گزارش‌های متعدد ثبت‌شده در فروم‌های بتل‌نت و ردیت، شماری از بازیکنان در ریجن EU هنگام استفاده از سیستم‌های PvP با اختلال روبه‌رو شده‌اند. به گفتهٔ این بازیکنان، صف‌های Battleground برای آن‌ها فعال نمی‌شود مگر اینکه لیر (Layer) خود را تغییر دهند.",
+    {
+     "t": "note",
+     "x": "گزارش‌ها نشان می‌دهد که احتمالاً برخی لیرهای مشخص در سرورهای اروپایی دچار باگ شده‌اند و مانع از باز شدن صف‌های بتل‌گراند می‌شوند. برخی بازیکنان بر این باورند که این مشکل به یک هوم‌لیر خاص یعنی «Layer 15» مربوط است.",
+     "kind": "warn"
+    },
+    "اگر در حال حاضر نمی‌توانید برای Battlegroundها صف ثبت کنید یا صف برای شما پاپ نمی‌شود، ممکن است حساب یا کاراکتر شما دچار این باگ شده باشد. در چنین شرایطی، راهکار پیشنهادی بازیکنان این است که از یک دوست بخواهید به جای شما برای صف اقدام کند."
+   ],
+   "tags_fa": [
+    "مشکلات سرور",
+    "پی‌وی‌پی",
+    "بتل‌گراند",
+    "Forever"
+   ],
+   "items": [],
+   "title_en": "Some EU Players Reporting Issues with PvP Queues and Honor Gains in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383937",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383937-some-eu-players-reporting-issues-with-pvp-queues-and-honor-gains-in-wo.html",
+   "published_at": "2026-11-19T23:20:47Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383937/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383937/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383935,
    "slug": "motes-of-unstable-magic-now-soulbound-in-wow-forever-gold-strategy-ner",
@@ -3466,88 +3502,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383826,
-   "slug": "warlock-and-hunter-class-tuning-now-live-in-wow-forever",
-   "title_fa": "اعمال تغییرات کلاس‌های Hunter و Warlock در WoW: Forever",
-   "lead_fa": "بخشی از تغییرات اعلام‌شده برای کلاس‌های Hunter و Warlock در سرورهای WoW: Forever فعال شد.",
-   "body_fa": [
-    "به‌دنبال اعلام هفته گذشتهٔ Blizzard مبنی بر تیونینگ پیش‌رو برای کلاس‌ها، اکنون بخشی از این تغییرات در WoW: Forever اعمال شده است. پیش‌تر تغییری روی سلاح کلاسی Enhancement Shaman مشاهده شده بود و حالا اصلاحات بیشتری برای Hunter و Warlock در دسترس قرار گرفته است، هرچند هنوز تمام موارد وعده‌داده‌شده پیاده‌سازی نشده‌اند.",
-    {
-     "t": "h",
-     "x": "تغییرات هزینه مانای Hunter"
-    },
-    "کلاس Hunter تغییراتی در هزینه مانای دو اسپل خود دریافت کرده است:",
-    {
-     "t": "ul",
-     "xs": [
-      "اسپل Summon Hawk در تمامی رنک‌ها اکنون هزینه ثابت ۱۱٪ از Base Mana دارد.",
-      "اسپل Arcane Shot در تمامی رنک‌ها اکنون هزینه ثابت ۱۱٪ از Base Mana دارد."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "تغییرات اسپل‌ها و تلنت‌های Warlock"
-    },
-    "به نظر می‌رسد هدف این تغییرات مقابله با تکرار مداوم اسپل Wrack بدون استفاده از DoTها است. دمیج Firebolt مربوط به Imp نیز افزایش یافته است؛ این افزایش در لول‌های پایین‌تر بیشتر و در لول‌های بالاتر کمتر است.",
-    {
-     "t": "table",
-     "head": [
-      "قابلیت",
-      "حالت پیشین",
-      "حالت جدید"
-     ],
-     "rows": [
-      [
-       "Soul Siphon",
-       "افزایش ۴/۸/۱۲٪ افکت‌های Drain Life، Drain Soul و Wrack به ازای هر یک از سایر افکت‌های Affliction (حداکثر ۱۲/۲۴/۳۶٪)",
-       "افزایش ۴/۸/۱۲٪ افکت‌های مذکور مشخصاً به ازای هر یک از افکت‌های Corruption، Siphon Life و Bane of Agony (حداکثر ۱۲/۲۴/۳۶٪)"
-      ],
-      [
-       "Wrack (رنک ۱)",
-       "وارد کردن ۸۶ دمیج Shadow در هر ۱ ثانیه و افزایش ۱۰٪ دمیج سایر افکت‌های Shadow DoT به مدت ۶ ثانیه",
-       "وارد کردن ۶۰ دمیج Shadow در هر ۱ ثانیه به مدت ۶ ثانیه؛ افزایش سرعت تیک‌های دمیج دوره‌ای Siphon Life، Corruption و Bane of Agony به میزان ۱۰۰٪ سریع‌تر هنگام Channeling"
-      ]
-     ]
-    },
-    {
-     "t": "note",
-     "x": "در نسخهٔ جدید Wrack، میزان دمیج در هر تیک کاهش یافته اما با چنل کردن آن، نرخ تیک افکت‌های Corruption، Siphon Life و Bane of Agony معادل ۱۰۰٪ افزایش می‌یابد.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "تیونینگ کلاس‌ها",
-    "WoW Forever",
-    "هانتر",
-    "وارلاک"
-   ],
-   "items": [],
-   "title_en": "Warlock and Hunter Class Tuning Now Live in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383826",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383826-warlock-and-hunter-class-tuning-now-live-in-wow-forever.html",
-   "published_at": "2026-11-10T20:16:31Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383826/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383826/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383937,
-   "title_en": "Some EU Players Reporting Issues with PvP Queues and Honor Gains in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383937",
-   "category": "Forever",
-   "published_at": "2026-11-19T23:20:47Z"
-  },
   {
    "id": 383929,
    "title_en": "Study The Well - WoW: Forever Podcast Board Message Hints at New Brainteaser",
@@ -3820,6 +3777,13 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
