@@ -128,33 +128,49 @@
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383920/1.jpg",
  "last_rejected": {
-  "title_fa": "حذف اچیومنت‌های درجه سختی Mythic از Talebound در سرور تست پچ 12.1.7",
-  "lead_fa": "در جدیدترین بیلد پچ 12.1.7 روی PTR، تمام اچیومنت‌های درجه سختی Mythic از محتوای Talebound حذف شده و سه تایتل جدید به درجه Heroic انتقال یافته‌اند.",
+  "title_fa": "حذف تمامی اچیومنت‌های درجهٔ سختی Mythic از Talebound در سرور PTR پچ 12.1.7",
+  "lead_fa": "در جدیدترین بیلد سرور آزمایشی پچ 12.1.7، تمام اچیومنت‌های مربوط به درجهٔ سختی Mythic در بخش Talebound حذف شده و سه تایتل جدید به درجهٔ سختی Heroic اختصاص یافته است.",
   "body_fa": [
-   "در ساخت جدید سرور آزمایشی پچ 12.1.7، تغییراتی در بخش Talebound اعمال شده است. در حالی که این بخش چندین درجه سختی مختلف دارد، اکنون تمامی اچیومنت‌های مرتبط با درجه سختی Mythic به‌طور کامل حذف شده‌اند.",
-   "هنوز مشخص نیست که آیا خود درجه سختی Mythic همچنان در بازی باقی می‌ماند یا خیر، اما حذف تمامی اچیومنت‌های آن می‌تواند نشانه‌ای از حذف کامل این درجه سختی از این بخش باشد.",
+   "بخش Talebound درجه‌های سختی متعددی دارد، اما در بیلد آزمایشی پچ 12.1.7 سرور PTR، تمامی اچیومنت‌های وابسته به درجهٔ سختی Mythic از بازی حذف شده‌اند. با این‌که هنوز نمی‌توان با قطعیت وجود یا عدم وجود این درجهٔ سختی را تأیید کرد، حذف کامل اچیومنت‌های آن ممکن است نشان‌دهندهٔ کنار گذاشته شدن کل این درجهٔ سختی باشد.",
    {
     "t": "h",
-    "x": "تایتل‌های جدید برای درجه سختی Heroic"
+    "x": "اچیومنت‌های حذف‌شدهٔ درجهٔ سختی Mythic"
    },
-   "با حذف اچیومنت‌های پیشین، اکنون برای به پایان رساندن مواجهه نهایی با عنوان Final Confrontation روی درجه سختی Heroic سه عنوان یا Title تازه در نظر گرفته شده که متناسب با هر کلاس است:",
+   "فهرست دستاوردهای حذف‌شده شامل موارد متعددی از پیشروی در داستان‌ها، شکست باس‌ها و پاداش‌ها می‌شود:",
    {
     "t": "ul",
     "xs": [
-     "کلاس Inquisitor: پاداش روی درجه Heroic با تایتل of the Sacred Flame به همراه 20 ارز Bound Silver جایگزین شده است.",
-     "کلاس Slayer: پاداش روی درجه Heroic با تایتل Monster Hunter به همراه 20 ارز Bound Silver جایگزین شده است.",
-     "کلاس Witch: پاداش روی درجه Heroic با تایتل of the Crooked Path به همراه 20 ارز Bound Silver جایگزین شده است."
+     "اتمام هر داستانی از Talebound روی درجهٔ سختی Mythic با پاداش Traveling Raven: Cache of Mythic Treasures",
+     "اتمام هر چهار داستان و سپس شکست Final Confrontation روی درجهٔ سختی Mythic",
+     "پایان دادن به Final Confrontation در Talebound با کلاس‌های Slayer، Witch و Inquisitor روی درجهٔ سختی Mythic با پاداش Traveling Raven: Cache of Mythic Treasures",
+     "شکست باس‌های Tilywth، Mobog، Zzyg'th، Chathoa، Konrad von Sonnesheim، Maernok، Alexandre Dozsenc، Ylska Vilefang و Granny Greenthumb در Tales of the Storyteller روی درجهٔ سختی Mythic",
+     "رویارویی با Final Confrontation در Tales of the Storyteller روی درجهٔ سختی Mythic به صورت کلی و با کلاس‌های مختلف",
+     "اتمام داستان‌های Greenthistle Wood، Darkhaven، Greywake's Expedition و Court of Night روی درجهٔ سختی Mythic",
+     "تکمیل Final Confrontation در Talebound روی درجهٔ سختی Mythic با پاداش Traveling Raven: Venomstone Cache"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "تایتل‌های جدید برای درجهٔ سختی Heroic"
+   },
+   "در ساختار جدید Talebound، سه تایتل تازه برای به پایان رساندن Final Confrontation روی درجهٔ سختی Heroic در نظر گرفته شده که بر اساس کلاس شخصیت‌ها تفکیک شده‌اند:",
+   {
+    "t": "ul",
+    "xs": [
+     "کلاس Inquisitor در رویارویی با Final Confrontation در Tales of the Storyteller روی درجهٔ سختی Heroic: دریافت تایتل of the Sacred Flame به همراه 20 Bound Silver",
+     "کلاس Slayer در رویارویی با Final Confrontation در Tales of the Storyteller روی درجهٔ سختی Heroic: دریافت تایتل Monster Hunter به همراه 20 Bound Silver",
+     "کلاس Witch در رویارویی با Final Confrontation در Tales of the Storyteller روی درجهٔ سختی Heroic: دریافت تایتل of the Crooked Path به همراه 20 Bound Silver"
     ]
    },
    {
     "t": "note",
-    "x": "پیش از این، تایتل‌های of the Sacred Flame و of the Crooked Path جزو جوایز اتمام چالش روی درجه سختی Mythic بودند، اما اکنون با تغییرات جدید به درجه سختی Heroic منتقل شده‌اند.",
+    "x": "پیش از این، عناوینی نظیر of the Sacred Flame و of the Crooked Path پاداش نسخهٔ Mythic بودند که اکنون به پایان مرحله روی درجهٔ سختی Heroic منتقل شده‌اند.",
     "kind": "info"
    }
   ],
   "tags_fa": [
    "پچ 12.1.7",
-   "PTR",
+   "سرور PTR",
    "اچیومنت",
    "Talebound"
   ]
