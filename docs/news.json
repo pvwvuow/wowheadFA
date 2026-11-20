@@ -1,8 +1,85 @@
 {
- "generated": "2026-11-20T01:47:29Z",
+ "generated": "2026-11-20T03:30:43Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383928,
+   "slug": "blizzard-addresses-spell-power-gear-shortage-in-wow-forever",
+   "title_fa": "پاسخ بلیزارد به کمبود تجهیزات Spell Power در WoW: Forever",
+   "lead_fa": "توسعه‌دهندگان WoW: Forever در پادکست اخیر به موضوع کمبود آیتم‌های دارای Spell Power در حین ارتقای لول اشاره کرده و از برنامه‌های آینده برای رفع آن گفتند.",
+   "body_fa": [
+    "در تازه‌ترین قسمت از پادکست WoW: Forever، سازندگان بازی یعنی Kris Zierhut و Aidan Moon به نگرانی بازیکنان درباره کمبود آیتم‌های Spell Power پرداختند. بازیکنانی که در حال ارتقای لول کلاس‌هایی مانند Mage و Warlock و سایر اسپل‌کسترها هستند، متوجه کمبود این قبیل تجهیزات در جریان بازی شده‌اند.",
+    "در WoW: Forever، میزان Damage پایه کلاس‌های کستر کاهش یافته بود؛ اما هدف این بود که تجهیزات جدیدی برای جبران این موضوع به بازی افزوده شود تا به دست آوردن گیر برای کسترها نیز اهمیتی مشابه کلاس‌های Melee پیدا کند. با این حال، بازیکنان احساس می‌کنند که در حال حاضر مقدار کافی از این آیتم‌ها در بازی در دسترس نیست.",
+    {
+     "t": "quote",
+     "x": "هنگام لول‌آپ یک کستر، شما واقعاً اهمیت چندانی به تجهیزات خود نمی‌دهید و من واقعاً می‌خواستم این مشکل را حل کنم و کاری کنم که اسپل‌کسترها درست به اندازه Warriorها و Rogueها به گیر خود اهمیت بدهند... با این حال، فکر می‌کنم که احتمالاً تجهیزات Spell Power کافی در مسیر لول‌آپ وجود ندارد. در زمان معرفی آن، تیم طراحی نسبت به حجم تغییرات بسیار محتاط بود و من شاید کمی کمتر از آنچه باید، از این آیتم‌ها اضافه کردم. بنابراین در پچ‌های آینده، می‌خواهم آیتم‌های Spell Power بیشتری برای کاراکترهای Alt در بازه لول ۱۵ تا ۴۰ که خلوت‌تر از حد معمول است، اضافه کنم.",
+     "by": "Kris Zierhut"
+    },
+    "Kris Zierhut در ادامه اشاره کرد که در حال حاضر نیز دستیابی به این تجهیزات در بازی امکان‌پذیر است، اما کمبود آن را پذیرفت.",
+    {
+     "t": "note",
+     "x": "طبق توضیحات توسعه‌دهندگان، برنامه افزودن تجهیزات Spell Power بیشتر به‌ویژه برای بازه لول ۱۵ تا ۴۰ در پچ‌های آینده دنبال خواهد شد.",
+     "kind": "info"
+    },
+    "هرچند این موضوع ممکن است برای کسانی که هم‌اکنون مشغول لول‌آپ کلاس‌های کستر هستند پاسخ ایده‌آلی نباشد، اما به نظر می‌رسد این مشکل در ادامه روند توسعه WoW: Forever برطرف خواهد شد."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "بلیزارد",
+    "پادکست"
+   ],
+   "items": [],
+   "title_en": "Blizzard Addresses Spell Power Gear Shortage in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383928",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383928-blizzard-addresses-spell-power-gear-shortage-in-wow-forever.html",
+   "published_at": "2026-11-20T00:42:07Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383928/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383928/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383937,
+   "slug": "some-eu-players-reporting-issues-with-pvp-queues-and-honor-gains-in-wo",
+   "title_fa": "گزارش برخی بازیکنان سرورهای EU از اختلال در صف‌های PvP در WoW: Forever",
+   "lead_fa": "شماری از بازیکنان سرورهای اروپایی در WoW: Forever گزارش داده‌اند که صف‌های Battleground برای آن‌ها فعال نمی‌شود و وارد بازی نمی‌شوند.",
+   "body_fa": [
+    "بر اساس گزارش‌های متعددی که در فروم‌های بتل‌نت و Reddit منتشر شده است، برخی از بازیکنان سرورهای EU در سیستم‌های PvP بازی WoW: Forever با مشکل مواجه شده‌اند. این گزارش‌ها نشان می‌دهند که صف‌های Battleground برای این دسته از افراد فعال نمی‌شود، مگر اینکه لیر (Layer) آن‌ها تغییر کند.",
+    "این وضعیت باعث شده بازیکنان تصور کنند که برخی لیرهای خاص در سرورهای EU دچار باگ شده‌اند و جلوی باز شدن تمامی صف‌های Battleground را می‌گیرند. در این میان، برخی بازیکنان معتقدند این مشکل مربوط به یک لیر خانگی خاص یعنی Layer 15 است.",
+    {
+     "t": "note",
+     "x": "اگر در ورود به صف‌های Battleground مشکل دارید و صف برای شما فعال نمی‌شود، ممکن است کاراکتر شما دچار این باگ شده باشد؛ در این حالت نیاز است از یکی از دوستانتان بخواهید به جای شما صف را ثبت کند.",
+     "kind": "warn"
+    }
+   ],
+   "tags_fa": [
+    "پی‌وی‌پی",
+    "مشکلات سرور",
+    "WoW Forever"
+   ],
+   "items": [],
+   "title_en": "Some EU Players Reporting Issues with PvP Queues and Honor Gains in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383937",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383937-some-eu-players-reporting-issues-with-pvp-queues-and-honor-gains-in-wo.html",
+   "published_at": "2026-11-19T23:20:47Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383937/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383937/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383935,
    "slug": "motes-of-unstable-magic-now-soulbound-in-wow-forever-gold-strategy-ner",
@@ -3410,151 +3487,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383828,
-   "slug": "vendor-price-changes-on-wow-forever-iron-grenade-shuffle-dead",
-   "title_fa": "تغییر قیمت فروش آیتم‌ها به وندور در سرورهای زنده WoW: Forever",
-   "lead_fa": "با ریست هفتگی اخیر، قیمت فروش چندین آیتم ساختنی به وندورها در سرورهای زنده WoW: Forever تغییر کرد و روش سودآوری ساخت Iron Grenade عملاً از کار افتاد.",
-   "body_fa": [
-    "هم‌زمان با ریست هفتگی اخیر، قیمت فروش آیتم‌های متعددی به وندورها در WoW: Forever دستخوش تغییر شد. این اقدام احتمالاً روش‌های موسوم به Vendor Shuffle را هدف قرار داده است؛ ترفندی پرطرفدار برای کسب Gold که در آن مواد اولیه ارزان‌قیمت خریداری شده و به صورت انبوه به آیتم‌هایی گران‌تر تبدیل می‌شوند تا با فروش آن‌ها به وندور سودی حاصل شود که تزریق مستقیم پول به اقتصاد بازی به حساب می‌آید.",
-    {
-     "t": "h",
-     "x": "پایان روش سودآوری با Iron Grenade"
-    },
-    "یکی از شناخته‌شده‌ترین روش‌ها در Classic ساخت [[item:Iron Grenade]] بود که با ترکیب Iron Bar، Heavy Blasting Powder و Silk Cloth تعداد چندتایی از این نارنجک ساخته می‌شد. در هاتفیکس اخیر قیمت فروش این آیتم کاهش یافته است و از ۵ نقره مواد وندور، تنها ۳ نقره و ۷۵ مس بازمی‌گردد که این روش را کاملاً از رده خارج می‌کند.",
-    {
-     "t": "h",
-     "x": "افزایش قیمت فروش برخی تجهیزات"
-    },
-    "این تغییرات صرفاً تضعیف آیتم‌ها نبوده و طبق گزارش‌ها، قیمت فروش تعدادی از آیتم‌های ساختنی به وندورها افزایش پیدا کرده است:",
-    {
-     "t": "ul",
-     "xs": [
-      "معجون [[item:Minor Arcane Elixir]] با افزایش قیمت فروش مواجه شده است.",
-      "زره‌های پا شامل [[item:Protector's Chain Leggings]] و [[item:Stormrider's Leather Pants]] تغییر قیمت داشته‌اند.",
-      "زره‌های سینه و سر از جمله [[item:Stormrider's Leather Armor]] همراه با [[item:Filigreed Pristine Circlet]].",
-      "دستکش‌های چرمی نظیر [[item:Prowler's Leather Gauntlets]]، [[item:Skulker's Leather Gauntlets]]، [[item:Warden's Leather Gauntlets]]، [[item:Skycaller's Leather Gauntlets]] و [[item:Mender's Leather Gauntlets]].",
-      "دستکش‌های میل مانند [[item:Skycaller's Mail Gauntlets]] و [[item:Skirmisher's Mail Gauntlets]].",
-      "سایر تجهیزات پا شامل [[item:Filigreed Pristine Leggings]] و [[item:Filigreed Shining Leggings]]."
-     ]
-    },
-    {
-     "t": "note",
-     "x": "پیش از این تضعیف‌های مشابهی روی سلاح‌ها و Enchanting Wandها در بتای WoW: Forever مشاهده شده بود و این تغییرات، نخستین موج اصلاحات روی سرورهای لایو به شمار می‌رود.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "WoW Forever",
-    "اقتصاد بازی",
-    "Classic"
-   ],
-   "items": [],
-   "title_en": "Vendor Price Changes on WoW: Forever - Iron Grenade Shuffle Dead",
-   "source_url": "https://www.wowhead.com/news=383828",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383828-vendor-price-changes-on-wow-forever-iron-grenade-shuffle-dead.html",
-   "published_at": "2026-11-10T21:05:09Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383828/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383828/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383826,
-   "slug": "warlock-and-hunter-class-tuning-now-live-in-wow-forever",
-   "title_fa": "اعمال تغییرات کلاس‌های Hunter و Warlock در WoW: Forever",
-   "lead_fa": "بخشی از تغییرات اعلام‌شده برای کلاس‌های Hunter و Warlock در سرورهای WoW: Forever فعال شد.",
-   "body_fa": [
-    "به‌دنبال اعلام هفته گذشتهٔ Blizzard مبنی بر تیونینگ پیش‌رو برای کلاس‌ها، اکنون بخشی از این تغییرات در WoW: Forever اعمال شده است. پیش‌تر تغییری روی سلاح کلاسی Enhancement Shaman مشاهده شده بود و حالا اصلاحات بیشتری برای Hunter و Warlock در دسترس قرار گرفته است، هرچند هنوز تمام موارد وعده‌داده‌شده پیاده‌سازی نشده‌اند.",
-    {
-     "t": "h",
-     "x": "تغییرات هزینه مانای Hunter"
-    },
-    "کلاس Hunter تغییراتی در هزینه مانای دو اسپل خود دریافت کرده است:",
-    {
-     "t": "ul",
-     "xs": [
-      "اسپل Summon Hawk در تمامی رنک‌ها اکنون هزینه ثابت ۱۱٪ از Base Mana دارد.",
-      "اسپل Arcane Shot در تمامی رنک‌ها اکنون هزینه ثابت ۱۱٪ از Base Mana دارد."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "تغییرات اسپل‌ها و تلنت‌های Warlock"
-    },
-    "به نظر می‌رسد هدف این تغییرات مقابله با تکرار مداوم اسپل Wrack بدون استفاده از DoTها است. دمیج Firebolt مربوط به Imp نیز افزایش یافته است؛ این افزایش در لول‌های پایین‌تر بیشتر و در لول‌های بالاتر کمتر است.",
-    {
-     "t": "table",
-     "head": [
-      "قابلیت",
-      "حالت پیشین",
-      "حالت جدید"
-     ],
-     "rows": [
-      [
-       "Soul Siphon",
-       "افزایش ۴/۸/۱۲٪ افکت‌های Drain Life، Drain Soul و Wrack به ازای هر یک از سایر افکت‌های Affliction (حداکثر ۱۲/۲۴/۳۶٪)",
-       "افزایش ۴/۸/۱۲٪ افکت‌های مذکور مشخصاً به ازای هر یک از افکت‌های Corruption، Siphon Life و Bane of Agony (حداکثر ۱۲/۲۴/۳۶٪)"
-      ],
-      [
-       "Wrack (رنک ۱)",
-       "وارد کردن ۸۶ دمیج Shadow در هر ۱ ثانیه و افزایش ۱۰٪ دمیج سایر افکت‌های Shadow DoT به مدت ۶ ثانیه",
-       "وارد کردن ۶۰ دمیج Shadow در هر ۱ ثانیه به مدت ۶ ثانیه؛ افزایش سرعت تیک‌های دمیج دوره‌ای Siphon Life، Corruption و Bane of Agony به میزان ۱۰۰٪ سریع‌تر هنگام Channeling"
-      ]
-     ]
-    },
-    {
-     "t": "note",
-     "x": "در نسخهٔ جدید Wrack، میزان دمیج در هر تیک کاهش یافته اما با چنل کردن آن، نرخ تیک افکت‌های Corruption، Siphon Life و Bane of Agony معادل ۱۰۰٪ افزایش می‌یابد.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "تیونینگ کلاس‌ها",
-    "WoW Forever",
-    "هانتر",
-    "وارلاک"
-   ],
-   "items": [],
-   "title_en": "Warlock and Hunter Class Tuning Now Live in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383826",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383826-warlock-and-hunter-class-tuning-now-live-in-wow-forever.html",
-   "published_at": "2026-11-10T20:16:31Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383826/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383826/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383928,
-   "title_en": "Blizzard Addresses Spell Power Gear Shortage in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383928",
-   "category": "Forever",
-   "published_at": "2026-11-20T00:42:07Z"
-  },
-  {
-   "id": 383937,
-   "title_en": "Some EU Players Reporting Issues with PvP Queues and Honor Gains in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383937",
-   "category": "Forever",
-   "published_at": "2026-11-19T23:20:47Z"
-  },
   {
    "id": 383929,
    "title_en": "Study The Well - WoW: Forever Podcast Board Message Hints at New Brainteaser",
@@ -3820,6 +3755,20 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
+  },
+  {
+   "id": 383519,
+   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383519",
+   "category": "Live",
+   "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }

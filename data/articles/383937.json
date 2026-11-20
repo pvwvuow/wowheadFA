@@ -88,12 +88,35 @@
   ],
   "chars": 713
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383937/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383937/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383937/1.jpg",
+ "article_fa": {
+  "title_fa": "گزارش برخی بازیکنان سرورهای EU از اختلال در صف‌های PvP در WoW: Forever",
+  "lead_fa": "شماری از بازیکنان سرورهای اروپایی در WoW: Forever گزارش داده‌اند که صف‌های Battleground برای آن‌ها فعال نمی‌شود و وارد بازی نمی‌شوند.",
+  "body_fa": [
+   "بر اساس گزارش‌های متعددی که در فروم‌های بتل‌نت و Reddit منتشر شده است، برخی از بازیکنان سرورهای EU در سیستم‌های PvP بازی WoW: Forever با مشکل مواجه شده‌اند. این گزارش‌ها نشان می‌دهند که صف‌های Battleground برای این دسته از افراد فعال نمی‌شود، مگر اینکه لیر (Layer) آن‌ها تغییر کند.",
+   "این وضعیت باعث شده بازیکنان تصور کنند که برخی لیرهای خاص در سرورهای EU دچار باگ شده‌اند و جلوی باز شدن تمامی صف‌های Battleground را می‌گیرند. در این میان، برخی بازیکنان معتقدند این مشکل مربوط به یک لیر خانگی خاص یعنی Layer 15 است.",
+   {
+    "t": "note",
+    "x": "اگر در ورود به صف‌های Battleground مشکل دارید و صف برای شما فعال نمی‌شود، ممکن است کاراکتر شما دچار این باگ شده باشد؛ در این حالت نیاز است از یکی از دوستانتان بخواهید به جای شما صف را ثبت کند.",
+    "kind": "warn"
+   }
+  ],
+  "tags_fa": [
+   "پی‌وی‌پی",
+   "مشکلات سرور",
+   "WoW Forever"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-20T03:17:27Z"
+ }
 }
