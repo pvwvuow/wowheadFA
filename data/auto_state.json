@@ -1,27 +1,7 @@
 {
  "day": "2026-11-20",
- "published_today": 5,
+ "published_today": 7,
  "held": {
-  "383920": {
-   "reason": "G5 English token not in source: silver",
-   "at": "2026-11-20T02:23:49Z",
-   "at_ts": 1795141429.837411
-  },
-  "383741": {
-   "reason": "عددِ بدون منبع در مقاله: 4 | G4 numbers from source missing in article: 10, 11, 13, 16, 23, 29, 39",
-   "at": "2026-11-20T02:29:03Z",
-   "at_ts": 1795141743.148212
-  },
-  "383738": {
-   "reason": "ادعای «شماره ساخت این بیلد 621.14 است که بر اساس بازخورد بازیکنان در پچ 1.60.1، مشکل کرش ناشی از DirectX 12 را برای برخی کارت‌ها برطرف می‌کند» برگرفته از کامنت یک کاربر عادی (Anubastian) است و جزو خبر و بیانیه رسمی منبع نیست. | G4 numbers from source missing in article: 10, 11, 13, 16, 17, 19, 20, 2026",
-   "at": "2026-11-20T02:38:18Z",
-   "at_ts": 1795142298.403069
-  },
-  "383736": {
-   "reason": "جمله پایانی ادعا می‌کند «کاربران در کامنت‌های ۲۰ موردی سایت، ضمن اشاره به عناوینی همچون کیف ۱۶ خانه رایگان...» در حالی که کیف ۱۶ خانه و پچ‌ها مربوط به تیترهای اخبار سایدبار سایت هستند نه محتوای کامنت‌های کاربران. | G4 numbers from source missing in article: 10, 11, 13, 14, 17, 22, 23, 60",
-   "at": "2026-11-20T02:47:01Z",
-   "at_ts": 1795142821.441599
-  },
   "383907": {
    "reason": "G1 Persian ratio 40% < 45% | G3 long English run: A channeled spell used while moving to summon a flock of ravens that e... | G3 long English run: Summons a plague of frogs from your cauldron. Frogs leap to a random e...",
    "at": "2026-11-20T04:03:10Z",
@@ -51,63 +31,28 @@
    "reason": "G4 numbers from source missing in article: 1.60.1, 10, 11, 12, 13, 14, 15, 16",
    "at": "2026-11-20T05:18:24Z",
    "at_ts": 1795151904.954792
+  },
+  "383940": {
+   "reason": "G6 space before punctuation",
+   "at": "2026-11-20T06:39:23Z",
+   "at_ts": 1795156763.461961
+  },
+  "383920": {
+   "reason": "G5 English token not in source: silver",
+   "at": "2026-11-20T06:49:21Z",
+   "at_ts": 1795157361.984641
+  },
+  "383741": {
+   "reason": "بخش note ادعا می‌کند که گزارش «شامل داده‌های بازبینی 2026، 1.60.1، 10، 11، 13، 16، 19، 20، 23، 29، 39 و 60 است» که رشته‌ای بی‌معنی و داده‌های ساختگی استخراج‌شده از متادیتای صفحه است و هیچ ارتباطی با محتوای یادداشت‌های توسعه ندارد.",
+   "at": "2026-11-20T07:05:29Z",
+   "at_ts": 1795158329.96692
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-20T05:18:24Z",
+ "updated_at": "2026-11-20T07:08:43Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383543",
-    "ts": "2026-11-16T21:13:18Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 23.6,
-    "attempts": 1
-   },
-   {
-    "id": "383541",
-    "ts": "2026-11-16T21:13:46Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 28.1,
-    "attempts": 1
-   },
-   {
-    "id": "383487",
-    "ts": "2026-11-16T21:14:30Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 43.4,
-    "attempts": 1
-   },
-   {
-    "id": "383519",
-    "ts": "2026-11-16T21:15:12Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 42.1,
-    "attempts": 1
-   },
-   {
-    "id": "383518",
-    "ts": "2026-11-16T21:15:49Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 37.5,
-    "attempts": 1
-   },
    {
     "id": "383898",
     "ts": "2026-11-16T23:59:56Z",
@@ -4057,6 +4002,56 @@
     "warns": 0,
     "sec": 139.5,
     "attempts": 2
+   },
+   {
+    "id": "383940",
+    "ts": "2026-11-20T06:39:23Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 273.5,
+    "attempts": 2
+   },
+   {
+    "id": "383939",
+    "ts": "2026-11-20T06:42:10Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 166.6,
+    "attempts": 1
+   },
+   {
+    "id": "383920",
+    "ts": "2026-11-20T06:49:21Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 431.9,
+    "attempts": 2
+   },
+   {
+    "id": "383741",
+    "ts": "2026-11-20T07:05:29Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 968.0,
+    "attempts": 2
+   },
+   {
+    "id": "383738",
+    "ts": "2026-11-20T07:08:43Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 1,
+    "sec": 193.2,
+    "attempts": 0
    }
   ]
  }

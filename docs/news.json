@@ -1,8 +1,61 @@
 {
- "generated": "2026-11-20T05:21:36Z",
+ "generated": "2026-11-20T07:10:21Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383939,
+   "slug": "ret-paladin-bug-fix-and-seed-hybridizer-available-again-wow-forever-ho",
+   "title_fa": "هاتفیکس‌های ۱۹ نوامبر بازی: فعال‌سازی مجدد Seed Hybridizer و رفع باگ Retribution Paladin",
+   "lead_fa": "بلیزارد در به‌روزرسانی اخیر، قابلیت Seed Hybridizer را با تغییراتی دوباره فعال کرد و باگ تلنت پالادین را به همراه چندین مشکل دیگر در سیاه‌چاله‌ها و کوئست‌ها برطرف ساخت.",
+   "body_fa": [
+    "شرکت Blizzard هاتفیکس‌های جدیدی برای تاریخ ۱۹ نوامبر منتشر کرده است که شامل بازگشت قابلیت Seed Hybridizer و رفع باگ مربوط به کلاس Paladin می‌شود.",
+    {
+     "t": "h",
+     "x": "تغییرات Camping و کلاس‌ها"
+    },
+    "در بخش Camping قابلیت Seed Hybridizer مجدداً فعال شده است. همچنین روند Seed Hybridization با مقادیر تنظیم‌شده جدیدی همراه شده و اکنون شانس شکست در زمان ترکیب بذرها وجود دارد. علاوه بر این، دیگر نمی‌توان از بذر Scarce Herb Seeds در این دستگاه استفاده کرد.",
+    "در بخش کلاس‌ها و برای تخصص Retribution کلاس Paladin، تلنت Two-Handed Weapon Specialization اکنون به درستی تمام آسیب‌های Holy Damage واردشده را در زمان مجهز بودن به سلاح دو‌دست افزایش می‌دهد.",
+    {
+     "t": "h",
+     "x": "سیاه‌چاله‌ها، دشمنان و آیتم‌ها"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "سیاه‌چاله‌ها: در City of Dalaran دشمن Shade of the Archmage بلافاصله پس از ورود به مبارزه دیسپاون نخواهد شد و در The Shaper’s Terrace توانایی Poison Shock متعلق به Vitrix آسیب کمتری می‌زند.",
+      "دشمنان: در منطقه Shimmering Flats مشکل گیر افتادن Silithid Hive Drone در زیر نقشه نزدیک Rustmaul Dig Site برطرف شد و در Riverglades باگی که مانع دراپ شدن Rare loot از Mosh’gra می‌شد رفع گردید.",
+      "آیتم‌ها: آیتم Motes of Unstable Magic اکنون به صورت Soulbound درآمده و همچنین Squall-breaker’s Potion قابل حذف است."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "کوئست‌ها و نژادها"
+    },
+    "در ماموریت‌های Booty Bay پس از اتمام کوئست Rift Away دسترسی اشتباه Rix Xizzix به یک کتاب عجیب رفع شد. در Alterac Mountains در صورت حذف شدن Ensorcelled Parchment در ماموریت Stormpike’s Deciphering امکان دریافت مجدد آن فراهم شد و در کوئست Hunting for Ectoplasm نیز مشکل نادرست بودن نوع موجودات برای جمع‌آوری Ectoplasm اصلاح گردید.",
+    "در میان نژادها، تخفیف ۱۰٪ گلد حاصل از اعتبار Honored برای اسکیل‌های Apprentice و Journeyman Riding توسط Genn Fairweather در Zephras Isle به نژاد Skyborne تعلق خواهد گرفت. برای Tauren نیز توانایی Cultivation روی گیاهانی که مهارت Herbalism آن‌ها را دارید موفقیت مطمئن‌تری داشته و باگ عدم عملکرد صحیح آن روی Purple Lotus برطرف شده است."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "پالادین",
+    "بلیزارد"
+   ],
+   "items": [],
+   "title_en": "Ret Paladin Bug Fix and Seed Hybridizer Available Again - WoW: Forever Hotfixes for November 19th",
+   "source_url": "https://www.wowhead.com/news=383939",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383939-ret-paladin-bug-fix-and-seed-hybridizer-available-again-wow-forever-ho.html",
+   "published_at": "2026-11-20T04:03:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383939/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383939/1.png",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383938,
    "slug": "blizzard-investigating-several-bugged-quests-in-wow-forever",
@@ -3452,42 +3505,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383833,
-   "slug": "blizzard-addressing-missing-shaman-totems-due-to-monday-s-server-issue",
-   "title_fa": "رفع مشکل ناپدید شدن توتم‌های Shaman در WoW: Forever",
-   "lead_fa": "بلیزارد با انتشار یک اصلاحیه، مشکل ناپدید شدن توتم‌های کلاس Shaman را که بر اثر اختلال سرورها رخ داده بود برطرف کرد.",
-   "body_fa": [
-    "روز دوشنبه در حدود ساعت ۱ بعدازظهر به وقت PST، سرورهای WoW دچار مشکل شدند و برای انجام تعمیرات اضطراری از دسترس خارج گردیدند. در جریان این اتفاق، بازیکنان مشکلاتی از جمله ناپدید شدن توتم‌های Shaman مانند Fire Totem را گزارش کردند.",
-    "بلیزارد اعلام کرده که این مشکل را برطرف ساخته و اصلاحیه مربوطه برای تمامی ریجن‌ها اعمال شده است. بازیکنانی که به دلیل کراش سرور توتم خود را از دست داده بودند، باید آن را دوباره در کیف‌های خود دریافت کنند.",
-    {
-     "t": "note",
-     "x": "بازیکنان Shaman که با این مشکل روبه‌رو شده‌اند و در حال حاضر داخل بازی هستند، باید مطمئن شوند که کیف آن‌ها فضای خالی دارد و سپس برای دریافت توتم‌ها یک بار از بازی خارج شده و دوباره وارد شوند.",
-     "kind": "tip"
-    }
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "WoW Forever",
-    "Shaman",
-    "بلیزارد"
-   ],
-   "items": [],
-   "title_en": "Blizzard Addressing Missing Shaman Totems Due to Monday's Server Issue in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383833",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383833-blizzard-addressing-missing-shaman-totems-due-to-monday-s-server-issue.html",
-   "published_at": "2026-11-11T01:13:27Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383833/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383833/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3497,13 +3514,6 @@
    "url": "https://www.wowhead.com/news=383940",
    "category": "Forever",
    "published_at": "2026-11-20T04:35:14Z"
-  },
-  {
-   "id": 383939,
-   "title_en": "Ret Paladin Bug Fix and Seed Hybridizer Available Again - WoW: Forever Hotfixes for November 19th",
-   "url": "https://www.wowhead.com/news=383939",
-   "category": "Forever",
-   "published_at": "2026-11-20T04:03:00Z"
   },
   {
    "id": 383929,
@@ -3588,13 +3598,6 @@
    "url": "https://www.wowhead.com/news=383741",
    "category": "Forever",
    "published_at": "2026-11-04T19:38:53Z"
-  },
-  {
-   "id": 383738,
-   "title_en": "New Nvidia Drivers for World of Warcraft: Forever",
-   "url": "https://www.wowhead.com/news=383738",
-   "category": "Forever",
-   "published_at": "2026-11-04T18:58:48Z"
   },
   {
    "id": 383736,
@@ -3770,6 +3773,13 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }

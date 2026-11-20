@@ -202,12 +202,53 @@
   ],
   "chars": 1801
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383939/1.png",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383939/1.png"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383939/1.png",
+ "article_fa": {
+  "title_fa": "هاتفیکس‌های ۱۹ نوامبر بازی: فعال‌سازی مجدد Seed Hybridizer و رفع باگ Retribution Paladin",
+  "lead_fa": "بلیزارد در به‌روزرسانی اخیر، قابلیت Seed Hybridizer را با تغییراتی دوباره فعال کرد و باگ تلنت پالادین را به همراه چندین مشکل دیگر در سیاه‌چاله‌ها و کوئست‌ها برطرف ساخت.",
+  "body_fa": [
+   "شرکت Blizzard هاتفیکس‌های جدیدی برای تاریخ ۱۹ نوامبر منتشر کرده است که شامل بازگشت قابلیت Seed Hybridizer و رفع باگ مربوط به کلاس Paladin می‌شود.",
+   {
+    "t": "h",
+    "x": "تغییرات Camping و کلاس‌ها"
+   },
+   "در بخش Camping قابلیت Seed Hybridizer مجدداً فعال شده است. همچنین روند Seed Hybridization با مقادیر تنظیم‌شده جدیدی همراه شده و اکنون شانس شکست در زمان ترکیب بذرها وجود دارد. علاوه بر این، دیگر نمی‌توان از بذر Scarce Herb Seeds در این دستگاه استفاده کرد.",
+   "در بخش کلاس‌ها و برای تخصص Retribution کلاس Paladin، تلنت Two-Handed Weapon Specialization اکنون به درستی تمام آسیب‌های Holy Damage واردشده را در زمان مجهز بودن به سلاح دو‌دست افزایش می‌دهد.",
+   {
+    "t": "h",
+    "x": "سیاه‌چاله‌ها، دشمنان و آیتم‌ها"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "سیاه‌چاله‌ها: در City of Dalaran دشمن Shade of the Archmage بلافاصله پس از ورود به مبارزه دیسپاون نخواهد شد و در The Shaper’s Terrace توانایی Poison Shock متعلق به Vitrix آسیب کمتری می‌زند.",
+     "دشمنان: در منطقه Shimmering Flats مشکل گیر افتادن Silithid Hive Drone در زیر نقشه نزدیک Rustmaul Dig Site برطرف شد و در Riverglades باگی که مانع دراپ شدن Rare loot از Mosh’gra می‌شد رفع گردید.",
+     "آیتم‌ها: آیتم Motes of Unstable Magic اکنون به صورت Soulbound درآمده و همچنین Squall-breaker’s Potion قابل حذف است."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "کوئست‌ها و نژادها"
+   },
+   "در ماموریت‌های Booty Bay پس از اتمام کوئست Rift Away دسترسی اشتباه Rix Xizzix به یک کتاب عجیب رفع شد. در Alterac Mountains در صورت حذف شدن Ensorcelled Parchment در ماموریت Stormpike’s Deciphering امکان دریافت مجدد آن فراهم شد و در کوئست Hunting for Ectoplasm نیز مشکل نادرست بودن نوع موجودات برای جمع‌آوری Ectoplasm اصلاح گردید.",
+   "در میان نژادها، تخفیف ۱۰٪ گلد حاصل از اعتبار Honored برای اسکیل‌های Apprentice و Journeyman Riding توسط Genn Fairweather در Zephras Isle به نژاد Skyborne تعلق خواهد گرفت. برای Tauren نیز توانایی Cultivation روی گیاهانی که مهارت Herbalism آن‌ها را دارید موفقیت مطمئن‌تری داشته و باگ عدم عملکرد صحیح آن روی Purple Lotus برطرف شده است."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "پالادین",
+   "بلیزارد"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-20T06:42:10Z"
+ }
 }
