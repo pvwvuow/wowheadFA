@@ -1,6 +1,6 @@
 {
  "day": "2026-11-20",
- "published_today": 4,
+ "published_today": 5,
  "held": {
   "383920": {
    "reason": "G5 English token not in source: silver",
@@ -31,63 +31,33 @@
    "reason": "G3 long English run: th we had the return of classic world bosses. It continues onward.\nFor... | G3 long English run: th we had a pet and a new mount for the same wb....",
    "at": "2026-11-20T04:09:50Z",
    "at_ts": 1795147790.470278
+  },
+  "383824": {
+   "reason": "G4 numbers from source missing in article: 100, 15, 17, 2.3, 2.6, 22, 23, 24",
+   "at": "2026-11-20T05:13:36Z",
+   "at_ts": 1795151616.370117
+  },
+  "383725": {
+   "reason": "پاراگراف آخر با سرهم‌بندی المان‌های جانبی و بويلرپلیت سایت (شناسه خبر، پچ کامنت‌ها، تعداد صفحات نظرات، زمان‌بندی‌های هاتفیکس و پادکست) ادعاهای بی‌معنی و نامربوطی ساخته که ارتباطی با متن خبر اصلی ندارد.",
+   "at": "2026-11-20T05:15:16Z",
+   "at_ts": 1795151716.208103
+  },
+  "383735": {
+   "reason": "G4 numbers from source missing in article: 1.60.1, 10, 11, 13, 14, 16, 19, 20",
+   "at": "2026-11-20T05:16:05Z",
+   "at_ts": 1795151765.488003
+  },
+  "383720": {
+   "reason": "G4 numbers from source missing in article: 1.60.1, 10, 11, 12, 13, 14, 15, 16",
+   "at": "2026-11-20T05:18:24Z",
+   "at_ts": 1795151904.954792
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-20T04:44:50Z",
+ "updated_at": "2026-11-20T05:18:24Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383630",
-    "ts": "2026-11-16T21:09:59Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 42.0,
-    "attempts": 1
-   },
-   {
-    "id": "383603",
-    "ts": "2026-11-16T21:10:42Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 43.1,
-    "attempts": 1
-   },
-   {
-    "id": "383570",
-    "ts": "2026-11-16T21:11:24Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 42.3,
-    "attempts": 1
-   },
-   {
-    "id": "383561",
-    "ts": "2026-11-16T21:12:12Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 47.8,
-    "attempts": 1
-   },
-   {
-    "id": "383552",
-    "ts": "2026-11-16T21:12:55Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 42.3,
-    "attempts": 1
-   },
    {
     "id": "383543",
     "ts": "2026-11-16T21:13:18Z",
@@ -4037,6 +4007,56 @@
     "warns": 0,
     "sec": 56.3,
     "attempts": 1
+   },
+   {
+    "id": "383938",
+    "ts": "2026-11-20T05:12:20Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 115.9,
+    "attempts": 2
+   },
+   {
+    "id": "383824",
+    "ts": "2026-11-20T05:13:36Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 76.2,
+    "attempts": 2
+   },
+   {
+    "id": "383725",
+    "ts": "2026-11-20T05:15:16Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 99.8,
+    "attempts": 2
+   },
+   {
+    "id": "383735",
+    "ts": "2026-11-20T05:16:05Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 49.3,
+    "attempts": 2
+   },
+   {
+    "id": "383720",
+    "ts": "2026-11-20T05:18:24Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 139.5,
+    "attempts": 2
    }
   ]
  }
