@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T14:18:13Z",
+ "generated": "2026-11-20T17:05:05Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3509,6 +3509,20 @@
  ],
  "queue": [
   {
+   "id": 383890,
+   "title_en": "Unlock a Dungeon Shortcut in WoW: Forever with the Compound Key",
+   "url": "https://www.wowhead.com/news=383890",
+   "category": "Forever",
+   "published_at": "2026-11-20T16:00:00Z"
+  },
+  {
+   "id": 383933,
+   "title_en": "Every Quest for Level 30 to 40 Dungeons in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383933",
+   "category": "Forever",
+   "published_at": "2026-11-20T15:00:00Z"
+  },
+  {
    "id": 383922,
    "title_en": "New Winter Veil Music on Patch 12.1.7 PTR References \"Winter Veil Mini-Game\"",
    "url": "https://www.wowhead.com/news=383922",
@@ -3773,20 +3787,6 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
