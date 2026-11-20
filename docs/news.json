@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T23:21:52Z",
+ "generated": "2026-11-20T00:16:29Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3623,6 +3623,13 @@
  ],
  "queue": [
   {
+   "id": 383937,
+   "title_en": "Some EU Players Reporting Issues with PvP Queues and Honor Gains in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383937",
+   "category": "Forever",
+   "published_at": "2026-11-19T23:20:47Z"
+  },
+  {
    "id": 383935,
    "title_en": "Motes of Unstable Magic Now Soulbound in WoW: Forever - Gold Strategy Nerfed",
    "url": "https://www.wowhead.com/news=383935",
@@ -3894,13 +3901,6 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
