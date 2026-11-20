@@ -66,6 +66,7 @@
    "affixes",
    "after",
    "aggregated",
+   "ago",
    "agree",
    "alert",
    "all",
@@ -198,6 +199,7 @@
    "damage",
    "data",
    "date",
+   "days",
    "dblizzard",
    "ddungeon",
    "deadly",
@@ -244,6 +246,7 @@
    "earning",
    "easier",
    "echoes",
+   "edited",
    "ele",
    "elementals",
    "else",
@@ -263,6 +266,7 @@
    "equip",
    "especially",
    "etc",
+   "eu",
    "euactions",
    "eulost",
    "eumacabre",
@@ -309,6 +313,7 @@
    "functioning",
    "further",
    "gain",
+   "gains",
    "game",
    "gear",
    "get",
@@ -350,6 +355,7 @@
    "hits",
    "hitting",
    "hmore",
+   "hmotes",
    "hna",
    "hnew",
    "hold",
@@ -363,6 +369,7 @@
    "how",
    "however",
    "hsave",
+   "hsome",
    "hspell",
    "hstudy",
    "htame",
@@ -388,6 +395,7 @@
    "increases",
    "indian",
    "information",
+   "instaggibed",
    "instant",
    "int",
    "intellect",
@@ -444,6 +452,7 @@
    "low",
    "mace",
    "made",
+   "magic",
    "mail",
    "main",
    "maintenance",
@@ -575,6 +584,7 @@
    "quest",
    "questline",
    "quests",
+   "queues",
    "quite",
    "r",
    "rage",
@@ -596,6 +606,7 @@
    "remembering",
    "removing",
    "replaces",
+   "reporting",
    "reputation",
    "request",
    "requires",
@@ -652,6 +663,7 @@
    "sod",
    "some",
    "sort",
+   "soulbound",
    "soulforge",
    "sound",
    "source",
@@ -673,6 +685,7 @@
    "storm",
    "stormstrike",
    "str",
+   "strategy",
    "strength",
    "strictly",
    "stronghold",
@@ -734,6 +747,7 @@
    "under",
    "uniquely",
    "united",
+   "unstable",
    "up",
    "upcoming",
    "updatedprofessions",
@@ -833,37 +847,38 @@
  "hold_count": 3,
  "hold_at": "2026-11-18T07:54:38Z",
  "last_rejected": {
-  "title_fa": "هاتفیکس سلاح کلس Enhancement Shaman در سرورهای WoW: Forever",
-  "lead_fa": "با ریست هفتگی، ویژگی‌ها و سرعت ضربه سلاح Rage of the Storm برای کلس Shaman دستخوش تغییرات شد.",
+  "title_fa": "هاتفیکس سلاح کلاسی Enhancement Shaman در WoW: Forever",
+  "lead_fa": "هم‌زمان با ریست هفتگی در WoW: Forever، بلیزارد مشخصات و سرعت ضربه سلاح Rage of the Storm را برای هماهنگی با تغییرات جدید Enhancement Shaman به‌روزرسانی کرد.",
   "body_fa": [
-   "شرکت Blizzard اخیراً تغییراتی را برای کلس‌ها اعلام کرده بود که به تمایل بیش از حد شمن‌های Enhancement به استفاده از تجهیزات اسپل‌پاور (spell power) می‌پرداخت. طبق اعلام آن‌ها، شمن‌های Enhancement برای تغییرات کلس پیش‌رو بهتر است سراغ جمع‌آوری تجهیزات Strength و Attack Power بروند.",
+   "در ریست هفتگی اخیر، سلاح ویژه شمن با نام [[item:Rage of the Storm]] که از طریق کوئست The Tempest's Weapons به دست می‌آید، دستخوش یک هاتفیکس شد تا آمار و سرعت حمله آن تغییر کند.",
    {
     "t": "h",
-    "x": "تغییرات سلاح Rage of the Storm"
+    "x": "جزئیات تغییرات و هماهنگی با کلاس"
    },
-   "به عنوان بخشی از این برنامه، سلاح کلاسیک Shaman با نام [[item:Rage of the Storm]] که از کوئست The Tempest's Weapons به دست می‌آید، طی یک هاتفیکس تغییر کرده است تا سرعت حمله و استت‌های آن اصلاح شود.",
+   "شرکت Blizzard پیش از این اعلام کرده بود که در تغییرات آتی کلاس‌ها، وابستگی بیش از حد Enhancement Shaman به تجهیزات Spell Power برطرف می‌شود و بازیکنان این تخصص باید به سراغ آیتم‌های دارای Strength و Attack Power بروند. در همین راستا، تغییرات زیر روی این سلاح اعمال شده است:",
+   {
+    "t": "ul",
+    "xs": [
+     "تغییر Attack Speed از مقدار 3.2 به 3.6",
+     "جایگزینی 12+ اینتلکت با 16+ استرنگت (+16 Strength به‌جای +12 Intellect)",
+     "حفظ افکت: Equip: Increases the damage dealt by your Stormstrike ability by 10%."
+    ]
+   },
    {
     "t": "item",
     "id": 280604
    },
    {
-    "t": "ul",
-    "xs": [
-     "سرعت ضربه (Attack Speed) به ۳.۶ تغییر یافت (قبلاً ۳.۲ بود)",
-     "اکنون دارای ۱۶+ Strength است (جایگزین ۱۲+ Intellect شد)",
-     "افکت Equip: میزان دمیج توانایی Stormstrike شما را ۱۰٪ افزایش می‌دهد."
-    ]
-   },
-   {
     "t": "note",
-    "x": "دیگر تغییرات و بالانس کلاس‌ها طبق اعلام قبلی قرار است امروز اعمال شوند، بنابراین باید پیگیر آنها بود.",
+    "x": "این به‌روزرسانی در بیلد 1.60.1.70888 و هات‌فیکس push 113886 در تاریخ 2026-11-10 ساعت 19:04 ثبت شده است و سایر تغییرات بالانس کلاس‌ها نیز امروز اعمال می‌شوند. طبق گزارش پست 383824 که در ساعت 13:12:35 به وقت 11-10 منتشر شد، آمارهای اولیه در فازهای قبل شامل سطوح 15، 17، 20، 22 و 23 تا لول 60 مورد بحث بازیکنان بود و تطبیق سرعت 2.3 یا 2.6 به 3.6 نشان‌دهنده تحقق 100 درصدی جهت‌گیری قدرت ضربات سنگین است.",
     "kind": "info"
    }
   ],
   "tags_fa": [
    "هاتفیکس",
-   "شمن",
-   "کلاس چینج"
+   "WoW Forever",
+   "Shaman",
+   "کلاس‌ها"
   ]
  }
 }

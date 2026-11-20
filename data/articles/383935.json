@@ -146,12 +146,46 @@
   ],
   "chars": 1409
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383935/1.png",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383935/1.png"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383935/1.png",
+ "article_fa": {
+  "title_fa": "آیتم Mote of Unstable Magic در WoW: Forever به Soulbound تبدیل شد",
+  "lead_fa": "با Soulbound شدن Mote of Unstable Magic، امکان فروش آن در Auction House از بین رفت و یکی از روش‌های کسب Gold با محدودیت مواجه شد.",
+  "body_fa": [
+   "آیتم Motes of Unstable Magic از حدود ظهر به وقت Pacific به Soulbound تبدیل شده است و بازیکنان سطح بالا دیگر نمی‌توانند آن را در Auction House به فروش برسانند.",
+   {
+    "t": "h",
+    "x": "نحوه دریافت و کوئست‌های مرتبط"
+   },
+   "با رسیدن به لول 48، بازیکنان می‌توانند کوئست Unstable Magic in Dalaran یا Unstable Magic at the Skywatcher Plateau را دریافت کنند. این کوئست به بازیکنان یک Elemental Attractor می‌دهد که استفاده از آن بف Magical Awareness را اعمال می‌کند. این بف گاهی هنگام شکست دادن جادوگران یا باس‌ها یک Mote of Unstable Magic پاداش می‌دهد.",
+   "پس از اتمام کوئست اولیه، یک کوئست تکرارشونده مانند More Unstable Magic به بازیکنان اجازه می‌دهد با تحویل دادن 10 عدد Mote، اعتبار Reputation به دست آورند.",
+   {
+    "t": "h",
+    "x": "تأثیر تغییرات بر درآمد بازیکنان"
+   },
+   "این کوئست پس از رسیدن به رتبه Honored دیگر در دسترس نیست، اما بازیکنان پیش از این می‌توانستند به جمع‌آوری دراپ‌ها ادامه دهند و با فروش Motes در Auction House گلد زیادی به دست آورند. با اعمال این تغییر، این جریان درآمد قطع شده است.",
+   {
+    "t": "note",
+    "x": "بازیکنان اکنون باید تمام Moteهای مورد نیاز خود را شخصاً فارم کنند و آیتم‌های اضافی پس از رتبه Honored تنها به قیمت مشخصی به فروشندگان درون بازی فروخته می‌شوند.",
+    "kind": "warn"
+   },
+   "اگرچه دلیل دقیق این تصمیم رسماً اعلام نشده است، یک احتمال مطرح‌شده به فارم منطقه Blackmaw Hold مربوط می‌شود؛ جایی که Devotees تعداد زیادی Mote of Unstable Magic دراپ می‌کردند و حجم بالایی از این آیتم وارد اقتصاد بازی می‌شد."
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "هاتفیکس",
+   "اقتصاد بازی"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-20T01:15:22Z"
+ }
 }

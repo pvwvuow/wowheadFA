@@ -1,27 +1,7 @@
 {
- "day": "2026-11-19",
- "published_today": 8,
+ "day": "2026-11-20",
+ "published_today": 1,
  "held": {
-  "383907": {
-   "reason": "G4 numbers from source missing in article: 1792714324421, 1794506821192, 1794506821264, 1794506821502, 1794512828458, 1794513496091, 1794858221236, 248",
-   "at": "2026-11-19T21:09:08Z",
-   "at_ts": 1795122548.648664
-  },
-  "383903": {
-   "reason": "G3 long English run: th we had the return of classic world bosses. It continues onward.\nFor... | G3 long English run: th we had a pet and a new mount for the same wb....",
-   "at": "2026-11-19T21:22:20Z",
-   "at_ts": 1795123340.23905
-  },
-  "383863": {
-   "reason": "G4 numbers from source missing in article: 10, 100, 11, 12.1.5, 12.2, 13, 14, 15",
-   "at": "2026-11-19T21:35:26Z",
-   "at_ts": 1795124126.924607
-  },
-  "383824": {
-   "reason": "G4 numbers from source missing in article: 1.60.1.70888, 100, 11, 113886, 13, 15, 17, 19:04",
-   "at": "2026-11-19T21:46:29Z",
-   "at_ts": 1795124789.932185
-  },
   "383920": {
    "reason": "G5 English token not in source: silver",
    "at": "2026-11-19T23:44:29Z",
@@ -31,63 +11,33 @@
    "reason": "جمله پایانی ادعا می‌کند «بحث‌های تکمیلی پیرامون بازه‌های عددی 10، 20، 29، 39 و سطح 60 در جریان است» که هیچ اشاره‌ای به این سطوح و بازه‌های عددی در متن منبع وجود ندارد. | هشدار: 2",
    "at": "2026-11-19T23:51:45Z",
    "at_ts": 1795132305.825464
+  },
+  "383907": {
+   "reason": "در بخش‌های یادداشت و فهرست، کدهای عددی نام فایل‌های CDN تصاویر و ابعاد آن‌ها به عنوان داده‌های متنی یا «ارجاعات ثبتی پایگاه داده تصاویر» درج شده‌اند که محتوای تحریریه منبع نیستند و ساختهٔ نادرست متن هستند. | عددِ بدون منبع در مقاله: 1794858221 | G5 English token not in source: dance",
+   "at": "2026-11-20T01:22:50Z",
+   "at_ts": 1795137770.261187
+  },
+  "383903": {
+   "reason": "G3 long English run: th we had the return of classic world bosses. It continues onward.\nFor... | G3 long English run: th we had a pet and a new mount for the same wb.... | G4 numbers from source missing in article: 22",
+   "at": "2026-11-20T01:26:48Z",
+   "at_ts": 1795138008.366592
+  },
+  "383863": {
+   "reason": "G4 numbers from source missing in article: 10, 100, 11, 12.1.5, 12.2, 13, 14, 15",
+   "at": "2026-11-20T01:36:14Z",
+   "at_ts": 1795138574.638076
+  },
+  "383824": {
+   "reason": "بخش پایانی یادداشت در مورد سطوح ۱۵، ۱۷، ۲۲، ۲۳ و تغییر سرعت از ۲.۳ یا ۲.۶ ادعاهای ساختگی هستند و در متن منبع وجود ندارند. | G4 numbers from source missing in article: 280604",
+   "at": "2026-11-20T01:43:59Z",
+   "at_ts": 1795139039.401264
   }
  },
  "ingest_fails": {},
- "updated_at": "2026-11-19T23:51:45Z",
+ "updated_at": "2026-11-20T01:43:59Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383698",
-    "ts": "2026-11-16T19:35:56Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 36.5,
-    "attempts": 0
-   },
-   {
-    "id": "383695",
-    "ts": "2026-11-16T19:37:04Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 68.5,
-    "attempts": 0
-   },
-   {
-    "id": "383630",
-    "ts": "2026-11-16T19:37:45Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 40.8,
-    "attempts": 0
-   },
-   {
-    "id": "383603",
-    "ts": "2026-11-16T19:38:38Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 52.6,
-    "attempts": 1
-   },
-   {
-    "id": "383570",
-    "ts": "2026-11-16T19:39:35Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 57.7,
-    "attempts": 0
-   },
    {
     "id": "383561",
     "ts": "2026-11-16T19:41:57Z",
@@ -4036,6 +3986,56 @@
     "blocks": 1,
     "warns": 2,
     "sec": 436.3,
+    "attempts": 2
+   },
+   {
+    "id": "383935",
+    "ts": "2026-11-20T01:15:22Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 220.1,
+    "attempts": 2
+   },
+   {
+    "id": "383907",
+    "ts": "2026-11-20T01:22:50Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 0,
+    "sec": 448.1,
+    "attempts": 2
+   },
+   {
+    "id": "383903",
+    "ts": "2026-11-20T01:26:48Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 4,
+    "warns": 0,
+    "sec": 238.1,
+    "attempts": 2
+   },
+   {
+    "id": "383863",
+    "ts": "2026-11-20T01:36:14Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 566.3,
+    "attempts": 2
+   },
+   {
+    "id": "383824",
+    "ts": "2026-11-20T01:43:59Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 464.8,
     "attempts": 2
    }
   ]
