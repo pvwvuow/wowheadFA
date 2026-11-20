@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T03:30:43Z",
+ "generated": "2026-11-20T03:32:35Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3491,6 +3491,13 @@
  ],
  "queue": [
   {
+   "id": 383938,
+   "title_en": "Blizzard Investigating Several Bugged Quests in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383938",
+   "category": "Forever",
+   "published_at": "2026-11-20T02:09:09Z"
+  },
+  {
    "id": 383929,
    "title_en": "Study The Well - WoW: Forever Podcast Board Message Hints at New Brainteaser",
    "url": "https://www.wowhead.com/news=383929",
@@ -3762,13 +3769,6 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
