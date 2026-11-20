@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T04:48:08Z",
+ "generated": "2026-11-20T05:43:51Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3485,6 +3485,20 @@
  ],
  "queue": [
   {
+   "id": 383940,
+   "title_en": "Skyborne Now Get Reputation Discount for Mounts in WoW: Forever But You'll Need A Lot of Runecloth",
+   "url": "https://www.wowhead.com/news=383940",
+   "category": "Forever",
+   "published_at": "2026-11-20T04:35:14Z"
+  },
+  {
+   "id": 383939,
+   "title_en": "Ret Paladin Bug Fix and Seed Hybridizer Available Again - WoW: Forever Hotfixes for November 19th",
+   "url": "https://www.wowhead.com/news=383939",
+   "category": "Forever",
+   "published_at": "2026-11-20T04:03:00Z"
+  },
+  {
    "id": 383938,
    "title_en": "Blizzard Investigating Several Bugged Quests in WoW: Forever",
    "url": "https://www.wowhead.com/news=383938",
@@ -3749,20 +3763,6 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
