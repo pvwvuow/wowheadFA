@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T02:50:19Z",
+ "generated": "2026-11-20T03:54:41Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3506,6 +3506,13 @@
  ],
  "queue": [
   {
+   "id": 383938,
+   "title_en": "Blizzard Investigating Several Bugged Quests in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383938",
+   "category": "Forever",
+   "published_at": "2026-11-20T02:09:09Z"
+  },
+  {
    "id": 383928,
    "title_en": "Blizzard Addresses Spell Power Gear Shortage in WoW: Forever",
    "url": "https://www.wowhead.com/news=383928",
@@ -3777,13 +3784,6 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
