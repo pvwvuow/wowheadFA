@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T01:00:18Z",
+ "generated": "2026-11-21T01:01:27Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3399,6 +3399,13 @@
  ],
  "queue": [
   {
+   "id": 383949,
+   "title_en": "LFG Bug Fix Causes Players to See More Groups - WoW: Forever Hotfixes for November 20, 2026",
+   "url": "https://www.wowhead.com/news=383949",
+   "category": "Forever",
+   "published_at": "2026-11-21T00:23:36Z"
+  },
+  {
    "id": 383933,
    "title_en": "Every Quest for Level 30 to 40 Dungeons in WoW: Forever",
    "url": "https://www.wowhead.com/news=383933",
@@ -3670,13 +3677,6 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
