@@ -128,55 +128,62 @@
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383920/1.jpg",
  "last_rejected": {
-  "title_fa": "حذف اچیومنت‌های درجه سختی Mythic از رویداد Talebound در سرور تست 12.1.7",
-  "lead_fa": "در جدیدترین بیلد سرور آزمایشی پچ 12.1.7، تمام اچیومنت‌های مربوط به درجه سختی Mythic در Talebound حذف شده و عناوین جدیدی به درجه Heroic اضافه شده‌اند.",
+  "title_fa": "حذف اچیومنت‌های درجه سختی Mythic از Talebound در سرور تست 12.1.7",
+  "lead_fa": "در جدیدترین بیلد سرور تست پچ 12.1.7، تمام اچیومنت‌های مربوط به درجه سختی Mythic از Talebound حذف شده و سه تایتل جدید به درجه سختی Heroic منتقل شده‌اند.",
   "body_fa": [
-   "در بیلد جدید سرور آزمایشی Patch 12.1.7 PTR، تمامی اچیومنت‌های درجه سختی Mythic از سیستم Talebound کنار گذاشته شده‌اند. اگرچه هنوز مشخص نیست که آیا این درجه سختی به‌طور کامل از بازی حذف شده است یا خیر، اما برداشته شدن تمامی اچیومنت‌های آن می‌تواند نشانه‌ای از حذف کلی این درجه سختی باشد.",
+   "در به‌روزرسانی اخیر سرور آزمایشی پچ 12.1.7 PTR، دستاوردهای مرتبط با درجه سختی Mythic در محتوای Talebound حذف شده‌اند. هرچند هنوز به شکل قطعی تأیید نشده که این درجه سختی به‌طور کامل از بازی کنار رفته است، اما حذف یکپارچهٔ اچیومنت‌ها احتمالاً نشانه‌ای از حذف کامل درجه سختی Mythic است.",
    {
     "t": "h",
-    "x": "اچیومنت‌های حذف‌شده درجه سختی Mythic"
+    "x": "تغییر پاداش‌ها و تایتل‌های جدید"
    },
-   "فهرست دستاوردهای حذف‌شده شامل موارد مربوط به باس‌ها، سناریوها و مأموریت‌های پایانی زیر است:",
+   "در پی این تغییرات، سه تایتل برای اتمام رویارویی نهایی (the Final Confrontation) روی درجه سختی Heroic به عنوان پاداش در نظر گرفته شده است؛ یک عنوان برای هر کلاس که در کنار 20 Bound Silver اهدا می‌شود.",
    {
-    "t": "ul",
-    "xs": [
-     "تکمیل هر داستان Talebound روی درجه سختی Mythic با پاداش Traveling Raven: Cache of Mythic Treasures",
-     "تکمیل هر چهار داستان و سپس پایان دادن به Final Confrontation روی درجه سختی Mythic",
-     "تکمیل Final Confrontation با کلاس‌های Slayer، Witch و Inquisitor روی درجه سختی Mythic با پاداش Traveling Raven: Cache of Mythic Treasures",
-     "شکست Tilywth و رویارویی با Final Confrontation در Tales of the Storyteller روی درجه سختی Mythic",
-     "تکمیل Final Confrontation روی درجه سختی Mythic با پاداش Traveling Raven: Venomstone Cache",
-     "شکست Mobog، Zzyg'th و Chathoa روی درجه سختی Mythic",
-     "پایان Final Confrontation به عنوان Inquisitor روی درجه سختی Mythic با پاداش تایتل of the Sacred Flame",
-     "شکست Konrad von Sonnesheim و Maernok روی درجه سختی Mythic",
-     "پایان Final Confrontation به عنوان Slayer روی درجه سختی Mythic",
-     "تکمیل داستان‌های Darkhaven، Greenthistle Wood، Greywake's Expedition و Court of Night روی درجه سختی Mythic",
-     "شکست Alexandre Dozsenc، Ylska Vilefang و Granny Greenthumb روی درجه سختی Mythic",
-     "پایان Final Confrontation به عنوان Witch روی درجه سختی Mythic با پاداش تایتل of the Crooked Path"
+    "t": "table",
+    "head": [
+     "کلاس",
+     "درجه سختی",
+     "پاداش دریافتی"
+    ],
+    "rows": [
+     [
+      "Inquisitor",
+      "Heroic",
+      "20 Bound SilverTitle: of the Sacred Flame"
+     ],
+     [
+      "Slayer",
+      "Heroic",
+      "20 Bound SilverTitle: Monster Hunter"
+     ],
+     [
+      "Witch",
+      "Heroic",
+      "20 Bound SilverTitle: of the Crooked Path"
+     ]
     ]
    },
    {
     "t": "h",
-    "x": "تایتل‌های جدید برای درجه سختی Heroic"
+    "x": "فهرست اچیومنت‌های حذف‌شدهٔ Mythic"
    },
-   "در ساختار جدید، سه تایتل تازه برای به پایان رساندن Final Confrontation روی درجه سختی Heroic برای هر یک از کلاس‌ها تعیین شده است. همچنین پاداش هر یک از این اچیومنت‌ها از 20 Bound Silver به تایتل‌های مشخص تغییر یافته است:",
+   "تمام اچیومنت‌های زیر که پیش از این برای به پایان رساندن بخش‌های گوناگون در درجه سختی Mythic تعریف شده بودند، از بازی حذف شده‌اند:",
    {
     "t": "ul",
     "xs": [
-     "کلاس Inquisitor: تایتل of the Sacred Flame (تغییر از 20 Bound Silver)",
-     "کلاس Slayer: تایتل Monster Hunter (تغییر از 20 Bound Silver)",
-     "کلاس Witch: تایتل of the Crooked Path (تغییر از 20 Bound Silver)"
+     "اتمام هر داستانی از Talebound روی درجه سختی Mythic با پاداش Traveling Raven: Cache of Mythic Treasures",
+     "اتمام هر چهار داستان و سپس شکست the Final Confrontation روی درجه سختی Mythic",
+     "اتمام the Final Confrontation در Talebound با کلاس‌های Slayer و Witch و Inquisitor روی درجه سختی Mythic با پاداش Traveling Raven: Cache of Mythic Treasures",
+     "شکست باس‌های Tilywth و Mobog و Zzyg'th و Chathoa در Tales of the Storyteller روی درجه سختی Mythic",
+     "شکست Konrad von Sonnesheim و Maernok و Alexandre Dozsenc و Ylska Vilefang و Granny Greenthumb روی درجه سختی Mythic",
+     "اتمام داستان‌های Darkhaven و Greenthistle Wood و Greywake's Expedition و Court of Night روی درجه سختی Mythic",
+     "اتمام the Final Confrontation روی Mythic با کلاس Inquisitor (پاداش سابق: Title: of the Sacred Flame) و کلاس Witch (پاداش سابق: Title: of the Crooked Path) و کلاس Slayer"
     ]
-   },
-   {
-    "t": "note",
-    "x": "هنوز تایید رسمی مبنی بر حذف کامل خود درجه سختی Mythic وجود ندارد، اما برداشته شدن هم‌زمان دستاوردهای آن در بیلد جدید PTR احتمال حذف آن را مطرح می‌کند.",
-    "kind": "info"
    }
   ],
   "tags_fa": [
    "پچ 12.1.7",
-   "سرور تست",
    "Talebound",
+   "PTR",
    "اچیومنت"
   ]
  },
