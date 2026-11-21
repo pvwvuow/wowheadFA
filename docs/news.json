@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T00:27:56Z",
+ "generated": "2026-11-21T01:37:05Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -37,6 +37,61 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383946/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383943,
+   "slug": "layer-swap-and-other-targeted-layering-addons-will-be-disabled-soon-in",
+   "title_fa": "غیرفعال‌سازی افزونه‌های جابه‌جایی هدفمند میان لایه‌ها در WoW: Forever",
+   "lead_fa": "افزونه‌های تعویض هدفمند لایه به‌زودی در WoW: Forever از کار می‌افتند، زیرا با یک هاتفیکس پیش‌رو مسیرهای دسترسی به شناسه‌های رلم مخدوش خواهند شد.",
+   "body_fa": [
+    "در هاتفیکس پیش‌روی بازی WoW: Forever، افزونه‌های جابه‌جایی هدفمند میان لایه‌ها از کار خواهند افتاد؛ چرا که فراخوانی‌های مختلف API که شناسه رلم را نمایش می‌دهند به‌زودی مبهم‌سازی می‌شوند. یکی از افزونه‌های محبوب در CurseForge با نام Layer Swap فرایند تعویض لایه را برای بازیکنان آسان می‌کرد. کاربران به دلایل متعددی از جمله پیدا کردن فازهای خلوت‌تر در زمان رقابت شدید، یا حل مشکل باگ شدن در یک لایه خاص، از این قابلیت استفاده می‌کنند.",
+    "افزونه‌ای مانند Layer Swap به بازیکنان امکان می‌داد تا تعداد لایه‌های احتمالی را ببینند، مشخص کنند که قبلاً در کدام لایه بوده‌اند و به شکل مستقیم وارد لایه مدنظر خود شوند.",
+    {
+     "t": "h",
+     "x": "کارکرد افزونه‌های تعویض لایه"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "تسهیل دعوت به لایه‌های جدید از طریق خودکارسازی ارتباطات",
+      "امکان ردیابی و هدف‌گیری لایه‌های مشخص"
+     ]
+    },
+    "شرکت Blizzard از زمان افزونه Midnight تغییرات مرتبط با افزونه‌ها را از طریق سرور دیسکورد WoWUIDev با توسعه‌دهندگان در میان می‌گذارد. با توجه به اینکه Forever اکنون روی معماری مدرن اجرا می‌شود، اطلاع‌رسانی‌ها برای این نسخه نیز در همین فضا انجام می‌پذیرد.",
+    {
+     "t": "quote",
+     "x": "شناسه رلم در GUIDهای مربوط به creature، vehicle، pet و game object همراه با server ID و spawn ID مبهم‌سازی شده است. این مورد در هاتفیکس بعدی 1.60.1 برای Forever نیز اعمال خواهد شد. در به‌روزرسانی Forever 1.60.1 Live Update 2، ای‌پی‌آی‌های متفرقه‌ای که نام یا شناسه رلم را بازمی‌گردانند، از این پس رشته خالی یا عدد صفر برمی‌گردانند.",
+     "by": "Blizzard — WoWUIDev Discord"
+    },
+    "این تغییر مواردی نظیر GetRealmName، GetRealmID و ای‌پی‌آی‌های C_BattleNet را که اطلاعات رلم را برمی‌گردانند در بر می‌گیرد و این بخش از تغییرات فقط به WoW Forever اختصاص دارد. این اصلاحات با حذف روش‌های شناسایی شناسه رلم، افزونه‌های تغییر لایه را بی‌اثر می‌کند.",
+    {
+     "t": "note",
+     "x": "این تغییرات ابتدا در 12.1.7 PTR برای Midnight معرفی شدند و در هاتفیکس 1.60.1 وارد سرورهای زنده WoW: Forever می‌شوند.",
+     "kind": "info"
+    },
+    "توسعه‌دهنده Layer Swap اشاره کرده بود که با خواندن لایه بازیکن از طریق GUIDهای creature، جابه‌جایی و ردیابی لایه‌ها صورت می‌گرفت. با حذف این داده‌ها، امکان مقایسه لایه‌ها از بین می‌رود و جابه‌جایی هدفمند میان لایه‌ها غیرممکن خواهد شد؛ در نتیجه بازیکنان در صورت نیاز باید بدون هدف میان لایه‌ها جابه‌جا شوند."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "هاتفیکس",
+    "افزونه",
+    "لایه‌بندی"
+   ],
+   "items": [],
+   "title_en": "Layer Swap and Other Targeted Layering Addons Will Be Disabled Soon in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383943",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383943-layer-swap-and-other-targeted-layering-addons-will-be-disabled-soon-in.html",
+   "published_at": "2026-11-20T19:00:55Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383943/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383943/1.jpg",
      "cap": ""
     }
    ]
@@ -3367,57 +3422,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383835,
-   "slug": "dual-spec-costs-50-gold-at-level-40-unlock-secondary-talent-tree",
-   "title_fa": "هزینه ۵۰ گلد برای Dual Spec در لول ۴۰ در WoW: Forever",
-   "lead_fa": "قابلیت Dual Spec از ابتدای عرضه در WoW: Forever در دسترس است و بازیکنان می‌توانند در لول ۴۰ با پرداخت ۵۰ گلد درخت استعداد دوم خود را آزاد کنند.",
-   "body_fa": [
-    "قابلیت Dual Spec در سرورهای WoW: Forever در دسترس قرار دارد، اما فعال‌سازی آن نیازمند پرداخت ۵۰ گلد است. بر خلاف سرورهای Classic 20th Anniversary Realms که در زمان عرضه شامل این ویژگی نبودند، بازیکنان در WoW: Forever در صورتی که گلد کافی داشته باشند، از همان ابتدا به این قابلیت دسترسی دارند.",
-    "پس از رسیدن به لول ۴۰، مربی کلاس شما (Class Trainer) این امکان را فراهم می‌کند که درخت استعداد دوم (Secondary Talent Tree) خود را با ۵۰ گلد خریداری کنید. این ویژگی به شما اجازه می‌دهد تا دو چینش استعداد کاملاً مجزا داشته باشید و هر زمان که تمایل داشتید بین آن‌ها جابه‌جا شوید.",
-    {
-     "t": "h",
-     "x": "مزایای تلنت دوم و چالش هزینه"
-    },
-    "از آنجا که تغییر مکرر تلنت‌ها (Respeccing) هزینه فزاینده‌ای از گلد را به همراه دارد، Dual Spec به بازیکنان این امکان را می‌دهد که برای اهداف مختلف مانند Tank و DPS یا حالت‌های PvE و PvP دو ستاپ مجزا آماده کنند؛ این انعطاف‌پذیری به‌ویژه برای کسانی که قصد تغییر مداوم تلنت را دارند بسیار کاربردی است.",
-    "مبلغ ۵۰ گلد هزینه بالایی محسوب می‌شود، مخصوصاً که آزادسازی آن دقیقاً در همان لولی اتفاق می‌افتد که بازیکنان مایل به خرید مانت هستند. در صورتی که بخواهید هم مهارت Apprentice Riding و هم قابلیت Dual Spec را هم‌زمان به دست آورید، در مجموع باید ۱۵۰ گلد پرداخت کنید.",
-    {
-     "t": "note",
-     "x": "جمع‌آوری این هزینه با پیشرفت لول، افزایش قیمت فروش آیتم‌ها و تغییرات گلد دریافتی از کوئست‌ها احتمالاً آسان‌تر خواهد شد؛ اما تا آن زمان ممکن است ناچار شوید میان مانت یا Dual Spec یکی را اولویت قرار دهید.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "Dual Spec",
-    "تلنت"
-   ],
-   "items": [],
-   "title_en": "Dual Spec Costs 50 Gold at Level 40 - Unlock Secondary Talent Tree",
-   "source_url": "https://www.wowhead.com/news=383835",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383835-dual-spec-costs-50-gold-at-level-40-unlock-secondary-talent-tree.html",
-   "published_at": "2026-11-11T18:29:47Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383835/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383835/1.png",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383943,
-   "title_en": "Layer Swap and Other Targeted Layering Addons Will Be Disabled Soon in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383943",
-   "category": "Forever",
-   "published_at": "2026-11-20T19:00:55Z"
-  },
   {
    "id": 383922,
    "title_en": "New Winter Veil Music on Patch 12.1.7 PTR References \"Winter Veil Mini-Game\"",
@@ -3690,6 +3697,13 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
