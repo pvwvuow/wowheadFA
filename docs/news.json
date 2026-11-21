@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T23:49:44Z",
+ "generated": "2026-11-21T00:50:15Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3509,6 +3509,13 @@
  ],
  "queue": [
   {
+   "id": 383949,
+   "title_en": "LFG Bug Fix Causes Players to See More Groups - WoW: Forever Hotfixes for November 20, 2026",
+   "url": "https://www.wowhead.com/news=383949",
+   "category": "Forever",
+   "published_at": "2026-11-21T00:23:36Z"
+  },
+  {
    "id": 383946,
    "title_en": "Itemization of Crafted Tier Sets Revealed in WoW: Forever's First Raid Tier",
    "url": "https://www.wowhead.com/news=383946",
@@ -3780,13 +3787,6 @@
    "url": "https://www.wowhead.com/news=383552",
    "category": "Live",
    "published_at": "2026-10-23T02:19:48Z"
-  },
-  {
-   "id": 383543,
-   "title_en": "Blizzard Confirms Molten Core Will Have New Mechanics in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383543",
-   "category": "Forever",
-   "published_at": "2026-10-22T18:15:43Z"
   }
  ]
 }
