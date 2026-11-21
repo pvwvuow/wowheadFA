@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T22:51:59Z",
+ "generated": "2026-11-21T22:53:39Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -59,76 +59,69 @@
    "id": 383934,
    "slug": "all-quests-for-new-alcaz-prison-dungeon-in-wow-forever",
    "title_fa": "راهنمای کوئست‌های دانجن جدید Alcaz Prison در WoW: Forever",
-   "lead_fa": "دانجن جدید Alcaz Prison در WoW: Forever برای بازیکنان حدود لول ۵۰ در دسترس است و شامل چندین کوئست اختصاصی و یک کوئست مخفی درون دانجن می‌شود.",
+   "lead_fa": "دانجن جدید Alcaz Prison در Dustwallow Marsh برای بازیکنان حدود لول ۵۰ در دسترس قرار گرفته و کوئست‌های متعددی به همراه یک مأموریت مخفی دارد.",
    "body_fa": [
-    "دانجن Alcaz Prison در Alcaz Island، جزیره‌ای تنها واقع در شمال شرقی Dustwallow Marsh، قرار دارد. این دانجن در دسته دانجن‌های کوتاه‌تر محسوب می‌شود و تکمیل آن احتمالاً حدود ۳۰ دقیقه طول می‌کشد.",
-    "دریافت کوئست‌های Alcaz Prison نسبتاً آسان است. برای هر فکشن سه کوئست در خارج از دانجن طراحی شده و علاوه بر آن‌ها، یک کوئست مخفی نیز داخل خود دانجن وجود دارد.",
-    {
-     "t": "h",
-     "x": "کوئست مخفی دانجن"
-    },
-    "این کوئست مخفی The Man in the Iron Chains نام دارد (لول ۴۸) و پاداشی معادل ۲۵ گلد می‌دهد. این مأموریت تنها در صورتی ظاهر می‌شود که یک باس را دور بزنید و اسکیپ کنید؛ پس از گرفتن مأموریت از Mason Connery بعد از کشتن باس نهایی، می‌توانید برای هدف کوئست بازگردید و آن باس را بکشید. این مأموریت فقط زمانی در دسترس قرار می‌گیرد که The Questioner هنوز زنده باشد.",
+    "دانجن Alcaz Prison در Alcaz Island، جزیره‌ای تنها در بخش شمال شرقی منطقهٔ Dustwallow Marsh واقع شده و برای بازیکنان حدود لول ۵۰ در WoW: Forever طراحی شده است. این دانجن نسبتاً کوتاه است و تکمیل آن احتمالاً حدود ۳۰ دقیقه زمان می‌برد. به‌دست آوردن کوئست‌های آن آسان است؛ به‌طوری‌که برای هر فکشن سه کوئست در بیرون دانجن وجود دارد و یک کوئست مخفی نیز در درون دانجن قرار گرفته است.",
     {
      "t": "note",
-     "x": "کوئست مخفی The Man in the Iron Chains تنها در شرایطی فعال می‌شود که The Questioner هنوز زنده باشد.",
+     "x": "کوئست مخفی داخل دانجن ۲۵ طلا پاداش می‌دهد و تنها در صورتی ظاهر می‌شود که از یک باس رد شوید و او را نکشید. پس از گرفتن کوئست، می‌توانید آن باس را برای هدف مأموریت شکست دهید. این کوئست فقط در صورتی پدیدار می‌شود که The Questioner هنوز زنده باشد.",
      "kind": "tip"
     },
     {
      "t": "h",
-     "x": "فهرست کوئست‌های دانجن"
+     "x": "کوئست‌های دانجن و نحوهٔ شروع آن‌ها"
     },
     {
      "t": "table",
      "head": [
-      "کوئست",
+      "نام کوئست",
       "لول",
-      "مکان و شروع‌کننده"
+      "محل شروع و توضیحات پیش‌نیاز"
      ],
      "rows": [
       [
        "The Dragon's Journal",
        "۴۶",
-       "Alterac Mountains, Dalaran - Archmage Lan'dalock /way 15.6 73.6"
+       "Alterac Mountains در Dalaran از Archmage Lan'dalock در مختصات 15.6 73.6"
       ],
       [
-       "A Bit of Wet Work (منجر به Somber News)",
+       "A Bit of Wet Work",
        "48",
-       "Dustwallow Marsh, Theramore Graveyard - Sully McCleary /way 63.4 42.4 (آغاز با Our Man in Theramore از Master Mathias Shaw در Old Town شهر Stormwind City)"
+       "Dustwallow Marsh در Theramore Graveyard از Sully McCleary در مختصات 63.4 42.4 (منجر به Somber News می‌شود؛ پیش‌نیاز: شروع با Our Man in Theramore از Master Mathias Shaw در Old Town شهر Stormwind City)"
       ],
       [
        "The Secret Prison",
        "48",
-       "Dustwallow Marsh, Theramore Graveyard - Sully McCleary /way 63.4 42.4 (آغاز با Our Man in Theramore از Master Mathias Shaw در Old Town شهر Stormwind City)"
+       "Dustwallow Marsh در Theramore Graveyard از Sully McCleary در مختصات 63.4 42.4 (پیش‌نیاز: شروع با Our Man in Theramore از Master Mathias Shaw در Old Town شهر Stormwind City)"
       ],
       [
-       "No Orc Left Behind (منجر به The Honor of the Kor'kron)",
+       "No Orc Left Behind",
        "48",
-       "Dustwallow Marsh, Alcaz Island - Sergeant Ulka /way 33.4 38 (آغاز با The Missing Kor'kron از Eitrigg در Orgrimmar /way 34.6 38.6)"
+       "Dustwallow Marsh در Alcaz Island از Sergeant Ulka در مختصات 33.4 38 (منجر به The Honor of the Kor'kron می‌شود؛ پیش‌نیاز: شروع از The Missing Kor'kron از Eitrigg در Orgrimmar در مختصات 34.6 38.6)"
       ],
       [
        "A Little Payback",
        "48",
-       "Dustwallow Marsh, Alcaz Island - Sergeant Ulka /way 33.4 38 (آغاز با The Missing Kor'kron از Eitrigg در Orgrimmar /way 34.6 38.6)"
+       "Dustwallow Marsh در Alcaz Island از Sergeant Ulka در مختصات 33.4 38 (پیش‌نیاز: شروع از The Missing Kor'kron از Eitrigg در Orgrimmar در مختصات 34.6 38.6)"
       ],
       [
        "Blood Red Bandanas",
        "48",
-       "Dustwallow Marsh, Alcaz Island - Sergeant Ulka /way 33.4 38 (آغاز با The Missing Kor'kron از Eitrigg در Orgrimmar /way 34.6 38.6)"
+       "Dustwallow Marsh در Alcaz Island از Sergeant Ulka در مختصات 33.4 38 (پیش‌نیاز: شروع از The Missing Kor'kron از Eitrigg در Orgrimmar در مختصات 34.6 38.6)"
       ],
       [
        "The Man in the Iron Chains",
        "48",
-       "درون دانجن - Mason Connery پس از کشتن باس آخر (فقط در صورت زنده بودن The Questioner)"
+       "داخل دانجن از Mason Connery پس از کشتن باس نهایی؛ تنها در صورتی ظاهر می‌شود که The Questioner زنده باشد."
       ]
      ]
     },
-    "بازیکنان می‌توانند پیش از ورود به دانجن، پیش‌نیازهای مأموریت‌های هر جناح را از طریق Stormwind City و Orgrimmar دنبال کنند تا تمامی کوئست‌های مربوطه را دریافت نمایند."
+    "با رعایت این پیش‌نیازها و دنبال کردن زنجیره‌های مأموریت در شهرهای اصلی، بازیکنان می‌توانند پیش از ورود به دانجن تمامی کوئست‌های مربوط به فکشن خود را آماده کنند."
    ],
    "tags_fa": [
-    "WoW Forever",
     "دانجن",
     "راهنمای کوئست",
-    "Alcaz Prison"
+    "WoW Forever"
    ],
    "items": [],
    "title_en": "All Quests for New Alcaz Prison Dungeon in WoW: Forever",
@@ -149,54 +142,54 @@
   {
    "id": 383949,
    "slug": "lfg-bug-fix-causes-players-to-see-more-groups-wow-forever-hotfixes-for",
-   "title_fa": "رفع باگ سیستم LFG و تغییرات تازه در هاتفیکس‌های ۲۰ نوامبر ۲۰۲۶",
-   "lead_fa": "بلیزارد در هاتفیکس‌های ۲۰ نوامبر ۲۰۲۶ مشکل نمایش کمتر گروه‌ها در سیستم LFG را برطرف کرد و تغییراتی روی دانجن‌ها، کلاس‌ها و کوئست‌ها اعمال نمود.",
+   "title_fa": "هاتفیکس‌های ۲۰ نوامبر ۲۰۲۶ برای WoW: Forever و رفع باگ فهرست گروه‌ها در LFG",
+   "lead_fa": "بلیزارد هاتفیکس‌های تازه‌ای منتشر کرده است که در کنار رفع باگ نمایش گروه‌های کمتر از حد انتظار در LFG، تغییراتی را در دانجن‌ها، کلاس‌ها و کوئست‌ها اعمال می‌کند.",
    "body_fa": [
-    "شرکت Blizzard مجموعه هاتفیکس‌های تازه‌ای را برای تاریخ ۲۰ نوامبر ۲۰۲۶ منتشر کرده است که یکی از تغییرات شاخص آن به برطرف شدن مشکلی در بخش User Interface مربوط می‌شود؛ باگی که باعث شده بود برخی بازیکنان هنگام جستجو در سیستم LFG تعداد گروه‌های کمتری نسبت به حالت در نظر گرفته‌شده مشاهده کنند.",
+    "در تازه‌ترین به‌روزرسانی‌های اعلام‌شده برای تاریخ ۲۰ نوامبر ۲۰۲۶، بلیزارد مجموعه‌ای از اصلاحات را برای کلاس‌ها، دانجن‌ها، مأموریت‌ها و رابط کاربری اعمال کرده است.",
     {
      "t": "h",
-     "x": "تغییرات کلاس‌ها"
+     "x": "تغییرات رابط کاربری و دانجن‌ها"
     },
     {
      "t": "ul",
      "xs": [
-      "کلاس Rogue (شاخه Combat): قابلیت Blade Flurry اکنون به درستی باعث می‌شود آسیب Shank به یک هدف اضافی برخورد کند.",
-      "کلاس Warlock (شاخه Demonology): باگی برطرف شد که در آن افکت‌های تلنت Demonic Aegis روی Demon Armor یا Demon Skin ثبت می‌شد و بازیکنان می‌توانستند با ریست تلنت همچنان این افکت‌ها را حفظ کنند؛ اکنون با فراموش کردن تلنت‌ها، Demonic Aegis و Demon Skin حذف می‌شوند."
+      "در بخش رابط کاربری، مشکلی که باعث می‌شد برخی بازیکنان هنگام جستجوی گروه در LFG گروه‌های کمتری از حد در نظر گرفته‌شده را مشاهده کنند برطرف شد.",
+      "بازیکنان اکنون می‌توانند هر دانجن را حداکثر ۵ بار در ساعت ریست کنند و وارد آن شوند (این مقدار پیش‌تر ۱۰ بار بود).",
+      "در Blackrock Spire، یک ستون سنگی سرکش دیگر نباید ماجراجویان غافلگیرشده را به دام بیندازد."
      ]
     },
     {
      "t": "h",
-     "x": "دانجن‌ها، آیتم‌ها و مشاغل"
+     "x": "اصلاحات کلاس‌ها و آیتم‌ها"
     },
     {
      "t": "ul",
      "xs": [
-      "بازیکنان از این پس می‌توانند حداکثر ۵ بار در هر ساعت هر دانجن را ریست کرده و وارد آن شوند (این مقدار قبلاً ۱۰ بار بود).",
-      "در دانجن Blackrock Spire ستون سنگی سرکشی که ماجراجویان را به دام می‌انداخت اصلاح شد.",
-      "بونوس ست ۳ تکه [[item:Stormshroud Armor]] تغییر یافته و شانس آن هنگام حمله Melee به ۳٪ (قبلاً ۴٪) و میزان بازیابی Energy به ۱۸ (قبلاً ۳۰) کاهش پیدا کرد.",
-      "در Summit of Eternity ان‌پی‌سی Toron Rockhoof کوره و سندان خود را تعمیر کرده و این وسایل اکنون برای Blacksmithing و Smelting قابل استفاده هستند."
+      "برای Rogue با تخصص Combat، توانایی Blade Flurry اکنون به درستی باعث می‌شود آسیب Shank به یک هدف اضافی برخورد کند.",
+      "برای Warlock با تخصص Demonology، باگی رفع شد که در آن اثرهای تلنت Demonic Aegis روی Demon Armor یا Demon Skin ثبت می‌شد و پس از ریست کردن تلنت‌ها حفظ می‌ماند؛ اکنون Demonic Aegis و Demon Skin با فراموش کردن تلنت‌ها حذف می‌شوند.",
+      "بونس ۳ تکه ست Stormshroud Armor تغییر یافته و شانس آن هنگام حمله میلی به ۳٪ (قبلاً ۴٪) برای بازیابی ۱۸ Energy (قبلاً ۳۰) رسیده است."
      ]
     },
     {
      "t": "h",
-     "x": "کوئست‌ها و ان‌پی‌سی‌ها"
+     "x": "مأموریت‌ها، NPCها و مشاغل"
     },
     {
      "t": "ul",
      "xs": [
-      "در Orgrimmar چشمان Mayhoa Skyhoof دیگر درخشان نیست.",
-      "در منطقه The Hinterlands در صورت کشته شدن Witch Doctor Ti’ik توسط گروهی که کوئست «Witch Doctor Ti’ik» را دارند، چندین نسخه از سر او دراپ می‌شود.",
-      "در Feralas مشکلی که در آن [[item:Perfect Yeti Hide]] حین داشتن کوئست مربوطه‌اش دوباره دراپ می‌شد برطرف گردید.",
-      "در Tanaris زمان ریسپاون Gor’marok برای کوئست «The Dunemaul Compound» سریع‌تر شد.",
-      "در Riverglades شخصیت Dunston Willis دیگر در میانه کوئست «Dunston Checks Out» فرار نمی‌کند."
+      "در The Hinterlands، وقتی Witch Doctor Ti’ik توسط گروهی که کوئست «Witch Doctor Ti’ik» را دارند کشته شود، چندین نسخه از سر خود را دراپ می‌کند.",
+      "در Feralas، مشکلی که باعث می‌شد Perfect Yeti Hide زمانی که کوئست مربوطه فعال است دوباره دراپ شود رفع شد.",
+      "در Tanaris، موجود Gor’marok برای کوئست «The Dunemaul Compound» اکنون سریع‌تر ریسپاون می‌شود.",
+      "در Riverglades، شخصیت Dunston Willis در میانه کوئست «Dunston Checks Out» دیگر فرار نمی‌کند.",
+      "در Orgrimmar، چشمان Mayhoa Skyhoof دیگر درخشان نیست.",
+      "در Summit of Eternity، شخصیت Toron Rockhoof سندان و کوره آهنگری خود را تعمیر کرده و اکنون برای Blacksmithing و Smelting قابل استفاده هستند."
      ]
     }
    ],
    "tags_fa": [
     "هاتفیکس",
-    "LFG",
-    "کلاس‌ها",
-    "دانجن"
+    "WoW Forever",
+    "تغییرات کلاس‌ها"
    ],
    "items": [],
    "title_en": "LFG Bug Fix Causes Players to See More Groups - WoW: Forever Hotfixes for November 20, 2026",
@@ -432,6 +425,114 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383890/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383933,
+   "slug": "every-quest-for-level-30-to-40-dungeons-in-wow-forever",
+   "title_fa": "راهنمای کامل کوئست دانجن‌های سطح ۳۰ تا ۴۰ در WoW Forever",
+   "lead_fa": "فهرست جامع تمامی ماموریت‌های سیاه‌چاله‌های بازه سطحی ۳۰ تا ۴۰ در سرور WoW: Forever برای سرعت بخشیدن به روند ارتقای سطح بازیکنان گردآوری شده است.",
+   "body_fa": [
+    "در محدوده سطحی ۳۰ تا ۴۰ در سرور WoW: Forever، سیاه‌چاله جدیدی به نام The Drowned City در دسترس ماجراجویان قرار گرفته است. علاوه بر آن، سیاه‌چاله City of Dalaran که معمولاً توسط بازیکنان اواخر سطح بیست پیموده می‌شود نیز از نظر فنی در همین رده‌بندی قرار می‌گیرد تا انتخابی ساده‌تر برای بازیکنان باشد. این سیاه‌چاله‌ها شامل ماموریت‌ها و باس‌های تازه‌ای هستند. همچنین باید توجه داشت که The Drowned City یک سیاه‌چاله طولانی است و به طور میانگین دست‌کم یک ساعت زمان برای تکمیل نیاز دارد، بنابراین بازیکنان باید پیش از شروع زمان کافی در اختیار داشته باشند. سیاه‌چاله Gnomeregan درجه سختی این دانجن به ترتیب Hard در سطح ۲۵، سپس Medium در سطح ۳۰، حالت پیشنهادی At Level در سطح ۳۳ و نهایتاً Easy در سطح ۳۸ است. ماموریت‌های این بخش همراه با شرایط و مکان‌های دریافت به شرح زیر هستند:",
+    {
+     "t": "ul",
+     "xs": [
+      "ماموریت Rig Wars در لول ۲۵ از Nogg در Orgrimmar واقع در Valley of Honor با مختصات 76 25 آغاز می‌شود.",
+      "ماموریت پیش‌نیاز Chief Engineer Scooty در لول ۲۰ از Sovik در Orgrimmar واقع در Valley of Honor با مختصات 76 25 قابل دریافت است و ابتدا باید ماموریت Rig Wars گرفته شود.",
+      "ماموریت Gnomer-gooooone! در لول ۲۰ از Scooty در Strangethorn Vale واقع در Booty Bay با مختصات 27 77 دریافت می‌شود.",
+      "ماموریت Save Techbot's Brain! در لول ۲۰ از Tinkmaster Overspark در Ironforge واقع در Tinkertown با مختصات 69 50 شروع می‌گردد.",
+      "ماموریت Gyrodrillmatic Excavationators در لول ۲۰ از Shoni the Shilent در Stormwind واقع در Dwarven Quarter با مختصات 55 12 آغاز می‌شود.",
+      "ماموریت Essential Artificials در لول ۲۴ از Klockmort Spannerspan در Ironforge واقع در Tinkertown با مختصات 47 64 دریافت می‌گردد.",
+      "ماموریت Data Rescue در لول ۲۵ از Master Mechanic Castpipe در Ironforge واقع در Tinkertown با مختصات 69 48 قابل دریافت است.",
+      "ماموریت The Grand Betrayal در لول ۲۵ از High Tinker Mekkatorque در Ironforge واقع در Tinkertown با مختصات 68 49 ثبت می‌شود.",
+      "ماموریت Gnogaine در لول ۲۰ از Ozzie Togglevolt در Dun Morogh واقع در Kharanos با مختصات 45 49 در دسترس است.",
+      "ماموریت پیش‌نیاز The Only Cure is More Green Glow در لول ۲۰ از Ozzie Togglevolt در Dun Morogh واقع در Kharanos با مختصات 45 49 پس از اتمام Gnogaine دریافت می‌شود."
+     ]
+    },
+    "سیاه‌چاله City of Dalaran درجه سختی این دانجن در رده‌های Hard در لول ۲۶، رده Medium در لول ۲۹، رده At Level در لول ۳۱ و رده Easy در لول ۳۴ قرار دارد:",
+    {
+     "t": "ul",
+     "xs": [
+      "ماموریت The Grave Knight در سطح ۲۴ از Melisara در Tarren Mill با مختصات 62 21 آغاز می‌گردد.",
+      "ماموریت Source of Power در سطح ۲۴ از Doctor Martin Felben در Undercity واقع در Apothecarium با مختصات 46 74 دریافت می‌شود.",
+      "ماموریت Opportunistic Education در سطح ۲۴ بلافاصله هنگام ورود به داخل دانجن از Rexxie Copperclutch تحویل گرفته می‌شود.",
+      "ماموریت پیوسته Heart of Disruption در سطح ۲۴ با پیش‌نیاز شروع از Prison Break In توسط Magus Wordeen Voidglare در Hillsbrad Foothills با مختصات 62 21 فعال می‌شود.",
+      "ماموریت Power Overwhelming در سطح ۲۴ از High Sorcerer Andromath در Stormwind واقع در Magic Quarter با مختصات 49 88 در دسترس است.",
+      "ماموریت پیش‌نیاز Heart of Disruption در سطح ۳۰ با ماموریت An Alarming Request از Emissary Jacques در Southshore با مختصات 48 60 آغاز می‌گردد.",
+      "ماموریت A Green Sample در سطح ۲۴ از Shylamiir در Stormwind واقع در The Park با مختصات 32 63 قابل دریافت است.",
+      "ماموریت Starving Arcane در سطح ۳۰ به عنوان پیش‌نیاز با ماموریت An Alarming Request از Emissary Jacques در Southshore با مختصات 48 60 دریافت می‌شود."
+     ]
+    },
+    "سیاه‌چاله Razorfen Kraul درجه‌بندی سختی این منطقه شامل Hard در لول ۲۵، رده Medium در لول ۲۸، رده At Level در لول ۳۱ و رده Easy در لول ۳۴ است:",
+    {
+     "t": "ul",
+     "xs": [
+      "ماموریت A Vengeful Fate در لول ۲۹ از Auld Stonespire در Thunder Bluff در نزدیکی آسانسور اصلی با مختصات 37 29 آغاز می‌شود.",
+      "ماموریت Going, Going, Guano! در لول ۳۰ از Master Apothecary Faranell در Undercity واقع در The Apothecarium با مختصات 48 69 قابل اخذ است که پیش‌نیاز کوئست Hearts of Zeal در دانجن بعد خواهد بود.",
+      "ماموریت An Unholy Alliance در لول ۲۸ از طریق دراپ آیتم Small Scroll از باس Charlga Razorflank در داخل دانجن آغاز می‌شود و پیش‌نیاز ماموریت دیگری در Razorfen Downs است.",
+      "ماموریت The Crone of the Kraul در لول ۲۹ با پیش‌نیاز Falfindel Waywarder در The Lower Wilds با مختصات 89 46 پس از تکمیل ژورنال مربوطه در دسترس قرار می‌گیرد.",
+      "ماموریت Mortality Wanes در لول ۲۵ از Heralath Fallowbrook در درون دانجن و پشت سر باس اصلی دریافت می‌شود.",
+      "ماموریت Blueleaf Tubers در لول ۲۰ از Mebok Mizzyrix در The Barrens واقع در Ratchet با مختصات 62 37 قابل ثبت است و آیتم‌های کنار این شخصیت نباید فراموش شوند.",
+      "ماموریت اسکورت Willix the Importer در لول ۲۲ از چادری در نزدیکی باس آخر دانجن از Willix the Importer آغاز می‌گردد."
+     ]
+    },
+    "سیاه‌چاله جدید The Drowned City این دانجن دارای سطح سختی Hard در لول ۳۰، رده Medium در لول ۳۷، رده پیشنهادی At Level در لول ۴۰ و حالت Easy در سطح ۴۳ است:",
+    "ماموریت Magics of the Drowned City (که به The Web of Magic ختم می‌شود) در لول ۳۰ از Loremaster Dibbs در Hillsbrad Foothills واقع در Southshore با مختصات 50.6 57.0 شروع می‌شود و پیش از آن نیازمند پیش‌نیازهای The Second Rebellion و Bad Medicine و تکمیل Troll Witchery است. ماموریت Take Two With Water (که به Findings for the Explorer's League ختم می‌شود) در لول ۳۰ از Loremaster Dibbs در Hillsbrad Foothills واقع در Southshore با مختصات 50.6 57.0 قابل دریافت بوده و زنجیره مشترک مشابهی دارد. ماموریت Ancient Gurubashi Secrets در لول ۳۴ از Archmage Timear در Alterac Mountains واقع در Dalaran با مختصات 15.6 73.6 ارائه می‌شود. ماموریت The Drowned City در لول ۳۰ از Kin'weelay در Stranglethorn Vale واقع در Grom'Gol با مختصات 32.2 27.8 شروع شده و پیش‌نیاز آن The Vile Reef است. ماموریت The Only Good Brinescale... در لول ۳۰ از Commander Aggro'gosh در Stranglethorn Vale واقع در Grom'Gol با مختصات 32.2 28.8 آغاز می‌شود و نیازمند The Vile Reef و Enemies in the Water است. ماموریت Ancient Gurubashi Idol در لول ۳۰ از Mazu'kon در Mulgore واقع در Skywatcher Plateau با مختصات 32.2 27.8 آغاز می‌شود. ماموریت Shady Saltseers در لول ۳۴ از Krazek در Stranglethorn Vale واقع در Booty Bay با مختصات 27.0 77.2 دریافت می‌گردد. ماموریت The Saltseer Captain در لول ۳۴ از Krazek در Stranglethorn Vale واقع در Booty Bay با مختصات 27.0 77.2 شروع می‌شود. سیاه‌چاله Scarlet Monastery",
+    "بخش‌های Graveyard و Library این مجموعه برای بازیکنان سطح بیست طراحی شده‌اند، اما بخش‌های Armory و Cathedral در بازه ۳۰ تا ۴۰ قرار می‌گیرند. درجه سختی کل این بال‌ها شامل Hard در سطح ۲۶، رده Medium در سطح ۳۲، رده At Level در سطح ۳۷ و رده Easy در لول ۴۵ است:",
+    {
+     "t": "ul",
+     "xs": [
+      "ماموریت Into The Scarlet Monastery برای تمام بال‌ها در سطح ۳۳ از Varimathras در Undercity واقع در Royal Quarter با مختصات 56 92 دریافت می‌شود.",
+      "ماموریت Hearts of Zeal در سطح ۳۰ از Master Apothecary Faranell در Undercity واقع در The Apothecarium با مختصات 48 69 پس از کوئست اولیه در مختصات 49 70 در دسترس قرار می‌گیرد.",
+      "ماموریت In the Name of the Light در سطح ۳۴ از Raleigh the Devout در Hillsbrad Foothills واقع در Southshore با مختصات 51 58 دارای سه کوئست پیش‌نیاز است.",
+      "ماموریت Vorrel's Revenge در بال Graveyard در سطح ۲۵ از Vorrel Sengutz در داخل خود بخش Graveyard قابل دریافت است.",
+      "ماموریت Compendium of the Fallen در بال Library در سطح ۲۸ از Sage Truthseeker در Thunder Bluff واقع در First Rise با مختصات 36 26 شروع می‌شود (نژاد Undead قادر به دریافت این ماموریت نیست).",
+      "ماموریت پیش‌نیاز Test of Lore در بال Library در سطح ۲۵ از Parqual Fintallas در Undercity واقع در The Apothecarium با مختصات 57 65 پس از زنجیره شش مرحله‌ای آغاز شده از Dorn Plainstalker در Thousand Needles با مختصات 54 42 آغاز می‌گردد.",
+      "ماموریت Mythology of the Titans در بال Library در سطح ۲۸ از Librarian Mae Paledust در Ironforge واقع در Hall of Explorers با مختصات 75 12 دریافت می‌شود.",
+      "ماموریت اختصاصی کلاس Mage به نام Rituals of Power در سطح ۳۰ با پیش‌نیاز سه مرحله‌ای از Magus Tirth در Thousand Needles واقع در Shimmering Flats Raceway با مختصات 78 75 شروع می‌شود."
+     ]
+    },
+    "سیاه‌چاله Razorfen Downs درجه سختی این سیاه‌چاله شامل Hard در لول ۳۵، حالت Medium در لول ۳۷، حالت At Level در لول ۳۹ و حالت Easy در لول ۴۴ تعیین شده است:",
+    {
+     "t": "ul",
+     "xs": [
+      "ماموریت جدید The Coldbringer's Eye در لول ۳۴ از Sutara Plainstalker در Mulgore واقع در Skywatcher's Plateau با مختصات 35 23 شروع می‌شود.",
+      "ماموریت Bring the End در لول ۳۷ از Andrew Brownell در Undercity واقع در Magic Quarter با مختصات 74 33 قابل دریافت است.",
+      "ماموریت An Unholy Alliance در لول ۲۸ با پیش‌نیاز طومار به دست آمده از سیاه‌چاله پیشین، از Varimathras در Undercity واقع در Royal Quarter با مختصات 36 26 آغاز می‌گردد.",
+      "ماموریت Bring the Light در لول ۳۹ از Archbishop Benedictus در Stormwind واقع در Cathedral با مختصات 39 27 تحویل گرفته می‌شود.",
+      "ماموریت جدید The Coldbringer's Eye در لول ۳۴ از Archbishop Benedictus در Dalaran با مختصات 39 27 قابل دریافت است.",
+      "ماموریت A Host of Evil در لول ۲۸ بیرون از پورتال دانجن از Archmage Lan'dalock در The Barrens با مختصات 16 74 شروع می‌شود.",
+      "ماموریت Scourge of the Downs در لول ۳۲ از Belnistrasz در Murder Pens واقع در داخل Razorfen Downs دریافت می‌شود که کل اعضای گروه باید پیش از دریافت ماموریت بعدی آن را تمام کنند.",
+      "ماموریت اسکورت Extinguishing the Idol در لول ۳۲ در Murder Pens از Belnistrasz آغاز می‌گردد و پیش از شروع باید تمامی هم‌گروهی‌ها کوئست Scourge of the Downs را کامل کرده باشند تا امتیاز پیشرفت برایشان ثبت شود."
+     ]
+    },
+    {
+     "t": "note",
+     "x": "در دانجن Razorfen Downs حتما دقت کنید که همه هم‌تیمی‌ها کوئست Scourge of the Downs را به پایان رسانده باشند؛ در غیر این صورت ماموریت بعدی برای آن‌ها حساب نخواهد شد.",
+     "kind": "warn"
+    },
+    "برنامه‌ریزی و جمع‌آوری پیش‌نیازهای این ماموریت‌ها پیش از عزیمت به سیاه‌چاله‌ها، سرعت دستیابی به سطح‌های بالاتر را در این محدوده ارتقا می‌بخشد."
+   ],
+   "tags_fa": [
+    "سیاه‌چاله",
+    "راهنما",
+    "Forever",
+    "لول‌آپ"
+   ],
+   "items": [],
+   "title_en": "Every Quest for Level 30 to 40 Dungeons in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383933",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383933-every-quest-for-level-30-to-40-dungeons-in-wow-forever.html",
+   "published_at": "2026-11-20T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383933/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383933/1.jpg",
      "cap": ""
     }
    ]
@@ -3384,56 +3485,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383807,
-   "slug": "party-with-other-players-to-use-their-sleeping-bags-for-experience-buf",
-   "title_fa": "دریافت بف تجربه از Sleeping Bag دیگر بازیکنان در WoW: Forever",
-   "lead_fa": "بازیکنان در WoW: Forever می‌توانند با عضویت در پارتی سایر افراد، از کیسه‌خواب آن‌ها برای دریافت بف افزایش تجربه استفاده کنند.",
-   "body_fa": [
-    "آیتم [[item:Cozy Sleeping Bag]] به WoW: Forever اضافه شده است و بفی برای افزایش کسب تجربه به مدت ۲ ساعت به بازیکنان می‌دهد. به ازای هر یک دقیقه‌ای که درون این کیسه‌خواب دراز بکشید، یک بف تجربهٔ ۱٪ دریافت می‌کنید که تا ۳ بار قابل ارتقا است و در مجموع ۳٪ افزایش تجربه به همراه دارد.",
-    {
-     "t": "h",
-     "x": "روش استفاده از کیسه‌خواب دیگران"
-    },
-    "به دست آوردن این آیتم نیازمند ماجراجویی در چندین منطقه مختلف است و حدود ۱ تا ۲ ساعت زمان می‌برد که زمان قابل‌توجهی به شمار می‌رود.",
-    "با این حال، بازیکنانی که تمایلی به فارم کردن آن ندارند، می‌توانند از کیسه‌خواب سایر بازیکنان استفاده کنند؛ اگر فردی را دیدید که کیسه‌خواب خود را روی زمین قرار داده است، کافی است درخواست ورود به پارتی او را بدهید و با دراز کشیدن در آن، بف تجربه را دریافت نمایید.",
-    {
-     "t": "note",
-     "x": "اگر در یک پارتی مشترک باشید، می‌توانید بدون نیاز به داشتن Cozy Sleeping Bag از بف تجربهٔ ۳ درصدی آن بهره‌مند شوید.",
-     "kind": "tip"
-    }
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "راهنما",
-    "کسب تجربه"
-   ],
-   "items": [],
-   "title_en": "Party with Other Players to Use Their Sleeping Bags for Experience Buff in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383807",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383807-party-with-other-players-to-use-their-sleeping-bags-for-experience-buf.html",
-   "published_at": "2026-11-12T15:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383807/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383807/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383933,
-   "title_en": "Every Quest for Level 30 to 40 Dungeons in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383933",
-   "category": "Forever",
-   "published_at": "2026-11-20T15:00:00Z"
-  },
   {
    "id": 383940,
    "title_en": "Skyborne Now Get Reputation Discount for Mounts in WoW: Forever But You'll Need A Lot of Runecloth",
