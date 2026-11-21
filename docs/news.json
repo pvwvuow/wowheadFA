@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T20:48:04Z",
+ "generated": "2026-11-21T20:49:26Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3426,6 +3426,13 @@
  ],
  "queue": [
   {
+   "id": 383950,
+   "title_en": "Maximum Dungeons Per Hour Reduced in WoW: Forever Hotfix - Solo Gold Farming Nerf?",
+   "url": "https://www.wowhead.com/news=383950",
+   "category": "Forever",
+   "published_at": "2026-11-21T19:26:27Z"
+  },
+  {
    "id": 383933,
    "title_en": "Every Quest for Level 30 to 40 Dungeons in WoW: Forever",
    "url": "https://www.wowhead.com/news=383933",
@@ -3697,13 +3704,6 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
