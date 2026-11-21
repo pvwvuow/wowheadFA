@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T21:46:09Z",
+ "generated": "2026-11-21T21:47:47Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3476,6 +3476,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383950,
+   "title_en": "Maximum Dungeons Per Hour Reduced in WoW: Forever Hotfix - Solo Gold Farming Nerf?",
+   "url": "https://www.wowhead.com/news=383950",
+   "category": "Forever",
+   "published_at": "2026-11-21T19:26:27Z"
+  },
   {
    "id": 383940,
    "title_en": "Skyborne Now Get Reputation Discount for Mounts in WoW: Forever But You'll Need A Lot of Runecloth",
