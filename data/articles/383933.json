@@ -453,12 +453,91 @@
   ],
   "chars": 7245
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383933/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383933/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383933/1.jpg",
+ "article_fa": {
+  "title_fa": "راهنمای کوئست‌های دانجن‌های لول ۳۰ تا ۴۰ در WoW: Forever",
+  "lead_fa": "فهرست کامل کوئست‌ها، پیش‌نیازها و محل دریافت مأموریت‌های دانجن‌های بازه لول ۳۰ تا ۴۰ در WoW: Forever برای سرعت بخشیدن به روند لول‌آپ بازیکنان گردآوری شده است.",
+  "body_fa": [
+   "بازه لول ۳۰ تا ۴۰ شامل دانجن تازه‌ای به نام The Drowned City است. دانجن City of Dalaran نیز توسط بسیاری از ماجراجویان در اواخر لول‌های بیست اجرا می‌شود اما به‌طور فنی برای گذراندن یک مسیر آسان‌تر در همین دسته قرار دارد. این سیاهچال‌ها باس‌ها و مأموریت‌های جدید فراوانی را در دل خود جای داده‌اند.",
+   "دانجن Drowned City مسیر طولانی‌تری دارد و تکمیل آن به‌طور میانگین دست‌کم یک ساعت به درازا می‌کشد؛ بنابراین پیش از ورود زمان کافی در نظر بگیرید. دانجن Gnomeregan",
+   "درجه‌های سختی این دانجن به ترتیب Hard در لول 25، حالت Medium در لول 30، حالت At Level در لول 33 و وضعیت Easy در لول 38 تعیین شده است. مأموریت‌های این سیاهچال عبارتند از:",
+   {
+    "t": "ul",
+    "xs": [
+     "کوئست Rig Wars (لول 25) از Nogg در Orgrimmar مختصات 76 25.",
+     "کوئست Chief Engineer Scooty (لول 20) پیش‌نیاز از Sovik در Orgrimmar مختصات 76 25 پس از گرفتن Rig Wars.",
+     "کوئست Gnomer-gooooone! (لول 20) از Scooty در Booty Bay مختصات 27 77.",
+     "کوئست Save Techbot's Brain! (لول 20) از Tinkmaster Overspark در Ironforge مختصات 69 50.",
+     "کوئست Gyrodrillmatic Excavationators (لول 20) از Shoni the Shilent در Stormwind مختصات 55 12.",
+     "کوئست Essential Artificials (لول 24) از Klockmort Spannerspan در Ironforge مختصات 47 64.",
+     "کوئست Data Rescue (لول 25) از Master Mechanic Castpipe در Ironforge مختصات 69 48.",
+     "کوئست The Grand Betrayal (لول 25) از High Tinker Mekkatorque در Ironforge مختصات 68 49.",
+     "کوئست Gnogaine (لول 20) و کوئست The Only Cure is More Green Glow (لول 20) از Ozzie Togglevolt در Dun Morogh مختصات 45 49.",
+     "کوئست The Sparklematic 5200! (لول 25) با Grime-Encrusted Object و مأموریت اسکورت A Fine Mess (لول 20) با همراهی Kernobee و دراپ Grime-Encrusted Ring (لول 28)."
+    ]
+   },
+   "دانجن City of Dalaran درجه‌بندی دشواری شامل Hard در لول 26، سطح Medium در لول 29، سطح At Level در لول 31 و Easy در لول 34 است:",
+   {
+    "t": "ul",
+    "xs": [
+     "کوئست The Grave Knight (لول 24) از Melisara در Tarren Mill مختصات 62 21.",
+     "کوئست Source of Power (لول 24) از Doctor Martin Felben در Undercity مختصات 46 74.",
+     "کوئست Opportunistic Education (لول 24) از Rexxie Copperclutch در ورودی دانجن.",
+     "کوئست Heart of Disruption (لول 24) با پیش‌نیاز Prison Break In از Magus Wordeen Voidglare در Hillsbrad Foothills مختصات 62 21.",
+     "کوئست Power Overwhelming (لول 24) از High Sorcerer Andromath در Stormwind مختصات 49 88.",
+     "کوئست Heart of Disruption (لول 30) و Starving Arcane (لول 30) با شروع از An Alarming Request از Emissary Jacques در Southshore مختصات 48 60.",
+     "کوئست A Green Sample (لول 24) از Shylamiir در Stormwind مختصات 32 63."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "دانجن Razorfen Kraul"
+   },
+   "این دانجن در حالت Hard نیازمند لول 25، در Medium نیازمند 28، در At Level لول 31 و در Easy لول 34 است. مأموریت‌های آن شامل A Vengeful Fate (لول 29) از Auld Stonespire در Thunder Bluff مختصات 37 29، مأموریت Going, Going, Guano! (لول 30) از Master Apothecary Faranell در Undercity مختصات 48 69 (پیش‌نیاز Hearts of Zeal در دانجن بعد)، کوئست An Unholy Alliance (لول 28) از Charlga Razorflank، کوئست The Crone of the Kraul (لول 29) از Falfindel Waywarder مختصات 89 46، کوئست Mortality Wanes (لول 25) از Heralath Fallowbrook، کوئست Blueleaf Tubers (لول 20) از Mebok Mizzyrix در The Barrens مختصات 62 37 و کوئست اسکورت Willix the Importer (لول 22) است. دانجن The Drowned City سختی‌های این سیاهچال جدید شامل Hard در لول 30، سطح Medium در لول 37، سطح At Level در لول 40 و Easy در لول 43 است:",
+   {
+    "t": "ul",
+    "xs": [
+     "کوئست Magics of the Drowned City (لول 30) و Take Two With Water (لول 30) از Loremaster Dibbs در Southshore مختصات 50.6 57.0 (پس از پیش‌نیازهای The Second Rebellion یا Bad Medicine و نهایتاً Troll Witchery).",
+     "کوئست Ancient Gurubashi Secrets (لول 34) از Archmage Timear در Dalaran مختصات 15.6 73.6.",
+     "کوئست The Drowned City (لول 30) از Kin'weelay در Grom'Gol مختصات 32.2 27.8 پس از The Vile Reef.",
+     "کوئست The Only Good Brinescale... (لول 30) از Commander Aggro'gosh در Grom'Gol مختصات 32.2 28.8 پس از The Vile Reef و Enemies in the Water.",
+     "کوئست Ancient Gurubashi Idol (لول 30) از Mazu'kon در Mulgore مختصات 32.2 27.8.",
+     "کوئست‌های Shady Saltseers (لول 34) و The Saltseer Captain (لول 34) از Krazek در Booty Bay مختصات 27.0 77.2."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "دانجن Scarlet Monastery"
+   },
+   "بخش‌های Graveyard و Library در لول‌های بیست انجام می‌شوند ولی بخش‌های Armory و Cathedral در بازه ۳۰ تا ۴۰ جای دارند. سختی بال‌ها شامل Hard لول 26، سپس Medium لول 32، سپس At Level لول 37 و نهایتاً Easy لول 45 است. مأموریت‌های تمام بال‌ها شامل Into The Scarlet Monastery (لول 33) از Varimathras در مختصات 56 92 و Hearts of Zeal (لول 30) از Master Apothecary Faranell در مختصات 48 69 (با شروع از مختصات 49 70) و In the Name of the Light (لول 34) از Raleigh the Devout در مختصات 51 58 است. در بخش Graveyard مأموریت Vorrel's Revenge (لول 25) وجود دارد. در بخش Library نیز Compendium of the Fallen (لول 28) از Sage Truthseeker مختصات 36 26 (غیرقابل دریافت برای Undead)، مأموریت Test of Lore (لول 25) از Parqual Fintallas مختصات 57 65 (با شروع از مختصات 54 42)، مأموریت Mythology of the Titans (لول 28) از Librarian Mae Paledust مختصات 75 12 و Rituals of Power (لول 30 مخصوص Mage) از Magus Tirth مختصات 78 75 قرار گرفته‌اند.",
+   {
+    "t": "h",
+    "x": "دانجن Razorfen Downs"
+   },
+   "سطح سختی شامل Hard لول 35، سطح Medium لول 37، سطح At Level لول 39 و Easy لول 44 است. مأموریت‌های آن شامل The Coldbringer's Eye (لول 34) از Sutara Plainstalker در مختصات 35 23 و از Archbishop Benedictus در مختصات 39 27، مأموریت Bring the End (لول 37) از Andrew Brownell در مختصات 74 33، مأموریت An Unholy Alliance (لول 28) از Varimathras در مختصات 36 26، مأموریت Bring the Light (لول 39) از Archbishop Benedictus در مختصات 39 27 و A Host of Evil (لول 28) از Archmage Lan'dalock در The Barrens مختصات 16 74 است.",
+   {
+    "t": "note",
+    "x": "در دانجن Razorfen Downs، برای مأموریت Scourge of the Downs (لول 32) و مأموریت اسکورت Extinguishing the Idol (لول 32) از Belnistrasz، تمامی اعضای گروه باید حتماً مأموریت اول را به پایان برسانند تا مأموریت بعدی ثبت شود.",
+    "kind": "tip"
+   }
+  ],
+  "tags_fa": [
+   "دانجن",
+   "لول‌آپ",
+   "کوئست",
+   "WoW Forever"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-21T00:21:16Z"
+ }
 }
