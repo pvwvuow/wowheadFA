@@ -453,7 +453,7 @@
   ],
   "chars": 7245
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383933/1.jpg",
@@ -818,5 +818,101 @@
    "WoW Forever",
    "لول‌آپ"
   ]
+ },
+ "article_fa": {
+  "title_fa": "راهنمای کامل کوئست دانجن‌های سطح ۳۰ تا ۴۰ در WoW Forever",
+  "lead_fa": "فهرست جامع تمامی ماموریت‌های سیاه‌چاله‌های بازه سطحی ۳۰ تا ۴۰ در سرور WoW: Forever برای سرعت بخشیدن به روند ارتقای سطح بازیکنان گردآوری شده است.",
+  "body_fa": [
+   "در محدوده سطحی ۳۰ تا ۴۰ در سرور WoW: Forever، سیاه‌چاله جدیدی به نام The Drowned City در دسترس ماجراجویان قرار گرفته است. علاوه بر آن، سیاه‌چاله City of Dalaran که معمولاً توسط بازیکنان اواخر سطح بیست پیموده می‌شود نیز از نظر فنی در همین رده‌بندی قرار می‌گیرد تا انتخابی ساده‌تر برای بازیکنان باشد. این سیاه‌چاله‌ها شامل ماموریت‌ها و باس‌های تازه‌ای هستند. همچنین باید توجه داشت که The Drowned City یک سیاه‌چاله طولانی است و به طور میانگین دست‌کم یک ساعت زمان برای تکمیل نیاز دارد، بنابراین بازیکنان باید پیش از شروع زمان کافی در اختیار داشته باشند. سیاه‌چاله Gnomeregan درجه سختی این دانجن به ترتیب Hard در سطح ۲۵، سپس Medium در سطح ۳۰، حالت پیشنهادی At Level در سطح ۳۳ و نهایتاً Easy در سطح ۳۸ است. ماموریت‌های این بخش همراه با شرایط و مکان‌های دریافت به شرح زیر هستند:",
+   {
+    "t": "ul",
+    "xs": [
+     "ماموریت Rig Wars در لول ۲۵ از Nogg در Orgrimmar واقع در Valley of Honor با مختصات 76 25 آغاز می‌شود.",
+     "ماموریت پیش‌نیاز Chief Engineer Scooty در لول ۲۰ از Sovik در Orgrimmar واقع در Valley of Honor با مختصات 76 25 قابل دریافت است و ابتدا باید ماموریت Rig Wars گرفته شود.",
+     "ماموریت Gnomer-gooooone! در لول ۲۰ از Scooty در Strangethorn Vale واقع در Booty Bay با مختصات 27 77 دریافت می‌شود.",
+     "ماموریت Save Techbot's Brain! در لول ۲۰ از Tinkmaster Overspark در Ironforge واقع در Tinkertown با مختصات 69 50 شروع می‌گردد.",
+     "ماموریت Gyrodrillmatic Excavationators در لول ۲۰ از Shoni the Shilent در Stormwind واقع در Dwarven Quarter با مختصات 55 12 آغاز می‌شود.",
+     "ماموریت Essential Artificials در لول ۲۴ از Klockmort Spannerspan در Ironforge واقع در Tinkertown با مختصات 47 64 دریافت می‌گردد.",
+     "ماموریت Data Rescue در لول ۲۵ از Master Mechanic Castpipe در Ironforge واقع در Tinkertown با مختصات 69 48 قابل دریافت است.",
+     "ماموریت The Grand Betrayal در لول ۲۵ از High Tinker Mekkatorque در Ironforge واقع در Tinkertown با مختصات 68 49 ثبت می‌شود.",
+     "ماموریت Gnogaine در لول ۲۰ از Ozzie Togglevolt در Dun Morogh واقع در Kharanos با مختصات 45 49 در دسترس است.",
+     "ماموریت پیش‌نیاز The Only Cure is More Green Glow در لول ۲۰ از Ozzie Togglevolt در Dun Morogh واقع در Kharanos با مختصات 45 49 پس از اتمام Gnogaine دریافت می‌شود."
+    ]
+   },
+   "سیاه‌چاله City of Dalaran درجه سختی این دانجن در رده‌های Hard در لول ۲۶، رده Medium در لول ۲۹، رده At Level در لول ۳۱ و رده Easy در لول ۳۴ قرار دارد:",
+   {
+    "t": "ul",
+    "xs": [
+     "ماموریت The Grave Knight در سطح ۲۴ از Melisara در Tarren Mill با مختصات 62 21 آغاز می‌گردد.",
+     "ماموریت Source of Power در سطح ۲۴ از Doctor Martin Felben در Undercity واقع در Apothecarium با مختصات 46 74 دریافت می‌شود.",
+     "ماموریت Opportunistic Education در سطح ۲۴ بلافاصله هنگام ورود به داخل دانجن از Rexxie Copperclutch تحویل گرفته می‌شود.",
+     "ماموریت پیوسته Heart of Disruption در سطح ۲۴ با پیش‌نیاز شروع از Prison Break In توسط Magus Wordeen Voidglare در Hillsbrad Foothills با مختصات 62 21 فعال می‌شود.",
+     "ماموریت Power Overwhelming در سطح ۲۴ از High Sorcerer Andromath در Stormwind واقع در Magic Quarter با مختصات 49 88 در دسترس است.",
+     "ماموریت پیش‌نیاز Heart of Disruption در سطح ۳۰ با ماموریت An Alarming Request از Emissary Jacques در Southshore با مختصات 48 60 آغاز می‌گردد.",
+     "ماموریت A Green Sample در سطح ۲۴ از Shylamiir در Stormwind واقع در The Park با مختصات 32 63 قابل دریافت است.",
+     "ماموریت Starving Arcane در سطح ۳۰ به عنوان پیش‌نیاز با ماموریت An Alarming Request از Emissary Jacques در Southshore با مختصات 48 60 دریافت می‌شود."
+    ]
+   },
+   "سیاه‌چاله Razorfen Kraul درجه‌بندی سختی این منطقه شامل Hard در لول ۲۵، رده Medium در لول ۲۸، رده At Level در لول ۳۱ و رده Easy در لول ۳۴ است:",
+   {
+    "t": "ul",
+    "xs": [
+     "ماموریت A Vengeful Fate در لول ۲۹ از Auld Stonespire در Thunder Bluff در نزدیکی آسانسور اصلی با مختصات 37 29 آغاز می‌شود.",
+     "ماموریت Going, Going, Guano! در لول ۳۰ از Master Apothecary Faranell در Undercity واقع در The Apothecarium با مختصات 48 69 قابل اخذ است که پیش‌نیاز کوئست Hearts of Zeal در دانجن بعد خواهد بود.",
+     "ماموریت An Unholy Alliance در لول ۲۸ از طریق دراپ آیتم Small Scroll از باس Charlga Razorflank در داخل دانجن آغاز می‌شود و پیش‌نیاز ماموریت دیگری در Razorfen Downs است.",
+     "ماموریت The Crone of the Kraul در لول ۲۹ با پیش‌نیاز Falfindel Waywarder در The Lower Wilds با مختصات 89 46 پس از تکمیل ژورنال مربوطه در دسترس قرار می‌گیرد.",
+     "ماموریت Mortality Wanes در لول ۲۵ از Heralath Fallowbrook در درون دانجن و پشت سر باس اصلی دریافت می‌شود.",
+     "ماموریت Blueleaf Tubers در لول ۲۰ از Mebok Mizzyrix در The Barrens واقع در Ratchet با مختصات 62 37 قابل ثبت است و آیتم‌های کنار این شخصیت نباید فراموش شوند.",
+     "ماموریت اسکورت Willix the Importer در لول ۲۲ از چادری در نزدیکی باس آخر دانجن از Willix the Importer آغاز می‌گردد."
+    ]
+   },
+   "سیاه‌چاله جدید The Drowned City این دانجن دارای سطح سختی Hard در لول ۳۰، رده Medium در لول ۳۷، رده پیشنهادی At Level در لول ۴۰ و حالت Easy در سطح ۴۳ است:",
+   "ماموریت Magics of the Drowned City (که به The Web of Magic ختم می‌شود) در لول ۳۰ از Loremaster Dibbs در Hillsbrad Foothills واقع در Southshore با مختصات 50.6 57.0 شروع می‌شود و پیش از آن نیازمند پیش‌نیازهای The Second Rebellion و Bad Medicine و تکمیل Troll Witchery است. ماموریت Take Two With Water (که به Findings for the Explorer's League ختم می‌شود) در لول ۳۰ از Loremaster Dibbs در Hillsbrad Foothills واقع در Southshore با مختصات 50.6 57.0 قابل دریافت بوده و زنجیره مشترک مشابهی دارد. ماموریت Ancient Gurubashi Secrets در لول ۳۴ از Archmage Timear در Alterac Mountains واقع در Dalaran با مختصات 15.6 73.6 ارائه می‌شود. ماموریت The Drowned City در لول ۳۰ از Kin'weelay در Stranglethorn Vale واقع در Grom'Gol با مختصات 32.2 27.8 شروع شده و پیش‌نیاز آن The Vile Reef است. ماموریت The Only Good Brinescale... در لول ۳۰ از Commander Aggro'gosh در Stranglethorn Vale واقع در Grom'Gol با مختصات 32.2 28.8 آغاز می‌شود و نیازمند The Vile Reef و Enemies in the Water است. ماموریت Ancient Gurubashi Idol در لول ۳۰ از Mazu'kon در Mulgore واقع در Skywatcher Plateau با مختصات 32.2 27.8 آغاز می‌شود. ماموریت Shady Saltseers در لول ۳۴ از Krazek در Stranglethorn Vale واقع در Booty Bay با مختصات 27.0 77.2 دریافت می‌گردد. ماموریت The Saltseer Captain در لول ۳۴ از Krazek در Stranglethorn Vale واقع در Booty Bay با مختصات 27.0 77.2 شروع می‌شود. سیاه‌چاله Scarlet Monastery",
+   "بخش‌های Graveyard و Library این مجموعه برای بازیکنان سطح بیست طراحی شده‌اند، اما بخش‌های Armory و Cathedral در بازه ۳۰ تا ۴۰ قرار می‌گیرند. درجه سختی کل این بال‌ها شامل Hard در سطح ۲۶، رده Medium در سطح ۳۲، رده At Level در سطح ۳۷ و رده Easy در لول ۴۵ است:",
+   {
+    "t": "ul",
+    "xs": [
+     "ماموریت Into The Scarlet Monastery برای تمام بال‌ها در سطح ۳۳ از Varimathras در Undercity واقع در Royal Quarter با مختصات 56 92 دریافت می‌شود.",
+     "ماموریت Hearts of Zeal در سطح ۳۰ از Master Apothecary Faranell در Undercity واقع در The Apothecarium با مختصات 48 69 پس از کوئست اولیه در مختصات 49 70 در دسترس قرار می‌گیرد.",
+     "ماموریت In the Name of the Light در سطح ۳۴ از Raleigh the Devout در Hillsbrad Foothills واقع در Southshore با مختصات 51 58 دارای سه کوئست پیش‌نیاز است.",
+     "ماموریت Vorrel's Revenge در بال Graveyard در سطح ۲۵ از Vorrel Sengutz در داخل خود بخش Graveyard قابل دریافت است.",
+     "ماموریت Compendium of the Fallen در بال Library در سطح ۲۸ از Sage Truthseeker در Thunder Bluff واقع در First Rise با مختصات 36 26 شروع می‌شود (نژاد Undead قادر به دریافت این ماموریت نیست).",
+     "ماموریت پیش‌نیاز Test of Lore در بال Library در سطح ۲۵ از Parqual Fintallas در Undercity واقع در The Apothecarium با مختصات 57 65 پس از زنجیره شش مرحله‌ای آغاز شده از Dorn Plainstalker در Thousand Needles با مختصات 54 42 آغاز می‌گردد.",
+     "ماموریت Mythology of the Titans در بال Library در سطح ۲۸ از Librarian Mae Paledust در Ironforge واقع در Hall of Explorers با مختصات 75 12 دریافت می‌شود.",
+     "ماموریت اختصاصی کلاس Mage به نام Rituals of Power در سطح ۳۰ با پیش‌نیاز سه مرحله‌ای از Magus Tirth در Thousand Needles واقع در Shimmering Flats Raceway با مختصات 78 75 شروع می‌شود."
+    ]
+   },
+   "سیاه‌چاله Razorfen Downs درجه سختی این سیاه‌چاله شامل Hard در لول ۳۵، حالت Medium در لول ۳۷، حالت At Level در لول ۳۹ و حالت Easy در لول ۴۴ تعیین شده است:",
+   {
+    "t": "ul",
+    "xs": [
+     "ماموریت جدید The Coldbringer's Eye در لول ۳۴ از Sutara Plainstalker در Mulgore واقع در Skywatcher's Plateau با مختصات 35 23 شروع می‌شود.",
+     "ماموریت Bring the End در لول ۳۷ از Andrew Brownell در Undercity واقع در Magic Quarter با مختصات 74 33 قابل دریافت است.",
+     "ماموریت An Unholy Alliance در لول ۲۸ با پیش‌نیاز طومار به دست آمده از سیاه‌چاله پیشین، از Varimathras در Undercity واقع در Royal Quarter با مختصات 36 26 آغاز می‌گردد.",
+     "ماموریت Bring the Light در لول ۳۹ از Archbishop Benedictus در Stormwind واقع در Cathedral با مختصات 39 27 تحویل گرفته می‌شود.",
+     "ماموریت جدید The Coldbringer's Eye در لول ۳۴ از Archbishop Benedictus در Dalaran با مختصات 39 27 قابل دریافت است.",
+     "ماموریت A Host of Evil در لول ۲۸ بیرون از پورتال دانجن از Archmage Lan'dalock در The Barrens با مختصات 16 74 شروع می‌شود.",
+     "ماموریت Scourge of the Downs در لول ۳۲ از Belnistrasz در Murder Pens واقع در داخل Razorfen Downs دریافت می‌شود که کل اعضای گروه باید پیش از دریافت ماموریت بعدی آن را تمام کنند.",
+     "ماموریت اسکورت Extinguishing the Idol در لول ۳۲ در Murder Pens از Belnistrasz آغاز می‌گردد و پیش از شروع باید تمامی هم‌گروهی‌ها کوئست Scourge of the Downs را کامل کرده باشند تا امتیاز پیشرفت برایشان ثبت شود."
+    ]
+   },
+   {
+    "t": "note",
+    "x": "در دانجن Razorfen Downs حتما دقت کنید که همه هم‌تیمی‌ها کوئست Scourge of the Downs را به پایان رسانده باشند؛ در غیر این صورت ماموریت بعدی برای آن‌ها حساب نخواهد شد.",
+    "kind": "warn"
+   },
+   "برنامه‌ریزی و جمع‌آوری پیش‌نیازهای این ماموریت‌ها پیش از عزیمت به سیاه‌چاله‌ها، سرعت دستیابی به سطح‌های بالاتر را در این محدوده ارتقا می‌بخشد."
+  ],
+  "tags_fa": [
+   "سیاه‌چاله",
+   "راهنما",
+   "Forever",
+   "لول‌آپ"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-21T21:34:51Z"
  }
 }

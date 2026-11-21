@@ -160,81 +160,74 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383934/1.jpg",
  "article_fa": {
   "title_fa": "راهنمای کوئست‌های دانجن جدید Alcaz Prison در WoW: Forever",
-  "lead_fa": "دانجن جدید Alcaz Prison در WoW: Forever برای بازیکنان حدود لول ۵۰ در دسترس است و شامل چندین کوئست اختصاصی و یک کوئست مخفی درون دانجن می‌شود.",
+  "lead_fa": "دانجن جدید Alcaz Prison در Dustwallow Marsh برای بازیکنان حدود لول ۵۰ در دسترس قرار گرفته و کوئست‌های متعددی به همراه یک مأموریت مخفی دارد.",
   "body_fa": [
-   "دانجن Alcaz Prison در Alcaz Island، جزیره‌ای تنها واقع در شمال شرقی Dustwallow Marsh، قرار دارد. این دانجن در دسته دانجن‌های کوتاه‌تر محسوب می‌شود و تکمیل آن احتمالاً حدود ۳۰ دقیقه طول می‌کشد.",
-   "دریافت کوئست‌های Alcaz Prison نسبتاً آسان است. برای هر فکشن سه کوئست در خارج از دانجن طراحی شده و علاوه بر آن‌ها، یک کوئست مخفی نیز داخل خود دانجن وجود دارد.",
-   {
-    "t": "h",
-    "x": "کوئست مخفی دانجن"
-   },
-   "این کوئست مخفی The Man in the Iron Chains نام دارد (لول ۴۸) و پاداشی معادل ۲۵ گلد می‌دهد. این مأموریت تنها در صورتی ظاهر می‌شود که یک باس را دور بزنید و اسکیپ کنید؛ پس از گرفتن مأموریت از Mason Connery بعد از کشتن باس نهایی، می‌توانید برای هدف کوئست بازگردید و آن باس را بکشید. این مأموریت فقط زمانی در دسترس قرار می‌گیرد که The Questioner هنوز زنده باشد.",
+   "دانجن Alcaz Prison در Alcaz Island، جزیره‌ای تنها در بخش شمال شرقی منطقهٔ Dustwallow Marsh واقع شده و برای بازیکنان حدود لول ۵۰ در WoW: Forever طراحی شده است. این دانجن نسبتاً کوتاه است و تکمیل آن احتمالاً حدود ۳۰ دقیقه زمان می‌برد. به‌دست آوردن کوئست‌های آن آسان است؛ به‌طوری‌که برای هر فکشن سه کوئست در بیرون دانجن وجود دارد و یک کوئست مخفی نیز در درون دانجن قرار گرفته است.",
    {
     "t": "note",
-    "x": "کوئست مخفی The Man in the Iron Chains تنها در شرایطی فعال می‌شود که The Questioner هنوز زنده باشد.",
+    "x": "کوئست مخفی داخل دانجن ۲۵ طلا پاداش می‌دهد و تنها در صورتی ظاهر می‌شود که از یک باس رد شوید و او را نکشید. پس از گرفتن کوئست، می‌توانید آن باس را برای هدف مأموریت شکست دهید. این کوئست فقط در صورتی پدیدار می‌شود که The Questioner هنوز زنده باشد.",
     "kind": "tip"
    },
    {
     "t": "h",
-    "x": "فهرست کوئست‌های دانجن"
+    "x": "کوئست‌های دانجن و نحوهٔ شروع آن‌ها"
    },
    {
     "t": "table",
     "head": [
-     "کوئست",
+     "نام کوئست",
      "لول",
-     "مکان و شروع‌کننده"
+     "محل شروع و توضیحات پیش‌نیاز"
     ],
     "rows": [
      [
       "The Dragon's Journal",
       "۴۶",
-      "Alterac Mountains, Dalaran - Archmage Lan'dalock /way 15.6 73.6"
+      "Alterac Mountains در Dalaran از Archmage Lan'dalock در مختصات 15.6 73.6"
      ],
      [
-      "A Bit of Wet Work (منجر به Somber News)",
+      "A Bit of Wet Work",
       "48",
-      "Dustwallow Marsh, Theramore Graveyard - Sully McCleary /way 63.4 42.4 (آغاز با Our Man in Theramore از Master Mathias Shaw در Old Town شهر Stormwind City)"
+      "Dustwallow Marsh در Theramore Graveyard از Sully McCleary در مختصات 63.4 42.4 (منجر به Somber News می‌شود؛ پیش‌نیاز: شروع با Our Man in Theramore از Master Mathias Shaw در Old Town شهر Stormwind City)"
      ],
      [
       "The Secret Prison",
       "48",
-      "Dustwallow Marsh, Theramore Graveyard - Sully McCleary /way 63.4 42.4 (آغاز با Our Man in Theramore از Master Mathias Shaw در Old Town شهر Stormwind City)"
+      "Dustwallow Marsh در Theramore Graveyard از Sully McCleary در مختصات 63.4 42.4 (پیش‌نیاز: شروع با Our Man in Theramore از Master Mathias Shaw در Old Town شهر Stormwind City)"
      ],
      [
-      "No Orc Left Behind (منجر به The Honor of the Kor'kron)",
+      "No Orc Left Behind",
       "48",
-      "Dustwallow Marsh, Alcaz Island - Sergeant Ulka /way 33.4 38 (آغاز با The Missing Kor'kron از Eitrigg در Orgrimmar /way 34.6 38.6)"
+      "Dustwallow Marsh در Alcaz Island از Sergeant Ulka در مختصات 33.4 38 (منجر به The Honor of the Kor'kron می‌شود؛ پیش‌نیاز: شروع از The Missing Kor'kron از Eitrigg در Orgrimmar در مختصات 34.6 38.6)"
      ],
      [
       "A Little Payback",
       "48",
-      "Dustwallow Marsh, Alcaz Island - Sergeant Ulka /way 33.4 38 (آغاز با The Missing Kor'kron از Eitrigg در Orgrimmar /way 34.6 38.6)"
+      "Dustwallow Marsh در Alcaz Island از Sergeant Ulka در مختصات 33.4 38 (پیش‌نیاز: شروع از The Missing Kor'kron از Eitrigg در Orgrimmar در مختصات 34.6 38.6)"
      ],
      [
       "Blood Red Bandanas",
       "48",
-      "Dustwallow Marsh, Alcaz Island - Sergeant Ulka /way 33.4 38 (آغاز با The Missing Kor'kron از Eitrigg در Orgrimmar /way 34.6 38.6)"
+      "Dustwallow Marsh در Alcaz Island از Sergeant Ulka در مختصات 33.4 38 (پیش‌نیاز: شروع از The Missing Kor'kron از Eitrigg در Orgrimmar در مختصات 34.6 38.6)"
      ],
      [
       "The Man in the Iron Chains",
       "48",
-      "درون دانجن - Mason Connery پس از کشتن باس آخر (فقط در صورت زنده بودن The Questioner)"
+      "داخل دانجن از Mason Connery پس از کشتن باس نهایی؛ تنها در صورتی ظاهر می‌شود که The Questioner زنده باشد."
      ]
     ]
    },
-   "بازیکنان می‌توانند پیش از ورود به دانجن، پیش‌نیازهای مأموریت‌های هر جناح را از طریق Stormwind City و Orgrimmar دنبال کنند تا تمامی کوئست‌های مربوطه را دریافت نمایند."
+   "با رعایت این پیش‌نیازها و دنبال کردن زنجیره‌های مأموریت در شهرهای اصلی، بازیکنان می‌توانند پیش از ورود به دانجن تمامی کوئست‌های مربوط به فکشن خود را آماده کنند."
   ],
   "tags_fa": [
-   "WoW Forever",
    "دانجن",
    "راهنمای کوئست",
-   "Alcaz Prison"
+   "WoW Forever"
   ]
  },
  "generator": {
   "model": "gemini-flash-latest",
   "via": "auto-gemini",
-  "written_at": "2026-11-21T20:15:15Z"
+  "written_at": "2026-11-21T21:21:19Z"
  }
 }
