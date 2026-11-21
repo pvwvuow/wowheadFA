@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T17:02:43Z",
+ "generated": "2026-11-21T20:06:48Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3392,6 +3392,13 @@
  ],
  "queue": [
   {
+   "id": 383950,
+   "title_en": "Maximum Dungeons Per Hour Reduced in WoW: Forever Hotfix - Solo Gold Farming Nerf?",
+   "url": "https://www.wowhead.com/news=383950",
+   "category": "Forever",
+   "published_at": "2026-11-21T19:26:27Z"
+  },
+  {
    "id": 383934,
    "title_en": "All Quests for New Alcaz Prison Dungeon in WoW: Forever",
    "url": "https://www.wowhead.com/news=383934",
@@ -3663,13 +3670,6 @@
    "url": "https://www.wowhead.com/news=383540",
    "category": "Forever",
    "published_at": "2026-10-22T16:21:06Z"
-  },
-  {
-   "id": 383487,
-   "title_en": "The Current State of Protection Paladins in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383487",
-   "category": "Forever",
-   "published_at": "2026-10-21T19:06:30Z"
   }
  ]
 }
