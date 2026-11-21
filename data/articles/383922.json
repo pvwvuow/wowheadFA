@@ -68,7 +68,7 @@
   ],
   "chars": 521
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383922/1.jpg",
@@ -78,5 +78,36 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383922/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 1,
- "hold_at": "2026-11-20T22:34:43Z"
+ "hold_at": "2026-11-20T22:34:43Z",
+ "article_fa": {
+  "title_fa": "موسیقی جدید Winter Veil در PTR پچ 12.1.7 به یک مینی‌گیم اشاره دارد",
+  "lead_fa": "فایل صوتی جدیدی برای رویداد Winter Veil به سرور آزمایشی پچ 12.1.7 اضافه شده که حاوی اشاره‌ای به یک مینی‌گیم اختصاصی است.",
+  "body_fa": [
+   "در سرورهای PTR پچ 12.1.7، یک قطعه موسیقی جدید برای رویداد Winter Veil قرار گرفته است. نام این فایل موسیقی به یک مینی‌گیم جدید با عنوان Winter Veil Mini-Game اشاره دارد.",
+   {
+    "t": "h",
+    "x": "به‌روزرسانی‌های رویداد Winter Veil برای سال 2026"
+   },
+   "رویداد Winter Veil در پچ 12.1.7 همراه با آپدیت‌های تازه‌ای خواهد بود که شامل محتواهای زیر است:",
+   {
+    "t": "ul",
+    "xs": [
+     "مانت جدید Winterrrgl's Pine-Powered Candy Cane Contraption",
+     "پت جدید",
+     "دکور جدید"
+    ]
+   },
+   "هنوز به‌طور دقیق مشخص نیست که این مینی‌گیم چه سازوکاری دارد، اما این احتمال مطرح است که با فعالیت‌های جدید Neighborhood که احتمالاً همراه با تعطیلات این فصل عرضه می‌شوند، مرتبط باشد."
+  ],
+  "tags_fa": [
+   "PTR",
+   "Winter Veil",
+   "پچ 12.1.7"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-21T02:07:06Z"
+ }
 }

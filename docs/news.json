@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T01:38:49Z",
+ "generated": "2026-11-21T02:18:38Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -221,6 +221,49 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383890/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383922,
+   "slug": "new-winter-veil-music-on-patch-12-1-7-ptr-references-winter-veil-mini",
+   "title_fa": "موسیقی جدید Winter Veil در PTR پچ 12.1.7 به یک مینی‌گیم اشاره دارد",
+   "lead_fa": "فایل صوتی جدیدی برای رویداد Winter Veil به سرور آزمایشی پچ 12.1.7 اضافه شده که حاوی اشاره‌ای به یک مینی‌گیم اختصاصی است.",
+   "body_fa": [
+    "در سرورهای PTR پچ 12.1.7، یک قطعه موسیقی جدید برای رویداد Winter Veil قرار گرفته است. نام این فایل موسیقی به یک مینی‌گیم جدید با عنوان Winter Veil Mini-Game اشاره دارد.",
+    {
+     "t": "h",
+     "x": "به‌روزرسانی‌های رویداد Winter Veil برای سال 2026"
+    },
+    "رویداد Winter Veil در پچ 12.1.7 همراه با آپدیت‌های تازه‌ای خواهد بود که شامل محتواهای زیر است:",
+    {
+     "t": "ul",
+     "xs": [
+      "مانت جدید Winterrrgl's Pine-Powered Candy Cane Contraption",
+      "پت جدید",
+      "دکور جدید"
+     ]
+    },
+    "هنوز به‌طور دقیق مشخص نیست که این مینی‌گیم چه سازوکاری دارد، اما این احتمال مطرح است که با فعالیت‌های جدید Neighborhood که احتمالاً همراه با تعطیلات این فصل عرضه می‌شوند، مرتبط باشد."
+   ],
+   "tags_fa": [
+    "PTR",
+    "Winter Veil",
+    "پچ 12.1.7"
+   ],
+   "items": [],
+   "title_en": "New Winter Veil Music on Patch 12.1.7 PTR References \"Winter Veil Mini-Game\"",
+   "source_url": "https://www.wowhead.com/news=383922",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383922-new-winter-veil-music-on-patch-12-1-7-ptr-references-winter-veil-mini.html",
+   "published_at": "2026-11-20T14:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383922/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383922/1.jpg",
      "cap": ""
     }
    ]
@@ -3345,47 +3388,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383835,
-   "slug": "dual-spec-costs-50-gold-at-level-40-unlock-secondary-talent-tree",
-   "title_fa": "هزینه ۵۰ گلد برای Dual Spec در لول ۴۰ در WoW: Forever",
-   "lead_fa": "قابلیت Dual Spec از ابتدای عرضه در WoW: Forever در دسترس است و بازیکنان می‌توانند در لول ۴۰ با پرداخت ۵۰ گلد درخت استعداد دوم خود را آزاد کنند.",
-   "body_fa": [
-    "قابلیت Dual Spec در سرورهای WoW: Forever در دسترس قرار دارد، اما فعال‌سازی آن نیازمند پرداخت ۵۰ گلد است. بر خلاف سرورهای Classic 20th Anniversary Realms که در زمان عرضه شامل این ویژگی نبودند، بازیکنان در WoW: Forever در صورتی که گلد کافی داشته باشند، از همان ابتدا به این قابلیت دسترسی دارند.",
-    "پس از رسیدن به لول ۴۰، مربی کلاس شما (Class Trainer) این امکان را فراهم می‌کند که درخت استعداد دوم (Secondary Talent Tree) خود را با ۵۰ گلد خریداری کنید. این ویژگی به شما اجازه می‌دهد تا دو چینش استعداد کاملاً مجزا داشته باشید و هر زمان که تمایل داشتید بین آن‌ها جابه‌جا شوید.",
-    {
-     "t": "h",
-     "x": "مزایای تلنت دوم و چالش هزینه"
-    },
-    "از آنجا که تغییر مکرر تلنت‌ها (Respeccing) هزینه فزاینده‌ای از گلد را به همراه دارد، Dual Spec به بازیکنان این امکان را می‌دهد که برای اهداف مختلف مانند Tank و DPS یا حالت‌های PvE و PvP دو ستاپ مجزا آماده کنند؛ این انعطاف‌پذیری به‌ویژه برای کسانی که قصد تغییر مداوم تلنت را دارند بسیار کاربردی است.",
-    "مبلغ ۵۰ گلد هزینه بالایی محسوب می‌شود، مخصوصاً که آزادسازی آن دقیقاً در همان لولی اتفاق می‌افتد که بازیکنان مایل به خرید مانت هستند. در صورتی که بخواهید هم مهارت Apprentice Riding و هم قابلیت Dual Spec را هم‌زمان به دست آورید، در مجموع باید ۱۵۰ گلد پرداخت کنید.",
-    {
-     "t": "note",
-     "x": "جمع‌آوری این هزینه با پیشرفت لول، افزایش قیمت فروش آیتم‌ها و تغییرات گلد دریافتی از کوئست‌ها احتمالاً آسان‌تر خواهد شد؛ اما تا آن زمان ممکن است ناچار شوید میان مانت یا Dual Spec یکی را اولویت قرار دهید.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "Dual Spec",
-    "تلنت"
-   ],
-   "items": [],
-   "title_en": "Dual Spec Costs 50 Gold at Level 40 - Unlock Secondary Talent Tree",
-   "source_url": "https://www.wowhead.com/news=383835",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383835-dual-spec-costs-50-gold-at-level-40-unlock-secondary-talent-tree.html",
-   "published_at": "2026-11-11T18:29:47Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383835/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383835/1.png",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3402,13 +3404,6 @@
    "url": "https://www.wowhead.com/news=383933",
    "category": "Forever",
    "published_at": "2026-11-20T15:00:00Z"
-  },
-  {
-   "id": 383922,
-   "title_en": "New Winter Veil Music on Patch 12.1.7 PTR References \"Winter Veil Mini-Game\"",
-   "url": "https://www.wowhead.com/news=383922",
-   "category": "PTR",
-   "published_at": "2026-11-20T14:00:00Z"
   },
   {
    "id": 383940,
@@ -3668,6 +3663,13 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
+  },
+  {
+   "id": 383519,
+   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383519",
+   "category": "Live",
+   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
