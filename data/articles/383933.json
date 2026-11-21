@@ -460,5 +460,88 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383933/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383933/1.jpg",
+ "last_rejected": {
+  "title_fa": "راهنمای کوئست‌های دانجن‌های لول ۳۰ تا ۴۰ در WoW Forever",
+  "lead_fa": "تمام کوئست‌های مربوط به دانجن‌های بازهٔ لول ۳۰ تا ۴۰ در سرور WoW Forever به همراه موقعیت دقیق شروع آن‌ها گردآوری شده است.",
+  "body_fa": [
+   "بازهٔ لول ۳۰ تا ۴۰ شامل یک دانجن کاملاً جدید به نام The Drowned City است. دانجن City of Dalaran نیز هرچند توسط بازیکنان اواخر لول بیست انجام می‌شود، اما در این محدوده قرار می‌گیرد. این سیاه‌چاله‌ها شامل باس‌ها و کوئست‌های متعددی هستند.",
+   {
+    "t": "note",
+    "x": "دانجن The Drowned City طولانی است و به طور میانگین دست‌کم یک ساعت زمان می‌برد، بنابراین زمان کافی برای آن در نظر بگیرید.",
+    "kind": "warn"
+   },
+   {
+    "t": "h",
+    "x": "کوئست‌های Gnomeregan"
+   },
+   "درجه سختی این دانجن از لول ۲۵ (سخت)، ۳۰ (متوسط)، ۳۳ (هم‌سطح) تا ۳۸ (آسان) دسته‌بندی می‌شود.",
+   {
+    "t": "ul",
+    "xs": [
+     "کوئست Rig Wars لول ۲۵ در Orgrimmar مختصات 76 25 از Nogg",
+     "کوئست پیش‌نیاز Chief Engineer Scooty لول ۲۰ در Orgrimmar مختصات 76 25 از Sovik پس از گرفتن Rig Wars",
+     "کوئست Gnomer-gooooone! لول ۲۰ در Strangethorn Vale در Booty Bay مختصات 27 77 از Scooty",
+     "کوئست Save Techbot's Brain! لول ۲۰ در Ironforge مختصات 69 50 از Tinkmaster Overspark",
+     "کوئست Gyrodrillmatic Excavationators لول ۲۰ در Stormwind مختصات 55 12 از Shoni the Shilent",
+     "کوئست Essential Artificials لول ۲۴ در Ironforge مختصات 47 64 از Klockmort Spannerspan",
+     "کوئست Data Rescue لول ۲۵ در Ironforge مختصات 69 48 از Master Mechanic Castpipe",
+     "کوئست The Grand Betrayal لول ۲۵ در Ironforge مختصات 68 49 از High Tinker Mekkatorque",
+     "کوئست Gnogaine لول ۲۰ در Dun Morogh مختصات 45 49 از Ozzie Togglevolt",
+     "کوئست پیش‌نیاز The Only Cure is More Green Glow لول ۲۰ از Ozzie Togglevolt پس از Gnogaine",
+     "کوئست The Sparklematic 5200! لول ۲۵ با Grime-Encrusted Object",
+     "کوئست اسکورت A Fine Mess لول ۲۰ از Kernobee درون دانجن",
+     "کوئست Grime-Encrusted Ring لول ۲۸ از لوت Grime-Encrusted Ring"
+    ]
+   },
+   "کوئست‌های City of Dalaran درجه سختی از لول ۲۶ (سخت)، ۲۹ (متوسط)، ۳۱ (هم‌سطح) تا ۳۴ (آسان) است.",
+   {
+    "t": "ul",
+    "xs": [
+     "کوئست The Grave Knight لول ۲۴ در Tarren Mill مختصات 62 21 از Melisara",
+     "کوئست Source of Power لول ۲۴ در Undercity مختصات 46 74 از Doctor Martin Felben",
+     "کوئست Opportunistic Education لول ۲۴ درون دانجن از Rexxie Copperclutch",
+     "کوئست پیش‌نیاز Heart of Disruption لول ۲۴ آغاز با Prison Break In در Hillsbrad Foothills مختصات 62 21 از Magus Wordeen Voidglare",
+     "کوئست Power Overwhelming لول ۲۴ در Stormwind مختصات 49 88 از High Sorcerer Andromath",
+     "کوئست پیش‌نیاز Heart of Disruption لول ۳۰ و Starving Arcane لول ۳۰ آغاز با An Alarming Request در Southshore مختصات 48 60 از Emissary Jacques",
+     "کوئست A Green Sample لول ۲۴ در Stormwind مختصات 32 63 از Shylamiir"
+    ]
+   },
+   "کوئست‌های Razorfen Kraul سختی این بخش شامل لول ۲۵ (سخت)، ۲۸ (متوسط)، ۳۱ (هم‌سطح) و ۳۴ (آسان) است.",
+   {
+    "t": "ul",
+    "xs": [
+     "کوئست A Vengeful Fate لول ۲۹ در Thunder Bluff مختصات 37 29 از Auld Stonespire",
+     "کوئست Going, Going, Guano! لول ۳۰ در Undercity مختصات 48 69 از Master Apothecary Faranell پیش‌نیاز Hearts of Zeal",
+     "کوئست An Unholy Alliance لول ۲۸ لوت از Charlga Razorflank پیش‌نیاز کوئست هم‌نام در Razorfen Downs",
+     "کوئست The Crone of the Kraul لول ۲۹ مختصات 89 46 از Falfindel Waywarder پس از تکمیل Lonebrow's Journal",
+     "کوئست Mortality Wanes لول ۲۵ درون دانجن از Heralath Fallowbrook",
+     "کوئست Blueleaf Tubers لول ۲۰ در The Barrens مختصات 62 37 از Mebok Mizzyrix",
+     "کوئست Willix the Importer لول ۲۲ اسکورت در خیمه نزدیک باس نهایی"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "کوئست‌های دانجن The Drowned City"
+   },
+   "درجه سختی این دانجن جدید شامل لول ۳۰ (سخت)، ۳۷ (متوسط)، ۴۰ (هم‌سطح) و ۴۳ (آسان) است.",
+   {
+    "t": "ul",
+    "xs": [
+     "کوئست‌های Magics of the Drowned City و Take Two With Water لول ۳۰ در Southshore مختصات 50.6 57.0 از Loremaster Dibbs پس از زنجیره The Second Rebellion یا Bad Medicine و Troll Witchery",
+     "کوئست Ancient Gurubashi Secrets لول ۳۴ در Alterac Mountains مختصات 15.6 73.6 از Archmage Timear",
+     "کوئست The Drowned City لول ۳۰ در Grom'Gol مختصات 32.2 27.8 از Kin'weelay با پیش‌نیاز The Vile Reef",
+     "کوئست The Only Good Brinescale... لول ۳۰ مختصات 32.2 28.8 از Commander Aggro'gosh نیازمند Enemies in the Water",
+     "کوئست Ancient Gurubashi Idol لول ۳۰ در Mulgore مختصات 32.2 27.8 از Mazu'kon",
+     "کوئست‌های Shady Saltseers و The Saltseer Captain لول ۳۴ در Booty Bay مختصات 27.0 77.2 از Krazek"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "کوئست‌های Scarlet Monastery و Razorfen Downs"
+   },
+   "بخش‌های Armory و Cathedral در Scarlet Monastery در بازه لول ۳۰ تا ۴۰ با درجه‌های ۲۶، ۳۲، ۳۷ و ۴۵ قرار دارند. کوئست Into The Scarlet Monastery لول ۳۳ در Undercity مختصات 56 92 از Varimathras، کوئست Hearts of Zeal لول ۳۰ مختصات 48 69 و 49 70، و کوئست In the Name of the Light لول ۳۴ در Southshore مختصات 51 58 با شروع از Brother Anton در دسترس هستند. بال Graveyard کوئست Vorrel's Revenge لول ۲۵ را دارد و بال Library کوئست‌های Compendium of the Fallen لول ۲۸ مختصات 36 26، Test of Lore لول ۲۵ مختصات 57 65 (شروع با Test of Faith در مختصات 54 42)، Mythology of the Titans لول ۲۸ مختصات 75 12 و Rituals of Power لول ۳۰ مختصات 78 75 پس از Journey to the Marsh را شامل می‌شود. در دانجن Razorfen Downs با درجات سختی لول ۳۵، ۳۷، ۳۹ و ۴۴، ماموریت‌های The Coldbringer's Eye لول ۳۴ در مختصات 35 23 و همچنین در Dalaran، کوئست Bring the End لول ۳۷ در مختصات 74 33، کوئست An Unholy Alliance لول ۲۸ مختصات 36 26، Bring the Light لول ۳۹ مختصات 39 27 از Archbishop Benedictus، کوئست A Host of Evil لول ۲۸ مختصات 16 74 از Archmage Lan'dalock، و ماموریت‌های Scourge of the Downs و Extinguishing the Idol لول ۳۲ از Belnistrasz قرار دارند."
+  ],
+  "tags_fa": []
+ }
 }

@@ -1,8 +1,239 @@
 {
- "generated": "2026-11-20T23:49:44Z",
+ "generated": "2026-11-21T01:00:18Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383946,
+   "slug": "itemization-of-crafted-tier-sets-revealed-in-wow-forever-s-first-raid",
+   "title_fa": "مشخصات قطعات دست‌ساز Tier Set در نخستین رید WoW: Forever مشخص شد",
+   "lead_fa": "آمار و ویژگی‌های نسخه‌های ساختنی ست‌های Tier مربوط به نخستین رید تیر WoW: Forever در جریان یک هاتفیکس به نمایش درآمد.",
+   "body_fa": [
+    "مشخصات و آمار نسخه‌های قابل ساخت تجهیزات Tier Set از نخستین رید تیر WoW: Forever پس از یک هاتفیکس مشخص شده است. Blizzard در گفتگو با Wowhead تایید کرده که نمایش این آمار کاملاً عمدی بوده و مستقیماً داخل بازی قابل مشاهده است؛ زیرا پنهان‌سازی اطلاعات آیتم‌ها شامل آیتم‌های فروشنده‌ها و Recipeها نمی‌شود. با این حال، تایید شده که ست‌بونس‌های فعلی حالت موقت (Placeholder) دارند و در آینده به‌روزرسانی خواهند شد.",
+    "نخستین رید تیر بازی در تاریخ ۹ دسامبر به‌شکل جهانی عرضه می‌شود. طبق مصاحبه‌ای با Crix، مشخص شده که قطعات Tier از هر سه رید دراپ خواهند شد، اما نسخه‌های دست‌ساز این ست‌ها می‌توانند گزینه‌ای مناسب برای بازیکنانی باشند که گروه ۴۰ نفره ندارند یا شانس خوبی در دریافت لوت نداشته‌اند.",
+    {
+     "t": "h",
+     "x": "ویژگی Artisan's Tier و نحوه دسترسی"
+    },
+    "تمام این قطعات ساختنی دارای یک ویژگی خاص به نام Artisan's Tier (1) هستند. به نظر می‌رسد این ویژگی نشان می‌دهد که بازیکنان می‌توانند دقیقاً یک قطعه از ست رید را بسازند؛ سازوکاری که می‌تواند نوعی سیستم Bad Luck Protection برای رسیدن به ست‌بونس بعدی باشد.",
+    {
+     "t": "note",
+     "x": "در نسخه بتا، این دستورها از فروشنده‌ای به نام Aisarra Nightmeadow در ازای Malleable Essence of Nature خریداری می‌شدند، اما در آخرین بیلد Forever این آیتم‌ها دیگر توسط این فروشنده فروخته نمی‌شوند.",
+     "kind": "info"
+    },
+    "هنوز مشخص نیست که آیا این Recipeها دوباره اضافه خواهند شد یا پس از آغاز به کار ریدها روش‌های تازه‌ای برای به‌دست آوردن آن‌ها در نظر گرفته می‌شود. همچنین آیتم‌های خود ریدها تا زمان انتشار در ۹ دسامبر و دراپ شدن از باس‌ها پنهان باقی خواهند ماند.",
+    {
+     "t": "ul",
+     "xs": [
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+     ]
+    }
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "هاتفیکس",
+    "رید",
+    "تجهیزات و لوت"
+   ],
+   "items": [],
+   "title_en": "Itemization of Crafted Tier Sets Revealed in WoW: Forever's First Raid Tier",
+   "source_url": "https://www.wowhead.com/news=383946",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383946-itemization-of-crafted-tier-sets-revealed-in-wow-forever-s-first-raid.html",
+   "published_at": "2026-11-20T20:51:19Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383946/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383946/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383943,
+   "slug": "layer-swap-and-other-targeted-layering-addons-will-be-disabled-soon-in",
+   "title_fa": "از کار افتادن ادان‌های هدف‌گیری Layer در WoW: Forever با تغییرات API",
+   "lead_fa": "بلیزارد با ایجاد تغییراتی در API بازی، امکان هدف‌گیری دقیق و جابه‌جایی هدفمند میان لایه‌ها را در به‌روزرسانی آیندهٔ WoW: Forever غیرفعال می‌کند.",
+   "body_fa": [
+    "در هاتفیکس پیش‌روی بازی WoW: Forever، ادان‌های هدف‌گیری لایه‌ها دیگر کار نخواهند کرد؛ چرا که فراخوانی‌های مختلف API که شناسهٔ رلم (realm ID) را نمایش می‌دادند، به‌زودی مبهم‌سازی (obfuscated) خواهند شد.",
+    "یکی از ادان‌های محبوب فعلی در CurseForge برنامهٔ Layer Swap است که به تسهیل جابه‌جایی میان لایه‌ها (layer hopping) کمک می‌کند. بازیکنان به دلایل متعددی از این قابلیت استفاده می‌کنند؛ دلیل اصلی پیدا کردن فازی تازه در زمان وجود رقابت در فاز فعلی است و همچنین در مواقعی که برخی بازیکنان در لایه‌های خاصی با باگ مواجه می‌شوند کاربرد دارد. این ادان به کاربران امکان می‌دهد تعداد تقریبی لایه‌ها را ببینند، متوجه شوند آیا قبلاً در یک لایه حضور داشته‌اند یا خیر، و مستقیماً وارد لایهٔ مدنظرشان شوند.",
+    {
+     "t": "h",
+     "x": "عملکرد ادان‌های جابه‌جایی لایه"
+    },
+    "ادانی مانند Layer Swap دو کار اصلی انجام می‌دهد:",
+    {
+     "t": "ul",
+     "xs": [
+      "تسهیل دعوت به لایهٔ جدید از طریق خودکارسازی ارتباطات.",
+      "امکان ردیابی و هدف‌گیری لایه‌های مشخص."
+     ]
+    },
+    "بلیزارد از زمان اکسپنشن Midnight، تغییرات ادان‌ها را از طریق دیسکورد WoWUIDev به توسعه‌دهندگان اطلاع‌رسانی می‌کند و اکنون با انتقال Forever به معماری مدرن، ارائهٔ این به‌روزرسانی‌ها در آن سرور دیسکورد نیز آغاز شده است.",
+    {
+     "t": "h",
+     "x": "اطلاعیهٔ تغییرات API"
+    },
+    {
+     "t": "quote",
+     "x": "در نسخهٔ آزمایشی Midnight 12.1.7 PTR و بخش Addon Security: شناسهٔ realm ID در GUIDهای مربوط به creature، vehicle، pet و game object همراه با server ID و spawn ID مبهم‌سازی می‌شود. این تغییر در هاتفیکس آیندهٔ 1.60.1 برای Forever نیز اعمال خواهد شد.\n\nدر به‌روزرسانی Forever 1.60.1 Live Update 2 بخش متفرقه: رابط‌های مختلف API که نام یا شناسهٔ رلم را برمی‌گردانند، به جای این مقادیر یک رشتهٔ خالی یا مقدار صفر بازمی‌گردانند. این شامل مواردی مانند GetRealmName، GetRealmID و توابع C_BattleNet می‌شود که خروجی اکانت بازی آن‌ها حاوی اطلاعات رلم است. این تغییر فقط مربوط به WoW Forever است.",
+     "by": "Blizzard — WoWUIDev Discord"
+    },
+    {
+     "t": "note",
+     "x": "تغییرات مربوط به برگرداندن رشتهٔ خالی یا صفر در توابع نام و شناسهٔ رلم، منحصراً روی WoW Forever اعمال می‌شود.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "تأثیر بر ادان‌ها و وضعیت آینده"
+    },
+    "این تغییرات با حذف روش‌های تشخیص شناسهٔ رلم، ادان‌های جابه‌جایی لایه را از کار می‌اندازند. بر اساس توضیحات سازندهٔ ادان Layer Swap، جابه‌جایی زمانی رخ می‌دهد که بازیکن وارد گروه کاربری در لایهٔ دیگر شود و ادان لایهٔ فعلی بازیکن را با خواندن GUID موجودات (creature GUIDs) تشخیص می‌دهد. با حذف این اطلاعات، امکان مقایسه و تمایز لایه‌ها از دست خواهد رفت.",
+    "این به‌روزرسانی مانع تعویض کلی لایه‌ها در آینده نمی‌شود، اما هدف‌گیری مستقیم لایه‌های خاص دیگر امکان‌پذیر نخواهد بود؛ مگر آن‌که راهکار دیگری پیدا شود. در نتیجه، بازیکنان باید به شکل تصادفی میان لایه‌ها جابه‌جا شوند تا لایهٔ مورد نظر خود را بیابند و هیچ تضمینی وجود ندارد که فرد دیگر حتماً در لایهٔ متفاوتی قرار داشته باشد."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "WoW Forever",
+    "ادان",
+    "تغییرات API"
+   ],
+   "items": [],
+   "title_en": "Layer Swap and Other Targeted Layering Addons Will Be Disabled Soon in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383943",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383943-layer-swap-and-other-targeted-layering-addons-will-be-disabled-soon-in.html",
+   "published_at": "2026-11-20T19:00:55Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383943/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383943/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383944,
+   "slug": "wow-forever-class-design-patch-12-1-7-wow-anniversary-wow-weekly",
+   "title_fa": "مرور اخبار هفتگی WoW: پچ 12.1.7، جشن سالگرد و جزئیات Talebound",
+   "lead_fa": "بلیزارد مهم‌ترین رویدادها و اخبار این هفتهٔ بازی را مرور کرده است که پادکست طراحی کلاس‌ها، تاریخ انتشار محتواهای جدید و جشن سالگرد ۲۲ سالگی را شامل می‌شود.",
+   "body_fa": [
+    "در خلاصهٔ هفتگی اخبار World of Warcraft، موضوعاتی چون بررسی طراحی کلاس‌ها در پادکست اختصاصی، پچ 12.1.7، رویداد سالگرد بازی و جزئیات محتواهای تازه پوشش داده شده است.",
+    {
+     "t": "h",
+     "x": "پادکست WoW: Forever و طراحی کلاس‌ها"
+    },
+    "میزبان پادکست WoW: Forever یعنی Countdown To Classic در گفتگویی با Aidan Moon (طراح ارشد بازی) و Kris Zierhut (طراح اصلی بازی)، به بررسی دقیق موضوع طراحی کلاس‌ها پرداخته است.",
+    {
+     "t": "h",
+     "x": "انتشار Midnight: Echoes of the Worldcore و حالت Talebound"
+    },
+    "محتوای Midnight: Echoes of the Worldcore در تاریخ ۱ دسامبر هم‌زمان با تعمیرات دوره‌ای سرورها منتشر می‌شود. بازیکنان به Dornogal بازمی‌گردند تا داستان‌های Storyteller را در حالت Talebound تجربه کنند و همراه با Li Li Stormstout به یک Lorewalk در دل تاریخچه‌های Azeroth بروند.",
+    "حالت Talebound یک تجربهٔ اکشن RPG در بخش PvE است که به‌صورت تک‌نفره یا همراه با دوستان روی درجه‌های سختی Normal، Veteran و Heroic قابل بازی خواهد بود. این بخش شامل دشمنان، باس‌ها، معماها، ترژرها و رلیک‌ها است و ماجراجویی‌های آن فراتر از Quillgrave جریان دارد.",
+    "پاداش‌های ظاهری این بخش با واحد پولی Bound Silver خریداری می‌شوند که متصل به اکانت (Warband-bound) است و از طریق انجام کوئست‌ها، اچیومنت‌ها و پیشرفت در Tales of the Storyteller به دست می‌آید.",
+    {
+     "t": "h",
+     "x": "دریافت تجهیزات Mythic 2/6 از Labyrinth of Kindo'jan"
+    },
+    "در محتوای Labyrinth of Kindo'jan، کاراکتر Wah'du هر هفته بازیکنان را مأمور پاکسازی یک اتاق خاص می‌کند که پاداش آن شامل ۱ عدد Mythical Soul Fragment و ۲,۰۰۰ واحد Undercoin است. در صورت عقب افتادن، او کوئست‌های ردشده را پشت سر هم ارائه می‌دهد تا بازیکنان بتوانند در یک نوبت به روند هفتگی بازگردند.",
+    {
+     "t": "note",
+     "x": "اگر مأموریت‌های بخش داستانی اصلی را به اتمام رسانده‌اید، Labyrinth of Kindo'jan از پیش برای شما باز است؛ در غیر این صورت باید از طریق مسیرهای مشخص‌شده کوئست‌های ورودی را تکمیل کنید.",
+     "kind": "info"
+    },
+    "بازیکنانی که پیش‌نیازها را تمام نکرده‌اند، می‌توانند کوئست The Long Way Around را از Liadrin در شمال Amani Pass (منطقهٔ Eversong Woods) یا کوئست The Labyrinth را از Kul'amara the Fierce در Tokka's Landing دریافت کنند. پس از اتمام Chamber of Rites با حضور Valeera Sanguinar و صحبت با Kinduru، کل این دخمه برای تمام اعضای Warband باز می‌شود. با دنبال کردن دستورها و پاکسازی اتاق‌ها به همان ترتیبی که خواسته شده، می‌توان با جمع‌آوری آیتم‌های Mythical Soul Fragment دو قطعه آیتم دلخواه با رتبهٔ Myth 2/6 از Wah’du, Servant of de Loa دریافت کرد.",
+    {
+     "t": "h",
+     "x": "جشن سالگرد ۲۲ سالگی World of Warcraft"
+    },
+    "رویداد جشن 22nd Anniversary از ۱۷ نوامبر تا ۸ دسامبر در Caverns of Time واقع در Tanaris برگزار می‌شود. بازیکنان در طول این رویداد به‌صورت خودکار یک باف ۱۰٪ برای افزایش دریافت Experience و Reputation دریافت می‌کنند. دسترسی به محل رویداد نیز از طریق پرتال‌های موجود در Orgrimmar و Stormwind امکان‌پذیر است."
+   ],
+   "tags_fa": [
+    "اخبار وارکرافت",
+    "پچ 12.1.7",
+    "سالگرد وارکرافت",
+    "رویداد"
+   ],
+   "items": [],
+   "title_en": "WoW: Forever Class Design, Patch 12.1.7, WoW Anniversary - WoW Weekly",
+   "source_url": "https://www.wowhead.com/news=383944",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383944-wow-forever-class-design-patch-12-1-7-wow-anniversary-wow-weekly.html",
+   "published_at": "2026-11-20T18:02:14Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383944/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383944/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383890,
+   "slug": "unlock-a-dungeon-shortcut-in-wow-forever-with-the-compound-key",
+   "title_fa": "باز کردن میان‌بر سیاه‌چال Krol'dok Stronghold در WoW: Forever با Compound Key",
+   "lead_fa": "بازیکنان در سیاه‌چال Krol'dok Stronghold می‌توانند با ساخت کلید Krol'dok Compound Key، مسیرهای میان‌بر را برای دسترسی سریع‌تر به باس نهایی باز کنند.",
+   "body_fa": [
+    "سیاه‌چال Krol'dok Stronghold یکی از ۹ سیاه‌چال جدید در World of Warcraft Forever است که مأموریتی درون خود دارد؛ با انجام این زنجیره‌کوئست کلیدی می‌سازید که با باز کردن درهای مختلف، مسیر ران‌های بعدی را بسیار کوتاه‌تر می‌کند.",
+    {
+     "t": "h",
+     "x": "مراحل دریافت کلید و منابع مورد نیاز"
+    },
+    "شروع این زنجیره با دریافت آیتم مأموریت Krol'dok Moulding از یک NPC داخل سیاه‌چال به نام Tunk پس از شکست دادن او همراه است. بازیکنان Horde باید این آیتم را به Kreza Darkthorn در Rog’mar و بازیکنان Alliance به Alphonse Dumas در Farholde Keep تحویل دهند که هر دو در Riverglades مستقر هستند.",
+    {
+     "t": "note",
+     "x": "پیش از ورود به سیاه‌چال می‌توانید آیتم‌های ۴ عدد Thick Leather و ۱۲ عدد Iron Bar را آماده کنید تا بلافاصله مأموریت بعدی یعنی Key Ingredients را تحویل داده و Krol'dok Compound Key را به دست آورید.",
+     "kind": "tip"
+    },
+    "مجموع تجربه اهدایی حاصل از این دو مأموریت حدود 7,000 اکسپی است.",
+    {
+     "t": "h",
+     "x": "مسیر میان‌بر به باس آخر"
+    },
+    "پس از تصاحب Krol'dok Compound Key، می‌توانید دوباره وارد سیاه‌چال Krol'dok Stronghold شوید و دو در را باز کنید تا مسیر مستقیمی به باس پایانی، یعنی Overlord Mugg ایجاد شود:",
+    {
+     "t": "ul",
+     "xs": [
+      "درِ نخست دقیقاً پشت سر باس دوم به نام Twilight Commander Zarmok قرار گرفته است.",
+      "در ادامه، دروازه Krol'dok Gate در مسیری به سمت چپ محل اولیه حضور Tunk واقع شده است."
+     ]
+    },
+    "پس از عبور از این در، مسیر را ادامه دهید تا Overlord Mugg را در سمت چپ مشاهده کنید. این مسیر سریع امکان فارم آیتم‌هایی نظیر تالیسمان قدرتمند Emblem of Slamming را که برای محدوده سطحی اوایل دهه 40 بسیار کاربردی است، فراهم می‌کند."
+   ],
+   "tags_fa": [
+    "سیاه چال",
+    "راهنما",
+    "WoW Forever"
+   ],
+   "items": [],
+   "title_en": "Unlock a Dungeon Shortcut in WoW: Forever with the Compound Key",
+   "source_url": "https://www.wowhead.com/news=383890",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383890-unlock-a-dungeon-shortcut-in-wow-forever-with-the-compound-key.html",
+   "published_at": "2026-11-20T16:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383890/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383890/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383939,
    "slug": "ret-paladin-bug-fix-and-seed-hybridizer-available-again-wow-forever-ho",
@@ -3164,378 +3395,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383825,
-   "slug": "explore-the-drowned-city-new-dungeon-in-wow-forever",
-   "title_fa": "سیاه‌چال جدید Drowned City در WoW: Forever معرفی شد",
-   "lead_fa": "سیاه‌چال Drowned City به عنوان چالشی تازه برای محدودهٔ سطح ۳۷ تا ۴۲ در WoW: Forever در دسترس بازیکنان قرار گرفته است.",
-   "body_fa": [
-    "سیاه‌چال Drowned City یک سیاه‌چال ویژهٔ سطوح ۳۷ تا ۴۲ در WoW: Forever است که در Stranglethorn Vale و سواحل دورافتادهٔ غرب این شبه‌جزیره واقع شده است. این سیاه‌چال از نظر درجهٔ سختی جهش بزرگی نسبت به سیاه‌چال‌های پیشین به شمار می‌رود و نیازمند توجه دقیق بازیکنان به مکانیک‌های مبارزه است.",
-    {
-     "t": "h",
-     "x": "کوئست‌ها و پاداش‌ها"
-    },
-    "در مجموع ۵ کوئست برای هر دو جناح Alliance و Horde وجود دارد. دو مورد از آن‌ها در Booty Bay قرار دارند و خنثی هستند، یک مورد به صورت مستقیم برای هر دو جناح قابل دریافت است و دو مورد دیگر نیازمند انجام زنجیره‌کوئست‌های پیش‌نیاز هستند.",
-    {
-     "t": "ul",
-     "xs": [
-      "کوئست Magics of the Drowned City (که به The Web of Magic ختم می‌شود) در سطح ۳۰ در Hillsbrad Foothills و Southshore از Loremaster Dibbs در مختصات 50.6 و 57.0 شروع می‌شود. پیش‌نیاز آن The Second Rebellion یا Bad Medicine است و تکمیل Troll Witchery پیش‌نیاز نهایی آن محسوب می‌شود.",
-      "کوئست Take Two With Water (که به Findings for the Explorer's League ختم می‌شود) در سطح ۳۰ در Hillsbrad Foothills و Southshore از Loremaster Dibbs در مختصات 50.6 و 57.0 آغاز می‌شود و همان پیش‌نیازهای زنجیرهٔ بالا را دارد.",
-      "کوئست Ancient Gurubashi Secrets در سطح ۳۴ در Alterac Mountains و Dalaran از Archmage Timear در مختصات 15.6 و 73.6 قابل دریافت است.",
-      "کوئست The Drowned City در سطح ۳۰ در Stranglethorn Vale و Grom'Gol از Kin'weelay در مختصات 32.2 و 27.8 شروع می‌شود که پیش‌نیاز آن The Vile Reef است.",
-      "کوئست The Only Good Brinescale... در سطح ۳۰ در Stranglethorn Vale و Grom'Gol از Commander Aggro'gosh در مختصات 32.2 و 28.8 آغاز می‌شود؛ پیش‌نیاز آن The Vile Reef و سپس Enemies in the Water است.",
-      "کوئست Ancient Gurubashi Idol در سطح ۳۰ در Mulgore و Skywatcher Plateau از Mazu'kon در مختصات 32.2 و 27.8 شروع می‌شود.",
-      "کوئست‌های Shady Saltseers و The Saltseer Captain در سطح ۳۴ در Stranglethorn Vale و Booty Bay از Krazek در مختصات 27.0 و 77.2 دریافت می‌شوند."
-     ]
-    },
-    "پاداش‌های شاخص این کوئست‌ها شامل آیتم‌های [[item:Ancient Voodoo Pouch]] و [[item:Intrepid Explorer's Chainmail]] از کوئست Findings for the Explorer's League و آیتم [[item:Saltseer's Helm]] از کوئست Shady Saltseers هستند.",
-    {
-     "t": "h",
-     "x": "باس‌های سیاه‌چال"
-    },
-    "این سیاه‌چال دارای ۶ باس اصلی به همراه باس‌های Rare Spawn شامل Umbra و Gill است:",
-    {
-     "t": "ul",
-     "xs": [
-      "باس Zul'Alai: در سلامت پایین جادوی Undying Oath را اجرا می‌کند و باید باف‌های او را زیر نظر داشت. هیلرها و اعضا باید از محدودهٔ استان‌های او فاصله بگیرند.",
-      "باس Var'Taka: ماب‌های اضافی می‌توانند باس را هیل کنند، بنابراین باید سریع کشته یا کنترل شوند. تانک باید جهت باس را برگرداند تا حملات زاویه‌ای به بقیهٔ اعضا نخورد.",
-      "باس Primeval Elemental: اجرای AoE او باید قطع شود تا سرعت اعضا کاهش نیابد.",
-      "باس Captain Dreadrise: توانایی Embrine باعث غرق شدن یار شما می‌شود و باید به سرعت شکسته شود.",
-      "باس Deathless Marrow: سخت‌ترین مبارزهٔ این سیاه‌چال است. این باس مدام Blood Bolt می‌زند و ماب‌های ترول احضار می‌کند. با مرگ هر ادد، باس دی‌باف دریافت آسیب به میزان ۲۰٪ می‌گیرد.",
-      "باس Min'loth the Serpent: باس باید پشت به گروه نگه داشته شود و وضعیت سلامت او برای تغییر شکل رصد گردد. همچنین اثرات منفی Poison باید سریع پاک‌سازی شوند."
-     ]
-    },
-    {
-     "t": "note",
-     "x": "آیتم ترینکت [[item:Heart of the Primeval]] به عنوان نخستین ترینکت با قابلیت افزایش آسیب به صورت on-use در این بازی از لوت‌های شاخص این سیاه‌چال است.",
-     "kind": "info"
-    },
-    {
-     "t": "h",
-     "x": "دشمنان عادی و خطرات محیطی"
-    },
-    "ماب‌های عادی (Trash) این سیاه‌چال بسیار خطرناک هستند و ناهماهنگی در کنترل جمعیت یا اولویت‌بندی اهداف می‌تواند باعث شکست کامل گروه شود. آسیب Poison در این محیط بسیار بالاست و داشتن کلاسی با قابلیت رفع آن اهمیت دارد.",
-    {
-     "t": "note",
-     "x": "ماب Zin'aka یک کوسهٔ بسیار خطرناک است که باس نیست و هیچ لوتی ندارد؛ رویارویی با آن تقریباً قطعی به وایپ ختم می‌شود و بهتر است کاملاً نادیده گرفته شود.",
-     "kind": "warn"
-    }
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "سیاه چال",
-    "راهنما"
-   ],
-   "items": [],
-   "title_en": "Explore the Drowned City: New Dungeon in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383825",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383825-explore-the-drowned-city-new-dungeon-in-wow-forever.html",
-   "published_at": "2026-11-11T16:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383825/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383825/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383829,
-   "slug": "gelkis-or-magram-which-to-pick-in-wow-forever",
-   "title_fa": "انتخاب میان Gelkis و Magram در WoW: Forever",
-   "lead_fa": "بازیکنان در حوالی لول ۳۵ در منطقهٔ Desolace باید میان دو قبیلهٔ رقیب Gelkis و Magram یکی را برای ارتقای اعتبار برگزینند.",
-   "body_fa": [
-    "با رسیدن به منطقهٔ Desolace در حدود لول ۳۵ در World of Warcraft: Forever، امکان همراهی با یکی از دو قبیلهٔ رقیب یعنی Gelkis یا Magram فراهم می‌شود. افزایش اعتبار نزد یکی از این دو، به کاهش اعتبار نزد دیگری منجر خواهد شد.",
-    "صرف‌نظر از جناح انتخابی، دستیابی به هر ۱۲ دستور ساخت حرفه‌ها (۲ دستور برای هر حرفهٔ ساخت‌وساز) امکان‌پذیر است، اما شرایط به‌دست‌آوردن آن‌ها تفاوت دارد.",
-    {
-     "t": "h",
-     "x": "دستورهای ساخت و حرفه‌ها"
-    },
-    "برای شاغلان حرفه‌های خیاطی، چرم‌سازی و افسونگری، انتخاب قبیلهٔ Gelkis مسیر ساده‌تری است. اعضای این قبیله می‌توانند این دستورها را در سطح Honored با پرداخت ۱۵ عدد Carved Centaur Totem خریداری کنند؛ همچنین یک دستور برای هر حرفه از طریق ماموریتی در سطح Friendly به دست می‌آید. در مقابل، بازیکنان متحد با Magram برای دریافت همین موارد باید به سطح Exalted برسند و ۶۰ عدد Carved Centaur Totem بپردازند.",
-    "در طرف دیگر، قبیلهٔ Magram برای داروسازان، آهنگران و مهندسان گزینهٔ بهتری محسوب می‌شود. در این قبیله نیز دستورهای مربوطه در سطح Honored به قیمت ۱۵ عدد Carved Centaur Totem فروخته می‌شوند و یک دستور هم از ماموریت نیازمند اعتبار Friendly اعطا می‌شود؛ در حالی که اعضای Gelkis برای دستیابی به این دستورها باید به Exalted رسیده و ۶۰ عدد Carved Centaur Totem هزینه کنند.",
-    {
-     "t": "h",
-     "x": "پاداش ماموریت‌های پایانی"
-    },
-    "تفاوت مهم دیگر، جوایز کوئست نهایی زنجیره‌های این دو گروه است که حق انتخابی میان چندین سلاح و آیتم دست دوم با کیفیت Rare ارائه می‌دهند.",
-    {
-     "t": "ul",
-     "xs": [
-      "جوایز نهایی Gelkis بیشتر برای کلاس‌های نزدیک‌زن (melee) کاربردی است؛ به‌ویژه آن‌که آیتم دست دوم ارائه‌شده فاقد spellpower بوده و برای کسترها مناسب نیست.",
-      "جوایز نهایی Magram بیشتر مورد توجه کسترها قرار می‌گیرد، هرچند سلاح دونفرهٔ polearm برای برخی کلاس‌های دیگر نیز جذاب خواهد بود."
-     ]
-    },
-    {
-     "t": "note",
-     "x": "انتخاب جناح به شغل‌های کاراکتر و پاداش کوئست نهایی مناسب برای کلاس شما بستگی دارد.",
-     "kind": "tip"
-    }
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "Desolace",
-    "راهنما"
-   ],
-   "items": [],
-   "title_en": "Gelkis or Magram: Which to Pick in WoW: Forever?",
-   "source_url": "https://www.wowhead.com/news=383829",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383829-gelkis-or-magram-which-to-pick-in-wow-forever.html",
-   "published_at": "2026-11-11T15:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383829/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383829/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383827,
-   "slug": "which-darkmoon-faire-buff-should-you-pick-in-wow-forever",
-   "title_fa": "راهنمای انتخاب باف‌های Darkmoon Faire در WoW: Forever",
-   "lead_fa": "در بازی WoW: Forever بازیکنان می‌توانند باف‌های دو ساعته دریافت کنند که مسیر ارتقای سطح و دانجن‌ها را هموارتر می‌سازد.",
-   "body_fa": [
-    "در سرورهای WoW: Forever بازی‌کنندگان امکان دریافت یک باف ۲ ساعته دارند تا به روند Leveling یا پاکسازی Dungeon آنها کمک کند. برای بازیکنان تازه‌کار گزینه‌های متعددی وجود دارد که ارزش برخی از آنها نسبت به بقیه بیشتر است.",
-    {
-     "t": "h",
-     "x": "بهترین گزینه برای Leveling"
-    },
-    "انتخاب رایج و استاندارد در بیشتر شرایط باف Sayge's Dark Fortune of Damage است. این باف ۱۰٪ به Damage اضافه می‌کند و به‌ویژه روند ارتقای سطح را برای نقش‌های Tank و Healer بسیار سریع‌تر پیش می‌برد.",
-    {
-     "t": "table",
-     "head": [
-      "باف",
-      "اثر",
-      "گزینهٔ اول دیالوگ",
-      "گزینهٔ دوم دیالوگ"
-     ],
-     "rows": [
-      [
-       "Sayge's Dark Fortune of Damage",
-       "+10% Damage",
-       "Slay the Man (گزینه ۱)",
-       "Execute your friend painfully (گزینه ۱)"
-      ],
-      [
-       "Sayge's Dark Fortune of Agility",
-       "+10% Agility",
-       "Confiscate the corn (گزینه ۳)",
-       "Keep your brother out without letting him know (گزینه ۳)"
-      ],
-      [
-       "Sayge's Dark Fortune of Strength",
-       "+10% Strength",
-       "Confiscate the corn (گزینه ۳)",
-       "Help your brother in (گزینه ۲)"
-      ],
-      [
-       "Sayge's Dark Fortune of Stamina",
-       "+10% Stamina",
-       "Confiscate the corn (گزینه ۳)",
-       "Speak against your brother openly (گزینه ۱)"
-      ],
-      [
-       "Sayge's Dark Fortune of Intelligence",
-       "+10% Intelligence",
-       "Turn him over to liege (گزینه ۲)",
-       "Show not-so-quiet defiance (گزینه ۲)"
-      ],
-      [
-       "Sayge's Dark Fortune of Spirit",
-       "+10% Spirit",
-       "Turn him over to liege (گزینه ۲)",
-       "Confront the diplomat (گزینه ۱)"
-      ],
-      [
-       "Sayge's Dark Fortune of Armor",
-       "+10% Armor",
-       "Slay the Man (گزینه ۱)",
-       "Let your friend go (گزینه ۳)"
-      ],
-      [
-       "Sayge's Dark Fortune of Resistance",
-       "+25 All Resistances",
-       "Slay the Man (گزینه ۱)",
-       "Execute your friend painlessly (گزینه ۲)"
-      ]
-     ]
-    },
-    {
-     "t": "note",
-     "x": "این باف‌ها همراه با تمام World Buffهای دیگر، در Raid هیچ اثری ندارند و متن هشداری برای یادآوری این موضوع به بازیکنان اضافه شده است.",
-     "kind": "warn"
-    },
-    {
-     "t": "h",
-     "x": "جوایز بلیت‌های دارک‌مون"
-    },
-    "علاوه بر دریافت باف، بازیکنان می‌توانند با تحویل آیتم‌ها در Darkmoon Faire بلیت به دست آورند و آیتم‌های اختصاصی آن را تهیه کنند:",
-    {
-     "t": "ul",
-     "xs": [
-      "کیف ۱۴ اسلاتی با نام [[item:Darkmoon Storage Box]]",
-      "هزینهٔ خرید این کیف ۵۵ بلیت است"
-     ]
-    },
-    "پیش از شروع مسیر لول‌آپ یا رفتن به دانجن‌ها، سر زدن به چادرهای این رویداد و پاسخ به سوالات Sayge بازدهی شخصیت شما را به شکلی چشمگیر بالا می‌برد."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "Darkmoon Faire",
-    "باف‌ها",
-    "راهنما"
-   ],
-   "items": [],
-   "title_en": "Which Darkmoon Faire Buff Should You Pick in WoW: Forever?",
-   "source_url": "https://www.wowhead.com/news=383827",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383827-which-darkmoon-faire-buff-should-you-pick-in-wow-forever.html",
-   "published_at": "2026-11-11T14:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383827/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383827/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383837,
-   "slug": "hunter-pet-nerf-and-enhancement-shaman-changes-wow-forever-hotfixes-fo",
-   "title_fa": "هاتفیکس‌های World of Warcraft: Forever در ۱۰ نوامبر ۲۰۲۶ منتشر شد",
-   "lead_fa": "بلیزارد فهرست تازه‌ای از هاتفیکس‌های سرور WoW: Forever را منتشر کرده که شامل نرف پت‌های Hunter، تغییرات ساختاری در Enhancement Shaman و رفع باگ‌های مختلف است.",
-   "body_fa": [
-    "فهرست جدیدی از هاتفیکس‌های سرور WoW: Forever برای تاریخ ۱۰ نوامبر 2026 اعمال شد که تغییراتی در عملکرد چندین کلاس، حرفه‌ها، سیستم حراجی و مأموریت‌ها به همراه دارد.",
-    {
-     "t": "h",
-     "x": "تغییرات سیستم حراجی و پست"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "حداقل ودیعه ثبت کالا در Auction House پس از ری‌استارت ریلم به ۱ مس کاهش یافت (قبلاً ۱ نقره بود).",
-      "مشکل مربوط به نامه‌های ناخوانده که برای همه بازیکنان به اشتباه فرستاده‌شده از Stormwind Auction House نمایش داده می‌شد، رفع شد.",
-      "باگی که باعث می‌شد زمان ارسال برخی نامه‌ها به جای زمان در نظر گرفته شده ۶۰ دقیقه‌ای در حدود ۲ دقیقه انجام شود، برطرف گردید."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "تغییرات کلاس‌های بازی"
-    },
-    "در کلاس Shaman، امکان ردیابی Maelstrom Weapon در Cooldown Manager فراهم شده است و بازیکنان اکنون می‌توانند Weapon imbues و Weapon totems را هم‌زمان استفاده کنند؛ برای مثال فعال بودن هم‌زمان Windfury Weapon و Windfury Totem ممکن شده است.",
-    {
-     "t": "ul",
-     "xs": [
-      "کلاس Hunter: سلامت پت‌ها که به اشتباه ۱۵۰٪ مقدار عادی بود به ۱۱۵٪ تصحیح شد. هزینه مانای تمام رنک‌های Arcane Shot به ۱۱٪ مانای پایه تغییر یافت. در تخصص Beast Mastery، هزینه مانای Summon Hawk معادل ۱۱٪ مانای پایه شد و آسیب Melee پت Hawk حدود ۸۰٪ افزایش یافت.",
-      "تخصص Enhancement Shaman: آسیب Stormstrike به ۱۰۰٪ آسیب اسلحه کاهش یافت (قبلاً ۱۵۰٪ بود) و کول‌دان آن به ۸ ثانیه افزایش پیدا کرد (قبلاً ۶ ثانیه بود). نرخ تبدیل Intellect به Attack Power در تلنت Mental Dexterity به ۳۳/۶۶/۱۰۰٪ کاهش یافت (قبلاً ۵۰/۱۰۰/۱۵۰٪ بود). تلنت Maelstrom Weapon اکنون در تمام رنک‌ها ۲۰٪ کاهش کست تایم و هزینه مانا می‌دهد (قبلاً ۴/۸/۱۲/۱۶/۲۰٪ بود) و شانس فعال‌سازی آن به ۶/۷/۸/۹/۱۰ بار در دقیقه تغییر کرد (قبلاً فارغ از رنک ۲۰ بار در دقیقه بود).",
-      "در کلاس Warlock: سلامت پایه Voidwalker، Incubus و Succubus و همچنین پت Imp حدود ۱۵٪ افزایش یافت. آسیب پایه چهار رنک اول Firebolt پت Imp افزایش یافت.",
-      "تخصص Affliction Warlock: تلنت Soul Siphon اکنون اثر طلسم‌های Drain Life، Drain Soul و Wrack را به ازای هر یک از طلسم‌های Corruption، Siphon Life و Bane of Agony فعال روی هدف، ۴/۸/۱۲٪ تا حداکثر ۳۶٪ افزایش می‌دهد (قبلاً روی هر طلسم Affliction اثر می‌کرد). آسیب Wrack معادل ۳۰٪ کاهش یافت و دیگر آسیب دوره‌ای را مستقیماً زیاد نمی‌کند، بلکه حین چنل کردن باعث می‌شود آسیب دوره‌ای افکت‌های مذکور ۱۰۰٪ سریع‌تر وارد شود. آسیب Wrack در مدت ۶ ثانیه هر ۱ ثانیه اعمال می‌شود.",
-      "سایر کلاس‌ها: در Druid مشکل Omen of Clarity پس از تغییر تخصص رفع شد و Nature's Swiftness طلسم Wild Growth را اینستنت می‌کند. در Paladin اسپل Redoubt در Cooldown Manager قابل رهگیری است. در Priest باگ فعال‌سازی انچنت Revelation با هیل Vampiric Embrace و مشکل عدم حذف Holy Nova پس از ریست تلنت رفع شد. در Warrior قابلیت Sweeping Strikes در صورت نخوردن ضربه به هدف دوم شارژ کم نمی‌کند."
-     ]
-    },
-    {
-     "t": "quote",
-     "x": "تغییرات بتا برای Enhancement Shaman باعث شده بود این تخصص بیش از حد به سمت تجهیزات دارای Spell Power و Intellect گرایش پیدا کند و از Windfury دور شود. بسیاری از این اصلاحات تغییرات دوران بتا را بازمی‌گردانند تا تخصص به مسیر متناسب با Windfury بازگردد.",
-     "by": "تیم توسعه بلیزارد"
-    },
-    {
-     "t": "note",
-     "x": "متن کمکی (تولتیپ) اسپل Maelstrom Weapon بر اساس سرعت اسلحه دست اصلی درصد شانس فعال‌سازی را نشان می‌دهد؛ مثلاً با ۵ امتیاز در تلنت، یک سلاح با سرعت ۳.۶ شانس ۶۰٪ و سلاحی با سرعت 2.0 شانس ۳۳٪ را ثبت می‌کند.",
-     "kind": "info"
-    },
-    {
-     "t": "h",
-     "x": "آیتم‌ها و تغییرات مأموریت‌ها"
-    },
-    "تمامی مانت‌های نژادی وندورها به حالت Bind-on-Pickup تغییر یافتند. آیتم Rage of the Storm اکنون دارای ۱۶ Strength است (قبلاً ۱۶ Intellect بود) و سرعت سلاح آن به ۳.۶ کاهش یافته است (قبلاً ۳.۲ ثانیه بود). همچنین آیتم Sparklance Wand به جای دمیج Nature آسیب Arcane می‌زند.",
-    {
-     "t": "table",
-     "head": [
-      "حرفه / آیتم",
-      "تغییر انجام شده"
-     ],
-     "rows": [
-      [
-       "Blacksmithing / Coarse Grinding Stone",
-       "افزایش سقف دریافت مهارت تا ۹۰ (قبلاً ۷۵)"
-      ],
-      [
-       "Cooking / Journeyman Campfire Kit",
-       "تغییر پیش‌نیاز قرار دادن به اسکیل ۹۰ (قبلاً ۱۴۰)"
-      ],
-      [
-       "Alchemy / Minor Arcane Elixir",
-       "کاهش قیمت فروش به وندور به ۵ مس (قبلاً ۲۵ مس)"
-      ],
-      [
-       "Engineering / Iron Grenades",
-       "کاهش قیمت فروش به وندور به ۱ نقره و ۲۵ مس (قبلاً ۵ نقره)"
-      ]
-     ]
-    },
-    "اکثر کوئست‌های لول ۴۸ و بالاتر اکنون علاوه بر پاداش‌های معمول، گلد نیز ارائه می‌دهند. به گفته سازندگان، سیستم تبدیل XP به گلد در لول ۶۰ در WoW: Forever وجود ندارد و این اقدام برای ایجاد انگیزه جهت انجام مأموریت‌ها قبل و بعد از رسیدن به سطح ۶۰ است."
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "بلیزارد",
-    "کلاس‌های وارکرفت",
-    "تغییرات پچ"
-   ],
-   "items": [],
-   "title_en": "Hunter Pet Nerf and Enhancement Shaman Changes - WoW: Forever Hotfixes for November 10, 2026",
-   "source_url": "https://www.wowhead.com/news=383837",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383837-hunter-pet-nerf-and-enhancement-shaman-changes-wow-forever-hotfixes-fo.html",
-   "published_at": "2026-11-11T03:30:15Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383837/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383837/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383946,
-   "title_en": "Itemization of Crafted Tier Sets Revealed in WoW: Forever's First Raid Tier",
-   "url": "https://www.wowhead.com/news=383946",
-   "category": "Forever",
-   "published_at": "2026-11-20T20:51:19Z"
-  },
-  {
-   "id": 383943,
-   "title_en": "Layer Swap and Other Targeted Layering Addons Will Be Disabled Soon in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383943",
-   "category": "Forever",
-   "published_at": "2026-11-20T19:00:55Z"
-  },
-  {
-   "id": 383944,
-   "title_en": "WoW: Forever Class Design, Patch 12.1.7, WoW Anniversary - WoW Weekly",
-   "url": "https://www.wowhead.com/news=383944",
-   "category": "WoW",
-   "published_at": "2026-11-20T18:02:14Z"
-  },
-  {
-   "id": 383890,
-   "title_en": "Unlock a Dungeon Shortcut in WoW: Forever with the Compound Key",
-   "url": "https://www.wowhead.com/news=383890",
-   "category": "Forever",
-   "published_at": "2026-11-20T16:00:00Z"
-  },
   {
    "id": 383933,
    "title_en": "Every Quest for Level 30 to 40 Dungeons in WoW: Forever",
@@ -3787,6 +3649,34 @@
    "url": "https://www.wowhead.com/news=383543",
    "category": "Forever",
    "published_at": "2026-10-22T18:15:43Z"
+  },
+  {
+   "id": 383541,
+   "title_en": "The WoW: Forever End of Beta Celebration Has Begun ft. Azuregos and Kazzak",
+   "url": "https://www.wowhead.com/news=383541",
+   "category": "Forever",
+   "published_at": "2026-10-22T17:13:00Z"
+  },
+  {
+   "id": 383540,
+   "title_en": "The WoW: Forever Podcast Episode 5 Now Available - The End of Beta Special!",
+   "url": "https://www.wowhead.com/news=383540",
+   "category": "Forever",
+   "published_at": "2026-10-22T16:21:06Z"
+  },
+  {
+   "id": 383487,
+   "title_en": "The Current State of Protection Paladins in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383487",
+   "category": "Forever",
+   "published_at": "2026-10-21T19:06:30Z"
+  },
+  {
+   "id": 383519,
+   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383519",
+   "category": "Live",
+   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }

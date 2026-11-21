@@ -148,12 +148,53 @@
   ],
   "chars": 1399
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383890/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383890/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383890/1.jpg",
+ "article_fa": {
+  "title_fa": "باز کردن میان‌بر سیاه‌چال Krol'dok Stronghold در WoW: Forever با Compound Key",
+  "lead_fa": "بازیکنان در سیاه‌چال Krol'dok Stronghold می‌توانند با ساخت کلید Krol'dok Compound Key، مسیرهای میان‌بر را برای دسترسی سریع‌تر به باس نهایی باز کنند.",
+  "body_fa": [
+   "سیاه‌چال Krol'dok Stronghold یکی از ۹ سیاه‌چال جدید در World of Warcraft Forever است که مأموریتی درون خود دارد؛ با انجام این زنجیره‌کوئست کلیدی می‌سازید که با باز کردن درهای مختلف، مسیر ران‌های بعدی را بسیار کوتاه‌تر می‌کند.",
+   {
+    "t": "h",
+    "x": "مراحل دریافت کلید و منابع مورد نیاز"
+   },
+   "شروع این زنجیره با دریافت آیتم مأموریت Krol'dok Moulding از یک NPC داخل سیاه‌چال به نام Tunk پس از شکست دادن او همراه است. بازیکنان Horde باید این آیتم را به Kreza Darkthorn در Rog’mar و بازیکنان Alliance به Alphonse Dumas در Farholde Keep تحویل دهند که هر دو در Riverglades مستقر هستند.",
+   {
+    "t": "note",
+    "x": "پیش از ورود به سیاه‌چال می‌توانید آیتم‌های ۴ عدد Thick Leather و ۱۲ عدد Iron Bar را آماده کنید تا بلافاصله مأموریت بعدی یعنی Key Ingredients را تحویل داده و Krol'dok Compound Key را به دست آورید.",
+    "kind": "tip"
+   },
+   "مجموع تجربه اهدایی حاصل از این دو مأموریت حدود 7,000 اکسپی است.",
+   {
+    "t": "h",
+    "x": "مسیر میان‌بر به باس آخر"
+   },
+   "پس از تصاحب Krol'dok Compound Key، می‌توانید دوباره وارد سیاه‌چال Krol'dok Stronghold شوید و دو در را باز کنید تا مسیر مستقیمی به باس پایانی، یعنی Overlord Mugg ایجاد شود:",
+   {
+    "t": "ul",
+    "xs": [
+     "درِ نخست دقیقاً پشت سر باس دوم به نام Twilight Commander Zarmok قرار گرفته است.",
+     "در ادامه، دروازه Krol'dok Gate در مسیری به سمت چپ محل اولیه حضور Tunk واقع شده است."
+    ]
+   },
+   "پس از عبور از این در، مسیر را ادامه دهید تا Overlord Mugg را در سمت چپ مشاهده کنید. این مسیر سریع امکان فارم آیتم‌هایی نظیر تالیسمان قدرتمند Emblem of Slamming را که برای محدوده سطحی اوایل دهه 40 بسیار کاربردی است، فراهم می‌کند."
+  ],
+  "tags_fa": [
+   "سیاه چال",
+   "راهنما",
+   "WoW Forever"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-21T00:56:19Z"
+ }
 }
