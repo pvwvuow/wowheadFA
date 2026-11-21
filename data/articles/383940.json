@@ -204,27 +204,23 @@
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383940/1.jpg",
  "last_rejected": {
-  "title_fa": "اعمال تخفیف مانت برای Skyborne در WoW: Forever بدون نیاز به اعتبار",
-  "lead_fa": "در پی هاتفیکس اخیر WoW: Forever، تمام بازیکنان Skyborne اکنون بدون در نظر گرفتن سطح اعتبار خود، از تخفیف ۱۰ درصدی برای مهارت‌های مانت بهره‌مند می‌شوند.",
+  "title_fa": "تخفیف ۱۰ درصدی مانت برای نژاد Skyborne در WoW: Forever",
+  "lead_fa": "تمامی شخصیت‌های نژاد Skyborne در WoW: Forever بدون در نظر گرفتن میزان اعتبارشان، تخفیف ۱۰ درصدی خرید مانت را دریافت می‌کنند.",
   "body_fa": [
-   "هم‌زمان با انتشار WoW: Forever، بازیکنان متوجه شدند که Skyborne تخفیف ۱۰ درصدی معمول را از فروشندگان مانت دریافت نمی‌کند. بلیزارد در یادداشت‌های هاتفیکس دیروز به رفع این موضوع اشاره کرد.",
+   "با عرضه WoW: Forever، بازیکنان متوجه شدند که Skyborne هنگام مراجعه به فروشندگان مانت، تخفیف ۱۰ درصدی دریافت نمی‌کنند. بلیزارد در هاتفیکس اخیر به رفع این مشکل اشاره کرد:",
    {
     "t": "quote",
-    "x": "مشکلی که مانع دریافت تخفیف ۱۰ درصدی طلا در سطح اعتبار Honored برای مهارت‌های Apprentice و Journeyman Riding از Genn Fairweather در Zephras Isle توسط Skyborne می‌شد، برطرف گردید.",
+    "x": "مشکلی که مانع از دریافت تخفیف طلایی ۱۰ درصدی اعتبار Honored برای مهارت‌های سوارکاری Apprentice و Journeyman از سوی Skyborne نزد فروشنده Genn Fairweather در Zephras Isle می‌شد برطرف شد.",
     "by": "Blizzard"
    },
-   "با وجود اینکه متن هاتفیکس به فعال شدن تخفیف در سطح Honored اشاره دارد، بررسی‌ها نشان می‌دهد این تخفیف اکنون برای تمام Skyborne فعال است. برای نمونه، شخصیتی با سطح اعتبار Friendly نزد Windshapers نیز همچنان از این تخفیف ۱۰ درصدی برای مهارت‌های مانت Rare با اسکیل 75 یا سرعت مهارت معادل و نسخه Epic برخوردار است.",
-   {
-    "t": "note",
-    "x": "مشخص نیست اعمال این تخفیف ۱۰ درصدی برای همه فارغ از سطح اعتبار، رفتاری عمدی از سوی سازندگان است یا خیر، اما در حال حاضر تمام Skyborne می‌توانند از آن استفاده کنند.",
-    "kind": "info"
-   }
+   "گرچه بیانیه بلیزارد به فعال شدن تخفیف برای سطح اعتبار Honored اشاره دارد، اما به نظر می‌رسد این تخفیف اکنون برای تمامی Skyborneها فعال است؛ به طوری که حتی یک کاراکتر با سطح Friendly نزد Windshapers نیز تخفیف ۱۰ درصدی مهارت‌های سوارکاری Rare و Epic را دریافت می‌کند.",
+   "هنوز مشخص نیست که آیا اعمال این تخفیف بدون در نظر گرفتن سطح اعتباری جناح‌ها عمدی بوده است یا خیر، اما بازیکنان این نژاد هم‌اکنون می‌توانند از این کاهش هزینه بهره‌مند شوند."
   ],
   "tags_fa": [
    "هاتفیکس",
-   "WoW Forever",
    "مانت",
-   "تخفیف"
+   "Skyborne",
+   "WoW Forever"
   ]
  },
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
