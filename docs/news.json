@@ -1,8 +1,160 @@
 {
- "generated": "2026-11-21T17:02:43Z",
+ "generated": "2026-11-21T21:46:09Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383934,
+   "slug": "all-quests-for-new-alcaz-prison-dungeon-in-wow-forever",
+   "title_fa": "راهنمای کوئست‌های دانجن جدید Alcaz Prison در WoW: Forever",
+   "lead_fa": "دانجن جدید Alcaz Prison در Dustwallow Marsh برای بازیکنان حدود لول ۵۰ در دسترس قرار گرفته و کوئست‌های متعددی به همراه یک مأموریت مخفی دارد.",
+   "body_fa": [
+    "دانجن Alcaz Prison در Alcaz Island، جزیره‌ای تنها در بخش شمال شرقی منطقهٔ Dustwallow Marsh واقع شده و برای بازیکنان حدود لول ۵۰ در WoW: Forever طراحی شده است. این دانجن نسبتاً کوتاه است و تکمیل آن احتمالاً حدود ۳۰ دقیقه زمان می‌برد. به‌دست آوردن کوئست‌های آن آسان است؛ به‌طوری‌که برای هر فکشن سه کوئست در بیرون دانجن وجود دارد و یک کوئست مخفی نیز در درون دانجن قرار گرفته است.",
+    {
+     "t": "note",
+     "x": "کوئست مخفی داخل دانجن ۲۵ طلا پاداش می‌دهد و تنها در صورتی ظاهر می‌شود که از یک باس رد شوید و او را نکشید. پس از گرفتن کوئست، می‌توانید آن باس را برای هدف مأموریت شکست دهید. این کوئست فقط در صورتی پدیدار می‌شود که The Questioner هنوز زنده باشد.",
+     "kind": "tip"
+    },
+    {
+     "t": "h",
+     "x": "کوئست‌های دانجن و نحوهٔ شروع آن‌ها"
+    },
+    {
+     "t": "table",
+     "head": [
+      "نام کوئست",
+      "لول",
+      "محل شروع و توضیحات پیش‌نیاز"
+     ],
+     "rows": [
+      [
+       "The Dragon's Journal",
+       "۴۶",
+       "Alterac Mountains در Dalaran از Archmage Lan'dalock در مختصات 15.6 73.6"
+      ],
+      [
+       "A Bit of Wet Work",
+       "48",
+       "Dustwallow Marsh در Theramore Graveyard از Sully McCleary در مختصات 63.4 42.4 (منجر به Somber News می‌شود؛ پیش‌نیاز: شروع با Our Man in Theramore از Master Mathias Shaw در Old Town شهر Stormwind City)"
+      ],
+      [
+       "The Secret Prison",
+       "48",
+       "Dustwallow Marsh در Theramore Graveyard از Sully McCleary در مختصات 63.4 42.4 (پیش‌نیاز: شروع با Our Man in Theramore از Master Mathias Shaw در Old Town شهر Stormwind City)"
+      ],
+      [
+       "No Orc Left Behind",
+       "48",
+       "Dustwallow Marsh در Alcaz Island از Sergeant Ulka در مختصات 33.4 38 (منجر به The Honor of the Kor'kron می‌شود؛ پیش‌نیاز: شروع از The Missing Kor'kron از Eitrigg در Orgrimmar در مختصات 34.6 38.6)"
+      ],
+      [
+       "A Little Payback",
+       "48",
+       "Dustwallow Marsh در Alcaz Island از Sergeant Ulka در مختصات 33.4 38 (پیش‌نیاز: شروع از The Missing Kor'kron از Eitrigg در Orgrimmar در مختصات 34.6 38.6)"
+      ],
+      [
+       "Blood Red Bandanas",
+       "48",
+       "Dustwallow Marsh در Alcaz Island از Sergeant Ulka در مختصات 33.4 38 (پیش‌نیاز: شروع از The Missing Kor'kron از Eitrigg در Orgrimmar در مختصات 34.6 38.6)"
+      ],
+      [
+       "The Man in the Iron Chains",
+       "48",
+       "داخل دانجن از Mason Connery پس از کشتن باس نهایی؛ تنها در صورتی ظاهر می‌شود که The Questioner زنده باشد."
+      ]
+     ]
+    },
+    "با رعایت این پیش‌نیازها و دنبال کردن زنجیره‌های مأموریت در شهرهای اصلی، بازیکنان می‌توانند پیش از ورود به دانجن تمامی کوئست‌های مربوط به فکشن خود را آماده کنند."
+   ],
+   "tags_fa": [
+    "دانجن",
+    "راهنمای کوئست",
+    "WoW Forever"
+   ],
+   "items": [],
+   "title_en": "All Quests for New Alcaz Prison Dungeon in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383934",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383934-all-quests-for-new-alcaz-prison-dungeon-in-wow-forever.html",
+   "published_at": "2026-11-21T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383934/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383934/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383949,
+   "slug": "lfg-bug-fix-causes-players-to-see-more-groups-wow-forever-hotfixes-for",
+   "title_fa": "هاتفیکس‌های ۲۰ نوامبر ۲۰۲۶ برای WoW: Forever و رفع باگ فهرست گروه‌ها در LFG",
+   "lead_fa": "بلیزارد هاتفیکس‌های تازه‌ای منتشر کرده است که در کنار رفع باگ نمایش گروه‌های کمتر از حد انتظار در LFG، تغییراتی را در دانجن‌ها، کلاس‌ها و کوئست‌ها اعمال می‌کند.",
+   "body_fa": [
+    "در تازه‌ترین به‌روزرسانی‌های اعلام‌شده برای تاریخ ۲۰ نوامبر ۲۰۲۶، بلیزارد مجموعه‌ای از اصلاحات را برای کلاس‌ها، دانجن‌ها، مأموریت‌ها و رابط کاربری اعمال کرده است.",
+    {
+     "t": "h",
+     "x": "تغییرات رابط کاربری و دانجن‌ها"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "در بخش رابط کاربری، مشکلی که باعث می‌شد برخی بازیکنان هنگام جستجوی گروه در LFG گروه‌های کمتری از حد در نظر گرفته‌شده را مشاهده کنند برطرف شد.",
+      "بازیکنان اکنون می‌توانند هر دانجن را حداکثر ۵ بار در ساعت ریست کنند و وارد آن شوند (این مقدار پیش‌تر ۱۰ بار بود).",
+      "در Blackrock Spire، یک ستون سنگی سرکش دیگر نباید ماجراجویان غافلگیرشده را به دام بیندازد."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "اصلاحات کلاس‌ها و آیتم‌ها"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "برای Rogue با تخصص Combat، توانایی Blade Flurry اکنون به درستی باعث می‌شود آسیب Shank به یک هدف اضافی برخورد کند.",
+      "برای Warlock با تخصص Demonology، باگی رفع شد که در آن اثرهای تلنت Demonic Aegis روی Demon Armor یا Demon Skin ثبت می‌شد و پس از ریست کردن تلنت‌ها حفظ می‌ماند؛ اکنون Demonic Aegis و Demon Skin با فراموش کردن تلنت‌ها حذف می‌شوند.",
+      "بونس ۳ تکه ست Stormshroud Armor تغییر یافته و شانس آن هنگام حمله میلی به ۳٪ (قبلاً ۴٪) برای بازیابی ۱۸ Energy (قبلاً ۳۰) رسیده است."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "مأموریت‌ها، NPCها و مشاغل"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "در The Hinterlands، وقتی Witch Doctor Ti’ik توسط گروهی که کوئست «Witch Doctor Ti’ik» را دارند کشته شود، چندین نسخه از سر خود را دراپ می‌کند.",
+      "در Feralas، مشکلی که باعث می‌شد Perfect Yeti Hide زمانی که کوئست مربوطه فعال است دوباره دراپ شود رفع شد.",
+      "در Tanaris، موجود Gor’marok برای کوئست «The Dunemaul Compound» اکنون سریع‌تر ریسپاون می‌شود.",
+      "در Riverglades، شخصیت Dunston Willis در میانه کوئست «Dunston Checks Out» دیگر فرار نمی‌کند.",
+      "در Orgrimmar، چشمان Mayhoa Skyhoof دیگر درخشان نیست.",
+      "در Summit of Eternity، شخصیت Toron Rockhoof سندان و کوره آهنگری خود را تعمیر کرده و اکنون برای Blacksmithing و Smelting قابل استفاده هستند."
+     ]
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "WoW Forever",
+    "تغییرات کلاس‌ها"
+   ],
+   "items": [],
+   "title_en": "LFG Bug Fix Causes Players to See More Groups - WoW: Forever Hotfixes for November 20, 2026",
+   "source_url": "https://www.wowhead.com/news=383949",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383949-lfg-bug-fix-causes-players-to-see-more-groups-wow-forever-hotfixes-for.html",
+   "published_at": "2026-11-21T00:23:36Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383949/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383949/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383946,
    "slug": "itemization-of-crafted-tier-sets-revealed-in-wow-forever-s-first-raid",
@@ -221,6 +373,114 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383890/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383933,
+   "slug": "every-quest-for-level-30-to-40-dungeons-in-wow-forever",
+   "title_fa": "راهنمای کامل کوئست دانجن‌های سطح ۳۰ تا ۴۰ در WoW Forever",
+   "lead_fa": "فهرست جامع تمامی ماموریت‌های سیاه‌چاله‌های بازه سطحی ۳۰ تا ۴۰ در سرور WoW: Forever برای سرعت بخشیدن به روند ارتقای سطح بازیکنان گردآوری شده است.",
+   "body_fa": [
+    "در محدوده سطحی ۳۰ تا ۴۰ در سرور WoW: Forever، سیاه‌چاله جدیدی به نام The Drowned City در دسترس ماجراجویان قرار گرفته است. علاوه بر آن، سیاه‌چاله City of Dalaran که معمولاً توسط بازیکنان اواخر سطح بیست پیموده می‌شود نیز از نظر فنی در همین رده‌بندی قرار می‌گیرد تا انتخابی ساده‌تر برای بازیکنان باشد. این سیاه‌چاله‌ها شامل ماموریت‌ها و باس‌های تازه‌ای هستند. همچنین باید توجه داشت که The Drowned City یک سیاه‌چاله طولانی است و به طور میانگین دست‌کم یک ساعت زمان برای تکمیل نیاز دارد، بنابراین بازیکنان باید پیش از شروع زمان کافی در اختیار داشته باشند. سیاه‌چاله Gnomeregan درجه سختی این دانجن به ترتیب Hard در سطح ۲۵، سپس Medium در سطح ۳۰، حالت پیشنهادی At Level در سطح ۳۳ و نهایتاً Easy در سطح ۳۸ است. ماموریت‌های این بخش همراه با شرایط و مکان‌های دریافت به شرح زیر هستند:",
+    {
+     "t": "ul",
+     "xs": [
+      "ماموریت Rig Wars در لول ۲۵ از Nogg در Orgrimmar واقع در Valley of Honor با مختصات 76 25 آغاز می‌شود.",
+      "ماموریت پیش‌نیاز Chief Engineer Scooty در لول ۲۰ از Sovik در Orgrimmar واقع در Valley of Honor با مختصات 76 25 قابل دریافت است و ابتدا باید ماموریت Rig Wars گرفته شود.",
+      "ماموریت Gnomer-gooooone! در لول ۲۰ از Scooty در Strangethorn Vale واقع در Booty Bay با مختصات 27 77 دریافت می‌شود.",
+      "ماموریت Save Techbot's Brain! در لول ۲۰ از Tinkmaster Overspark در Ironforge واقع در Tinkertown با مختصات 69 50 شروع می‌گردد.",
+      "ماموریت Gyrodrillmatic Excavationators در لول ۲۰ از Shoni the Shilent در Stormwind واقع در Dwarven Quarter با مختصات 55 12 آغاز می‌شود.",
+      "ماموریت Essential Artificials در لول ۲۴ از Klockmort Spannerspan در Ironforge واقع در Tinkertown با مختصات 47 64 دریافت می‌گردد.",
+      "ماموریت Data Rescue در لول ۲۵ از Master Mechanic Castpipe در Ironforge واقع در Tinkertown با مختصات 69 48 قابل دریافت است.",
+      "ماموریت The Grand Betrayal در لول ۲۵ از High Tinker Mekkatorque در Ironforge واقع در Tinkertown با مختصات 68 49 ثبت می‌شود.",
+      "ماموریت Gnogaine در لول ۲۰ از Ozzie Togglevolt در Dun Morogh واقع در Kharanos با مختصات 45 49 در دسترس است.",
+      "ماموریت پیش‌نیاز The Only Cure is More Green Glow در لول ۲۰ از Ozzie Togglevolt در Dun Morogh واقع در Kharanos با مختصات 45 49 پس از اتمام Gnogaine دریافت می‌شود."
+     ]
+    },
+    "سیاه‌چاله City of Dalaran درجه سختی این دانجن در رده‌های Hard در لول ۲۶، رده Medium در لول ۲۹، رده At Level در لول ۳۱ و رده Easy در لول ۳۴ قرار دارد:",
+    {
+     "t": "ul",
+     "xs": [
+      "ماموریت The Grave Knight در سطح ۲۴ از Melisara در Tarren Mill با مختصات 62 21 آغاز می‌گردد.",
+      "ماموریت Source of Power در سطح ۲۴ از Doctor Martin Felben در Undercity واقع در Apothecarium با مختصات 46 74 دریافت می‌شود.",
+      "ماموریت Opportunistic Education در سطح ۲۴ بلافاصله هنگام ورود به داخل دانجن از Rexxie Copperclutch تحویل گرفته می‌شود.",
+      "ماموریت پیوسته Heart of Disruption در سطح ۲۴ با پیش‌نیاز شروع از Prison Break In توسط Magus Wordeen Voidglare در Hillsbrad Foothills با مختصات 62 21 فعال می‌شود.",
+      "ماموریت Power Overwhelming در سطح ۲۴ از High Sorcerer Andromath در Stormwind واقع در Magic Quarter با مختصات 49 88 در دسترس است.",
+      "ماموریت پیش‌نیاز Heart of Disruption در سطح ۳۰ با ماموریت An Alarming Request از Emissary Jacques در Southshore با مختصات 48 60 آغاز می‌گردد.",
+      "ماموریت A Green Sample در سطح ۲۴ از Shylamiir در Stormwind واقع در The Park با مختصات 32 63 قابل دریافت است.",
+      "ماموریت Starving Arcane در سطح ۳۰ به عنوان پیش‌نیاز با ماموریت An Alarming Request از Emissary Jacques در Southshore با مختصات 48 60 دریافت می‌شود."
+     ]
+    },
+    "سیاه‌چاله Razorfen Kraul درجه‌بندی سختی این منطقه شامل Hard در لول ۲۵، رده Medium در لول ۲۸، رده At Level در لول ۳۱ و رده Easy در لول ۳۴ است:",
+    {
+     "t": "ul",
+     "xs": [
+      "ماموریت A Vengeful Fate در لول ۲۹ از Auld Stonespire در Thunder Bluff در نزدیکی آسانسور اصلی با مختصات 37 29 آغاز می‌شود.",
+      "ماموریت Going, Going, Guano! در لول ۳۰ از Master Apothecary Faranell در Undercity واقع در The Apothecarium با مختصات 48 69 قابل اخذ است که پیش‌نیاز کوئست Hearts of Zeal در دانجن بعد خواهد بود.",
+      "ماموریت An Unholy Alliance در لول ۲۸ از طریق دراپ آیتم Small Scroll از باس Charlga Razorflank در داخل دانجن آغاز می‌شود و پیش‌نیاز ماموریت دیگری در Razorfen Downs است.",
+      "ماموریت The Crone of the Kraul در لول ۲۹ با پیش‌نیاز Falfindel Waywarder در The Lower Wilds با مختصات 89 46 پس از تکمیل ژورنال مربوطه در دسترس قرار می‌گیرد.",
+      "ماموریت Mortality Wanes در لول ۲۵ از Heralath Fallowbrook در درون دانجن و پشت سر باس اصلی دریافت می‌شود.",
+      "ماموریت Blueleaf Tubers در لول ۲۰ از Mebok Mizzyrix در The Barrens واقع در Ratchet با مختصات 62 37 قابل ثبت است و آیتم‌های کنار این شخصیت نباید فراموش شوند.",
+      "ماموریت اسکورت Willix the Importer در لول ۲۲ از چادری در نزدیکی باس آخر دانجن از Willix the Importer آغاز می‌گردد."
+     ]
+    },
+    "سیاه‌چاله جدید The Drowned City این دانجن دارای سطح سختی Hard در لول ۳۰، رده Medium در لول ۳۷، رده پیشنهادی At Level در لول ۴۰ و حالت Easy در سطح ۴۳ است:",
+    "ماموریت Magics of the Drowned City (که به The Web of Magic ختم می‌شود) در لول ۳۰ از Loremaster Dibbs در Hillsbrad Foothills واقع در Southshore با مختصات 50.6 57.0 شروع می‌شود و پیش از آن نیازمند پیش‌نیازهای The Second Rebellion و Bad Medicine و تکمیل Troll Witchery است. ماموریت Take Two With Water (که به Findings for the Explorer's League ختم می‌شود) در لول ۳۰ از Loremaster Dibbs در Hillsbrad Foothills واقع در Southshore با مختصات 50.6 57.0 قابل دریافت بوده و زنجیره مشترک مشابهی دارد. ماموریت Ancient Gurubashi Secrets در لول ۳۴ از Archmage Timear در Alterac Mountains واقع در Dalaran با مختصات 15.6 73.6 ارائه می‌شود. ماموریت The Drowned City در لول ۳۰ از Kin'weelay در Stranglethorn Vale واقع در Grom'Gol با مختصات 32.2 27.8 شروع شده و پیش‌نیاز آن The Vile Reef است. ماموریت The Only Good Brinescale... در لول ۳۰ از Commander Aggro'gosh در Stranglethorn Vale واقع در Grom'Gol با مختصات 32.2 28.8 آغاز می‌شود و نیازمند The Vile Reef و Enemies in the Water است. ماموریت Ancient Gurubashi Idol در لول ۳۰ از Mazu'kon در Mulgore واقع در Skywatcher Plateau با مختصات 32.2 27.8 آغاز می‌شود. ماموریت Shady Saltseers در لول ۳۴ از Krazek در Stranglethorn Vale واقع در Booty Bay با مختصات 27.0 77.2 دریافت می‌گردد. ماموریت The Saltseer Captain در لول ۳۴ از Krazek در Stranglethorn Vale واقع در Booty Bay با مختصات 27.0 77.2 شروع می‌شود. سیاه‌چاله Scarlet Monastery",
+    "بخش‌های Graveyard و Library این مجموعه برای بازیکنان سطح بیست طراحی شده‌اند، اما بخش‌های Armory و Cathedral در بازه ۳۰ تا ۴۰ قرار می‌گیرند. درجه سختی کل این بال‌ها شامل Hard در سطح ۲۶، رده Medium در سطح ۳۲، رده At Level در سطح ۳۷ و رده Easy در لول ۴۵ است:",
+    {
+     "t": "ul",
+     "xs": [
+      "ماموریت Into The Scarlet Monastery برای تمام بال‌ها در سطح ۳۳ از Varimathras در Undercity واقع در Royal Quarter با مختصات 56 92 دریافت می‌شود.",
+      "ماموریت Hearts of Zeal در سطح ۳۰ از Master Apothecary Faranell در Undercity واقع در The Apothecarium با مختصات 48 69 پس از کوئست اولیه در مختصات 49 70 در دسترس قرار می‌گیرد.",
+      "ماموریت In the Name of the Light در سطح ۳۴ از Raleigh the Devout در Hillsbrad Foothills واقع در Southshore با مختصات 51 58 دارای سه کوئست پیش‌نیاز است.",
+      "ماموریت Vorrel's Revenge در بال Graveyard در سطح ۲۵ از Vorrel Sengutz در داخل خود بخش Graveyard قابل دریافت است.",
+      "ماموریت Compendium of the Fallen در بال Library در سطح ۲۸ از Sage Truthseeker در Thunder Bluff واقع در First Rise با مختصات 36 26 شروع می‌شود (نژاد Undead قادر به دریافت این ماموریت نیست).",
+      "ماموریت پیش‌نیاز Test of Lore در بال Library در سطح ۲۵ از Parqual Fintallas در Undercity واقع در The Apothecarium با مختصات 57 65 پس از زنجیره شش مرحله‌ای آغاز شده از Dorn Plainstalker در Thousand Needles با مختصات 54 42 آغاز می‌گردد.",
+      "ماموریت Mythology of the Titans در بال Library در سطح ۲۸ از Librarian Mae Paledust در Ironforge واقع در Hall of Explorers با مختصات 75 12 دریافت می‌شود.",
+      "ماموریت اختصاصی کلاس Mage به نام Rituals of Power در سطح ۳۰ با پیش‌نیاز سه مرحله‌ای از Magus Tirth در Thousand Needles واقع در Shimmering Flats Raceway با مختصات 78 75 شروع می‌شود."
+     ]
+    },
+    "سیاه‌چاله Razorfen Downs درجه سختی این سیاه‌چاله شامل Hard در لول ۳۵، حالت Medium در لول ۳۷، حالت At Level در لول ۳۹ و حالت Easy در لول ۴۴ تعیین شده است:",
+    {
+     "t": "ul",
+     "xs": [
+      "ماموریت جدید The Coldbringer's Eye در لول ۳۴ از Sutara Plainstalker در Mulgore واقع در Skywatcher's Plateau با مختصات 35 23 شروع می‌شود.",
+      "ماموریت Bring the End در لول ۳۷ از Andrew Brownell در Undercity واقع در Magic Quarter با مختصات 74 33 قابل دریافت است.",
+      "ماموریت An Unholy Alliance در لول ۲۸ با پیش‌نیاز طومار به دست آمده از سیاه‌چاله پیشین، از Varimathras در Undercity واقع در Royal Quarter با مختصات 36 26 آغاز می‌گردد.",
+      "ماموریت Bring the Light در لول ۳۹ از Archbishop Benedictus در Stormwind واقع در Cathedral با مختصات 39 27 تحویل گرفته می‌شود.",
+      "ماموریت جدید The Coldbringer's Eye در لول ۳۴ از Archbishop Benedictus در Dalaran با مختصات 39 27 قابل دریافت است.",
+      "ماموریت A Host of Evil در لول ۲۸ بیرون از پورتال دانجن از Archmage Lan'dalock در The Barrens با مختصات 16 74 شروع می‌شود.",
+      "ماموریت Scourge of the Downs در لول ۳۲ از Belnistrasz در Murder Pens واقع در داخل Razorfen Downs دریافت می‌شود که کل اعضای گروه باید پیش از دریافت ماموریت بعدی آن را تمام کنند.",
+      "ماموریت اسکورت Extinguishing the Idol در لول ۳۲ در Murder Pens از Belnistrasz آغاز می‌گردد و پیش از شروع باید تمامی هم‌گروهی‌ها کوئست Scourge of the Downs را کامل کرده باشند تا امتیاز پیشرفت برایشان ثبت شود."
+     ]
+    },
+    {
+     "t": "note",
+     "x": "در دانجن Razorfen Downs حتما دقت کنید که همه هم‌تیمی‌ها کوئست Scourge of the Downs را به پایان رسانده باشند؛ در غیر این صورت ماموریت بعدی برای آن‌ها حساب نخواهد شد.",
+     "kind": "warn"
+    },
+    "برنامه‌ریزی و جمع‌آوری پیش‌نیازهای این ماموریت‌ها پیش از عزیمت به سیاه‌چاله‌ها، سرعت دستیابی به سطح‌های بالاتر را در این محدوده ارتقا می‌بخشد."
+   ],
+   "tags_fa": [
+    "سیاه‌چاله",
+    "راهنما",
+    "Forever",
+    "لول‌آپ"
+   ],
+   "items": [],
+   "title_en": "Every Quest for Level 30 to 40 Dungeons in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383933",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383933-every-quest-for-level-30-to-40-dungeons-in-wow-forever.html",
+   "published_at": "2026-11-20T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383933/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383933/1.jpg",
      "cap": ""
     }
    ]
@@ -3213,205 +3473,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383818,
-   "slug": "catch-up-mechanics-the-economy-in-wow-forever-but-why-tho-interview",
-   "title_fa": "جزئیات مصاحبه درباره مکانیک‌های Catch-Up و اقتصاد در WoW: Forever",
-   "lead_fa": "توسعه‌دهندگان WoW: Forever در مصاحبه‌ای جدید درباره رویکرد خود نسبت به سیاحت دانجن‌ها، عدم تمایل به افزودن مکانیک‌های جبرانی و نظارت بر اقتصاد بازی صحبت کردند.",
-   "body_fa": [
-    "رسانه But Why Tho? در مصاحبه‌ای با Mike Nuthals و Tim Jones به بررسی موضوعات مختلفی از جمله احتمال وجود سیستم‌های Catch-Up و وضعیت اقتصاد در WoW: Forever پرداخته است.",
-    {
-     "t": "h",
-     "x": "الهام از نسخه Classic و طراحی دانجن‌ها"
-    },
-    "تیم توسعه تجربه زیادی در بازی نسخه کلاسیک داشته و دانجن‌ها و ریدهای آن را بررسی کرده است تا میزان پیچیدگی و مدت‌زمان مبارزات را ارزیابی کند؛ هدف آن‌ها این بوده که محتوای جدید Forever اصیل و هماهنگ به نظر برسد. ایده‌های اولیه برای باس‌ها بیشتر به سبک نسخه Retail شباهت داشت، جایی که شخصیت‌ها تحرک بسیار زیادی داشتند یا باس‌ها دارای بخش‌های متحرک متعددی بودند. در حال حاضر تیم تضمین کیفیت (QA) این نبردها را آزمایش می‌کند تا فضایی برای مکانیک‌های نامتعارف و استفاده بازیکنان از قابلیت‌های کلاس خود فراهم شود.",
-    {
-     "t": "h",
-     "x": "محتوای آینده و موضع درباره Catch-Up"
-    },
-    "پچ‌های جدید بازی می‌توانند مواردی همچون فصل جدید PvP، ریپوتیشن، دستورهای ساخت Profession، آپدیت‌های مشاغل، مناطق جدید، کوئست‌ها، رازها و معماها و دانجن‌های تازه را به همراه داشته باشند. هدف این است که برای تمامی بازیکنان در تمام سطوح، محتوای جدید ارائه شود.",
-    {
-     "t": "note",
-     "x": "توسعه‌دهندگان در تلاشند از ایجاد مکانیک‌های Catch-Up خودداری کنند، زیرا به باور آن‌ها این سیستم‌ها ممکن است دستاوردهای بازیکنانی را که قبلاً آن محتوا را کامل کرده‌اند کم‌ارزش کند.",
-     "kind": "info"
-    },
-    "با توجه به اینکه افزایش سطح حداکثری (Level Cap) وجود ندارد و تعداد ریدها محدود است، سازندگان امیدوارند هر بازیکن بتواند گروهی متناسب با نیاز خود پیدا کند و تاکید دارند که پیشروی با سرعت شخصی بازیکنان مشکلی ندارد.",
-    {
-     "t": "h",
-     "x": "نظارت بر اقتصاد بازی"
-    },
-    "تیم توسعه بیش از هر زمان دیگری به حفظ سلامت اقتصاد بازی توجه دارد و افرادی گزارش‌های هفتگی اقتصاد را به آن‌ها ارائه می‌دهند. سازندگان اعلام کرده‌اند گرچه تضمینی برای شناسایی همه موارد وجود ندارد، اما به‌محض آگاهی از هر مشکلی به‌سرعت آن را رفع می‌کنند؛ حتی اگر نیاز باشد Tim Jones در آخر هفته برای اصلاح یک فارم طلا (Gold Farm) دست‌به‌کار شود."
-   ],
-   "tags_fa": [
-    "مصاحبه",
-    "Forever",
-    "اقتصاد"
-   ],
-   "items": [],
-   "title_en": "Catch-Up Mechanics & The Economy in WoW: Forever - But Why Tho? Interview",
-   "source_url": "https://www.wowhead.com/news=383818",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383818-catch-up-mechanics-the-economy-in-wow-forever-but-why-tho-interview.html",
-   "published_at": "2026-11-12T14:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383818/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383818/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383851,
-   "slug": "restoration-druid-change-to-wild-growth-in-wow-forever",
-   "title_fa": "تغییرات تلنت Wild Growth برای Restoration Druid در WoW: Forever",
-   "lead_fa": "در قالب یک هاتفیکس، تلنت نهایی Wild Growth برای کلاس Restoration Druid در WoW: Forever دستخوش تغییر شد.",
-   "body_fa": [
-    "بازیکنان Restoration Druid در نسخهٔ WoW: Forever امروز شاهد اعمال تغییراتی روی تلنت شاخص خود یعنی Wild Growth بوده‌اند.",
-    {
-     "t": "h",
-     "x": "جزئیات تغییرات Wild Growth"
-    },
-    "تغییرات اعمال‌شده بر روی این تلنت شامل موارد زیر است:",
-    {
-     "t": "ul",
-     "xs": [
-      "دیگر هنگام حرکت قابل کست کردن نیست.",
-      "ضریب Spell power آن ۱۰۰٪ افزایش یافته و به 0.066 رسیده است (پیش‌تر 0.033 بود)."
-     ]
-    },
-    "دلیل این‌که چرا با عرضهٔ WoW: Forever امکان کست کردن Wild Growth هنگام حرکت وجود داشت مشخص نیست، اما این وضعیت دیگر تغییر کرده است. با این حال، دو برابر شدن بهره‌مندی این اسپل از Spell power احتمالاً به جبران این نرف کمک می‌کند."
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "WoW Forever",
-    "Restoration Druid",
-    "تغییرات کلاس‌ها"
-   ],
-   "items": [],
-   "title_en": "Restoration Druid Change to Wild Growth in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383851",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383851-restoration-druid-change-to-wild-growth-in-wow-forever.html",
-   "published_at": "2026-11-12T04:14:59Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383851/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383851/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383848,
-   "slug": "tailoring-bag-cost-and-size-changes-wow-forever-hotfixes-for-november",
-   "title_fa": "هاتفیکس‌های ۱۱ نوامبر ۲۰۲۶: تغییر ظرفیت و هزینه ساخت کیف‌های Tailoring",
-   "lead_fa": "جدیدترین هاتفیکس‌های بازی با تغییر در هزینه ساخت و ظرفیت کیف‌های خیاطی، غیرفعال شدن موقت Item Restoration و اصلاحاتی برای چندین کلاس همراه شده است.",
-   "body_fa": [
-    "شرکت Blizzard فهرست تازه‌ای از هاتفیکس‌ها را برای تاریخ ۱۱ نوامبر ۲۰۲۶ منتشر کرده است که علاوه بر تغییر در هزینه و فضای کیف‌های رشته Tailoring، شامل رفع باگ‌های مربوط به کوئست‌ها، موجودات محیطی و کلاس‌ها می‌شود.",
-    {
-     "t": "note",
-     "x": "بخش پشتیبانی اعلام کرده است که سرویس Item Restoration موقتاً و تا زمان بررسی و رفع یک باگ بحرانی غیرفعال خواهد بود.",
-     "kind": "warn"
-    },
-    {
-     "t": "h",
-     "x": "تغییرات کیف‌های حرفه Tailoring"
-    },
-    "مواد اولیه و فضای اسلات برخی از کیف‌ها که به اشتباه کوچک‌تر از حد تعیین‌شده بودند، بازنگری شده است. ساخت این کیف‌ها اکنون به پارچه بیشتری نیاز دارد اما اسلات بیشتری ارائه می‌دهند:",
-    {
-     "t": "ul",
-     "xs": [
-      "کیف [[item:Red Mageweave Bag]]: نیازمند ۵ عدد bolt of mageweave (قبلاً ۴ عدد) و دارای ۱۴ اسلات",
-      "کیف [[item:Green Silk Pack]]: نیازمند ۵ عدد bolt of silk (قبلاً ۴ عدد) و دارای ۱۲ اسلات",
-      "کیف [[item:Black Silk Pack]]: نیازمند ۶ عدد bolt of silk (قبلاً ۵ عدد) و دارای ۱۲ اسلات",
-      "کیف [[item:Green Woolen Bag]]: نیازمند ۵ عدد bolt of wool (قبلاً ۴ عدد) و دارای ۱۰ اسلات",
-      "کیف [[item:Red Woolen Bag]]: نیازمند ۵ عدد bolt of wool (قبلاً ۴ عدد) و دارای ۱۰ اسلات"
-     ]
-    },
-    {
-     "t": "h",
-     "x": "تغییرات و اصلاحات کلاس‌ها"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "کلاس Druid شاخه Feral: تلنت Rend and Tear اکنون روی Bleed حاصل از Pounce اعمال می‌شود.",
-      "کلاس Hunter: مشکلی که در آن Volley باعث فعال‌شدن اثرات جانبی (procs) می‌شد برطرف شد؛ همچنین ادامه چنل این اسپل پس از شروع حرکت هانتر رفع شده است.",
-      "کلاس Paladin: قابلیت Judgement اکنون حمله از راه دور (Ranged Attack) محسوب می‌شود؛ بنابراین دیگر Melee به شمار نمی‌رود و وابسته به Ranged Hit chance است. در شاخه Retribution نیز Unsealed Fury دیگر از حملات Windfury Totem پژواک (echoes) تولید نمی‌کند.",
-      "کلاس Priest: قابلیت Confounding Flash نژاد Gnome و تلنت The Twilight Focus در شاخه Holy اکنون درون Shadowform به درستی عمل می‌کنند.",
-      "کلاس Shaman: باگی که باعث کار نکردن Flametongue Totem رنک ۲ می‌شد اصلاح شد."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "تغییرات موجودات و آیتم‌ها"
-    },
-    "میزان Damage چندین موجود در Riverglades کاهش یافته است. قابلیت Smash متعلق به Twilight Enforcer به طور چشمگیری ضعیف‌تر شده، Damage مربوط به Executioner Morg کاهش یافته و توانایی Mark of Flames متعلق به Twilight Forgemaster به جای ۱۰۰۰ واحد، اکنون ۵۰ واحد آسیب را افزایش می‌دهد.",
-    "در بخش آیتم‌ها نیز [[item:Bloody Claws of Attack]] به درستی ۱ واحد مهارت Fist/Unarmed Weapon می‌دهد و مشکل اهدای بیش از حد Spell Damage توسط [[item:Earthen Silk Slippers]] رفع شده است.",
-    {
-     "t": "h",
-     "x": "ماموریت‌ها و محیط بازی"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "در منطقه Western Plaguelands امکان تعامل با Command Tent در کوئست Scarlet Diversions اصلاح شد.",
-      "در منطقه Arathi Highlands مشکل کار نکردن Witherbark Mallet در مأموریت The Giant in the Den برطرف شد.",
-      "در منطقه Feralas عدم ریست شدن درِ قفس (Cage Door) در کوئست Freedom for All Creatures اصلاح شد.",
-      "امکان سوار شدن بر مرکب (mount) در مناطق دارای نام در Shen’dralas که پیش‌تر غیرفعال شده بود، مجدداً فعال گشت."
-     ]
-    }
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "Tailoring",
-    "تغییرات کلاس‌ها"
-   ],
-   "items": [],
-   "title_en": "Tailoring Bag Cost and Size Changes - WoW: Forever Hotfixes for November 11th, 2026",
-   "source_url": "https://www.wowhead.com/news=383848",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383848-tailoring-bag-cost-and-size-changes-wow-forever-hotfixes-for-november.html",
-   "published_at": "2026-11-12T00:52:58Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383848/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383848/1.png",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383934,
-   "title_en": "All Quests for New Alcaz Prison Dungeon in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383934",
-   "category": "Forever",
-   "published_at": "2026-11-21T15:00:00Z"
-  },
-  {
-   "id": 383949,
-   "title_en": "LFG Bug Fix Causes Players to See More Groups - WoW: Forever Hotfixes for November 20, 2026",
-   "url": "https://www.wowhead.com/news=383949",
-   "category": "Forever",
-   "published_at": "2026-11-21T00:23:36Z"
-  },
-  {
-   "id": 383933,
-   "title_en": "Every Quest for Level 30 to 40 Dungeons in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383933",
-   "category": "Forever",
-   "published_at": "2026-11-20T15:00:00Z"
-  },
   {
    "id": 383940,
    "title_en": "Skyborne Now Get Reputation Discount for Mounts in WoW: Forever But You'll Need A Lot of Runecloth",
@@ -3670,6 +3734,20 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
+  },
+  {
+   "id": 383519,
+   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383519",
+   "category": "Live",
+   "published_at": "2026-10-21T00:09:55Z"
+  },
+  {
+   "id": 383518,
+   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
+   "url": "https://www.wowhead.com/news=383518",
+   "category": "Live",
+   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }

@@ -204,27 +204,27 @@
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383940/1.jpg",
  "last_rejected": {
-  "title_fa": "اعمال تخفیف مانت برای Skyborne در WoW: Forever بدون نیاز به اعتبار",
-  "lead_fa": "در پی هاتفیکس اخیر WoW: Forever، تمام بازیکنان Skyborne اکنون بدون در نظر گرفتن سطح اعتبار خود، از تخفیف ۱۰ درصدی برای مهارت‌های مانت بهره‌مند می‌شوند.",
+  "title_fa": "تخفیف مانت برای Skyborne در WoW: Forever بدون وابستگی به رپیوتیشن",
+  "lead_fa": "تمامی شخصیت‌های Skyborne در WoW: Forever اکنون از تخفیف ۱۰ درصدی برای مهارت‌های سوارکاری مانت بهره‌مند می‌شوند.",
   "body_fa": [
-   "هم‌زمان با انتشار WoW: Forever، بازیکنان متوجه شدند که Skyborne تخفیف ۱۰ درصدی معمول را از فروشندگان مانت دریافت نمی‌کند. بلیزارد در یادداشت‌های هاتفیکس دیروز به رفع این موضوع اشاره کرد.",
+   "با عرضه WoW: Forever، بازیکنان متوجه شدند که Skyborne تخفیف ۱۰ درصدی معمول فروشندگان مانت را دریافت نمی‌کند. در هاتفیکس‌های اخیر، Blizzard به این موضوع اشاره کرد و تغییری در این زمینه اعمال نمود.",
    {
     "t": "quote",
-    "x": "مشکلی که مانع دریافت تخفیف ۱۰ درصدی طلا در سطح اعتبار Honored برای مهارت‌های Apprentice و Journeyman Riding از Genn Fairweather در Zephras Isle توسط Skyborne می‌شد، برطرف گردید.",
+    "x": "مشکلی که مانع از دریافت تخفیف طلای ۱۰ درصدی ناشی از وضعیت Honored توسط Skyborne برای مهارت‌های سوارکاری Apprentice و Journeyman نزد فروشنده Genn Fairweather در Zephras Isle می‌شد، برطرف شد.",
     "by": "Blizzard"
    },
-   "با وجود اینکه متن هاتفیکس به فعال شدن تخفیف در سطح Honored اشاره دارد، بررسی‌ها نشان می‌دهد این تخفیف اکنون برای تمام Skyborne فعال است. برای نمونه، شخصیتی با سطح اعتبار Friendly نزد Windshapers نیز همچنان از این تخفیف ۱۰ درصدی برای مهارت‌های مانت Rare با اسکیل 75 یا سرعت مهارت معادل و نسخه Epic برخوردار است.",
+   "گرچه این توضیح نشان می‌داد که تخفیف تنها در وضعیت Honored اعمال خواهد شد، اما بررسی‌ها نشان می‌دهد این تخفیف اکنون برای تمام Skyborne فعال است؛ به‌طوری‌که حتی یک کاراکتر با وضعیت Friendly نزد Windshapers نیز ۱۰ درصد تخفیف را برای مهارت‌های سوارکاری Rare و Epic دریافت می‌کند.",
    {
     "t": "note",
-    "x": "مشخص نیست اعمال این تخفیف ۱۰ درصدی برای همه فارغ از سطح اعتبار، رفتاری عمدی از سوی سازندگان است یا خیر، اما در حال حاضر تمام Skyborne می‌توانند از آن استفاده کنند.",
+    "x": "مشخص نیست این اعمال همگانی تخفیف ۱۰ درصدی فارغ از سطح رپیوتیشن عمدی است یا خیر، اما در حال حاضر فعال است.",
     "kind": "info"
    }
   ],
   "tags_fa": [
-   "هاتفیکس",
    "WoW Forever",
+   "Skyborne",
    "مانت",
-   "تخفیف"
+   "هاتفیکس"
   ]
  },
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",

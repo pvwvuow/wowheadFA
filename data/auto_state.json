@@ -1,74 +1,25 @@
 {
  "day": "2026-11-21",
- "published_today": 6,
- "held": {},
+ "published_today": 9,
+ "held": {
+  "383940": {
+   "reason": "G4 numbers from source missing in article: 150, 50, 60",
+   "at": "2026-11-21T21:40:06Z",
+   "at_ts": 1795297206.163003
+  },
+  "383907": {
+   "reason": "بازبین پاسخ معتبر نداد: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge) | G4 ",
+   "at": "2026-11-21T21:44:30Z",
+   "at_ts": 1795297470.465104
+  }
+ },
  "ingest_fails": {
   "383735": 4
  },
- "updated_at": "2026-11-21T16:59:26Z",
+ "updated_at": "2026-11-21T21:44:30Z",
  "stats": {
   "since": "2026-10-25T19:13:08Z",
   "items": [
-   {
-    "id": "383541",
-    "ts": "2026-11-17T10:50:44Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 34.3,
-    "attempts": 0
-   },
-   {
-    "id": "383487",
-    "ts": "2026-11-17T10:51:27Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 42.6,
-    "attempts": 0
-   },
-   {
-    "id": "383519",
-    "ts": "2026-11-17T10:52:14Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 46.8,
-    "attempts": 0
-   },
-   {
-    "id": "383518",
-    "ts": "2026-11-17T10:53:49Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 95.6,
-    "attempts": 0
-   },
-   {
-    "id": "383903",
-    "ts": "2026-11-17T16:41:29Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 10.3,
-    "attempts": 1
-   },
-   {
-    "id": "383863",
-    "ts": "2026-11-17T16:42:35Z",
-    "path": "primary",
-    "result": "skip",
-    "blocks": 0,
-    "warns": 0,
-    "sec": 65.7,
-    "attempts": 1
-   },
    {
     "id": "383824",
     "ts": "2026-11-17T16:43:32Z",
@@ -4008,6 +3959,66 @@
     "warns": 0,
     "sec": 81.1,
     "attempts": 1
+   },
+   {
+    "id": "383934",
+    "ts": "2026-11-21T21:21:19Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 512.7,
+    "attempts": 2
+   },
+   {
+    "id": "383949",
+    "ts": "2026-11-21T21:29:50Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 511.1,
+    "attempts": 2
+   },
+   {
+    "id": "383933",
+    "ts": "2026-11-21T21:34:51Z",
+    "path": "primary",
+    "result": "published",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 300.9,
+    "attempts": 2
+   },
+   {
+    "id": "383940",
+    "ts": "2026-11-21T21:40:06Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 1,
+    "warns": 0,
+    "sec": 314.4,
+    "attempts": 2
+   },
+   {
+    "id": "383920",
+    "ts": "2026-11-21T21:41:10Z",
+    "path": "primary",
+    "result": "skip",
+    "blocks": 0,
+    "warns": 0,
+    "sec": 64.0,
+    "attempts": 1
+   },
+   {
+    "id": "383907",
+    "ts": "2026-11-21T21:44:30Z",
+    "path": "primary",
+    "result": "held",
+    "blocks": 2,
+    "warns": 0,
+    "sec": 200.3,
+    "attempts": 2
    }
   ]
  }
