@@ -1,8 +1,167 @@
 {
- "generated": "2026-11-21T21:11:19Z",
+ "generated": "2026-11-21T21:12:28Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383934,
+   "slug": "all-quests-for-new-alcaz-prison-dungeon-in-wow-forever",
+   "title_fa": "راهنمای کوئست‌های دانجن جدید Alcaz Prison در WoW: Forever",
+   "lead_fa": "دانجن جدید Alcaz Prison در WoW: Forever برای بازیکنان حدود لول ۵۰ در دسترس است و شامل چندین کوئست اختصاصی و یک کوئست مخفی درون دانجن می‌شود.",
+   "body_fa": [
+    "دانجن Alcaz Prison در Alcaz Island، جزیره‌ای تنها واقع در شمال شرقی Dustwallow Marsh، قرار دارد. این دانجن در دسته دانجن‌های کوتاه‌تر محسوب می‌شود و تکمیل آن احتمالاً حدود ۳۰ دقیقه طول می‌کشد.",
+    "دریافت کوئست‌های Alcaz Prison نسبتاً آسان است. برای هر فکشن سه کوئست در خارج از دانجن طراحی شده و علاوه بر آن‌ها، یک کوئست مخفی نیز داخل خود دانجن وجود دارد.",
+    {
+     "t": "h",
+     "x": "کوئست مخفی دانجن"
+    },
+    "این کوئست مخفی The Man in the Iron Chains نام دارد (لول ۴۸) و پاداشی معادل ۲۵ گلد می‌دهد. این مأموریت تنها در صورتی ظاهر می‌شود که یک باس را دور بزنید و اسکیپ کنید؛ پس از گرفتن مأموریت از Mason Connery بعد از کشتن باس نهایی، می‌توانید برای هدف کوئست بازگردید و آن باس را بکشید. این مأموریت فقط زمانی در دسترس قرار می‌گیرد که The Questioner هنوز زنده باشد.",
+    {
+     "t": "note",
+     "x": "کوئست مخفی The Man in the Iron Chains تنها در شرایطی فعال می‌شود که The Questioner هنوز زنده باشد.",
+     "kind": "tip"
+    },
+    {
+     "t": "h",
+     "x": "فهرست کوئست‌های دانجن"
+    },
+    {
+     "t": "table",
+     "head": [
+      "کوئست",
+      "لول",
+      "مکان و شروع‌کننده"
+     ],
+     "rows": [
+      [
+       "The Dragon's Journal",
+       "۴۶",
+       "Alterac Mountains, Dalaran - Archmage Lan'dalock /way 15.6 73.6"
+      ],
+      [
+       "A Bit of Wet Work (منجر به Somber News)",
+       "48",
+       "Dustwallow Marsh, Theramore Graveyard - Sully McCleary /way 63.4 42.4 (آغاز با Our Man in Theramore از Master Mathias Shaw در Old Town شهر Stormwind City)"
+      ],
+      [
+       "The Secret Prison",
+       "48",
+       "Dustwallow Marsh, Theramore Graveyard - Sully McCleary /way 63.4 42.4 (آغاز با Our Man in Theramore از Master Mathias Shaw در Old Town شهر Stormwind City)"
+      ],
+      [
+       "No Orc Left Behind (منجر به The Honor of the Kor'kron)",
+       "48",
+       "Dustwallow Marsh, Alcaz Island - Sergeant Ulka /way 33.4 38 (آغاز با The Missing Kor'kron از Eitrigg در Orgrimmar /way 34.6 38.6)"
+      ],
+      [
+       "A Little Payback",
+       "48",
+       "Dustwallow Marsh, Alcaz Island - Sergeant Ulka /way 33.4 38 (آغاز با The Missing Kor'kron از Eitrigg در Orgrimmar /way 34.6 38.6)"
+      ],
+      [
+       "Blood Red Bandanas",
+       "48",
+       "Dustwallow Marsh, Alcaz Island - Sergeant Ulka /way 33.4 38 (آغاز با The Missing Kor'kron از Eitrigg در Orgrimmar /way 34.6 38.6)"
+      ],
+      [
+       "The Man in the Iron Chains",
+       "48",
+       "درون دانجن - Mason Connery پس از کشتن باس آخر (فقط در صورت زنده بودن The Questioner)"
+      ]
+     ]
+    },
+    "بازیکنان می‌توانند پیش از ورود به دانجن، پیش‌نیازهای مأموریت‌های هر جناح را از طریق Stormwind City و Orgrimmar دنبال کنند تا تمامی کوئست‌های مربوطه را دریافت نمایند."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "دانجن",
+    "راهنمای کوئست",
+    "Alcaz Prison"
+   ],
+   "items": [],
+   "title_en": "All Quests for New Alcaz Prison Dungeon in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383934",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383934-all-quests-for-new-alcaz-prison-dungeon-in-wow-forever.html",
+   "published_at": "2026-11-21T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383934/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383934/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383949,
+   "slug": "lfg-bug-fix-causes-players-to-see-more-groups-wow-forever-hotfixes-for",
+   "title_fa": "رفع باگ سیستم LFG و تغییرات تازه در هاتفیکس‌های ۲۰ نوامبر ۲۰۲۶",
+   "lead_fa": "بلیزارد در هاتفیکس‌های ۲۰ نوامبر ۲۰۲۶ مشکل نمایش کمتر گروه‌ها در سیستم LFG را برطرف کرد و تغییراتی روی دانجن‌ها، کلاس‌ها و کوئست‌ها اعمال نمود.",
+   "body_fa": [
+    "شرکت Blizzard مجموعه هاتفیکس‌های تازه‌ای را برای تاریخ ۲۰ نوامبر ۲۰۲۶ منتشر کرده است که یکی از تغییرات شاخص آن به برطرف شدن مشکلی در بخش User Interface مربوط می‌شود؛ باگی که باعث شده بود برخی بازیکنان هنگام جستجو در سیستم LFG تعداد گروه‌های کمتری نسبت به حالت در نظر گرفته‌شده مشاهده کنند.",
+    {
+     "t": "h",
+     "x": "تغییرات کلاس‌ها"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "کلاس Rogue (شاخه Combat): قابلیت Blade Flurry اکنون به درستی باعث می‌شود آسیب Shank به یک هدف اضافی برخورد کند.",
+      "کلاس Warlock (شاخه Demonology): باگی برطرف شد که در آن افکت‌های تلنت Demonic Aegis روی Demon Armor یا Demon Skin ثبت می‌شد و بازیکنان می‌توانستند با ریست تلنت همچنان این افکت‌ها را حفظ کنند؛ اکنون با فراموش کردن تلنت‌ها، Demonic Aegis و Demon Skin حذف می‌شوند."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "دانجن‌ها، آیتم‌ها و مشاغل"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "بازیکنان از این پس می‌توانند حداکثر ۵ بار در هر ساعت هر دانجن را ریست کرده و وارد آن شوند (این مقدار قبلاً ۱۰ بار بود).",
+      "در دانجن Blackrock Spire ستون سنگی سرکشی که ماجراجویان را به دام می‌انداخت اصلاح شد.",
+      "بونوس ست ۳ تکه [[item:Stormshroud Armor]] تغییر یافته و شانس آن هنگام حمله Melee به ۳٪ (قبلاً ۴٪) و میزان بازیابی Energy به ۱۸ (قبلاً ۳۰) کاهش پیدا کرد.",
+      "در Summit of Eternity ان‌پی‌سی Toron Rockhoof کوره و سندان خود را تعمیر کرده و این وسایل اکنون برای Blacksmithing و Smelting قابل استفاده هستند."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "کوئست‌ها و ان‌پی‌سی‌ها"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "در Orgrimmar چشمان Mayhoa Skyhoof دیگر درخشان نیست.",
+      "در منطقه The Hinterlands در صورت کشته شدن Witch Doctor Ti’ik توسط گروهی که کوئست «Witch Doctor Ti’ik» را دارند، چندین نسخه از سر او دراپ می‌شود.",
+      "در Feralas مشکلی که در آن [[item:Perfect Yeti Hide]] حین داشتن کوئست مربوطه‌اش دوباره دراپ می‌شد برطرف گردید.",
+      "در Tanaris زمان ریسپاون Gor’marok برای کوئست «The Dunemaul Compound» سریع‌تر شد.",
+      "در Riverglades شخصیت Dunston Willis دیگر در میانه کوئست «Dunston Checks Out» فرار نمی‌کند."
+     ]
+    }
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "LFG",
+    "کلاس‌ها",
+    "دانجن"
+   ],
+   "items": [],
+   "title_en": "LFG Bug Fix Causes Players to See More Groups - WoW: Forever Hotfixes for November 20, 2026",
+   "source_url": "https://www.wowhead.com/news=383949",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383949-lfg-bug-fix-causes-players-to-see-more-groups-wow-forever-hotfixes-for.html",
+   "published_at": "2026-11-21T00:23:36Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383949/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383949/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383946,
    "slug": "itemization-of-crafted-tier-sets-revealed-in-wow-forever-s-first-raid",
@@ -3263,131 +3422,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383851,
-   "slug": "restoration-druid-change-to-wild-growth-in-wow-forever",
-   "title_fa": "تغییرات تلنت Wild Growth برای Restoration Druid در WoW: Forever",
-   "lead_fa": "در قالب یک هاتفیکس، تلنت نهایی Wild Growth برای کلاس Restoration Druid در WoW: Forever دستخوش تغییر شد.",
-   "body_fa": [
-    "بازیکنان Restoration Druid در نسخهٔ WoW: Forever امروز شاهد اعمال تغییراتی روی تلنت شاخص خود یعنی Wild Growth بوده‌اند.",
-    {
-     "t": "h",
-     "x": "جزئیات تغییرات Wild Growth"
-    },
-    "تغییرات اعمال‌شده بر روی این تلنت شامل موارد زیر است:",
-    {
-     "t": "ul",
-     "xs": [
-      "دیگر هنگام حرکت قابل کست کردن نیست.",
-      "ضریب Spell power آن ۱۰۰٪ افزایش یافته و به 0.066 رسیده است (پیش‌تر 0.033 بود)."
-     ]
-    },
-    "دلیل این‌که چرا با عرضهٔ WoW: Forever امکان کست کردن Wild Growth هنگام حرکت وجود داشت مشخص نیست، اما این وضعیت دیگر تغییر کرده است. با این حال، دو برابر شدن بهره‌مندی این اسپل از Spell power احتمالاً به جبران این نرف کمک می‌کند."
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "WoW Forever",
-    "Restoration Druid",
-    "تغییرات کلاس‌ها"
-   ],
-   "items": [],
-   "title_en": "Restoration Druid Change to Wild Growth in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383851",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383851-restoration-druid-change-to-wild-growth-in-wow-forever.html",
-   "published_at": "2026-11-12T04:14:59Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383851/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383851/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383848,
-   "slug": "tailoring-bag-cost-and-size-changes-wow-forever-hotfixes-for-november",
-   "title_fa": "هاتفیکس‌های ۱۱ نوامبر ۲۰۲۶: تغییر ظرفیت و هزینه ساخت کیف‌های Tailoring",
-   "lead_fa": "جدیدترین هاتفیکس‌های بازی با تغییر در هزینه ساخت و ظرفیت کیف‌های خیاطی، غیرفعال شدن موقت Item Restoration و اصلاحاتی برای چندین کلاس همراه شده است.",
-   "body_fa": [
-    "شرکت Blizzard فهرست تازه‌ای از هاتفیکس‌ها را برای تاریخ ۱۱ نوامبر ۲۰۲۶ منتشر کرده است که علاوه بر تغییر در هزینه و فضای کیف‌های رشته Tailoring، شامل رفع باگ‌های مربوط به کوئست‌ها، موجودات محیطی و کلاس‌ها می‌شود.",
-    {
-     "t": "note",
-     "x": "بخش پشتیبانی اعلام کرده است که سرویس Item Restoration موقتاً و تا زمان بررسی و رفع یک باگ بحرانی غیرفعال خواهد بود.",
-     "kind": "warn"
-    },
-    {
-     "t": "h",
-     "x": "تغییرات کیف‌های حرفه Tailoring"
-    },
-    "مواد اولیه و فضای اسلات برخی از کیف‌ها که به اشتباه کوچک‌تر از حد تعیین‌شده بودند، بازنگری شده است. ساخت این کیف‌ها اکنون به پارچه بیشتری نیاز دارد اما اسلات بیشتری ارائه می‌دهند:",
-    {
-     "t": "ul",
-     "xs": [
-      "کیف [[item:Red Mageweave Bag]]: نیازمند ۵ عدد bolt of mageweave (قبلاً ۴ عدد) و دارای ۱۴ اسلات",
-      "کیف [[item:Green Silk Pack]]: نیازمند ۵ عدد bolt of silk (قبلاً ۴ عدد) و دارای ۱۲ اسلات",
-      "کیف [[item:Black Silk Pack]]: نیازمند ۶ عدد bolt of silk (قبلاً ۵ عدد) و دارای ۱۲ اسلات",
-      "کیف [[item:Green Woolen Bag]]: نیازمند ۵ عدد bolt of wool (قبلاً ۴ عدد) و دارای ۱۰ اسلات",
-      "کیف [[item:Red Woolen Bag]]: نیازمند ۵ عدد bolt of wool (قبلاً ۴ عدد) و دارای ۱۰ اسلات"
-     ]
-    },
-    {
-     "t": "h",
-     "x": "تغییرات و اصلاحات کلاس‌ها"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "کلاس Druid شاخه Feral: تلنت Rend and Tear اکنون روی Bleed حاصل از Pounce اعمال می‌شود.",
-      "کلاس Hunter: مشکلی که در آن Volley باعث فعال‌شدن اثرات جانبی (procs) می‌شد برطرف شد؛ همچنین ادامه چنل این اسپل پس از شروع حرکت هانتر رفع شده است.",
-      "کلاس Paladin: قابلیت Judgement اکنون حمله از راه دور (Ranged Attack) محسوب می‌شود؛ بنابراین دیگر Melee به شمار نمی‌رود و وابسته به Ranged Hit chance است. در شاخه Retribution نیز Unsealed Fury دیگر از حملات Windfury Totem پژواک (echoes) تولید نمی‌کند.",
-      "کلاس Priest: قابلیت Confounding Flash نژاد Gnome و تلنت The Twilight Focus در شاخه Holy اکنون درون Shadowform به درستی عمل می‌کنند.",
-      "کلاس Shaman: باگی که باعث کار نکردن Flametongue Totem رنک ۲ می‌شد اصلاح شد."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "تغییرات موجودات و آیتم‌ها"
-    },
-    "میزان Damage چندین موجود در Riverglades کاهش یافته است. قابلیت Smash متعلق به Twilight Enforcer به طور چشمگیری ضعیف‌تر شده، Damage مربوط به Executioner Morg کاهش یافته و توانایی Mark of Flames متعلق به Twilight Forgemaster به جای ۱۰۰۰ واحد، اکنون ۵۰ واحد آسیب را افزایش می‌دهد.",
-    "در بخش آیتم‌ها نیز [[item:Bloody Claws of Attack]] به درستی ۱ واحد مهارت Fist/Unarmed Weapon می‌دهد و مشکل اهدای بیش از حد Spell Damage توسط [[item:Earthen Silk Slippers]] رفع شده است.",
-    {
-     "t": "h",
-     "x": "ماموریت‌ها و محیط بازی"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "در منطقه Western Plaguelands امکان تعامل با Command Tent در کوئست Scarlet Diversions اصلاح شد.",
-      "در منطقه Arathi Highlands مشکل کار نکردن Witherbark Mallet در مأموریت The Giant in the Den برطرف شد.",
-      "در منطقه Feralas عدم ریست شدن درِ قفس (Cage Door) در کوئست Freedom for All Creatures اصلاح شد.",
-      "امکان سوار شدن بر مرکب (mount) در مناطق دارای نام در Shen’dralas که پیش‌تر غیرفعال شده بود، مجدداً فعال گشت."
-     ]
-    }
-   ],
-   "tags_fa": [
-    "هاتفیکس",
-    "Tailoring",
-    "تغییرات کلاس‌ها"
-   ],
-   "items": [],
-   "title_en": "Tailoring Bag Cost and Size Changes - WoW: Forever Hotfixes for November 11th, 2026",
-   "source_url": "https://www.wowhead.com/news=383848",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383848-tailoring-bag-cost-and-size-changes-wow-forever-hotfixes-for-november.html",
-   "published_at": "2026-11-12T00:52:58Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383848/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383848/1.png",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3397,20 +3431,6 @@
    "url": "https://www.wowhead.com/news=383950",
    "category": "Forever",
    "published_at": "2026-11-21T19:26:27Z"
-  },
-  {
-   "id": 383934,
-   "title_en": "All Quests for New Alcaz Prison Dungeon in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383934",
-   "category": "Forever",
-   "published_at": "2026-11-21T15:00:00Z"
-  },
-  {
-   "id": 383949,
-   "title_en": "LFG Bug Fix Causes Players to See More Groups - WoW: Forever Hotfixes for November 20, 2026",
-   "url": "https://www.wowhead.com/news=383949",
-   "category": "Forever",
-   "published_at": "2026-11-21T00:23:36Z"
   },
   {
    "id": 383933,
@@ -3670,6 +3690,20 @@
    "url": "https://www.wowhead.com/news=383540",
    "category": "Forever",
    "published_at": "2026-10-22T16:21:06Z"
+  },
+  {
+   "id": 383487,
+   "title_en": "The Current State of Protection Paladins in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383487",
+   "category": "Forever",
+   "published_at": "2026-10-21T19:06:30Z"
+  },
+  {
+   "id": 383519,
+   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
+   "url": "https://www.wowhead.com/news=383519",
+   "category": "Live",
+   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
