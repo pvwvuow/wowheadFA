@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T00:27:56Z",
+ "generated": "2026-11-21T01:23:34Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3412,6 +3412,13 @@
  ],
  "queue": [
   {
+   "id": 383949,
+   "title_en": "LFG Bug Fix Causes Players to See More Groups - WoW: Forever Hotfixes for November 20, 2026",
+   "url": "https://www.wowhead.com/news=383949",
+   "category": "Forever",
+   "published_at": "2026-11-21T00:23:36Z"
+  },
+  {
    "id": 383943,
    "title_en": "Layer Swap and Other Targeted Layering Addons Will Be Disabled Soon in WoW: Forever",
    "url": "https://www.wowhead.com/news=383943",
@@ -3683,13 +3690,6 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
