@@ -148,12 +148,53 @@
   ],
   "chars": 1399
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383890/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383890/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383890/1.jpg",
+ "article_fa": {
+  "title_fa": "باز کردن مسیر میان‌بر در Krol'dok Stronghold با ساخت کلید میان‌بر",
+  "lead_fa": "بازیکنان می‌توانند با کامل کردن یک زنجیره‌کوئست در دانجن Krol'dok Stronghold کلیدی بسازند که مسیر رسیدن به باس آخر را بسیار کوتاه‌تر می‌کند.",
+  "body_fa": [
+   "در بازی World of Warcraft Forever که شامل نه دانجن جدید است، دانجن Krol'dok Stronghold مأموریتی درون خود دارد که ساخت یک کلید کاربردی را ممکن می‌سازد. با در اختیار داشتن این کلید می‌توانید در دفعات بعدی، درهای متعددی را باز کنید و سرعت پاکسازی دانجن را افزایش دهید.",
+   {
+    "t": "h",
+    "x": "مراحل دریافت کلید و پیش‌نیازها"
+   },
+   "آیتم شروع کوئست Krol'dok Moulding پس از کشتن یک NPC به نام Tunk درون دانجن به دست می‌آید. بازیکنان Horde باید این آیتم را نزد Kreza Darkthorn در Rog’mar ببرند و بازیکنان Alliance باید به سراغ Alphonse Dumas در Farholde Keep بروند که هر دو در منطقه Riverglades مستقر هستند.",
+   {
+    "t": "note",
+    "x": "پیش از ورود به دانجن و شروع این مأموریت، می‌توانید با همراه داشتن ۴ عدد Thick Leather و ۱۲ عدد Iron Bar بلافاصله کوئست بعدی یعنی Key Ingredients را تحویل دهید و Krol'dok Compound Key را به دست آورید. مجموع این دو کوئست حدود 7,000 پوینت XP پاداش می‌دهد.",
+    "kind": "tip"
+   },
+   {
+    "t": "h",
+    "x": "مسیر میان‌بر به باس آخر"
+   },
+   "پس از ساخت کلید Krol'dok Compound Key، امکان باز کردن دو در برای رسیدن مستقیم به باس پایانی، Overlord Mugg، فراهم می‌شود:",
+   {
+    "t": "ul",
+    "xs": [
+     "درِ اول دقیقاً در پشت باس دوم به نام Twilight Commander Zarmok قرار گرفته است.",
+     "سپس درِ Krol'dok Gate را در مسیری واقع در سمت چپ محلی که قبلاً Tunk حضور داشت باز کنید.",
+     "با عبور از این در و ادامه دادن مسیر، Overlord Mugg در سمت چپ دیده می‌شود."
+    ]
+   },
+   "این میان‌بر دسترسی سریع‌تر به باس آخر را ممکن می‌کند تا بازیکنان بتوانند آیتم‌هایی مانند [[item:Emblem of Slamming]] را فارم کنند؛ تبلتی قدرتمند که برای محدوده سطح‌های پایین 40 مناسب است."
+  ],
+  "tags_fa": [
+   "دانجن",
+   "راهنما",
+   "Forever"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-21T00:17:34Z"
+ }
 }

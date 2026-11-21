@@ -128,57 +128,56 @@
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383920/1.jpg",
  "last_rejected": {
-  "title_fa": "حذف اچیومنت‌های درجه سختی Mythic از Talebound در سرور تست پچ 12.1.7",
-  "lead_fa": "در جدیدترین بیلد آزمایشی پچ 12.1.7، تمامی اچیومنت‌های درجه سختی Mythic از بخش Talebound کنار گذاشته شدند و پاداش تایتل‌های جدید به درجه سختی Heroic منتقل شد.",
+  "title_fa": "حذف اچیومنت‌های درجه سختی Mythic از رویداد Talebound در سرور تست 12.1.7",
+  "lead_fa": "در جدیدترین بیلد سرور آزمایشی پچ 12.1.7، تمام اچیومنت‌های مربوط به درجه سختی Mythic در Talebound حذف شده و عناوین جدیدی به درجه Heroic اضافه شده‌اند.",
   "body_fa": [
-   "در بیلد امروز سرور آزمایشی پچ 12.1.7، تغییراتی در سیستم اچیومنت‌های Talebound اعمال شده است. اگرچه این محتوا دارای چندین درجه سختی مختلف است، اما در بیلد اخیر همه اچیومنت‌های مربوط به درجه سختی Mythic به طور کامل حذف شده‌اند.",
-   {
-    "t": "note",
-    "x": "هنوز مشخص نیست که آیا درجه سختی Mythic کلاً از بازی حذف شده است یا خیر، اما پاک شدن تمامی اچیومنت‌های وابسته به آن ممکن است نشانه‌ای از حذف کامل این درجه سختی باشد.",
-    "kind": "info"
-   },
+   "در بیلد جدید سرور آزمایشی Patch 12.1.7 PTR، تمامی اچیومنت‌های درجه سختی Mythic از سیستم Talebound کنار گذاشته شده‌اند. اگرچه هنوز مشخص نیست که آیا این درجه سختی به‌طور کامل از بازی حذف شده است یا خیر، اما برداشته شدن تمامی اچیومنت‌های آن می‌تواند نشانه‌ای از حذف کلی این درجه سختی باشد.",
    {
     "t": "h",
     "x": "اچیومنت‌های حذف‌شده درجه سختی Mythic"
    },
-   "فهرست طولانی اچیومنت‌های حذف‌شده شامل اتمام داستان‌ها، باس‌ها و رویارویی پایانی بود:",
+   "فهرست دستاوردهای حذف‌شده شامل موارد مربوط به باس‌ها، سناریوها و مأموریت‌های پایانی زیر است:",
    {
     "t": "ul",
     "xs": [
-     "اتمام هر داستانی از Talebound روی درجه سختی Mythic با پاداش Traveling Raven: Cache of Mythic Treasures",
-     "اتمام تمام چهار داستان و سپس گذراندن Final Confrontation روی درجه سختی Mythic",
-     "اتمام Final Confrontation با کلاس‌های Slayer، Witch و Inquisitor روی درجه سختی Mythic با پاداش Traveling Raven: Cache of Mythic Treasures",
-     "شکست دادن Tilywth در Tales of the Storyteller روی درجه سختی Mythic",
-     "مواجهه با Final Confrontation در Tales of the Storyteller روی درجه سختی Mythic",
-     "اتمام Final Confrontation در Talebound روی درجه سختی Mythic با پاداش Traveling Raven: Venomstone Cache",
-     "شکست دادن Mobog، Zzyg'th و Chathoa روی درجه سختی Mythic",
-     "رویارویی با Final Confrontation با کلاس Inquisitor که پیش‌تر تایتل of the Sacred Flame را پاداش می‌داد",
-     "شکست دادن Konrad von Sonnesheim و Maernok روی درجه سختی Mythic",
-     "رویارویی با Final Confrontation با کلاس Slayer روی درجه سختی Mythic",
-     "اتمام داستان‌های Darkhaven، Greenthistle Wood، Greywake's Expedition و Court of Night روی درجه سختی Mythic",
-     "شکست دادن Alexandre Dozsenc، Ylska Vilefang و Granny Greenthumb روی درجه سختی Mythic",
-     "رویارویی با Final Confrontation با کلاس Witch که قبلاً عنوان of the Crooked Path را به همراه داشت"
+     "تکمیل هر داستان Talebound روی درجه سختی Mythic با پاداش Traveling Raven: Cache of Mythic Treasures",
+     "تکمیل هر چهار داستان و سپس پایان دادن به Final Confrontation روی درجه سختی Mythic",
+     "تکمیل Final Confrontation با کلاس‌های Slayer، Witch و Inquisitor روی درجه سختی Mythic با پاداش Traveling Raven: Cache of Mythic Treasures",
+     "شکست Tilywth و رویارویی با Final Confrontation در Tales of the Storyteller روی درجه سختی Mythic",
+     "تکمیل Final Confrontation روی درجه سختی Mythic با پاداش Traveling Raven: Venomstone Cache",
+     "شکست Mobog، Zzyg'th و Chathoa روی درجه سختی Mythic",
+     "پایان Final Confrontation به عنوان Inquisitor روی درجه سختی Mythic با پاداش تایتل of the Sacred Flame",
+     "شکست Konrad von Sonnesheim و Maernok روی درجه سختی Mythic",
+     "پایان Final Confrontation به عنوان Slayer روی درجه سختی Mythic",
+     "تکمیل داستان‌های Darkhaven، Greenthistle Wood، Greywake's Expedition و Court of Night روی درجه سختی Mythic",
+     "شکست Alexandre Dozsenc، Ylska Vilefang و Granny Greenthumb روی درجه سختی Mythic",
+     "پایان Final Confrontation به عنوان Witch روی درجه سختی Mythic با پاداش تایتل of the Crooked Path"
     ]
    },
    {
     "t": "h",
-    "x": "تایتل‌های جدید درجه سختی Heroic"
+    "x": "تایتل‌های جدید برای درجه سختی Heroic"
    },
-   "در پی این تغییرات، Talebound اکنون برای تکمیل Final Confrontation روی درجه سختی Heroic سه تایتل جدید اختصاص داده است که به ازای هر کلاس پاداش داده می‌شود. پاداش قبلی این اچیومنت‌ها ۲۰ عدد Bound Silver بود که با عناوین جدید جایگزین شده است:",
+   "در ساختار جدید، سه تایتل تازه برای به پایان رساندن Final Confrontation روی درجه سختی Heroic برای هر یک از کلاس‌ها تعیین شده است. همچنین پاداش هر یک از این اچیومنت‌ها از 20 Bound Silver به تایتل‌های مشخص تغییر یافته است:",
    {
     "t": "ul",
     "xs": [
-     "تکمیل Final Confrontation در Tales of the Storyteller روی درجه سختی Heroic با کلاس Inquisitor: پاداش تغییریافته از 20 Bound Silver به تایتل of the Sacred Flame",
-     "تکمیل Final Confrontation در Tales of the Storyteller روی درجه سختی Heroic با کلاس Slayer: پاداش تغییریافته از 20 Bound Silver به تایتل Monster Hunter",
-     "تکمیل Final Confrontation در Tales of the Storyteller روی درجه سختی Heroic با کلاس Witch: پاداش تغییریافته از 20 Bound Silver به تایتل of the Crooked Path"
+     "کلاس Inquisitor: تایتل of the Sacred Flame (تغییر از 20 Bound Silver)",
+     "کلاس Slayer: تایتل Monster Hunter (تغییر از 20 Bound Silver)",
+     "کلاس Witch: تایتل of the Crooked Path (تغییر از 20 Bound Silver)"
     ]
+   },
+   {
+    "t": "note",
+    "x": "هنوز تایید رسمی مبنی بر حذف کامل خود درجه سختی Mythic وجود ندارد، اما برداشته شدن هم‌زمان دستاوردهای آن در بیلد جدید PTR احتمال حذف آن را مطرح می‌کند.",
+    "kind": "info"
    }
   ],
   "tags_fa": [
    "پچ 12.1.7",
-   "سرور PTR",
-   "اچیومنت",
-   "Talebound"
+   "سرور تست",
+   "Talebound",
+   "اچیومنت"
   ]
  },
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
