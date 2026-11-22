@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T17:45:12Z",
+ "generated": "2026-11-22T19:26:00Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3518,6 +3518,20 @@
   }
  ],
  "queue": [
+  {
+   "id": 383954,
+   "title_en": "World Buffs Removed on Any Loading Screen in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383954",
+   "category": "Forever",
+   "published_at": "2026-11-22T19:01:53Z"
+  },
+  {
+   "id": 383947,
+   "title_en": "The Weekly Reset with Taliesin and Evitel: Gold in Forever",
+   "url": "https://www.wowhead.com/news=383947",
+   "category": "WoW",
+   "published_at": "2026-11-22T19:00:00Z"
+  },
   {
    "id": 383884,
    "title_en": "The Best Way to Level Lockpicking to Max in WoW: Forever",
