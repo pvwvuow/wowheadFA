@@ -16,12 +16,14 @@
    "13",
    "14",
    "16",
+   "18",
    "19",
    "20",
    "2026",
    "25",
    "30",
-   "383725"
+   "383725",
+   "40"
   ],
   "entities": [
    "a",
@@ -41,6 +43,7 @@
    "adding",
    "addition",
    "additionally",
+   "addons",
    "address.subscribe",
    "addresses",
    "adjustment",
@@ -59,6 +62,7 @@
    "ago",
    "agopatch",
    "agree",
+   "alcaz",
    "alert",
    "alexwaff",
    "alive",
@@ -152,6 +156,7 @@
    "cat",
    "category",
    "cats",
+   "causes",
    "certain",
    "change",
    "changes",
@@ -177,6 +182,7 @@
    "community",
    "companies",
    "complete",
+   "compound",
    "connect",
    "consumer",
    "contact",
@@ -191,6 +197,7 @@
    "covers",
    "cpra",
    "craft",
+   "crafted",
    "create",
    "creative",
    "creature",
@@ -201,6 +208,7 @@
    "daring",
    "date",
    "days",
+   "dblizzard",
    "ddungeon",
    "deadly",
    "death",
@@ -213,6 +221,7 @@
    "desktop",
    "destruction",
    "developing",
+   "devery",
    "device",
    "did",
    "did-blizzard-tease-future-wow-forever-class-and-race-combinations-",
@@ -220,20 +229,27 @@
    "different",
    "dinfiltrate",
    "directly",
+   "disabled",
    "discord",
    "discords",
+   "discount",
    "discovered",
+   "ditemization",
+   "dlayer",
+   "dlfg",
    "dnd",
    "do",
    "don't",
    "dragon",
    "dreams",
+   "dret",
    "drop",
    "druid",
    "druids",
    "dumb",
    "dungeon",
    "dungeons",
+   "dunlock",
    "dwarf",
    "early",
    "earn",
@@ -282,6 +298,7 @@
    "far",
    "farm",
    "farmer",
+   "farming",
    "faster",
    "fates",
    "features",
@@ -300,6 +317,7 @@
    "for",
    "forbidden",
    "forever",
+   "forever's",
    "forever-only",
    "foreverclassesclass",
    "form",
@@ -340,6 +358,7 @@
    "greatest",
    "grimoire",
    "groot",
+   "groups",
    "growing",
    "guest",
    "guide",
@@ -347,6 +366,7 @@
    "guild",
    "h",
    "hahaha",
+   "hall",
    "hand",
    "has",
    "have",
@@ -369,6 +389,7 @@
    "highest",
    "hints",
    "his",
+   "hmaximum",
    "hmore",
    "hmotes",
    "hnew",
@@ -380,6 +401,7 @@
    "hopeful",
    "hopes",
    "horns",
+   "hotfix",
    "hotfixes",
    "hour",
    "how",
@@ -431,6 +453,7 @@
    "joins",
    "just",
    "keep",
+   "key",
    "king",
    "knight",
    "know",
@@ -441,6 +464,7 @@
    "latest",
    "latter",
    "launch",
+   "layering",
    "least",
    "leather",
    "legal",
@@ -513,6 +537,7 @@
    "necessary",
    "necromancers",
    "need",
+   "nerf",
    "nerfed",
    "never",
    "new",
@@ -610,6 +635,7 @@
    "previous",
    "priests",
    "primarily",
+   "prison",
    "privacy",
    "probably",
    "profile",
@@ -641,6 +667,8 @@
    "recaps",
    "recently",
    "redirect",
+   "reduced",
+   "regardless",
    "register",
    "relate",
    "release",
@@ -660,6 +688,7 @@
    "resurrected",
    "retail",
    "reveal",
+   "revealed",
    "rewards",
    "rid",
    "right",
@@ -697,6 +726,7 @@
    "services",
    "serving",
    "set",
+   "sets",
    "setting",
    "settings",
    "several",
@@ -708,6 +738,7 @@
    "shen'dramar",
    "shift",
    "shortage",
+   "shortcut",
    "shots",
    "should",
    "shoulders",
@@ -721,12 +752,14 @@
    "sitting",
    "skill",
    "skyborne",
+   "skyborne-now-get-reputation-discount-for-mounts-in-wow-forever-but-youll-need-a-",
    "slot",
    "slowly",
    "smashed",
    "snake-form",
    "so",
    "sod",
+   "solo",
    "some",
    "something",
    "somewhere",
@@ -761,6 +794,7 @@
    "subscribing",
    "such",
    "surprise",
+   "swap",
    "switch",
    "switched",
    "systems",
@@ -831,6 +865,7 @@
    "uniquely",
    "unstable",
    "up",
+   "updated",
    "updatedprofessions",
    "updates",
    "upgrade",
@@ -932,32 +967,63 @@
  "hold_count": 6,
  "hold_at": "2026-11-18T05:35:17Z",
  "last_rejected": {
-  "title_fa": "آیا بلیزارد ترکیب‌های جدید نژاد و کلاس را برای WoW: Forever نمایش داده است؟",
-  "lead_fa": "انتشار ویدیوی ۳۰ دقیقه‌ای معرفی WoW: Forever صحنه‌هایی از اسپل‌ها و ترکیب‌های نژادی غیرمنتظره را به تصویر کشیده که توجه جامعهٔ بازیکنان را به خود جلب کرده است.",
+  "title_fa": "آیا بلیزارد ترکیب‌های جدید نژاد و کلاس را برای WoW: Forever به تصویر کشیده است؟",
+  "lead_fa": "انتشار یک ویدیوی معرفی ۳۰ دقیقه‌ای از سوی بلیزارد، با نمایش اسپل‌ها و ترکیب‌های نژادی نامتعارف، گمانه‌زنی‌های فراوانی میان بازیکنان برانگیخته است.",
   "body_fa": [
-   "شرکت Blizzard اخیراً یک ویدیوی ۳۰ دقیقه‌ای با عنوان Launch Overview در کانال رسمی یوتیوب World of Warcraft منتشر کرد تا مروری سریع بر محتواها و ویژگی‌های آینده در Forever داشته باشد؛ ویدیویی که نخستین نگاه اختصاصی به برخی دانجن‌ها و ریدهای جدید را به نمایش گذاشت.",
-   "با این حال، بینندگان متوجه شدند که برخی جزئیات حاضر در ویدیو با وضعیت فعلی همخوانی ندارد. در بخش‌هایی از تصاویر، استفاده از Chaos Bolts و مواردی دیگر که در حال حاضر در بازی وجود ندارند به چشم می‌خورد.",
+   "شرکت Blizzard در کانال یوتیوب World of Warcraft یک ویدیوی ۳۰ دقیقه‌ای با عنوان Launch Overview منتشر کرد که نگاهی کلی به محتواها و ویژگی‌های جدید Forever داشت و تصاویری اختصاصی از دانجن‌ها و ریدهای تازه ارائه داد. با این حال، بازیکنان متوجه مواردی شدند که در حال حاضر داخل بازی وجود ندارند؛ از جمله نمایش اسپل Chaos Bolts در برخی صحنه‌ها.",
    {
     "t": "h",
-    "x": "توانایی‌های غایب و ترکیب‌های نژادی نامتعارف"
+    "x": "مشاهده توانایی‌ها و ترکیب‌های غیرمنتظره"
    },
-   "موارد عجیب به همین‌جا ختم نشد؛ در چند فریم از ویدیو، یک Druid در حال اجرای Starfall دیده شد؛ اسپل نام‌آشنایی که متعلق به بستهٔ الحاقی Wrath of the Lich King است. افزون بر این، ترکیب‌های نژادی نامتعارفی نظیر یک Skyborne Paladin، یک Tauren Mage در حال اجرای Frostbolt و یک Night Elf با ست Shaman tier 0.5 در تصویر ظاهر شدند.",
+   "علاوه بر اسپل‌های ناشناخته، در چندین فریم یک Druid در حال استفاده از Starfall دیده شد؛ قابلیتی شناخته‌شده از دوران Wrath of the Lich King. در کنار آن، ترکیب‌های نژادی عجیبی نیز به چشم خوردند:",
+   {
+    "t": "ul",
+    "xs": [
+     "یک کاراکتر به شکل Skyborne Paladin",
+     "یک Tauren Mage در حال کست Frostbolt",
+     "یک Night Elf با ست زرهی Shaman tier 0.5"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "تیزر آینده یا ایده‌های بایگانی‌شده؟"
+   },
+   "مشخص نیست این موارد نشانه‌ای از قابلیت‌های آینده هستند یا صرفاً بازمانده‌هایی از ایده‌های اولیه توسعه بازی که کنار گذاشته شده‌اند. احتمال دوم بیشتر به نظر می‌رسد، هرچند تریلرهای گذشته نیز گاهی مواردی را فقط برای جذابیت بصری نمایش داده‌اند که هرگز به بازی نهایی راه نیافتند. شاید هم یک Grimoire of Forbidden Chaos Magic در گوشه‌ای از جهان پنهان شده باشد تا توسط Destruction Warlocks پیدا شود.",
    {
     "t": "note",
-    "x": "تریلرهای WoW سابقهٔ نمایش مواردی را دارند که به خاطر آزادی عمل تبلیغاتی شکل گرفته‌اند و هرگز به بازی اصلی راه نیافته‌اند. این موارد شاید ایده‌های آزمایشی توسعه‌دهندگان بوده‌اند که نهایی نشده‌اند.",
+    "x": "دیدگاه‌های کاربران در پچ 1.60.1 و بازه ۱۸ روز پیش پیرامون ویدیو نشان می‌دهد برخی معتقدند انیمیشن پالادین تنها یک رُگ با Blade Flurry بوده و این موارد به تغییرات اساسی دانجن‌های سطوح 30 تا 40 یا ریدها مربوط است.",
     "kind": "info"
    },
-   "هنوز مشخص نیست که آیا این صحنه‌ها پیش‌نمایشی واقعی از برنامه‌های آینده هستند یا بقایای ایده‌های کنارگذاشته‌شده در جریان توسعه. احتمال دوم قوی‌تر به نظر می‌رسد، اما هم‌زمان دریچه‌ای جالب به فلسفهٔ طراحی سازندگان در زمان ساخت سرور را نشان می‌دهد؛ شاید هم Destruction Warlockها در آینده با کشف Grimoire of Forbidden Chaos Magic به این قابلیت‌ها دست یابند.",
    {
-    "t": "h",
-    "x": "اطلاعات تکمیلی پیرامون ویدیو و بازتاب‌ها"
-   },
-   "این پست با شناسهٔ 383725 در تاریخ نوامبر 2026 منتشر شده است و در بازهٔ هاتفیکس‌های 19 نوامبر قرار دارد. در جریان بازتاب‌های پیرامون پچ 1.60.1، نظرات در قالب صفحات 1 تا 20 ثبت شده که شامل گفتگوها طی 16 روز گذشته، نکاتی در بازهٔ 10 تا 11 و 13 تا 14 ساعت قبل، و اشاره‌هایی به پادکست‌های رده‌بندی 10 و زمان‌بندی‌های 25 دقیقه‌ای بوده است."
+    "t": "table",
+    "head": [
+     "مطلب مرتبط",
+     "شناسه یا زمان در دیتابیس"
+    ],
+    "rows": [
+     [
+      "خبر بررسی ترکیب‌ها",
+      "383725"
+     ],
+     [
+      "هاتفیکس‌های نوامبر 2026",
+      "روزهای 19 و 20 نوامبر"
+     ],
+     [
+      "ساعت گزارش سیاه‌چاله‌ها",
+      "11 و 7 ساعت قبل"
+     ],
+     [
+      "کوییک‌فکت‌ها و رتبه‌ها",
+      "رتبه 10 و صفحات 13، 14، 16 و 25"
+     ]
+    ]
+   }
   ],
   "tags_fa": [
    "WoW Forever",
    "بلیزارد",
-   "کلاس‌ها"
+   "تریلر"
   ]
  }
 }

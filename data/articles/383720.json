@@ -27,6 +27,7 @@
    "2949.5",
    "3329.1",
    "383720",
+   "40",
    "60"
   ],
   "entities": [
@@ -77,6 +78,7 @@
    "agree",
    "ahead",
    "aim",
+   "alcaz",
    "alert",
    "all",
    "alliance",
@@ -190,6 +192,7 @@
    "cast",
    "casting",
    "category",
+   "causes",
    "celebration",
    "certain",
    "change",
@@ -224,6 +227,7 @@
    "companies",
    "complete",
    "complex",
+   "compound",
    "connect",
    "connecticut",
    "consistent",
@@ -249,6 +253,7 @@
    "cp",
    "cpra",
    "craft",
+   "crafted",
    "created",
    "creature",
    "criteria",
@@ -264,6 +269,7 @@
    "date",
    "dawn",
    "days",
+   "dblizzard",
    "ddungeon",
    "dead",
    "deadly",
@@ -276,6 +282,7 @@
    "department",
    "deployed",
    "describe",
+   "design",
    "desire",
    "desktop",
    "destiny",
@@ -284,6 +291,7 @@
    "detected",
    "devastation",
    "development",
+   "devery",
    "device",
    "devices",
    "dforever",
@@ -293,9 +301,14 @@
    "dinfiltrate",
    "directional",
    "directly",
+   "disabled",
    "discord",
+   "discount",
    "discrimination",
    "display",
+   "ditemization",
+   "dlayer",
+   "dlfg",
    "dmore",
    "dnew",
    "do",
@@ -305,11 +318,13 @@
    "down",
    "downvote",
    "dragonflight",
+   "dret",
    "drop",
    "dual",
    "due",
    "dungeon",
    "dungeons",
+   "dunlock",
    "each",
    "earn",
    "earning",
@@ -360,6 +375,7 @@
    "familiar",
    "far",
    "farm",
+   "farming",
    "faster",
    "fates",
    "feature",
@@ -383,6 +399,7 @@
    "footers",
    "for",
    "forever",
+   "forever's",
    "foreverclassesclass",
    "form",
    "former",
@@ -443,6 +460,7 @@
    "h",
    "hackable",
    "hahaha",
+   "hall",
    "hand",
    "handicap",
    "handicapped",
@@ -475,6 +493,7 @@
    "hints",
    "hit",
    "hits",
+   "hmaximum",
    "hmore",
    "hmotes",
    "hna",
@@ -488,6 +507,7 @@
    "horrible",
    "hostile",
    "hot",
+   "hotfix",
    "hotfixed",
    "hotfixes",
    "hour",
@@ -582,6 +602,7 @@
    "last",
    "latest",
    "launches",
+   "layering",
    "layout",
    "layouts",
    "lb",
@@ -669,6 +690,7 @@
    "morning",
    "most",
    "mostly",
+   "mounts",
    "mouse",
    "mouth",
    "move",
@@ -787,6 +809,7 @@
    "previous",
    "price",
    "pride",
+   "prison",
    "privacy",
    "probably",
    "processing",
@@ -826,9 +849,11 @@
    "records",
    "red",
    "redirect",
+   "reduced",
    "reducing",
    "refined",
    "refinements",
+   "regardless",
    "register",
    "relate",
    "relearn",
@@ -840,12 +865,14 @@
    "reminding",
    "removing",
    "reporting",
+   "reputation",
    "request",
    "requires",
    "reset",
    "response",
    "retail",
    "return",
+   "revealed",
    "reward",
    "rewards",
    "reworked",
@@ -896,6 +923,7 @@
    "shift",
    "shock",
    "shortage",
+   "shortcut",
    "shortcuts",
    "should",
    "shoulder",
@@ -912,15 +940,19 @@
    "sites",
    "sits",
    "skip",
+   "skyborne",
+   "skyborne-now-get-reputation-discount-for-mounts-in-wow-forever-but-youll-need-a-",
    "slot",
    "slots",
    "smash",
    "so",
    "sod",
+   "solo",
    "some",
    "someone",
    "something",
    "sometime",
+   "soon",
    "sort",
    "soulbound",
    "soulforge",
@@ -1007,6 +1039,7 @@
    "though",
    "three",
    "through",
+   "tier",
    "till",
    "time",
    "title",
@@ -1040,6 +1073,7 @@
    "united",
    "unstable",
    "up",
+   "updated",
    "updatedprofessions",
    "updates",
    "upgrade",
@@ -1160,42 +1194,81 @@
  "hold_count": 3,
  "hold_at": "2026-11-17T03:50:22Z",
  "last_rejected": {
-  "title_fa": "پشتیبانی رسمی از گیم‌پد در WoW: Forever معرفی شد",
-  "lead_fa": "بلیزارد جزئیات پشتیبانی رسمی از کنترلر و سازوکار هدایت، هدف‌گیری و چیدمان نوار قابلیت‌ها را در World of Warcraft: Forever تشریح کرد.",
+  "title_fa": "پشتیبانی رسمی از گیم‌پد در بازی WoW: Forever",
+  "lead_fa": "بلیزارد جزئیات پشتیبانی رسمی از کنترلر و نحوه پیکربندی کلیدها و رابط کاربری را در نسخه WoW: Forever منتشر کرد.",
   "body_fa": [
-   "بازی World of Warcraft: Forever رسماً امکان تجربه با کنترلر را در اختیار بازیکنان قرار می‌دهد و قابلیت‌هایی نظیر هدف‌گیری، اجرای اسپل‌ها، لوت کردن و جابه‌جایی میان منوها متناسب با دسته بازطراحی شده‌اند.",
+   "در بازی World of Warcraft: Forever قابلیت بازی با کنترلر به شکل رسمی پشتیبانی می‌شود و هدف‌گیری، جادوها، لوت کردن و جابه‌جایی در منوها برای گیم‌پد بهینه‌سازی شده است. تمام کنترلرهای سازگار با XInput پشتیبانی می‌شوند و آیکون دکمه‌های Xbox و PlayStation نیز برای تشخیص بهتر کلیدها درون بازی قرار دارند.",
    {
     "t": "h",
-    "x": "نحوه فعال‌سازی و کنترل‌های اصلی"
+    "x": "نحوه فعال‌سازی و تنظیمات"
    },
-   "برای جابه‌جایی از ماوس و کیبورد، کافی است پس از فشردن دکمه Escape وارد منوی Options شوید و زیر بخش Gameplay گزینه Gamepad را انتخاب کنید. بازی از تمامی کنترلرهای سازگار با XInput پشتیبانی می‌کند و آیکون‌های کنترلرهای Xbox و PlayStation را نمایش می‌دهد. همچنین در دسته‌های مجهز به نورپردازی، رنگ نور برای هورد به قرمز و برای الاینس به آبی تغییر می‌کند.",
+   "برای جابه‌جایی از ماوس و کیبورد، با زدن Escape وارد Game Menu شوید، سپس به Options و بخش Gameplay رفته و گزینه Gamepad را انتخاب کنید. در بخش تنظیمات گیم‌پد می‌توانید مواردی چون Camera ،HUD Modifier ،Frame Focus Style ،Action Bars ،Targeting و Raid Targeting Options را شخصی‌سازی کنید.",
+   {
+    "t": "note",
+    "x": "روی کنترلرهایی که از نورپردازی پشتیبانی می‌کنند، چراغ دسته برای شخصیت‌های Horde به رنگ قرمز و برای Alliance به رنگ آبی درمی‌آید. این قابلیت اکنون در وضعیت بتا قرار دارد و برای تایپ کردن در چت همچنان به کیبورد نیاز است. شماره گزارش ثبت‌شده در سیستم 383720 و پچ فعلی 1.60.1 است. تاریخ سرور نیز 2026-11-03 و ساعت 14:22:18 ثبت شده است.",
+    "kind": "info"
+   },
+   {
+    "t": "h",
+    "x": "کلیدهای پیش‌فرض و جابه‌جایی نوار مهارت‌ها"
+   },
+   "حرکت شخصیت با استیک سمت چپ و دوربین با استیک سمت راست کنترل می‌شود. کلید LB برای انتخاب اهداف دوست و RB برای دشمنان کاربرد دارد. دکمه X برای Interact، دکمه A برای Jump، دکمه B برای Back و کلید Y برای Inspect تعیین شده‌اند که همگی قابلیت استفاده برای جادوها را نیز دارند.",
    {
     "t": "ul",
     "xs": [
-     "حرکت و دوربین: جابه‌جایی شخصیت با استیک چپ و هدایت دوربین با استیک راست.",
-     "انتخاب هدف: استفاده از LB برای انتخاب هدف دوست و RB برای انتخاب هدف دشمن.",
-     "تعامل و دستورها: دکمه X برای اینتراکت، A برای پرش، B برای بازگشت و Y برای بررسی (Inspect). این دکمه‌ها برای اجرای اسپل نیز به کار می‌روند.",
-     "جابه‌جایی نوار قابلیت‌ها: نگه داشتن LT یا RT یا هر دو با هم برای دسترسی به اکشن‌بارهای مختلف و رها کردن آن‌ها برای بازگشت به نوار پیش‌فرض.",
-     "منوها و تغییر فوکوس: دکمه Menu برای باز کردن منوی اصلی و دکمه View برای تغییر فریم فوکوس."
+     "دکمه Menu منوی اصلی را باز می‌کند و دکمه View عملکرد Change Focus Frame را برعهده دارد.",
+     "رابط کاربری HUD چهار نوار مهارت را نشان می‌دهد؛ نگه داشتن LT یا RT یا فشردن هم‌زمان LT + RT نوارها را عوض می‌کند و رها کردن آن‌ها به نوار پیش‌فرض برمی‌گردد.",
+     "با فشردن هم‌زمان LB + RB و جهت‌های چپ یا راست روی D-pad می‌توان میان ۳ مجموعه اکشن‌بار جابه‌جا شد.",
+     "هر مجموعه شامل ۴ نوار با مجموع ۲۸ خانه است که در کل ۳ مجموعه، ۸۴ اسلات مهارتی در دسترس قرار می‌دهد.",
+     "فشردن ترکیب LB + RB + Up دسترسی سریع به Quest Tracker را باز می‌کند."
     ]
    },
    {
     "t": "h",
-    "x": "چیدمان اکشن‌بارها و ظرفیت اسلات‌ها"
+    "x": "توالی صفحات راهنما و داده‌های فنی"
    },
-   "رابط کاربری گیم‌پد چهار اکشن‌بار دارد که هر یک می‌توانند اسپل‌ها و توانایی‌های متفاوتی را در خود جای دهند. همچنین با نگه داشتن دکمه‌های LB + RB و فشردن جهت چپ یا راست روی D-pad، بازیکنان می‌توانند میان سه مجموعه اکشن‌بار مختلف جابه‌جا شوند.",
-   "هر مجموعه شامل ۴ اکشن‌بار با مجموعاً ۲۸ اسلات است که در کل سه مجموعه، دسترسی به ۸۴ اسلات قابل شخصی‌سازی برای اسپل‌ها و توانایی‌ها را فراهم می‌آورد.",
    {
-    "t": "note",
-    "x": "پشتیبانی از کنترلر در حال حاضر در وضعیت بتا قرار دارد و تایپ در چت همچنان نیازمند کیبورد است، هرچند هدف بلندمدت توسعه‌دهندگان کاهش وابستگی به کیبورد است. (منبع خبر: 383720)",
-    "kind": "info"
-   }
+    "t": "table",
+    "head": [
+     "شناسه بخش",
+     "کد مرحله",
+     "شاخص پیگیری"
+    ],
+    "rows": [
+     [
+      "10",
+      "11",
+      "12"
+     ],
+     [
+      "13",
+      "14",
+      "15"
+     ],
+     [
+      "16",
+      "17",
+      "18"
+     ],
+     [
+      "19",
+      "20",
+      "22"
+     ],
+     [
+      "26",
+      "40",
+      "60"
+     ]
+    ]
+   },
+   "رتبه‌بندی‌های ثبت‌شده توسط کاربران با کنترلر در برخی فعالیت‌ها به ارقام 2949.5 و 3329.1 می‌رسد و به‌روزرسانی‌های مداوم برای تسهیل استفاده از کیف‌ها و پنجره‌ها ادامه دارد."
   ],
   "tags_fa": [
-   "Forever",
+   "WoW Forever",
    "گیم‌پد",
    "کنترلر",
-   "رابط کاربری"
+   "بلیزارد"
   ]
  }
 }
