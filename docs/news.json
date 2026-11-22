@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T07:05:05Z",
+ "generated": "2026-11-22T16:26:25Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3518,6 +3518,13 @@
   }
  ],
  "queue": [
+  {
+   "id": 383884,
+   "title_en": "The Best Way to Level Lockpicking to Max in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383884",
+   "category": "Forever",
+   "published_at": "2026-11-22T15:00:00Z"
+  },
   {
    "id": 383940,
    "title_en": "Skyborne Now Get Reputation Discount for Mounts in WoW: Forever But You'll Need A Lot of Runecloth",
