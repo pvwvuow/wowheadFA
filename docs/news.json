@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T23:42:23Z",
+ "generated": "2026-11-22T23:43:53Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3519,6 +3519,13 @@
  ],
  "queue": [
   {
+   "id": 383956,
+   "title_en": "Players Can No Longer Peek Inside Lockboxes in WoW: Forever to Fix New Exploit",
+   "url": "https://www.wowhead.com/news=383956",
+   "category": "Forever",
+   "published_at": "2026-11-22T21:00:03Z"
+  },
+  {
    "id": 383954,
    "title_en": "World Buffs Removed on Any Loading Screen in WoW: Forever",
    "url": "https://www.wowhead.com/news=383954",
@@ -3790,13 +3797,6 @@
    "url": "https://www.wowhead.com/news=383519",
    "category": "Live",
    "published_at": "2026-10-21T00:09:55Z"
-  },
-  {
-   "id": 383518,
-   "title_en": "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-   "url": "https://www.wowhead.com/news=383518",
-   "category": "Live",
-   "published_at": "2026-10-20T22:14:03Z"
   }
  ]
 }
