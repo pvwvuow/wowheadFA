@@ -119,7 +119,7 @@
   ],
   "chars": 2906
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383920/1.jpg",
@@ -189,5 +189,69 @@
  },
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 1,
- "hold_at": "2026-11-20T05:49:27Z"
+ "hold_at": "2026-11-20T05:49:27Z",
+ "article_fa": {
+  "title_fa": "حذف اچیومنت‌های درجه سختی Mythic از Talebound در سرور تست 12.1.7",
+  "lead_fa": "در جدیدترین بیلد سرور تست پچ 12.1.7، تمام اچیومنت‌های مربوط به درجه سختی Mythic از Talebound حذف شده و سه تایتل جدید به درجه سختی Heroic منتقل شده‌اند.",
+  "body_fa": [
+   "در به‌روزرسانی اخیر سرور آزمایشی پچ 12.1.7 PTR، دستاوردهای مرتبط با درجه سختی Mythic در محتوای Talebound حذف شده‌اند. هرچند هنوز به شکل قطعی تأیید نشده که این درجه سختی به‌طور کامل از بازی کنار رفته است، اما حذف یکپارچهٔ اچیومنت‌ها احتمالاً نشانه‌ای از حذف کامل درجه سختی Mythic است.",
+   {
+    "t": "h",
+    "x": "تغییر پاداش‌ها و تایتل‌های جدید"
+   },
+   {
+    "t": "table",
+    "head": [
+     "کلاس",
+     "درجه سختی",
+     "پاداش دریافتی"
+    ],
+    "rows": [
+     [
+      "Inquisitor",
+      "Heroic",
+      "20 Bound SilverTitle: of the Sacred Flame"
+     ],
+     [
+      "Slayer",
+      "Heroic",
+      "20 Bound SilverTitle: Monster Hunter"
+     ],
+     [
+      "Witch",
+      "Heroic",
+      "20 Bound SilverTitle: of the Crooked Path"
+     ]
+    ]
+   },
+   {
+    "t": "h",
+    "x": "فهرست اچیومنت‌های حذف‌شدهٔ Mythic"
+   },
+   "تمام اچیومنت‌های زیر که پیش از این برای به پایان رساندن بخش‌های گوناگون در درجه سختی Mythic تعریف شده بودند، از بازی حذف شده‌اند:",
+   {
+    "t": "ul",
+    "xs": [
+     "اتمام هر داستانی از Talebound روی درجه سختی Mythic با پاداش Traveling Raven: Cache of Mythic Treasures",
+     "اتمام هر چهار داستان و سپس شکست the Final Confrontation روی درجه سختی Mythic",
+     "اتمام the Final Confrontation در Talebound با کلاس‌های Slayer و Witch و Inquisitor روی درجه سختی Mythic با پاداش Traveling Raven: Cache of Mythic Treasures",
+     "شکست باس‌های Tilywth و Mobog و Zzyg'th و Chathoa در Tales of the Storyteller روی درجه سختی Mythic",
+     "شکست Konrad von Sonnesheim و Maernok و Alexandre Dozsenc و Ylska Vilefang و Granny Greenthumb روی درجه سختی Mythic",
+     "اتمام داستان‌های Darkhaven و Greenthistle Wood و Greywake's Expedition و Court of Night روی درجه سختی Mythic",
+     "اتمام the Final Confrontation روی Mythic با کلاس Inquisitor (پاداش سابق: Title: of the Sacred Flame) و کلاس Witch (پاداش سابق: Title: of the Crooked Path) و کلاس Slayer"
+    ]
+   }
+  ],
+  "tags_fa": [
+   "پچ 12.1.7",
+   "Talebound",
+   "PTR",
+   "اچیومنت"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-22T00:37:53Z"
+ }
 }

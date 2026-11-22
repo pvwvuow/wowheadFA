@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T22:53:39Z",
+ "generated": "2026-11-22T01:11:18Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -1120,6 +1120,82 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383924/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383920,
+   "slug": "all-mythic-difficulty-achievements-removed-from-talebound-on-patch-12",
+   "title_fa": "حذف اچیومنت‌های درجه سختی Mythic از Talebound در سرور تست 12.1.7",
+   "lead_fa": "در جدیدترین بیلد سرور تست پچ 12.1.7، تمام اچیومنت‌های مربوط به درجه سختی Mythic از Talebound حذف شده و سه تایتل جدید به درجه سختی Heroic منتقل شده‌اند.",
+   "body_fa": [
+    "در به‌روزرسانی اخیر سرور آزمایشی پچ 12.1.7 PTR، دستاوردهای مرتبط با درجه سختی Mythic در محتوای Talebound حذف شده‌اند. هرچند هنوز به شکل قطعی تأیید نشده که این درجه سختی به‌طور کامل از بازی کنار رفته است، اما حذف یکپارچهٔ اچیومنت‌ها احتمالاً نشانه‌ای از حذف کامل درجه سختی Mythic است.",
+    {
+     "t": "h",
+     "x": "تغییر پاداش‌ها و تایتل‌های جدید"
+    },
+    {
+     "t": "table",
+     "head": [
+      "کلاس",
+      "درجه سختی",
+      "پاداش دریافتی"
+     ],
+     "rows": [
+      [
+       "Inquisitor",
+       "Heroic",
+       "20 Bound SilverTitle: of the Sacred Flame"
+      ],
+      [
+       "Slayer",
+       "Heroic",
+       "20 Bound SilverTitle: Monster Hunter"
+      ],
+      [
+       "Witch",
+       "Heroic",
+       "20 Bound SilverTitle: of the Crooked Path"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "فهرست اچیومنت‌های حذف‌شدهٔ Mythic"
+    },
+    "تمام اچیومنت‌های زیر که پیش از این برای به پایان رساندن بخش‌های گوناگون در درجه سختی Mythic تعریف شده بودند، از بازی حذف شده‌اند:",
+    {
+     "t": "ul",
+     "xs": [
+      "اتمام هر داستانی از Talebound روی درجه سختی Mythic با پاداش Traveling Raven: Cache of Mythic Treasures",
+      "اتمام هر چهار داستان و سپس شکست the Final Confrontation روی درجه سختی Mythic",
+      "اتمام the Final Confrontation در Talebound با کلاس‌های Slayer و Witch و Inquisitor روی درجه سختی Mythic با پاداش Traveling Raven: Cache of Mythic Treasures",
+      "شکست باس‌های Tilywth و Mobog و Zzyg'th و Chathoa در Tales of the Storyteller روی درجه سختی Mythic",
+      "شکست Konrad von Sonnesheim و Maernok و Alexandre Dozsenc و Ylska Vilefang و Granny Greenthumb روی درجه سختی Mythic",
+      "اتمام داستان‌های Darkhaven و Greenthistle Wood و Greywake's Expedition و Court of Night روی درجه سختی Mythic",
+      "اتمام the Final Confrontation روی Mythic با کلاس Inquisitor (پاداش سابق: Title: of the Sacred Flame) و کلاس Witch (پاداش سابق: Title: of the Crooked Path) و کلاس Slayer"
+     ]
+    }
+   ],
+   "tags_fa": [
+    "پچ 12.1.7",
+    "Talebound",
+    "PTR",
+    "اچیومنت"
+   ],
+   "items": [],
+   "title_en": "All Mythic Difficulty Achievements Removed from Talebound on Patch 12.1.7 PTR",
+   "source_url": "https://www.wowhead.com/news=383920",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383920-all-mythic-difficulty-achievements-removed-from-talebound-on-patch-12.html",
+   "published_at": "2026-11-19T00:09:30Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383920/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383920/1.jpg",
      "cap": ""
     }
    ]
@@ -3439,52 +3515,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383842,
-   "slug": "loot-ocarina-of-time-boots-from-drowned-city-in-wow-forever",
-   "title_fa": "کشف چکمه‌های با الهام از Ocarina of Time در دانجن Drowned City بازی WoW: Forever",
-   "lead_fa": "در جدول لوت دانجن جدید The Drowned City در WoW: Forever یک جفت چکمه پیدا شده است که به بازی The Legend of Zelda: Ocarina of Time اشاره دارد.",
-   "body_fa": [
-    "یک جفت چکمه جدید در جدول لوت دانجن The Drowned City کشف شده است که ارجاعی آشکار به The Legend of Zelda: Ocarina of Time به نظر می‌رسد. به نظر می‌رسد با عرضه ریمستر این بازی شاخص توسط Nintendo برای کنسول Switch 2، توسعه‌دهندگان Blizzard قصد داشته‌اند علاقه خود را به این اثر نشان دهند.",
-    {
-     "t": "h",
-     "x": "نحوه دریافت و ویژگی‌های این آیتم"
-    },
-    "طبق پایگاه داده، این چکمه‌ها امکان دراپ از هر باسی را درون دانجن جدید The Drowned City در سرور WoW: Forever دارند. نام این آیتم [[item:Linken's Boots of Iron]] است که ویژگی‌های جالبی را ارائه می‌دهد.",
-    "در سری بازی‌های The Legend of Zelda، بازیکنان آیتم Iron Boots را به دست می‌آورند که امکان راه‌رفتن در کف آب‌ها را فراهم می‌کند اما سرعت حرکت روی خشکی را کاهش می‌دهد. طبق پستی در Reddit، مجهز شدن به این چکمه‌ها در WoW: Forever دقیقاً همین قابلیت‌ها را تقلید می‌کند.",
-    {
-     "t": "note",
-     "x": "این آیتم شاید حتی در آینده برای یک راز (Secret) مورد نیاز باشد.",
-     "kind": "info"
-    },
-    {
-     "t": "h",
-     "x": "پیشینه ارجاع به سری Zelda در وارکرفت"
-    },
-    "این نخستین ارجاع به The Legend of Zelda در World of Warcraft نیست؛ شخصیت Linken از زمان عرضه وارکرفت در سال 2004 در بازی حضور داشته است. بازیکنان در منطقه Un'Goro Crater می‌توانند با کشف کوئست It's a Secret to Everybody مجموعه‌ای از مأموریت‌ها را باز کنند که به دریافت سلاح قدرتمند Linken's Sword of Mastery ختم می‌شود."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "ایستراگ",
-    "لوت دانجن",
-    "The Drowned City"
-   ],
-   "items": [],
-   "title_en": "Loot Ocarina of Time Boots from Drowned City in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383842",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383842-loot-ocarina-of-time-boots-from-drowned-city-in-wow-forever.html",
-   "published_at": "2026-11-12T16:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383842/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383842/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3508,13 +3538,6 @@
    "url": "https://www.wowhead.com/news=383926",
    "category": "Forever",
    "published_at": "2026-11-19T17:24:03Z"
-  },
-  {
-   "id": 383920,
-   "title_en": "All Mythic Difficulty Achievements Removed from Talebound on Patch 12.1.7 PTR",
-   "url": "https://www.wowhead.com/news=383920",
-   "category": "PTR",
-   "published_at": "2026-11-19T00:09:30Z"
   },
   {
    "id": 383918,
