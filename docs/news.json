@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T21:15:24Z",
+ "generated": "2026-11-23T22:29:31Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3519,6 +3519,13 @@
  ],
  "queue": [
   {
+   "id": 383968,
+   "title_en": "Uldaman Boss Drops Loot Again But Item Vendor Price Nerfed",
+   "url": "https://www.wowhead.com/news=383968",
+   "category": "Forever",
+   "published_at": "2026-11-23T21:20:40Z"
+  },
+  {
    "id": 383967,
    "title_en": "World Buffs Now Persist Through Loading Screen & Nerf to Dire Maul Tribute Buff - World Buff Hotfixes in WoW: Forever",
    "url": "https://www.wowhead.com/news=383967",
@@ -3790,13 +3797,6 @@
    "url": "https://www.wowhead.com/news=383547",
    "category": "Forever",
    "published_at": "2026-10-23T14:00:00Z"
-  },
-  {
-   "id": 383552,
-   "title_en": "Item Level Changes for Ascended Venomforged Gear",
-   "url": "https://www.wowhead.com/news=383552",
-   "category": "Live",
-   "published_at": "2026-10-23T02:19:48Z"
   }
  ]
 }
