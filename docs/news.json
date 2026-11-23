@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T19:11:44Z",
+ "generated": "2026-11-23T20:31:33Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3519,6 +3519,20 @@
  ],
  "queue": [
   {
+   "id": 383967,
+   "title_en": "World Buffs Now Persist Through Loading Screen & Nerf to Dire Maul Tribute Buff - World Buff Hotfixes in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383967",
+   "category": "Forever",
+   "published_at": "2026-11-23T19:39:02Z"
+  },
+  {
+   "id": 383965,
+   "title_en": "Blizzard Working on a Fix for Paladin and Warlocks Not Unlocking Epic Riding",
+   "url": "https://www.wowhead.com/news=383965",
+   "category": "Forever",
+   "published_at": "2026-11-23T19:05:26Z"
+  },
+  {
    "id": 383963,
    "title_en": "Blizzard Announces Lockbox Change is Temporary in WoW: Forever - Peeking Inside Lockboxes Will Return",
    "url": "https://www.wowhead.com/news=383963",
@@ -3783,20 +3797,6 @@
    "url": "https://www.wowhead.com/news=383552",
    "category": "Live",
    "published_at": "2026-10-23T02:19:48Z"
-  },
-  {
-   "id": 383543,
-   "title_en": "Blizzard Confirms Molten Core Will Have New Mechanics in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383543",
-   "category": "Forever",
-   "published_at": "2026-10-22T18:15:43Z"
-  },
-  {
-   "id": 383541,
-   "title_en": "The WoW: Forever End of Beta Celebration Has Begun ft. Azuregos and Kazzak",
-   "url": "https://www.wowhead.com/news=383541",
-   "category": "Forever",
-   "published_at": "2026-10-22T17:13:00Z"
   }
  ]
 }
