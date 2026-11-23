@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T23:43:53Z",
+ "generated": "2026-11-23T00:42:31Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3519,6 +3519,13 @@
  ],
  "queue": [
   {
+   "id": 383959,
+   "title_en": "Aidan Moon Announces That World Buffs Dropping on Loading Screen is Bug",
+   "url": "https://www.wowhead.com/news=383959",
+   "category": "Forever",
+   "published_at": "2026-11-22T23:06:59Z"
+  },
+  {
    "id": 383956,
    "title_en": "Players Can No Longer Peek Inside Lockboxes in WoW: Forever to Fix New Exploit",
    "url": "https://www.wowhead.com/news=383956",
@@ -3790,13 +3797,6 @@
    "url": "https://www.wowhead.com/news=383487",
    "category": "Forever",
    "published_at": "2026-10-21T19:06:30Z"
-  },
-  {
-   "id": 383519,
-   "title_en": "Spirit Conduit Loa Powers Can No Longer Be Used on Kindo'jan - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383519",
-   "category": "Live",
-   "published_at": "2026-10-21T00:09:55Z"
   }
  ]
 }
