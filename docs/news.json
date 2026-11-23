@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T18:25:26Z",
+ "generated": "2026-11-23T18:27:09Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3519,6 +3519,13 @@
  ],
  "queue": [
   {
+   "id": 383963,
+   "title_en": "Blizzard Announces Lockbox Change is Temporary in WoW: Forever - Peeking Inside Lockboxes Will Return",
+   "url": "https://www.wowhead.com/news=383963",
+   "category": "Forever",
+   "published_at": "2026-11-23T16:33:33Z"
+  },
+  {
    "id": 383955,
    "title_en": "Uldaman Boss No Longer Drops Loot - Nerf to Gold Farming Strategy",
    "url": "https://www.wowhead.com/news=383955",
@@ -3790,13 +3797,6 @@
    "url": "https://www.wowhead.com/news=383541",
    "category": "Forever",
    "published_at": "2026-10-22T17:13:00Z"
-  },
-  {
-   "id": 383540,
-   "title_en": "The WoW: Forever Podcast Episode 5 Now Available - The End of Beta Special!",
-   "url": "https://www.wowhead.com/news=383540",
-   "category": "Forever",
-   "published_at": "2026-10-22T16:21:06Z"
   }
  ]
 }
