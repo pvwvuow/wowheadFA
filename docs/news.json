@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T04:01:25Z",
+ "generated": "2026-11-23T04:03:07Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3519,6 +3519,13 @@
  ],
  "queue": [
   {
+   "id": 383955,
+   "title_en": "Uldaman Boss No Longer Drops Loot - Nerf to Gold Farming Strategy",
+   "url": "https://www.wowhead.com/news=383955",
+   "category": "Forever",
+   "published_at": "2026-11-23T01:00:37Z"
+  },
+  {
    "id": 383959,
    "title_en": "Aidan Moon Announces That World Buffs Dropping on Loading Screen is Bug",
    "url": "https://www.wowhead.com/news=383959",
@@ -3790,13 +3797,6 @@
    "url": "https://www.wowhead.com/news=383540",
    "category": "Forever",
    "published_at": "2026-10-22T16:21:06Z"
-  },
-  {
-   "id": 383487,
-   "title_en": "The Current State of Protection Paladins in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383487",
-   "category": "Forever",
-   "published_at": "2026-10-21T19:06:30Z"
   }
  ]
 }
