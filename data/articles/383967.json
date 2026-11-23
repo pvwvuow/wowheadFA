@@ -157,5 +157,8 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383967/1.png"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383967/1.png",
+ "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 401 UNAUTHENTICATED: The bound service account is deleted or disabled. The service account bound to the API key must be active.)",
+ "hold_count": 1,
+ "hold_at": "2026-11-23T22:39:52Z"
 }
