@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T23:30:43Z",
+ "generated": "2026-11-24T01:02:09Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3519,6 +3519,13 @@
  ],
  "queue": [
   {
+   "id": 383969,
+   "title_en": "Players Reporting that Sunder Armor Effects Don't Work in WoW: Forever Dungeons",
+   "url": "https://www.wowhead.com/news=383969",
+   "category": "Forever",
+   "published_at": "2026-11-23T23:00:58Z"
+  },
+  {
    "id": 383968,
    "title_en": "Uldaman Boss Drops Loot Again But Item Vendor Price Nerfed",
    "url": "https://www.wowhead.com/news=383968",
@@ -3790,13 +3797,6 @@
    "url": "https://www.wowhead.com/news=383561",
    "category": "WoW",
    "published_at": "2026-10-23T17:25:01Z"
-  },
-  {
-   "id": 383547,
-   "title_en": "Who is WoW: Forever Meant For? Blizzard Discusses on Forever Podcast",
-   "url": "https://www.wowhead.com/news=383547",
-   "category": "Forever",
-   "published_at": "2026-10-23T14:00:00Z"
   }
  ]
 }
