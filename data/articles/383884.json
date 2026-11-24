@@ -132,7 +132,7 @@
   ],
   "chars": 1248
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383884/1.jpg",
@@ -142,5 +142,39 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383884/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 401 UNAUTHENTICATED: The bound service account is deleted or disabled. The service account bound to the API key must be active.)",
  "hold_count": 1,
- "hold_at": "2026-11-22T18:36:21Z"
+ "hold_at": "2026-11-22T18:36:21Z",
+ "article_fa": {
+  "title_fa": "بهترین روش برای افزایش مهارت Lockpicking تا سطح ۳۰۰ در WoW: Forever",
+  "lead_fa": "پس از نرف روش قدیمی در Blackrock Depths، بازیکنان کلاس Rogue در WoW: Forever اکنون باید برای رساندن مهارت Lockpicking به حداکثر از مسیرهای متفاوتی استفاده کنند.",
+  "body_fa": [
+   "مهارت Lockpicking قابلیت‌های کاربردی متنوعی به کلاس Rogue می‌بخشد که از جمله آن‌ها می‌توان به باز کردن صندوق‌های قفل‌شده دیگر بازیکنان در ازای طلا و گشودن درها و صندوق‌های موجود در سیاه‌چاله‌ها اشاره کرد. در نسخه Classic این بازی، بازیکنان از روشی مشخص برای ارتقای این مهارت استفاده می‌کردند، اما با تغییرات اعمال‌شده در WoW: Forever این مسیر تضعیف شده است و بازی‌کنندگان ناچارند روش‌های جایگزین را دنبال کنند.",
+   {
+    "t": "h",
+    "x": "تغییرات Shadowforge و نرف روش قبلی"
+   },
+   "در گذشته، بازیکنان Rogue برای رساندن مهارت خود از ۲۵۰ به ۳۰۰ به دانجن Blackrock Depths می‌رفتند تا سه در نیازمند Shadowforge Key و همچنین خود قفل Shadowforge را باز کنند. با این حال بر اساس بررسی‌ها، قفل Shadowforge در حوالی مهارت ۲۶۵ به رنگ خاکستری درمی‌آید و دیگر امکان ارتقای مهارت تا سطح ۳۰۰ از طریق این قفل وجود ندارد.",
+   {
+    "t": "h",
+    "x": "مکان پیشنهادی جدید: Tyr’s Hand"
+   },
+   "در حال حاضر بهترین شیوه برای ارتقای مهارت، رفتن به منطقه Tyr’s Hand واقع در Eastern Plaguelands است که پر از دشمنان Elite است. در سرتاسر این محوطه صندوق‌های Scarlet Footlockers پراکنده شده‌اند که می‌توان برای پیشرفت این مهارت از آن‌ها کمک گرفت.",
+   {
+    "t": "note",
+    "x": "داشتن مهارت ۳۰۰ به Rogueها اجازه می‌دهد به جای دریافت Crescent Key از Pusillin در Dire Maul East، درِ Dire Maul North را مستقیماً باز کنند.",
+    "kind": "tip"
+   },
+   "رساندن مهارت به سطح ۳۰۰ به Rogueها کمک می‌کند کاربرد خود را در گروه‌ها و سیاه‌چاله‌ها حفظ کنند و برای گشودن درها یا صندوق‌های مختلف بدون نیاز به کلیدهای مربوطه اقدام کنند."
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "راهنمای مهارت",
+   "Rogue",
+   "Lockpicking"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-24T01:25:17Z"
+ }
 }

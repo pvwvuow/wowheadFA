@@ -80,12 +80,41 @@
   ],
   "chars": 552
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383965/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383965/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383965/1.jpg",
+ "article_fa": {
+  "title_fa": "تلاش بلیزارد برای رفع باگ آنلاک نشدن Epic Riding برای Paladin و Warlock",
+  "lead_fa": "بلیزارد اعلام کرد در حال کار روی رفع باگی است که مانع دریافت مهارت Epic Riding پس از اتمام کوئست‌های کلاسی برای بازیکنان Paladin و Warlock می‌شود.",
+  "body_fa": [
+   "بلیزارد وجود یک باگ را تأیید کرده است که طی آن، کلاس‌های Paladin و Warlock پس از به پایان رساندن زنجیره‌کوئست کلاسی خود، مهارت Epic Riding را دریافت نمی‌کنند.",
+   "این ایراد باعث شده است بازیکنان این دو کلاس نتوانند از مانت‌های دیگر مانند Cerulean Prideclaw استفاده کنند.",
+   {
+    "t": "quote",
+    "x": "ما باگ را در این بخش پیدا کرده‌ایم و فکر می‌کنیم هر دو کلاس Paladin و Warlock تحت تأثیر آن قرار دارند. در حال کار روی اصلاح آن هستیم، اما آماده‌سازی این فیکس یک یا دو روز دیگر زمان می‌برد. از صبر و شکیبایی شما بسیار سپاسگزاریم و در سریع‌ترین زمان ممکن آن را برطرف خواهیم کرد.",
+    "by": "Blizzard"
+   },
+   {
+    "t": "note",
+    "x": "طبق اعلام بلیزارد، انتظار می‌رود انتشار این اصلاحیه حدود یک تا دو روز زمان ببرد.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "بلیزارد",
+   "باگ",
+   "Paladin",
+   "Warlock"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-24T01:10:40Z"
+ }
 }

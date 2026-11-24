@@ -126,7 +126,7 @@
   ],
   "chars": 1079
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383956/1.png",
@@ -136,5 +136,35 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383956/1.png",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 1,
- "hold_at": "2026-11-23T17:46:21Z"
+ "hold_at": "2026-11-23T17:46:21Z",
+ "article_fa": {
+  "title_fa": "رفع اکسپلویت Lockbox در WoW: Forever با غیرفعال شدن امکان دیدن محتویات جعبه‌ها",
+  "lead_fa": "هاتفیکس‌های اخیر WoW: Forever قابلیت مشاهدهٔ محتویات Lockbox بدون لوت کردن آن را غیرفعال کرده‌اند تا از سوءاستفاده‌های احتمالی جلوگیری شود.",
+  "body_fa": [
+   "با اعمال هاتفیکس‌های بسیار تازه در سرورهای WoW: Forever، بازیکنان دیگر امکان سرک کشیدن به داخل جعبه‌های قفل‌شده یا همان Lockboxها را نخواهند داشت. این تصمیم احتمالاً به‌دلیل کشف یک اکسپلویت مرتبط با این صندوق‌ها اتخاذ شده که اخیراً میان جامعهٔ بازیکنان دست‌به‌دست می‌شد.",
+   {
+    "t": "h",
+    "x": "جزئیات اکسپلویت و تغییر سازوکار لوت"
+   },
+   "پیش از این بازیکنان می‌توانستند با خاموش کردن گزینهٔ auto-loot، محتویات درون یک Lockbox بازشده ولی لوت‌نشده را بررسی کنند. از آنجا که مواردی مانند [[item:Mithril Lockbox]] حاوی آیتم‌های بسیار مهم و باارزشی نظیر Recipeها هستند، برخی از Rogueها برای سرگرمی پیش از پس فرستادن جعبه برای صاحب اصلی، محتوای آن را نگاه می‌کردند.",
+   "با این حال بازیکنان متوجه شدند که امکان رول مجدد (Reroll) محتویات جعبه‌ها وجود دارد. هنوز دقیقاً مشخص نیست چه عاملی باعث این تغییر محتوا می‌شده است؛ اما بر اساس پستی در Reddit توسط کاربری با نام u/intertiae، مشخص شد اگر یک Rogue داخل جعبه را نگاه کند و سپس آن را از طریق Mail بفرستد، دریافت‌کنندهٔ نامه آیتم‌های متفاوتی را نسبت به آنچه ابتدا دیده شده بود مشاهده می‌کند.",
+   {
+    "t": "note",
+    "x": "هنوز مشخص نیست این باگ چه مدت در بازی فعال بوده و چه تأثیری بر دسترسی به Recipeهای کمیاب گذاشته است، اما این رفتار کاملاً غیرعمدی و ناشی از ایراد فنی بود.",
+    "kind": "warn"
+   },
+   "طبق هاتفیکس‌های جدید، دیگر نگاه کردن به درون جعبه‌ها مجاز نیست و اگر بازیکنی برای باز کردن آن اقدام کند، تمامی محتویات به‌طور خودکار درون اینونتوری او لوت خواهد شد."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "WoW Forever",
+   "اکسپلویت",
+   "Rogue"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-24T01:20:13Z"
+ }
 }

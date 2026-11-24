@@ -1,8 +1,177 @@
 {
- "generated": "2026-11-23T23:30:43Z",
+ "generated": "2026-11-24T01:27:03Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383965,
+   "slug": "blizzard-working-on-a-fix-for-paladin-and-warlocks-not-unlocking-epic",
+   "title_fa": "تلاش بلیزارد برای رفع باگ آنلاک نشدن Epic Riding برای Paladin و Warlock",
+   "lead_fa": "بلیزارد اعلام کرد در حال کار روی رفع باگی است که مانع دریافت مهارت Epic Riding پس از اتمام کوئست‌های کلاسی برای بازیکنان Paladin و Warlock می‌شود.",
+   "body_fa": [
+    "بلیزارد وجود یک باگ را تأیید کرده است که طی آن، کلاس‌های Paladin و Warlock پس از به پایان رساندن زنجیره‌کوئست کلاسی خود، مهارت Epic Riding را دریافت نمی‌کنند.",
+    "این ایراد باعث شده است بازیکنان این دو کلاس نتوانند از مانت‌های دیگر مانند Cerulean Prideclaw استفاده کنند.",
+    {
+     "t": "quote",
+     "x": "ما باگ را در این بخش پیدا کرده‌ایم و فکر می‌کنیم هر دو کلاس Paladin و Warlock تحت تأثیر آن قرار دارند. در حال کار روی اصلاح آن هستیم، اما آماده‌سازی این فیکس یک یا دو روز دیگر زمان می‌برد. از صبر و شکیبایی شما بسیار سپاسگزاریم و در سریع‌ترین زمان ممکن آن را برطرف خواهیم کرد.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "note",
+     "x": "طبق اعلام بلیزارد، انتظار می‌رود انتشار این اصلاحیه حدود یک تا دو روز زمان ببرد.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "بلیزارد",
+    "باگ",
+    "Paladin",
+    "Warlock"
+   ],
+   "items": [],
+   "title_en": "Blizzard Working on a Fix for Paladin and Warlocks Not Unlocking Epic Riding",
+   "source_url": "https://www.wowhead.com/news=383965",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383965-blizzard-working-on-a-fix-for-paladin-and-warlocks-not-unlocking-epic.html",
+   "published_at": "2026-11-23T19:05:26Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383965/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383965/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383963,
+   "slug": "blizzard-announces-lockbox-change-is-temporary-in-wow-forever-peeking",
+   "title_fa": "تغییرات Lockbox در WoW: Forever موقتی است و قابلیت بررسی محتوا بازمی‌گردد",
+   "lead_fa": "بلیزارد اعلام کرد غیرفعال شدن امکان مشاهده محتوای درون Lockboxها موقتی است و تیم توسعه روی راه‌حل نهایی برای بازگرداندن این قابلیت کار می‌کند.",
+   "body_fa": [
+    "روز گذشته یک هاتفیکس روی سرورهای لایو اعمال شد که قابلیت بازیکنان برای دیدن محتویات درون Lockboxها را حذف کرد. اکنون Blizzard اعلام کرده که این دستکاری موقتی است و آن‌ها در حال آماده‌سازی راه‌حلی مناسب هستند تا بازیکنان بار دیگر بتوانند داخل این صندوق‌ها را بررسی کنند.",
+    {
+     "t": "quote",
+     "x": "تأیید می‌کنیم که تغییر در رفتار Lockbox دیروز در ساعت 9:55 a.m. PST به عنوان یک اقدام موقت اعمال شد. امروز در حال کار روی اصلاحیه‌ای مناسب هستیم که قابلیت دیدن محتوا و لوت کردن ناقص Lockboxها را بازگرداند و باعث شود عملکرد آن‌ها طبق برنامه پیش برود. هنوز نمی‌دانیم اعمال این فیکس چقدر زمان می‌برد، اما پس از اتمام آن اطلاع‌رسانی خواهیم کرد.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "note",
+     "x": "اگرچه بلیزارد دلیل مشخصی اعلام نکرد، اما این تصمیم به احتمال بسیار زیاد به دلیل اکسپلویت Lockbox بوده که بازیکنان کشف کرده بودند.",
+     "kind": "info"
+    },
+    "این اقدام موقت توانست جلوی سوءاستفاده را در آخر هفته بگیرد، اما همان‌طور که در یکی از تاپیک‌های Reddit اشاره شده، عارضه جانبی دیگری هم داشته است؛ به طوری که دیگر نمی‌توان Junkboxها را به صورت ناقص لوت کرد و سپس تحویل داد."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "بلیزارد",
+    "اکسپلویت"
+   ],
+   "items": [],
+   "title_en": "Blizzard Announces Lockbox Change is Temporary in WoW: Forever - Peeking Inside Lockboxes Will Return",
+   "source_url": "https://www.wowhead.com/news=383963",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383963-blizzard-announces-lockbox-change-is-temporary-in-wow-forever-peeking.html",
+   "published_at": "2026-11-23T16:33:33Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383963/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383963/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383956,
+   "slug": "players-can-no-longer-peek-inside-lockboxes-in-wow-forever-to-fix-new",
+   "title_fa": "رفع اکسپلویت Lockbox در WoW: Forever با غیرفعال شدن امکان دیدن محتویات جعبه‌ها",
+   "lead_fa": "هاتفیکس‌های اخیر WoW: Forever قابلیت مشاهدهٔ محتویات Lockbox بدون لوت کردن آن را غیرفعال کرده‌اند تا از سوءاستفاده‌های احتمالی جلوگیری شود.",
+   "body_fa": [
+    "با اعمال هاتفیکس‌های بسیار تازه در سرورهای WoW: Forever، بازیکنان دیگر امکان سرک کشیدن به داخل جعبه‌های قفل‌شده یا همان Lockboxها را نخواهند داشت. این تصمیم احتمالاً به‌دلیل کشف یک اکسپلویت مرتبط با این صندوق‌ها اتخاذ شده که اخیراً میان جامعهٔ بازیکنان دست‌به‌دست می‌شد.",
+    {
+     "t": "h",
+     "x": "جزئیات اکسپلویت و تغییر سازوکار لوت"
+    },
+    "پیش از این بازیکنان می‌توانستند با خاموش کردن گزینهٔ auto-loot، محتویات درون یک Lockbox بازشده ولی لوت‌نشده را بررسی کنند. از آنجا که مواردی مانند [[item:Mithril Lockbox]] حاوی آیتم‌های بسیار مهم و باارزشی نظیر Recipeها هستند، برخی از Rogueها برای سرگرمی پیش از پس فرستادن جعبه برای صاحب اصلی، محتوای آن را نگاه می‌کردند.",
+    "با این حال بازیکنان متوجه شدند که امکان رول مجدد (Reroll) محتویات جعبه‌ها وجود دارد. هنوز دقیقاً مشخص نیست چه عاملی باعث این تغییر محتوا می‌شده است؛ اما بر اساس پستی در Reddit توسط کاربری با نام u/intertiae، مشخص شد اگر یک Rogue داخل جعبه را نگاه کند و سپس آن را از طریق Mail بفرستد، دریافت‌کنندهٔ نامه آیتم‌های متفاوتی را نسبت به آنچه ابتدا دیده شده بود مشاهده می‌کند.",
+    {
+     "t": "note",
+     "x": "هنوز مشخص نیست این باگ چه مدت در بازی فعال بوده و چه تأثیری بر دسترسی به Recipeهای کمیاب گذاشته است، اما این رفتار کاملاً غیرعمدی و ناشی از ایراد فنی بود.",
+     "kind": "warn"
+    },
+    "طبق هاتفیکس‌های جدید، دیگر نگاه کردن به درون جعبه‌ها مجاز نیست و اگر بازیکنی برای باز کردن آن اقدام کند، تمامی محتویات به‌طور خودکار درون اینونتوری او لوت خواهد شد."
+   ],
+   "tags_fa": [
+    "هاتفیکس",
+    "WoW Forever",
+    "اکسپلویت",
+    "Rogue"
+   ],
+   "items": [],
+   "title_en": "Players Can No Longer Peek Inside Lockboxes in WoW: Forever to Fix New Exploit",
+   "source_url": "https://www.wowhead.com/news=383956",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383956-players-can-no-longer-peek-inside-lockboxes-in-wow-forever-to-fix-new.html",
+   "published_at": "2026-11-22T21:00:03Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383956/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383956/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383884,
+   "slug": "the-best-way-to-level-lockpicking-to-max-in-wow-forever",
+   "title_fa": "بهترین روش برای افزایش مهارت Lockpicking تا سطح ۳۰۰ در WoW: Forever",
+   "lead_fa": "پس از نرف روش قدیمی در Blackrock Depths، بازیکنان کلاس Rogue در WoW: Forever اکنون باید برای رساندن مهارت Lockpicking به حداکثر از مسیرهای متفاوتی استفاده کنند.",
+   "body_fa": [
+    "مهارت Lockpicking قابلیت‌های کاربردی متنوعی به کلاس Rogue می‌بخشد که از جمله آن‌ها می‌توان به باز کردن صندوق‌های قفل‌شده دیگر بازیکنان در ازای طلا و گشودن درها و صندوق‌های موجود در سیاه‌چاله‌ها اشاره کرد. در نسخه Classic این بازی، بازیکنان از روشی مشخص برای ارتقای این مهارت استفاده می‌کردند، اما با تغییرات اعمال‌شده در WoW: Forever این مسیر تضعیف شده است و بازی‌کنندگان ناچارند روش‌های جایگزین را دنبال کنند.",
+    {
+     "t": "h",
+     "x": "تغییرات Shadowforge و نرف روش قبلی"
+    },
+    "در گذشته، بازیکنان Rogue برای رساندن مهارت خود از ۲۵۰ به ۳۰۰ به دانجن Blackrock Depths می‌رفتند تا سه در نیازمند Shadowforge Key و همچنین خود قفل Shadowforge را باز کنند. با این حال بر اساس بررسی‌ها، قفل Shadowforge در حوالی مهارت ۲۶۵ به رنگ خاکستری درمی‌آید و دیگر امکان ارتقای مهارت تا سطح ۳۰۰ از طریق این قفل وجود ندارد.",
+    {
+     "t": "h",
+     "x": "مکان پیشنهادی جدید: Tyr’s Hand"
+    },
+    "در حال حاضر بهترین شیوه برای ارتقای مهارت، رفتن به منطقه Tyr’s Hand واقع در Eastern Plaguelands است که پر از دشمنان Elite است. در سرتاسر این محوطه صندوق‌های Scarlet Footlockers پراکنده شده‌اند که می‌توان برای پیشرفت این مهارت از آن‌ها کمک گرفت.",
+    {
+     "t": "note",
+     "x": "داشتن مهارت ۳۰۰ به Rogueها اجازه می‌دهد به جای دریافت Crescent Key از Pusillin در Dire Maul East، درِ Dire Maul North را مستقیماً باز کنند.",
+     "kind": "tip"
+    },
+    "رساندن مهارت به سطح ۳۰۰ به Rogueها کمک می‌کند کاربرد خود را در گروه‌ها و سیاه‌چاله‌ها حفظ کنند و برای گشودن درها یا صندوق‌های مختلف بدون نیاز به کلیدهای مربوطه اقدام کنند."
+   ],
+   "tags_fa": [
+    "WoW Forever",
+    "راهنمای مهارت",
+    "Rogue",
+    "Lockpicking"
+   ],
+   "items": [],
+   "title_en": "The Best Way to Level Lockpicking to Max in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383884",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383884-the-best-way-to-level-lockpicking-to-max-in-wow-forever.html",
+   "published_at": "2026-11-22T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383884/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383884/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383950,
    "slug": "maximum-dungeons-per-hour-reduced-in-wow-forever-hotfix-solo-gold-farm",
@@ -3334,187 +3503,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383855,
-   "slug": "season-of-discovery-s-scarlet-enclave-raid-to-return-in-wow-forever",
-   "title_fa": "بازگشت رید Scarlet Enclave از Season of Discovery در بازی WoW: Forever",
-   "lead_fa": "بلیزارد در تازه‌ترین قسمت از پادکست WoW: Forever تأیید کرد که رید اختصاصی The Scarlet Enclave در آینده به این بازی بازخواهد گشت.",
-   "body_fa": [
-    "در جریان جدیدترین اپیزود پادکست WoW: Forever، شرکت Blizzard تأیید کرد که رید The Scarlet Enclave که پیش‌تر به صورت انحصاری در Season of Discovery در دسترس قرار گرفته بود، در نهایت به دنیای WoW: Forever بازمی‌گردد.",
-    "هنگام گفتگو درباره شخصیت‌ها، پیش‌زمینه داستانی و خطوط داستانی احتمالی برای ورود به دنیای WoW: Forever، فردی با نام Aggrend به برخی از موارد مورد علاقه شخصی خود اشاره کرد که رید انحصاری The Scarlet Enclave در میان آن‌ها بود.",
-    {
-     "t": "quote",
-     "x": "من به Vol'jin اشاره کردم؛ فکر می‌کنم این موردی است که برای پرداختن به آن واقعاً هیجان‌زده‌ام، اما این شانس را داشته‌ام که تا حدی به Ashbringer بپردازم... Scarlet Enclave بازخواهد گشت. داستان The Ashbringer نیز در مقطعی برمی‌گردد؛ ممکن است مدتی طول بکشد، اما این محتوا بازخواهد گشت.",
-     "by": "Aggrend"
-    },
-    "در کنار The Scarlet Enclave، داستان سلاح The Ashbringer نیز در مقطعی به WoW: Forever بازمی‌گردد که این روایت احتمالاً هم‌زمان با همین رید ارائه خواهد شد.",
-    "محتوای The Scarlet Enclave و خط داستانی The Ashbringer شامل شخصیت‌های داستانی آشنایی نظیر Dreadlord Balnazzar و همچنین شخصیت‌های تازه‌ای از گروه Scarlet Crusade مانند Caldoran و Beatrix بود. این رید پیش از پایان فعالیت این نسخه در ماه مه سال 2025 به عنوان رید وداع بازی با استقبال بسیار خوبی مواجه شده بود."
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "Season of Discovery",
-    "رید"
-   ],
-   "items": [],
-   "title_en": "Season of Discovery's Scarlet Enclave Raid to Return in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383855",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383855-season-of-discovery-s-scarlet-enclave-raid-to-return-in-wow-forever.html",
-   "published_at": "2026-11-12T22:02:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383855/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383855/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383860,
-   "slug": "new-high-level-battle-mage-weapon-discovered-in-wow-forever",
-   "title_fa": "کشف سلاح سطح بالای Battle Mage با نام Wit's Edge در WoW: Forever",
-   "lead_fa": "بازیکنان در WoW: Forever سلاح سطح بالای جدیدی به نام Wit's Edge برای سبک Battle Mage کشف کرده‌اند که امکان اجرای حملات تن‌به‌تن و جادویی را تقویت می‌کند.",
-   "body_fa": [
-    "بازیکنان یک سلاح جدید سطح 60 ویژهٔ Battle Mage به نام [[item:Wit's Edge]] در WoW: Forever پیدا کرده‌اند. Battle Mage سبکی از کلاس Mage است که برای شکست دشمنان هم از اسپل‌ها و هم از حملات Melee بهره می‌برد؛ رویکردی که پیش‌تر در World of Warcraft به دلیل ماهیت سنتی این کلاس به عنوان Ranged DPS چندان پشتیبانی نمی‌شد.",
-    "این سلاح Spell Power و Spell Piercing به همراه دارد، اما ویژگی برجستهٔ آن افکت منحصر‌به‌فرد Wit's End است. طبق این قابلیت، در هر ضربه با سلاح تن‌به‌تن، ۱۵٪ شانس وجود دارد که Mage وضعیت Clearcasting را دریافت کند. این موضوع می‌تواند به چرخش‌های مهارتی جالبی منجر شود که طی آن بازیکنان میان حرکات خود حملات Melee را بگنجانند تا کست‌های رایگان به دست آورند.",
-    {
-     "t": "h",
-     "x": "نحوه دستیابی به سلاح"
-    },
-    "برای ساخت [[item:Wit's Edge]]، باید آیتم [[item:Scroll of Wit]] را روی [[item:Witchblade]] استفاده کرد. ترکیب این دو آیتم یک Sword کاملاً جدید به بازیکن می‌دهد.",
-    {
-     "t": "ul",
-     "xs": [
-      "طبق گزارش کاربر Kissta96 در Reddit، آیتم Scroll of Wit را می‌توان از طریق مهارت Comprehension کلاس Mage روی اسکرول‌های اسکیل سطح 175 کشف کرد.",
-      "آیتم Witchblade از باس Darkmaster Gandling در دانجن Scholomance لوت می‌شود."
-     ]
-    },
-    {
-     "t": "note",
-     "x": "با کشف این سلاح لول 60، سبک Battle Mage ممکن است در لول مکس پتانسیل‌هایی داشته باشد.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "سلاح",
-    "WoW Forever",
-    "Mage",
-    "کشف"
-   ],
-   "items": [],
-   "title_en": "New High Level Battle Mage Weapon Discovered in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383860",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383860-new-high-level-battle-mage-weapon-discovered-in-wow-forever.html",
-   "published_at": "2026-11-12T19:25:01Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383860/1.png",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383860/1.png",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383858,
-   "slug": "enhancement-shaman-class-changes-now-live-in-wow-forever",
-   "title_fa": "اعمال تغییرات کلاس Enhancement Shaman در بازی",
-   "lead_fa": "شرکت Blizzard تأیید کرد تغییرات کلاس Shaman و به‌ویژه تخصص Enhancement پس از تأخیری غیرمنتظره در تمام ریجن‌ها فعال شده است.",
-   "body_fa": [
-    "طبق اعلام رسمی Blizzard، به دلیل یک تأخیر غیرمنتظره در پیاده‌سازی، مجموعه تغییرات مربوط به Shaman در ساعت 10:45 قبل از ظهر به وقت PST برای تمامی مناطق فعال شد.",
-    {
-     "t": "note",
-     "x": "امکان استفاده هم‌زمان از Weapon imbues و Weapon totems برای کلاس Shaman فراهم شده است.",
-     "kind": "info"
-    },
-    {
-     "t": "h",
-     "x": "جزئیات تغییرات تخصص Enhancement"
-    },
-    {
-     "t": "ul",
-     "xs": [
-      "میزان Damage توانایی Stormstrike به 100% از Weapon damage کاهش یافت (قبلاً 150% بود) و Cooldown آن به 8 ثانیه افزایش پیدا کرد (قبلاً 6 ثانیه بود).",
-      "میزان تبدیل Intellect به Attack Power در تلنت Mental Dexterity به نسبت 33/66/100% کاهش یافت (پیش‌تر 50/100/150% بود).",
-      "تلنت Maelstrom Weapon اکنون در تمام رنک‌ها 20% کاهش Cast time و کاهش مصرف Mana را به ازای هر بار اعمال ارائه می‌دهد (پیش‌تر 4/8/12/16/20% کاهش Cast time و مصرف Mana بود).",
-      "شانس فعال‌سازی Maelstrom Weapon اکنون با افزایش رنک بیشتر می‌شود و به تعداد 6/7/8/9/10 بار در دقیقه فعال می‌گردد (قبلاً بدون توجه به رنک 20 بار در دقیقه بود)."
-     ]
-    },
-    {
-     "t": "h",
-     "x": "به‌روزرسانی Tooltip برای Maelstrom Weapon"
-    },
-    "متن راهنمای Tooltip مربوط به Maelstrom Weapon به‌روزرسانی شده تا درصد شانس فعال‌سازی را بر اساس سرعت Main Hand Weapon کاراکتر نشان دهد.",
-    "به‌عنوان نمونه، اگر یک Shaman تعداد ۵ امتیاز در Maelstrom Weapon داشته باشد و از سلاحی با سرعت 3.6 استفاده کند، شانس فعال‌سازی 60% در هر ضربه نمایش داده می‌شود؛ در حالی که اگر از سلاحی با سرعت 2.0 استفاده کند، این شانس 33% خواهد بود."
-   ],
-   "tags_fa": [
-    "تغییرات کلاس‌ها",
-    "کلاس Shaman",
-    "هاتفیکس"
-   ],
-   "items": [],
-   "title_en": "Enhancement Shaman Class Changes Now Live in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383858",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383858-enhancement-shaman-class-changes-now-live-in-wow-forever.html",
-   "published_at": "2026-11-12T19:12:41Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383858/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383858/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383854,
-   "slug": "start-making-other-arrangements-josh-greenfield-on-locking-character-c",
-   "title_fa": "توضیحات Josh Greenfield درباره محدودیت ساخت کاراکتر در ریلم‌های PvP",
-   "lead_fa": "تیم توسعه‌دهنده به دلیل رسیدن به سقف اختلاف جمعیتی مجاز، ساخت کاراکتر برای فکشن پرجمعیت‌تر در بیشتر ریلم‌های PvP را محدود کرده است.",
-   "body_fa": [
-    "در قسمت هفتم پادکست WoW: Forever، جاش گرینفیلد (Josh Greenfield یا همان Aggrend) درباره قفل شدن ساخت کاراکتر روی ریلم‌های با قوانین PvP و RP-PVP صحبت کرد و اشاره داشت بازیکنانی که قصد ساخت کاراکتر Horde روی بیشتر این سرورها را دارند، باید برنامه‌ریزی دیگری داشته باشند.",
-    "چند روز پیش اعلام شده بود که Blizzard در حال مدیریت تعادل فکشن‌ها روی سرورهای PvP است. برای دستیابی به این هدف، ساخت کاراکتر روی فکشن‌های پرجمعیت‌تر در ریلم‌های PvP و RP-PVP دشوارتر شد که در اغلب این سرورها، Horde فکشن پرجمعیت‌تر محسوب می‌شود.",
-    {
-     "t": "quote",
-     "x": "ما شرایط را تا حدی سخت‌تر کرده‌ایم. متأسفانه این یعنی اگر هنوز کاراکتر Horde نساخته‌اید، در این مقطع بهتر است به فکر برنامه‌ریزی دیگری باشید، چون مجبور شدیم محدودیت‌ها را شدیدتر کنیم.",
-     "by": "Josh Greenfield — Aggrend"
-    },
-    "طبق توضیحات Aggrend، تعادل میان فکشن‌ها یکی از مهم‌ترین موارد در یک سرور PvP است و تیم سازنده توجه ویژه‌ای به حفظ آن دارد. Blizzard در زمان عرضه معمولاً اختلاف ۱۰ درصدی (10% delta) را مجاز می‌داند، اما در حال حاضر وضعیت به این سقف رسیده است.",
-    "همچنین اعلام شد که وضعیت تعادل در سطح مناطق (Zone level) نیز اخیراً بررسی شده و تغییراتی برای عادلانه‌تر شدن شرایط اعمال شده است.",
-    {
-     "t": "note",
-     "x": "شایعاتی درباره تأثیر اکانت‌های Trial یا کاراکترهای لول ۱ بر برهم زدن تعادل فکشن‌ها مطرح شده بود که Aggrend آن را رد کرد و گفت این اقدامات هیچ اثری ندارد و سیستم بدین شکل کار نمی‌کند.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "تعادل فکشن",
-    "سرورهای PvP",
-    "WoW Forever",
-    "اخبار بلیزارد"
-   ],
-   "items": [],
-   "title_en": "\"Start Making Other Arrangements\" - Josh Greenfield on Locking Character Creation on PvP Rulesets",
-   "source_url": "https://www.wowhead.com/news=383854",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383854-start-making-other-arrangements-josh-greenfield-on-locking-character-c.html",
-   "published_at": "2026-11-12T17:58:03Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383854/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383854/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3533,20 +3521,6 @@
    "published_at": "2026-11-23T19:39:02Z"
   },
   {
-   "id": 383965,
-   "title_en": "Blizzard Working on a Fix for Paladin and Warlocks Not Unlocking Epic Riding",
-   "url": "https://www.wowhead.com/news=383965",
-   "category": "Forever",
-   "published_at": "2026-11-23T19:05:26Z"
-  },
-  {
-   "id": 383963,
-   "title_en": "Blizzard Announces Lockbox Change is Temporary in WoW: Forever - Peeking Inside Lockboxes Will Return",
-   "url": "https://www.wowhead.com/news=383963",
-   "category": "Forever",
-   "published_at": "2026-11-23T16:33:33Z"
-  },
-  {
    "id": 383955,
    "title_en": "Uldaman Boss No Longer Drops Loot - Nerf to Gold Farming Strategy",
    "url": "https://www.wowhead.com/news=383955",
@@ -3561,13 +3535,6 @@
    "published_at": "2026-11-22T23:06:59Z"
   },
   {
-   "id": 383956,
-   "title_en": "Players Can No Longer Peek Inside Lockboxes in WoW: Forever to Fix New Exploit",
-   "url": "https://www.wowhead.com/news=383956",
-   "category": "Forever",
-   "published_at": "2026-11-22T21:00:03Z"
-  },
-  {
    "id": 383954,
    "title_en": "World Buffs Removed on Any Loading Screen in WoW: Forever",
    "url": "https://www.wowhead.com/news=383954",
@@ -3580,13 +3547,6 @@
    "url": "https://www.wowhead.com/news=383947",
    "category": "WoW",
    "published_at": "2026-11-22T19:00:00Z"
-  },
-  {
-   "id": 383884,
-   "title_en": "The Best Way to Level Lockpicking to Max in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383884",
-   "category": "Forever",
-   "published_at": "2026-11-22T15:00:00Z"
   },
   {
    "id": 383940,
@@ -3797,6 +3757,34 @@
    "url": "https://www.wowhead.com/news=383547",
    "category": "Forever",
    "published_at": "2026-10-23T14:00:00Z"
+  },
+  {
+   "id": 383552,
+   "title_en": "Item Level Changes for Ascended Venomforged Gear",
+   "url": "https://www.wowhead.com/news=383552",
+   "category": "Live",
+   "published_at": "2026-10-23T02:19:48Z"
+  },
+  {
+   "id": 383543,
+   "title_en": "Blizzard Confirms Molten Core Will Have New Mechanics in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383543",
+   "category": "Forever",
+   "published_at": "2026-10-22T18:15:43Z"
+  },
+  {
+   "id": 383541,
+   "title_en": "The WoW: Forever End of Beta Celebration Has Begun ft. Azuregos and Kazzak",
+   "url": "https://www.wowhead.com/news=383541",
+   "category": "Forever",
+   "published_at": "2026-10-22T17:13:00Z"
+  },
+  {
+   "id": 383540,
+   "title_en": "The WoW: Forever Podcast Episode 5 Now Available - The End of Beta Special!",
+   "url": "https://www.wowhead.com/news=383540",
+   "category": "Forever",
+   "published_at": "2026-10-22T16:21:06Z"
   }
  ]
 }
