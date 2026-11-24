@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T16:34:53Z",
+ "generated": "2026-11-24T16:36:29Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3507,6 +3507,13 @@
  ],
  "queue": [
   {
+   "id": 383961,
+   "title_en": "All Tier 3 Blueprint Sources for Crafting in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383961",
+   "category": "Forever",
+   "published_at": "2026-11-24T15:00:00Z"
+  },
+  {
    "id": 383972,
    "title_en": "Class and Profession Bug Fixes - WoW: Forever Hotfixes for November 23, 2026",
    "url": "https://www.wowhead.com/news=383972",
@@ -3778,13 +3785,6 @@
    "url": "https://www.wowhead.com/news=383552",
    "category": "Live",
    "published_at": "2026-10-23T02:19:48Z"
-  },
-  {
-   "id": 383543,
-   "title_en": "Blizzard Confirms Molten Core Will Have New Mechanics in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383543",
-   "category": "Forever",
-   "published_at": "2026-10-22T18:15:43Z"
   }
  ]
 }
