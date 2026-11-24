@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T18:22:14Z",
+ "generated": "2026-11-24T18:23:49Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3507,6 +3507,13 @@
  ],
  "queue": [
   {
+   "id": 383977,
+   "title_en": "Last Week to Obtain Aqir Invasion Feat of Strength Achievements Before Removal",
+   "url": "https://www.wowhead.com/news=383977",
+   "category": "Live",
+   "published_at": "2026-11-24T16:30:16Z"
+  },
+  {
    "id": 383961,
    "title_en": "All Tier 3 Blueprint Sources for Crafting in WoW: Forever",
    "url": "https://www.wowhead.com/news=383961",
@@ -3778,13 +3785,6 @@
    "url": "https://www.wowhead.com/news=383547",
    "category": "Forever",
    "published_at": "2026-10-23T14:00:00Z"
-  },
-  {
-   "id": 383552,
-   "title_en": "Item Level Changes for Ascended Venomforged Gear",
-   "url": "https://www.wowhead.com/news=383552",
-   "category": "Live",
-   "published_at": "2026-10-23T02:19:48Z"
   }
  ]
 }
