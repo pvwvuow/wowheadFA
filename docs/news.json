@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T19:46:11Z",
+ "generated": "2026-11-24T19:47:59Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3507,6 +3507,13 @@
  ],
  "queue": [
   {
+   "id": 383980,
+   "title_en": "Watch \"Al'Aketh Rising\" - New Motion Comic for WoW: Forever",
+   "url": "https://www.wowhead.com/news=383980",
+   "category": "Forever",
+   "published_at": "2026-11-24T18:06:43Z"
+  },
+  {
    "id": 383977,
    "title_en": "Last Week to Obtain Aqir Invasion Feat of Strength Achievements Before Removal",
    "url": "https://www.wowhead.com/news=383977",
@@ -3778,13 +3785,6 @@
    "url": "https://www.wowhead.com/news=383561",
    "category": "WoW",
    "published_at": "2026-10-23T17:25:01Z"
-  },
-  {
-   "id": 383547,
-   "title_en": "Who is WoW: Forever Meant For? Blizzard Discusses on Forever Podcast",
-   "url": "https://www.wowhead.com/news=383547",
-   "category": "Forever",
-   "published_at": "2026-10-23T14:00:00Z"
   }
  ]
 }
