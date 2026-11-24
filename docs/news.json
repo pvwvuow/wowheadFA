@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T02:24:17Z",
+ "generated": "2026-11-24T04:10:58Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3507,6 +3507,13 @@
  ],
  "queue": [
   {
+   "id": 383972,
+   "title_en": "Class and Profession Bug Fixes - WoW: Forever Hotfixes for November 23, 2026",
+   "url": "https://www.wowhead.com/news=383972",
+   "category": "Forever",
+   "published_at": "2026-11-24T02:10:52Z"
+  },
+  {
    "id": 383969,
    "title_en": "Players Reporting that Sunder Armor Effects Don't Work in WoW: Forever Dungeons",
    "url": "https://www.wowhead.com/news=383969",
@@ -3778,13 +3785,6 @@
    "url": "https://www.wowhead.com/news=383543",
    "category": "Forever",
    "published_at": "2026-10-22T18:15:43Z"
-  },
-  {
-   "id": 383541,
-   "title_en": "The WoW: Forever End of Beta Celebration Has Begun ft. Azuregos and Kazzak",
-   "url": "https://www.wowhead.com/news=383541",
-   "category": "Forever",
-   "published_at": "2026-10-22T17:13:00Z"
   }
  ]
 }
