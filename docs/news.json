@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T18:54:11Z",
+ "generated": "2026-11-25T20:20:48Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3507,6 +3507,34 @@
  ],
  "queue": [
   {
+   "id": 383997,
+   "title_en": "Alterac Valley Zerg Strat Nerfed in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383997",
+   "category": "Forever",
+   "published_at": "2026-11-25T19:44:07Z"
+  },
+  {
+   "id": 383995,
+   "title_en": "December 2026 Trading Post Preview - Festive Eve and Brrrgl Pets",
+   "url": "https://www.wowhead.com/news=383995",
+   "category": "Live",
+   "published_at": "2026-11-25T19:25:29Z"
+  },
+  {
+   "id": 383992,
+   "title_en": "Balance Druid Talent Changes Now Live in WoW: Forever - 10% Damage Buff While in Moonkin Form",
+   "url": "https://www.wowhead.com/news=383992",
+   "category": "Forever",
+   "published_at": "2026-11-25T18:33:57Z"
+  },
+  {
+   "id": 383991,
+   "title_en": "Buy 365 Days of Game Time for $120 USD - New Limited Time Shop Offer",
+   "url": "https://www.wowhead.com/news=383991",
+   "category": "WoW",
+   "published_at": "2026-11-25T18:17:35Z"
+  },
+  {
    "id": 383990,
    "title_en": "New Cuddly Seafoam Grrgle Twitch Drop Coming on December 1st",
    "url": "https://www.wowhead.com/news=383990",
@@ -3757,34 +3785,6 @@
    "url": "https://www.wowhead.com/news=383704",
    "category": "Forever",
    "published_at": "2026-11-03T03:51:28Z"
-  },
-  {
-   "id": 383702,
-   "title_en": "Hunter Class Buffs on WoW: Forever",
-   "url": "https://www.wowhead.com/news=383702",
-   "category": "Forever",
-   "published_at": "2026-11-03T01:33:01Z"
-  },
-  {
-   "id": 383698,
-   "title_en": "Planet Azeroth with Bill Bailey: Plaguelands, Winterspring, and More",
-   "url": "https://www.wowhead.com/news=383698",
-   "category": "Forever",
-   "published_at": "2026-11-03T00:05:25Z"
-  },
-  {
-   "id": 383695,
-   "title_en": "Long Maintenance Planned Ahead of WoW: Forever Launch",
-   "url": "https://www.wowhead.com/news=383695",
-   "category": "Forever",
-   "published_at": "2026-11-02T18:25:59Z"
-  },
-  {
-   "id": 383657,
-   "title_en": "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
-   "url": "https://www.wowhead.com/news=383657",
-   "category": "Forever",
-   "published_at": "2026-10-31T18:00:00Z"
   }
  ]
 }
