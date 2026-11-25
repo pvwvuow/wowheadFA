@@ -464,4 +464,12 @@ def main():
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    rc = main()
+    # WoWFA reports (the owner, 25 Nov): read the report channel, save the game text,
+    # react with a check mark (tools/wowfa_reports.py). Never fails the news run.
+    try:
+        import wowfa_reports
+        print("wowfa reports:", wowfa_reports.collect(ROOT, os.environ.get("DISCORD_BOT_TOKEN", "").strip()))
+    except Exception as e:
+        print("wowfa reports: error %s: %s" % (type(e).__name__, str(e)[:200]))
+    sys.exit(rc)
