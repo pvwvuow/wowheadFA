@@ -1,0 +1,13 @@
+source: wowfarsi.ir/report
+at: 2026-11-25T08:40:51Z
+
+[Bug] 1.0.5-beta WoWFA 1.0.5-beta b71091 misses=8 errors=0 ;; obj :: 0/1 This
+
+**Type:** Bug
+
+### Status line
+```
+WoWFA 1.0.5-beta b71091 misses=8 errors=0 ;; obj :: 0/1 Thistlenettle's Badge :: objective :: x26 ;; obj :: 0/4 Miners' Union Card :: objective :: x26 ;; obj :: Quests: 9/40 :: objective :: x24 ;; obj :: 0/1 Tablet of Ryun'eh :: objective :: x16 ;; obj :: 10/10 Shadowmaw Panther slain (Complete) :: objective :: x2 ;; alert :: You need to be closer to interact with that target. ::  :: x2 ;; alert :: Thank you for your report! ::  :: x1 ;; alert :: You don't have a pet! ::  :: x1
+```
+
+_Sent from wowfarsi.ir/report_
