@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T17:48:26Z",
+ "generated": "2026-11-25T17:50:36Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3507,6 +3507,20 @@
  ],
  "queue": [
   {
+   "id": 383988,
+   "title_en": "Night Watchman's Torch Can Be Used While Mounted Again in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383988",
+   "category": "Forever",
+   "published_at": "2026-11-25T17:04:57Z"
+  },
+  {
+   "id": 383986,
+   "title_en": "Revelation Enchant Nerfed in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383986",
+   "category": "Forever",
+   "published_at": "2026-11-25T16:08:26Z"
+  },
+  {
    "id": 383812,
    "title_en": "Dawn Waker Secret Brings Players to a Cataclysm Boss Cameo in WoW: Forever",
    "url": "https://www.wowhead.com/news=383812",
@@ -3771,20 +3785,6 @@
    "url": "https://www.wowhead.com/news=383648",
    "category": "Forever",
    "published_at": "2026-10-29T16:27:09Z"
-  },
-  {
-   "id": 383630,
-   "title_en": "Planet Azeroth: Episode 1 ft. Bill Bailey",
-   "url": "https://www.wowhead.com/news=383630",
-   "category": "Forever",
-   "published_at": "2026-10-28T16:38:15Z"
-  },
-  {
-   "id": 383603,
-   "title_en": "Myth 2/6 Piece of Loot Now Available from Labyrinths",
-   "url": "https://www.wowhead.com/news=383603",
-   "category": "Live",
-   "published_at": "2026-10-27T22:58:35Z"
   }
  ]
 }
