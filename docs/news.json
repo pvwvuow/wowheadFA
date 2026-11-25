@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T14:40:56Z",
+ "generated": "2026-11-25T15:03:26Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3507,6 +3507,13 @@
  ],
  "queue": [
   {
+   "id": 383812,
+   "title_en": "Dawn Waker Secret Brings Players to a Cataclysm Boss Cameo in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383812",
+   "category": "Forever",
+   "published_at": "2026-11-25T15:00:00Z"
+  },
+  {
    "id": 383983,
    "title_en": "[UPDATED] Ascendant Venomstone Drops Increased from Venomous Abyss Bosses and +14 or Higher Mythic+ Keystones",
    "url": "https://www.wowhead.com/news=383983",
@@ -3778,13 +3785,6 @@
    "url": "https://www.wowhead.com/news=383603",
    "category": "Live",
    "published_at": "2026-10-27T22:58:35Z"
-  },
-  {
-   "id": 383573,
-   "title_en": "Blizzard Hints The WoW: Forever Podcast Will Continue",
-   "url": "https://www.wowhead.com/news=383573",
-   "category": "Forever",
-   "published_at": "2026-10-26T15:00:00Z"
   }
  ]
 }
