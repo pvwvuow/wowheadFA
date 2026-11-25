@@ -1,0 +1,16 @@
+source: wowfarsi.ir/report
+at: 2026-11-25T08:02:02Z
+
+[Bug] 1.0.5-beta بیا
+
+**Type:** Bug
+
+### Description
+بیا
+
+### Status line
+```
+WoWFA 1.0.5-beta b71091 misses=3 errors=0 ;; obj :: 0/1 Thistlenettle's Badge :: objective :: x2 ;; obj :: 0/4 Miners' Union Card :: objective :: x2 ;; obj :: Quests: 9/40 :: objective :: x1
+```
+
+_Sent from wowfarsi.ir/report_
