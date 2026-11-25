@@ -20,6 +20,12 @@ Each run of discord_poster.py (the discord workflow, every 30 min) calls collect
 
 No user names and no user ids are saved: only the post title and the message text.
 
+Site inbox (25 Nov 2026): wowfarsi.ir/report POSTs each report to the ntfy.sh topic
+INBOX_TOPIC (no account needed; config "inbox" overrides it, "" = off). Long reports
+come as parts "WFR1 <id> <i>/<n>". Every run polls the topic (ntfy keeps 12 h), joins
+the parts and saves data/wowfa_reports/<date>-web-<id>.txt. Seen ids live in
+config "inbox_state" so nothing is saved twice. This runs even when "forum" is empty.
+
 Config: data/wowfa_reports/config.json {"forum": "<forum channel id>"} - empty = off.
 The id of one post of the forum works too (its forum is used, no welcome post is
 opened); a thread outside a forum = only that thread is read.
@@ -50,6 +56,10 @@ FORUM_TYPE = 15
 THREAD_TYPES = (11, 12)
 REQUIRE_TAG = 1 << 4
 PAGE_CMD = ("!page", "!\u0635\u0641\u062d\u0647")
+INBOX_TOPIC = "wowfarsi-rep-q7m3x9k2v8"
+NTFY = "https://ntfy.sh"
+MAX_WEB = 400000
+WFR = re.compile(r"^WFR1 ([a-z0-9]{6,16}) (\d{1,3})/(\d{1,3})$")
 
 WELCOME = {
     "title": "\u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627\u06cc WoWFA | \u0628\u0627\u06af\u060c \u062a\u0631\u062c\u0645\u0647\u0654 \u063a\u0644\u0637\u060c \u0647\u0631 \u0686\u06cc\u0632\u06cc",
@@ -214,6 +224,74 @@ def _attachments(m):
     return lines, blocks, names
 
 
+def _inbox(root, cfg, base):
+    """poll the site inbox; returns a short note or None when off"""
+    topic = cfg.get("inbox", INBOX_TOPIC)
+    topic = re.sub(r"[^A-Za-z0-9_-]", "", str(topic or ""))
+    if not topic or requests is None:
+        return None
+    st = cfg.setdefault("inbox_state", {})
+    seen = st.setdefault("seen", [])
+    since = int(st.get("since") or 0)
+    try:
+        r = requests.get("%s/%s/json" % (NTFY, topic), timeout=30, headers={"User-Agent": UA},
+                         params={"poll": "1", "since": str(since) if since else "12h"})
+    except Exception as e:
+        return "inbox error %s" % type(e).__name__
+    if r.status_code != 200:
+        return "inbox HTTP %s" % r.status_code
+    parts = st.setdefault("parts", {})
+    known = set(seen)
+    for line in r.text.splitlines():
+        try:
+            ev = json.loads(line)
+        except Exception:
+            continue
+        if not isinstance(ev, dict) or ev.get("event") != "message":
+            continue
+        eid = re.sub(r"[^A-Za-z0-9]", "", str(ev.get("id") or ""))[:24]
+        if not eid or eid in known:
+            continue
+        known.add(eid)
+        seen.append(eid)
+        t = int(ev.get("time") or 0)
+        if t > since:
+            since = t
+        text = str(ev.get("message") or "")
+        head, _, body = text.partition("\n")
+        m = WFR.match(head.strip())
+        if m:
+            rid, i, n = m.group(1), int(m.group(2)), int(m.group(3))
+        else:
+            rid, i, n, body = eid.lower(), 1, 1, text
+        if n < 1 or n > 60 or i < 1 or i > n:
+            continue
+        p = parts.setdefault(rid, {"n": n, "t": t, "got": {}})
+        p["got"][str(i)] = body
+    del seen[:-500]
+    st["since"] = since
+    today = datetime.now(timezone.utc).strftime("%Y%m%d")
+    now = time.time()
+    done = 0
+    for rid in sorted(parts):
+        p = parts[rid]
+        n = int(p.get("n") or 1)
+        complete = all(str(i) in p["got"] for i in range(1, n + 1))
+        if not complete and now - int(p.get("t") or now) < 13 * 3600:
+            continue
+        body = "".join(p["got"].get(str(i), "\n[part %d/%d missing]\n" % (i, n)) for i in range(1, n + 1))
+        at = datetime.fromtimestamp(int(p.get("t") or now), timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        os.makedirs(base, exist_ok=True)
+        path = os.path.join(base, "%s-web-%s.txt" % (today, re.sub(r"[^a-z0-9]", "", rid)[:16]))
+        with open(path, "w", encoding="utf-8") as f:
+            f.write("source: wowfarsi.ir/report\nat: %s\n\n" % at)
+            f.write(body[:MAX_WEB].rstrip("\n") + "\n")
+        _stage(root, path)
+        del parts[rid]
+        done += 1
+    return "web saved %d, waiting %d" % (done, len(parts))
+
+
 def collect(root, token):
     base = os.path.join(root, "data", "wowfa_reports")
     cfg_path = os.path.join(base, "config.json")
@@ -222,6 +300,10 @@ def collect(root, token):
             cfg = json.load(f)
     except Exception:
         return "off (no data/wowfa_reports/config.json)"
+    web = _inbox(root, cfg, base)
+    if web:
+        cfg["inbox_last"] = "%s %s" % (_now(), web)
+        _save(root, cfg_path, cfg)
     forum = str(cfg.get("forum") or "").strip()
     if not forum:
         return "off (no forum in config)"
