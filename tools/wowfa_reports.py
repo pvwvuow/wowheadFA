@@ -21,6 +21,8 @@ Each run of discord_poster.py (the discord workflow, every 30 min) calls collect
 No user names and no user ids are saved: only the post title and the message text.
 
 Config: data/wowfa_reports/config.json {"forum": "<forum channel id>"} - empty = off.
+The id of one post of the forum works too (its forum is used, no welcome post is
+opened); a thread outside a forum = only that thread is read.
 Discord side: Message Content Intent on (Developer Portal -> Bot), and in the forum the
 bot needs View Channel, Read Message History, Send Messages, Create Posts,
 Send Messages in Threads and Add Reactions.
@@ -45,6 +47,7 @@ MAX_FILE = 4 * 1024 * 1024
 MAX_TEXT = 6000
 CHECK = "%E2%9C%85"
 FORUM_TYPE = 15
+THREAD_TYPES = (11, 12)
 REQUIRE_TAG = 1 << 4
 PAGE_CMD = ("!page", "!\u0635\u0641\u062d\u0647")
 
@@ -231,7 +234,16 @@ def collect(root, token):
         cfg["last"] = "%s forum read HTTP %s (bot not in that server or no View Channel)" % (_now(), code)
         _save(root, cfg_path, cfg)
         return cfg["last"]
-    if int(ch.get("type") or 0) != FORUM_TYPE:
+    only = None
+    if int(ch.get("type") or 0) in THREAD_TYPES:
+        # the id of one post (thread) was given: use its forum, or only that thread
+        par, _ = api.get("/channels/%s" % ch.get("parent_id"))
+        if par is not None and int(par.get("type") or 0) == FORUM_TYPE:
+            forum, ch = str(par["id"]), par
+            cfg.setdefault("pages", [])
+        else:
+            only = {forum: ch.get("name") or ""}
+    elif int(ch.get("type") or 0) != FORUM_TYPE:
         cfg["last"] = "%s channel %s is type %s, not a forum" % (_now(), forum, ch.get("type"))
         _save(root, cfg_path, cfg)
         return cfg["last"]
@@ -244,7 +256,7 @@ def collect(root, token):
     pages = cfg.get("pages")
     if pages is None:
         pages = cfg["pages"] = [WELCOME]
-    for p in pages:
+    for p in ([] if only else pages):
         title = str(p.get("title") or "").strip()
         if not title or title in made:
             continue
@@ -256,7 +268,7 @@ def collect(root, token):
             note.append("page HTTP %s" % code)
 
     threads = cfg.setdefault("threads", {})
-    live = _threads(api, guild, forum)
+    live = only or _threads(api, guild, forum)
     today = datetime.now(timezone.utc).strftime("%Y%m%d")
     saved = 0
     empty = 0
@@ -274,7 +286,7 @@ def collect(root, token):
             text = (m.get("content") or "").strip()
             first = text.split("\n", 1)[0].strip()
             word = first.split(" ", 1)[0].lower()
-            if word in PAGE_CMD:
+            if word in PAGE_CMD and not only:
                 if owner and str((m.get("author") or {}).get("id")) == owner:
                     title = first[len(word):].strip()
                     rest = text.split("\n", 1)[1].strip() if "\n" in text else ""
