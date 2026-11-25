@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T21:53:30Z",
+ "generated": "2026-11-25T00:45:41Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3507,6 +3507,13 @@
  ],
  "queue": [
   {
+   "id": 383983,
+   "title_en": "[UPDATED] Ascendant Venomstone Drops Increased from Venomous Abyss Bosses and +14 or Higher Mythic+ Keystones",
+   "url": "https://www.wowhead.com/news=383983",
+   "category": "Live",
+   "published_at": "2026-11-24T23:51:40Z"
+  },
+  {
    "id": 383978,
    "title_en": "Earn 10% Reputation Bonus During Pilgrim's Bounty",
    "url": "https://www.wowhead.com/news=383978",
@@ -3778,13 +3785,6 @@
    "url": "https://www.wowhead.com/news=383573",
    "category": "Forever",
    "published_at": "2026-10-26T15:00:00Z"
-  },
-  {
-   "id": 383570,
-   "title_en": "Den of Nalorakk and Murder Row Bug Fixes - Patch 12.1.5 Hotfixes",
-   "url": "https://www.wowhead.com/news=383570",
-   "category": "Live",
-   "published_at": "2026-10-24T00:23:57Z"
   }
  ]
 }
