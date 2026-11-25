@@ -1,0 +1,16 @@
+source: wowfarsi.ir/report
+at: 2026-11-25T06:00:31Z
+
+[Bug] 1.0.2-beta بیا باگ جدید
+
+**Type:** Bug
+
+### Description
+بیا باگ جدید
+
+### Status line
+```
+WoWFA 1.0.2-beta b71091 misses=18 ;; zone :: Trade District ::  :: x6 ;; alert :: Must have ammo equipped in the ammo slot. ::  :: x5 ;; alert :: Internal mail database error. ::  :: x4 ;; npc :: Huntard ::  :: x3 ;; npc :: Loqe ::  :: x2 ;; npc :: Betwyn ::  :: x1 ;; tpl :: Increases Ranged Attack Power by 70. :: Aspect of the Hawk :: x1 ;; npc :: Klathnar ::  :: x1 ;; npc :: Makkresh ::  :: x1 ;; npc :: Pakopes ::  :: x1 ;; npc :: Sargak ::  :: x1 ;; alert :: The item was not found. ::  :: x1 ;; alert :: You are mounted. ::  :: x1 ;; alert :: You are too far away. ::  :: x1 ;; npc :: Zag'gak ::  :: x1 ;; npc :: Zangrath ::  :: x1 ;; npc :: Zhar'garth ::  :: x1 ;; npc :: Царапкин ::  :: x1
+```
+
+_Sent from wowfarsi.ir/report_
