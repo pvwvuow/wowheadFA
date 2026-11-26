@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T02:11:10Z",
+ "generated": "2026-11-26T02:12:31Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3507,6 +3507,13 @@
  ],
  "queue": [
   {
+   "id": 384000,
+   "title_en": "Fixes for Legacy Points, Classes, and Quests - WoW: Forever Hotfixes for November 25th",
+   "url": "https://www.wowhead.com/news=384000",
+   "category": "Forever",
+   "published_at": "2026-11-25T23:24:22Z"
+  },
+  {
    "id": 383999,
    "title_en": "Alterac Valley Reputation Increased Again in WoW: Forever",
    "url": "https://www.wowhead.com/news=383999",
@@ -3778,13 +3785,6 @@
    "url": "https://www.wowhead.com/news=383713",
    "category": "WoW",
    "published_at": "2026-11-03T18:56:09Z"
-  },
-  {
-   "id": 383712,
-   "title_en": "What's New and What's the Same in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383712",
-   "category": "Forever",
-   "published_at": "2026-11-03T18:01:37Z"
   }
  ]
 }
