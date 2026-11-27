@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:36:43Z",
+ "generated": "2026-11-27T16:04:31Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3507,6 +3507,13 @@
  ],
  "queue": [
   {
+   "id": 383998,
+   "title_en": "Save Up To 60% and Earn In-Game Goodies with the Gear Store Black Friday Sale",
+   "url": "https://www.wowhead.com/news=383998",
+   "category": "WoW",
+   "published_at": "2026-11-27T15:00:00Z"
+  },
+  {
    "id": 384000,
    "title_en": "Fixes for Legacy Points, Classes, and Quests - WoW: Forever Hotfixes for November 25th",
    "url": "https://www.wowhead.com/news=384000",
@@ -3778,13 +3785,6 @@
    "url": "https://www.wowhead.com/news=383720",
    "category": "Forever",
    "published_at": "2026-11-03T20:22:18Z"
-  },
-  {
-   "id": 383713,
-   "title_en": "D&D: World of Warcraft Early Access Grants Pet, Mount, Decor, and Toy",
-   "url": "https://www.wowhead.com/news=383713",
-   "category": "WoW",
-   "published_at": "2026-11-03T18:56:09Z"
   }
  ]
 }
