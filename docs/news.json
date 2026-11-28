@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T20:28:52Z",
+ "generated": "2026-11-28T21:36:21Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -196,6 +196,60 @@
    "images": [
     {
      "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383995/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383991,
+   "slug": "buy-365-days-of-game-time-for-120-usd-new-limited-time-shop-offer",
+   "title_fa": "تخفیف محدود خرید ۳۶۵ روز Game Time برای World of Warcraft",
+   "lead_fa": "شرکت Blizzard به مناسبت عرضه WoW: Forever، پیشنهاد ویژه‌ای را برای خرید ۳۶۵ روز Game Time با قیمت ۱۲۰ دلار در دسترس قرار داده است.",
+   "body_fa": [
+    "به مناسبت لانچ WoW: Forever، شرکت Blizzard تخفیفی برای خرید ۳۶۵ روز Game Time در نظر گرفته است. بازیکنانی که به دنبال دریافت یک سال کامل زمان بازی هستند، می‌توانند تا تاریخ ۷ دسامبر از این پیشنهاد استفاده کنند که تحت عنوان WoW: Celebration Pass عرضه شده است.",
+    "قیمت تعیین‌شده برای این بسته ۱۲۰ دلار است که در مقایسه با اشتراک سالانه با نرخ ۱۲.۹۹ دلار در ماه، حدود ۲۳٪ تخفیف محسوب می‌شود.",
+    {
+     "t": "quote",
+     "x": "برای قدردانی از شما بابت رقم زدن شروعی فوق‌العاده برای World of Warcraft: Forever، این مناسبت را با قیمتی استثنایی روی ۳۶۵ روز WoW Game Time جشن می‌گیریم. در حال حاضر مشغول بازی هستید؟ ۳۶۵ روز دسترسی WoW را به Game Time فعلی یا پلن اشتراک خود اضافه کنید.",
+     "by": "Blizzard"
+    },
+    {
+     "t": "h",
+     "x": "محتواهای تحت پوشش این پیشنهاد"
+    },
+    "این بسته شامل دسترسی به بخش‌های مختلف بازی خواهد بود:",
+    {
+     "t": "ul",
+     "xs": [
+      "دسترسی به WoW: Forever",
+      "دسترسی به WoW: Classic",
+      "دسترسی به Modern WoW (محتوای پیش از جدیدترین بسته الحاقی یعنی Midnight)"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "این آفر تنها برای مدت محدودی و تا تاریخ ۷ دسامبر فعال خواهد بود.",
+     "kind": "warn"
+    }
+   ],
+   "tags_fa": [
+    "فروشگاه",
+    "گیم تایم",
+    "Blizzard",
+    "تخفیف"
+   ],
+   "items": [],
+   "title_en": "Buy 365 Days of Game Time for $120 USD - New Limited Time Shop Offer",
+   "source_url": "https://www.wowhead.com/news=383991",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383991-buy-365-days-of-game-time-for-120-usd-new-limited-time-shop-offer.html",
+   "published_at": "2026-11-25T18:17:35Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383991/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383991/1.jpg",
      "cap": ""
     }
    ]
@@ -3490,47 +3544,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383859,
-   "slug": "secret-disguise-toy-found-wow-forever",
-   "title_fa": "کشف اسباب‌بازی مخفی Alcaz Operative Insignia در WoW: Forever",
-   "lead_fa": "جامعهٔ مخفی‌یاب‌های بازی یک اسباب‌بازی استتار مخفی جدید را در سیاه‌چال جدید Alcaz Prison کشف کرده‌اند که از طریق زنجیره‌کوئست خاصی به دست می‌آید.",
-   "body_fa": [
-    "یک اسباب‌بازی مخفی تازه با عنوان [[item:Alcaz Operative Insignia]] در WoW Forever پیدا شده است که مسیر دریافت آن از دانجن جدید Alcaz Prison آغاز می‌شود. تمام اطلاعات مربوط به این راز توسط The WoW Secret Finding Discord کشف و به اشتراک گذاشته شده است.",
-    {
-     "t": "h",
-     "x": "نحوه به دست آوردن Alcaz Operative Insignia"
-    },
-    "برای آغاز این زنجیره، بازیکنان باید وارد دانجن Alcaz Prison شوند و آن را پاک‌سازی کنند؛ اما در حین انجام این کار رعایت یک نکته ضروری است:",
-    {
-     "t": "note",
-     "x": "در حین پاک‌سازی دانجن نباید باس اول یعنی The Questioner کشته شود، زیرا برای کوئست The Man in the Iron Chains که در انتهای دانجن دریافت می‌کنید به او نیاز خواهید داشت.",
-     "kind": "warn"
-    },
-    "پس از دریافت کوئست، بازیکنان باید به Moonbrook در Westfall سفر کنند. در مرحلهٔ بعد، بازیکنان Alliance به Stormwind و بازیکنان Horde به Booty Bay می‌روند تا آیتم [[item:Fractured Insignia]] را دریافت کنند.",
-    "با ترکیب کردن ۶ عدد از این آیتم، اسباب‌بازی [[item:Alcaz Operative Insignia]] به بازیکن داده خواهد شد."
-   ],
-   "tags_fa": [
-    "رازها",
-    "WoW Forever",
-    "اسباب‌بازی"
-   ],
-   "items": [],
-   "title_en": "Secret Disguise Toy Found WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383859",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383859-secret-disguise-toy-found-wow-forever.html",
-   "published_at": "2026-11-13T15:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383859/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383859/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3568,13 +3581,6 @@
    "url": "https://www.wowhead.com/news=383992",
    "category": "Forever",
    "published_at": "2026-11-25T18:33:57Z"
-  },
-  {
-   "id": 383991,
-   "title_en": "Buy 365 Days of Game Time for $120 USD - New Limited Time Shop Offer",
-   "url": "https://www.wowhead.com/news=383991",
-   "category": "WoW",
-   "published_at": "2026-11-25T18:17:35Z"
   },
   {
    "id": 383990,
@@ -3813,6 +3819,13 @@
    "url": "https://www.wowhead.com/news=383693",
    "category": "Live",
    "published_at": "2026-11-03T15:00:00Z"
+  },
+  {
+   "id": 383704,
+   "title_en": "WoW: Forever Official Development Notes and Class Tuning",
+   "url": "https://www.wowhead.com/news=383704",
+   "category": "Forever",
+   "published_at": "2026-11-03T03:51:28Z"
   }
  ]
 }
