@@ -286,5 +286,115 @@
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383961/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383961/1.jpg",
+ "last_rejected": {
+  "title_fa": "راهنمای منابع دریافت Blueprintهای رده ۳ در WoW: Forever",
+  "lead_fa": "سیستم شغل‌ها در World of Warcraft: Forever برای ساخت آیتم‌های سطح بالا به ایستگاه‌های کاری ویژه‌ای وابسته است که طرح ساخت رده ۳ آن‌ها از دانجن‌های خاصی به دست می‌آید.",
+  "body_fa": [
+   "در سرور World of Warcraft: Forever، ساخت برخی آیتم‌های سطح بالا نیازمند استفاده از ایستگاه‌های کاری اختصاصی یا همان Profession Work Stations است. این ساختارها مستقیماً توسط بازیکنان ساخته می‌شوند، با یک‌بار مصرف از بین می‌روند و در هر نقطه‌ای که امکان برپایی camping fire وجود داشته باشد، قابل استفاده هستند.",
+   {
+    "t": "note",
+    "x": "تنها شغل‌های ساخت‌وساز نیازمند این ایستگاه‌ها هستند و برای سایر حرفه‌ها، این طرح‌ها مزایای متفاوتی را فعال می‌کنند. همچنین ان‌پی‌سی‌هایی که این طرح‌ها را دراپ می‌کنند، مواد اولیه ساخت آن‌ها را نیز به همراه دارند. این اقلام قابل دادوستد بوده و در Auction House فروخته می‌شوند. بررسی قیمت‌ها در سرور EU PvE تا ساعت 12:21 در تاریخ ۲۳ نوامبر ثبت شده است.",
+    "kind": "info"
+   },
+   {
+    "t": "h",
+    "x": "محل به دست آوردن طرح‌های رده ۳"
+   },
+   {
+    "t": "table",
+    "head": [
+     "شغل",
+     "طرح ساخت",
+     "منبع دراپ"
+    ],
+    "rows": [
+     [
+      "Alchemy",
+      "Blueprint: Alchemy Laboratory",
+      "Ras Frostwhisper در Scholomance"
+     ],
+     [
+      "Blacksmithing",
+      "Blueprint: Master Forge",
+      "Golem Lord Argelmach در Blackrock Depths"
+     ],
+     [
+      "Enchanting",
+      "Blueprint: Arcane Forge",
+      "Nanaya در Shapers Terrace"
+     ],
+     [
+      "Engineering",
+      "Blueprint: Anarchist's Workbench",
+      "Ezra Grimm در Stratholme"
+     ],
+     [
+      "Herbalism",
+      "Blueprint: Seed Hybridizer",
+      "Tendris Warpwood در Dire Maul"
+     ],
+     [
+      "Leatherworking",
+      "Blueprint: Sewing Machine",
+      "Vectus در Scholomance"
+     ],
+     [
+      "Mining",
+      "Blueprint: Molten Foundry",
+      "Ambassador Flamelash در Blackrock Depths"
+     ],
+     [
+      "Skinning",
+      "Blueprint: Trapper's Workbench",
+      "The Beast در Blackrock Spire"
+     ],
+     [
+      "Tailoring",
+      "Blueprint: Loom",
+      "Baroness Anastari در Stratholme"
+     ],
+     [
+      "Cooking",
+      "Blueprint: Iron Oven",
+      "Quartermaster Zigris در Blackrock Spire"
+     ],
+     [
+      "Cooking",
+      "Blueprint: Expert Campfire",
+      "Slavecrusher Grox در Krol'dok Stronghold"
+     ],
+     [
+      "First Aid",
+      "Blueprint: Plague Doctor's Laboratory",
+      "Doctor Theolen Krastinov در Scholomance"
+     ],
+     [
+      "Fishing",
+      "Blueprint: Fishing Hut",
+      "Jammal'an the Prophet در Sunken Temple"
+     ]
+    ]
+   },
+   {
+    "t": "h",
+    "x": "مزایای جانبی طرح‌های رده ۳"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "طرح‌های Cooking شامل قابلیت‌هایی نظیر پخت‌وپز پیشرفته و افزودن تا ۱۰ ویژگی کمپی بیشتر هستند.",
+     "طرح Skinning شامل یک تله به همراه ۲٪ شانس Critical Strike است.",
+     "طرح Fishing امکان صید ماهی‌های کمیاب به مدت ۱ ساعت و دریافت ۸٪ بوف به تمام خصوصیات را فراهم می‌کند.",
+     "سایر ایستگاه‌ها نیز بسته به نوع شغل، افزایش بازسازی مانا، افزایش قدرت اتک و ویژگی‌های تدافعی مانند Armor یا بوف استراحت کمپ را به همراه دارند."
+    ]
+   },
+   "با توجه به اینکه ایستگاه‌های کاری پس از استفاده مصرف می‌شوند و قیمت Blueprintهای رده ۳ در حراجی بالاست، فارم کردن مستقیم این طرح‌ها از باس‌های مربوطه گزینه پایدارتری برای بازیکنان خواهد بود."
+  ],
+  "tags_fa": [
+   "WoW Forever",
+   "شغل‌ها",
+   "راهنما"
+  ]
+ }
 }
