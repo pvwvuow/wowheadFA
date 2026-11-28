@@ -188,7 +188,7 @@
   ],
   "chars": 2133
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383998/1.png",
@@ -231,5 +231,46 @@
    "فروشگاه بلیزارد",
    "جوایز درون بازی"
   ]
+ },
+ "article_fa": {
+  "title_fa": "تخفیف‌های بلک فرایدی فروشگاه بلیزارد و جوایز درون‌بازی",
+  "lead_fa": "فروشگاه Blizzard Gear Store با آغاز حراج Black Friday تخفیف‌هایی تا ۶۰٪ برای محصولات مختلف در نظر گرفته و در کنار آن پاداش‌های درون‌بازی ارائه می‌دهد.",
+  "body_fa": [
+   "فروشگاه رسمی Blizzard به مناسبت Black Friday تخفیف‌های گسترده‌ای را آغاز کرده است که طی آن بسیاری از کالاها با تخفیف تا ۶۰٪ عرضه می‌شوند. در کنار این تخفیف‌ها، خریداران با حداقل خرید مشخص می‌توانند جوایز درون‌بازی نیز دریافت کنند.",
+   {
+    "t": "h",
+    "x": "پوشاک و کلکسیون‌ها"
+   },
+   "بسیاری از لباس‌ها از جمله سویشرت‌ها و تی‌شرت‌ها مشمول تخفیف شده‌اند؛ از جمله طرح What Sword Hoodie که به معرفی Worldsoul Saga مربوط می‌شود و همچنین Xal'atath T-Shirt. البته محصولاتی مانند طرح‌های پوستر مسافرتی Forever تخفیف ندارند، اما تی‌شرت‌های Zephras Isle T-Shirt و Dalaran T-Shirt در دسترس هستند.",
+   "برای علاقه‌مندان به آیتم‌های غیرپوشیدنی، محصولاتی مثل Travel Posters Gift Set و همچنین ماکت زره Darion Mograine در کنار Arcantina Mug و مجسمه Arthas Statue در حراج قرار دارند.",
+   {
+    "t": "h",
+    "x": "بسته پاداش Holiday In-Game Code Trio Bundle"
+   },
+   "هم‌زمان با حراج Black Friday، پیشنهاد ویژه‌ای تحت عنوان Holiday In-Game Code Trio Bundle فعال است. تا تاریخ ۱ دسامبر، هر سفارشی که مبلغ آن بیش از ۵۰ دلار آمریکا از میان آیتم‌های واجد شرایط باشد، کدهای این بسته را دریافت می‌کند. محصول Azeroth Forever Hoodie نیز جزو آیتم‌های واجد شرایط این طرح قرار دارد.",
+   {
+    "t": "ul",
+    "xs": [
+     "آیتم Diablo Refined Mind Trophy برای بازی Diablo IV",
+     "پوشش ظاهری Deep Winter Toque Transmog برای Midnight",
+     "اسکین Legendary Cyberhog Skin برای بازی Overwatch"
+    ]
+   },
+   {
+    "t": "note",
+    "x": "مهلت دریافت بسته جوایز درون‌بازی با خرید بالای ۵۰ دلار تا ۱ دسامبر تعیین شده است.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "بلک فرایدی",
+   "فروشگاه بلیزارد",
+   "جوایز درون بازی"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-28T19:13:28Z"
  }
 }

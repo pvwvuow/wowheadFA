@@ -275,12 +275,90 @@
   ],
   "chars": 3743
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383989/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383989/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383989/1.jpg",
+ "article_fa": {
+  "title_fa": "کاهش لوت صندوق Dire Maul Tribute در صورت ریست کردن باس‌ها در WoW: Forever",
+  "lead_fa": "تست‌های انجام‌شده در WoW: Forever نشان می‌دهد که لوت صندوق Gordok Tribute بر اساس اقدامات بازیکنان و ریست شدن باس‌ها کاهش می‌یابد.",
+  "body_fa": [
+   "در بازی WoW: Forever، روند Dire Maul Tribute دستخوش تغییر شده است و صندوق تریبیوت در صورت انجام برخی اقدامات در طول ران، لوت کمتری در اختیارتان می‌گذارد. این تغییرات پاداش به‌صورت رسمی توسط Blizzard تأیید نشده و از طریق آزمایش‌ها به دست آمده است.",
+   "در حالت عادی برای تکمیل کامل Dire Maul: North به روش Tribute (یا همان DMT)، باید تنها باس نهایی کشته شود و پنج باس قبلی زنده بمانند: Guard Mol'dar، Guard Fengus، Guard Slip'kik، Captain Kromcrush و Cho'Rush the Observer. با کشتن King Gordok در حضور این باس‌ها، صندوق Gordok Tribute ظاهر می‌شود که شامل آیتم‌های ارزشمند pre-BiS مانند سلاح تانک دروید [[item:Unyielding Maul]] است.",
+   {
+    "t": "h",
+    "x": "نحوه کارکرد جریمه‌ها در WoW: Forever"
+   },
+   "بر اساس داده‌های جمع‌آوری‌شده، صندوق در حالت پایه می‌تواند تا ۳ آیتم Blue داشته باشد، اما با رخ دادن هر جریمه، یک قطعه آبی از صندوق حذف می‌شود و حداقل آن احتمالاً ۱ آیتم خواهد بود.",
+   {
+    "t": "ul",
+    "xs": [
+     "ریست کردن یک Guard، Captain یا King Gordok",
+     "صحبت نکردن با Captain Kromcrush و خارج نکردن او از پست نگهبانی‌اش"
+    ]
+   },
+   "این سیستم به این معنی است که اگر یکی از اعضای گروه برای ادامه مسیر اگروباس را بکشد و با مرگ خود آن را ریست کند، از لوت نهایی کاسته خواهد شد. برای رد شدن از Captain Kromcrush بدون ریست کردن، گزینه‌هایی چون استفاده از Gordok Ogre Suit، پوشن Invisibility یا Stealth باقی می‌ماند. همچنین مشخص شده که اگر پس از کشتن King Gordok و دوستانه شدن کاپیتان، پیش از ظاهر کردن صندوق با او صحبت کنید و او را بفرستید، جریمه دوم اعمال نمی‌شود.",
+   {
+    "t": "note",
+    "x": "آزمایش‌ها نشان داده است که تله گذاشتن یا نگذاشتن برای باس دوم هیچ تأثیری روی تعداد آیتم‌های آبی صندوق ندارد.",
+    "kind": "info"
+   },
+   {
+    "t": "h",
+    "x": "نتایج تست‌های انجام‌شده"
+   },
+   {
+    "t": "table",
+    "head": [
+     "وضعیت تله",
+     "روش عبور از کاپیتان",
+     "وضعیت کاپیتان در پست",
+     "تعداد Rare"
+    ],
+    "rows": [
+     [
+      "No Trap",
+      "Reset Captain",
+      "در پست ماند",
+      "1 Rare Item"
+     ],
+     [
+      "No Trap",
+      "Stealth Captain",
+      "در پست ماند",
+      "2 Rare Items"
+     ],
+     [
+      "Trap",
+      "Stealth Captain",
+      "در پست ماند",
+      "2 Rare Items"
+     ],
+     [
+      "Trap",
+      "Ogre Suit Captain",
+      "خارج شد",
+      "3 Rare Items"
+     ],
+     [
+      "Trap",
+      "Stealth Captain",
+      "پس از مرگ King خارج شد",
+      "3 Rare Items"
+     ]
+    ]
+   },
+   "تنها دفعاتی که ۳ آیتم Rare از صندوق به دست آمد، مواردی بود که Captain Kromcrush چه قبل از مرگ پادشاه و چه پس از آن، از پست خود کنار فرستاده شد."
+  ],
+  "tags_fa": []
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-28T19:12:57Z"
+ }
 }

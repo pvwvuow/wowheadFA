@@ -1,8 +1,205 @@
 {
- "generated": "2026-11-28T18:51:15Z",
+ "generated": "2026-11-28T19:33:46Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383989,
+   "slug": "dire-maul-tribute-chest-rewards-reduced-when-resetting-bosses-in-wow-f",
+   "title_fa": "کاهش لوت صندوق Dire Maul Tribute در صورت ریست کردن باس‌ها در WoW: Forever",
+   "lead_fa": "تست‌های انجام‌شده در WoW: Forever نشان می‌دهد که لوت صندوق Gordok Tribute بر اساس اقدامات بازیکنان و ریست شدن باس‌ها کاهش می‌یابد.",
+   "body_fa": [
+    "در بازی WoW: Forever، روند Dire Maul Tribute دستخوش تغییر شده است و صندوق تریبیوت در صورت انجام برخی اقدامات در طول ران، لوت کمتری در اختیارتان می‌گذارد. این تغییرات پاداش به‌صورت رسمی توسط Blizzard تأیید نشده و از طریق آزمایش‌ها به دست آمده است.",
+    "در حالت عادی برای تکمیل کامل Dire Maul: North به روش Tribute (یا همان DMT)، باید تنها باس نهایی کشته شود و پنج باس قبلی زنده بمانند: Guard Mol'dar، Guard Fengus، Guard Slip'kik، Captain Kromcrush و Cho'Rush the Observer. با کشتن King Gordok در حضور این باس‌ها، صندوق Gordok Tribute ظاهر می‌شود که شامل آیتم‌های ارزشمند pre-BiS مانند سلاح تانک دروید [[item:Unyielding Maul]] است.",
+    {
+     "t": "h",
+     "x": "نحوه کارکرد جریمه‌ها در WoW: Forever"
+    },
+    "بر اساس داده‌های جمع‌آوری‌شده، صندوق در حالت پایه می‌تواند تا ۳ آیتم Blue داشته باشد، اما با رخ دادن هر جریمه، یک قطعه آبی از صندوق حذف می‌شود و حداقل آن احتمالاً ۱ آیتم خواهد بود.",
+    {
+     "t": "ul",
+     "xs": [
+      "ریست کردن یک Guard، Captain یا King Gordok",
+      "صحبت نکردن با Captain Kromcrush و خارج نکردن او از پست نگهبانی‌اش"
+     ]
+    },
+    "این سیستم به این معنی است که اگر یکی از اعضای گروه برای ادامه مسیر اگروباس را بکشد و با مرگ خود آن را ریست کند، از لوت نهایی کاسته خواهد شد. برای رد شدن از Captain Kromcrush بدون ریست کردن، گزینه‌هایی چون استفاده از Gordok Ogre Suit، پوشن Invisibility یا Stealth باقی می‌ماند. همچنین مشخص شده که اگر پس از کشتن King Gordok و دوستانه شدن کاپیتان، پیش از ظاهر کردن صندوق با او صحبت کنید و او را بفرستید، جریمه دوم اعمال نمی‌شود.",
+    {
+     "t": "note",
+     "x": "آزمایش‌ها نشان داده است که تله گذاشتن یا نگذاشتن برای باس دوم هیچ تأثیری روی تعداد آیتم‌های آبی صندوق ندارد.",
+     "kind": "info"
+    },
+    {
+     "t": "h",
+     "x": "نتایج تست‌های انجام‌شده"
+    },
+    {
+     "t": "table",
+     "head": [
+      "وضعیت تله",
+      "روش عبور از کاپیتان",
+      "وضعیت کاپیتان در پست",
+      "تعداد Rare"
+     ],
+     "rows": [
+      [
+       "No Trap",
+       "Reset Captain",
+       "در پست ماند",
+       "1 Rare Item"
+      ],
+      [
+       "No Trap",
+       "Stealth Captain",
+       "در پست ماند",
+       "2 Rare Items"
+      ],
+      [
+       "Trap",
+       "Stealth Captain",
+       "در پست ماند",
+       "2 Rare Items"
+      ],
+      [
+       "Trap",
+       "Ogre Suit Captain",
+       "خارج شد",
+       "3 Rare Items"
+      ],
+      [
+       "Trap",
+       "Stealth Captain",
+       "پس از مرگ King خارج شد",
+       "3 Rare Items"
+      ]
+     ]
+    },
+    "تنها دفعاتی که ۳ آیتم Rare از صندوق به دست آمد، مواردی بود که Captain Kromcrush چه قبل از مرگ پادشاه و چه پس از آن، از پست خود کنار فرستاده شد."
+   ],
+   "tags_fa": [],
+   "items": [],
+   "title_en": "Dire Maul Tribute Chest Rewards Reduced When Resetting Bosses in WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383989",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383989-dire-maul-tribute-chest-rewards-reduced-when-resetting-bosses-in-wow-f.html",
+   "published_at": "2026-11-28T15:43:54Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383989/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383989/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383998,
+   "slug": "save-up-to-60-and-earn-in-game-goodies-with-the-gear-store-black-frida",
+   "title_fa": "تخفیف‌های بلک فرایدی فروشگاه بلیزارد و جوایز درون‌بازی",
+   "lead_fa": "فروشگاه Blizzard Gear Store با آغاز حراج Black Friday تخفیف‌هایی تا ۶۰٪ برای محصولات مختلف در نظر گرفته و در کنار آن پاداش‌های درون‌بازی ارائه می‌دهد.",
+   "body_fa": [
+    "فروشگاه رسمی Blizzard به مناسبت Black Friday تخفیف‌های گسترده‌ای را آغاز کرده است که طی آن بسیاری از کالاها با تخفیف تا ۶۰٪ عرضه می‌شوند. در کنار این تخفیف‌ها، خریداران با حداقل خرید مشخص می‌توانند جوایز درون‌بازی نیز دریافت کنند.",
+    {
+     "t": "h",
+     "x": "پوشاک و کلکسیون‌ها"
+    },
+    "بسیاری از لباس‌ها از جمله سویشرت‌ها و تی‌شرت‌ها مشمول تخفیف شده‌اند؛ از جمله طرح What Sword Hoodie که به معرفی Worldsoul Saga مربوط می‌شود و همچنین Xal'atath T-Shirt. البته محصولاتی مانند طرح‌های پوستر مسافرتی Forever تخفیف ندارند، اما تی‌شرت‌های Zephras Isle T-Shirt و Dalaran T-Shirt در دسترس هستند.",
+    "برای علاقه‌مندان به آیتم‌های غیرپوشیدنی، محصولاتی مثل Travel Posters Gift Set و همچنین ماکت زره Darion Mograine در کنار Arcantina Mug و مجسمه Arthas Statue در حراج قرار دارند.",
+    {
+     "t": "h",
+     "x": "بسته پاداش Holiday In-Game Code Trio Bundle"
+    },
+    "هم‌زمان با حراج Black Friday، پیشنهاد ویژه‌ای تحت عنوان Holiday In-Game Code Trio Bundle فعال است. تا تاریخ ۱ دسامبر، هر سفارشی که مبلغ آن بیش از ۵۰ دلار آمریکا از میان آیتم‌های واجد شرایط باشد، کدهای این بسته را دریافت می‌کند. محصول Azeroth Forever Hoodie نیز جزو آیتم‌های واجد شرایط این طرح قرار دارد.",
+    {
+     "t": "ul",
+     "xs": [
+      "آیتم Diablo Refined Mind Trophy برای بازی Diablo IV",
+      "پوشش ظاهری Deep Winter Toque Transmog برای Midnight",
+      "اسکین Legendary Cyberhog Skin برای بازی Overwatch"
+     ]
+    },
+    {
+     "t": "note",
+     "x": "مهلت دریافت بسته جوایز درون‌بازی با خرید بالای ۵۰ دلار تا ۱ دسامبر تعیین شده است.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "بلک فرایدی",
+    "فروشگاه بلیزارد",
+    "جوایز درون بازی"
+   ],
+   "items": [],
+   "title_en": "Save Up To 60% and Earn In-Game Goodies with the Gear Store Black Friday Sale",
+   "source_url": "https://www.wowhead.com/news=383998",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383998-save-up-to-60-and-earn-in-game-goodies-with-the-gear-store-black-frida.html",
+   "published_at": "2026-11-27T15:00:00Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383998/1.png",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383998/1.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
+   "id": 383995,
+   "slug": "december-2026-trading-post-preview-festive-eve-and-brrrgl-pets",
+   "title_fa": "پیش‌نمایش Trading Post در دسامبر ۲۰۲۶ همراه با پت‌های جدید",
+   "lead_fa": "شرکت Blizzard در قالب بلاگ هفتگی، جوایز و آیتم‌های جدید Trading Post برای ماه دسامبر ۲۰۲۶ را معرفی کرد.",
+   "body_fa": [
+    "شرکت Blizzard در پستی درون گزارش هفتگی World of Warcraft، پیش‌نمایشی از آیتم‌های Trading Post برای ماه دسامبر ۲۰۲۶ را به نمایش گذاشت که شامل دو پت جدید و مجموعه‌های ترانسموگ زمستانی است.",
+    {
+     "t": "h",
+     "x": "جوایز و ترانسموگ‌های معرفی‌شده"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "پت [[item:Festive Eve]]",
+      "پت [[item:Brrrgl]]",
+      "ست ترانسموگ [[item:Ensemble: The Seafarer's Winter Collection]]",
+      "ست ترانسموگ [[item:Ensemble: Ice-Walker's Guise of the Wight]]"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "موقعیت غرفه‌ها در شهرهای اصلی"
+    },
+    "بازیکنان برای بررسی اقلام ارائه‌شده می‌توانند به غرفه T&W (مربوط به Tawney and Wilder) بیرون از Mage District در شهر Stormwind، یا غرفه Zen’shiri Trading Post در کنار Grommash Hold در شهر Orgrimmar مراجعه کنند.",
+    "علاوه بر این، نمایندگان هر دو گروه Tawney and Wilder و Zen’shiri Trading Post در شهرهای پایتخت Dornogal (بخش The Foregrounds) در منطقه Isle of Dorn و نسخه بازسازی‌شده Silvermoon City نیز مستقر هستند.",
+    {
+     "t": "note",
+     "x": "بازیکنان جدید یا کسانی که با Midnight بازگشته‌اند می‌توانند نحوه کسب ارز Trader's Tender را از طریق Traveler's Log پیگیری کنند.",
+     "kind": "info"
+    }
+   ],
+   "tags_fa": [
+    "تریدینگ پست",
+    "پت",
+    "ترانسموگ",
+    "بلیزارد"
+   ],
+   "items": [],
+   "title_en": "December 2026 Trading Post Preview - Festive Eve and Brrrgl Pets",
+   "source_url": "https://www.wowhead.com/news=383995",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383995-december-2026-trading-post-preview-festive-eve-and-brrrgl-pets.html",
+   "published_at": "2026-11-25T19:25:29Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383995/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383995/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383980,
    "slug": "watch-al-aketh-rising-new-motion-comic-for-wow-forever",
@@ -3334,198 +3531,9 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383633,
-   "slug": "worldsoul-saga-lore-speculation-are-the-titans-bad-for-azeroth",
-   "title_fa": "آیا تایتان‌ها تهدیدی برای آزروث هستند؟ بررسی خط داستانی جدید",
-   "lead_fa": "محتوای داستانی پیش‌رو در پچ 12.1.7 و روایت‌های اکسپنشن‌های اخیر، تردیدهای تازه‌ای پیرامون نیت واقعی پانتئون و محافظت آن‌ها از روح جهان ایجاد کرده است.",
-   "body_fa": [
-    "حضور تایتان‌ها در تاریخچهٔ آزروث نقشی حیاتی و غیرقابل انکار داشته است، اما رویدادهای داستانی جدید نشان می‌دهد که شاید اهداف آن‌ها کاملاً در جهت منافع نژادهای فانی نباشد. در خط کوئست Lorewalking مربوط به پچ 12.1.7، بازیکنان همراه با Li Li به مرور گذشتهٔ تایتان‌ها، نابودی Old Gods، خلق Titanforged و خطر همیشگی بازسازی و پاکسازی کامل سیاره (Re-origination) می‌پردازند.",
-    {
-     "t": "quote",
-     "x": "به لطف یاری تایتان‌ها بود که Old Gods و لیجن شکست خوردند، جنبه‌های اژدها قدرت یافتند و بسیاری از نژادهای فانی در آزروث شکل گرفتند. با این حال، کاملاً مشخص است که تایتان‌ها بیش از هر چیز دیگری به روح جهان آزروث اهمیت می‌دهند. نباید پاکسازی سیاره را که به‌سختی از آن گریختیم فراموش کنیم. با وجود تمام کارهای نیکی که در حق ما کرده‌اند، باید بپرسیم: آیا چشم‌انداز پانتئون برای آیندهٔ ما تفاوت چندانی با خواستهٔ سارگراس دارد؟",
-     "by": "Li Li Stormstout"
-    },
-    {
-     "t": "h",
-     "x": "دستورات اودین و سانسور تاریخ در دراگون‌فلایت"
-    },
-    "در متون به دست آمده از Odyn در Dragonflight، دیدگاه سخت‌گیرانهٔ خادمان تایتان‌ها در برابر فانی‌ها آشکار شد. بر اساس گزارش‌ها، اودین باور داشت که ذهن موجودات گوشتی ناتوان از درک پیچیدگی‌ها است و دستوراتی قطعی برای نحوهٔ برخورد با آن‌ها وضع کرد.",
-    {
-     "t": "ul",
-     "xs": [
-      "پاکسازی تمام اسناد ثبت‌شده از پیشرفت‌های Black Empire و به تصویر کشیدن آن دوران تنها به عنوان دوره‌ای از هرج‌ومرج و تباهی.",
-      "نسبت دادن تمام دستاوردها و شگفتی‌ها صرفاً به تایتان‌ها تحت این استدلال که تا چیزی نظم پیدا نکند، وجود ندارد.",
-      "ممنوعیت کامل انتشار دانش دربارهٔ First Ones و سازندگان در Zereth Ordus به بهانهٔ گمراه نشدن فانی‌ها."
-     ]
-    },
-    "علاوه بر این، درگیری باستانی میان Aman'Thul و Eonar بر سر کاشتن شاخه‌ای از G'Hanir به نام Elun'Ahir نشان می‌دهد که پانتئون نیز دیدگاه یکسانی دربارهٔ حیات نداشته است؛ جایی که آمان‌تول حیات را آشوب نامید و درخت را از ریشه کند، در حالی که ایونار تلاش کرد پیوند ریشه‌ها را در خاک حفظ کند.",
-    {
-     "t": "h",
-     "x": "نفرین گوشت یا ارادهٔ آزاد؟"
-    },
-    "در پچ 12.2 و خطوط داستانی The War Within، موضوع ارادهٔ آزاد ابعاد جدیدی پیدا می‌کند. بر خلاف باور رایج تایتان‌ها که نژادهایی مانند دورف‌ها، نوم‌ها و انسان‌ها را حاصل آلودگی ووید تحت عنوان Curse of Flesh می‌دانستند، روایت‌های اخیر این احتمال را مطرح می‌کنند که تماس با خودِ روح جهان منشأ استقلال فانی‌ها و نژاد Thraegar بوده است.",
-    {
-     "t": "quote",
-     "x": "بایگانی‌های تایتان‌ها به ما می‌گویند که Curse of Flesh، سمی از سوی خدایان باستان ووید، مقصر نرم شدن و نافرمانی نژادهای خلق‌شده توسط تایتان‌هاست. اما بنگرید که این فرهنگ‌ها از زمان رهایی از نفوذ تایتان‌ها چگونه شکوفا شده‌اند. آیا نفرین گوشت حقیقتاً پدیده‌ای برخاسته از ووید تاریک و نومیدکننده است؟ و این موضوع چه معنایی دارد که Thraegar پس از رویارویی با روح جهان، و نه خدایان باستان، تغییر یافتند؟",
-     "by": "Li Li Stormstout"
-    },
-    {
-     "t": "note",
-     "x": "در جریان رویدادهای پچ 12.2، بازیکنان مستقیماً وارد Worldcore می‌شوند؛ مکانی که سازهٔ Manifold توسط Archaedas در آن قرار گرفته و روح جهان در میانهٔ شمشیر سارگراس و نفوذ زالاتات محاصره شده است.",
-     "kind": "info"
-    },
-    "با نزدیک شدن به اکسپنشن The Last Titan، خطرات بازگشت تایتان‌ها و تدابیر پاکسازی آن‌ها بیش از پیش نمایان می‌شود. با توجه به ایستادگی فانی‌ها در برابر قوای کیهانی، هنوز مشخص نیست که آیا پانتئون در بازگشت دوباره، ساکنان آزروث را متحد خود خواهد دید یا مانعی در مسیر حفظ روح جهان که باید ریشه‌کن شود."
-   ],
-   "tags_fa": [
-    "داستان وارکرفت",
-    "تایتان‌ها",
-    "پچ 12.1.7",
-    "پچ 12.2"
-   ],
-   "items": [],
-   "title_en": "Worldsoul Saga Lore Speculation: Are the Titans Bad for Azeroth?",
-   "source_url": "https://www.wowhead.com/news=383633",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383633-worldsoul-saga-lore-speculation-are-the-titans-bad-for-azeroth.html",
-   "published_at": "2026-11-13T14:00:00Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383633/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383633/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383846,
-   "slug": "new-max-level-weekly-quest-rewards-up-to-100-gold-in-wow-forever",
-   "title_fa": "کوئست هفتگی جدید لول مکس در WoW: Forever با جایزه تا ۱۰۰ گلد",
-   "lead_fa": "بازیکنانی که در WoW: Forever به لول مکس می‌رسند، می‌توانند با انجام یک کوئست هفتگی جدید تا ۱۰۰ گلد پاداش تصادفی دریافت کنند.",
-   "body_fa": [
-    "در بازی WoW: Forever تغییراتی در اقتصاد گلد ایجاد شده است؛ از جمله غیرفعال شدن تبدیل Experience به گلد، اضافه شدن گلد بیشتر به کوئست‌های لول‌های بالاتر، و افزایش موقت ودیعه Auction House به ۱ سیلور در زمان لانچ. در کنار این موارد، یک کوئست جدید نیز برای بازیکنانی که به لول ۶۰ می‌رسند در دسترس قرار گرفته است.",
-    {
-     "t": "h",
-     "x": "جزئیات کوئست هفتگی در Booty Bay"
-    },
-    "این کوئست هفتگی با نام In Demand - Ancient Elven Curiosities در Booty Bay به بازیکنان لول ۶۰ داده می‌شود. در طول دو هفته‌ای که بازی فعال بوده، مأموریت در هر دو بار یکسان بوده است: جمع‌آوری سه آیتم از سه بخش مختلف دانجن Dire Maul. البته از آنجا که تاکنون فقط دو ریست هفتگی سپری شده، ممکن است این کوئست در آینده تغییر کند.",
-    "پس از پاکسازی هر سه بال Dire Maul و لوت کردن تمام آیتم‌ها، با تحویل دادن کوئست در Booty Bay، یک کیف به نام [[item:Undermine Satchel]] پاداش داده می‌شود. این کیف حاوی مقداری متریال و یک آیتم قابل فروش به وندور است که ارزش گلد دارد.",
-    {
-     "t": "h",
-     "x": "آیتم‌های پاداش و شانس دریافت گلد"
-    },
-    {
-     "t": "table",
-     "head": [
-      "آیتم دریافتی",
-      "قیمت فروش به وندور"
-     ],
-     "rows": [
-      [
-       "Gold Nugget",
-       "۱۰ گلد"
-      ],
-      [
-       "Huge Quartz Gem",
-       "۲۰ گلد"
-      ],
-      [
-       "Silver Necklace",
-       "۴۰ گلد"
-      ],
-      [
-       "Gold Ring",
-       "۱۰۰ گلد"
-      ]
-     ]
-    },
-    {
-     "t": "note",
-     "x": "آیتم طلای درون کیف کاملاً تصادفی است و بازیکنان باید شانس خود را برای به دست آوردن Gold Ring به ارزش ۱۰۰ گلد امتحان کنند.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "WoW Forever",
-    "کوئست هفتگی",
-    "گلد",
-    "Dire Maul"
-   ],
-   "items": [],
-   "title_en": "New Max Level Weekly Quest Rewards Up to 100 Gold in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383846",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383846-new-max-level-weekly-quest-rewards-up-to-100-gold-in-wow-forever.html",
-   "published_at": "2026-11-13T01:10:58Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383846/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383846/1.jpg",
-     "cap": ""
-    }
-   ]
-  },
-  {
-   "id": 383863,
-   "slug": "new-brutal-armor-transmog-sets-datamined-in-patch-12-1-7",
-   "title_fa": "کشف ست‌های ترنسموگ Brutal Armor در پچ 12.1.7",
-   "lead_fa": "داده‌کاوی‌های جدید در پچ 12.1.7 از ست‌های ترنسموگ Brutal Armor در چهار رنگ مختلف پرده برداشته است.",
-   "body_fa": [
-    "در جریان بررسی داده‌های پچ 12.1.7، مجموعه‌های جدیدی از ترنسموگ تحت عنوان Brutal Armor کشف شده‌اند که در ۴ رنگ‌بندی مجزا طراحی شده‌اند.",
-    {
-     "t": "h",
-     "x": "نحوه دسترسی به ست‌ها"
-    },
-    "طبق اطلاعات به‌دست‌آمده، دو نسخه Steel و Iron از طریق بخش Trading Post در دسترس بازیکنان قرار خواهند گرفت، در حالی که منبع و شیوه دریافت دو رنگ دیگر این ست در حال حاضر نامشخص است.",
-    {
-     "t": "note",
-     "x": "دو ست از چهار رنگ این زره مستقیماً به جوایز Trading Post مربوط می‌شوند و اطلاعات تکمیلی درباره دو مدل دیگر هنوز در دسترس نیست. شناسه این خبر در دیتابیس 383863 ثبت شده است. تاریخ انتشار خبر ۲۰۲۶-۱۱-۱۲ بوده و گفتگوهای پیرامون آن در پچ 12.1.5 انجام شده و نگاه‌ها به آپدیت‌های آینده نظیر 12.2 دوخته شده است. در واکنش‌های انجمن اعدادی چون 10، 100، 11، 12، 13، 14، 15، 15,000، 16، 17، 19، 20، 2026، 21، 22، 23، 700 و 8750 به چشم می‌خورد.",
-     "kind": "info"
-    }
-   ],
-   "tags_fa": [
-    "ترنسموگ",
-    "دیتاکاوی",
-    "پچ 12.1.7",
-    "Trading Post"
-   ],
-   "items": [],
-   "title_en": "New Brutal Armor Transmog Sets Datamined in Patch 12.1.7",
-   "source_url": "https://www.wowhead.com/news=383863",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383863-new-brutal-armor-transmog-sets-datamined-in-patch-12-1-7.html",
-   "published_at": "2026-11-12T23:00:09Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383863/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383863/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
-  {
-   "id": 383989,
-   "title_en": "Dire Maul Tribute Chest Rewards Reduced When Resetting Bosses in WoW: Forever",
-   "url": "https://www.wowhead.com/news=383989",
-   "category": "Forever",
-   "published_at": "2026-11-28T15:43:54Z"
-  },
-  {
-   "id": 383998,
-   "title_en": "Save Up To 60% and Earn In-Game Goodies with the Gear Store Black Friday Sale",
-   "url": "https://www.wowhead.com/news=383998",
-   "category": "WoW",
-   "published_at": "2026-11-27T15:00:00Z"
-  },
   {
    "id": 384000,
    "title_en": "Fixes for Legacy Points, Classes, and Quests - WoW: Forever Hotfixes for November 25th",
@@ -3553,13 +3561,6 @@
    "url": "https://www.wowhead.com/news=383997",
    "category": "Forever",
    "published_at": "2026-11-25T19:44:07Z"
-  },
-  {
-   "id": 383995,
-   "title_en": "December 2026 Trading Post Preview - Festive Eve and Brrrgl Pets",
-   "url": "https://www.wowhead.com/news=383995",
-   "category": "Live",
-   "published_at": "2026-11-25T19:25:29Z"
   },
   {
    "id": 383992,
@@ -3791,6 +3792,27 @@
    "url": "https://www.wowhead.com/news=383720",
    "category": "Forever",
    "published_at": "2026-11-03T20:22:18Z"
+  },
+  {
+   "id": 383713,
+   "title_en": "D&D: World of Warcraft Early Access Grants Pet, Mount, Decor, and Toy",
+   "url": "https://www.wowhead.com/news=383713",
+   "category": "WoW",
+   "published_at": "2026-11-03T18:56:09Z"
+  },
+  {
+   "id": 383712,
+   "title_en": "What's New and What's the Same in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383712",
+   "category": "Forever",
+   "published_at": "2026-11-03T18:01:37Z"
+  },
+  {
+   "id": 383693,
+   "title_en": "Complete Aqir Invasions Before Their Removal in 12.1.7 for Cheaper Rewards",
+   "url": "https://www.wowhead.com/news=383693",
+   "category": "Live",
+   "published_at": "2026-11-03T15:00:00Z"
   }
  ]
 }

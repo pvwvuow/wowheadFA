@@ -117,5 +117,36 @@
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383999/1.jpg",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
  "hold_count": 1,
- "hold_at": "2026-11-26T15:28:54Z"
+ "hold_at": "2026-11-26T15:28:54Z",
+ "last_rejected": {
+  "title_fa": "افزایش مجدد Reputation میدان نبرد Alterac Valley در WoW: Forever",
+  "lead_fa": "بلیزارد در به‌روزرسانی زندهٔ جدید خود برای WoW: Forever، میزان Reputation دریافتی در Alterac Valley را افزایش داده و زمان لازم برای ثبت مسابقات طولانی را به ۲۰ دقیقه کاهش داده است.",
+  "body_fa": [
+   "با اعمال هاتفیکس‌های جدیدی که اکنون فعال شده‌اند، میزان Reputation دریافتی از شکست دادن Lieutenants و همچنین در اختیار داشتن قبرستان‌ها (graveyards) و معادن (mines) در پایان مسابقات طولانی Alterac Valley در WoW: Forever مجدداً افزایش یافته است.",
+   {
+    "t": "h",
+    "x": "تغییرات زمان مسابقات طولانی"
+   },
+   "علاوه بر افزایش پاداش‌ها، آستانهٔ زمانی لازم برای دریافت Reputation اضافهٔ «مسابقهٔ طولانی» کوتاه شده است:",
+   {
+    "t": "ul",
+    "xs": [
+     "کاهش حداقل زمان مسابقهٔ طولانی به ۲۰ دقیقه",
+     "این زمان در سرورهای Era و پیش از تغییرات امروز، ۶۰ دقیقه تعیین شده بود"
+    ]
+   },
+   {
+    "t": "quote",
+    "x": "هدف کلی از همهٔ این تغییرات این بوده است که مسابقات هدفمندتر و معنادارتر به نظر برسند، ضمن اینکه تلاش شده تا میزان Reputation کسب‌شده در بازهٔ زمانی مشابه داخل بتل‌گراند، حتی در صورت طولانی‌تر شدن زمان مسابقه، تا حد امکان یکسان باقی بماند. با این حال بسته به میزان موفقیت در تخریب برج‌ها و نگه‌داشتن نقاط تصرف‌شده در پایان مسابقه، نوساناتی در این مقدار وجود خواهد داشت.",
+    "by": "Blizzard"
+   },
+   "این اصلاحات در کنار سایر موارد ذکرشده در پست اصلی، بخشی از هاتفیکس‌های رسمی امروز به شمار می‌روند."
+  ],
+  "tags_fa": [
+   "هاتفیکس",
+   "بتل گراند",
+   "PvP",
+   "WoW Forever"
+  ]
+ }
 }

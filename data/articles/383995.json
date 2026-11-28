@@ -138,12 +138,54 @@
   ],
   "chars": 1346
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383995/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383995/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383995/1.jpg",
+ "article_fa": {
+  "title_fa": "پیش‌نمایش Trading Post در دسامبر ۲۰۲۶ همراه با پت‌های جدید",
+  "lead_fa": "شرکت Blizzard در قالب بلاگ هفتگی، جوایز و آیتم‌های جدید Trading Post برای ماه دسامبر ۲۰۲۶ را معرفی کرد.",
+  "body_fa": [
+   "شرکت Blizzard در پستی درون گزارش هفتگی World of Warcraft، پیش‌نمایشی از آیتم‌های Trading Post برای ماه دسامبر ۲۰۲۶ را به نمایش گذاشت که شامل دو پت جدید و مجموعه‌های ترانسموگ زمستانی است.",
+   {
+    "t": "h",
+    "x": "جوایز و ترانسموگ‌های معرفی‌شده"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "پت [[item:Festive Eve]]",
+     "پت [[item:Brrrgl]]",
+     "ست ترانسموگ [[item:Ensemble: The Seafarer's Winter Collection]]",
+     "ست ترانسموگ [[item:Ensemble: Ice-Walker's Guise of the Wight]]"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "موقعیت غرفه‌ها در شهرهای اصلی"
+   },
+   "بازیکنان برای بررسی اقلام ارائه‌شده می‌توانند به غرفه T&W (مربوط به Tawney and Wilder) بیرون از Mage District در شهر Stormwind، یا غرفه Zen’shiri Trading Post در کنار Grommash Hold در شهر Orgrimmar مراجعه کنند.",
+   "علاوه بر این، نمایندگان هر دو گروه Tawney and Wilder و Zen’shiri Trading Post در شهرهای پایتخت Dornogal (بخش The Foregrounds) در منطقه Isle of Dorn و نسخه بازسازی‌شده Silvermoon City نیز مستقر هستند.",
+   {
+    "t": "note",
+    "x": "بازیکنان جدید یا کسانی که با Midnight بازگشته‌اند می‌توانند نحوه کسب ارز Trader's Tender را از طریق Traveler's Log پیگیری کنند.",
+    "kind": "info"
+   }
+  ],
+  "tags_fa": [
+   "تریدینگ پست",
+   "پت",
+   "ترانسموگ",
+   "بلیزارد"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-28T19:32:03Z"
+ }
 }
