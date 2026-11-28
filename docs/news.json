@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T16:40:12Z",
+ "generated": "2026-11-28T17:02:45Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
@@ -3507,6 +3507,13 @@
  ],
  "queue": [
   {
+   "id": 383989,
+   "title_en": "Dire Maul Tribute Chest Rewards Reduced When Resetting Bosses in WoW: Forever",
+   "url": "https://www.wowhead.com/news=383989",
+   "category": "Forever",
+   "published_at": "2026-11-28T15:43:54Z"
+  },
+  {
    "id": 383998,
    "title_en": "Save Up To 60% and Earn In-Game Goodies with the Gear Store Black Friday Sale",
    "url": "https://www.wowhead.com/news=383998",
@@ -3778,13 +3785,6 @@
    "url": "https://www.wowhead.com/news=383735",
    "category": "Forever",
    "published_at": "2026-11-04T16:49:41Z"
-  },
-  {
-   "id": 383720,
-   "title_en": "You Can Play WoW: Forever on a Gamepad",
-   "url": "https://www.wowhead.com/news=383720",
-   "category": "Forever",
-   "published_at": "2026-11-03T20:22:18Z"
   }
  ]
 }
