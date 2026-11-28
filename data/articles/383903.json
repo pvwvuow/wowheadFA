@@ -302,8 +302,8 @@
  ],
  "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383903/1.png",
  "hold_reason": "خطای مدل در بازنویسی: Gemini: هیچ کلید قابل‌استفاده‌ای نماند (HTTP 429 RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric: generativelanguage.googleapis.com/ge)",
- "hold_count": 1,
- "hold_at": "2026-11-17T18:45:43Z",
+ "hold_count": 2,
+ "hold_at": "2026-11-28T03:33:39Z",
  "last_rejected": {
   "title_fa": "جزئیات رویداد جشن بیست و دومین سالگرد World of Warcraft اعلام شد",
   "lead_fa": "شرکت Blizzard جزئیات رویداد بیست و دومین سالگرد World of Warcraft را با حضور فروشندگان مختلف و امکان کسب تا ۲۰٪ بف تجربه و اعتبار منتشر کرد.",
