@@ -1,8 +1,55 @@
 {
- "generated": "2026-11-28T16:40:12Z",
+ "generated": "2026-11-28T17:54:10Z",
  "base_url": "https://pvwvuow.github.io/wowheadFA",
  "site": "wowheadFA",
  "published": [
+  {
+   "id": 383980,
+   "slug": "watch-al-aketh-rising-new-motion-comic-for-wow-forever",
+   "title_fa": "انتشار موشن کامیک Al'Aketh Rising برای WoW: Forever",
+   "lead_fa": "بلیزارد موشن کامیک تازه‌ای با نام Al'Aketh Rising برای WoW: Forever منتشر کرد که ماجرای پاسبانی محلی در جزیرهٔ Zephras Isle را روایت می‌کند.",
+   "body_fa": [
+    "شرکت Blizzard موشن کامیک جدیدی را تحت عنوان Al'Aketh Rising برای WoW: Forever منتشر کرده است. این اثر داستانی ماجراهای یکی از مأموران محلی بنام Constable Aonda از گروه Skyborne را در Zephras Isle پیگیری می‌کند.",
+    {
+     "t": "h",
+     "x": "خلاصهٔ داستان Al'Aketh Rising"
+    },
+    "در این داستان، Constable Aonda راهی یک سکونتگاه دورافتاده می‌شود؛ مکانی که ظاهراً تحت نظارت و کنترلی شدید اداره می‌شود. در این میان، زندانیان تحت مراقبت شدید جابه‌جا می‌شوند، غریبه‌ها با باوری دلهره‌آور لبخند می‌زنند و سکوتی ناخوشایند تهدیدی فزاینده را پنهان می‌کند.",
+    "او برای نزدیک‌تر شدن به حقیقت همراهی نشان می‌دهد، اما خیلی زود در میان اهداف پنهان و تعصبی افراطی گرفتار می‌شود؛ جایی که در سرزمینی زیر سلطهٔ بادها، ایمان کورکورانه می‌تواند به یک طوفان بدل شود.",
+    {
+     "t": "h",
+     "x": "اطلاعات و دست‌اندرکاران"
+    },
+    {
+     "t": "ul",
+     "xs": [
+      "راوی: Sam Slade در نقش Constable Aonda",
+      "حروف‌چینی و طراحی متن: AndWorld Design",
+      "قالب دسترسی: نسخهٔ قابل دانلود به‌صورت PDF"
+     ]
+    }
+   ],
+   "tags_fa": [
+    "کمیک",
+    "Forever",
+    "Blizzard"
+   ],
+   "items": [],
+   "title_en": "Watch \"Al'Aketh Rising\" - New Motion Comic for WoW: Forever",
+   "source_url": "https://www.wowhead.com/news=383980",
+   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383980-watch-al-aketh-rising-new-motion-comic-for-wow-forever.html",
+   "published_at": "2026-11-24T18:06:43Z",
+   "model": "gemini-flash-latest",
+   "via": "auto-gemini",
+   "reviewer": "",
+   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383980/1.jpg",
+   "images": [
+    {
+     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383980/1.jpg",
+     "cap": ""
+    }
+   ]
+  },
   {
    "id": 383965,
    "slug": "blizzard-working-on-a-fix-for-paladin-and-warlocks-not-unlocking-epic",
@@ -3462,47 +3509,6 @@
      "cap": ""
     }
    ]
-  },
-  {
-   "id": 383862,
-   "slug": "learning-dual-spec-can-trigger-empty-action-bars-when-logging-out-in-w",
-   "title_fa": "خالی شدن اکشن‌بارها هنگام خروج از بازی پس از یادگیری Dual Spec",
-   "lead_fa": "پس از تهیه قابلیت Dual Spec، باگی رخ می‌دهد که ممکن است هنگام خروج از بازی نوار توانایی‌ها را به‌طور تصادفی خالی کند.",
-   "body_fa": [
-    "بازیکنان می‌توانند در لول 40 با پرداخت 50 گلد قابلیت Dual Spec را خریداری کنند تا به درخت تلنت دوم دسترسی داشته باشند. با این حال، گزارش‌ها نشان می‌دهد پس از یادگیری این ویژگی، اشکالی تصادفی هنگام خروج از بازی رخ می‌دهد که توانایی‌ها را از Action Bar پاک می‌کند.",
-    "این باگ همیشه اتفاق نمی‌افتد و هر بار ممکن است نوارهای مختلفی را ریست کند. اگرچه این ایراد تأثیری روی قابلیت‌های مبارزه‌ای نمی‌گذارد، اما مشاهدهٔ نوار کاملاً خالی پس از هر بار ورود به بازی آزاردهنده است.",
-    {
-     "t": "note",
-     "x": "این باگ به‌صورت تصادفی نوارهای مختلف اکشن‌بار را خالی می‌کند، اما مستقیماً روی توانایی‌های مبارزه‌ای کاراکتر اثرگذار نیست.",
-     "kind": "warn"
-    },
-    {
-     "t": "h",
-     "x": "راهکار موقت بازیکنان"
-    },
-    "به دلیل بروز این مشکل، بسیاری از بازیکنان به استفاده از ادآن Myslot روی آورده‌اند. این ادآن برای ذخیره و ایمپورت رابط کاربری میان اکانت‌ها، سیستم‌های مختلف یا کاراکترهای آلت طراحی شده است، اما اکنون برای پر کردن سریع نوار توانایی‌های خالی‌شده پس از هر بار ریست به کار می‌رود."
-   ],
-   "tags_fa": [
-    "باگ",
-    "Dual Spec",
-    "ادآن",
-    "Myslot"
-   ],
-   "items": [],
-   "title_en": "Learning Dual Spec Can Trigger Empty Action Bars When Logging Out in WoW: Forever",
-   "source_url": "https://www.wowhead.com/news=383862",
-   "page_url": "https://pvwvuow.github.io/wowheadFA/article/383862-learning-dual-spec-can-trigger-empty-action-bars-when-logging-out-in-w.html",
-   "published_at": "2026-11-12T22:45:42Z",
-   "model": "gemini-flash-latest",
-   "via": "auto-gemini",
-   "reviewer": "",
-   "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383862/1.jpg",
-   "images": [
-    {
-     "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383862/1.jpg",
-     "cap": ""
-    }
-   ]
   }
  ],
  "queue": [
@@ -3603,13 +3609,6 @@
    "url": "https://www.wowhead.com/news=383978",
    "category": "Live",
    "published_at": "2026-11-24T19:55:46Z"
-  },
-  {
-   "id": 383980,
-   "title_en": "Watch \"Al'Aketh Rising\" - New Motion Comic for WoW: Forever",
-   "url": "https://www.wowhead.com/news=383980",
-   "category": "Forever",
-   "published_at": "2026-11-24T18:06:43Z"
   },
   {
    "id": 383977,
@@ -3785,6 +3784,13 @@
    "url": "https://www.wowhead.com/news=383720",
    "category": "Forever",
    "published_at": "2026-11-03T20:22:18Z"
+  },
+  {
+   "id": 383713,
+   "title_en": "D&D: World of Warcraft Early Access Grants Pet, Mount, Decor, and Toy",
+   "url": "https://www.wowhead.com/news=383713",
+   "category": "WoW",
+   "published_at": "2026-11-03T18:56:09Z"
   }
  ]
 }

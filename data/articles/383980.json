@@ -112,12 +112,47 @@
   ],
   "chars": 882
  },
- "status": "new",
+ "status": "published",
  "images": [
   {
    "src": "https://pvwvuow.github.io/wowheadFA/assets/news/383980/1.jpg",
    "cap": ""
   }
  ],
- "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383980/1.jpg"
+ "thumb": "https://pvwvuow.github.io/wowheadFA/assets/news/383980/1.jpg",
+ "article_fa": {
+  "title_fa": "انتشار موشن کامیک Al'Aketh Rising برای WoW: Forever",
+  "lead_fa": "بلیزارد موشن کامیک تازه‌ای با نام Al'Aketh Rising برای WoW: Forever منتشر کرد که ماجرای پاسبانی محلی در جزیرهٔ Zephras Isle را روایت می‌کند.",
+  "body_fa": [
+   "شرکت Blizzard موشن کامیک جدیدی را تحت عنوان Al'Aketh Rising برای WoW: Forever منتشر کرده است. این اثر داستانی ماجراهای یکی از مأموران محلی بنام Constable Aonda از گروه Skyborne را در Zephras Isle پیگیری می‌کند.",
+   {
+    "t": "h",
+    "x": "خلاصهٔ داستان Al'Aketh Rising"
+   },
+   "در این داستان، Constable Aonda راهی یک سکونتگاه دورافتاده می‌شود؛ مکانی که ظاهراً تحت نظارت و کنترلی شدید اداره می‌شود. در این میان، زندانیان تحت مراقبت شدید جابه‌جا می‌شوند، غریبه‌ها با باوری دلهره‌آور لبخند می‌زنند و سکوتی ناخوشایند تهدیدی فزاینده را پنهان می‌کند.",
+   "او برای نزدیک‌تر شدن به حقیقت همراهی نشان می‌دهد، اما خیلی زود در میان اهداف پنهان و تعصبی افراطی گرفتار می‌شود؛ جایی که در سرزمینی زیر سلطهٔ بادها، ایمان کورکورانه می‌تواند به یک طوفان بدل شود.",
+   {
+    "t": "h",
+    "x": "اطلاعات و دست‌اندرکاران"
+   },
+   {
+    "t": "ul",
+    "xs": [
+     "راوی: Sam Slade در نقش Constable Aonda",
+     "حروف‌چینی و طراحی متن: AndWorld Design",
+     "قالب دسترسی: نسخهٔ قابل دانلود به‌صورت PDF"
+    ]
+   }
+  ],
+  "tags_fa": [
+   "کمیک",
+   "Forever",
+   "Blizzard"
+  ]
+ },
+ "generator": {
+  "model": "gemini-flash-latest",
+  "via": "auto-gemini",
+  "written_at": "2026-11-28T17:46:04Z"
+ }
 }
